@@ -1,0 +1,33 @@
+{
+  "id": 24060841,
+  "first_name": "Filip",
+  "last_name": "Hlevnjak",
+  "birth_date": "2000-08-05",
+  "country_id": 761,
+  "club_id": 106749,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 88,
+  "value": 38000,
+  "contract": {
+    "salary": 44928,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129885,
+    "expiration": "2026-06-20",
+    "salary": 44928,
+    "wage_contribution_pct": 100
+  }
+}

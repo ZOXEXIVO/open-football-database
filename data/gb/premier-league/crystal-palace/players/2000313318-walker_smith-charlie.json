@@ -1,0 +1,27 @@
+{
+  "id": 2000313318,
+  "first_name": "Charlie",
+  "last_name": "Walker-Smith",
+  "birth_date": "2007-09-19",
+  "country_id": 801,
+  "club_id": 642,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 125,
+  "value": 81000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

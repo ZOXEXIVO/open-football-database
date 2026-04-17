@@ -1,0 +1,35 @@
+{
+  "id": 20042281,
+  "first_name": "Raheem",
+  "last_name": "Edwards",
+  "birth_date": "1995-07-17",
+  "country_id": 364,
+  "club_id": 72000789,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 93,
+  "value": 886000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

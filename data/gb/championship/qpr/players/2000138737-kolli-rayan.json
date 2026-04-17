@@ -1,0 +1,31 @@
+{
+  "id": 2000138737,
+  "first_name": "Rayan",
+  "last_name": "Kolli",
+  "birth_date": "2005-02-10",
+  "country_id": 5,
+  "club_id": 701,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 94,
+  "value": 1000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

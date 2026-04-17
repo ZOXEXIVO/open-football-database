@@ -1,0 +1,23 @@
+{
+  "id": 2000214345,
+  "first_name": "Mateo",
+  "last_name": "Stefan",
+  "birth_date": "2005-03-26",
+  "country_id": 1657,
+  "club_id": 1921,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 101,
+  "value": 9000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

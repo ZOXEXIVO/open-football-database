@@ -1,0 +1,27 @@
+{
+  "id": 2000299994,
+  "first_name": "Jaden",
+  "last_name": "Dixon",
+  "birth_date": "2007-05-07",
+  "country_id": 765,
+  "club_id": 602,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 112,
+  "potential_ability": 157,
+  "value": 181000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

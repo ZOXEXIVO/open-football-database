@@ -1,0 +1,33 @@
+{
+  "id": 37046963,
+  "first_name": "Juninho",
+  "last_name": "Bacuna",
+  "birth_date": "1997-08-07",
+  "country_id": 380,
+  "club_id": 130341,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 99,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1011,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

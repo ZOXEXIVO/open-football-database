@@ -1,0 +1,29 @@
+{
+  "id": 2000521671,
+  "first_name": "Mauro",
+  "last_name": "Marichal",
+  "birth_date": "2007-11-08",
+  "country_id": 1657,
+  "club_id": 130849,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 86,
+  "value": 61000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5603779,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

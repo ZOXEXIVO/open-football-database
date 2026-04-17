@@ -1,0 +1,31 @@
+{
+  "id": 2000300037,
+  "first_name": "Zaid",
+  "last_name": "Betteka",
+  "birth_date": "2007-02-07",
+  "country_id": 765,
+  "club_id": 609,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 132,
+  "value": 596000,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

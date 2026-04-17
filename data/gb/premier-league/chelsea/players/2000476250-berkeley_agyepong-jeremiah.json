@@ -1,0 +1,31 @@
+{
+  "id": 2000476250,
+  "first_name": "Jeremiah",
+  "last_name": "Berkeley-Agyepong",
+  "birth_date": "2009-07-27",
+  "country_id": 765,
+  "club_id": 630,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 150,
+  "value": 557000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

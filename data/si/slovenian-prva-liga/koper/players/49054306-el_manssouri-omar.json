@@ -1,0 +1,33 @@
+{
+  "id": 49054306,
+  "first_name": "Omar",
+  "last_name": "El Manssouri",
+  "birth_date": "2001-07-26",
+  "country_id": 769,
+  "club_id": 1632,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 85,
+  "value": 268000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7920492,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

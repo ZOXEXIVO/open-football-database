@@ -1,0 +1,31 @@
+{
+  "id": 2000485114,
+  "first_name": "Vadym",
+  "last_name": "Mysko",
+  "birth_date": "2008-11-11",
+  "country_id": 800,
+  "club_id": 71017165,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 98,
+  "value": 97000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

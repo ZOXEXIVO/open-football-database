@@ -1,0 +1,27 @@
+{
+  "id": 2000053020,
+  "first_name": "Régis",
+  "last_name": "N'do",
+  "birth_date": "2001-05-22",
+  "country_id": 9,
+  "club_id": 1087,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 85,
+  "value": 193000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

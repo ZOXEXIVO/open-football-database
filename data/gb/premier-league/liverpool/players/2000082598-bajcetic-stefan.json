@@ -1,0 +1,27 @@
+{
+  "id": 2000082598,
+  "first_name": "Stefan",
+  "last_name": "Bajčetić",
+  "birth_date": "2004-10-22",
+  "country_id": 796,
+  "club_id": 676,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 133,
+  "potential_ability": 163,
+  "value": 22000000,
+  "contract": {
+    "salary": 676000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000111773,
+  "first_name": "Kingsley",
+  "last_name": "Braye",
+  "birth_date": "2000-12-22",
+  "country_id": 21,
+  "club_id": 13111492,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 72,
+  "value": 12000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

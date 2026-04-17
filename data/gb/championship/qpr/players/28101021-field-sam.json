@@ -1,0 +1,29 @@
+{
+  "id": 28101021,
+  "first_name": "Sam",
+  "last_name": "Field",
+  "birth_date": "1998-05-08",
+  "country_id": 765,
+  "club_id": 701,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 107,
+  "value": 3000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 691,
+    "expiration": "2026-05-31",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  }
+}

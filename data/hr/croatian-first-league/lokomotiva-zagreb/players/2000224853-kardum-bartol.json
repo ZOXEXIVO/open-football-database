@@ -1,0 +1,33 @@
+{
+  "id": 2000224853,
+  "first_name": "Bartol",
+  "last_name": "Kardum",
+  "birth_date": "2006-07-18",
+  "country_id": 761,
+  "club_id": 129859,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 108,
+  "value": 411000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 24014012,
+    "expiration": "2026-06-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

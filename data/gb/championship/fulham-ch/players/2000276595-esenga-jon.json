@@ -1,0 +1,27 @@
+{
+  "id": 2000276595,
+  "first_name": "Jon",
+  "last_name": "Esenga",
+  "birth_date": "2007-02-09",
+  "country_id": 765,
+  "club_id": 654,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 138,
+  "value": 2000000,
+  "contract": {
+    "salary": 36400,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

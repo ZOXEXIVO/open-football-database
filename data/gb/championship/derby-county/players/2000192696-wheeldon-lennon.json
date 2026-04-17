@@ -1,0 +1,41 @@
+{
+  "id": 2000192696,
+  "first_name": "Lennon",
+  "last_name": "Wheeldon",
+  "birth_date": "2006-02-16",
+  "country_id": 765,
+  "club_id": 645,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 114,
+  "value": 164000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 8325012,
+    "expiration": "2026-05-31",
+    "salary": 26000,
+    "wage_contribution_pct": 100
+  }
+}

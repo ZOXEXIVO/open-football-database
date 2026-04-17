@@ -1,0 +1,45 @@
+{
+  "id": 2000205929,
+  "first_name": "Menzi",
+  "last_name": "Mazwi",
+  "birth_date": "2006-04-18",
+  "country_id": 55,
+  "club_id": 609,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 99,
+  "value": 66000,
+  "contract": {
+    "salary": 36400,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1590,
+    "expiration": "2026-05-31",
+    "salary": 36400,
+    "wage_contribution_pct": 100
+  }
+}

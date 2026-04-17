@@ -1,0 +1,27 @@
+{
+  "id": 2000519676,
+  "first_name": "Thor",
+  "last_name": "Cederholm",
+  "birth_date": "2009-04-13",
+  "country_id": 797,
+  "club_id": 1798,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 107,
+  "value": 42000,
+  "contract": {
+    "salary": 364,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

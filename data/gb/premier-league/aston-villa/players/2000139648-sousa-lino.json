@@ -1,0 +1,37 @@
+{
+  "id": 2000139648,
+  "first_name": "Lino",
+  "last_name": "Sousa",
+  "birth_date": "2005-01-19",
+  "country_id": 765,
+  "club_id": 603,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 141,
+  "value": 391000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 704,
+    "expiration": "2026-05-31",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  }
+}

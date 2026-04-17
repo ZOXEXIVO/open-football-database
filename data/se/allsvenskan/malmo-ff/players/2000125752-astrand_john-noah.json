@@ -1,0 +1,27 @@
+{
+  "id": 2000125752,
+  "first_name": "Noah",
+  "last_name": "Åstrand John",
+  "birth_date": "2003-12-13",
+  "country_id": 797,
+  "club_id": 1816,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 121,
+  "value": 343000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

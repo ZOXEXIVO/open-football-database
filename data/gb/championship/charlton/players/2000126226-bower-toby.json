@@ -1,0 +1,29 @@
+{
+  "id": 2000126226,
+  "first_name": "Toby",
+  "last_name": "Bower",
+  "birth_date": "2005-04-17",
+  "country_id": 765,
+  "club_id": 628,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 77,
+  "value": 36000,
+  "contract": {
+    "salary": 23400,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 30015287,
+    "expiration": "2026-05-30",
+    "salary": 23400,
+    "wage_contribution_pct": 100
+  }
+}

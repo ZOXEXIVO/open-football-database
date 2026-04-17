@@ -1,0 +1,37 @@
+{
+  "id": 93087490,
+  "first_name": "Viktor",
+  "last_name": "Bergh",
+  "birth_date": "1999-07-26",
+  "country_id": 797,
+  "club_id": 1787,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 104,
+  "value": 433000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 928,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

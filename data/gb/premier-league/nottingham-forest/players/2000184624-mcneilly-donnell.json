@@ -1,0 +1,35 @@
+{
+  "id": 2000184624,
+  "first_name": "Donnell",
+  "last_name": "McNeilly",
+  "birth_date": "2005-10-30",
+  "country_id": 765,
+  "club_id": 692,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 127,
+  "value": 6000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

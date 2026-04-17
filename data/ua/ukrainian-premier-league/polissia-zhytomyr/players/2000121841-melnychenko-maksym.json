@@ -1,0 +1,27 @@
+{
+  "id": 2000121841,
+  "first_name": "Maksym",
+  "last_name": "Melnychenko",
+  "birth_date": "2005-02-12",
+  "country_id": 800,
+  "club_id": 71100094,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 99,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

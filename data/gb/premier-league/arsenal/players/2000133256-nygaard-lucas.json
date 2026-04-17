@@ -1,0 +1,29 @@
+{
+  "id": 2000133256,
+  "first_name": "Lucas",
+  "last_name": "Nygaard",
+  "birth_date": "2006-06-26",
+  "country_id": 764,
+  "club_id": 602,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 114,
+  "value": 46000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 930105,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

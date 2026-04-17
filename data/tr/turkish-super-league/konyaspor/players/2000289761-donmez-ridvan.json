@@ -1,0 +1,29 @@
+{
+  "id": 2000289761,
+  "first_name": "Rıdvan",
+  "last_name": "Dönmez",
+  "birth_date": "2003-02-18",
+  "country_id": 799,
+  "club_id": 130344,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 112,
+  "value": 9000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 70054564,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

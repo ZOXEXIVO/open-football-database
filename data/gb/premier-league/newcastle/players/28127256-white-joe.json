@@ -1,0 +1,33 @@
+{
+  "id": 28127256,
+  "first_name": "Joe",
+  "last_name": "White",
+  "birth_date": "2002-10-01",
+  "country_id": 765,
+  "club_id": 688,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 133,
+  "value": 50000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 616,
+    "expiration": "2026-05-31",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

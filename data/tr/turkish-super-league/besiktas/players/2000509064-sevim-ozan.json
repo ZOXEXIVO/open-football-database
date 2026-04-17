@@ -1,0 +1,27 @@
+{
+  "id": 2000509064,
+  "first_name": "Ozan",
+  "last_name": "Sevim",
+  "birth_date": "2007-01-24",
+  "country_id": 799,
+  "club_id": 1866,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 118,
+  "value": 42000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

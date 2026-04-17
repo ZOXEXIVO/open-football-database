@@ -1,0 +1,33 @@
+{
+  "id": 2000212777,
+  "first_name": "Ognjen",
+  "last_name": "Mimović",
+  "birth_date": "2004-08-17",
+  "country_id": 802,
+  "club_id": 1870,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 124,
+  "value": 6000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 26031118,
+    "expiration": "2026-05-31",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  }
+}

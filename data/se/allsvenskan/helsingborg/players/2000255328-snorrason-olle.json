@@ -1,0 +1,31 @@
+{
+  "id": 2000255328,
+  "first_name": "Olle",
+  "last_name": "Snorrason",
+  "birth_date": "2007-01-17",
+  "country_id": 797,
+  "club_id": 1798,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 92,
+  "value": 5000,
+  "contract": {
+    "salary": 364,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

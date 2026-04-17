@@ -1,0 +1,29 @@
+{
+  "id": 2000028794,
+  "first_name": "Martin",
+  "last_name": "Dala",
+  "birth_date": "2004-04-26",
+  "country_id": 773,
+  "club_id": 38032696,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 96,
+  "value": 229000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130823,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

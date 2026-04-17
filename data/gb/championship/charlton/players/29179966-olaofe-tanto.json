@@ -1,0 +1,37 @@
+{
+  "id": 29179966,
+  "first_name": "Tanto",
+  "last_name": "Olaofe",
+  "birth_date": "1999-11-21",
+  "country_id": 765,
+  "club_id": 628,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 99,
+  "value": 1000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 720,
+    "expiration": "2026-05-31",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  }
+}

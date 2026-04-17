@@ -1,0 +1,29 @@
+{
+  "id": 2000100850,
+  "first_name": "Kerwin",
+  "last_name": "Peters",
+  "birth_date": "2000-09-02",
+  "country_id": 45,
+  "club_id": 65010424,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 86,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 65028800,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

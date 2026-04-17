@@ -1,0 +1,33 @@
+{
+  "id": 2000495108,
+  "first_name": "Solomon",
+  "last_name": "Kwaku Sah",
+  "birth_date": "2007-08-28",
+  "country_id": 21,
+  "club_id": 801910,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 85,
+  "value": 12000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5340892,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

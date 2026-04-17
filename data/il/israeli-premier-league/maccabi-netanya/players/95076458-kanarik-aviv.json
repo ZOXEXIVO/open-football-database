@@ -1,0 +1,33 @@
+{
+  "id": 95076458,
+  "first_name": "Aviv",
+  "last_name": "Kanarik",
+  "birth_date": "2003-04-16",
+  "country_id": 775,
+  "club_id": 1095,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 95,
+  "value": 7000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2025-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7861698,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

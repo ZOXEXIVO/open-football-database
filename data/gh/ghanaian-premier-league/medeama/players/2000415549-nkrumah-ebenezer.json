@@ -1,0 +1,31 @@
+{
+  "id": 2000415549,
+  "first_name": "Ebenezer",
+  "last_name": "Nkrumah",
+  "birth_date": "2003-09-24",
+  "country_id": 21,
+  "club_id": 13111492,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 78,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

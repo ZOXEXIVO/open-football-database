@@ -1,0 +1,23 @@
+{
+  "id": 2000300035,
+  "first_name": "Billy",
+  "last_name": "Burrell",
+  "birth_date": "2007-01-20",
+  "country_id": 789,
+  "club_id": 609,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 116,
+  "value": 176000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000213983,
+  "first_name": "Leo",
+  "last_name": "Rimac",
+  "birth_date": "2006-03-14",
+  "country_id": 795,
+  "club_id": 1632,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 106,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

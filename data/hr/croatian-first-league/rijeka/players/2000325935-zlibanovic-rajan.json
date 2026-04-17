@@ -1,0 +1,33 @@
+{
+  "id": 2000325935,
+  "first_name": "Rajan",
+  "last_name": "Žlibanović",
+  "birth_date": "2006-12-07",
+  "country_id": 761,
+  "club_id": 441,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 117,
+  "value": 164000,
+  "contract": {
+    "salary": 27872,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129847,
+    "expiration": "2026-06-01",
+    "salary": 27872,
+    "wage_contribution_pct": 100
+  }
+}

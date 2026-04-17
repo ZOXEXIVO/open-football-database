@@ -1,0 +1,33 @@
+{
+  "id": 2000509426,
+  "first_name": "Yassin",
+  "last_name": "Mohammed",
+  "birth_date": "2007-04-25",
+  "country_id": 21,
+  "club_id": 1816,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 128,
+  "value": 108000,
+  "contract": {
+    "salary": 988,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2518,
+    "expiration": "2026-11-30",
+    "salary": 988,
+    "wage_contribution_pct": 100
+  }
+}

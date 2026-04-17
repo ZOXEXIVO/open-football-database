@@ -1,0 +1,29 @@
+{
+  "id": 2000208013,
+  "first_name": "Yiğit",
+  "last_name": "Fidan",
+  "birth_date": "2005-05-11",
+  "country_id": 799,
+  "club_id": 1870,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 143,
+  "value": 75000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130362,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

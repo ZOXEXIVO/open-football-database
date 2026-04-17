@@ -1,0 +1,29 @@
+{
+  "id": 2000050392,
+  "first_name": "Vladislav",
+  "last_name": "Shitov",
+  "birth_date": "2003-05-07",
+  "country_id": 791,
+  "club_id": 1523,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 106,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130498,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

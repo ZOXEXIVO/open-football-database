@@ -1,0 +1,29 @@
+{
+  "id": 71109701,
+  "first_name": "Tymur",
+  "last_name": "Puzankov",
+  "birth_date": "2003-03-04",
+  "country_id": 800,
+  "club_id": 1895,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 131,
+  "value": 2000000,
+  "contract": {
+    "salary": 44928,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71063212,
+    "expiration": "2026-06-15",
+    "salary": 44928,
+    "wage_contribution_pct": 100
+  }
+}

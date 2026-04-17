@@ -1,0 +1,28 @@
+{
+  "id": 2000489925,
+  "first_name": "Kagiso",
+  "last_name": "Mnguni",
+  "birth_date": "2004-07-18",
+  "country_id": 45,
+  "club_id": 1645,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 105,
+  "value": 32000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 2000479987,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

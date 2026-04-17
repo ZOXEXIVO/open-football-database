@@ -1,0 +1,29 @@
+{
+  "id": 2000248874,
+  "first_name": "Mohammad",
+  "last_name": "Khanafi",
+  "birth_date": "1997-11-30",
+  "country_id": 113,
+  "club_id": 5622879,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 60,
+  "value": 26000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 41021352,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

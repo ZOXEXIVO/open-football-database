@@ -1,0 +1,27 @@
+{
+  "id": 2000288695,
+  "first_name": "Joel",
+  "last_name": "Catesby",
+  "birth_date": "2007-05-25",
+  "country_id": 765,
+  "club_id": 650,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 114,
+  "value": 41000,
+  "contract": {
+    "salary": 37440,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

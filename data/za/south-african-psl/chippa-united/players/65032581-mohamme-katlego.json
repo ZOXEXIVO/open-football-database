@@ -1,0 +1,29 @@
+{
+  "id": 65032581,
+  "first_name": "Katlego",
+  "last_name": "Mohamme",
+  "birth_date": "1998-03-10",
+  "country_id": 45,
+  "club_id": 2000034502,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 88,
+  "value": 30000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 65010424,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

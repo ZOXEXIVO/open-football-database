@@ -1,0 +1,23 @@
+{
+  "id": 2000417806,
+  "first_name": "Malo",
+  "last_name": "Bartolomeu",
+  "birth_date": "2008-06-25",
+  "country_id": 769,
+  "club_id": 1992,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 111,
+  "value": 135000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

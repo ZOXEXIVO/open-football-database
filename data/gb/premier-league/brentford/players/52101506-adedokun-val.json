@@ -1,0 +1,31 @@
+{
+  "id": 52101506,
+  "first_name": "Val",
+  "last_name": "Adedokun",
+  "birth_date": "2003-02-14",
+  "country_id": 789,
+  "club_id": 617,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 123,
+  "value": 38000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

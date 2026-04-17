@@ -1,0 +1,29 @@
+{
+  "id": 2000129156,
+  "first_name": "Deniz",
+  "last_name": "Dilmen",
+  "birth_date": "2005-06-05",
+  "country_id": 799,
+  "club_id": 130343,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 123,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130362,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

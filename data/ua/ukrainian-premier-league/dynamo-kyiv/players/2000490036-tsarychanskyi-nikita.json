@@ -1,0 +1,27 @@
+{
+  "id": 2000490036,
+  "first_name": "Nikita",
+  "last_name": "Tsarychanskyi",
+  "birth_date": "2009-04-22",
+  "country_id": 800,
+  "club_id": 1885,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 136,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 71112273,
+  "first_name": "Maksym",
+  "last_name": "Braharu",
+  "birth_date": "2002-07-21",
+  "country_id": 800,
+  "club_id": 1885,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 117,
+  "value": 4000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71100094,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000224939,
+  "first_name": "Joe",
+  "last_name": "Barough",
+  "birth_date": "2006-04-03",
+  "country_id": 765,
+  "club_id": 702,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 98,
+  "value": 22000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

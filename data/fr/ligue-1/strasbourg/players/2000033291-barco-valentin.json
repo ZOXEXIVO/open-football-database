@@ -1,0 +1,39 @@
+{
+  "id": 2000033291,
+  "first_name": "Valentín",
+  "last_name": "Barco",
+  "birth_date": "2004-07-23",
+  "country_id": 1649,
+  "club_id": 872,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 138,
+  "value": 57000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

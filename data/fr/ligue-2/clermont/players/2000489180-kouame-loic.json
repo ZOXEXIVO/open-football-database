@@ -1,0 +1,27 @@
+{
+  "id": 2000489180,
+  "first_name": "Loïc",
+  "last_name": "Kouamé",
+  "birth_date": "2007-06-07",
+  "country_id": 769,
+  "club_id": 1992,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 96,
+  "value": 143000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

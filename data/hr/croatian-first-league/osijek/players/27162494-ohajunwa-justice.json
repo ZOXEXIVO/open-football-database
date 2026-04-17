@@ -1,0 +1,29 @@
+{
+  "id": 27162494,
+  "first_name": "Justice",
+  "last_name": "Ohajunwa",
+  "birth_date": "2001-06-16",
+  "country_id": 38,
+  "club_id": 440,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 101,
+  "value": 141000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 59007641,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

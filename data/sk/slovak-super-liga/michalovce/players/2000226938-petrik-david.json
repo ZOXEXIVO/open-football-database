@@ -1,0 +1,41 @@
+{
+  "id": 2000226938,
+  "first_name": "Dávid",
+  "last_name": "Petrík",
+  "birth_date": "2005-06-14",
+  "country_id": 794,
+  "club_id": 7563783,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 98,
+  "value": 110000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000128726,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

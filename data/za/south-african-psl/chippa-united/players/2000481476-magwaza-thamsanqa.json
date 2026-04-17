@@ -1,0 +1,33 @@
+{
+  "id": 2000481476,
+  "first_name": "Thamsanqa",
+  "last_name": "Magwaza",
+  "birth_date": "2004-03-09",
+  "country_id": 45,
+  "club_id": 2000034502,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 121,
+  "value": 29000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 65010424,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

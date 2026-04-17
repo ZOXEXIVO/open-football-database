@@ -1,0 +1,29 @@
+{
+  "id": 2000056927,
+  "first_name": "Adam",
+  "last_name": "Griger",
+  "birth_date": "2004-03-16",
+  "country_id": 794,
+  "club_id": 472,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 106,
+  "value": 496000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1622,
+    "expiration": "2026-12-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

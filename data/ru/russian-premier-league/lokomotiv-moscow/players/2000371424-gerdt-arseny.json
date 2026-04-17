@@ -1,0 +1,29 @@
+{
+  "id": 2000371424,
+  "first_name": "Arseny",
+  "last_name": "Gerdt",
+  "birth_date": "2006-02-16",
+  "country_id": 791,
+  "club_id": 1525,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 124,
+  "value": 72000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 58117053,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

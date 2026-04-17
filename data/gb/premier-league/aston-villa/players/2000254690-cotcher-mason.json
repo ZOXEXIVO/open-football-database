@@ -1,0 +1,31 @@
+{
+  "id": 2000254690,
+  "first_name": "Mason",
+  "last_name": "Cotcher",
+  "birth_date": "2006-09-04",
+  "country_id": 765,
+  "club_id": 603,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 133,
+  "value": 134000,
+  "contract": {
+    "salary": 46800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

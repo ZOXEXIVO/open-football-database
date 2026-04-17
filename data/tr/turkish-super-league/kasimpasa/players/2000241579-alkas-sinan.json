@@ -1,0 +1,29 @@
+{
+  "id": 2000241579,
+  "first_name": "Sinan",
+  "last_name": "Alkaş",
+  "birth_date": "2006-11-07",
+  "country_id": 799,
+  "club_id": 130360,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 135,
+  "value": 32000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 70081535,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

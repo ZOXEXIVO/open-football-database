@@ -1,0 +1,29 @@
+{
+  "id": 24039943,
+  "first_name": "Ivo",
+  "last_name": "Grbić",
+  "birth_date": "1996-01-18",
+  "country_id": 761,
+  "club_id": 708,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 122,
+  "value": 7000000,
+  "contract": {
+    "salary": 2080000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 458631,
+    "expiration": "2026-06-30",
+    "salary": 2080000,
+    "wage_contribution_pct": 100
+  }
+}

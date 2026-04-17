@@ -1,0 +1,34 @@
+{
+  "id": 2000525532,
+  "first_name": "Talha",
+  "last_name": "Özdemir",
+  "birth_date": "2007-01-06",
+  "country_id": 799,
+  "club_id": 453567,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 110,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

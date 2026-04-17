@@ -1,0 +1,27 @@
+{
+  "id": 2000502685,
+  "first_name": "Erik",
+  "last_name": "Vuk",
+  "birth_date": "2008-10-07",
+  "country_id": 761,
+  "club_id": 447,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 91,
+  "value": 28000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

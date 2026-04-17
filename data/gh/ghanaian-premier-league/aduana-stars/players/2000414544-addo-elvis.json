@@ -1,0 +1,31 @@
+{
+  "id": 2000414544,
+  "first_name": "Elvis",
+  "last_name": "Addo",
+  "birth_date": "2004-04-28",
+  "country_id": 21,
+  "club_id": 13106397,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 84,
+  "value": 18000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

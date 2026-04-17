@@ -1,0 +1,31 @@
+{
+  "id": 2000015567,
+  "first_name": "Alain",
+  "last_name": "Ipiélé",
+  "birth_date": "1997-08-20",
+  "country_id": 49,
+  "club_id": 888,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 91,
+  "value": 106000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

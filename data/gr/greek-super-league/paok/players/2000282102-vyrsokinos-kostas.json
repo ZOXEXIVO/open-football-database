@@ -1,0 +1,27 @@
+{
+  "id": 2000282102,
+  "first_name": "Kostas",
+  "last_name": "Vyrsokinos",
+  "birth_date": "2007-02-10",
+  "country_id": 772,
+  "club_id": 982,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 119,
+  "value": 7000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

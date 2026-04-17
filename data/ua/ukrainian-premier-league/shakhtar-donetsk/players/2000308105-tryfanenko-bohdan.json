@@ -1,0 +1,27 @@
+{
+  "id": 2000308105,
+  "first_name": "Bohdan",
+  "last_name": "Tryfanenko",
+  "birth_date": "2006-08-07",
+  "country_id": 800,
+  "club_id": 1895,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 118,
+  "value": 68000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

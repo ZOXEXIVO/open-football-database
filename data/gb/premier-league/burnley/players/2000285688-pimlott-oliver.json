@@ -1,0 +1,27 @@
+{
+  "id": 2000285688,
+  "first_name": "Oliver",
+  "last_name": "Pimlott",
+  "birth_date": "2007-04-07",
+  "country_id": 765,
+  "club_id": 622,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 101,
+  "value": 82000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

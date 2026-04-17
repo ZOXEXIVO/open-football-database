@@ -1,0 +1,33 @@
+{
+  "id": 25049117,
+  "first_name": "Jurij",
+  "last_name": "Medveděv",
+  "birth_date": "1996-06-18",
+  "country_id": 763,
+  "club_id": 1622,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 98,
+  "value": 86000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1624,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

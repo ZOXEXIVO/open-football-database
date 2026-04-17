@@ -1,0 +1,27 @@
+{
+  "id": 2000153579,
+  "first_name": "Shola",
+  "last_name": "Ogundana",
+  "birth_date": "2005-02-22",
+  "country_id": 38,
+  "club_id": 1885,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 119,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

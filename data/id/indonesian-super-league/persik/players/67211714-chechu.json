@@ -1,0 +1,33 @@
+{
+  "id": 67211714,
+  "first_name": "Chechu",
+  "last_name": "",
+  "birth_date": "1995-01-04",
+  "country_id": 796,
+  "club_id": 2000273329,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 66,
+  "value": 28000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5622879,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

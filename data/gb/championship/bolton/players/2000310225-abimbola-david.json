@@ -1,0 +1,29 @@
+{
+  "id": 2000310225,
+  "first_name": "David",
+  "last_name": "Abimbola",
+  "birth_date": "2007-05-19",
+  "country_id": 765,
+  "club_id": 614,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 111,
+  "value": 231000,
+  "contract": {
+    "salary": 44200,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 109210,
+    "expiration": "2026-05-31",
+    "salary": 44200,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000375173,
+  "first_name": "Tyler",
+  "last_name": "Silsby",
+  "birth_date": "2008-05-03",
+  "country_id": 765,
+  "club_id": 618,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 159,
+  "value": 3000000,
+  "contract": {
+    "salary": 31200,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000170011,
+  "first_name": "Ali",
+  "last_name": "Zaher",
+  "birth_date": "2006-09-21",
+  "country_id": 797,
+  "club_id": 1841,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 90,
+  "value": 7000,
+  "contract": {
+    "salary": 4004,
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

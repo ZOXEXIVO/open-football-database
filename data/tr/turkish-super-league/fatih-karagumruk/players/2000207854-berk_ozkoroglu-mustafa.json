@@ -1,0 +1,33 @@
+{
+  "id": 2000207854,
+  "first_name": "Mustafa",
+  "last_name": "Berk Özköroğlu",
+  "birth_date": "2003-06-16",
+  "country_id": 799,
+  "club_id": 458631,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 109,
+  "value": 84000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 70081334,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

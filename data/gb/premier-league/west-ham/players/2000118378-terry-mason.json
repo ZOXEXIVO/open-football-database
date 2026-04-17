@@ -1,0 +1,29 @@
+{
+  "id": 2000118378,
+  "first_name": "Mason",
+  "last_name": "Terry",
+  "birth_date": "2004-09-20",
+  "country_id": 765,
+  "club_id": 735,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 110,
+  "value": 88000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 134732,
+    "expiration": "2026-05-31",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

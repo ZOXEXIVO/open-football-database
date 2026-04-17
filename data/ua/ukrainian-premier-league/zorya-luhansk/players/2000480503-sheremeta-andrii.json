@@ -1,0 +1,35 @@
+{
+  "id": 2000480503,
+  "first_name": "Andrii",
+  "last_name": "Sheremeta",
+  "birth_date": "2006-09-09",
+  "country_id": 800,
+  "club_id": 1902,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 102,
+  "value": 32000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

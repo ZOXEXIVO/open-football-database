@@ -1,0 +1,33 @@
+{
+  "id": 2000473466,
+  "first_name": "Botond",
+  "last_name": "Bolgár",
+  "birth_date": "2007-08-30",
+  "country_id": 773,
+  "club_id": 1055,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 98,
+  "value": 55000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 38042162,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

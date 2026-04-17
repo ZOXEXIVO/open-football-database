@@ -1,0 +1,31 @@
+{
+  "id": 2000084421,
+  "first_name": "Wesley",
+  "last_name": "Pomba",
+  "birth_date": "2002-06-02",
+  "country_id": 1651,
+  "club_id": 71105155,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 88,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

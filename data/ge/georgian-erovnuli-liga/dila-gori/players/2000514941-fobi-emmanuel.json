@@ -1,0 +1,29 @@
+{
+  "id": 2000514941,
+  "first_name": "Emmanuel",
+  "last_name": "Fobi",
+  "birth_date": "2004-12-12",
+  "country_id": 21,
+  "club_id": 890,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 61,
+  "value": 83000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 59122860,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

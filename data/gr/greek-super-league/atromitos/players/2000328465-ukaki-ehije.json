@@ -1,0 +1,37 @@
+{
+  "id": 2000328465,
+  "first_name": "Ehije",
+  "last_name": "Ukaki",
+  "birth_date": "2004-10-02",
+  "country_id": 38,
+  "club_id": 708,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 106,
+  "value": 498000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129692,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

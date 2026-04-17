@@ -1,0 +1,27 @@
+{
+  "id": 5123525,
+  "first_name": "Jonny",
+  "last_name": "Howson",
+  "birth_date": "1988-05-21",
+  "country_id": 765,
+  "club_id": 671,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 130,
+  "value": 27000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000088790,
+  "first_name": "Vladislav",
+  "last_name": "Saus",
+  "birth_date": "2003-08-06",
+  "country_id": 791,
+  "club_id": 1529,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 119,
+  "value": 4000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

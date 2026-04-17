@@ -1,0 +1,33 @@
+{
+  "id": 2000016259,
+  "first_name": "Albin",
+  "last_name": "Ahlstrand",
+  "birth_date": "2004-03-10",
+  "country_id": 797,
+  "club_id": 1796,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 109,
+  "value": 193000,
+  "contract": {
+    "salary": 36244,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 68002003,
+    "expiration": "2026-11-30",
+    "salary": 36244,
+    "wage_contribution_pct": 100
+  }
+}

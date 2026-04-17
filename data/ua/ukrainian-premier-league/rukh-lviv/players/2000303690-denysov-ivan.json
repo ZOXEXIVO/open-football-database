@@ -1,0 +1,31 @@
+{
+  "id": 2000303690,
+  "first_name": "Ivan",
+  "last_name": "Denysov",
+  "birth_date": "2007-03-28",
+  "country_id": 800,
+  "club_id": 71045065,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 111,
+  "value": 760000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

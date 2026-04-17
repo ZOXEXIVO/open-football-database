@@ -1,0 +1,27 @@
+{
+  "id": 2000490006,
+  "first_name": "Rhys",
+  "last_name": "Knight",
+  "birth_date": "2007-09-21",
+  "country_id": 789,
+  "club_id": 619,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 105,
+  "value": 53000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

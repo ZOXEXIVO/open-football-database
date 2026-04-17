@@ -1,0 +1,37 @@
+{
+  "id": 2000062773,
+  "first_name": "György",
+  "last_name": "Balázs Varga",
+  "birth_date": "2003-10-23",
+  "country_id": 773,
+  "club_id": 1064,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 83,
+  "value": 190000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 38013493,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 49039039,
+  "first_name": "Andy",
+  "last_name": "Pelmard",
+  "birth_date": "2000-03-12",
+  "country_id": 29,
+  "club_id": 1992,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 96,
+  "value": 642000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 710052,
+    "expiration": "2026-05-31",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

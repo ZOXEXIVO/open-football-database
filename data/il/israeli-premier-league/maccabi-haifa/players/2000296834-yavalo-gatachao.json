@@ -1,0 +1,33 @@
+{
+  "id": 2000296834,
+  "first_name": "Gatachao",
+  "last_name": "Yavalo",
+  "birth_date": "2005-01-18",
+  "country_id": 775,
+  "club_id": 1093,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 103,
+  "value": 352000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300665,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

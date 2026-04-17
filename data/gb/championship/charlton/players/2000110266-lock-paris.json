@@ -1,0 +1,31 @@
+{
+  "id": 2000110266,
+  "first_name": "Paris",
+  "last_name": "Lock",
+  "birth_date": "2004-10-18",
+  "country_id": 765,
+  "club_id": 628,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 85,
+  "value": 30000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

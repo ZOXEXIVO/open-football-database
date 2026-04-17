@@ -1,0 +1,27 @@
+{
+  "id": 2000184611,
+  "first_name": "Josh",
+  "last_name": "Acheampong",
+  "birth_date": "2006-05-05",
+  "country_id": 765,
+  "club_id": 630,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 131,
+  "potential_ability": 152,
+  "value": 39000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

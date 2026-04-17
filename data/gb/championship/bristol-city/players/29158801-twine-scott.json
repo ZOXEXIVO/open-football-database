@@ -1,0 +1,31 @@
+{
+  "id": 29158801,
+  "first_name": "Scott",
+  "last_name": "Twine",
+  "birth_date": "1999-07-14",
+  "country_id": 765,
+  "club_id": 619,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 119,
+  "value": 5000000,
+  "contract": {
+    "salary": 936000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

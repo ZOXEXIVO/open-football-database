@@ -1,0 +1,33 @@
+{
+  "id": 2000246596,
+  "first_name": "Omer",
+  "last_name": "Dahan",
+  "birth_date": "2005-05-26",
+  "country_id": 775,
+  "club_id": 1093,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 100,
+  "value": 411000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7860424,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

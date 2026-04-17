@@ -1,0 +1,33 @@
+{
+  "id": 2000372770,
+  "first_name": "Wisdom",
+  "last_name": "Sule",
+  "birth_date": "2003-12-21",
+  "country_id": 38,
+  "club_id": 1632,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 91,
+  "value": 435000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 24013516,
+    "expiration": "2027-01-16",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

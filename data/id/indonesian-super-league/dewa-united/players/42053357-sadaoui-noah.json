@@ -1,0 +1,41 @@
+{
+  "id": 42053357,
+  "first_name": "Noah",
+  "last_name": "Sadaoui",
+  "birth_date": "1992-09-14",
+  "country_id": 34,
+  "club_id": 40026579,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 82,
+  "value": 161000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2022-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000090667,
+    "expiration": "2026-07-01",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

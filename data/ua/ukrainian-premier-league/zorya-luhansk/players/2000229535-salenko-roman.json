@@ -1,0 +1,29 @@
+{
+  "id": 2000229535,
+  "first_name": "Roman",
+  "last_name": "Salenko",
+  "birth_date": "2005-05-18",
+  "country_id": 800,
+  "club_id": 1885,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 122,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1902,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

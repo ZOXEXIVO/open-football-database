@@ -1,0 +1,29 @@
+{
+  "id": 63012684,
+  "first_name": "Branislav",
+  "last_name": "Niňaj",
+  "birth_date": "1994-05-17",
+  "country_id": 794,
+  "club_id": 7560016,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 80,
+  "value": 336000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2024-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 63025380,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 41048790,
+  "first_name": "Leo",
+  "last_name": "Guntara",
+  "birth_date": "1994-08-17",
+  "country_id": 113,
+  "club_id": 41021352,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 62,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5622736,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

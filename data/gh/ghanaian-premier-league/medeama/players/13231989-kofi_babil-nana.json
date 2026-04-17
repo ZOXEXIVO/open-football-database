@@ -1,0 +1,31 @@
+{
+  "id": 13231989,
+  "first_name": "Nana",
+  "last_name": "Kofi Babil",
+  "birth_date": "2002-01-04",
+  "country_id": 21,
+  "club_id": 13111492,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 76,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2032-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

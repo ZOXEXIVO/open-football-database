@@ -1,0 +1,27 @@
+{
+  "id": 2000475255,
+  "first_name": "Ivan",
+  "last_name": "Marković",
+  "birth_date": "2008-03-10",
+  "country_id": 761,
+  "club_id": 430,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 85,
+  "value": 26000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

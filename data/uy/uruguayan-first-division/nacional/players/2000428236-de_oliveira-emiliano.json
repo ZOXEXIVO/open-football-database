@@ -1,0 +1,23 @@
+{
+  "id": 2000428236,
+  "first_name": "Emiliano",
+  "last_name": "de Oliveira",
+  "birth_date": "2008-01-02",
+  "country_id": 1657,
+  "club_id": 1921,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 125,
+  "value": 63000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

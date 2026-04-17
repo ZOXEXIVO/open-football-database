@@ -1,0 +1,31 @@
+{
+  "id": 64003800,
+  "first_name": "Nik",
+  "last_name": "Omladič",
+  "birth_date": "1989-08-21",
+  "country_id": 795,
+  "club_id": 1632,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 96,
+  "value": 22000,
+  "contract": {
+    "salary": 44928,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

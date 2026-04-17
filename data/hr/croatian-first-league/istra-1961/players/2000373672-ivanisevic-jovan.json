@@ -1,0 +1,29 @@
+{
+  "id": 2000373672,
+  "first_name": "Jovan",
+  "last_name": "Ivanišević",
+  "birth_date": "2005-01-19",
+  "country_id": 364,
+  "club_id": 662735,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 101,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300153,
+    "expiration": "2027-01-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

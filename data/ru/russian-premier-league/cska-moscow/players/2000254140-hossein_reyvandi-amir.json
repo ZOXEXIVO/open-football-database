@@ -1,0 +1,33 @@
+{
+  "id": 2000254140,
+  "first_name": "Amir",
+  "last_name": "Hossein Reyvandi",
+  "birth_date": "2004-03-08",
+  "country_id": 114,
+  "club_id": 1518,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 124,
+  "value": 59000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 24059190,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

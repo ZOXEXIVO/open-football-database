@@ -1,0 +1,39 @@
+{
+  "id": 2000225033,
+  "first_name": "Bradley",
+  "last_name": "de Jesus",
+  "birth_date": "2006-01-14",
+  "country_id": 788,
+  "club_id": 654,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 133,
+  "value": 186000,
+  "contract": {
+    "salary": 41600,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

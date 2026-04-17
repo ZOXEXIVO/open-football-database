@@ -1,0 +1,29 @@
+{
+  "id": 41054154,
+  "first_name": "Kasim",
+  "last_name": "Botan",
+  "birth_date": "1997-04-14",
+  "country_id": 113,
+  "club_id": 135500,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 58,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 135534,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 62025449,
+  "first_name": "Filip",
+  "last_name": "Mladenović",
+  "birth_date": "1991-08-15",
+  "country_id": 802,
+  "club_id": 983,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 113,
+  "value": 162000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 458631,
+    "expiration": "2026-06-30",
+    "salary": 468000,
+    "wage_contribution_pct": 100
+  }
+}

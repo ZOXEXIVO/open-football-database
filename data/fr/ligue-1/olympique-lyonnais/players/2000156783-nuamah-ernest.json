@@ -1,0 +1,27 @@
+{
+  "id": 2000156783,
+  "first_name": "Ernest",
+  "last_name": "Nuamah",
+  "birth_date": "2003-11-01",
+  "country_id": 21,
+  "club_id": 865,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 138,
+  "value": 47000000,
+  "contract": {
+    "salary": 2600000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

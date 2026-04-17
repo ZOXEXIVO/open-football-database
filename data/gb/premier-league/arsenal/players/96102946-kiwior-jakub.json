@@ -1,0 +1,38 @@
+{
+  "id": 96102946,
+  "first_name": "Jakub",
+  "last_name": "Kiwior",
+  "birth_date": "2000-02-15",
+  "country_id": 787,
+  "club_id": 602,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 133,
+  "potential_ability": 140,
+  "value": 28000000,
+  "contract": {
+    "salary": 3016000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1478,
+    "expiration": "2026-06-30",
+    "salary": 3016000,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

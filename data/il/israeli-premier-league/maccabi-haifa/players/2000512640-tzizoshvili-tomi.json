@@ -1,0 +1,27 @@
+{
+  "id": 2000512640,
+  "first_name": "Tomi",
+  "last_name": "Tzizoshvili",
+  "birth_date": "2006-01-01",
+  "country_id": 775,
+  "club_id": 1093,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 98,
+  "value": 5000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

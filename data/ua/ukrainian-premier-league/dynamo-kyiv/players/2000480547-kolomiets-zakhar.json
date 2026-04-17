@@ -1,0 +1,33 @@
+{
+  "id": 2000480547,
+  "first_name": "Zakhar",
+  "last_name": "Kolomiets",
+  "birth_date": "2008-03-21",
+  "country_id": 800,
+  "club_id": 1885,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 136,
+  "value": 21000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71046355,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

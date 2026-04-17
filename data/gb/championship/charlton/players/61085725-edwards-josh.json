@@ -1,0 +1,27 @@
+{
+  "id": 61085725,
+  "first_name": "Josh",
+  "last_name": "Edwards",
+  "birth_date": "2000-05-27",
+  "country_id": 793,
+  "club_id": 628,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 97,
+  "value": 5000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000109158,
+  "first_name": "Josh",
+  "last_name": "Powell",
+  "birth_date": "2005-01-09",
+  "country_id": 765,
+  "club_id": 692,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 129,
+  "value": 160000,
+  "contract": {
+    "salary": 46800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5103834,
+    "expiration": "2026-05-31",
+    "salary": 46800,
+    "wage_contribution_pct": 100
+  }
+}

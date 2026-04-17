@@ -1,0 +1,27 @@
+{
+  "id": 2000090504,
+  "first_name": "Jules-Anthony",
+  "last_name": "Vilsaint",
+  "birth_date": "2003-01-06",
+  "country_id": 364,
+  "club_id": 72000789,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 110,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

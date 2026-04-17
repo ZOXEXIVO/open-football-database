@@ -1,0 +1,33 @@
+{
+  "id": 2000205933,
+  "first_name": "Byron",
+  "last_name": "Pendleton",
+  "birth_date": "2005-12-15",
+  "country_id": 765,
+  "club_id": 609,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 113,
+  "value": 82000,
+  "contract": {
+    "salary": 31200,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5100088,
+    "expiration": "2026-05-31",
+    "salary": 31200,
+    "wage_contribution_pct": 100
+  }
+}

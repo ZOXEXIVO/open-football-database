@@ -1,0 +1,37 @@
+{
+  "id": 18086521,
+  "first_name": "Mamadou",
+  "last_name": "Fall",
+  "birth_date": "1991-12-31",
+  "country_id": 41,
+  "club_id": 130360,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 110,
+  "value": 808000,
+  "contract": {
+    "salary": 676000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130304,
+    "expiration": "2026-06-30",
+    "salary": 676000,
+    "wage_contribution_pct": 100
+  }
+}

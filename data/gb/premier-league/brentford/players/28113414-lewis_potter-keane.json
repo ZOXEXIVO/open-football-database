@@ -1,0 +1,35 @@
+{
+  "id": 28113414,
+  "first_name": "Keane",
+  "last_name": "Lewis-Potter",
+  "birth_date": "2001-02-22",
+  "country_id": 765,
+  "club_id": 617,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 123,
+  "value": 40000000,
+  "contract": {
+    "salary": 2808000,
+    "expiration": "2031-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

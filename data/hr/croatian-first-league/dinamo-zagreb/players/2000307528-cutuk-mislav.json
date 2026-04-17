@@ -1,0 +1,31 @@
+{
+  "id": 2000307528,
+  "first_name": "Mislav",
+  "last_name": "Ćutuk",
+  "birth_date": "2007-01-25",
+  "country_id": 761,
+  "club_id": 432,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 120,
+  "value": 365000,
+  "contract": {
+    "salary": 44928,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

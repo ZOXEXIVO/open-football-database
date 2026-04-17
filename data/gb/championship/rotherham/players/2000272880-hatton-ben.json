@@ -1,0 +1,31 @@
+{
+  "id": 2000272880,
+  "first_name": "Ben",
+  "last_name": "Hatton",
+  "birth_date": "2005-11-01",
+  "country_id": 765,
+  "club_id": 704,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 66,
+  "value": 88000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

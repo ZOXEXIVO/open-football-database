@@ -1,0 +1,29 @@
+{
+  "id": 83297596,
+  "first_name": "Rafael",
+  "last_name": "Luís",
+  "birth_date": "2005-02-18",
+  "country_id": 788,
+  "club_id": 55000306,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 111,
+  "value": 9000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 872,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

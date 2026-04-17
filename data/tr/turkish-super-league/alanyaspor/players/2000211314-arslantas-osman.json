@@ -1,0 +1,37 @@
+{
+  "id": 2000211314,
+  "first_name": "Osman",
+  "last_name": "Arslantaş",
+  "birth_date": "2005-02-10",
+  "country_id": 799,
+  "club_id": 458718,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 118,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 70108813,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

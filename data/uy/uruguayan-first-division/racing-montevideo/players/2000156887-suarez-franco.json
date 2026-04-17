@@ -1,0 +1,27 @@
+{
+  "id": 2000156887,
+  "first_name": "Franco",
+  "last_name": "Suárez",
+  "birth_date": "2003-09-22",
+  "country_id": 1657,
+  "club_id": 130849,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 99,
+  "value": 73000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

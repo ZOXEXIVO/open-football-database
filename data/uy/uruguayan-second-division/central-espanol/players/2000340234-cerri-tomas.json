@@ -1,0 +1,31 @@
+{
+  "id": 2000340234,
+  "first_name": "Tomás",
+  "last_name": "Cerri",
+  "birth_date": "2006-04-19",
+  "country_id": 1657,
+  "club_id": 1916,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 75,
+  "value": 16000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

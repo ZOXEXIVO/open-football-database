@@ -1,0 +1,33 @@
+{
+  "id": 2000413262,
+  "first_name": "Petar",
+  "last_name": "Raguž",
+  "birth_date": "2006-03-24",
+  "country_id": 761,
+  "club_id": 441,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 112,
+  "value": 100000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129858,
+    "expiration": "2026-06-26",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

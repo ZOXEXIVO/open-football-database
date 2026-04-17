@@ -1,0 +1,33 @@
+{
+  "id": 2000312853,
+  "first_name": "Rony",
+  "last_name": "Mimb Baheng",
+  "birth_date": "2005-04-22",
+  "country_id": 11,
+  "club_id": 866,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 129,
+  "value": 103000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000475359,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

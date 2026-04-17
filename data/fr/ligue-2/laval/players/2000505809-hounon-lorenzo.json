@@ -1,0 +1,27 @@
+{
+  "id": 2000505809,
+  "first_name": "Lorenzo",
+  "last_name": "Hounon",
+  "birth_date": "2009-01-02",
+  "country_id": 769,
+  "club_id": 2062,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 98,
+  "value": 123000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

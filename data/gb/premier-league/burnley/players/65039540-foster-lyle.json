@@ -1,0 +1,27 @@
+{
+  "id": 65039540,
+  "first_name": "Lyle",
+  "last_name": "Foster",
+  "birth_date": "2000-09-03",
+  "country_id": 45,
+  "club_id": 622,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 109,
+  "potential_ability": 122,
+  "value": 13000000,
+  "contract": {
+    "salary": 1560000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

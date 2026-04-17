@@ -1,0 +1,33 @@
+{
+  "id": 18086072,
+  "first_name": "Samy",
+  "last_name": "Mmaee",
+  "birth_date": "1996-09-08",
+  "country_id": 34,
+  "club_id": 432,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 104,
+  "value": 214000,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 127787,
+    "expiration": "2026-06-30",
+    "salary": 728000,
+    "wage_contribution_pct": 100
+  }
+}

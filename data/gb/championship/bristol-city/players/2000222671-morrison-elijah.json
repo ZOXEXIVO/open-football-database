@@ -1,0 +1,33 @@
+{
+  "id": 2000222671,
+  "first_name": "Elijah",
+  "last_name": "Morrison",
+  "birth_date": "2006-03-18",
+  "country_id": 765,
+  "club_id": 619,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 118,
+  "value": 347000,
+  "contract": {
+    "salary": 41600,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 109206,
+    "expiration": "2026-05-31",
+    "salary": 41600,
+    "wage_contribution_pct": 100
+  }
+}

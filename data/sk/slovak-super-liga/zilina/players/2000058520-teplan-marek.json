@@ -1,0 +1,29 @@
+{
+  "id": 2000058520,
+  "first_name": "Marek",
+  "last_name": "Teplan",
+  "birth_date": "2002-07-07",
+  "country_id": 794,
+  "club_id": 1620,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 98,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000183268,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

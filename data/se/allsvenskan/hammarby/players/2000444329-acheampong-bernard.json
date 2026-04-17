@@ -1,0 +1,33 @@
+{
+  "id": 2000444329,
+  "first_name": "Bernard",
+  "last_name": "Acheampong",
+  "birth_date": "2007-01-31",
+  "country_id": 21,
+  "club_id": 1797,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 118,
+  "value": 228000,
+  "contract": {
+    "salary": 36244,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 618372,
+    "expiration": "2026-11-30",
+    "salary": 36244,
+    "wage_contribution_pct": 100
+  }
+}

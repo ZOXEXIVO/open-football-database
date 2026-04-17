@@ -1,0 +1,31 @@
+{
+  "id": 2000207766,
+  "first_name": "Vasyl",
+  "last_name": "Hakman",
+  "birth_date": "2000-05-16",
+  "country_id": 800,
+  "club_id": 484458,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 79,
+  "value": 107000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000277562,
+  "first_name": "Lionel",
+  "last_name": "Ekoule",
+  "birth_date": "2006-02-12",
+  "country_id": 769,
+  "club_id": 867,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 105,
+  "value": 80000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

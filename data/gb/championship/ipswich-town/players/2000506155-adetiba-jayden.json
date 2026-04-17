@@ -1,0 +1,35 @@
+{
+  "id": 2000506155,
+  "first_name": "Jayden",
+  "last_name": "Adetiba",
+  "birth_date": "2009-01-01",
+  "country_id": 143,
+  "club_id": 667,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 122,
+  "value": 93000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

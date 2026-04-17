@@ -1,0 +1,27 @@
+{
+  "id": 2000487155,
+  "first_name": "Ivan",
+  "last_name": "Paunović",
+  "birth_date": "2009-07-20",
+  "country_id": 761,
+  "club_id": 432,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 131,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000476261,
+  "first_name": "Mathis",
+  "last_name": "Eboué",
+  "birth_date": "2009-02-27",
+  "country_id": 765,
+  "club_id": 630,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 160,
+  "value": 2000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

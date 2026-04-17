@@ -1,0 +1,29 @@
+{
+  "id": 27100816,
+  "first_name": "Emil",
+  "last_name": "Holten",
+  "birth_date": "1996-08-08",
+  "country_id": 764,
+  "club_id": 1802,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 88,
+  "value": 481000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 928,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

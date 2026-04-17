@@ -1,0 +1,31 @@
+{
+  "id": 2000019607,
+  "first_name": "Adam",
+  "last_name": "Akimey",
+  "birth_date": "2004-02-25",
+  "country_id": 7,
+  "club_id": 1798,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 266000,
+  "contract": {
+    "salary": 38220,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000382682,
+  "first_name": "Kaka",
+  "last_name": "Scabin",
+  "birth_date": "2007-01-03",
+  "country_id": 1651,
+  "club_id": 1905,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 120,
+  "value": 894000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 20047516,
+    "expiration": "2026-11-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

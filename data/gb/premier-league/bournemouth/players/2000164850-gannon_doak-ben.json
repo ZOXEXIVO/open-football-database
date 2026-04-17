@@ -1,0 +1,27 @@
+{
+  "id": 2000164850,
+  "first_name": "Ben",
+  "last_name": "Gannon Doak",
+  "birth_date": "2005-11-11",
+  "country_id": 793,
+  "club_id": 600,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 142,
+  "value": 45000000,
+  "contract": {
+    "salary": 2080000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

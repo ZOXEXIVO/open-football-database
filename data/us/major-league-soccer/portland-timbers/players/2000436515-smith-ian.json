@@ -1,0 +1,27 @@
+{
+  "id": 2000436515,
+  "first_name": "Ian",
+  "last_name": "Smith",
+  "birth_date": "2002-07-16",
+  "country_id": 390,
+  "club_id": 975489,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 104,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000398392,
+  "first_name": "Alieu",
+  "last_name": "Cham",
+  "birth_date": "2006-05-05",
+  "country_id": 20,
+  "club_id": 1874,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 104,
+  "value": 58000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

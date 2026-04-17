@@ -1,0 +1,27 @@
+{
+  "id": 2000117323,
+  "first_name": "Oleksandr",
+  "last_name": "Yushchenko",
+  "birth_date": "2005-05-07",
+  "country_id": 800,
+  "club_id": 1895,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 127,
+  "value": 1000000,
+  "contract": {
+    "salary": 13468,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 89071200,
+  "first_name": "Ollie",
+  "last_name": "Tanner",
+  "birth_date": "2002-05-13",
+  "country_id": 765,
+  "club_id": 625,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 106,
+  "value": 2000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

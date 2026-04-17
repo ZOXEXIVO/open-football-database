@@ -1,0 +1,37 @@
+{
+  "id": 2000195081,
+  "first_name": "Milán",
+  "last_name": "Pető",
+  "birth_date": "2005-01-25",
+  "country_id": 773,
+  "club_id": 7521327,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 91,
+  "value": 325000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130821,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

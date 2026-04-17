@@ -1,0 +1,27 @@
+{
+  "id": 28011526,
+  "first_name": "Luke",
+  "last_name": "Ayling",
+  "birth_date": "1991-08-25",
+  "country_id": 765,
+  "club_id": 685,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 124,
+  "value": 1000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

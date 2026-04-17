@@ -1,0 +1,35 @@
+{
+  "id": 2000250380,
+  "first_name": "Elad",
+  "last_name": "Madmon",
+  "birth_date": "2004-02-10",
+  "country_id": 775,
+  "club_id": 1097,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 116,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

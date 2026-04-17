@@ -1,0 +1,31 @@
+{
+  "id": 2000402223,
+  "first_name": "Mykyta",
+  "last_name": "Nemetskov",
+  "birth_date": "2006-09-19",
+  "country_id": 800,
+  "club_id": 2000121111,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 49,
+  "potential_ability": 83,
+  "value": 48000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000165115,
+  "first_name": "Jeremiah",
+  "last_name": "Björnler",
+  "birth_date": "2005-07-31",
+  "country_id": 797,
+  "club_id": 1791,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 84,
+  "value": 85000,
+  "contract": {
+    "salary": 16068,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

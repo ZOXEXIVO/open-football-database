@@ -1,0 +1,33 @@
+{
+  "id": 2000224403,
+  "first_name": "Luey",
+  "last_name": "Giles",
+  "birth_date": "2006-08-04",
+  "country_id": 801,
+  "club_id": 625,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 112,
+  "value": 1000000,
+  "contract": {
+    "salary": 23400,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5103760,
+    "expiration": "2026-05-31",
+    "salary": 23400,
+    "wage_contribution_pct": 100
+  }
+}

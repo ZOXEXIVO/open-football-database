@@ -1,0 +1,27 @@
+{
+  "id": 2000206839,
+  "first_name": "Maksym",
+  "last_name": "Boiko",
+  "birth_date": "2005-03-27",
+  "country_id": 800,
+  "club_id": 71045065,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 90,
+  "value": 115000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

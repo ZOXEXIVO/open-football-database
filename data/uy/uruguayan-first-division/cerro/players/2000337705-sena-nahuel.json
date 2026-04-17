@@ -1,0 +1,39 @@
+{
+  "id": 2000337705,
+  "first_name": "Nahuel",
+  "last_name": "Sena",
+  "birth_date": "2004-07-04",
+  "country_id": 1657,
+  "club_id": 1917,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 101,
+  "value": 115000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

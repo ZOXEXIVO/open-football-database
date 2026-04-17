@@ -1,0 +1,33 @@
+{
+  "id": 65046038,
+  "first_name": "Ronaldo",
+  "last_name": "Maarman",
+  "birth_date": "1999-11-29",
+  "country_id": 45,
+  "club_id": 2000034502,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 102,
+  "value": 27000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5682979,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

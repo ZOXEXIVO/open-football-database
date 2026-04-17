@@ -1,0 +1,41 @@
+{
+  "id": 27148022,
+  "first_name": "Oliver",
+  "last_name": "Sonne",
+  "birth_date": "2000-11-10",
+  "country_id": 1656,
+  "club_id": 622,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 109,
+  "potential_ability": 115,
+  "value": 4000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 476,
+    "expiration": "2026-06-30",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

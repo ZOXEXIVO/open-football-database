@@ -1,0 +1,35 @@
+{
+  "id": 2000450120,
+  "first_name": "Juro",
+  "last_name": "Živković",
+  "birth_date": "2009-05-22",
+  "country_id": 755,
+  "club_id": 106749,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 96,
+  "value": 3000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

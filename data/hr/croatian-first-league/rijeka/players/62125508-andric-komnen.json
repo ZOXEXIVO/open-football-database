@@ -1,0 +1,29 @@
+{
+  "id": 62125508,
+  "first_name": "Komnen",
+  "last_name": "Andrić",
+  "birth_date": "1995-07-01",
+  "country_id": 802,
+  "club_id": 441,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 113,
+  "value": 132000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 59025932,
+    "expiration": "2026-06-30",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 47082883,
+  "first_name": "Jovan",
+  "last_name": "Manev",
+  "birth_date": "2001-01-25",
+  "country_id": 781,
+  "club_id": 441,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 97,
+  "value": 137000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 6400020,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

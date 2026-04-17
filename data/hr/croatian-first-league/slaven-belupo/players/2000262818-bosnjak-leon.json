@@ -1,0 +1,29 @@
+{
+  "id": 2000262818,
+  "first_name": "Leon",
+  "last_name": "Bošnjak",
+  "birth_date": "2006-01-23",
+  "country_id": 761,
+  "club_id": 106749,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 106,
+  "value": 259000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129885,
+    "expiration": "2026-06-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

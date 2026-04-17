@@ -1,0 +1,31 @@
+{
+  "id": 2000124742,
+  "first_name": "Oleksandr",
+  "last_name": "Shevchuk",
+  "birth_date": "2004-05-19",
+  "country_id": 800,
+  "club_id": 2000121111,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 49,
+  "potential_ability": 76,
+  "value": 65000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

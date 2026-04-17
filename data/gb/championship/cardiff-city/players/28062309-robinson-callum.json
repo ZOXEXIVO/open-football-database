@@ -1,0 +1,27 @@
+{
+  "id": 28062309,
+  "first_name": "Callum",
+  "last_name": "Robinson",
+  "birth_date": "1995-02-02",
+  "country_id": 789,
+  "club_id": 625,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 109,
+  "value": 3000000,
+  "contract": {
+    "salary": 936000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

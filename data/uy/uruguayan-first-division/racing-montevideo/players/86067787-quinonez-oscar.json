@@ -1,0 +1,33 @@
+{
+  "id": 86067787,
+  "first_name": "Óscar",
+  "last_name": "Quiñónez",
+  "birth_date": "2001-02-19",
+  "country_id": 1654,
+  "club_id": 130849,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 82,
+  "value": 329000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 86047634,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

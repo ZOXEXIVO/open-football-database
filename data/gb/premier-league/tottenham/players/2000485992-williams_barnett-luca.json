@@ -1,0 +1,35 @@
+{
+  "id": 2000485992,
+  "first_name": "Luca",
+  "last_name": "Williams-Barnett",
+  "birth_date": "2008-10-01",
+  "country_id": 765,
+  "club_id": 728,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 178,
+  "value": 18000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

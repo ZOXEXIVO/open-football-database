@@ -1,0 +1,31 @@
+{
+  "id": 78036921,
+  "first_name": "Jorge",
+  "last_name": "González",
+  "birth_date": "1992-06-26",
+  "country_id": 1657,
+  "club_id": 5512337,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 96,
+  "value": 6000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

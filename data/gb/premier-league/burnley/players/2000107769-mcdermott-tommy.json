@@ -1,0 +1,33 @@
+{
+  "id": 2000107769,
+  "first_name": "Tommy",
+  "last_name": "McDermott",
+  "birth_date": "2005-06-01",
+  "country_id": 765,
+  "club_id": 622,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 113,
+  "value": 304000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 710,
+    "expiration": "2026-05-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

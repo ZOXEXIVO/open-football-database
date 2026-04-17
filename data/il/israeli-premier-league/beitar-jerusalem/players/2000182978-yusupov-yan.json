@@ -1,0 +1,33 @@
+{
+  "id": 2000182978,
+  "first_name": "Yan",
+  "last_name": "Yusupov",
+  "birth_date": "2005-08-17",
+  "country_id": 775,
+  "club_id": 1083,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 115,
+  "value": 778000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 42021605,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

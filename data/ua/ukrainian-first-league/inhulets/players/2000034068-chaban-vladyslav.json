@@ -1,0 +1,33 @@
+{
+  "id": 2000034068,
+  "first_name": "Vladyslav",
+  "last_name": "Chaban",
+  "birth_date": "2003-01-22",
+  "country_id": 800,
+  "club_id": 71076802,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 86,
+  "value": 72000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71033268,
+    "expiration": "2026-06-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

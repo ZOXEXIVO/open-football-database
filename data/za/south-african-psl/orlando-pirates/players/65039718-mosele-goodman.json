@@ -1,0 +1,33 @@
+{
+  "id": 65039718,
+  "first_name": "Goodman",
+  "last_name": "Mosele",
+  "birth_date": "1999-11-18",
+  "country_id": 45,
+  "club_id": 1645,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 102,
+  "value": 248000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 65010424,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

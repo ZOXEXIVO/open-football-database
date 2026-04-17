@@ -1,0 +1,31 @@
+{
+  "id": 28108036,
+  "first_name": "Conor",
+  "last_name": "Gallagher",
+  "birth_date": "2000-02-06",
+  "country_id": 765,
+  "club_id": 728,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 128,
+  "potential_ability": 148,
+  "value": 49000000,
+  "contract": {
+    "salary": 6240000,
+    "expiration": "2031-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

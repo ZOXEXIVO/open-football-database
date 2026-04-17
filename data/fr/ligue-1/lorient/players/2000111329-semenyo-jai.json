@@ -1,0 +1,31 @@
+{
+  "id": 2000111329,
+  "first_name": "Jai",
+  "last_name": "Semenyo",
+  "birth_date": "2003-07-13",
+  "country_id": 21,
+  "club_id": 2005,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 92,
+  "value": 29000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

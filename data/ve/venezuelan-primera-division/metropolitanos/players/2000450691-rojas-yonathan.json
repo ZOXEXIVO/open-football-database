@@ -1,0 +1,27 @@
+{
+  "id": 2000450691,
+  "first_name": "Yonathan",
+  "last_name": "Rojas",
+  "birth_date": "2005-02-28",
+  "country_id": 1658,
+  "club_id": 5300232,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 76,
+  "value": 15000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

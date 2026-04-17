@@ -1,0 +1,23 @@
+{
+  "id": 2000128099,
+  "first_name": "Charlie",
+  "last_name": "Penman",
+  "birth_date": "2005-09-25",
+  "country_id": 765,
+  "club_id": 618,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 144,
+  "value": 150000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

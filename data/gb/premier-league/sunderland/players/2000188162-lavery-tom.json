@@ -1,0 +1,33 @@
+{
+  "id": 2000188162,
+  "first_name": "Tom",
+  "last_name": "Lavery",
+  "birth_date": "2005-12-19",
+  "country_id": 765,
+  "club_id": 722,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 101,
+  "value": 92000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 90002300,
+    "expiration": "2026-05-31",
+    "salary": 26000,
+    "wage_contribution_pct": 100
+  }
+}

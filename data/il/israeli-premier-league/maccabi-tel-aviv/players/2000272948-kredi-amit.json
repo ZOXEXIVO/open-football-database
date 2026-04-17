@@ -1,0 +1,33 @@
+{
+  "id": 2000272948,
+  "first_name": "Amit",
+  "last_name": "Kredi",
+  "birth_date": "2006-06-21",
+  "country_id": 775,
+  "club_id": 1097,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 125,
+  "value": 4000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7862562,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

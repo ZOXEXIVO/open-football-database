@@ -1,0 +1,33 @@
+{
+  "id": 2000240417,
+  "first_name": "Tine",
+  "last_name": "Čuk",
+  "birth_date": "2005-02-15",
+  "country_id": 795,
+  "club_id": 1629,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 106,
+  "value": 595000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5777059,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

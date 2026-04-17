@@ -1,0 +1,27 @@
+{
+  "id": 2000209733,
+  "first_name": "Artem",
+  "last_name": "Serdiuk",
+  "birth_date": "2005-11-09",
+  "country_id": 800,
+  "club_id": 1301293,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 99,
+  "value": 146000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

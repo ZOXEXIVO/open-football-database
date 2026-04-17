@@ -1,0 +1,32 @@
+{
+  "id": 2000101281,
+  "first_name": "Tomas",
+  "last_name": "Galvez",
+  "birth_date": "2005-01-28",
+  "country_id": 768,
+  "club_id": 679,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 114,
+  "potential_ability": 141,
+  "value": 804000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 994,
+    "expiration": "2026-06-30",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

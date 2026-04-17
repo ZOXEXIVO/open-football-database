@@ -1,0 +1,29 @@
+{
+  "id": 2000206835,
+  "first_name": "Markiian",
+  "last_name": "Bakus",
+  "birth_date": "2006-01-20",
+  "country_id": 800,
+  "club_id": 71045065,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 103,
+  "value": 251000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71016825,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000050359,
+  "first_name": "Robin",
+  "last_name": "Gonzalez",
+  "birth_date": "1998-11-26",
+  "country_id": 1653,
+  "club_id": 126302,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 74,
+  "value": 1000000,
+  "contract": {
+    "salary": 22464,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

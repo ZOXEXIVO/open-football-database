@@ -1,0 +1,31 @@
+{
+  "id": 2000407550,
+  "first_name": "Louis",
+  "last_name": "Zecevic-John",
+  "birth_date": "2008-01-20",
+  "country_id": 802,
+  "club_id": 602,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 112,
+  "potential_ability": 155,
+  "value": 881000,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

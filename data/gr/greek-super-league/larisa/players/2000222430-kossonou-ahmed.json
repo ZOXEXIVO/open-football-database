@@ -1,0 +1,31 @@
+{
+  "id": 2000222430,
+  "first_name": "Ahmed",
+  "last_name": "Kossonou",
+  "birth_date": "2003-10-16",
+  "country_id": 24,
+  "club_id": 978,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 99,
+  "value": 457000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

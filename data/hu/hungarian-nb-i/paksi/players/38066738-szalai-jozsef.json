@@ -1,0 +1,29 @@
+{
+  "id": 38066738,
+  "first_name": "József",
+  "last_name": "Szalai",
+  "birth_date": "2002-11-11",
+  "country_id": 773,
+  "club_id": 7521327,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 100,
+  "value": 190000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 38004842,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 2000049220,
+  "first_name": "Luca",
+  "last_name": "Stephenson",
+  "birth_date": "2003-09-17",
+  "country_id": 765,
+  "club_id": 676,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 112,
+  "potential_ability": 133,
+  "value": 4000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1556,
+    "expiration": "2026-05-31",
+    "salary": 312000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000023233,
+  "first_name": "Dalangunypole",
+  "last_name": "Gomis",
+  "birth_date": "2004-06-28",
+  "country_id": 769,
+  "club_id": 184,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 117,
+  "value": 506000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2009,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

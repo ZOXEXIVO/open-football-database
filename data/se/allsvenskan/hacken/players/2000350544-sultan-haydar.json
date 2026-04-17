@@ -1,0 +1,27 @@
+{
+  "id": 2000350544,
+  "first_name": "Haydar",
+  "last_name": "Sultan",
+  "birth_date": "2008-02-05",
+  "country_id": 797,
+  "club_id": 1783,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 104,
+  "value": 91000,
+  "contract": {
+    "salary": 988,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

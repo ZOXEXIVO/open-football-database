@@ -1,0 +1,31 @@
+{
+  "id": 2000383111,
+  "first_name": "Patrick",
+  "last_name": "Asiedu",
+  "birth_date": "2002-12-20",
+  "country_id": 21,
+  "club_id": 801910,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 96,
+  "value": 33000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2032-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

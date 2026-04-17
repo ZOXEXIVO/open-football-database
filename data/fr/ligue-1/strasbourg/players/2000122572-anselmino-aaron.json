@@ -1,0 +1,29 @@
+{
+  "id": 2000122572,
+  "first_name": "Aarón",
+  "last_name": "Anselmino",
+  "birth_date": "2005-04-29",
+  "country_id": 1649,
+  "club_id": 630,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 131,
+  "potential_ability": 156,
+  "value": 40000000,
+  "contract": {
+    "salary": 1456000,
+    "expiration": "2031-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 872,
+    "expiration": "2026-06-30",
+    "salary": 1456000,
+    "wage_contribution_pct": 100
+  }
+}

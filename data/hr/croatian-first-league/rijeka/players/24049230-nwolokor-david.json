@@ -1,0 +1,29 @@
+{
+  "id": 24049230,
+  "first_name": "David",
+  "last_name": "Nwolokor",
+  "birth_date": "1996-01-10",
+  "country_id": 38,
+  "club_id": 441,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 97,
+  "value": 43000,
+  "contract": {
+    "salary": 30992,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129847,
+    "expiration": "2026-06-01",
+    "salary": 30992,
+    "wage_contribution_pct": 100
+  }
+}

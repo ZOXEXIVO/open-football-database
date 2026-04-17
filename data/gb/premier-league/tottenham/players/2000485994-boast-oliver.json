@@ -1,0 +1,27 @@
+{
+  "id": 2000485994,
+  "first_name": "Oliver",
+  "last_name": "Boast",
+  "birth_date": "2009-05-07",
+  "country_id": 765,
+  "club_id": 728,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 140,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

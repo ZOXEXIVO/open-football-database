@@ -1,0 +1,33 @@
+{
+  "id": 2000021192,
+  "first_name": "Farhodjon",
+  "last_name": "Sohibjonov",
+  "birth_date": "2001-11-14",
+  "country_id": 144,
+  "club_id": 483003,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 83,
+  "value": 87000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 485462,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

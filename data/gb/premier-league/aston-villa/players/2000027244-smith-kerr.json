@@ -1,0 +1,27 @@
+{
+  "id": 2000027244,
+  "first_name": "Kerr",
+  "last_name": "Smith",
+  "birth_date": "2004-12-12",
+  "country_id": 793,
+  "club_id": 603,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 132,
+  "value": 296000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

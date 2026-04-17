@@ -1,0 +1,33 @@
+{
+  "id": 36159449,
+  "first_name": "Christos",
+  "last_name": "Kryparakos",
+  "birth_date": "2003-06-12",
+  "country_id": 772,
+  "club_id": 983,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 121,
+  "value": 4000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129667,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

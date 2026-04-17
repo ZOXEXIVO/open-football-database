@@ -1,0 +1,31 @@
+{
+  "id": 5106363,
+  "first_name": "James",
+  "last_name": "Milner",
+  "birth_date": "1986-01-04",
+  "country_id": 765,
+  "club_id": 618,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 133,
+  "value": 3000000,
+  "contract": {
+    "salary": 3640000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

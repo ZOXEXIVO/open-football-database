@@ -1,0 +1,29 @@
+{
+  "id": 41042316,
+  "first_name": "Muhammad",
+  "last_name": "Tahir",
+  "birth_date": "1994-01-04",
+  "country_id": 113,
+  "club_id": 41001022,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 68,
+  "value": 22000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5622747,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

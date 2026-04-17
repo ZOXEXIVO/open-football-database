@@ -1,0 +1,31 @@
+{
+  "id": 2000027719,
+  "first_name": "Diego",
+  "last_name": "Moreira",
+  "birth_date": "2004-08-06",
+  "country_id": 757,
+  "club_id": 872,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 134,
+  "value": 31000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

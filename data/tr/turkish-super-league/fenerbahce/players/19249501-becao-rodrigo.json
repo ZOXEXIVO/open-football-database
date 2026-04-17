@@ -1,0 +1,29 @@
+{
+  "id": 19249501,
+  "first_name": "Rodrigo",
+  "last_name": "Becão",
+  "birth_date": "1996-01-19",
+  "country_id": 1651,
+  "club_id": 1870,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 133,
+  "value": 3000000,
+  "contract": {
+    "salary": 1924000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130360,
+    "expiration": "2026-06-30",
+    "salary": 1924000,
+    "wage_contribution_pct": 100
+  }
+}

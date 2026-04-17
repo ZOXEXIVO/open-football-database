@@ -1,0 +1,29 @@
+{
+  "id": 2000263726,
+  "first_name": "Hjalmar",
+  "last_name": "Åberg",
+  "birth_date": "2006-03-29",
+  "country_id": 797,
+  "club_id": 1796,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 87,
+  "value": 49000,
+  "contract": {
+    "salary": 16068,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2609,
+    "expiration": "2026-11-30",
+    "salary": 16068,
+    "wage_contribution_pct": 100
+  }
+}

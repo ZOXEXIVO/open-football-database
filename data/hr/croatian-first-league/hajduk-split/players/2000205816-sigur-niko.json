@@ -1,0 +1,27 @@
+{
+  "id": 2000205816,
+  "first_name": "Niko",
+  "last_name": "Sigur",
+  "birth_date": "2003-09-09",
+  "country_id": 364,
+  "club_id": 433,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 109,
+  "value": 2000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

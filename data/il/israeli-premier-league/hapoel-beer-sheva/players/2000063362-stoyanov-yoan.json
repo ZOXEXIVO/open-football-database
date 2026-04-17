@@ -1,0 +1,43 @@
+{
+  "id": 2000063362,
+  "first_name": "Yoan",
+  "last_name": "Stoyanov",
+  "birth_date": "2001-05-22",
+  "country_id": 760,
+  "club_id": 1085,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 102,
+  "value": 739000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

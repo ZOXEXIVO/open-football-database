@@ -1,0 +1,33 @@
+{
+  "id": 24047599,
+  "first_name": "Robert",
+  "last_name": "Mudražija",
+  "birth_date": "1997-05-05",
+  "country_id": 761,
+  "club_id": 432,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 117,
+  "value": 596000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 448,
+    "expiration": "2026-05-31",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

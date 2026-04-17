@@ -1,0 +1,27 @@
+{
+  "id": 2000291303,
+  "first_name": "Oleksandr",
+  "last_name": "Kamenskyi",
+  "birth_date": "2007-09-21",
+  "country_id": 800,
+  "club_id": 2000028043,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 120,
+  "value": 4000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

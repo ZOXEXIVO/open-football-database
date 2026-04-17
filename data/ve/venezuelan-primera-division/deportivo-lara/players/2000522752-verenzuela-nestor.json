@@ -1,0 +1,29 @@
+{
+  "id": 2000522752,
+  "first_name": "Nestor",
+  "last_name": "Verenzuela",
+  "birth_date": "2008-12-20",
+  "country_id": 1658,
+  "club_id": 86034571,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 106,
+  "value": 206000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 76004125,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

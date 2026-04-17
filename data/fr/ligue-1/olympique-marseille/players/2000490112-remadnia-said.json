@@ -1,0 +1,27 @@
+{
+  "id": 2000490112,
+  "first_name": "Saïd",
+  "last_name": "Remadnia",
+  "birth_date": "2009-03-27",
+  "country_id": 5,
+  "club_id": 866,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 159,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

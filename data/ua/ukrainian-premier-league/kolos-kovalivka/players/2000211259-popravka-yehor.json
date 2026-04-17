@@ -1,0 +1,39 @@
+{
+  "id": 2000211259,
+  "first_name": "Yehor",
+  "last_name": "Popravka",
+  "birth_date": "2004-02-12",
+  "country_id": 800,
+  "club_id": 71063212,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 104,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

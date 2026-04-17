@@ -1,0 +1,27 @@
+{
+  "id": 52101552,
+  "first_name": "Jake",
+  "last_name": "O'Brien",
+  "birth_date": "2001-05-15",
+  "country_id": 789,
+  "club_id": 650,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 125,
+  "value": 38000000,
+  "contract": {
+    "salary": 2600000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

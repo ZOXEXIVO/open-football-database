@@ -1,0 +1,33 @@
+{
+  "id": 41053560,
+  "first_name": "M.",
+  "last_name": "Rafli",
+  "birth_date": "1998-11-24",
+  "country_id": 113,
+  "club_id": 5622736,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 75,
+  "value": 35000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 135528,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000290424,
+  "first_name": "Yusei",
+  "last_name": "Shima",
+  "birth_date": "2007-05-31",
+  "country_id": 116,
+  "club_id": 1797,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 121,
+  "value": 96000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 618372,
+    "expiration": "2026-11-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

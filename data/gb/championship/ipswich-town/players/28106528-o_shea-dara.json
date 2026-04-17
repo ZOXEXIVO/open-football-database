@@ -1,0 +1,27 @@
+{
+  "id": 28106528,
+  "first_name": "Dara",
+  "last_name": "O'Shea",
+  "birth_date": "1999-03-04",
+  "country_id": 789,
+  "club_id": 667,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 109,
+  "value": 22000000,
+  "contract": {
+    "salary": 2340000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

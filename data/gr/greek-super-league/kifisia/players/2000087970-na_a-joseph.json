@@ -1,0 +1,37 @@
+{
+  "id": 2000087970,
+  "first_name": "Joseph",
+  "last_name": "Na’a",
+  "birth_date": "2002-02-17",
+  "country_id": 14,
+  "club_id": 36077318,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 87,
+  "value": 3000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129658,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

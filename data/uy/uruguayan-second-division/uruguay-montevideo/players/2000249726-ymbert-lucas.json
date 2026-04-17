@@ -1,0 +1,31 @@
+{
+  "id": 2000249726,
+  "first_name": "Lucas",
+  "last_name": "Ymbert",
+  "birth_date": "2003-01-30",
+  "country_id": 1657,
+  "club_id": 5512787,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 78,
+  "value": 16000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 29076100,
+  "first_name": "James",
+  "last_name": "Ward-Prowse",
+  "birth_date": "1994-11-01",
+  "country_id": 765,
+  "club_id": 735,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 139,
+  "value": 23000000,
+  "contract": {
+    "salary": 6500000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 622,
+    "expiration": "2026-06-30",
+    "salary": 6500000,
+    "wage_contribution_pct": 100
+  }
+}

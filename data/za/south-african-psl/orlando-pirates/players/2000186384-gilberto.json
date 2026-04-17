@@ -1,0 +1,33 @@
+{
+  "id": 2000186384,
+  "first_name": "Gilberto",
+  "last_name": "",
+  "birth_date": "2001-03-10",
+  "country_id": 6,
+  "club_id": 1645,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 108,
+  "value": 420000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 74,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

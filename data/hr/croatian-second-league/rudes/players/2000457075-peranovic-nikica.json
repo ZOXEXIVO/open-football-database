@@ -1,0 +1,33 @@
+{
+  "id": 2000457075,
+  "first_name": "Nikica",
+  "last_name": "Peranović",
+  "birth_date": "2006-08-22",
+  "country_id": 761,
+  "club_id": 658353,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 69,
+  "value": 23000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 24005249,
+    "expiration": "2026-06-26",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

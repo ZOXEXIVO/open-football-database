@@ -1,0 +1,27 @@
+{
+  "id": 2000019406,
+  "first_name": "Simon",
+  "last_name": "Bengtsson",
+  "birth_date": "2004-04-23",
+  "country_id": 797,
+  "club_id": 1798,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 105,
+  "value": 381000,
+  "contract": {
+    "salary": 36244,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

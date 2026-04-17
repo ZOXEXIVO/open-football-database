@@ -1,0 +1,27 @@
+{
+  "id": 29217706,
+  "first_name": "James",
+  "last_name": "Hill",
+  "birth_date": "2002-01-10",
+  "country_id": 765,
+  "club_id": 600,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 124,
+  "value": 19000000,
+  "contract": {
+    "salary": 2340000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 37027437,
+  "first_name": "Sander",
+  "last_name": "van de Streek",
+  "birth_date": "1993-03-24",
+  "country_id": 784,
+  "club_id": 1865,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 104,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

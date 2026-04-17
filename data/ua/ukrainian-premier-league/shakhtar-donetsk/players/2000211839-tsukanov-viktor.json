@@ -1,0 +1,27 @@
+{
+  "id": 2000211839,
+  "first_name": "Viktor",
+  "last_name": "Tsukanov",
+  "birth_date": "2006-02-04",
+  "country_id": 800,
+  "club_id": 1895,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 132,
+  "value": 4000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

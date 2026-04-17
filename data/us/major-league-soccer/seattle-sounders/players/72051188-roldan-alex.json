@@ -1,0 +1,35 @@
+{
+  "id": 72051188,
+  "first_name": "Álex",
+  "last_name": "Roldán",
+  "birth_date": "1996-07-28",
+  "country_id": 370,
+  "club_id": 72014006,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 91,
+  "value": 1000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000306399,
+  "first_name": "Mohamed",
+  "last_name": "Boumaaoui",
+  "birth_date": "2004-09-22",
+  "country_id": 769,
+  "club_id": 876,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 106,
+  "value": 290000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1980,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

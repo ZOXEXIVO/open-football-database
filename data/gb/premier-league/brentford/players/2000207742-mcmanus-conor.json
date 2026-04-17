@@ -1,0 +1,27 @@
+{
+  "id": 2000207742,
+  "first_name": "Conor",
+  "last_name": "McManus",
+  "birth_date": "2004-06-16",
+  "country_id": 789,
+  "club_id": 617,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 121,
+  "value": 111000,
+  "contract": {
+    "salary": 46800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

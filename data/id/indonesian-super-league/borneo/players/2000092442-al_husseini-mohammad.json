@@ -1,0 +1,27 @@
+{
+  "id": 2000092442,
+  "first_name": "Mohammad",
+  "last_name": "Al-Husseini",
+  "birth_date": "2002-12-18",
+  "country_id": 123,
+  "club_id": 41021352,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 92,
+  "value": 64000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

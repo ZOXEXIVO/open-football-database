@@ -1,0 +1,29 @@
+{
+  "id": 2000495690,
+  "first_name": "Wondo",
+  "last_name": "Sulaeman",
+  "birth_date": "2005-02-20",
+  "country_id": 113,
+  "club_id": 116144,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 69,
+  "value": 9000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5622859,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

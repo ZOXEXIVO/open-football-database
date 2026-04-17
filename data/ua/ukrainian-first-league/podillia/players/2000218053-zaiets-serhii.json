@@ -1,0 +1,35 @@
+{
+  "id": 2000218053,
+  "first_name": "Serhii",
+  "last_name": "Zaiets",
+  "birth_date": "2001-10-03",
+  "country_id": 800,
+  "club_id": 71026832,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 88,
+  "value": 161000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

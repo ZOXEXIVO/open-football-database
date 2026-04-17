@@ -1,0 +1,27 @@
+{
+  "id": 2000273471,
+  "first_name": "Shaun",
+  "last_name": "Wade",
+  "birth_date": "2006-09-29",
+  "country_id": 789,
+  "club_id": 630,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 147,
+  "value": 82000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

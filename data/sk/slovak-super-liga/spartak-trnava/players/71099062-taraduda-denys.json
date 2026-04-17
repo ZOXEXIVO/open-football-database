@@ -1,0 +1,29 @@
+{
+  "id": 71099062,
+  "first_name": "Denys",
+  "last_name": "Taraduda",
+  "birth_date": "2000-08-17",
+  "country_id": 800,
+  "club_id": 1623,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 96,
+  "value": 123000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1624,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000454868,
+  "first_name": "Mykyta",
+  "last_name": "Kuralekh",
+  "birth_date": "2005-01-29",
+  "country_id": 800,
+  "club_id": 71100478,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 84,
+  "value": 32000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000091232,
+  "first_name": "Igor",
+  "last_name": "Dmitriev",
+  "birth_date": "2004-07-24",
+  "country_id": 791,
+  "club_id": 1529,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 119,
+  "value": 5000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

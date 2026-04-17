@@ -1,0 +1,27 @@
+{
+  "id": 2000392295,
+  "first_name": "Alexis",
+  "last_name": "Jacquot",
+  "birth_date": "2008-03-29",
+  "country_id": 769,
+  "club_id": 2009,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 102,
+  "value": 38000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

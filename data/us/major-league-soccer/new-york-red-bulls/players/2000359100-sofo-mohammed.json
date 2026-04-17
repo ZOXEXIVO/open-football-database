@@ -1,0 +1,31 @@
+{
+  "id": 2000359100,
+  "first_name": "Mohammed",
+  "last_name": "Sofo",
+  "birth_date": "2004-10-31",
+  "country_id": 21,
+  "club_id": 72000160,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 115,
+  "value": 1000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

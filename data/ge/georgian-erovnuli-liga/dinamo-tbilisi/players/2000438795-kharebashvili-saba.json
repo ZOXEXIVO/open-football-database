@@ -1,0 +1,27 @@
+{
+  "id": 2000438795,
+  "first_name": "Saba",
+  "last_name": "Kharebashvili",
+  "birth_date": "2008-09-03",
+  "country_id": 770,
+  "club_id": 892,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 137,
+  "value": 4000000,
+  "contract": {
+    "salary": 44200,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

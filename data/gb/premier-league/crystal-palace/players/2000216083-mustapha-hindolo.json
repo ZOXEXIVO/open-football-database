@@ -1,0 +1,29 @@
+{
+  "id": 2000216083,
+  "first_name": "Hindolo",
+  "last_name": "Mustapha",
+  "birth_date": "2006-07-29",
+  "country_id": 43,
+  "club_id": 642,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 121,
+  "value": 1000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 734,
+    "expiration": "2026-05-31",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

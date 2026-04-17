@@ -1,0 +1,33 @@
+{
+  "id": 2000247504,
+  "first_name": "Cheick",
+  "last_name": "Oumar Konaté",
+  "birth_date": "2004-04-02",
+  "country_id": 31,
+  "club_id": 1992,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 104,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 36077318,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

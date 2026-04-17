@@ -1,0 +1,33 @@
+{
+  "id": 2000226060,
+  "first_name": "Connor",
+  "last_name": "Douglas",
+  "birth_date": "2005-10-08",
+  "country_id": 765,
+  "club_id": 671,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 111,
+  "value": 84000,
+  "contract": {
+    "salary": 31200,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5100031,
+    "expiration": "2026-05-31",
+    "salary": 31200,
+    "wage_contribution_pct": 100
+  }
+}

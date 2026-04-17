@@ -1,0 +1,27 @@
+{
+  "id": 2000299820,
+  "first_name": "Max",
+  "last_name": "Murray",
+  "birth_date": "2007-03-22",
+  "country_id": 765,
+  "club_id": 664,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 102,
+  "value": 19000,
+  "contract": {
+    "salary": 23400,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

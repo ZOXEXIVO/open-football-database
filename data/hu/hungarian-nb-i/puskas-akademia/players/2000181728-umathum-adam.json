@@ -1,0 +1,29 @@
+{
+  "id": 2000181728,
+  "first_name": "Ádám",
+  "last_name": "Umathum",
+  "birth_date": "2006-04-08",
+  "country_id": 773,
+  "club_id": 38032696,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 100,
+  "value": 443000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 38019804,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000293527,
+  "first_name": "Tyler",
+  "last_name": "Bindon",
+  "birth_date": "2005-01-27",
+  "country_id": 1438,
+  "club_id": 692,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 135,
+  "value": 16000000,
+  "contract": {
+    "salary": 936000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 708,
+    "expiration": "2026-05-31",
+    "salary": 936000,
+    "wage_contribution_pct": 100
+  }
+}

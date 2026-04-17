@@ -1,0 +1,31 @@
+{
+  "id": 28093567,
+  "first_name": "James",
+  "last_name": "Maddison",
+  "birth_date": "1996-11-23",
+  "country_id": 765,
+  "club_id": 728,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 128,
+  "potential_ability": 148,
+  "value": 39000000,
+  "contract": {
+    "salary": 7644000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

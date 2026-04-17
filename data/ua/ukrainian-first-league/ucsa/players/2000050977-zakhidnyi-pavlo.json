@@ -1,0 +1,27 @@
+{
+  "id": 2000050977,
+  "first_name": "Pavlo",
+  "last_name": "Zakhidnyi",
+  "birth_date": "2003-07-10",
+  "country_id": 800,
+  "club_id": 2000121111,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 49,
+  "potential_ability": 76,
+  "value": 67000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

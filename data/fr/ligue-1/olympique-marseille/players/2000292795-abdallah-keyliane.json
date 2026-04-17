@@ -1,0 +1,33 @@
+{
+  "id": 2000292795,
+  "first_name": "Keyliane",
+  "last_name": "Abdallah",
+  "birth_date": "2006-04-05",
+  "country_id": 918740,
+  "club_id": 866,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 146,
+  "value": 121000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 4203006,
+    "expiration": "2026-06-30",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

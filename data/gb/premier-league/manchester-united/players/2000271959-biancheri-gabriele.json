@@ -1,0 +1,33 @@
+{
+  "id": 2000271959,
+  "first_name": "Gabriele",
+  "last_name": "Biancheri",
+  "birth_date": "2006-09-18",
+  "country_id": 801,
+  "club_id": 680,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 112,
+  "potential_ability": 145,
+  "value": 802000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 704,
+    "expiration": "2026-05-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000302092,
+  "first_name": "Trevan",
+  "last_name": "Sanusi",
+  "birth_date": "2007-04-25",
+  "country_id": 765,
+  "club_id": 688,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 160,
+  "value": 5000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2005,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

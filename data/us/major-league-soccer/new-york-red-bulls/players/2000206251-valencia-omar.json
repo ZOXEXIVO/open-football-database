@@ -1,0 +1,33 @@
+{
+  "id": 2000206251,
+  "first_name": "Omar",
+  "last_name": "Valencia",
+  "birth_date": "2004-06-08",
+  "country_id": 382,
+  "club_id": 72000160,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 110,
+  "value": 413000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 72044430,
+    "expiration": "2026-11-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

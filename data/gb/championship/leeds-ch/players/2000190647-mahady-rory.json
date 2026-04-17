@@ -1,0 +1,29 @@
+{
+  "id": 2000190647,
+  "first_name": "Rory",
+  "last_name": "Mahady",
+  "birth_date": "2006-08-16",
+  "country_id": 793,
+  "club_id": 671,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 139,
+  "value": 814000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 707,
+    "expiration": "2026-05-31",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

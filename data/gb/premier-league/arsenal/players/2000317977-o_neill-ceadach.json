@@ -1,0 +1,35 @@
+{
+  "id": 2000317977,
+  "first_name": "Ceadach",
+  "last_name": "O'Neill",
+  "birth_date": "2008-04-10",
+  "country_id": 785,
+  "club_id": 602,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 112,
+  "potential_ability": 155,
+  "value": 479000,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

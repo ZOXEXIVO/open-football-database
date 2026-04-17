@@ -1,0 +1,29 @@
+{
+  "id": 2000211269,
+  "first_name": "Vladyslav",
+  "last_name": "Shershen",
+  "birth_date": "2006-01-13",
+  "country_id": 800,
+  "club_id": 71063212,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 112,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71026832,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

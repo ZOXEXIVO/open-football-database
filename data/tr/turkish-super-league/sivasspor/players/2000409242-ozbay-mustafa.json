@@ -1,0 +1,29 @@
+{
+  "id": 2000409242,
+  "first_name": "Mustafa",
+  "last_name": "Özbay",
+  "birth_date": "2007-06-05",
+  "country_id": 799,
+  "club_id": 130382,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 110,
+  "value": 114000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 70081777,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

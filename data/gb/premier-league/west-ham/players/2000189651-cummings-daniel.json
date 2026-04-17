@@ -1,0 +1,27 @@
+{
+  "id": 2000189651,
+  "first_name": "Daniel",
+  "last_name": "Cummings",
+  "birth_date": "2006-04-14",
+  "country_id": 793,
+  "club_id": 735,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 373000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000530099,
+  "first_name": "Adam",
+  "last_name": "Estinfort",
+  "birth_date": "2009-05-14",
+  "country_id": 769,
+  "club_id": 867,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 105,
+  "value": 89000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

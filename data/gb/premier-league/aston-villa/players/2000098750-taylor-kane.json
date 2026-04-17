@@ -1,0 +1,37 @@
+{
+  "id": 2000098750,
+  "first_name": "Kane",
+  "last_name": "Taylor",
+  "birth_date": "2005-02-14",
+  "country_id": 765,
+  "club_id": 603,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 139,
+  "value": 274000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 694,
+    "expiration": "2026-05-31",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

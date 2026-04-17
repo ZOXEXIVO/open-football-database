@@ -1,0 +1,33 @@
+{
+  "id": 2000237027,
+  "first_name": "Xhosa",
+  "last_name": "Manyana",
+  "birth_date": "2006-01-09",
+  "country_id": 45,
+  "club_id": 65035889,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 116,
+  "value": 77000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1643,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

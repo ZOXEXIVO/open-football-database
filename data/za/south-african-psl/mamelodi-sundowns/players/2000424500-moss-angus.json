@@ -1,0 +1,30 @@
+{
+  "id": 2000424500,
+  "first_name": "Angus",
+  "last_name": "Moss",
+  "birth_date": "2008-02-12",
+  "country_id": 45,
+  "club_id": 1644,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 97,
+  "value": 13000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01"
+  }
+}

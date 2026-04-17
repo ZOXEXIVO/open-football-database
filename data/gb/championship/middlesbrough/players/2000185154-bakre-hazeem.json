@@ -1,0 +1,31 @@
+{
+  "id": 2000185154,
+  "first_name": "Hazeem",
+  "last_name": "Bakre",
+  "birth_date": "2005-10-19",
+  "country_id": 765,
+  "club_id": 685,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 103,
+  "value": 85000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

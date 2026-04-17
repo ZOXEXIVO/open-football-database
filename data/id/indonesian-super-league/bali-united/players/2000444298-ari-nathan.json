@@ -1,0 +1,29 @@
+{
+  "id": 2000444298,
+  "first_name": "Nathan",
+  "last_name": "Ari",
+  "birth_date": "2006-08-03",
+  "country_id": 113,
+  "club_id": 7742801,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 70,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000004194,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

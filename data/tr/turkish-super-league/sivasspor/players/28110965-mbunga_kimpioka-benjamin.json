@@ -1,0 +1,33 @@
+{
+  "id": 28110965,
+  "first_name": "Benjamin",
+  "last_name": "Mbunga Kimpioka",
+  "birth_date": "2000-02-21",
+  "country_id": 797,
+  "club_id": 130382,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 105,
+  "value": 140000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2424,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

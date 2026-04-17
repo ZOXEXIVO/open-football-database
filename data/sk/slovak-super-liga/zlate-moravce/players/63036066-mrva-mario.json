@@ -1,0 +1,29 @@
+{
+  "id": 63036066,
+  "first_name": "Mário",
+  "last_name": "Mrva",
+  "birth_date": "1999-02-16",
+  "country_id": 794,
+  "club_id": 7560016,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 79,
+  "value": 22000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7560050,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

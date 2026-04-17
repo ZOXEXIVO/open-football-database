@@ -1,0 +1,29 @@
+{
+  "id": 2000026406,
+  "first_name": "Lautaro",
+  "last_name": "López",
+  "birth_date": "2005-03-30",
+  "country_id": 1649,
+  "club_id": 78027478,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 107,
+  "value": 722000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 8157175,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000473470,
+  "first_name": "Zsombor",
+  "last_name": "Knáb",
+  "birth_date": "2007-11-11",
+  "country_id": 773,
+  "club_id": 1055,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 100,
+  "value": 20000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

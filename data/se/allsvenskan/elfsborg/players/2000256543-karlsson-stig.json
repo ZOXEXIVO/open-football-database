@@ -1,0 +1,31 @@
+{
+  "id": 2000256543,
+  "first_name": "Stig",
+  "last_name": "Karlsson",
+  "birth_date": "2007-04-09",
+  "country_id": 797,
+  "club_id": 1802,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 105,
+  "value": 63000,
+  "contract": {
+    "salary": 988,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

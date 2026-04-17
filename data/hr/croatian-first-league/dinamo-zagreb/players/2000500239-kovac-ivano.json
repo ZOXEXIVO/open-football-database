@@ -1,0 +1,33 @@
+{
+  "id": 2000500239,
+  "first_name": "Ivano",
+  "last_name": "Kovač",
+  "birth_date": "2008-08-12",
+  "country_id": 761,
+  "club_id": 432,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 112,
+  "value": 156000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 24005249,
+    "expiration": "2026-06-26",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000014200,
+  "first_name": "Tawanda",
+  "last_name": "Chirewa",
+  "birth_date": "2003-10-11",
+  "country_id": 55,
+  "club_id": 740,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 115,
+  "value": 2000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 606,
+    "expiration": "2026-05-31",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

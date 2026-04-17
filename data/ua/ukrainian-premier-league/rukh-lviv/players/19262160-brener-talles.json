@@ -1,0 +1,33 @@
+{
+  "id": 19262160,
+  "first_name": "Talles",
+  "last_name": "Brener",
+  "birth_date": "1998-05-12",
+  "country_id": 1651,
+  "club_id": 71045065,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 96,
+  "value": 424000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1189,
+    "expiration": "2026-01-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

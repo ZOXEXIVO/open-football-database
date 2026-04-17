@@ -1,0 +1,31 @@
+{
+  "id": 2000491433,
+  "first_name": "Hayden",
+  "last_name": "Ford",
+  "birth_date": "2008-10-28",
+  "country_id": 765,
+  "club_id": 740,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 135,
+  "value": 399000,
+  "contract": {
+    "salary": 33800,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

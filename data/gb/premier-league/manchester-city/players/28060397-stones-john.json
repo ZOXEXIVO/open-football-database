@@ -1,0 +1,31 @@
+{
+  "id": 28060397,
+  "first_name": "John",
+  "last_name": "Stones",
+  "birth_date": "1994-05-28",
+  "country_id": 765,
+  "club_id": 679,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 156,
+  "potential_ability": 164,
+  "value": 53000000,
+  "contract": {
+    "salary": 10400000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

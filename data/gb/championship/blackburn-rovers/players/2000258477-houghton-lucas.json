@@ -1,0 +1,27 @@
+{
+  "id": 2000258477,
+  "first_name": "Lucas",
+  "last_name": "Houghton",
+  "birth_date": "2006-11-13",
+  "country_id": 765,
+  "club_id": 612,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 101,
+  "value": 84000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

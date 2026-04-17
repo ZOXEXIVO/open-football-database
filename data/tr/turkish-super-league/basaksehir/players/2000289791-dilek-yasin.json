@@ -1,0 +1,29 @@
+{
+  "id": 2000289791,
+  "first_name": "Yasin",
+  "last_name": "Dilek",
+  "birth_date": "2005-05-09",
+  "country_id": 799,
+  "club_id": 130343,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 128,
+  "value": 82000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 450550,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

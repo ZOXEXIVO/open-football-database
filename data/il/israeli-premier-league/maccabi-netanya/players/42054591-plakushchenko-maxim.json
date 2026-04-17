@@ -1,0 +1,27 @@
+{
+  "id": 42054591,
+  "first_name": "Maxim",
+  "last_name": "Plakushchenko",
+  "birth_date": "1996-01-04",
+  "country_id": 775,
+  "club_id": 1095,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 91,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000021189,
+  "first_name": "Muhammadaziz",
+  "last_name": "Ibrohimov",
+  "birth_date": "2001-03-29",
+  "country_id": 144,
+  "club_id": 485457,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 81,
+  "value": 55000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

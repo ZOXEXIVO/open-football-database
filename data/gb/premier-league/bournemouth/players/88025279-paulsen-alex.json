@@ -1,0 +1,29 @@
+{
+  "id": 88025279,
+  "first_name": "Alex",
+  "last_name": "Paulsen",
+  "birth_date": "2002-07-04",
+  "country_id": 1438,
+  "club_id": 600,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 119,
+  "value": 2000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 715912,
+    "expiration": "2026-06-30",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  }
+}

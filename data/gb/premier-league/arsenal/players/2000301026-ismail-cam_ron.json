@@ -1,0 +1,27 @@
+{
+  "id": 2000301026,
+  "first_name": "Cam'ron",
+  "last_name": "Ismail",
+  "birth_date": "2006-11-22",
+  "country_id": 765,
+  "club_id": 602,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 112,
+  "potential_ability": 147,
+  "value": 110000,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

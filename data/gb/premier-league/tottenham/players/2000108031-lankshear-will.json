@@ -1,0 +1,29 @@
+{
+  "id": 2000108031,
+  "first_name": "Will",
+  "last_name": "Lankshear",
+  "birth_date": "2005-04-20",
+  "country_id": 765,
+  "club_id": 728,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 136,
+  "value": 10000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 695,
+    "expiration": "2026-05-31",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  }
+}

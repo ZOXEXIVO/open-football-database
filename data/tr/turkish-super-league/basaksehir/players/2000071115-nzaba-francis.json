@@ -1,0 +1,29 @@
+{
+  "id": 2000071115,
+  "first_name": "Francis",
+  "last_name": "Nzaba",
+  "birth_date": "2002-12-03",
+  "country_id": 49,
+  "club_id": 130343,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 118,
+  "value": 239000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 70095984,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

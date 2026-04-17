@@ -1,0 +1,37 @@
+{
+  "id": 2000062128,
+  "first_name": "Markos",
+  "last_name": "Nino",
+  "birth_date": "2002-11-03",
+  "country_id": 772,
+  "club_id": 967,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 122,
+  "value": 6000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000003468,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

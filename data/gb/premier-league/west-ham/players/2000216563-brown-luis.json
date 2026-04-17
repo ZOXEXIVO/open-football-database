@@ -1,0 +1,27 @@
+{
+  "id": 2000216563,
+  "first_name": "Luis",
+  "last_name": "Brown",
+  "birth_date": "2005-09-25",
+  "country_id": 765,
+  "club_id": 735,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 137,
+  "value": 68000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

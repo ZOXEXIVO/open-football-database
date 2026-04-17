@@ -1,0 +1,29 @@
+{
+  "id": 38034256,
+  "first_name": "Dávid",
+  "last_name": "Dombó",
+  "birth_date": "1993-02-26",
+  "country_id": 773,
+  "club_id": 7521266,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 88,
+  "value": 89000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1064,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

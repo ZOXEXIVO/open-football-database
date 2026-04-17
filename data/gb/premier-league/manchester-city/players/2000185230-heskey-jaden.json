@@ -1,0 +1,29 @@
+{
+  "id": 2000185230,
+  "first_name": "Jaden",
+  "last_name": "Heskey",
+  "birth_date": "2005-12-17",
+  "country_id": 765,
+  "club_id": 679,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 114,
+  "potential_ability": 139,
+  "value": 423000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 709,
+    "expiration": "2026-05-31",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

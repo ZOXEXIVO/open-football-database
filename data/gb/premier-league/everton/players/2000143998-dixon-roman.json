@@ -1,0 +1,37 @@
+{
+  "id": 2000143998,
+  "first_name": "Roman",
+  "last_name": "Dixon",
+  "birth_date": "2004-12-26",
+  "country_id": 765,
+  "club_id": 650,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 126,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 720,
+    "expiration": "2026-05-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

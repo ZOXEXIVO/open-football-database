@@ -1,0 +1,29 @@
+{
+  "id": 29218164,
+  "first_name": "Kion",
+  "last_name": "Etete",
+  "birth_date": "2001-11-28",
+  "country_id": 765,
+  "club_id": 625,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 122,
+  "value": 672000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1597,
+    "expiration": "2026-05-31",
+    "salary": 468000,
+    "wage_contribution_pct": 100
+  }
+}

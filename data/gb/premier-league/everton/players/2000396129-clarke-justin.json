@@ -1,0 +1,31 @@
+{
+  "id": 2000396129,
+  "first_name": "Justin",
+  "last_name": "Clarke",
+  "birth_date": "2008-05-09",
+  "country_id": 765,
+  "club_id": 650,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 161,
+  "value": 1000000,
+  "contract": {
+    "salary": 41600,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

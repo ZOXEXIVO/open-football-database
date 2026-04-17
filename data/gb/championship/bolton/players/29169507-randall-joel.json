@@ -1,0 +1,37 @@
+{
+  "id": 29169507,
+  "first_name": "Joel",
+  "last_name": "Randall",
+  "birth_date": "1999-10-29",
+  "country_id": 765,
+  "club_id": 614,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 107,
+  "value": 693000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 613,
+    "expiration": "2026-06-30",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

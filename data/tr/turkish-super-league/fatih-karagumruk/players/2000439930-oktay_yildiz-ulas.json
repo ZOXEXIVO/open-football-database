@@ -1,0 +1,33 @@
+{
+  "id": 2000439930,
+  "first_name": "Ulaş",
+  "last_name": "Oktay Yıldız",
+  "birth_date": "2006-11-24",
+  "country_id": 799,
+  "club_id": 458631,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 109,
+  "value": 57000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 70078171,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

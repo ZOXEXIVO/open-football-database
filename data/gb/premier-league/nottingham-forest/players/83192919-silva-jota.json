@@ -1,0 +1,37 @@
+{
+  "id": 83192919,
+  "first_name": "Jota",
+  "last_name": "Silva",
+  "birth_date": "1999-08-01",
+  "country_id": 788,
+  "club_id": 692,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 125,
+  "value": 11000000,
+  "contract": {
+    "salary": 3120000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1866,
+    "expiration": "2026-06-30",
+    "salary": 3120000,
+    "wage_contribution_pct": 100
+  }
+}

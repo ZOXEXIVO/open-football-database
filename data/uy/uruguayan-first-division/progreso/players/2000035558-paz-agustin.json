@@ -1,0 +1,31 @@
+{
+  "id": 2000035558,
+  "first_name": "Agustín",
+  "last_name": "Paz",
+  "birth_date": "1999-01-14",
+  "country_id": 1649,
+  "club_id": 1923,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 82,
+  "value": 53000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

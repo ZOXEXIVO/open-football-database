@@ -1,0 +1,33 @@
+{
+  "id": 16283617,
+  "first_name": "Csaba",
+  "last_name": "Bukta",
+  "birth_date": "2001-07-25",
+  "country_id": 773,
+  "club_id": 1066,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 109,
+  "value": 183000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 38013493,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

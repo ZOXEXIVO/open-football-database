@@ -1,0 +1,27 @@
+{
+  "id": 2000230756,
+  "first_name": "Denys",
+  "last_name": "Zhdanov",
+  "birth_date": "2006-04-12",
+  "country_id": 800,
+  "club_id": 1885,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 135,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

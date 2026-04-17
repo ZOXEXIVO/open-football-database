@@ -1,0 +1,33 @@
+{
+  "id": 28047559,
+  "first_name": "Will",
+  "last_name": "Keane",
+  "birth_date": "1993-01-11",
+  "country_id": 789,
+  "club_id": 700,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 98,
+  "value": 554000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 702,
+    "expiration": "2026-05-31",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

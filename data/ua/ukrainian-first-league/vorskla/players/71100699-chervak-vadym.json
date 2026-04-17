@@ -1,0 +1,31 @@
+{
+  "id": 71100699,
+  "first_name": "Vadym",
+  "last_name": "Chervak",
+  "birth_date": "1999-05-27",
+  "country_id": 800,
+  "club_id": 1301293,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 92,
+  "value": 100000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

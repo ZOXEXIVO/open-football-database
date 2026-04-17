@@ -1,0 +1,33 @@
+{
+  "id": 2000294521,
+  "first_name": "Timothy",
+  "last_name": "Akindileni",
+  "birth_date": "2007-09-04",
+  "country_id": 763,
+  "club_id": 701,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 109,
+  "value": 23000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 687,
+    "expiration": "2026-05-31",
+    "salary": 26000,
+    "wage_contribution_pct": 100
+  }
+}

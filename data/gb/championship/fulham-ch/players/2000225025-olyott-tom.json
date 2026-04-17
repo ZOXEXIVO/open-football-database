@@ -1,0 +1,31 @@
+{
+  "id": 2000225025,
+  "first_name": "Tom",
+  "last_name": "Olyott",
+  "birth_date": "2006-01-21",
+  "country_id": 789,
+  "club_id": 654,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 114,
+  "value": 97000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

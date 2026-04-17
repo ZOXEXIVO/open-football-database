@@ -1,0 +1,31 @@
+{
+  "id": 2000165120,
+  "first_name": "Henrik",
+  "last_name": "Bäckström",
+  "birth_date": "2005-01-14",
+  "country_id": 797,
+  "club_id": 1791,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 83,
+  "value": 43000,
+  "contract": {
+    "salary": 16068,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

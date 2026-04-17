@@ -1,0 +1,27 @@
+{
+  "id": 2000486100,
+  "first_name": "Harry",
+  "last_name": "Gerrard",
+  "birth_date": "2009-06-30",
+  "country_id": 765,
+  "club_id": 700,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 69,
+  "value": 24000,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000389515,
+  "first_name": "Mark",
+  "last_name": "Hushynets",
+  "birth_date": "2007-06-14",
+  "country_id": 800,
+  "club_id": 2000053380,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 98,
+  "value": 12000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

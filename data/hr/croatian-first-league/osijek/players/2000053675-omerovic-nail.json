@@ -1,0 +1,31 @@
+{
+  "id": 2000053675,
+  "first_name": "Nail",
+  "last_name": "Omerović",
+  "birth_date": "2002-10-20",
+  "country_id": 759,
+  "club_id": 440,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 100,
+  "value": 2000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

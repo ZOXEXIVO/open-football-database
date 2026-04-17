@@ -1,0 +1,31 @@
+{
+  "id": 2000011403,
+  "first_name": "Alexis",
+  "last_name": "Ntamack",
+  "birth_date": "2004-07-13",
+  "country_id": 769,
+  "club_id": 839,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 110,
+  "value": 240000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

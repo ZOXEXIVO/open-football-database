@@ -1,0 +1,31 @@
+{
+  "id": 2000350262,
+  "first_name": "Charlie",
+  "last_name": "Pavey",
+  "birth_date": "2008-06-07",
+  "country_id": 797,
+  "club_id": 1780,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 122,
+  "value": 432000,
+  "contract": {
+    "salary": 38220,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

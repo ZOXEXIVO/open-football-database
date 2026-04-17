@@ -1,0 +1,35 @@
+{
+  "id": 42095244,
+  "first_name": "Hamode",
+  "last_name": "Kanaan",
+  "birth_date": "2000-01-14",
+  "country_id": 775,
+  "club_id": 1085,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 121,
+  "value": 2000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

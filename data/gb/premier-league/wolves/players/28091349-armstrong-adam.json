@@ -1,0 +1,27 @@
+{
+  "id": 28091349,
+  "first_name": "Adam",
+  "last_name": "Armstrong",
+  "birth_date": "1997-02-10",
+  "country_id": 765,
+  "club_id": 740,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 126,
+  "value": 15000000,
+  "contract": {
+    "salary": 2600000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

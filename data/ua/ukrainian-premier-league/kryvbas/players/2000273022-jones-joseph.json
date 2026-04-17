@@ -1,0 +1,27 @@
+{
+  "id": 2000273022,
+  "first_name": "Joseph",
+  "last_name": "Jones",
+  "birth_date": "2005-07-30",
+  "country_id": 382,
+  "club_id": 2000028043,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 104,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

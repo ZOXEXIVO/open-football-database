@@ -1,0 +1,31 @@
+{
+  "id": 2000300572,
+  "first_name": "Temur",
+  "last_name": "Odilov",
+  "birth_date": "2005-10-12",
+  "country_id": 144,
+  "club_id": 475411,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 102,
+  "value": 7000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

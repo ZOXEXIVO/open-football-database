@@ -1,0 +1,27 @@
+{
+  "id": 2000476621,
+  "first_name": "Eugene",
+  "last_name": "Nyarko",
+  "birth_date": "2009-03-13",
+  "country_id": 765,
+  "club_id": 600,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 111,
+  "value": 11000,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

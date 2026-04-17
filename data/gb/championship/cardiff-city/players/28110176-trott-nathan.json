@@ -1,0 +1,29 @@
+{
+  "id": 28110176,
+  "first_name": "Nathan",
+  "last_name": "Trott",
+  "birth_date": "1998-11-21",
+  "country_id": 765,
+  "club_id": 505,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 122,
+  "value": 1000000,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 625,
+    "expiration": "2026-06-30",
+    "salary": 728000,
+    "wage_contribution_pct": 100
+  }
+}

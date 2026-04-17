@@ -1,0 +1,29 @@
+{
+  "id": 2000216997,
+  "first_name": "Samuel",
+  "last_name": "Bagin",
+  "birth_date": "2004-02-08",
+  "country_id": 794,
+  "club_id": 130872,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 99,
+  "value": 113000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 63011666,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

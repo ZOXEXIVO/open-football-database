@@ -1,0 +1,35 @@
+{
+  "id": 42101552,
+  "first_name": "Roy",
+  "last_name": "Revivo",
+  "birth_date": "2003-05-22",
+  "country_id": 775,
+  "club_id": 1097,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 121,
+  "value": 2000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

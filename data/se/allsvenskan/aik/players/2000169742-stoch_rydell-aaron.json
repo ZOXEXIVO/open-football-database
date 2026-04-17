@@ -1,0 +1,33 @@
+{
+  "id": 2000169742,
+  "first_name": "Aaron",
+  "last_name": "Stoch Rydell",
+  "birth_date": "2006-10-14",
+  "country_id": 797,
+  "club_id": 1780,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 114,
+  "value": 151000,
+  "contract": {
+    "salary": 32188,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 68012711,
+    "expiration": "2026-11-30",
+    "salary": 32188,
+    "wage_contribution_pct": 100
+  }
+}

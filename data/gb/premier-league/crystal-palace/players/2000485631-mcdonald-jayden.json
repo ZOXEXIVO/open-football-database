@@ -1,0 +1,31 @@
+{
+  "id": 2000485631,
+  "first_name": "Jayden",
+  "last_name": "McDonald",
+  "birth_date": "2008-12-17",
+  "country_id": 765,
+  "club_id": 642,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 115,
+  "value": 28000,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

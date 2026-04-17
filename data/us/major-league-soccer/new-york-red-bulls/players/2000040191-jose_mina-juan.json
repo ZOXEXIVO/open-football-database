@@ -1,0 +1,27 @@
+{
+  "id": 2000040191,
+  "first_name": "Juan",
+  "last_name": "José Mina",
+  "birth_date": "2004-07-27",
+  "country_id": 1653,
+  "club_id": 72000160,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 108,
+  "value": 966000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

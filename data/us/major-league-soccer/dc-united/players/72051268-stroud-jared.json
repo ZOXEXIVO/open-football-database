@@ -1,0 +1,31 @@
+{
+  "id": 72051268,
+  "first_name": "Jared",
+  "last_name": "Stroud",
+  "birth_date": "1996-07-10",
+  "country_id": 390,
+  "club_id": 1913,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 92,
+  "value": 3000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

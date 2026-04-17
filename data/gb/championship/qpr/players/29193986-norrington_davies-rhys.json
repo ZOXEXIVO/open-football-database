@@ -1,0 +1,33 @@
+{
+  "id": 29193986,
+  "first_name": "Rhys",
+  "last_name": "Norrington-Davies",
+  "birth_date": "1999-04-22",
+  "country_id": 801,
+  "club_id": 708,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 98,
+  "value": 4000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 701,
+    "expiration": "2026-05-31",
+    "salary": 780000,
+    "wage_contribution_pct": 100
+  }
+}

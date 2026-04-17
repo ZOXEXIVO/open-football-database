@@ -1,0 +1,31 @@
+{
+  "id": 2000155737,
+  "first_name": "Ousséni",
+  "last_name": "Bouda",
+  "birth_date": "2000-04-28",
+  "country_id": 9,
+  "club_id": 1910,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 102,
+  "value": 833000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

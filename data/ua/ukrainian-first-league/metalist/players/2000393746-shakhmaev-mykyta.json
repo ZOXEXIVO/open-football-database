@@ -1,0 +1,35 @@
+{
+  "id": 2000393746,
+  "first_name": "Mykyta",
+  "last_name": "Shakhmaev",
+  "birth_date": "2007-08-22",
+  "country_id": 800,
+  "club_id": 130868,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 94,
+  "value": 190000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

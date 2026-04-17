@@ -1,0 +1,27 @@
+{
+  "id": 2000389093,
+  "first_name": "Nikola",
+  "last_name": "Lopatin",
+  "birth_date": "2007-12-19",
+  "country_id": 800,
+  "club_id": 1902,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 119,
+  "value": 314000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

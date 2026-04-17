@@ -1,0 +1,31 @@
+{
+  "id": 2000275056,
+  "first_name": "Justin",
+  "last_name": "Oguntolu",
+  "birth_date": "2006-10-29",
+  "country_id": 765,
+  "club_id": 645,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 127,
+  "value": 51000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

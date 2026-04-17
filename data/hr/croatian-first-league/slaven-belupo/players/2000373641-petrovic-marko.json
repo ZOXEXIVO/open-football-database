@@ -1,0 +1,33 @@
+{
+  "id": 2000373641,
+  "first_name": "Marko",
+  "last_name": "Petrović",
+  "birth_date": "2006-04-06",
+  "country_id": 761,
+  "club_id": 106749,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 85,
+  "value": 64000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129885,
+    "expiration": "2026-06-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

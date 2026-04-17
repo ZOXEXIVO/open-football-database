@@ -1,0 +1,27 @@
+{
+  "id": 13194648,
+  "first_name": "Joseph",
+  "last_name": "Paintsil",
+  "birth_date": "1998-02-01",
+  "country_id": 21,
+  "club_id": 1907,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 112,
+  "value": 4000000,
+  "contract": {
+    "salary": 3120000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

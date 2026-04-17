@@ -1,0 +1,39 @@
+{
+  "id": 42029363,
+  "first_name": "Dor",
+  "last_name": "Micha",
+  "birth_date": "1992-03-02",
+  "country_id": 775,
+  "club_id": 1083,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 106,
+  "value": 316000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

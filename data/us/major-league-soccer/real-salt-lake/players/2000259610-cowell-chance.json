@@ -1,0 +1,33 @@
+{
+  "id": 2000259610,
+  "first_name": "Chance",
+  "last_name": "Cowell",
+  "birth_date": "2008-07-05",
+  "country_id": 390,
+  "club_id": 980543,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 106,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 72043491,
+    "expiration": "2026-11-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

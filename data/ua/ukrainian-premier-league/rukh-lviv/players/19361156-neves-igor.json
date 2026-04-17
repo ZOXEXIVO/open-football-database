@@ -1,0 +1,29 @@
+{
+  "id": 19361156,
+  "first_name": "Igor",
+  "last_name": "Neves",
+  "birth_date": "1999-03-13",
+  "country_id": 1651,
+  "club_id": 2000053380,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 78,
+  "value": 471000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71045065,
+    "expiration": "2026-06-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

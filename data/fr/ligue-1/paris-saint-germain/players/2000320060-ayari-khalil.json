@@ -1,0 +1,34 @@
+{
+  "id": 2000320060,
+  "first_name": "Khalil",
+  "last_name": "Ayari",
+  "birth_date": "2005-02-02",
+  "country_id": 51,
+  "club_id": 5390013,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 118,
+  "value": 864000,
+  "contract": {
+    "salary": 11336,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 868,
+    "expiration": "2026-06-30",
+    "salary": 11336,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

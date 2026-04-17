@@ -1,0 +1,35 @@
+{
+  "id": 2000077634,
+  "first_name": "Justin",
+  "last_name": "Devenny",
+  "birth_date": "2003-10-11",
+  "country_id": 785,
+  "club_id": 642,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 133,
+  "value": 8000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

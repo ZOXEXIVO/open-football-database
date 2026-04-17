@@ -1,0 +1,33 @@
+{
+  "id": 37078342,
+  "first_name": "Nigel",
+  "last_name": "Lonwijk",
+  "birth_date": "2002-10-27",
+  "country_id": 387,
+  "club_id": 740,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 115,
+  "value": 1000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 677,
+    "expiration": "2026-05-31",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  }
+}

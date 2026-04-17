@@ -1,0 +1,31 @@
+{
+  "id": 29176893,
+  "first_name": "Joshua",
+  "last_name": "Kayode",
+  "birth_date": "2000-05-04",
+  "country_id": 789,
+  "club_id": 704,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 104,
+  "value": 60000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

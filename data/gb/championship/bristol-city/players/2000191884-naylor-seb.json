@@ -1,0 +1,27 @@
+{
+  "id": 2000191884,
+  "first_name": "Seb",
+  "last_name": "Naylor",
+  "birth_date": "2005-09-10",
+  "country_id": 765,
+  "club_id": 619,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 107,
+  "value": 558000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

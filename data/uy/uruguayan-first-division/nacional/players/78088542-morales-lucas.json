@@ -1,0 +1,41 @@
+{
+  "id": 78088542,
+  "first_name": "Lucas",
+  "last_name": "Morales",
+  "birth_date": "1999-11-25",
+  "country_id": 1657,
+  "club_id": 1921,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 113,
+  "value": 56000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 102924,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

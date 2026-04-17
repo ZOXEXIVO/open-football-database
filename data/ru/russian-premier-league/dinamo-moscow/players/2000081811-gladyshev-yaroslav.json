@@ -1,0 +1,27 @@
+{
+  "id": 2000081811,
+  "first_name": "Yaroslav",
+  "last_name": "Gladyshev",
+  "birth_date": "2003-05-05",
+  "country_id": 791,
+  "club_id": 1520,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 128,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

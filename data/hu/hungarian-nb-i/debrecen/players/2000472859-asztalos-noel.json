@@ -1,0 +1,27 @@
+{
+  "id": 2000472859,
+  "first_name": "Noel",
+  "last_name": "Asztalos",
+  "birth_date": "2008-08-08",
+  "country_id": 773,
+  "club_id": 1052,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 107,
+  "value": 117000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

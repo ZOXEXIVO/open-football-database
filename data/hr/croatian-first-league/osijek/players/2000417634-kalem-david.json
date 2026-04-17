@@ -1,0 +1,26 @@
+{
+  "id": 2000417634,
+  "first_name": "David",
+  "last_name": "Kalem",
+  "birth_date": "2008-08-07",
+  "country_id": 761,
+  "club_id": 440,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 138,
+  "value": 563000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01"
+  }
+}

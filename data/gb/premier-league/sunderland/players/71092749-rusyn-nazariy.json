@@ -1,0 +1,33 @@
+{
+  "id": 71092749,
+  "first_name": "Nazariy",
+  "last_name": "Rusyn",
+  "birth_date": "1998-10-25",
+  "country_id": 800,
+  "club_id": 722,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 113,
+  "value": 578000,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129580,
+    "expiration": "2026-06-30",
+    "salary": 728000,
+    "wage_contribution_pct": 100
+  }
+}

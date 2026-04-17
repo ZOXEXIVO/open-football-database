@@ -1,0 +1,31 @@
+{
+  "id": 2000198729,
+  "first_name": "Charlie",
+  "last_name": "Pavey",
+  "birth_date": "2006-03-26",
+  "country_id": 765,
+  "club_id": 603,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 108,
+  "value": 29000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 53109179,
+  "first_name": "Tobias",
+  "last_name": "Heintz",
+  "birth_date": "1998-07-13",
+  "country_id": 786,
+  "club_id": 1803,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 112,
+  "value": 3000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

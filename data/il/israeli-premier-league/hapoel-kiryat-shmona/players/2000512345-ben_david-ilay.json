@@ -1,0 +1,27 @@
+{
+  "id": 2000512345,
+  "first_name": "Ilay",
+  "last_name": "Ben-David",
+  "birth_date": "2006-11-03",
+  "country_id": 775,
+  "club_id": 7861687,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 91,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

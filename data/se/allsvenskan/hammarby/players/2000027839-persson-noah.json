@@ -1,0 +1,27 @@
+{
+  "id": 2000027839,
+  "first_name": "Noah",
+  "last_name": "Persson",
+  "birth_date": "2003-07-16",
+  "country_id": 797,
+  "club_id": 1797,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 108,
+  "value": 2000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 85030227,
+  "first_name": "Loïc",
+  "last_name": "Nego",
+  "birth_date": "1991-01-15",
+  "country_id": 773,
+  "club_id": 856,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 117,
+  "value": 123000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

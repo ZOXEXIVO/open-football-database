@@ -1,0 +1,37 @@
+{
+  "id": 37076129,
+  "first_name": "Ruben",
+  "last_name": "Roosken",
+  "birth_date": "2000-03-02",
+  "country_id": 784,
+  "club_id": 664,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 94,
+  "value": 792000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 695,
+    "expiration": "2026-05-31",
+    "salary": 312000,
+    "wage_contribution_pct": 100
+  }
+}

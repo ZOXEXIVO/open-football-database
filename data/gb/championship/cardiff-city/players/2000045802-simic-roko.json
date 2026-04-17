@@ -1,0 +1,29 @@
+{
+  "id": 2000045802,
+  "first_name": "Roko",
+  "last_name": "Šimić",
+  "birth_date": "2003-09-10",
+  "country_id": 761,
+  "club_id": 625,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 107,
+  "value": 7000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 931,
+    "expiration": "2026-06-30",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

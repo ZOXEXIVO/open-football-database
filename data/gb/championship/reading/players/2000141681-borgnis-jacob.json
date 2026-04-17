@@ -1,0 +1,37 @@
+{
+  "id": 2000141681,
+  "first_name": "Jacob",
+  "last_name": "Borgnis",
+  "birth_date": "2004-09-06",
+  "country_id": 1438,
+  "club_id": 702,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 106,
+  "value": 171000,
+  "contract": {
+    "salary": 31200,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 712,
+    "expiration": "2026-05-31",
+    "salary": 31200,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 42101863,
+  "first_name": "Ziv",
+  "last_name": "Morgan",
+  "birth_date": "2000-01-19",
+  "country_id": 775,
+  "club_id": 1090,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 97,
+  "value": 193000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

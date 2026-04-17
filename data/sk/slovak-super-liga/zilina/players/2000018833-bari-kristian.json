@@ -1,0 +1,27 @@
+{
+  "id": 2000018833,
+  "first_name": "Kristián",
+  "last_name": "Bari",
+  "birth_date": "2001-02-06",
+  "country_id": 794,
+  "club_id": 1620,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 92,
+  "value": 140000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

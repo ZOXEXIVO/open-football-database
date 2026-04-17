@@ -1,0 +1,33 @@
+{
+  "id": 28127192,
+  "first_name": "Josh",
+  "last_name": "Wilson-Esbrand",
+  "birth_date": "2002-12-26",
+  "country_id": 765,
+  "club_id": 679,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 114,
+  "potential_ability": 137,
+  "value": 270000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 717327,
+    "expiration": "2026-06-30",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

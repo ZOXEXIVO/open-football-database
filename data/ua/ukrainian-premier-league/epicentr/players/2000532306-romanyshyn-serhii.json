@@ -1,0 +1,29 @@
+{
+  "id": 2000532306,
+  "first_name": "Serhii",
+  "last_name": "Romanyshyn",
+  "birth_date": "2009-05-09",
+  "country_id": 800,
+  "club_id": 71047273,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 97,
+  "value": 55000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71017165,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

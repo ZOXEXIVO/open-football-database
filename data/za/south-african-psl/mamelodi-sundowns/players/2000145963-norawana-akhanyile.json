@@ -1,0 +1,33 @@
+{
+  "id": 2000145963,
+  "first_name": "Akhanyile",
+  "last_name": "Norawana",
+  "birth_date": "2004-11-21",
+  "country_id": 45,
+  "club_id": 1644,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 102,
+  "value": 15000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5688086,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

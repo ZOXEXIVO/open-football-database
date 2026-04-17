@@ -1,0 +1,29 @@
+{
+  "id": 42099965,
+  "first_name": "Roy",
+  "last_name": "Sasson",
+  "birth_date": "2001-12-13",
+  "country_id": 775,
+  "club_id": 1083,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 85,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7862562,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

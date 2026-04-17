@@ -1,0 +1,35 @@
+{
+  "id": 2000252217,
+  "first_name": "Fabian",
+  "last_name": "Björklund",
+  "birth_date": "2007-05-30",
+  "country_id": 797,
+  "club_id": 1809,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 87,
+  "value": 9000,
+  "contract": {
+    "salary": 364,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

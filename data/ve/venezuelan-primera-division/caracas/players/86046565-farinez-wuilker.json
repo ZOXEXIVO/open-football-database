@@ -1,0 +1,29 @@
+{
+  "id": 86046565,
+  "first_name": "Wuilker",
+  "last_name": "Fariñez",
+  "birth_date": "1998-02-15",
+  "country_id": 1658,
+  "club_id": 109188,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 113,
+  "value": 351000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000521375,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

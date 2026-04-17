@@ -1,0 +1,26 @@
+{
+  "id": 2000396619,
+  "first_name": "Ziyanda",
+  "last_name": "Mchunu",
+  "birth_date": "2008-04-25",
+  "country_id": 45,
+  "club_id": 1643,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 123,
+  "value": 42000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01"
+  }
+}

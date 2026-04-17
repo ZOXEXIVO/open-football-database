@@ -1,0 +1,31 @@
+{
+  "id": 28100207,
+  "first_name": "Harvey",
+  "last_name": "Barnes",
+  "birth_date": "1997-12-09",
+  "country_id": 765,
+  "club_id": 688,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 124,
+  "potential_ability": 148,
+  "value": 33000000,
+  "contract": {
+    "salary": 6240000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000079045,
+  "first_name": "Johnny",
+  "last_name": "Kenny",
+  "birth_date": "2003-06-06",
+  "country_id": 789,
+  "club_id": 1569,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 2000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 614,
+    "expiration": "2026-06-30",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

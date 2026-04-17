@@ -1,0 +1,35 @@
+{
+  "id": 2000209146,
+  "first_name": "Ruan",
+  "last_name": "",
+  "birth_date": "2005-05-03",
+  "country_id": 1651,
+  "club_id": 458718,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 119,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

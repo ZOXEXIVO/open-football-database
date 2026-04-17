@@ -1,0 +1,27 @@
+{
+  "id": 2000380112,
+  "first_name": "Jerome",
+  "last_name": "Richards",
+  "birth_date": "2006-10-20",
+  "country_id": 765,
+  "club_id": 645,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 113,
+  "value": 27000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000273496,
+  "first_name": "Sekou",
+  "last_name": "Kaba",
+  "birth_date": "2007-03-28",
+  "country_id": 765,
+  "club_id": 625,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 107,
+  "value": 49000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 91194543,
+  "first_name": "Muhammed",
+  "last_name": "Cham",
+  "birth_date": "2000-09-26",
+  "country_id": 755,
+  "club_id": 1879,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 138,
+  "value": 3000000,
+  "contract": {
+    "salary": 1404000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 474,
+    "expiration": "2026-06-30",
+    "salary": 1404000,
+    "wage_contribution_pct": 100
+  }
+}

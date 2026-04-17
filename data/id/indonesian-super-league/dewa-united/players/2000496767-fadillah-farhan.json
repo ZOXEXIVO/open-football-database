@@ -1,0 +1,29 @@
+{
+  "id": 2000496767,
+  "first_name": "Farhan",
+  "last_name": "Fadillah",
+  "birth_date": "2005-11-20",
+  "country_id": 113,
+  "club_id": 2000090667,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 64,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000185211,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

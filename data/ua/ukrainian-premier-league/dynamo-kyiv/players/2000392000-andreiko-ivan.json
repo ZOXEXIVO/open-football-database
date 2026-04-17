@@ -1,0 +1,27 @@
+{
+  "id": 2000392000,
+  "first_name": "Ivan",
+  "last_name": "Andreiko",
+  "birth_date": "2008-03-11",
+  "country_id": 800,
+  "club_id": 1885,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 136,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

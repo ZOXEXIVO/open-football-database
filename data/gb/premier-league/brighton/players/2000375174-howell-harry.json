@@ -1,0 +1,27 @@
+{
+  "id": 2000375174,
+  "first_name": "Harry",
+  "last_name": "Howell",
+  "birth_date": "2008-04-20",
+  "country_id": 765,
+  "club_id": 618,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 153,
+  "value": 11000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

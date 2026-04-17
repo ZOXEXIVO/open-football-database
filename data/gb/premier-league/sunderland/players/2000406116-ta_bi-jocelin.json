@@ -1,0 +1,35 @@
+{
+  "id": 2000406116,
+  "first_name": "Jocelin",
+  "last_name": "Ta Bi",
+  "birth_date": "2005-02-09",
+  "country_id": 24,
+  "club_id": 722,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 118,
+  "value": 5000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000418833,
+  "first_name": "Ivano",
+  "last_name": "Papić",
+  "birth_date": "2008-03-18",
+  "country_id": 761,
+  "club_id": 433,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 112,
+  "value": 69000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

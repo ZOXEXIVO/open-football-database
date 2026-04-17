@@ -1,0 +1,29 @@
+{
+  "id": 21028829,
+  "first_name": "Nihad",
+  "last_name": "Mujakić",
+  "birth_date": "1998-04-15",
+  "country_id": 759,
+  "club_id": 1952,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 101,
+  "value": 826000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130341,
+    "expiration": "2026-06-30",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

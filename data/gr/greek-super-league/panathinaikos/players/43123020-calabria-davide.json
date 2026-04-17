@@ -1,0 +1,27 @@
+{
+  "id": 43123020,
+  "first_name": "Davide",
+  "last_name": "Calabria",
+  "birth_date": "1996-12-06",
+  "country_id": 776,
+  "club_id": 983,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 128,
+  "value": 15000000,
+  "contract": {
+    "salary": 2132000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

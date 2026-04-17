@@ -1,0 +1,33 @@
+{
+  "id": 2000215455,
+  "first_name": "Ishé",
+  "last_name": "Samuels-Smith",
+  "birth_date": "2006-06-05",
+  "country_id": 765,
+  "club_id": 630,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 149,
+  "value": 4000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 724,
+    "expiration": "2026-05-31",
+    "salary": 1040000,
+    "wage_contribution_pct": 100
+  }
+}

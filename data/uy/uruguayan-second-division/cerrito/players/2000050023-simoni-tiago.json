@@ -1,0 +1,27 @@
+{
+  "id": 2000050023,
+  "first_name": "Tiago",
+  "last_name": "Simoni",
+  "birth_date": "2004-04-30",
+  "country_id": 1649,
+  "club_id": 5512780,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 86,
+  "value": 55000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

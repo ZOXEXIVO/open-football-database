@@ -1,0 +1,31 @@
+{
+  "id": 2000050197,
+  "first_name": "Lenny",
+  "last_name": "Joseph",
+  "birth_date": "2000-10-12",
+  "country_id": 769,
+  "club_id": 1055,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 108,
+  "value": 583000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

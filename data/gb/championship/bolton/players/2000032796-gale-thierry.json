@@ -1,0 +1,27 @@
+{
+  "id": 2000032796,
+  "first_name": "Thierry",
+  "last_name": "Gale",
+  "birth_date": "2002-05-01",
+  "country_id": 361,
+  "club_id": 614,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 1000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

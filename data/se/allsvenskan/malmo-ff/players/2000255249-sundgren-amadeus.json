@@ -1,0 +1,27 @@
+{
+  "id": 2000255249,
+  "first_name": "Amadeus",
+  "last_name": "Sundgren",
+  "birth_date": "2007-01-20",
+  "country_id": 797,
+  "club_id": 1816,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 104,
+  "value": 166000,
+  "contract": {
+    "salary": 1976,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

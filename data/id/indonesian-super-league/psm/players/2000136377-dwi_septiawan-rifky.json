@@ -1,0 +1,33 @@
+{
+  "id": 2000136377,
+  "first_name": "Rifky",
+  "last_name": "Dwi Septiawan",
+  "birth_date": "2002-02-03",
+  "country_id": 113,
+  "club_id": 5622746,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 60,
+  "value": 28000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 135494,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

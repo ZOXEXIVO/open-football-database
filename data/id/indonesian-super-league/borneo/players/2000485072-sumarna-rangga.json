@@ -1,0 +1,29 @@
+{
+  "id": 2000485072,
+  "first_name": "Rangga",
+  "last_name": "Sumarna",
+  "birth_date": "2006-07-10",
+  "country_id": 113,
+  "club_id": 41021352,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 69,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 135497,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

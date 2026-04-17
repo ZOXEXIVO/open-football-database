@@ -1,0 +1,31 @@
+{
+  "id": 2000380580,
+  "first_name": "Myles",
+  "last_name": "Dayman",
+  "birth_date": "2008-08-30",
+  "country_id": 765,
+  "club_id": 740,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 128,
+  "value": 361000,
+  "contract": {
+    "salary": 33800,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

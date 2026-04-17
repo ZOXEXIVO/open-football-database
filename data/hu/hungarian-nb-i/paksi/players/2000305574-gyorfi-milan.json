@@ -1,0 +1,41 @@
+{
+  "id": 2000305574,
+  "first_name": "Milán",
+  "last_name": "Győrfi",
+  "birth_date": "2006-11-23",
+  "country_id": 773,
+  "club_id": 7521327,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 83,
+  "value": 210000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 38042162,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

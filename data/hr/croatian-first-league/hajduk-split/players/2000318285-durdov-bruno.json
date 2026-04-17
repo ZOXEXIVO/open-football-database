@@ -1,0 +1,27 @@
+{
+  "id": 2000318285,
+  "first_name": "Bruno",
+  "last_name": "Durdov",
+  "birth_date": "2007-12-11",
+  "country_id": 761,
+  "club_id": 433,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 136,
+  "value": 3000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

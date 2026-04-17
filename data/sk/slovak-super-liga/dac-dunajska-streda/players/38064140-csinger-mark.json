@@ -1,0 +1,33 @@
+{
+  "id": 38064140,
+  "first_name": "Márk",
+  "last_name": "Csinger",
+  "birth_date": "2003-05-31",
+  "country_id": 773,
+  "club_id": 1614,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 103,
+  "value": 310000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1054,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

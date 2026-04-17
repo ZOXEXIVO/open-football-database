@@ -1,0 +1,29 @@
+{
+  "id": 2000017534,
+  "first_name": "Fabian",
+  "last_name": "Mrozek",
+  "birth_date": "2003-09-28",
+  "country_id": 787,
+  "club_id": 676,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 112,
+  "potential_ability": 140,
+  "value": 234000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 20041327,
+    "expiration": "2026-12-31",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

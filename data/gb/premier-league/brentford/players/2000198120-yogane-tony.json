@@ -1,0 +1,33 @@
+{
+  "id": 2000198120,
+  "first_name": "Tony",
+  "last_name": "Yogane",
+  "birth_date": "2005-09-24",
+  "country_id": 765,
+  "club_id": 617,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 107,
+  "value": 896000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1555,
+    "expiration": "2026-05-31",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

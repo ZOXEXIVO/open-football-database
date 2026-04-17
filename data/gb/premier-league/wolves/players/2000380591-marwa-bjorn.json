@@ -1,0 +1,27 @@
+{
+  "id": 2000380591,
+  "first_name": "Bjørn",
+  "last_name": "Marwa",
+  "birth_date": "2007-12-26",
+  "country_id": 786,
+  "club_id": 740,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 125,
+  "value": 82000,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

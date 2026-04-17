@@ -1,0 +1,27 @@
+{
+  "id": 2000206431,
+  "first_name": "Enzo",
+  "last_name": "Cantero",
+  "birth_date": "2005-05-15",
+  "country_id": 769,
+  "club_id": 1992,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 106,
+  "value": 258000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

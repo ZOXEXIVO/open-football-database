@@ -1,0 +1,39 @@
+{
+  "id": 2000473611,
+  "first_name": "George",
+  "last_name": "Stokes",
+  "birth_date": "2008-11-15",
+  "country_id": 765,
+  "club_id": 645,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 131,
+  "value": 31000,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

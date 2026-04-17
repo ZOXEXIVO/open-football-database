@@ -1,0 +1,28 @@
+{
+  "id": 2000232690,
+  "first_name": "Ndumiso",
+  "last_name": "Ngiba",
+  "birth_date": "2002-03-26",
+  "country_id": 45,
+  "club_id": 1645,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 116,
+  "value": 24000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2032-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 65033935,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

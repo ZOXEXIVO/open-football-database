@@ -1,0 +1,29 @@
+{
+  "id": 2000167638,
+  "first_name": "Nelson",
+  "last_name": "Pierre",
+  "birth_date": "2005-03-22",
+  "country_id": 375,
+  "club_id": 4400014,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 110,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000020059,
+    "expiration": "2026-11-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000410349,
+  "first_name": "Vencel",
+  "last_name": "Lajcsik",
+  "birth_date": "2004-10-14",
+  "country_id": 773,
+  "club_id": 130821,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 76,
+  "value": 107000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 38013493,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

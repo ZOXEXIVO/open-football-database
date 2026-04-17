@@ -1,0 +1,29 @@
+{
+  "id": 58123846,
+  "first_name": "Fedor",
+  "last_name": "Chalov",
+  "birth_date": "1998-04-10",
+  "country_id": 791,
+  "club_id": 982,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 123,
+  "value": 3000000,
+  "contract": {
+    "salary": 1404000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1875,
+    "expiration": "2026-06-30",
+    "salary": 1404000,
+    "wage_contribution_pct": 100
+  }
+}

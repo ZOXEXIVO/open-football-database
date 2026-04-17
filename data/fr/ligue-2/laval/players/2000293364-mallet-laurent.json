@@ -1,0 +1,31 @@
+{
+  "id": 2000293364,
+  "first_name": "Laurent",
+  "last_name": "Mallet",
+  "birth_date": "2007-02-08",
+  "country_id": 769,
+  "club_id": 2062,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 94,
+  "value": 29000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

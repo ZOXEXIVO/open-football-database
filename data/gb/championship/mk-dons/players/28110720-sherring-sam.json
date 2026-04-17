@@ -1,0 +1,29 @@
+{
+  "id": 28110720,
+  "first_name": "Sam",
+  "last_name": "Sherring",
+  "birth_date": "2000-05-08",
+  "country_id": 765,
+  "club_id": 151027,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 100,
+  "value": 103000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 631,
+    "expiration": "2026-05-31",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

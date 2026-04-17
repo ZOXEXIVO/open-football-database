@@ -1,0 +1,31 @@
+{
+  "id": 2000313523,
+  "first_name": "Kyle",
+  "last_name": "Fitzgerald",
+  "birth_date": "2007-01-28",
+  "country_id": 789,
+  "club_id": 688,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 125,
+  "value": 153000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

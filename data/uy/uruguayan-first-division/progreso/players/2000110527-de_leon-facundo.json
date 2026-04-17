@@ -1,0 +1,35 @@
+{
+  "id": 2000110527,
+  "first_name": "Facundo",
+  "last_name": "de León",
+  "birth_date": "2004-05-01",
+  "country_id": 1657,
+  "club_id": 1923,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 81,
+  "value": 422000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

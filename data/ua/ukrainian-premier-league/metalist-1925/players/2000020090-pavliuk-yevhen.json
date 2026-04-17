@@ -1,0 +1,27 @@
+{
+  "id": 2000020090,
+  "first_name": "Yevhen",
+  "last_name": "Pavliuk",
+  "birth_date": "2002-08-18",
+  "country_id": 800,
+  "club_id": 71099430,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 99,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

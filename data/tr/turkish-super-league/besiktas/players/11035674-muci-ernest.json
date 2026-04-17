@@ -1,0 +1,37 @@
+{
+  "id": 11035674,
+  "first_name": "Ernest",
+  "last_name": "Muçi",
+  "birth_date": "2001-03-19",
+  "country_id": 752,
+  "club_id": 1866,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 138,
+  "value": 14000000,
+  "contract": {
+    "salary": 1924000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1879,
+    "expiration": "2026-06-30",
+    "salary": 1924000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000033064,
+  "first_name": "Ákos",
+  "last_name": "Debreceni",
+  "birth_date": "2003-03-24",
+  "country_id": 773,
+  "club_id": 7521327,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 94,
+  "value": 114000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 38042162,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

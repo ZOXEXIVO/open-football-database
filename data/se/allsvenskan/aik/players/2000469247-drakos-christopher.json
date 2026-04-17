@@ -1,0 +1,27 @@
+{
+  "id": 2000469247,
+  "first_name": "Christopher",
+  "last_name": "Drakos",
+  "birth_date": "2008-02-26",
+  "country_id": 797,
+  "club_id": 1780,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 104,
+  "value": 7000,
+  "contract": {
+    "salary": 364,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

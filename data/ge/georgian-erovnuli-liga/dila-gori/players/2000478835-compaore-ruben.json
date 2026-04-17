@@ -1,0 +1,27 @@
+{
+  "id": 2000478835,
+  "first_name": "Ruben",
+  "last_name": "Compaoré",
+  "birth_date": "2006-06-01",
+  "country_id": 9,
+  "club_id": 890,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 81,
+  "value": 102000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

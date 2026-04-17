@@ -1,0 +1,33 @@
+{
+  "id": 2000029018,
+  "first_name": "Eduard",
+  "last_name": "Kozik",
+  "birth_date": "2003-04-19",
+  "country_id": 800,
+  "club_id": 1895,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 130,
+  "value": 4000000,
+  "contract": {
+    "salary": 13468,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71063212,
+    "expiration": "2026-06-15",
+    "salary": 13468,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 28108490,
+  "first_name": "Jadon",
+  "last_name": "Sancho",
+  "birth_date": "2000-03-25",
+  "country_id": 765,
+  "club_id": 680,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 133,
+  "potential_ability": 163,
+  "value": 36000000,
+  "contract": {
+    "salary": 14300000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 603,
+    "expiration": "2026-05-31",
+    "salary": 14300000,
+    "wage_contribution_pct": 100
+  }
+}

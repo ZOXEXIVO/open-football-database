@@ -1,0 +1,37 @@
+{
+  "id": 67289902,
+  "first_name": "Axel",
+  "last_name": "Pandiani",
+  "birth_date": "2000-08-23",
+  "country_id": 1657,
+  "club_id": 5512559,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 75,
+  "value": 43000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 8825223,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

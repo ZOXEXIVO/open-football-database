@@ -1,0 +1,41 @@
+{
+  "id": 2000225711,
+  "first_name": "Emilio",
+  "last_name": "Lawrence",
+  "birth_date": "2005-09-20",
+  "country_id": 793,
+  "club_id": 679,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 114,
+  "potential_ability": 149,
+  "value": 1000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 677,
+    "expiration": "2026-05-31",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

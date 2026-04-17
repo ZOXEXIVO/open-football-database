@@ -1,0 +1,35 @@
+{
+  "id": 2000305360,
+  "first_name": "Frankie",
+  "last_name": "Coulson",
+  "birth_date": "2007-03-05",
+  "country_id": 765,
+  "club_id": 685,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 109,
+  "value": 116000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

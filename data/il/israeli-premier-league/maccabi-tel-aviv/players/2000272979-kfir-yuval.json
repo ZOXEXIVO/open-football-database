@@ -1,0 +1,31 @@
+{
+  "id": 2000272979,
+  "first_name": "Yuval",
+  "last_name": "Kfir",
+  "birth_date": "2006-02-22",
+  "country_id": 775,
+  "club_id": 1097,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 130,
+  "value": 28000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

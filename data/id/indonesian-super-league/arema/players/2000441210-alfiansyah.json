@@ -1,0 +1,29 @@
+{
+  "id": 2000441210,
+  "first_name": "Alfiansyah",
+  "last_name": "",
+  "birth_date": "2003-10-29",
+  "country_id": 113,
+  "club_id": 5622736,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 62,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5622744,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

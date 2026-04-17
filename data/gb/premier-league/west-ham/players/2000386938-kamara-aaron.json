@@ -1,0 +1,31 @@
+{
+  "id": 2000386938,
+  "first_name": "Aaron",
+  "last_name": "Kamara",
+  "birth_date": "2007-10-14",
+  "country_id": 765,
+  "club_id": 735,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 122,
+  "value": 68000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

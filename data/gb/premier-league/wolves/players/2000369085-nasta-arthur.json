@@ -1,0 +1,29 @@
+{
+  "id": 2000369085,
+  "first_name": "Arthur",
+  "last_name": "Nasta",
+  "birth_date": "2005-03-02",
+  "country_id": 765,
+  "club_id": 740,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 101,
+  "value": 28000,
+  "contract": {
+    "salary": 36400,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 30002707,
+    "expiration": "2026-05-31",
+    "salary": 36400,
+    "wage_contribution_pct": 100
+  }
+}

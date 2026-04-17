@@ -1,0 +1,33 @@
+{
+  "id": 24061501,
+  "first_name": "Dominik",
+  "last_name": "Dogan",
+  "birth_date": "1999-06-09",
+  "country_id": 761,
+  "club_id": 441,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 90,
+  "value": 152000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300163,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

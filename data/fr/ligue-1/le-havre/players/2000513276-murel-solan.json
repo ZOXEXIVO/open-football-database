@@ -1,0 +1,27 @@
+{
+  "id": 2000513276,
+  "first_name": "Solan",
+  "last_name": "Murel",
+  "birth_date": "2008-02-14",
+  "country_id": 769,
+  "club_id": 856,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 103,
+  "value": 86000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

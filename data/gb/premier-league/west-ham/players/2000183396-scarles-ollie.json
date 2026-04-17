@@ -1,0 +1,35 @@
+{
+  "id": 2000183396,
+  "first_name": "Ollie",
+  "last_name": "Scarles",
+  "birth_date": "2005-12-12",
+  "country_id": 765,
+  "club_id": 735,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 129,
+  "value": 18000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

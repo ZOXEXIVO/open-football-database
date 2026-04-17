@@ -1,0 +1,31 @@
+{
+  "id": 72053592,
+  "first_name": "Dante",
+  "last_name": "Sealy",
+  "birth_date": "2003-04-17",
+  "country_id": 389,
+  "club_id": 1903,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 99,
+  "value": 3000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000379984,
+  "first_name": "Hamza",
+  "last_name": "Ljukovac",
+  "birth_date": "2005-03-04",
+  "country_id": 759,
+  "club_id": 130343,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 116,
+  "value": 310000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1630,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

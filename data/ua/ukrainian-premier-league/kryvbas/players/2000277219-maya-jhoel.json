@@ -1,0 +1,33 @@
+{
+  "id": 2000277219,
+  "first_name": "Jhoel",
+  "last_name": "Maya",
+  "birth_date": "2006-01-05",
+  "country_id": 1654,
+  "club_id": 109178,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 103,
+  "value": 221000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000028043,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

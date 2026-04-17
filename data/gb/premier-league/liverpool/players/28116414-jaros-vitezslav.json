@@ -1,0 +1,29 @@
+{
+  "id": 28116414,
+  "first_name": "Vítězslav",
+  "last_name": "Jaroš",
+  "birth_date": "2001-07-23",
+  "country_id": 763,
+  "club_id": 676,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 133,
+  "potential_ability": 149,
+  "value": 12000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 992,
+    "expiration": "2026-06-30",
+    "salary": 1300000,
+    "wage_contribution_pct": 100
+  }
+}

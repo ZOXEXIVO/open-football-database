@@ -1,0 +1,29 @@
+{
+  "id": 2000393797,
+  "first_name": "Illia",
+  "last_name": "Lemba",
+  "birth_date": "2007-06-20",
+  "country_id": 800,
+  "club_id": 130868,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 94,
+  "value": 53000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 121181,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

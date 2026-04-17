@@ -1,0 +1,31 @@
+{
+  "id": 2000417921,
+  "first_name": "McCartney",
+  "last_name": "Woodhouse",
+  "birth_date": "2008-01-14",
+  "country_id": 765,
+  "club_id": 685,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 113,
+  "value": 47000,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

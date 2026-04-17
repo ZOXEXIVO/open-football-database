@@ -1,0 +1,33 @@
+{
+  "id": 2000143548,
+  "first_name": "Raimane",
+  "last_name": "Daou",
+  "birth_date": "2004-11-20",
+  "country_id": 919586,
+  "club_id": 866,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 135,
+  "value": 83000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000475359,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

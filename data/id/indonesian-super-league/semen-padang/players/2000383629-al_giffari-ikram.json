@@ -1,0 +1,29 @@
+{
+  "id": 2000383629,
+  "first_name": "Ikram",
+  "last_name": "Al Giffari",
+  "birth_date": "2006-01-06",
+  "country_id": 113,
+  "club_id": 135534,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 86,
+  "value": 15000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000185211,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

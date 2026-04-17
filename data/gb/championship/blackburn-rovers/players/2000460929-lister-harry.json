@@ -1,0 +1,31 @@
+{
+  "id": 2000460929,
+  "first_name": "Harry",
+  "last_name": "Lister",
+  "birth_date": "2008-11-11",
+  "country_id": 765,
+  "club_id": 612,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 120,
+  "value": 163000,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

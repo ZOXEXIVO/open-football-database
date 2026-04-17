@@ -1,0 +1,31 @@
+{
+  "id": 42031237,
+  "first_name": "Michael",
+  "last_name": "Ohana",
+  "birth_date": "1995-10-04",
+  "country_id": 775,
+  "club_id": 1093,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 120,
+  "value": 93000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

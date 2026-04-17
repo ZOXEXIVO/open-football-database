@@ -1,0 +1,37 @@
+{
+  "id": 2000198730,
+  "first_name": "Travis",
+  "last_name": "Patterson",
+  "birth_date": "2005-10-06",
+  "country_id": 765,
+  "club_id": 603,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 128,
+  "value": 952000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 85052735,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

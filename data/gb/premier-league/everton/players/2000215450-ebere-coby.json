@@ -1,0 +1,27 @@
+{
+  "id": 2000215450,
+  "first_name": "Coby",
+  "last_name": "Ebere",
+  "birth_date": "2005-09-07",
+  "country_id": 771,
+  "club_id": 650,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 111,
+  "value": 44000,
+  "contract": {
+    "salary": 41600,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

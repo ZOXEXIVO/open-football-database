@@ -1,0 +1,29 @@
+{
+  "id": 2000464784,
+  "first_name": "Nazar",
+  "last_name": "Kovalenko",
+  "birth_date": "2006-05-12",
+  "country_id": 800,
+  "club_id": 130821,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 77,
+  "value": 52000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 38004842,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

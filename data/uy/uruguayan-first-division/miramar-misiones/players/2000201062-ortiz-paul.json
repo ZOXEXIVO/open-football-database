@@ -1,0 +1,31 @@
+{
+  "id": 2000201062,
+  "first_name": "Paul",
+  "last_name": "Ortíz",
+  "birth_date": "2002-03-30",
+  "country_id": 1657,
+  "club_id": 5512559,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 72,
+  "value": 16000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

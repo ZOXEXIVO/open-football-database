@@ -1,0 +1,29 @@
+{
+  "id": 49055608,
+  "first_name": "Saïdou",
+  "last_name": "Sow",
+  "birth_date": "2002-07-04",
+  "country_id": 22,
+  "club_id": 872,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 113,
+  "value": 2000000,
+  "contract": {
+    "salary": 572000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1992,
+    "expiration": "2026-06-30",
+    "salary": 572000,
+    "wage_contribution_pct": 100
+  }
+}

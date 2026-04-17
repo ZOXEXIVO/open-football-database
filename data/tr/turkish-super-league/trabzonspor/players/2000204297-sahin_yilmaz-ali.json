@@ -1,0 +1,29 @@
+{
+  "id": 2000204297,
+  "first_name": "Ali",
+  "last_name": "Şahin Yılmaz",
+  "birth_date": "2004-01-01",
+  "country_id": 799,
+  "club_id": 1879,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 132,
+  "value": 86000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1874,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

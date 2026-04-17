@@ -1,0 +1,33 @@
+{
+  "id": 2000027364,
+  "first_name": "Ville",
+  "last_name": "Nilsson",
+  "birth_date": "2004-06-12",
+  "country_id": 797,
+  "club_id": 1809,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 86,
+  "value": 7000,
+  "contract": {
+    "salary": 28184,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 93053134,
+    "expiration": "2026-11-30",
+    "salary": 28184,
+    "wage_contribution_pct": 100
+  }
+}

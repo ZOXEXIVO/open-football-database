@@ -1,0 +1,29 @@
+{
+  "id": 2000414655,
+  "first_name": "Domagoj",
+  "last_name": "Čavar",
+  "birth_date": "2006-04-20",
+  "country_id": 761,
+  "club_id": 430,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 77,
+  "value": 27000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129825,
+    "expiration": "2026-06-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

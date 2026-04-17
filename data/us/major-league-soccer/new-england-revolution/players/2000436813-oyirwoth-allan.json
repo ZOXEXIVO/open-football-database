@@ -1,0 +1,29 @@
+{
+  "id": 2000436813,
+  "first_name": "Allan",
+  "last_name": "Oyirwoth",
+  "birth_date": "2007-01-23",
+  "country_id": 52,
+  "club_id": 1909,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 115,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000015603,
+    "expiration": "2026-11-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

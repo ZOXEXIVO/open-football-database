@@ -1,0 +1,31 @@
+{
+  "id": 2000190305,
+  "first_name": "Finley",
+  "last_name": "McAllister",
+  "birth_date": "2006-07-16",
+  "country_id": 765,
+  "club_id": 680,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 112,
+  "potential_ability": 129,
+  "value": 182000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

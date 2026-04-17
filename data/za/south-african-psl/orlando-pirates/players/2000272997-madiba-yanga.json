@@ -1,0 +1,28 @@
+{
+  "id": 2000272997,
+  "first_name": "Yanga",
+  "last_name": "Madiba",
+  "birth_date": "2001-10-05",
+  "country_id": 45,
+  "club_id": 1645,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 120,
+  "value": 28000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2031-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 65033935,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

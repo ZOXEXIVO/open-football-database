@@ -1,0 +1,29 @@
+{
+  "id": 2000137635,
+  "first_name": "Ashley",
+  "last_name": "Phillips",
+  "birth_date": "2005-06-26",
+  "country_id": 765,
+  "club_id": 728,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 137,
+  "value": 15000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 721,
+    "expiration": "2026-05-31",
+    "salary": 1040000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000077039,
+  "first_name": "Ryan",
+  "last_name": "Trevitt",
+  "birth_date": "2003-03-12",
+  "country_id": 765,
+  "club_id": 617,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 120,
+  "value": 3000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 737,
+    "expiration": "2026-05-31",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

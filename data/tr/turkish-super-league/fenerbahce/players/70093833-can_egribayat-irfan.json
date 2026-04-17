@@ -1,0 +1,29 @@
+{
+  "id": 70093833,
+  "first_name": "İrfan",
+  "last_name": "Can Eğribayat",
+  "birth_date": "1998-06-30",
+  "country_id": 799,
+  "club_id": 1870,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 123,
+  "value": 802000,
+  "contract": {
+    "salary": 1612000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1878,
+    "expiration": "2026-06-30",
+    "salary": 1612000,
+    "wage_contribution_pct": 100
+  }
+}

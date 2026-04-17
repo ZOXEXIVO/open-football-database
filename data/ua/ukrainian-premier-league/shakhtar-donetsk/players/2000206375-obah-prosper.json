@@ -1,0 +1,31 @@
+{
+  "id": 2000206375,
+  "first_name": "Prosper",
+  "last_name": "Obah",
+  "birth_date": "2003-11-24",
+  "country_id": 38,
+  "club_id": 1895,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 133,
+  "value": 7000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

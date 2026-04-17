@@ -1,0 +1,33 @@
+{
+  "id": 2000225293,
+  "first_name": "Henry",
+  "last_name": "Rylah",
+  "birth_date": "2005-11-18",
+  "country_id": 765,
+  "club_id": 628,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 99,
+  "value": 379000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 591,
+    "expiration": "2026-11-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

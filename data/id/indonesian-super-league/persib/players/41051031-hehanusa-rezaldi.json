@@ -1,0 +1,29 @@
+{
+  "id": 41051031,
+  "first_name": "Rezaldi",
+  "last_name": "Hehanusa",
+  "birth_date": "1995-11-07",
+  "country_id": 113,
+  "club_id": 116140,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 81,
+  "value": 32000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5622879,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

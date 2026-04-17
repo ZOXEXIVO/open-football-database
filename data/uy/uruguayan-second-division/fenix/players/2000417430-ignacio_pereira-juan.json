@@ -1,0 +1,27 @@
+{
+  "id": 2000417430,
+  "first_name": "Juan",
+  "last_name": "Ignacio Pereira",
+  "birth_date": "2004-04-02",
+  "country_id": 1657,
+  "club_id": 5512337,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 90,
+  "value": 53000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

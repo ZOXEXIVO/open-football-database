@@ -1,0 +1,29 @@
+{
+  "id": 2000136841,
+  "first_name": "Muhammad",
+  "last_name": "Ardiansyah",
+  "birth_date": "2003-03-28",
+  "country_id": 113,
+  "club_id": 135494,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 64,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5622745,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

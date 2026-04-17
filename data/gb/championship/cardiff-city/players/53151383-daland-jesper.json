@@ -1,0 +1,29 @@
+{
+  "id": 53151383,
+  "first_name": "Jesper",
+  "last_name": "Daland",
+  "birth_date": "2000-01-06",
+  "country_id": 786,
+  "club_id": 625,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 102,
+  "value": 3000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 921,
+    "expiration": "2026-06-30",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  }
+}

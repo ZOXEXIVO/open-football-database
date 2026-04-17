@@ -1,0 +1,27 @@
+{
+  "id": 2000366818,
+  "first_name": "Marin",
+  "last_name": "Kuzmanić",
+  "birth_date": "2006-02-27",
+  "country_id": 761,
+  "club_id": 661027,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 75,
+  "value": 45000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

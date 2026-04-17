@@ -1,0 +1,37 @@
+{
+  "id": 29218499,
+  "first_name": "Ali",
+  "last_name": "Al-Hamadi",
+  "birth_date": "2002-03-01",
+  "country_id": 115,
+  "club_id": 667,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 112,
+  "value": 3000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 677,
+    "expiration": "2026-05-31",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  }
+}

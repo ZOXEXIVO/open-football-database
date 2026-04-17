@@ -1,0 +1,35 @@
+{
+  "id": 78093150,
+  "first_name": "Erik",
+  "last_name": "de los Santos",
+  "birth_date": "1999-01-16",
+  "country_id": 1657,
+  "club_id": 130849,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 86,
+  "value": 56000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

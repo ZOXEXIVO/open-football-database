@@ -1,0 +1,33 @@
+{
+  "id": 2000357089,
+  "first_name": "Owen",
+  "last_name": "Presthus",
+  "birth_date": "2006-02-21",
+  "country_id": 390,
+  "club_id": 1904,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 115,
+  "value": 2000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000152192,
+    "expiration": "2026-11-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

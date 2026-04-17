@@ -1,0 +1,29 @@
+{
+  "id": 2000226064,
+  "first_name": "Reuben",
+  "last_name": "Lopata-White",
+  "birth_date": "2005-09-26",
+  "country_id": 765,
+  "club_id": 671,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 117,
+  "value": 123000,
+  "contract": {
+    "salary": 31200,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1571,
+    "expiration": "2026-05-31",
+    "salary": 31200,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000413117,
+  "first_name": "Stipe",
+  "last_name": "Rupić",
+  "birth_date": "2006-01-17",
+  "country_id": 761,
+  "club_id": 661033,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 79,
+  "value": 1000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 442,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

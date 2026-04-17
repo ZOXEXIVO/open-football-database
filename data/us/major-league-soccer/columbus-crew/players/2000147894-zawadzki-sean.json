@@ -1,0 +1,27 @@
+{
+  "id": 2000147894,
+  "first_name": "Sean",
+  "last_name": "Zawadzki",
+  "birth_date": "2000-04-21",
+  "country_id": 390,
+  "club_id": 1904,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 113,
+  "value": 6000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2030-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

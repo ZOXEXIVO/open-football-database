@@ -1,0 +1,27 @@
+{
+  "id": 2000513639,
+  "first_name": "Fabio",
+  "last_name": "Rodrigues Nallet",
+  "birth_date": "2009-04-07",
+  "country_id": 769,
+  "club_id": 856,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 113,
+  "value": 120000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

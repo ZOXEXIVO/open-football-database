@@ -1,0 +1,33 @@
+{
+  "id": 2000436219,
+  "first_name": "Ruebin",
+  "last_name": "Sheppard",
+  "birth_date": "2006-10-25",
+  "country_id": 765,
+  "club_id": 619,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 72,
+  "value": 13000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 608,
+    "expiration": "2026-05-31",
+    "salary": 26000,
+    "wage_contribution_pct": 100
+  }
+}

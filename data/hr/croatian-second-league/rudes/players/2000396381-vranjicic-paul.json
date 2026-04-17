@@ -1,0 +1,29 @@
+{
+  "id": 2000396381,
+  "first_name": "Paul",
+  "last_name": "Vranjičić",
+  "birth_date": "2006-11-22",
+  "country_id": 761,
+  "club_id": 658353,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 77,
+  "value": 27000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 663045,
+    "expiration": "2026-06-26",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

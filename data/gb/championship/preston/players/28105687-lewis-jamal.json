@@ -1,0 +1,31 @@
+{
+  "id": 28105687,
+  "first_name": "Jamal",
+  "last_name": "Lewis",
+  "birth_date": "1998-01-25",
+  "country_id": 785,
+  "club_id": 700,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 116,
+  "value": 1000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

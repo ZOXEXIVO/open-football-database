@@ -1,0 +1,29 @@
+{
+  "id": 2000495105,
+  "first_name": "Fatao",
+  "last_name": "Seidu",
+  "birth_date": "2006-10-28",
+  "country_id": 21,
+  "club_id": 801910,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 91,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000138068,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

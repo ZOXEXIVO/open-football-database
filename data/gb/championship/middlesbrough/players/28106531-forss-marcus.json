@@ -1,0 +1,33 @@
+{
+  "id": 28106531,
+  "first_name": "Marcus",
+  "last_name": "Forss",
+  "birth_date": "1999-06-18",
+  "country_id": 768,
+  "club_id": 685,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 112,
+  "value": 1000000,
+  "contract": {
+    "salary": 1144000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 614,
+    "expiration": "2026-05-31",
+    "salary": 1144000,
+    "wage_contribution_pct": 100
+  }
+}

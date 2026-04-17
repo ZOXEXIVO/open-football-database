@@ -1,0 +1,27 @@
+{
+  "id": 2000473608,
+  "first_name": "Charlie",
+  "last_name": "Smith",
+  "birth_date": "2008-11-11",
+  "country_id": 765,
+  "club_id": 645,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 74,
+  "value": 129000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

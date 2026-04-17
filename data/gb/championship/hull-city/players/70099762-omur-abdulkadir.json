@@ -1,0 +1,37 @@
+{
+  "id": 70099762,
+  "first_name": "Abdülkadir",
+  "last_name": "Ömür",
+  "birth_date": "1999-06-25",
+  "country_id": 799,
+  "club_id": 665,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 112,
+  "value": 5000000,
+  "contract": {
+    "salary": 832000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1865,
+    "expiration": "2026-06-30",
+    "salary": 832000,
+    "wage_contribution_pct": 100
+  }
+}

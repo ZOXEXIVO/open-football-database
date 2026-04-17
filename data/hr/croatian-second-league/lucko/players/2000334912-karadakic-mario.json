@@ -1,0 +1,27 @@
+{
+  "id": 2000334912,
+  "first_name": "Mario",
+  "last_name": "Karadakić",
+  "birth_date": "2006-04-26",
+  "country_id": 761,
+  "club_id": 653229,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 74,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

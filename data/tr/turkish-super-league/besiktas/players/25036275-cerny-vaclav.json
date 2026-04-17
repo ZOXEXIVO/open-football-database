@@ -1,0 +1,31 @@
+{
+  "id": 25036275,
+  "first_name": "Václav",
+  "last_name": "Černý",
+  "birth_date": "1997-10-17",
+  "country_id": 763,
+  "club_id": 1866,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 123,
+  "value": 15000000,
+  "contract": {
+    "salary": 2704000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

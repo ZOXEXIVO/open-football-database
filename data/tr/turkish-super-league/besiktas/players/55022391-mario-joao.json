@@ -1,0 +1,37 @@
+{
+  "id": 55022391,
+  "first_name": "João",
+  "last_name": "Mário",
+  "birth_date": "1993-01-19",
+  "country_id": 788,
+  "club_id": 1866,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 160,
+  "value": 4000000,
+  "contract": {
+    "salary": 2392000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 967,
+    "expiration": "2026-06-30",
+    "salary": 2392000,
+    "wage_contribution_pct": 100
+  }
+}

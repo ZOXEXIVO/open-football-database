@@ -1,0 +1,27 @@
+{
+  "id": 2000304635,
+  "first_name": "Santino",
+  "last_name": "Andino",
+  "birth_date": "2005-10-25",
+  "country_id": 1649,
+  "club_id": 983,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 126,
+  "value": 13000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

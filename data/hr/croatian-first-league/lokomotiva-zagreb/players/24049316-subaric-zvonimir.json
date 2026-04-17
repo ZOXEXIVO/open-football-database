@@ -1,0 +1,29 @@
+{
+  "id": 24049316,
+  "first_name": "Zvonimir",
+  "last_name": "Šubarić",
+  "birth_date": "1997-05-25",
+  "country_id": 761,
+  "club_id": 129859,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 82,
+  "value": 121000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 652657,
+    "expiration": "2026-06-29",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

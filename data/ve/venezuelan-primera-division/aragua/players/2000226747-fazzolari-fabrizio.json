@@ -1,0 +1,27 @@
+{
+  "id": 2000226747,
+  "first_name": "Fabrizio",
+  "last_name": "Fazzolari",
+  "birth_date": "2003-12-01",
+  "country_id": 1658,
+  "club_id": 23014584,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 83,
+  "value": 42000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

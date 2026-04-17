@@ -1,0 +1,33 @@
+{
+  "id": 2000032943,
+  "first_name": "Zalán",
+  "last_name": "Kerezsi",
+  "birth_date": "2003-07-17",
+  "country_id": 773,
+  "club_id": 38032696,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 106,
+  "value": 570000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1060,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

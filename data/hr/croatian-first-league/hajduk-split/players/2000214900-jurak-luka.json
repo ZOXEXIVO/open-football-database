@@ -1,0 +1,33 @@
+{
+  "id": 2000214900,
+  "first_name": "Luka",
+  "last_name": "Jurak",
+  "birth_date": "2005-07-21",
+  "country_id": 761,
+  "club_id": 433,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 118,
+  "value": 172000,
+  "contract": {
+    "salary": 26936,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 652830,
+    "expiration": "2026-06-15",
+    "salary": 26936,
+    "wage_contribution_pct": 100
+  }
+}

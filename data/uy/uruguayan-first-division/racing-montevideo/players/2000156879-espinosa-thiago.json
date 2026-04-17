@@ -1,0 +1,37 @@
+{
+  "id": 2000156879,
+  "first_name": "Thiago",
+  "last_name": "Espinosa",
+  "birth_date": "2004-11-09",
+  "country_id": 1657,
+  "club_id": 130849,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 86,
+  "value": 305000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1253,
+    "expiration": "2026-12-31",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

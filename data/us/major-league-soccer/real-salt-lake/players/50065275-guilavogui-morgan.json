@@ -1,0 +1,31 @@
+{
+  "id": 50065275,
+  "first_name": "Morgan",
+  "last_name": "Guilavogui",
+  "birth_date": "1998-03-10",
+  "country_id": 22,
+  "club_id": 980543,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 98,
+  "potential_ability": 102,
+  "value": 4000000,
+  "contract": {
+    "salary": 988000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000520307,
+  "first_name": "Reese",
+  "last_name": "Miller",
+  "birth_date": "2004-01-17",
+  "country_id": 390,
+  "club_id": 72000112,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 103,
+  "value": 906000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

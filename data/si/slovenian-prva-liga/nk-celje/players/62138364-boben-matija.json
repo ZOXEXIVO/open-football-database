@@ -1,0 +1,29 @@
+{
+  "id": 62138364,
+  "first_name": "Matija",
+  "last_name": "Boben",
+  "birth_date": "1994-02-26",
+  "country_id": 795,
+  "club_id": 1637,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 91,
+  "value": 165000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1630,
+    "expiration": "2026-06-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000521028,
+  "first_name": "Samuel",
+  "last_name": "Bisogno",
+  "birth_date": "2009-07-12",
+  "country_id": 776,
+  "club_id": 1919,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 122,
+  "value": 84000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

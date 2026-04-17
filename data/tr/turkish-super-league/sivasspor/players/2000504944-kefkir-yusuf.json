@@ -1,0 +1,33 @@
+{
+  "id": 2000504944,
+  "first_name": "Yusuf",
+  "last_name": "Kefkir",
+  "birth_date": "2006-11-06",
+  "country_id": 799,
+  "club_id": 130382,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 125,
+  "value": 387000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000210918,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

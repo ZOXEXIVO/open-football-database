@@ -1,0 +1,31 @@
+{
+  "id": 2000146203,
+  "first_name": "Diego",
+  "last_name": "Sánchez",
+  "birth_date": "2002-06-03",
+  "country_id": 1657,
+  "club_id": 1925,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 89,
+  "value": 24000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

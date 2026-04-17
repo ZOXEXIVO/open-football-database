@@ -1,0 +1,29 @@
+{
+  "id": 2000109167,
+  "first_name": "Esapa",
+  "last_name": "Osong",
+  "birth_date": "2004-09-21",
+  "country_id": 765,
+  "club_id": 692,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 118,
+  "value": 425000,
+  "contract": {
+    "salary": 49920,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5103834,
+    "expiration": "2026-05-31",
+    "salary": 49920,
+    "wage_contribution_pct": 100
+  }
+}

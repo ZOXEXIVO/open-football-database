@@ -1,0 +1,27 @@
+{
+  "id": 2000307562,
+  "first_name": "Yevhenii",
+  "last_name": "Harmash",
+  "birth_date": "2007-02-24",
+  "country_id": 800,
+  "club_id": 1895,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 123,
+  "value": 50000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

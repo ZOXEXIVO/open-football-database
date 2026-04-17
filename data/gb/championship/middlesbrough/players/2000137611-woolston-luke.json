@@ -1,0 +1,27 @@
+{
+  "id": 2000137611,
+  "first_name": "Luke",
+  "last_name": "Woolston",
+  "birth_date": "2004-11-30",
+  "country_id": 765,
+  "club_id": 685,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 123,
+  "value": 301000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

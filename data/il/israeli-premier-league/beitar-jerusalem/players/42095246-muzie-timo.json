@@ -1,0 +1,31 @@
+{
+  "id": 42095246,
+  "first_name": "Timo",
+  "last_name": "Muzie",
+  "birth_date": "2001-08-24",
+  "country_id": 775,
+  "club_id": 1083,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 101,
+  "value": 835000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2029-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

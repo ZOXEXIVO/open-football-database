@@ -1,0 +1,35 @@
+{
+  "id": 2000149239,
+  "first_name": "Jamie",
+  "last_name": "Newton",
+  "birth_date": "2005-05-22",
+  "country_id": 793,
+  "club_id": 692,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 107,
+  "value": 77000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000109164,
+  "first_name": "Joe",
+  "last_name": "Gardner",
+  "birth_date": "2005-06-06",
+  "country_id": 789,
+  "club_id": 692,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 126,
+  "value": 362000,
+  "contract": {
+    "salary": 44200,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 681,
+    "expiration": "2026-05-31",
+    "salary": 44200,
+    "wage_contribution_pct": 100
+  }
+}

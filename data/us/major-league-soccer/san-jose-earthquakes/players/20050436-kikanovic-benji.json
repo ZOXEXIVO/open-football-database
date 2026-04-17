@@ -1,0 +1,31 @@
+{
+  "id": 20050436,
+  "first_name": "Benji",
+  "last_name": "Kikanović",
+  "birth_date": "2000-01-06",
+  "country_id": 390,
+  "club_id": 1910,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 103,
+  "value": 833000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

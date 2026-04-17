@@ -1,0 +1,31 @@
+{
+  "id": 2000036439,
+  "first_name": "Zsombor",
+  "last_name": "Gruber",
+  "birth_date": "2004-09-07",
+  "country_id": 773,
+  "club_id": 1055,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 114,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

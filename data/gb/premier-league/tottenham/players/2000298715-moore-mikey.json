@@ -1,0 +1,41 @@
+{
+  "id": 2000298715,
+  "first_name": "Mikey",
+  "last_name": "Moore",
+  "birth_date": "2007-08-11",
+  "country_id": 765,
+  "club_id": 728,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 128,
+  "potential_ability": 169,
+  "value": 26000000,
+  "contract": {
+    "salary": 2340000,
+    "expiration": "2031-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1570,
+    "expiration": "2026-05-31",
+    "salary": 2340000,
+    "wage_contribution_pct": 100
+  }
+}

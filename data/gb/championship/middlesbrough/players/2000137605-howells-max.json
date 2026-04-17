@@ -1,0 +1,41 @@
+{
+  "id": 2000137605,
+  "first_name": "Max",
+  "last_name": "Howells",
+  "birth_date": "2004-12-01",
+  "country_id": 765,
+  "club_id": 685,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 95,
+  "value": 57000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 29130446,
+    "expiration": "2026-05-31",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

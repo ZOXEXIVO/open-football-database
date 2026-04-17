@@ -1,0 +1,29 @@
+{
+  "id": 70116146,
+  "first_name": "Zafer",
+  "last_name": "Görgen",
+  "birth_date": "2000-06-21",
+  "country_id": 799,
+  "club_id": 130366,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130341,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

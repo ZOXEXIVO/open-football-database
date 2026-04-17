@@ -1,0 +1,27 @@
+{
+  "id": 2000200999,
+  "first_name": "Foster",
+  "last_name": "Gyamfi",
+  "birth_date": "2004-01-28",
+  "country_id": 21,
+  "club_id": 13117239,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 102,
+  "value": 60000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

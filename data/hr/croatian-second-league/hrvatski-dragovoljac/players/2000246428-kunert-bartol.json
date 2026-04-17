@@ -1,0 +1,29 @@
+{
+  "id": 2000246428,
+  "first_name": "Bartol",
+  "last_name": "Kunert",
+  "birth_date": "2006-07-01",
+  "country_id": 761,
+  "club_id": 658353,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 73,
+  "value": 33000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300241,
+    "expiration": "2026-06-26",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000293625,
+  "first_name": "Kai-Reece",
+  "last_name": "Adams-Collman",
+  "birth_date": "2006-10-24",
+  "country_id": 765,
+  "club_id": 642,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 115,
+  "value": 30000,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

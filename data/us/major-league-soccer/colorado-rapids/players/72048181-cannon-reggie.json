@@ -1,0 +1,27 @@
+{
+  "id": 72048181,
+  "first_name": "Reggie",
+  "last_name": "Cannon",
+  "birth_date": "1998-06-11",
+  "country_id": 390,
+  "club_id": 1903,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 103,
+  "value": 3000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

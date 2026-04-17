@@ -1,0 +1,29 @@
+{
+  "id": 41051593,
+  "first_name": "Gianluca",
+  "last_name": "Pandeynuwu",
+  "birth_date": "1997-11-09",
+  "country_id": 113,
+  "club_id": 5622862,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 65,
+  "value": 20000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5622736,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000141669,
+  "first_name": "Abraham",
+  "last_name": "Kanu",
+  "birth_date": "2005-07-03",
+  "country_id": 43,
+  "club_id": 702,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 102,
+  "value": 259000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 109206,
+    "expiration": "2026-05-31",
+    "salary": 26000,
+    "wage_contribution_pct": 100
+  }
+}

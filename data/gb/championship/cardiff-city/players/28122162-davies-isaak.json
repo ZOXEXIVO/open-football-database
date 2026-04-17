@@ -1,0 +1,31 @@
+{
+  "id": 28122162,
+  "first_name": "Isaak",
+  "last_name": "Davies",
+  "birth_date": "2001-09-25",
+  "country_id": 801,
+  "club_id": 625,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 106,
+  "value": 2000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

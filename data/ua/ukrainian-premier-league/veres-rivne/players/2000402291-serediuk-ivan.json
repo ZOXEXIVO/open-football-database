@@ -1,0 +1,27 @@
+{
+  "id": 2000402291,
+  "first_name": "Ivan",
+  "last_name": "Serediuk",
+  "birth_date": "2007-02-07",
+  "country_id": 800,
+  "club_id": 71105155,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 102,
+  "value": 309000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

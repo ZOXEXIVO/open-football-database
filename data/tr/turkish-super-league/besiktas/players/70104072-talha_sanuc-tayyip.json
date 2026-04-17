@@ -1,0 +1,29 @@
+{
+  "id": 70104072,
+  "first_name": "Tayyip",
+  "last_name": "Talha Sanuç",
+  "birth_date": "1999-12-17",
+  "country_id": 799,
+  "club_id": 1866,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 120,
+  "value": 214000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130341,
+    "expiration": "2026-06-30",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  }
+}

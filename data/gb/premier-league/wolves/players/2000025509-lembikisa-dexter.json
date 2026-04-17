@@ -1,0 +1,35 @@
+{
+  "id": 2000025509,
+  "first_name": "Dexter",
+  "last_name": "Lembikisa",
+  "birth_date": "2003-11-04",
+  "country_id": 377,
+  "club_id": 740,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 124,
+  "value": 2000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

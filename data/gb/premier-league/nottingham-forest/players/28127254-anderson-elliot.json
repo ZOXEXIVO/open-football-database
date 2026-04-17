@@ -1,0 +1,31 @@
+{
+  "id": 28127254,
+  "first_name": "Elliot",
+  "last_name": "Anderson",
+  "birth_date": "2002-11-06",
+  "country_id": 765,
+  "club_id": 692,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 130,
+  "value": 59000000,
+  "contract": {
+    "salary": 3640000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

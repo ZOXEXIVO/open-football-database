@@ -1,0 +1,31 @@
+{
+  "id": 65030782,
+  "first_name": "Malebogo",
+  "last_name": "Modise",
+  "birth_date": "1999-02-06",
+  "country_id": 45,
+  "club_id": 65010424,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 94,
+  "value": 24000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

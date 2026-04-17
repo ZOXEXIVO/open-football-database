@@ -1,0 +1,29 @@
+{
+  "id": 2000133303,
+  "first_name": "Ruy",
+  "last_name": "Arianto",
+  "birth_date": "2004-07-07",
+  "country_id": 113,
+  "club_id": 116145,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 71,
+  "value": 16000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000185227,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

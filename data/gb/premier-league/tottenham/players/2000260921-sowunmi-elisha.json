@@ -1,0 +1,35 @@
+{
+  "id": 2000260921,
+  "first_name": "Elisha",
+  "last_name": "Sowunmi",
+  "birth_date": "2007-06-01",
+  "country_id": 765,
+  "club_id": 728,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 118,
+  "value": 121000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 24025298,
+  "first_name": "Dominik",
+  "last_name": "Livaković",
+  "birth_date": "1995-01-09",
+  "country_id": 761,
+  "club_id": 1870,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 122,
+  "potential_ability": 138,
+  "value": 15000000,
+  "contract": {
+    "salary": 1716000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 432,
+    "expiration": "2026-06-30",
+    "salary": 1716000,
+    "wage_contribution_pct": 100
+  }
+}

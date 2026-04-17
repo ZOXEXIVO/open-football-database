@@ -1,0 +1,27 @@
+{
+  "id": 48042314,
+  "first_name": "Ilan",
+  "last_name": "Kebbal",
+  "birth_date": "1998-07-10",
+  "country_id": 5,
+  "club_id": 867,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 105,
+  "value": 10000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 62239133,
+  "first_name": "Luka",
+  "last_name": "Čumić",
+  "birth_date": "2001-05-25",
+  "country_id": 802,
+  "club_id": 135494,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 82,
+  "value": 56000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000465182,
+  "first_name": "Dino",
+  "last_name": "Matić",
+  "birth_date": "2007-10-16",
+  "country_id": 761,
+  "club_id": 430,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 94,
+  "value": 65000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

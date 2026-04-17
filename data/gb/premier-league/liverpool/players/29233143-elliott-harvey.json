@@ -1,0 +1,33 @@
+{
+  "id": 29233143,
+  "first_name": "Harvey",
+  "last_name": "Elliott",
+  "birth_date": "2003-04-04",
+  "country_id": 765,
+  "club_id": 676,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 133,
+  "potential_ability": 154,
+  "value": 51000000,
+  "contract": {
+    "salary": 4420000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 603,
+    "expiration": "2026-05-31",
+    "salary": 4420000,
+    "wage_contribution_pct": 100
+  }
+}

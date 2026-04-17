@@ -1,0 +1,29 @@
+{
+  "id": 2000010840,
+  "first_name": "Toby",
+  "last_name": "Collyer",
+  "birth_date": "2004-01-03",
+  "country_id": 765,
+  "club_id": 680,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 133,
+  "potential_ability": 161,
+  "value": 15000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 665,
+    "expiration": "2026-05-31",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  }
+}

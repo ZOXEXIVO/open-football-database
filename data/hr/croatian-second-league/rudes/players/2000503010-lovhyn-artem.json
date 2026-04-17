@@ -1,0 +1,27 @@
+{
+  "id": 2000503010,
+  "first_name": "Artem",
+  "last_name": "Lovhyn",
+  "birth_date": "2007-01-19",
+  "country_id": 800,
+  "club_id": 658353,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 79,
+  "value": 22000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

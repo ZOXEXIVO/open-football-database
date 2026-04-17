@@ -1,0 +1,27 @@
+{
+  "id": 2000255327,
+  "first_name": "Linus",
+  "last_name": "Larsen",
+  "birth_date": "2007-03-21",
+  "country_id": 797,
+  "club_id": 1816,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 103,
+  "value": 175000,
+  "contract": {
+    "salary": 988,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

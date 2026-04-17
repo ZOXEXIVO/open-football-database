@@ -1,0 +1,29 @@
+{
+  "id": 2000155399,
+  "first_name": "Mariano",
+  "last_name": "Ahouangbo",
+  "birth_date": "2002-11-16",
+  "country_id": 7,
+  "club_id": 1639,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 96,
+  "value": 533000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 59001468,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

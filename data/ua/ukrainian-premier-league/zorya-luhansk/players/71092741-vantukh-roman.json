@@ -1,0 +1,31 @@
+{
+  "id": 71092741,
+  "first_name": "Roman",
+  "last_name": "Vantukh",
+  "birth_date": "1998-07-04",
+  "country_id": 800,
+  "club_id": 1902,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 102,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

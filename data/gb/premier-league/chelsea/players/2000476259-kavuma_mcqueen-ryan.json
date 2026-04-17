@@ -1,0 +1,31 @@
+{
+  "id": 2000476259,
+  "first_name": "Ryan",
+  "last_name": "Kavuma-McQueen",
+  "birth_date": "2009-01-01",
+  "country_id": 765,
+  "club_id": 630,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 166,
+  "value": 10000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

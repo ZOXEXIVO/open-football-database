@@ -1,0 +1,30 @@
+{
+  "id": 70089590,
+  "first_name": "Oğuz",
+  "last_name": "Yıldırım",
+  "birth_date": "1995-01-01",
+  "country_id": 799,
+  "club_id": 453567,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 98,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

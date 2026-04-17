@@ -1,0 +1,31 @@
+{
+  "id": 89067500,
+  "first_name": "Ido",
+  "last_name": "Shahar",
+  "birth_date": "2001-08-20",
+  "country_id": 775,
+  "club_id": 1097,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 114,
+  "value": 478000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

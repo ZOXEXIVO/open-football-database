@@ -1,0 +1,33 @@
+{
+  "id": 36160154,
+  "first_name": "Manos",
+  "last_name": "Sbokos",
+  "birth_date": "2003-02-19",
+  "country_id": 772,
+  "club_id": 36077318,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 80,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 36000499,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

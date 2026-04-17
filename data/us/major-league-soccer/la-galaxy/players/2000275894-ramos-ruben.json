@@ -1,0 +1,31 @@
+{
+  "id": 2000275894,
+  "first_name": "Ruben",
+  "last_name": "Ramos",
+  "birth_date": "2007-01-22",
+  "country_id": 390,
+  "club_id": 1907,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 128,
+  "value": 2000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

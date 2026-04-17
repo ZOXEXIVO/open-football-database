@@ -1,0 +1,29 @@
+{
+  "id": 2000046695,
+  "first_name": "Patrik",
+  "last_name": "Mijić",
+  "birth_date": "1998-11-04",
+  "country_id": 761,
+  "club_id": 137959,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 86,
+  "value": 778000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 36077318,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

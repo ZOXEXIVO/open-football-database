@@ -1,0 +1,29 @@
+{
+  "id": 2000397515,
+  "first_name": "Arham",
+  "last_name": "Darmawan",
+  "birth_date": "2006-06-20",
+  "country_id": 113,
+  "club_id": 135494,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 71,
+  "value": 28000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5622866,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

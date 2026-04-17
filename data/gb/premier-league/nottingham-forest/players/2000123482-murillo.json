@@ -1,0 +1,27 @@
+{
+  "id": 2000123482,
+  "first_name": "Murillo",
+  "last_name": "",
+  "birth_date": "2002-07-04",
+  "country_id": 1651,
+  "club_id": 692,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 130,
+  "value": 49000000,
+  "contract": {
+    "salary": 4680000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

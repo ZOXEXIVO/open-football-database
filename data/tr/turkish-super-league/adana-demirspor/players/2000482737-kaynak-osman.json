@@ -1,0 +1,34 @@
+{
+  "id": 2000482737,
+  "first_name": "Osman",
+  "last_name": "Kaynak",
+  "birth_date": "2006-05-15",
+  "country_id": 799,
+  "club_id": 450573,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 99,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

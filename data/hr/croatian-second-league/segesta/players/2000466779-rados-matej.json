@@ -1,0 +1,31 @@
+{
+  "id": 2000466779,
+  "first_name": "Matej",
+  "last_name": "Radoš",
+  "birth_date": "2000-04-14",
+  "country_id": 761,
+  "club_id": 446,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 57,
+  "value": 22000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 71101520,
+  "first_name": "Artem",
+  "last_name": "Macheliuk",
+  "birth_date": "1999-10-14",
+  "country_id": 800,
+  "club_id": 71046355,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 75,
+  "value": 600000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

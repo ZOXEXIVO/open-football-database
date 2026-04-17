@@ -1,0 +1,39 @@
+{
+  "id": 2000211997,
+  "first_name": "Álex",
+  "last_name": "Jiménez",
+  "birth_date": "2005-05-08",
+  "country_id": 796,
+  "club_id": 600,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 127,
+  "value": 48000000,
+  "contract": {
+    "salary": 3380000,
+    "expiration": "2031-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

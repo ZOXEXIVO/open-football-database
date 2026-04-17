@@ -1,0 +1,31 @@
+{
+  "id": 2000474171,
+  "first_name": "Rafe",
+  "last_name": "McCormack",
+  "birth_date": "2008-12-14",
+  "country_id": 789,
+  "club_id": 680,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 132,
+  "value": 620000,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

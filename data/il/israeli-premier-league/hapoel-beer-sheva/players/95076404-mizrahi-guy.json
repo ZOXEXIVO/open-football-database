@@ -1,0 +1,27 @@
+{
+  "id": 95076404,
+  "first_name": "Guy",
+  "last_name": "Mizrahi",
+  "birth_date": "2001-03-30",
+  "country_id": 775,
+  "club_id": 1085,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 102,
+  "value": 1000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

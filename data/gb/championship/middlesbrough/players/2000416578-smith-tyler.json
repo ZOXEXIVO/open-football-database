@@ -1,0 +1,27 @@
+{
+  "id": 2000416578,
+  "first_name": "Tyler",
+  "last_name": "Smith",
+  "birth_date": "2008-08-19",
+  "country_id": 765,
+  "club_id": 685,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 112,
+  "value": 117000,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

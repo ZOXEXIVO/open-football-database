@@ -1,0 +1,35 @@
+{
+  "id": 2000193660,
+  "first_name": "Botond",
+  "last_name": "Vajda",
+  "birth_date": "2004-03-15",
+  "country_id": 773,
+  "club_id": 1052,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 107,
+  "value": 810000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

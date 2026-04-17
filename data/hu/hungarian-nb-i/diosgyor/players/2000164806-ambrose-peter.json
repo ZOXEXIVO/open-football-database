@@ -1,0 +1,29 @@
+{
+  "id": 2000164806,
+  "first_name": "Peter",
+  "last_name": "Ambrose",
+  "birth_date": "2002-06-10",
+  "country_id": 38,
+  "club_id": 1536,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 116,
+  "value": 99000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130821,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

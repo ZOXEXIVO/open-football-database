@@ -1,0 +1,33 @@
+{
+  "id": 2000073768,
+  "first_name": "Andronikos",
+  "last_name": "Kakoullis",
+  "birth_date": "2001-05-03",
+  "country_id": 762,
+  "club_id": 1780,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 106,
+  "value": 661000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 453,
+    "expiration": "2026-07-09",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

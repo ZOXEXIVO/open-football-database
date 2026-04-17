@@ -1,0 +1,35 @@
+{
+  "id": 83333463,
+  "first_name": "Rodrigo",
+  "last_name": "Gomes",
+  "birth_date": "2003-07-07",
+  "country_id": 788,
+  "club_id": 740,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 126,
+  "value": 39000000,
+  "contract": {
+    "salary": 1820000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

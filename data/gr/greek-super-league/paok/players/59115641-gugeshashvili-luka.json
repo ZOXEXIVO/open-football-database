@@ -1,0 +1,29 @@
+{
+  "id": 59115641,
+  "first_name": "Luka",
+  "last_name": "Gugeshashvili",
+  "birth_date": "1999-04-29",
+  "country_id": 770,
+  "club_id": 982,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 113,
+  "value": 431000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129692,
+    "expiration": "2026-06-30",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  }
+}

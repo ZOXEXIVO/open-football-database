@@ -1,0 +1,29 @@
+{
+  "id": 2000475892,
+  "first_name": "Antonio",
+  "last_name": "Riquelme",
+  "birth_date": "2008-08-08",
+  "country_id": 1652,
+  "club_id": 980543,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 107,
+  "value": 2000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 72043491,
+    "expiration": "2026-11-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

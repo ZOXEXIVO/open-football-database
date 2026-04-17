@@ -1,0 +1,29 @@
+{
+  "id": 2000054214,
+  "first_name": "Aaron",
+  "last_name": "Maguire",
+  "birth_date": "2004-07-25",
+  "country_id": 765,
+  "club_id": 728,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 140,
+  "value": 155000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5100186,
+    "expiration": "2026-05-31",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

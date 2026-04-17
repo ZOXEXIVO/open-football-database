@@ -1,0 +1,27 @@
+{
+  "id": 2000229289,
+  "first_name": "Charlie",
+  "last_name": "O'Brien",
+  "birth_date": "2005-05-29",
+  "country_id": 789,
+  "club_id": 625,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 91,
+  "value": 25000,
+  "contract": {
+    "salary": 23400,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

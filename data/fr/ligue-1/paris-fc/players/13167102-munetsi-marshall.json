@@ -1,0 +1,33 @@
+{
+  "id": 13167102,
+  "first_name": "Marshall",
+  "last_name": "Munetsi",
+  "birth_date": "1996-06-22",
+  "country_id": 55,
+  "club_id": 740,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 123,
+  "value": 15000000,
+  "contract": {
+    "salary": 2080000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 867,
+    "expiration": "2026-06-30",
+    "salary": 2080000,
+    "wage_contribution_pct": 100
+  }
+}

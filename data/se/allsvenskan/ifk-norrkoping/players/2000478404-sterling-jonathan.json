@@ -1,0 +1,27 @@
+{
+  "id": 2000478404,
+  "first_name": "Jonathan",
+  "last_name": "Sterling",
+  "birth_date": "2008-11-18",
+  "country_id": 797,
+  "club_id": 1806,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 106,
+  "value": 27000,
+  "contract": {
+    "salary": 364,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

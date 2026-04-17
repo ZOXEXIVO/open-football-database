@@ -1,0 +1,29 @@
+{
+  "id": 28094025,
+  "first_name": "Jerry",
+  "last_name": "Yates",
+  "birth_date": "1996-11-10",
+  "country_id": 765,
+  "club_id": 677,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 101,
+  "value": 1000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 709,
+    "expiration": "2026-05-31",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  }
+}

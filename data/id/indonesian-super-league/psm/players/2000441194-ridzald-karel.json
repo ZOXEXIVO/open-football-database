@@ -1,0 +1,29 @@
+{
+  "id": 2000441194,
+  "first_name": "Karel",
+  "last_name": "Ridzald",
+  "birth_date": "2003-09-11",
+  "country_id": 113,
+  "club_id": 135494,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 73,
+  "value": 28000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5622866,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

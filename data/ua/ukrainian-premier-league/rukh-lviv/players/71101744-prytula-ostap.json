@@ -1,0 +1,31 @@
+{
+  "id": 71101744,
+  "first_name": "Ostap",
+  "last_name": "Prytula",
+  "birth_date": "2000-06-24",
+  "country_id": 800,
+  "club_id": 71045065,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 86,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000034002,
+  "first_name": "Sandro",
+  "last_name": "Jovanović",
+  "birth_date": "2002-04-23",
+  "country_id": 795,
+  "club_id": 1632,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 86,
+  "value": 756000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1636,
+    "expiration": "2026-06-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

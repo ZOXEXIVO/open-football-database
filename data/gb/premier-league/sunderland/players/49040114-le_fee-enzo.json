@@ -1,0 +1,27 @@
+{
+  "id": 49040114,
+  "first_name": "Enzo",
+  "last_name": "Le Fée",
+  "birth_date": "2000-02-03",
+  "country_id": 769,
+  "club_id": 722,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 109,
+  "potential_ability": 113,
+  "value": 32000000,
+  "contract": {
+    "salary": 3900000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

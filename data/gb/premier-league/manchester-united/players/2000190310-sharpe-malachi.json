@@ -1,0 +1,27 @@
+{
+  "id": 2000190310,
+  "first_name": "Malachi",
+  "last_name": "Sharpe",
+  "birth_date": "2005-11-20",
+  "country_id": 793,
+  "club_id": 680,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 112,
+  "potential_ability": 127,
+  "value": 111000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

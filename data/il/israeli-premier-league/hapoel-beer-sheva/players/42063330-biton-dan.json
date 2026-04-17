@@ -1,0 +1,31 @@
+{
+  "id": 42063330,
+  "first_name": "Dan",
+  "last_name": "Biton",
+  "birth_date": "1995-07-20",
+  "country_id": 775,
+  "club_id": 1085,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 102,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

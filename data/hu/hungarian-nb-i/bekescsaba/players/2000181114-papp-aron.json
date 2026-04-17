@@ -1,0 +1,31 @@
+{
+  "id": 2000181114,
+  "first_name": "Áron",
+  "last_name": "Papp",
+  "birth_date": "2004-11-02",
+  "country_id": 773,
+  "club_id": 1050,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 73,
+  "value": 40000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

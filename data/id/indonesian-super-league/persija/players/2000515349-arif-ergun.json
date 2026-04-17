@@ -1,0 +1,29 @@
+{
+  "id": 2000515349,
+  "first_name": "Ergun",
+  "last_name": "Arif",
+  "birth_date": "2007-04-19",
+  "country_id": 113,
+  "club_id": 116144,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 75,
+  "value": 6000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000465975,
+    "expiration": "2026-06-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000082754,
+  "first_name": "Benn",
+  "last_name": "Ward",
+  "birth_date": "2004-01-20",
+  "country_id": 765,
+  "club_id": 702,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 107,
+  "value": 499000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

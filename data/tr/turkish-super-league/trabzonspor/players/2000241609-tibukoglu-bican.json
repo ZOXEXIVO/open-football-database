@@ -1,0 +1,33 @@
+{
+  "id": 2000241609,
+  "first_name": "Bican",
+  "last_name": "Tibukoğlu",
+  "birth_date": "2006-03-01",
+  "country_id": 799,
+  "club_id": 1879,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 120,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 70136214,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 71113683,
+  "first_name": "Denys",
+  "last_name": "Kuzyk",
+  "birth_date": "2002-09-18",
+  "country_id": 800,
+  "club_id": 71016825,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 89,
+  "value": 5000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

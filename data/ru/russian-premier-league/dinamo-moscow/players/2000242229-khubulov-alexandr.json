@@ -1,0 +1,29 @@
+{
+  "id": 2000242229,
+  "first_name": "Alexandr",
+  "last_name": "Khubulov",
+  "birth_date": "2005-10-28",
+  "country_id": 791,
+  "club_id": 1520,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 121,
+  "value": 556000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1301102,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

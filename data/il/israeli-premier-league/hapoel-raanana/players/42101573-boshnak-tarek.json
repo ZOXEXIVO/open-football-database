@@ -1,0 +1,31 @@
+{
+  "id": 42101573,
+  "first_name": "Tarek",
+  "last_name": "Boshnak",
+  "birth_date": "1999-06-03",
+  "country_id": 775,
+  "club_id": 7860424,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 89,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

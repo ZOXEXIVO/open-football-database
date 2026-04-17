@@ -1,0 +1,29 @@
+{
+  "id": 2000127883,
+  "first_name": "Henry",
+  "last_name": "Gray",
+  "birth_date": "2005-03-29",
+  "country_id": 1438,
+  "club_id": 667,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 99,
+  "value": 83000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5100047,
+    "expiration": "2026-05-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

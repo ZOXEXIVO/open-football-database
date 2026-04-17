@@ -1,0 +1,29 @@
+{
+  "id": 19302797,
+  "first_name": "Geovane",
+  "last_name": "",
+  "birth_date": "1999-03-21",
+  "country_id": 1651,
+  "club_id": 71017165,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 97,
+  "value": 352000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 301102,
+    "expiration": "2026-11-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

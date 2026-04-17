@@ -1,0 +1,27 @@
+{
+  "id": 2000109151,
+  "first_name": "Justin",
+  "last_name": "Hanks",
+  "birth_date": "2004-09-01",
+  "country_id": 801,
+  "club_id": 692,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 132,
+  "value": 156000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

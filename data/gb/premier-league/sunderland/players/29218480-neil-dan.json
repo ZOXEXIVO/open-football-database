@@ -1,0 +1,33 @@
+{
+  "id": 29218480,
+  "first_name": "Dan",
+  "last_name": "Neil",
+  "birth_date": "2001-12-13",
+  "country_id": 765,
+  "club_id": 722,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 109,
+  "potential_ability": 136,
+  "value": 7000000,
+  "contract": {
+    "salary": 1508000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 667,
+    "expiration": "2026-05-31",
+    "salary": 1508000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 95040414,
+  "first_name": "Jon",
+  "last_name": "Mellish",
+  "birth_date": "1997-09-19",
+  "country_id": 765,
+  "club_id": 737,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 88,
+  "value": 288000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 151027,
+    "expiration": "2026-05-31",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

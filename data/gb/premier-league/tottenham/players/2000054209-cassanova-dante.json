@@ -1,0 +1,31 @@
+{
+  "id": 2000054209,
+  "first_name": "Dante",
+  "last_name": "Cassanova",
+  "birth_date": "2004-06-21",
+  "country_id": 765,
+  "club_id": 728,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 132,
+  "value": 580000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

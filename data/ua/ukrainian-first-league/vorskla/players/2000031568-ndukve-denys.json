@@ -1,0 +1,37 @@
+{
+  "id": 2000031568,
+  "first_name": "Denys",
+  "last_name": "Ndukve",
+  "birth_date": "2000-02-28",
+  "country_id": 800,
+  "club_id": 1301293,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 92,
+  "value": 366000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71105155,
+    "expiration": "2026-06-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

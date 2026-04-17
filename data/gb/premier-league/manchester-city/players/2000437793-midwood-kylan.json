@@ -1,0 +1,27 @@
+{
+  "id": 2000437793,
+  "first_name": "Kylan",
+  "last_name": "Midwood",
+  "birth_date": "2008-05-21",
+  "country_id": 765,
+  "club_id": 679,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 150,
+  "value": 129000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

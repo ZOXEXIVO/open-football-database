@@ -1,0 +1,27 @@
+{
+  "id": 2000459729,
+  "first_name": "Anton",
+  "last_name": "Persson",
+  "birth_date": "2008-08-31",
+  "country_id": 797,
+  "club_id": 1809,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 97,
+  "value": 47000,
+  "contract": {
+    "salary": 364,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

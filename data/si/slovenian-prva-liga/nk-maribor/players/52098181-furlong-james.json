@@ -1,0 +1,27 @@
+{
+  "id": 52098181,
+  "first_name": "James",
+  "last_name": "Furlong",
+  "birth_date": "2002-06-07",
+  "country_id": 789,
+  "club_id": 1629,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 118,
+  "value": 300000,
+  "contract": {
+    "salary": 49400,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

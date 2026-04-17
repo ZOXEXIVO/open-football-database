@@ -1,0 +1,33 @@
+{
+  "id": 23297997,
+  "first_name": "Jean",
+  "last_name": "Befolo M'barga",
+  "birth_date": "1992-01-07",
+  "country_id": 11,
+  "club_id": 2000090667,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 72,
+  "value": 12000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 41053239,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000151707,
+  "first_name": "Nimród",
+  "last_name": "Baranyai",
+  "birth_date": "2003-08-06",
+  "country_id": 773,
+  "club_id": 1064,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 107,
+  "value": 694000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7521266,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000467545,
+  "first_name": "Kostas",
+  "last_name": "Argyropoulos",
+  "birth_date": "2008-04-19",
+  "country_id": 772,
+  "club_id": 983,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 114,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

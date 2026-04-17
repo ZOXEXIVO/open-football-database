@@ -1,0 +1,29 @@
+{
+  "id": 28110718,
+  "first_name": "Will",
+  "last_name": "Dennis",
+  "birth_date": "2000-07-10",
+  "country_id": 765,
+  "club_id": 600,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 115,
+  "value": 88000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 674,
+    "expiration": "2026-05-31",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

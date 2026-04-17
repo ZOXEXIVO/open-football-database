@@ -1,0 +1,31 @@
+{
+  "id": 222733,
+  "first_name": "Kyle",
+  "last_name": "Joseph",
+  "birth_date": "2001-09-10",
+  "country_id": 793,
+  "club_id": 665,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 104,
+  "value": 3000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

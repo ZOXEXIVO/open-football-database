@@ -1,0 +1,27 @@
+{
+  "id": 2000140968,
+  "first_name": "Caelan",
+  "last_name": "Avenell",
+  "birth_date": "2004-10-08",
+  "country_id": 765,
+  "club_id": 617,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 111,
+  "value": 100000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

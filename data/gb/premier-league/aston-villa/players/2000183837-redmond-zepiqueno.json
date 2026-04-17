@@ -1,0 +1,31 @@
+{
+  "id": 2000183837,
+  "first_name": "Zépiqueno",
+  "last_name": "Redmond",
+  "birth_date": "2006-06-22",
+  "country_id": 784,
+  "club_id": 603,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 125,
+  "value": 4000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000358749,
+  "first_name": "Damario",
+  "last_name": "McIntosh",
+  "birth_date": "2007-08-17",
+  "country_id": 390,
+  "club_id": 1909,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 129,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000015603,
+    "expiration": "2026-11-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

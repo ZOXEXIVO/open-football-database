@@ -1,0 +1,27 @@
+{
+  "id": 2000253255,
+  "first_name": "Mateo",
+  "last_name": "Telechea",
+  "birth_date": "2005-11-02",
+  "country_id": 1657,
+  "club_id": 1920,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 106,
+  "value": 60000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-01-27",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

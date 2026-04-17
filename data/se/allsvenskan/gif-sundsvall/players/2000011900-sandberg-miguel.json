@@ -1,0 +1,27 @@
+{
+  "id": 2000011900,
+  "first_name": "Miguel",
+  "last_name": "Sandberg",
+  "birth_date": "2002-08-05",
+  "country_id": 138,
+  "club_id": 1791,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 99,
+  "value": 172000,
+  "contract": {
+    "salary": 36244,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

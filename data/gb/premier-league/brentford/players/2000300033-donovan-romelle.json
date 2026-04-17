@@ -1,0 +1,27 @@
+{
+  "id": 2000300033,
+  "first_name": "Romelle",
+  "last_name": "Donovan",
+  "birth_date": "2006-11-30",
+  "country_id": 765,
+  "club_id": 617,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 135,
+  "value": 13000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

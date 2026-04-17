@@ -1,0 +1,31 @@
+{
+  "id": 2000328122,
+  "first_name": "Guido",
+  "last_name": "Sosa",
+  "birth_date": "2003-05-20",
+  "country_id": 1657,
+  "club_id": 8825225,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 80,
+  "value": 50000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

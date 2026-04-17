@@ -1,0 +1,37 @@
+{
+  "id": 2000116198,
+  "first_name": "Mason",
+  "last_name": "Burstow",
+  "birth_date": "2003-08-04",
+  "country_id": 765,
+  "club_id": 665,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 107,
+  "value": 3000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 614,
+    "expiration": "2026-05-31",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

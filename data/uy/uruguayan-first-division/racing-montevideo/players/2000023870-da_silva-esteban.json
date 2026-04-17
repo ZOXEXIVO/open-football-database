@@ -1,0 +1,35 @@
+{
+  "id": 2000023870,
+  "first_name": "Esteban",
+  "last_name": "da Silva",
+  "birth_date": "2001-03-10",
+  "country_id": 1657,
+  "club_id": 130849,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 80,
+  "value": 60000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000104848,
+  "first_name": "Mathéo",
+  "last_name": "Bodmer",
+  "birth_date": "2004-05-06",
+  "country_id": 769,
+  "club_id": 856,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 120,
+  "value": 857000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1980,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

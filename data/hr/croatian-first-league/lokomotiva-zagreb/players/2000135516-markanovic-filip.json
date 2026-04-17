@@ -1,0 +1,33 @@
+{
+  "id": 2000135516,
+  "first_name": "Filip",
+  "last_name": "Markanović",
+  "birth_date": "2005-01-13",
+  "country_id": 761,
+  "club_id": 129859,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 99,
+  "value": 181000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 24005249,
+    "expiration": "2026-06-26",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

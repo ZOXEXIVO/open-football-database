@@ -1,0 +1,35 @@
+{
+  "id": 2000243883,
+  "first_name": "David",
+  "last_name": "Bošnjak",
+  "birth_date": "2002-07-28",
+  "country_id": 761,
+  "club_id": 430,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 85,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

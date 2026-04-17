@@ -1,0 +1,31 @@
+{
+  "id": 91175809,
+  "first_name": "Kai",
+  "last_name": "Wagner",
+  "birth_date": "1997-02-15",
+  "country_id": 771,
+  "club_id": 609,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 105,
+  "value": 10000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

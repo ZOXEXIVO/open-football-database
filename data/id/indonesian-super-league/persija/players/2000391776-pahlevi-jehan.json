@@ -1,0 +1,29 @@
+{
+  "id": 2000391776,
+  "first_name": "Jehan",
+  "last_name": "Pahlevi",
+  "birth_date": "2006-03-18",
+  "country_id": 113,
+  "club_id": 116144,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 79,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5622747,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 36096206,
+  "first_name": "Dimitris",
+  "last_name": "Limnios",
+  "birth_date": "1998-05-27",
+  "country_id": 772,
+  "club_id": 983,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 113,
+  "value": 1000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1014,
+    "expiration": "2026-06-30",
+    "salary": 780000,
+    "wage_contribution_pct": 100
+  }
+}

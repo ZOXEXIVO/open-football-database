@@ -1,0 +1,29 @@
+{
+  "id": 58104527,
+  "first_name": "Anton",
+  "last_name": "Zinkovskiy",
+  "birth_date": "1996-04-14",
+  "country_id": 791,
+  "club_id": 1529,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 119,
+  "value": 2000000,
+  "contract": {
+    "salary": 676000,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 58145347,
+    "expiration": "2026-06-10",
+    "salary": 676000,
+    "wage_contribution_pct": 100
+  }
+}

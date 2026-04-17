@@ -1,0 +1,31 @@
+{
+  "id": 28084930,
+  "first_name": "Alex",
+  "last_name": "Iwobi",
+  "birth_date": "1996-05-03",
+  "country_id": 38,
+  "club_id": 654,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 109,
+  "potential_ability": 120,
+  "value": 43000000,
+  "contract": {
+    "salary": 4940000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

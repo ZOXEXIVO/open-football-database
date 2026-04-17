@@ -1,0 +1,27 @@
+{
+  "id": 2000155490,
+  "first_name": "Martin",
+  "last_name": "Georgiev",
+  "birth_date": "2005-09-24",
+  "country_id": 760,
+  "club_id": 967,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 127,
+  "value": 6000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

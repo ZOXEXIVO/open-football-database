@@ -1,0 +1,29 @@
+{
+  "id": 2000090328,
+  "first_name": "José",
+  "last_name": "Río",
+  "birth_date": "2004-01-31",
+  "country_id": 1657,
+  "club_id": 1918,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 109,
+  "value": 136000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1926,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

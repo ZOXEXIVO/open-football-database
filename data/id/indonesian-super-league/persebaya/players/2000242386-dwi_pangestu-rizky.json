@@ -1,0 +1,29 @@
+{
+  "id": 2000242386,
+  "first_name": "Rizky",
+  "last_name": "Dwi Pangestu",
+  "birth_date": "1999-04-09",
+  "country_id": 113,
+  "club_id": 116145,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 66,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000465597,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

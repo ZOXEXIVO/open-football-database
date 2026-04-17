@@ -1,0 +1,27 @@
+{
+  "id": 2000118079,
+  "first_name": "André",
+  "last_name": "Luiz",
+  "birth_date": "2002-02-23",
+  "country_id": 1651,
+  "club_id": 981,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 129,
+  "value": 5000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000280569,
+  "first_name": "Melwin",
+  "last_name": "Kocanović",
+  "birth_date": "2006-06-28",
+  "country_id": 797,
+  "club_id": 1788,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 85,
+  "value": 6000,
+  "contract": {
+    "salary": 16068,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 612297,
+    "expiration": "2026-11-30",
+    "salary": 16068,
+    "wage_contribution_pct": 100
+  }
+}

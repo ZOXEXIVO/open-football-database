@@ -1,0 +1,27 @@
+{
+  "id": 2000216554,
+  "first_name": "Osman",
+  "last_name": "Kamara",
+  "birth_date": "2006-08-06",
+  "country_id": 43,
+  "club_id": 612,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 119,
+  "value": 473000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

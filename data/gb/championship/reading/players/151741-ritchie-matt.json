@@ -1,0 +1,35 @@
+{
+  "id": 151741,
+  "first_name": "Matt",
+  "last_name": "Ritchie",
+  "birth_date": "1989-09-10",
+  "country_id": 793,
+  "club_id": 702,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 118,
+  "value": 60000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

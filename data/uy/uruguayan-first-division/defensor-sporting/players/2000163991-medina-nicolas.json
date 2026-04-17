@@ -1,0 +1,37 @@
+{
+  "id": 2000163991,
+  "first_name": "Nicolás",
+  "last_name": "Medina",
+  "birth_date": "2003-03-05",
+  "country_id": 1649,
+  "club_id": 108517,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 101,
+  "value": 272000,
+  "contract": {
+    "salary": 6604,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1919,
+    "expiration": "2026-12-31",
+    "salary": 6604,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000473728,
+  "first_name": "Kristóf",
+  "last_name": "Laveczky",
+  "birth_date": "2007-04-27",
+  "country_id": 773,
+  "club_id": 1060,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 87,
+  "value": 42000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

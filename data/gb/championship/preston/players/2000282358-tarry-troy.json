@@ -1,0 +1,27 @@
+{
+  "id": 2000282358,
+  "first_name": "Troy",
+  "last_name": "Tarry",
+  "birth_date": "2007-01-12",
+  "country_id": 765,
+  "club_id": 700,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 94,
+  "value": 23000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

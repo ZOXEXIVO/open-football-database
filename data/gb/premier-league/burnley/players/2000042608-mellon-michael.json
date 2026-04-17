@@ -1,0 +1,33 @@
+{
+  "id": 2000042608,
+  "first_name": "Michael",
+  "last_name": "Mellon",
+  "birth_date": "2003-12-05",
+  "country_id": 793,
+  "club_id": 622,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 124,
+  "value": 245000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 694,
+    "expiration": "2026-05-31",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

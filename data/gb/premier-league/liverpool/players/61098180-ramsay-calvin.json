@@ -1,0 +1,27 @@
+{
+  "id": 61098180,
+  "first_name": "Calvin",
+  "last_name": "Ramsay",
+  "birth_date": "2003-07-31",
+  "country_id": 793,
+  "club_id": 676,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 112,
+  "potential_ability": 141,
+  "value": 1000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2000372873,
+  "first_name": "Nikos",
+  "last_name": "Avramoulis",
+  "birth_date": "2008-08-06",
+  "country_id": 772,
+  "club_id": 981,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 122,
+  "value": 240000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

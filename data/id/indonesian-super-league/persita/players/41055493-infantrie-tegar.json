@@ -1,0 +1,33 @@
+{
+  "id": 41055493,
+  "first_name": "Tegar",
+  "last_name": "Infantrie",
+  "birth_date": "1999-05-08",
+  "country_id": 113,
+  "club_id": 5622746,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 70,
+  "value": 27000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 135497,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

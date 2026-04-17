@@ -1,0 +1,29 @@
+{
+  "id": 2000270263,
+  "first_name": "Rizdjar",
+  "last_name": "Nurviat",
+  "birth_date": "2006-01-02",
+  "country_id": 113,
+  "club_id": 41021352,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 73,
+  "value": 13000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000090667,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

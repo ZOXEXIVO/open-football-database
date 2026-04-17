@@ -1,0 +1,29 @@
+{
+  "id": 2000273109,
+  "first_name": "Márk",
+  "last_name": "Engedi",
+  "birth_date": "2006-09-07",
+  "country_id": 773,
+  "club_id": 1052,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 104,
+  "value": 238000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7521319,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

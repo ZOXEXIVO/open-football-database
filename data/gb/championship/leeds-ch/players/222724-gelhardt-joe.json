@@ -1,0 +1,37 @@
+{
+  "id": 222724,
+  "first_name": "Joe",
+  "last_name": "Gelhardt",
+  "birth_date": "2002-05-04",
+  "country_id": 765,
+  "club_id": 671,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 126,
+  "value": 8000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 665,
+    "expiration": "2026-05-31",
+    "salary": 1040000,
+    "wage_contribution_pct": 100
+  }
+}

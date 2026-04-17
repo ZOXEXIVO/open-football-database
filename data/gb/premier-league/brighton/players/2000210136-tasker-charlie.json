@@ -1,0 +1,27 @@
+{
+  "id": 2000210136,
+  "first_name": "Charlie",
+  "last_name": "Tasker",
+  "birth_date": "2006-02-24",
+  "country_id": 765,
+  "club_id": 618,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 129,
+  "value": 843000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000115755,
+  "first_name": "Anis",
+  "last_name": "Fatahine",
+  "birth_date": "2005-06-17",
+  "country_id": 5,
+  "club_id": 867,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 99,
+  "value": 52000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

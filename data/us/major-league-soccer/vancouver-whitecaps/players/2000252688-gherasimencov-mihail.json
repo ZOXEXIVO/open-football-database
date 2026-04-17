@@ -1,0 +1,31 @@
+{
+  "id": 2000252688,
+  "first_name": "Mihail",
+  "last_name": "Gherasimencov",
+  "birth_date": "2005-03-25",
+  "country_id": 783,
+  "club_id": 4400014,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 105,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

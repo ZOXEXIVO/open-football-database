@@ -1,0 +1,29 @@
+{
+  "id": 2000532019,
+  "first_name": "Sleyder",
+  "last_name": "Flores",
+  "birth_date": "2006-01-19",
+  "country_id": 1658,
+  "club_id": 120998,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 87,
+  "value": 62000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 86049076,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

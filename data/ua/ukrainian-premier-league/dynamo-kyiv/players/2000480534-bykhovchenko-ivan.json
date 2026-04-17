@@ -1,0 +1,29 @@
+{
+  "id": 2000480534,
+  "first_name": "Ivan",
+  "last_name": "Bykhovchenko",
+  "birth_date": "2008-03-20",
+  "country_id": 800,
+  "club_id": 1885,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 126,
+  "value": 34000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71046355,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

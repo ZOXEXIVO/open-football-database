@@ -1,0 +1,29 @@
+{
+  "id": 2000280323,
+  "first_name": "Maxim",
+  "last_name": "Sidelnikov",
+  "birth_date": "2005-03-09",
+  "country_id": 791,
+  "club_id": 1518,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 102,
+  "value": 36000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 58148228,
+    "expiration": "2026-06-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

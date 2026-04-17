@@ -1,0 +1,31 @@
+{
+  "id": 2000216065,
+  "first_name": "Asher",
+  "last_name": "Agbinone",
+  "birth_date": "2005-09-28",
+  "country_id": 765,
+  "club_id": 642,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 124,
+  "value": 134000,
+  "contract": {
+    "salary": 44200,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

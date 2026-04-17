@@ -1,0 +1,27 @@
+{
+  "id": 48043837,
+  "first_name": "Frank",
+  "last_name": "Magri",
+  "birth_date": "1999-09-04",
+  "country_id": 11,
+  "club_id": 886,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 109,
+  "potential_ability": 114,
+  "value": 3000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

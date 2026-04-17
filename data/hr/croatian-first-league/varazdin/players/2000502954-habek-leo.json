@@ -1,0 +1,27 @@
+{
+  "id": 2000502954,
+  "first_name": "Leo",
+  "last_name": "Habek",
+  "birth_date": "2009-06-15",
+  "country_id": 761,
+  "club_id": 447,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 91,
+  "value": 40000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

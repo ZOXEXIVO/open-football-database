@@ -1,0 +1,31 @@
+{
+  "id": 2000502953,
+  "first_name": "David",
+  "last_name": "Grahovac-Fedešin",
+  "birth_date": "2009-07-01",
+  "country_id": 761,
+  "club_id": 447,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 98,
+  "value": 51000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

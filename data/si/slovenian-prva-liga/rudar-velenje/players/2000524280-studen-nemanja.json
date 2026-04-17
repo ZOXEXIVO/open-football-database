@@ -1,0 +1,27 @@
+{
+  "id": 2000524280,
+  "first_name": "Nemanja",
+  "last_name": "Studen",
+  "birth_date": "2007-08-25",
+  "country_id": 802,
+  "club_id": 1638,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 95,
+  "value": 26000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

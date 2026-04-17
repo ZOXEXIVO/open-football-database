@@ -1,0 +1,29 @@
+{
+  "id": 96161974,
+  "first_name": "Oliwier",
+  "last_name": "Zych",
+  "birth_date": "2004-06-28",
+  "country_id": 787,
+  "club_id": 603,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 122,
+  "value": 735000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 722115,
+    "expiration": "2026-06-30",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

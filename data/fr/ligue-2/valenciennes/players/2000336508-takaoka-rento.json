@@ -1,0 +1,29 @@
+{
+  "id": 2000336508,
+  "first_name": "Rento",
+  "last_name": "Takaoka",
+  "birth_date": "2007-03-12",
+  "country_id": 116,
+  "club_id": 713,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 126,
+  "value": 3000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 888,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

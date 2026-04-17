@@ -1,0 +1,29 @@
+{
+  "id": 2000061940,
+  "first_name": "Dániel",
+  "last_name": "Németh",
+  "birth_date": "2003-10-09",
+  "country_id": 773,
+  "club_id": 1068,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 94,
+  "value": 248000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1062,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

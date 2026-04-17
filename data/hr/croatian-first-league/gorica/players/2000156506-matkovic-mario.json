@@ -1,0 +1,33 @@
+{
+  "id": 2000156506,
+  "first_name": "Mario",
+  "last_name": "Matković",
+  "birth_date": "2003-03-02",
+  "country_id": 761,
+  "club_id": 24013516,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 98,
+  "value": 129000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 16057026,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

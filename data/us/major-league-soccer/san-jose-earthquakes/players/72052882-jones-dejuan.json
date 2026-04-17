@@ -1,0 +1,35 @@
+{
+  "id": 72052882,
+  "first_name": "DeJuan",
+  "last_name": "Jones",
+  "birth_date": "1997-06-24",
+  "country_id": 390,
+  "club_id": 1910,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 98,
+  "potential_ability": 100,
+  "value": 4000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

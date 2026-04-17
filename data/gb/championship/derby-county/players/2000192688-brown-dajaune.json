@@ -1,0 +1,33 @@
+{
+  "id": 2000192688,
+  "first_name": "Dajaune",
+  "last_name": "Brown",
+  "birth_date": "2005-10-16",
+  "country_id": 765,
+  "club_id": 645,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 121,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 698,
+    "expiration": "2026-05-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

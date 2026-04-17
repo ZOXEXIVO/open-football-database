@@ -1,0 +1,27 @@
+{
+  "id": 29076105,
+  "first_name": "Luke",
+  "last_name": "Shaw",
+  "birth_date": "1995-07-12",
+  "country_id": 765,
+  "club_id": 680,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 133,
+  "potential_ability": 154,
+  "value": 66000000,
+  "contract": {
+    "salary": 10400000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

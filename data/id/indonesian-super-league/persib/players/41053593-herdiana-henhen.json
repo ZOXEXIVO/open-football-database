@@ -1,0 +1,33 @@
+{
+  "id": 41053593,
+  "first_name": "Henhen",
+  "last_name": "Herdiana",
+  "birth_date": "1995-09-10",
+  "country_id": 113,
+  "club_id": 116140,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 68,
+  "value": 5000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5622879,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

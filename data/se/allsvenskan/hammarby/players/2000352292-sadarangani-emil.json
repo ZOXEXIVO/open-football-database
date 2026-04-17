@@ -1,0 +1,29 @@
+{
+  "id": 2000352292,
+  "first_name": "Emil",
+  "last_name": "Sadarangani",
+  "birth_date": "2008-06-09",
+  "country_id": 797,
+  "club_id": 1797,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 122,
+  "value": 335000,
+  "contract": {
+    "salary": 364,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 618372,
+    "expiration": "2026-11-30",
+    "salary": 364,
+    "wage_contribution_pct": 100
+  }
+}

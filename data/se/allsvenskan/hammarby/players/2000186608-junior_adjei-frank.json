@@ -1,0 +1,31 @@
+{
+  "id": 2000186608,
+  "first_name": "Frank",
+  "last_name": "Junior Adjei",
+  "birth_date": "2004-03-20",
+  "country_id": 21,
+  "club_id": 1797,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 105,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

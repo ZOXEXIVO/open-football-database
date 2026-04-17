@@ -1,0 +1,29 @@
+{
+  "id": 2000274309,
+  "first_name": "Maiken",
+  "last_name": "González",
+  "birth_date": "2006-05-11",
+  "country_id": 1658,
+  "club_id": 86034571,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 99,
+  "value": 133000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000098842,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

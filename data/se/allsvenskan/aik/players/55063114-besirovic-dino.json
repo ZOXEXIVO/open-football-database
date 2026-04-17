@@ -1,0 +1,34 @@
+{
+  "id": 55063114,
+  "first_name": "Dino",
+  "last_name": "Beširović",
+  "birth_date": "1994-01-31",
+  "country_id": 759,
+  "club_id": 1780,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 106,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

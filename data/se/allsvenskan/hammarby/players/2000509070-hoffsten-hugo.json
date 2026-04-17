@@ -1,0 +1,27 @@
+{
+  "id": 2000509070,
+  "first_name": "Hugo",
+  "last_name": "Hoffsten",
+  "birth_date": "2009-04-15",
+  "country_id": 797,
+  "club_id": 1797,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 117,
+  "value": 61000,
+  "contract": {
+    "salary": 780,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

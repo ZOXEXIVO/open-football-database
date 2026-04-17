@@ -1,0 +1,31 @@
+{
+  "id": 2000511337,
+  "first_name": "Timeo",
+  "last_name": "Whisker",
+  "birth_date": "2008-10-18",
+  "country_id": 765,
+  "club_id": 679,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 156,
+  "value": 494000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000331482,
+  "first_name": "Ori",
+  "last_name": "Bardugo",
+  "birth_date": "2007-03-25",
+  "country_id": 775,
+  "club_id": 1097,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 125,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

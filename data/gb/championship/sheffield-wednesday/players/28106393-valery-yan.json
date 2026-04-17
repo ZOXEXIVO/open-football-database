@@ -1,0 +1,33 @@
+{
+  "id": 28106393,
+  "first_name": "Yan",
+  "last_name": "Valery",
+  "birth_date": "1999-02-22",
+  "country_id": 51,
+  "club_id": 709,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 106,
+  "value": 3000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1847,
+    "expiration": "2026-06-30",
+    "salary": 1040000,
+    "wage_contribution_pct": 100
+  }
+}

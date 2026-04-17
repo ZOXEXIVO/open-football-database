@@ -1,0 +1,31 @@
+{
+  "id": 2000107106,
+  "first_name": "Yannis",
+  "last_name": "Lagha",
+  "birth_date": "2004-06-21",
+  "country_id": 5,
+  "club_id": 865,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 127,
+  "value": 53000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

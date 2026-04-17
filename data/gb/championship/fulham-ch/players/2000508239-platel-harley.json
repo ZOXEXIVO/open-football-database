@@ -1,0 +1,27 @@
+{
+  "id": 2000508239,
+  "first_name": "Harley",
+  "last_name": "Platel",
+  "birth_date": "2008-02-20",
+  "country_id": 765,
+  "club_id": 654,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 96,
+  "value": 30000,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000492485,
+  "first_name": "Marvin",
+  "last_name": "Illary",
+  "birth_date": "2006-01-17",
+  "country_id": 24,
+  "club_id": 1796,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 92,
+  "value": 72000,
+  "contract": {
+    "salary": 24128,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 65046028,
+  "first_name": "Taahir",
+  "last_name": "Goedeman",
+  "birth_date": "1999-12-05",
+  "country_id": 45,
+  "club_id": 65035889,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 103,
+  "value": 33000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5682979,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

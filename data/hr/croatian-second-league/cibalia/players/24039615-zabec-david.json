@@ -1,0 +1,31 @@
+{
+  "id": 24039615,
+  "first_name": "David",
+  "last_name": "Žabec",
+  "birth_date": "1996-08-01",
+  "country_id": 761,
+  "club_id": 430,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 74,
+  "value": 99000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

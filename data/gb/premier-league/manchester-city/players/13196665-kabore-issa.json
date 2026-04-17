@@ -1,0 +1,41 @@
+{
+  "id": 13196665,
+  "first_name": "Issa",
+  "last_name": "Kaboré",
+  "birth_date": "2001-05-12",
+  "country_id": 9,
+  "club_id": 679,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 135,
+  "potential_ability": 142,
+  "value": 9000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 741,
+    "expiration": "2026-05-31",
+    "salary": 1040000,
+    "wage_contribution_pct": 100
+  }
+}

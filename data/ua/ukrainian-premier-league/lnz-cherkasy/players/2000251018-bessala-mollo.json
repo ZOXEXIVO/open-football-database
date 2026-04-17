@@ -1,0 +1,37 @@
+{
+  "id": 2000251018,
+  "first_name": "Mollo",
+  "last_name": "Bessala",
+  "birth_date": "2003-10-10",
+  "country_id": 11,
+  "club_id": 71016825,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 95,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 478105,
+    "expiration": "2026-06-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 71111930,
+  "first_name": "Emil",
+  "last_name": "Mustafaiev",
+  "birth_date": "2001-09-24",
+  "country_id": 756,
+  "club_id": 71100094,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 96,
+  "value": 491000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 59008270,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

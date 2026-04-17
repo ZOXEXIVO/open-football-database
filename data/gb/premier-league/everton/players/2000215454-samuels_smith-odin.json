@@ -1,0 +1,31 @@
+{
+  "id": 2000215454,
+  "first_name": "Odin",
+  "last_name": "Samuels-Smith",
+  "birth_date": "2006-06-05",
+  "country_id": 765,
+  "club_id": 650,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 126,
+  "value": 38000,
+  "contract": {
+    "salary": 31200,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

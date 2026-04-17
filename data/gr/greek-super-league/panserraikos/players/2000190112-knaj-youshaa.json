@@ -1,0 +1,29 @@
+{
+  "id": 2000190112,
+  "first_name": "Youshaa",
+  "last_name": "Knaj",
+  "birth_date": "2005-11-22",
+  "country_id": 137,
+  "club_id": 129666,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 91,
+  "value": 4000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 26035636,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

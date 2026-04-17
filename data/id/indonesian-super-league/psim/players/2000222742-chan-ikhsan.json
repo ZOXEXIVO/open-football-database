@@ -1,0 +1,29 @@
+{
+  "id": 2000222742,
+  "first_name": "Ikhsan",
+  "last_name": "Chan",
+  "birth_date": "2004-05-01",
+  "country_id": 113,
+  "club_id": 135500,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 71,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000185211,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

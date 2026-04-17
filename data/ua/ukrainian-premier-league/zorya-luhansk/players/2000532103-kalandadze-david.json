@@ -1,0 +1,27 @@
+{
+  "id": 2000532103,
+  "first_name": "David",
+  "last_name": "Kalandadze",
+  "birth_date": "2009-07-18",
+  "country_id": 800,
+  "club_id": 1902,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 109,
+  "value": 98000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

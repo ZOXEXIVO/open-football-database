@@ -1,0 +1,35 @@
+{
+  "id": 53110469,
+  "first_name": "Brice",
+  "last_name": "Wembangomo",
+  "birth_date": "1996-12-18",
+  "country_id": 786,
+  "club_id": 1783,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 100,
+  "value": 1000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

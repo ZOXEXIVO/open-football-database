@@ -1,0 +1,31 @@
+{
+  "id": 2000476628,
+  "first_name": "Jalil",
+  "last_name": "Conteh",
+  "birth_date": "2009-02-19",
+  "country_id": 765,
+  "club_id": 600,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 132,
+  "value": 318000,
+  "contract": {
+    "salary": 33800,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

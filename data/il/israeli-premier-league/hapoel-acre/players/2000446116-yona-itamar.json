@@ -1,0 +1,37 @@
+{
+  "id": 2000446116,
+  "first_name": "Itamar",
+  "last_name": "Yona",
+  "birth_date": "2006-10-01",
+  "country_id": 775,
+  "club_id": 7861698,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 84,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 42002654,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

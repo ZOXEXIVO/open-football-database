@@ -1,0 +1,31 @@
+{
+  "id": 2000090348,
+  "first_name": "Emiliano",
+  "last_name": "García",
+  "birth_date": "2000-01-19",
+  "country_id": 1657,
+  "club_id": 5512787,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 82,
+  "value": 5000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

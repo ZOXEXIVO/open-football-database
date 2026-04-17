@@ -1,0 +1,29 @@
+{
+  "id": 2000314823,
+  "first_name": "Amar",
+  "last_name": "Fadzillah",
+  "birth_date": "2002-02-08",
+  "country_id": 113,
+  "club_id": 116144,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 72,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 135528,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

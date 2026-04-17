@@ -1,0 +1,31 @@
+{
+  "id": 2000471873,
+  "first_name": "Kameron",
+  "last_name": "Sus",
+  "birth_date": "2006-06-02",
+  "country_id": 773,
+  "club_id": 1066,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 84,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

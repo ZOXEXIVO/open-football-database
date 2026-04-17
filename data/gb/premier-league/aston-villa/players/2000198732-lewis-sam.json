@@ -1,0 +1,23 @@
+{
+  "id": 2000198732,
+  "first_name": "Sam",
+  "last_name": "Lewis",
+  "birth_date": "2005-10-04",
+  "country_id": 765,
+  "club_id": 603,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 113,
+  "value": 20000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

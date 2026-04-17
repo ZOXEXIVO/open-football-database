@@ -1,0 +1,29 @@
+{
+  "id": 29088012,
+  "first_name": "Sean",
+  "last_name": "Raggett",
+  "birth_date": "1994-01-25",
+  "country_id": 765,
+  "club_id": 704,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 93,
+  "value": 165000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 624,
+    "expiration": "2026-05-31",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

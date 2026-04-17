@@ -1,0 +1,27 @@
+{
+  "id": 62215324,
+  "first_name": "Marko",
+  "last_name": "Roginić",
+  "birth_date": "1995-09-05",
+  "country_id": 761,
+  "club_id": 1620,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 85,
+  "value": 65000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

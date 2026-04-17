@@ -1,0 +1,31 @@
+{
+  "id": 2000288513,
+  "first_name": "Daniel",
+  "last_name": "Ola",
+  "birth_date": "2006-10-25",
+  "country_id": 801,
+  "club_id": 625,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 72,
+  "value": 237000,
+  "contract": {
+    "salary": 23400,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

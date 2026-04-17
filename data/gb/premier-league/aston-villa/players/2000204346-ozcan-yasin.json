@@ -1,0 +1,34 @@
+{
+  "id": 2000204346,
+  "first_name": "Yasin",
+  "last_name": "Özcan",
+  "birth_date": "2006-04-20",
+  "country_id": 799,
+  "club_id": 603,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 132,
+  "value": 5000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1866,
+    "expiration": "2027-01-27",
+    "salary": 1040000,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

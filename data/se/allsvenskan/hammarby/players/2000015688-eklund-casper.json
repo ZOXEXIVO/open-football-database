@@ -1,0 +1,29 @@
+{
+  "id": 2000015688,
+  "first_name": "Casper",
+  "last_name": "Eklund",
+  "birth_date": "2004-03-11",
+  "country_id": 797,
+  "club_id": 1797,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 117,
+  "value": 419000,
+  "contract": {
+    "salary": 32188,
+    "expiration": "2026-07-14",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 618372,
+    "expiration": "2026-07-14",
+    "salary": 32188,
+    "wage_contribution_pct": 100
+  }
+}

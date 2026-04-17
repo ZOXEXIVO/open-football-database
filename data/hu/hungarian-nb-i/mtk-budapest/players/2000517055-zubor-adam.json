@@ -1,0 +1,31 @@
+{
+  "id": 2000517055,
+  "first_name": "Ádám",
+  "last_name": "Zubor",
+  "birth_date": "2008-03-14",
+  "country_id": 773,
+  "club_id": 1060,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 111,
+  "value": 123000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

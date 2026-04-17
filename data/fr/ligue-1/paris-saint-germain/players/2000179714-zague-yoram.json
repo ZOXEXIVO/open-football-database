@@ -1,0 +1,37 @@
+{
+  "id": 2000179714,
+  "first_name": "Yoram",
+  "last_name": "Zague",
+  "birth_date": "2006-05-15",
+  "country_id": 769,
+  "club_id": 868,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 112,
+  "potential_ability": 142,
+  "value": 3000000,
+  "contract": {
+    "salary": 936000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 194,
+    "expiration": "2026-06-30",
+    "salary": 936000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2000532748,
+  "first_name": "Dmytro",
+  "last_name": "Herasymchuk",
+  "birth_date": "2008-11-11",
+  "country_id": 800,
+  "club_id": 71026832,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 84,
+  "value": 45000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

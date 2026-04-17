@@ -1,0 +1,31 @@
+{
+  "id": 2000044184,
+  "first_name": "Andrii",
+  "last_name": "Poniedielnik",
+  "birth_date": "1997-02-28",
+  "country_id": 800,
+  "club_id": 71063212,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 80,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

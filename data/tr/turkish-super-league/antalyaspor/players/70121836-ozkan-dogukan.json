@@ -1,0 +1,29 @@
+{
+  "id": 70121836,
+  "first_name": "Doğukan",
+  "last_name": "Özkan",
+  "birth_date": "2000-02-04",
+  "country_id": 799,
+  "club_id": 1865,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 93,
+  "value": 5000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 70081777,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

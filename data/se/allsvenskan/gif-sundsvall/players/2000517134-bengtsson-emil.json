@@ -1,0 +1,27 @@
+{
+  "id": 2000517134,
+  "first_name": "Emil",
+  "last_name": "Bengtsson",
+  "birth_date": "2008-12-19",
+  "country_id": 797,
+  "club_id": 1791,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 102,
+  "value": 27000,
+  "contract": {
+    "salary": 364,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

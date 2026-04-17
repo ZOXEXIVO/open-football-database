@@ -1,0 +1,27 @@
+{
+  "id": 85144322,
+  "first_name": "Steven",
+  "last_name": "Moreira",
+  "birth_date": "1994-08-13",
+  "country_id": 12,
+  "club_id": 1904,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 104,
+  "value": 5000000,
+  "contract": {
+    "salary": 676000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

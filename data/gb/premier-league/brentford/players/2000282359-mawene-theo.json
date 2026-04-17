@@ -1,0 +1,27 @@
+{
+  "id": 2000282359,
+  "first_name": "Theo",
+  "last_name": "Mawéné",
+  "birth_date": "2007-07-12",
+  "country_id": 765,
+  "club_id": 617,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 136,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

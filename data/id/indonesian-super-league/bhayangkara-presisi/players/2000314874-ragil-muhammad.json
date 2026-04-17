@@ -1,0 +1,33 @@
+{
+  "id": 2000314874,
+  "first_name": "Muhammad",
+  "last_name": "Ragil",
+  "birth_date": "2005-05-08",
+  "country_id": 113,
+  "club_id": 41053239,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 64,
+  "value": 34000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000004193,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

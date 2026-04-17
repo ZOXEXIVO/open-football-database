@@ -1,0 +1,33 @@
+{
+  "id": 2000018252,
+  "first_name": "Bamo",
+  "last_name": "Meïté",
+  "birth_date": "2001-12-03",
+  "country_id": 24,
+  "club_id": 866,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 122,
+  "potential_ability": 135,
+  "value": 3000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2005,
+    "expiration": "2026-06-30",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

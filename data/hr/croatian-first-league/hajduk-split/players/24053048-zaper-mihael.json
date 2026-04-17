@@ -1,0 +1,33 @@
+{
+  "id": 24053048,
+  "first_name": "Mihael",
+  "last_name": "Žaper",
+  "birth_date": "1998-08-11",
+  "country_id": 761,
+  "club_id": 433,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 103,
+  "value": 158000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7581525,
+    "expiration": "2026-06-30",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  }
+}

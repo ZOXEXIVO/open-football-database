@@ -1,0 +1,29 @@
+{
+  "id": 71099061,
+  "first_name": "Vladyslav",
+  "last_name": "Supriaha",
+  "birth_date": "2000-02-15",
+  "country_id": 800,
+  "club_id": 1885,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 133,
+  "value": 2000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71017165,
+    "expiration": "2026-06-15",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

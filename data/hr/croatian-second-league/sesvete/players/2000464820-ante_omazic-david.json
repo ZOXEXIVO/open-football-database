@@ -1,0 +1,41 @@
+{
+  "id": 2000464820,
+  "first_name": "David",
+  "last_name": "Ante Omazić",
+  "birth_date": "2006-06-16",
+  "country_id": 761,
+  "club_id": 24014012,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 75,
+  "value": 22000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 24001857,
+    "expiration": "2026-06-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

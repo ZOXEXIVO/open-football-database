@@ -1,0 +1,27 @@
+{
+  "id": 2000105977,
+  "first_name": "Michalis",
+  "last_name": "Voriazidis",
+  "birth_date": "2004-10-01",
+  "country_id": 772,
+  "club_id": 969,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 123,
+  "value": 220000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

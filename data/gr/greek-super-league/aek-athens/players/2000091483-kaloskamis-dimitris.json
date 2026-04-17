@@ -1,0 +1,31 @@
+{
+  "id": 2000091483,
+  "first_name": "Dimitris",
+  "last_name": "Kaloskamis",
+  "birth_date": "2005-03-01",
+  "country_id": 772,
+  "club_id": 967,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 117,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

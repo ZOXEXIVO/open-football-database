@@ -1,0 +1,37 @@
+{
+  "id": 28124414,
+  "first_name": "Jake",
+  "last_name": "Rooney",
+  "birth_date": "2003-08-22",
+  "country_id": 765,
+  "club_id": 645,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 129,
+  "value": 366000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 615,
+    "expiration": "2026-05-31",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

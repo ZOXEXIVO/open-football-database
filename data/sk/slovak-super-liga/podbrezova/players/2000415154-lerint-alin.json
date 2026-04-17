@@ -1,0 +1,37 @@
+{
+  "id": 2000415154,
+  "first_name": "Alin",
+  "last_name": "Lerint",
+  "birth_date": "2008-05-27",
+  "country_id": 794,
+  "club_id": 7560016,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 98,
+  "value": 56000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 63011669,
+    "expiration": "2027-01-24",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

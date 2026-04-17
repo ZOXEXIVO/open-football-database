@@ -1,0 +1,33 @@
+{
+  "id": 2000119461,
+  "first_name": "Thuso",
+  "last_name": "Moleleki",
+  "birth_date": "2000-03-16",
+  "country_id": 45,
+  "club_id": 1645,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 110,
+  "value": 4000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 65033935,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

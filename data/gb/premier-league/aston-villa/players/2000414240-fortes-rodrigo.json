@@ -1,0 +1,27 @@
+{
+  "id": 2000414240,
+  "first_name": "Rodrigo",
+  "last_name": "Fortes",
+  "birth_date": "2007-11-23",
+  "country_id": 765,
+  "club_id": 603,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 134,
+  "value": 434000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

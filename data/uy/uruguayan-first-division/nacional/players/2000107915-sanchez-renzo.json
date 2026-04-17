@@ -1,0 +1,37 @@
+{
+  "id": 2000107915,
+  "first_name": "Renzo",
+  "last_name": "Sánchez",
+  "birth_date": "2004-02-17",
+  "country_id": 1657,
+  "club_id": 1921,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 123,
+  "value": 292000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130848,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

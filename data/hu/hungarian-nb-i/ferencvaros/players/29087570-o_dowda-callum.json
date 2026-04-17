@@ -1,0 +1,31 @@
+{
+  "id": 29087570,
+  "first_name": "Callum",
+  "last_name": "O'Dowda",
+  "birth_date": "1995-04-23",
+  "country_id": 789,
+  "club_id": 1055,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 117,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

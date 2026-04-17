@@ -1,0 +1,43 @@
+{
+  "id": 2000027029,
+  "first_name": "Thierry",
+  "last_name": "Small",
+  "birth_date": "2004-08-01",
+  "country_id": 765,
+  "club_id": 700,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 107,
+  "value": 7000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

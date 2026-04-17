@@ -1,0 +1,31 @@
+{
+  "id": 55067641,
+  "first_name": "Zé",
+  "last_name": "Valente",
+  "birth_date": "1994-05-14",
+  "country_id": 788,
+  "club_id": 135500,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 81,
+  "value": 46000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

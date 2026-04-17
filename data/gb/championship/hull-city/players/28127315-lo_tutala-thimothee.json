@@ -1,0 +1,29 @@
+{
+  "id": 28127315,
+  "first_name": "Thimothée",
+  "last_name": "Lo-Tutala",
+  "birth_date": "2003-02-13",
+  "country_id": 769,
+  "club_id": 665,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 115,
+  "value": 847000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 646,
+    "expiration": "2026-05-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

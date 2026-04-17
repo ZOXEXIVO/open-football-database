@@ -1,0 +1,35 @@
+{
+  "id": 2000166448,
+  "first_name": "Adar",
+  "last_name": "Ratner",
+  "birth_date": "2002-12-10",
+  "country_id": 775,
+  "club_id": 1082,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 90,
+  "value": 610000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

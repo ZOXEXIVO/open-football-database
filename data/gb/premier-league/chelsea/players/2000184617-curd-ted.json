@@ -1,0 +1,29 @@
+{
+  "id": 2000184617,
+  "first_name": "Ted",
+  "last_name": "Curd",
+  "birth_date": "2006-02-14",
+  "country_id": 765,
+  "club_id": 630,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 163,
+  "value": 197000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 109212,
+    "expiration": "2026-05-31",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

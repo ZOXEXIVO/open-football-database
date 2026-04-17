@@ -1,0 +1,31 @@
+{
+  "id": 2000062902,
+  "first_name": "Zurab",
+  "last_name": "Rukhadze",
+  "birth_date": "2003-07-30",
+  "country_id": 770,
+  "club_id": 71063212,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 94,
+  "value": 333000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

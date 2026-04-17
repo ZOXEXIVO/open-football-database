@@ -1,0 +1,27 @@
+{
+  "id": 2000480502,
+  "first_name": "Artem",
+  "last_name": "Tretiak",
+  "birth_date": "2008-04-14",
+  "country_id": 800,
+  "club_id": 1902,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 102,
+  "value": 103000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

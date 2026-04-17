@@ -1,0 +1,31 @@
+{
+  "id": 78083573,
+  "first_name": "Juan",
+  "last_name": "Moreira",
+  "birth_date": "1998-05-31",
+  "country_id": 1657,
+  "club_id": 115039,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 85,
+  "value": 28000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

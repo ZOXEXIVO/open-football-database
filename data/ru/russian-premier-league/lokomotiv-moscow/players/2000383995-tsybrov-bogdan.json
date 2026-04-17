@@ -1,0 +1,29 @@
+{
+  "id": 2000383995,
+  "first_name": "Bogdan",
+  "last_name": "Tsybrov",
+  "birth_date": "2006-03-04",
+  "country_id": 791,
+  "club_id": 1525,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 118,
+  "value": 35000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7485067,
+    "expiration": "2026-12-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

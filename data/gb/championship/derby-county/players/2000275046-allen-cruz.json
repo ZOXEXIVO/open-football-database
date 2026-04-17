@@ -1,0 +1,31 @@
+{
+  "id": 2000275046,
+  "first_name": "Cruz",
+  "last_name": "Allen",
+  "birth_date": "2007-02-25",
+  "country_id": 801,
+  "club_id": 645,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 122,
+  "value": 268000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000224398,
+  "first_name": "Tanatswa",
+  "last_name": "Nyakuhwa",
+  "birth_date": "2005-09-17",
+  "country_id": 801,
+  "club_id": 625,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 97,
+  "value": 400000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 581,
+    "expiration": "2026-05-31",
+    "salary": 26000,
+    "wage_contribution_pct": 100
+  }
+}

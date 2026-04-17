@@ -1,0 +1,27 @@
+{
+  "id": 2000480630,
+  "first_name": "Haroun",
+  "last_name": "Abakar",
+  "birth_date": "2003-07-01",
+  "country_id": 14,
+  "club_id": 2000314427,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 45,
+  "potential_ability": 56,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

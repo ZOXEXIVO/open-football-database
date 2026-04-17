@@ -1,0 +1,33 @@
+{
+  "id": 2000198728,
+  "first_name": "Kadan",
+  "last_name": "Young",
+  "birth_date": "2006-01-19",
+  "country_id": 765,
+  "club_id": 603,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 142,
+  "value": 2000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 702,
+    "expiration": "2026-05-31",
+    "salary": 312000,
+    "wage_contribution_pct": 100
+  }
+}

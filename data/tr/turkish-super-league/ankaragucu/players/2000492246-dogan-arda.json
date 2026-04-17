@@ -1,0 +1,27 @@
+{
+  "id": 2000492246,
+  "first_name": "Arda",
+  "last_name": "Doğan",
+  "birth_date": "2007-06-20",
+  "country_id": 799,
+  "club_id": 1864,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 108,
+  "value": 50000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

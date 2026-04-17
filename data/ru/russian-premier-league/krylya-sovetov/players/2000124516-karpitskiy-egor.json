@@ -1,0 +1,29 @@
+{
+  "id": 2000124516,
+  "first_name": "Egor",
+  "last_name": "Karpitskiy",
+  "birth_date": "2003-11-27",
+  "country_id": 758,
+  "club_id": 1523,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 101,
+  "value": 539000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 17041311,
+    "expiration": "2026-12-01",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

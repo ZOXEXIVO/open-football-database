@@ -1,0 +1,31 @@
+{
+  "id": 2000395229,
+  "first_name": "Angel",
+  "last_name": "Garcia",
+  "birth_date": "2008-02-03",
+  "country_id": 769,
+  "club_id": 865,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 134,
+  "value": 539000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

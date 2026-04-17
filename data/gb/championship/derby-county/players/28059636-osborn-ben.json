@@ -1,0 +1,33 @@
+{
+  "id": 28059636,
+  "first_name": "Ben",
+  "last_name": "Osborn",
+  "birth_date": "1994-08-05",
+  "country_id": 765,
+  "club_id": 645,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 107,
+  "value": 2000000,
+  "contract": {
+    "salary": 832000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 720,
+    "expiration": "2026-05-31",
+    "salary": 832000,
+    "wage_contribution_pct": 100
+  }
+}

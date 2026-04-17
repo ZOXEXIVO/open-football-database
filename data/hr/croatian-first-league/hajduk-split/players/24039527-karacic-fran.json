@@ -1,0 +1,33 @@
+{
+  "id": 24039527,
+  "first_name": "Fran",
+  "last_name": "Karačić",
+  "birth_date": "1996-05-12",
+  "country_id": 1435,
+  "club_id": 433,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 109,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 440,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 28106878,
+  "first_name": "Marcus",
+  "last_name": "Edwards",
+  "birth_date": "1998-12-03",
+  "country_id": 765,
+  "club_id": 622,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 109,
+  "potential_ability": 117,
+  "value": 28000000,
+  "contract": {
+    "salary": 2080000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

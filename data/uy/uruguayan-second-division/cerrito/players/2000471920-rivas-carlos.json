@@ -1,0 +1,31 @@
+{
+  "id": 2000471920,
+  "first_name": "Carlos",
+  "last_name": "Rivas",
+  "birth_date": "2008-08-07",
+  "country_id": 1657,
+  "club_id": 5512780,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 81,
+  "value": 36000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

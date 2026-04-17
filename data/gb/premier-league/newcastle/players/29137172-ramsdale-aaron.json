@@ -1,0 +1,29 @@
+{
+  "id": 29137172,
+  "first_name": "Aaron",
+  "last_name": "Ramsdale",
+  "birth_date": "1998-05-14",
+  "country_id": 765,
+  "club_id": 713,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 118,
+  "value": 27000000,
+  "contract": {
+    "salary": 3744000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 688,
+    "expiration": "2026-05-31",
+    "salary": 3744000,
+    "wage_contribution_pct": 100
+  }
+}

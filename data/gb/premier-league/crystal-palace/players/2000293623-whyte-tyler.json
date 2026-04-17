@@ -1,0 +1,27 @@
+{
+  "id": 2000293623,
+  "first_name": "Tyler",
+  "last_name": "Whyte",
+  "birth_date": "2006-10-09",
+  "country_id": 765,
+  "club_id": 642,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 105,
+  "value": 21000,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

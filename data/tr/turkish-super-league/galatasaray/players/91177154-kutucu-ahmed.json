@@ -1,0 +1,35 @@
+{
+  "id": 91177154,
+  "first_name": "Ahmed",
+  "last_name": "Kutucu",
+  "birth_date": "2000-03-01",
+  "country_id": 799,
+  "club_id": 1871,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 124,
+  "potential_ability": 135,
+  "value": 2000000,
+  "contract": {
+    "salary": 1144000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

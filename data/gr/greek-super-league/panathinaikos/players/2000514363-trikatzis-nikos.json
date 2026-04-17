@@ -1,0 +1,27 @@
+{
+  "id": 2000514363,
+  "first_name": "Nikos",
+  "last_name": "Trikatzis",
+  "birth_date": "2007-06-10",
+  "country_id": 772,
+  "club_id": 983,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 104,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

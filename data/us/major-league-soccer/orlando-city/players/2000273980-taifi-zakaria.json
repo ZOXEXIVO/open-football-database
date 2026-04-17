@@ -1,0 +1,31 @@
+{
+  "id": 2000273980,
+  "first_name": "Zakaria",
+  "last_name": "Taifi",
+  "birth_date": "2005-10-01",
+  "country_id": 390,
+  "club_id": 72014193,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 107,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

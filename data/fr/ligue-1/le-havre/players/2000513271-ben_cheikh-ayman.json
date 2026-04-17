@@ -1,0 +1,27 @@
+{
+  "id": 2000513271,
+  "first_name": "Ayman",
+  "last_name": "Ben Cheikh",
+  "birth_date": "2008-08-27",
+  "country_id": 34,
+  "club_id": 856,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 116,
+  "value": 210000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

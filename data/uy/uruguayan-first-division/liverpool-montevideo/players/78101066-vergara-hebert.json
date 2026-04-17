@@ -1,0 +1,37 @@
+{
+  "id": 78101066,
+  "first_name": "Hebert",
+  "last_name": "Vergara",
+  "birth_date": "2002-03-22",
+  "country_id": 1657,
+  "club_id": 1920,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 93,
+  "value": 36000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5512779,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

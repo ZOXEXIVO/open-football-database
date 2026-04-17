@@ -1,0 +1,34 @@
+{
+  "id": 14185869,
+  "first_name": "Facundo",
+  "last_name": "Medina",
+  "birth_date": "1999-05-28",
+  "country_id": 1649,
+  "club_id": 871,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 121,
+  "value": 17000000,
+  "contract": {
+    "salary": 1404000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 866,
+    "expiration": "2026-06-30",
+    "salary": 1404000,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

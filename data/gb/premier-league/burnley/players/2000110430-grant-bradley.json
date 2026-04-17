@@ -1,0 +1,27 @@
+{
+  "id": 2000110430,
+  "first_name": "Bradley",
+  "last_name": "Grant",
+  "birth_date": "2004-10-02",
+  "country_id": 765,
+  "club_id": 622,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 111,
+  "value": 86000,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

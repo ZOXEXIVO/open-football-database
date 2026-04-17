@@ -1,0 +1,29 @@
+{
+  "id": 2000336598,
+  "first_name": "Daniel",
+  "last_name": "Kvartskhava",
+  "birth_date": "2006-07-15",
+  "country_id": 770,
+  "club_id": 2000350943,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 107,
+  "value": 322000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 892,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 70131625,
+  "first_name": "Kazımcan",
+  "last_name": "Karataş",
+  "birth_date": "2003-01-16",
+  "country_id": 799,
+  "club_id": 1871,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 124,
+  "value": 394000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130343,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 28103590,
+  "first_name": "Mason",
+  "last_name": "Mount",
+  "birth_date": "1999-01-10",
+  "country_id": 765,
+  "club_id": 680,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 133,
+  "potential_ability": 154,
+  "value": 58000000,
+  "contract": {
+    "salary": 10400000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

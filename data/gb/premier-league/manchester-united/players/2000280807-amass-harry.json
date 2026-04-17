@@ -1,0 +1,33 @@
+{
+  "id": 2000280807,
+  "first_name": "Harry",
+  "last_name": "Amass",
+  "birth_date": "2007-03-16",
+  "country_id": 765,
+  "club_id": 680,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 133,
+  "potential_ability": 163,
+  "value": 23000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 691,
+    "expiration": "2026-05-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

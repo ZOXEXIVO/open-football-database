@@ -1,0 +1,31 @@
+{
+  "id": 2000026046,
+  "first_name": "Agustín",
+  "last_name": "Pérez",
+  "birth_date": "2004-04-23",
+  "country_id": 1657,
+  "club_id": 130848,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 87,
+  "value": 67000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000294181,
+  "first_name": "Clancy",
+  "last_name": "Biten Valere",
+  "birth_date": "2005-04-05",
+  "country_id": 11,
+  "club_id": 1798,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 100,
+  "value": 419000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

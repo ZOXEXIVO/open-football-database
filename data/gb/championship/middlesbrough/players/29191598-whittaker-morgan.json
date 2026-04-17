@@ -1,0 +1,31 @@
+{
+  "id": 29191598,
+  "first_name": "Morgan",
+  "last_name": "Whittaker",
+  "birth_date": "2001-01-07",
+  "country_id": 765,
+  "club_id": 685,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 122,
+  "value": 11000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

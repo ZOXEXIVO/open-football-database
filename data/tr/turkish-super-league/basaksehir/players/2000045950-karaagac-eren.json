@@ -1,0 +1,33 @@
+{
+  "id": 2000045950,
+  "first_name": "Eren",
+  "last_name": "Karaağaç",
+  "birth_date": "2004-05-24",
+  "country_id": 799,
+  "club_id": 130343,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 106,
+  "value": 31000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 70009403,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

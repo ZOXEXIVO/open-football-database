@@ -1,0 +1,27 @@
+{
+  "id": 2000411945,
+  "first_name": "Ivan",
+  "last_name": "Jurčić",
+  "birth_date": "2008-03-11",
+  "country_id": 761,
+  "club_id": 432,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 104,
+  "value": 18000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

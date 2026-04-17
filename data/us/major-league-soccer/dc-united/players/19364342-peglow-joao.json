@@ -1,0 +1,27 @@
+{
+  "id": 19364342,
+  "first_name": "João",
+  "last_name": "Peglow",
+  "birth_date": "2002-01-07",
+  "country_id": 1651,
+  "club_id": 1913,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 106,
+  "value": 1000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

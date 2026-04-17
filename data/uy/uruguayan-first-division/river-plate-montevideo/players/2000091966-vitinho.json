@@ -1,0 +1,31 @@
+{
+  "id": 2000091966,
+  "first_name": "Vitinho",
+  "last_name": "",
+  "birth_date": "2002-05-14",
+  "country_id": 1651,
+  "club_id": 1925,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 99,
+  "value": 13000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

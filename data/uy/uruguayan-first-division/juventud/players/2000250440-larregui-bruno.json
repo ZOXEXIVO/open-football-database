@@ -1,0 +1,31 @@
+{
+  "id": 2000250440,
+  "first_name": "Bruno",
+  "last_name": "Larregui",
+  "birth_date": "2001-03-07",
+  "country_id": 1657,
+  "club_id": 130848,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 86,
+  "value": 79000,
+  "contract": {
+    "salary": 39780,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000085967,
+  "first_name": "Matteo",
+  "last_name": "Pérez Vinlöf",
+  "birth_date": "2005-12-18",
+  "country_id": 797,
+  "club_id": 432,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 126,
+  "value": 8000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

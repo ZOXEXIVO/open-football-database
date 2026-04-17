@@ -1,0 +1,37 @@
+{
+  "id": 2000283271,
+  "first_name": "Ethan",
+  "last_name": "Nwaneri",
+  "birth_date": "2007-03-21",
+  "country_id": 765,
+  "club_id": 602,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 133,
+  "potential_ability": 168,
+  "value": 57000000,
+  "contract": {
+    "salary": 3120000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 866,
+    "expiration": "2026-06-30",
+    "salary": 3120000,
+    "wage_contribution_pct": 100
+  }
+}

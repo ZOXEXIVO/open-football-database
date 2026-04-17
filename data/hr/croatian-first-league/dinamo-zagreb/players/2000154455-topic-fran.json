@@ -1,0 +1,27 @@
+{
+  "id": 2000154455,
+  "first_name": "Fran",
+  "last_name": "Topić",
+  "birth_date": "2004-03-20",
+  "country_id": 761,
+  "club_id": 432,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 119,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

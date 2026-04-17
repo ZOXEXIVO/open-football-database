@@ -1,0 +1,29 @@
+{
+  "id": 2000084238,
+  "first_name": "Eric",
+  "last_name": "Pimentel",
+  "birth_date": "2003-01-15",
+  "country_id": 1651,
+  "club_id": 59025932,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 106,
+  "value": 396000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 8062319,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000395424,
+  "first_name": "Bernard",
+  "last_name": "Somuah",
+  "birth_date": "2006-02-10",
+  "country_id": 21,
+  "club_id": 801910,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 91,
+  "value": 20000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 2092,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

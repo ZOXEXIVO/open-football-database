@@ -1,0 +1,31 @@
+{
+  "id": 2000495799,
+  "first_name": "Jack",
+  "last_name": "Callaghan",
+  "birth_date": "2009-01-24",
+  "country_id": 765,
+  "club_id": 688,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 121,
+  "value": 56000,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

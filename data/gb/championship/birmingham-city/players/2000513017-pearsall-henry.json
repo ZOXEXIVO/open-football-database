@@ -1,0 +1,27 @@
+{
+  "id": 2000513017,
+  "first_name": "Henry",
+  "last_name": "Pearsall",
+  "birth_date": "2009-01-29",
+  "country_id": 765,
+  "club_id": 609,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 200,
+  "value": 20000,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

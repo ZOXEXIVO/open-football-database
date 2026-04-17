@@ -1,0 +1,37 @@
+{
+  "id": 2000175803,
+  "first_name": "Mariano",
+  "last_name": "Aguilera",
+  "birth_date": "2003-12-07",
+  "country_id": 1649,
+  "club_id": 8825225,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 80,
+  "value": 55000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1916,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

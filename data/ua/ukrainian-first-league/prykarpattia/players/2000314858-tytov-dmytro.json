@@ -1,0 +1,35 @@
+{
+  "id": 2000314858,
+  "first_name": "Dmytro",
+  "last_name": "Tytov",
+  "birth_date": "2002-10-09",
+  "country_id": 800,
+  "club_id": 5316335,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 75,
+  "value": 54000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

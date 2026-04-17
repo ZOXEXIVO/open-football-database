@@ -1,0 +1,29 @@
+{
+  "id": 2000133305,
+  "first_name": "Marselino",
+  "last_name": "Ferdinan",
+  "birth_date": "2004-09-09",
+  "country_id": 113,
+  "club_id": 695,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 107,
+  "value": 96000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130872,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

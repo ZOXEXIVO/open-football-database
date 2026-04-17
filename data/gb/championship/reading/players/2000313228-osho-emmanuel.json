@@ -1,0 +1,35 @@
+{
+  "id": 2000313228,
+  "first_name": "Emmanuel",
+  "last_name": "Osho",
+  "birth_date": "2007-04-09",
+  "country_id": 765,
+  "club_id": 702,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 101,
+  "value": 235000,
+  "contract": {
+    "salary": 20800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

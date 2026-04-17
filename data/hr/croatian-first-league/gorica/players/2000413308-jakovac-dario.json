@@ -1,0 +1,27 @@
+{
+  "id": 2000413308,
+  "first_name": "Dario",
+  "last_name": "Jakovac",
+  "birth_date": "2008-01-06",
+  "country_id": 761,
+  "club_id": 24013516,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 98,
+  "value": 49000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000290019,
+  "first_name": "Enzo",
+  "last_name": "Genton",
+  "birth_date": "2006-03-31",
+  "country_id": 769,
+  "club_id": 2005,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 113,
+  "value": 874000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 874,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

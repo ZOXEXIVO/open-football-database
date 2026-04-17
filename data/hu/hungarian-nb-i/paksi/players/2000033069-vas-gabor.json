@@ -1,0 +1,31 @@
+{
+  "id": 2000033069,
+  "first_name": "Gábor",
+  "last_name": "Vas",
+  "birth_date": "2003-08-29",
+  "country_id": 773,
+  "club_id": 7521327,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 101,
+  "value": 810000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

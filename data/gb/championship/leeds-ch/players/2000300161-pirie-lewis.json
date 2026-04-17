@@ -1,0 +1,35 @@
+{
+  "id": 2000300161,
+  "first_name": "Lewis",
+  "last_name": "Pirie",
+  "birth_date": "2007-01-28",
+  "country_id": 793,
+  "club_id": 671,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 106,
+  "value": 78000,
+  "contract": {
+    "salary": 49920,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

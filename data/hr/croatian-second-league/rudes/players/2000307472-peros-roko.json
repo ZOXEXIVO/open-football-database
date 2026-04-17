@@ -1,0 +1,29 @@
+{
+  "id": 2000307472,
+  "first_name": "Roko",
+  "last_name": "Peroš",
+  "birth_date": "2005-10-01",
+  "country_id": 761,
+  "club_id": 658353,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 82,
+  "value": 40000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 24059190,
+    "expiration": "2028-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

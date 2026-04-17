@@ -1,0 +1,27 @@
+{
+  "id": 2000529656,
+  "first_name": "Tafiq",
+  "last_name": "Biao",
+  "birth_date": "2008-10-19",
+  "country_id": 797,
+  "club_id": 1816,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 117,
+  "value": 56000,
+  "contract": {
+    "salary": 364,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

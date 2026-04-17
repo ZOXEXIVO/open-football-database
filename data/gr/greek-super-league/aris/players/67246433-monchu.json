@@ -1,0 +1,33 @@
+{
+  "id": 67246433,
+  "first_name": "Monchu",
+  "last_name": "",
+  "birth_date": "1999-09-13",
+  "country_id": 796,
+  "club_id": 969,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 114,
+  "value": 11000000,
+  "contract": {
+    "salary": 572000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 51051219,
+    "expiration": "2026-12-31",
+    "salary": 572000,
+    "wage_contribution_pct": 100
+  }
+}

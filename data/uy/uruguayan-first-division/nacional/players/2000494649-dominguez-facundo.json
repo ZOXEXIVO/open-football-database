@@ -1,0 +1,29 @@
+{
+  "id": 2000494649,
+  "first_name": "Facundo",
+  "last_name": "Domínguez",
+  "birth_date": "2007-07-15",
+  "country_id": 1657,
+  "club_id": 1921,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 114,
+  "value": 98000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130848,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

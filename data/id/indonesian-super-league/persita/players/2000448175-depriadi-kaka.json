@@ -1,0 +1,29 @@
+{
+  "id": 2000448175,
+  "first_name": "Kaka",
+  "last_name": "Depriadi",
+  "birth_date": "2005-01-23",
+  "country_id": 113,
+  "club_id": 5622746,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 59,
+  "value": 11000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 135528,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

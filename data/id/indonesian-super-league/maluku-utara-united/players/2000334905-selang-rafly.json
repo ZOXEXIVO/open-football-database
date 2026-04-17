@@ -1,0 +1,29 @@
+{
+  "id": 2000334905,
+  "first_name": "Rafly",
+  "last_name": "Selang",
+  "birth_date": "2005-04-08",
+  "country_id": 113,
+  "club_id": 2000273329,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 55,
+  "value": 28000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5622732,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

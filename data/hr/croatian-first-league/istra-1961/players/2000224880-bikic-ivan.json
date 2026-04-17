@@ -1,0 +1,29 @@
+{
+  "id": 2000224880,
+  "first_name": "Ivan",
+  "last_name": "Bikić",
+  "birth_date": "2006-02-12",
+  "country_id": 761,
+  "club_id": 662735,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 92,
+  "value": 44000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129852,
+    "expiration": "2026-06-29",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}
