@@ -1,0 +1,57 @@
+{
+  "id": 106063,
+  "name": "Al-Ittihad",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 322000000
+  },
+  "teams": [
+    {
+      "id": 106063,
+      "name": "Al-Ittihad",
+      "slug": "al-ittihad",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 100106063,
+      "name": "Al-Ittihad",
+      "slug": "al-ittihad-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1600,
+        "national": 1600,
+        "world": 1600
+      }
+    },
+    {
+      "id": 200106063,
+      "name": "Al-Ittihad",
+      "slug": "al-ittihad-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#ffed00"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 42371
+}

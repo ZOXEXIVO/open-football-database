@@ -1,0 +1,57 @@
+{
+  "id": 7920502,
+  "name": "Damac",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 7000000
+  },
+  "teams": [
+    {
+      "id": 7920502,
+      "name": "Damac",
+      "slug": "damac",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2200,
+        "national": 2200,
+        "world": 2200
+      }
+    },
+    {
+      "id": 107920502,
+      "name": "Damac",
+      "slug": "damac-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    },
+    {
+      "id": 207920502,
+      "name": "Damac",
+      "slug": "damac-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#00a651",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Adequate",
+    "academy": "Adequate",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1500
+}

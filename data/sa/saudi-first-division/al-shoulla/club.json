@@ -1,0 +1,57 @@
+{
+  "id": 5410607,
+  "name": "Al-Shoulla",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 41000000
+  },
+  "teams": [
+    {
+      "id": 5410607,
+      "name": "Al-Shoulla",
+      "slug": "al-shoulla",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2200,
+        "national": 2200,
+        "world": 2200
+      }
+    },
+    {
+      "id": 105410607,
+      "name": "Al-Shoulla",
+      "slug": "al-shoulla-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    },
+    {
+      "id": 205410607,
+      "name": "Al-Shoulla",
+      "slug": "al-shoulla-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#005baa",
+    "foreground": "#fdb913"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Adequate",
+    "youth": "Below Average",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 853
+}

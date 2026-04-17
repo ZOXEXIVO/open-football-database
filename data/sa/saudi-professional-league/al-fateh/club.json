@@ -1,0 +1,57 @@
+{
+  "id": 7920359,
+  "name": "Al-Fateh",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 117000000
+  },
+  "teams": [
+    {
+      "id": 7920359,
+      "name": "Al-Fateh",
+      "slug": "al-fateh",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5000,
+        "national": 5000,
+        "world": 5000
+      }
+    },
+    {
+      "id": 107920359,
+      "name": "Al-Fateh",
+      "slug": "al-fateh-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 207920359,
+      "name": "Al-Fateh",
+      "slug": "al-fateh-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e30613",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Adequate",
+    "youth": "Adequate",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 2777
+}

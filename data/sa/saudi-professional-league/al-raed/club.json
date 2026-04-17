@@ -1,0 +1,57 @@
+{
+  "id": 135424,
+  "name": "Al-Ra'ed",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 70000000
+  },
+  "teams": [
+    {
+      "id": 135424,
+      "name": "Al-Ra'ed",
+      "slug": "al-raed",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    },
+    {
+      "id": 100135424,
+      "name": "Al-Ra'ed",
+      "slug": "al-raed-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 200135424,
+      "name": "Al-Ra'ed",
+      "slug": "al-raed-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fff000",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Adequate",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 3311
+}

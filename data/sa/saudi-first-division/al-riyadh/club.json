@@ -1,0 +1,57 @@
+{
+  "id": 135423,
+  "name": "Al-Riyadh",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 23000000
+  },
+  "teams": [
+    {
+      "id": 135423,
+      "name": "Al-Riyadh",
+      "slug": "al-riyadh",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2100,
+        "national": 2100,
+        "world": 2100
+      }
+    },
+    {
+      "id": 100135423,
+      "name": "Al-Riyadh",
+      "slug": "al-riyadh-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    },
+    {
+      "id": 200135423,
+      "name": "Al-Riyadh",
+      "slug": "al-riyadh-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#007a33",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Adequate",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1000
+}

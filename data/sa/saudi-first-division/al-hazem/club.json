@@ -1,0 +1,57 @@
+{
+  "id": 7920356,
+  "name": "Al-Hazem",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 53000000
+  },
+  "teams": [
+    {
+      "id": 7920356,
+      "name": "Al-Hazem",
+      "slug": "al-hazem",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2200,
+        "national": 2200,
+        "world": 2200
+      }
+    },
+    {
+      "id": 107920356,
+      "name": "Al-Hazem",
+      "slug": "al-hazem-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    },
+    {
+      "id": 207920356,
+      "name": "Al-Hazem",
+      "slug": "al-hazem-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd200",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Adequate",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 533
+}

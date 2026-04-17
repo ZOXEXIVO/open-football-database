@@ -1,0 +1,57 @@
+{
+  "id": 102852,
+  "name": "Al-Hilal",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 293000000
+  },
+  "teams": [
+    {
+      "id": 102852,
+      "name": "Al-Hilal",
+      "slug": "al-hilal",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 100102852,
+      "name": "Al-Hilal",
+      "slug": "al-hilal-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1600,
+        "national": 1600,
+        "world": 1600
+      }
+    },
+    {
+      "id": 200102852,
+      "name": "Al-Hilal",
+      "slug": "al-hilal-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#005baa",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 13007
+}

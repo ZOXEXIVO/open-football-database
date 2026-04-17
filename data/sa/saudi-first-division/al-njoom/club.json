@@ -1,0 +1,57 @@
+{
+  "id": 23002919,
+  "name": "Al-Njoom",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 7000000
+  },
+  "teams": [
+    {
+      "id": 23002919,
+      "name": "Al-Njoom",
+      "slug": "al-njoom",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2000,
+        "national": 2000,
+        "world": 2000
+      }
+    },
+    {
+      "id": 123002919,
+      "name": "Al-Njoom",
+      "slug": "al-njoom-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    },
+    {
+      "id": 223002919,
+      "name": "Al-Njoom",
+      "slug": "al-njoom-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd200",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 400
+}

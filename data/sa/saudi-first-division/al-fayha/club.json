@@ -1,0 +1,57 @@
+{
+  "id": 7920365,
+  "name": "Al-Fayha",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 18000000
+  },
+  "teams": [
+    {
+      "id": 7920365,
+      "name": "Al-Fayha",
+      "slug": "al-fayha",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2100,
+        "national": 2100,
+        "world": 2100
+      }
+    },
+    {
+      "id": 107920365,
+      "name": "Al-Fayha",
+      "slug": "al-fayha-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    },
+    {
+      "id": 207920365,
+      "name": "Al-Fayha",
+      "slug": "al-fayha-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fdb913",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Poor",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 400
+}

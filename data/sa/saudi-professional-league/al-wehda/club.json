@@ -1,0 +1,57 @@
+{
+  "id": 106781,
+  "name": "Al-Wehda",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 53000000
+  },
+  "teams": [
+    {
+      "id": 106781,
+      "name": "Al-Wehda",
+      "slug": "al-wehda",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 100106781,
+      "name": "Al-Wehda",
+      "slug": "al-wehda-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 200106781,
+      "name": "Al-Wehda",
+      "slug": "al-wehda-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e30613",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Adequate",
+    "youth": "Adequate",
+    "academy": "Adequate",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1971
+}

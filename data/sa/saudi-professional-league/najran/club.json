@@ -1,0 +1,57 @@
+{
+  "id": 7920360,
+  "name": "Najran",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 47000000
+  },
+  "teams": [
+    {
+      "id": 7920360,
+      "name": "Najran",
+      "slug": "najran",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    },
+    {
+      "id": 107920360,
+      "name": "Najran",
+      "slug": "najran-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 207920360,
+      "name": "Najran",
+      "slug": "najran-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fff000",
+    "foreground": "#006838"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Adequate",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 949
+}

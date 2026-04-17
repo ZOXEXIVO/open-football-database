@@ -1,0 +1,57 @@
+{
+  "id": 7920354,
+  "name": "Ohod",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 23000000
+  },
+  "teams": [
+    {
+      "id": 7920354,
+      "name": "Ohod",
+      "slug": "ohod",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2200,
+        "national": 2200,
+        "world": 2200
+      }
+    },
+    {
+      "id": 107920354,
+      "name": "Ohod",
+      "slug": "ohod-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    },
+    {
+      "id": 207920354,
+      "name": "Ohod",
+      "slug": "ohod-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd200",
+    "foreground": "#e30613"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Basic",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1000
+}

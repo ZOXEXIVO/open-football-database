@@ -1,0 +1,57 @@
+{
+  "id": 7920362,
+  "name": "Al-Faisaly",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 88000000
+  },
+  "teams": [
+    {
+      "id": 7920362,
+      "name": "Al-Faisaly",
+      "slug": "al-faisaly",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 107920362,
+      "name": "Al-Faisaly",
+      "slug": "al-faisaly-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 207920362,
+      "name": "Al-Faisaly",
+      "slug": "al-faisaly-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#6a1b9a",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Adequate",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 570
+}

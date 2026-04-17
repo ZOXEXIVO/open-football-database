@@ -1,0 +1,57 @@
+{
+  "id": 7920352,
+  "name": "Al-Taawoun",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 88000000
+  },
+  "teams": [
+    {
+      "id": 7920352,
+      "name": "Al-Taawoun",
+      "slug": "al-taawoun",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5000,
+        "national": 5000,
+        "world": 5000
+      }
+    },
+    {
+      "id": 107920352,
+      "name": "Al-Taawoun",
+      "slug": "al-taawoun-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 207920352,
+      "name": "Al-Taawoun",
+      "slug": "al-taawoun-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fff000",
+    "foreground": "#008542"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Adequate",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 2826
+}

@@ -1,0 +1,57 @@
+{
+  "id": 106780,
+  "name": "Al-Ta'ee",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 29000000
+  },
+  "teams": [
+    {
+      "id": 106780,
+      "name": "Al-Ta'ee",
+      "slug": "al-taee",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2100,
+        "national": 2100,
+        "world": 2100
+      }
+    },
+    {
+      "id": 100106780,
+      "name": "Al-Ta'ee",
+      "slug": "al-taee-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    },
+    {
+      "id": 200106780,
+      "name": "Al-Ta'ee",
+      "slug": "al-taee-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e30613",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 3000
+}

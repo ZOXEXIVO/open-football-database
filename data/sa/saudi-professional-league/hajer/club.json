@@ -1,0 +1,57 @@
+{
+  "id": 7920296,
+  "name": "Hajer",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 41000000
+  },
+  "teams": [
+    {
+      "id": 7920296,
+      "name": "Hajer",
+      "slug": "hajer",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 107920296,
+      "name": "Hajer",
+      "slug": "hajer-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 207920296,
+      "name": "Hajer",
+      "slug": "hajer-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0066b3",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Adequate",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1622
+}

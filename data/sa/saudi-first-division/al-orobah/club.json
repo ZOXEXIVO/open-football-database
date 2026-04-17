@@ -1,0 +1,57 @@
+{
+  "id": 7920357,
+  "name": "Al-Orobah",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 47000000
+  },
+  "teams": [
+    {
+      "id": 7920357,
+      "name": "Al-Orobah",
+      "slug": "al-orobah",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2200,
+        "national": 2200,
+        "world": 2200
+      }
+    },
+    {
+      "id": 107920357,
+      "name": "Al-Orobah",
+      "slug": "al-orobah-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    },
+    {
+      "id": 207920357,
+      "name": "Al-Orobah",
+      "slug": "al-orobah-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#005baa",
+    "foreground": "#ffd200"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Adequate",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 3657
+}

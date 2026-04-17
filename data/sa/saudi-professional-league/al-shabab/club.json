@@ -1,0 +1,57 @@
+{
+  "id": 1535,
+  "name": "Al-Shabab",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 176000000
+  },
+  "teams": [
+    {
+      "id": 1535,
+      "name": "Al-Shabab",
+      "slug": "al-shabab",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 100001535,
+      "name": "Al-Shabab",
+      "slug": "al-shabab-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1600,
+        "national": 1600,
+        "world": 1600
+      }
+    },
+    {
+      "id": 200001535,
+      "name": "Al-Shabab",
+      "slug": "al-shabab-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 3290
+}

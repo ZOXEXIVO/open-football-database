@@ -1,0 +1,57 @@
+{
+  "id": 102850,
+  "name": "Al-Ahli",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 263000000
+  },
+  "teams": [
+    {
+      "id": 102850,
+      "name": "Al-Ahli",
+      "slug": "al-ahli",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5300,
+        "national": 5300,
+        "world": 5300
+      }
+    },
+    {
+      "id": 100102850,
+      "name": "Al-Ahli",
+      "slug": "al-ahli-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1600,
+        "national": 1600,
+        "world": 1600
+      }
+    },
+    {
+      "id": 200102850,
+      "name": "Al-Ahli",
+      "slug": "al-ahli-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#006838",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 34089
+}

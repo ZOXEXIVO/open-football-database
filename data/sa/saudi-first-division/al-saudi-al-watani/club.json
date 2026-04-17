@@ -1,0 +1,57 @@
+{
+  "id": 7920493,
+  "name": "Al-Saudi Al-Watani",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 29000000
+  },
+  "teams": [
+    {
+      "id": 7920493,
+      "name": "Al-Saudi Al-Watani",
+      "slug": "al-saudi-al-watani",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2100,
+        "national": 2100,
+        "world": 2100
+      }
+    },
+    {
+      "id": 107920493,
+      "name": "Al-Saudi Al-Watani",
+      "slug": "al-saudi-al-watani-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    },
+    {
+      "id": 207920493,
+      "name": "Al-Saudi Al-Watani",
+      "slug": "al-saudi-al-watani-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#007a33",
+    "foreground": "#ffd200"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1000
+}
