@@ -1,0 +1,28 @@
+{
+  "id": 2000369583,
+  "first_name": "Thamer",
+  "last_name": "Al-Khaibri",
+  "birth_date": "2005-12-03",
+  "country_id": 133,
+  "club_id": 2000326380,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 106,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 7920260,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

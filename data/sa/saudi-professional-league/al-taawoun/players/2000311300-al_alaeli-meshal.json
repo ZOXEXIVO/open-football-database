@@ -1,0 +1,33 @@
+{
+  "id": 2000311300,
+  "first_name": "Meshal",
+  "last_name": "Al-Alaeli",
+  "birth_date": "2004-06-17",
+  "country_id": 133,
+  "club_id": 135427,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 86,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7920352,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

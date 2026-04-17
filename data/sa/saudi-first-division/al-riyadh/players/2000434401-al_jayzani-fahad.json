@@ -1,0 +1,29 @@
+{
+  "id": 2000434401,
+  "first_name": "Fahad",
+  "last_name": "Al-Jayzani",
+  "birth_date": "2004-02-04",
+  "country_id": 133,
+  "club_id": 135423,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 84,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7920353,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

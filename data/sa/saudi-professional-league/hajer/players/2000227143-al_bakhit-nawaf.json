@@ -1,0 +1,29 @@
+{
+  "id": 2000227143,
+  "first_name": "Nawaf",
+  "last_name": "Al-Bakhit",
+  "birth_date": "2004-03-16",
+  "country_id": 133,
+  "club_id": 7920296,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 71,
+  "value": 41000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 2000372757,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

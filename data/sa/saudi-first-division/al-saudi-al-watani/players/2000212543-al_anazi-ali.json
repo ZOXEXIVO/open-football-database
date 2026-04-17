@@ -1,0 +1,27 @@
+{
+  "id": 2000212543,
+  "first_name": "Ali",
+  "last_name": "Al-Anazi",
+  "birth_date": "1994-02-28",
+  "country_id": 133,
+  "club_id": 7920493,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 60,
+  "value": 11000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2024-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

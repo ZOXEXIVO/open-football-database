@@ -1,0 +1,33 @@
+{
+  "id": 2000094732,
+  "first_name": "Cristhoper",
+  "last_name": "Zambrano",
+  "birth_date": "2004-07-05",
+  "country_id": 1654,
+  "club_id": 308091,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 101,
+  "value": 743000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7920352,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

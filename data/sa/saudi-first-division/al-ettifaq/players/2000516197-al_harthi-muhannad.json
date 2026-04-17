@@ -1,0 +1,29 @@
+{
+  "id": 2000516197,
+  "first_name": "Muhannad",
+  "last_name": "Al-Harthi",
+  "birth_date": "2006-07-10",
+  "country_id": 133,
+  "club_id": 135427,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 82,
+  "value": 21000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1031631,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

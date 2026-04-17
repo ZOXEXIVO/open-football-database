@@ -1,0 +1,29 @@
+{
+  "id": 23305513,
+  "first_name": "Qassem",
+  "last_name": "Lajami",
+  "birth_date": "1996-04-25",
+  "country_id": 133,
+  "club_id": 1104149,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 91,
+  "value": 466000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7920352,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

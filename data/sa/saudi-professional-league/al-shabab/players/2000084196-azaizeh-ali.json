@@ -1,0 +1,33 @@
+{
+  "id": 2000084196,
+  "first_name": "Ali",
+  "last_name": "Azaizeh",
+  "birth_date": "2004-04-13",
+  "country_id": 117,
+  "club_id": 135249,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 101,
+  "value": 856000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1535,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

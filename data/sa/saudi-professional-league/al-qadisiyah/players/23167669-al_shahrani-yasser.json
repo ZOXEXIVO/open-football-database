@@ -1,0 +1,35 @@
+{
+  "id": 23167669,
+  "first_name": "Yasser",
+  "last_name": "Al-Shahrani",
+  "birth_date": "1992-05-25",
+  "country_id": 133,
+  "club_id": 1104149,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 101,
+  "value": 1000000,
+  "contract": {
+    "salary": 2340000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000531426,
+  "first_name": "Mahdi",
+  "last_name": "Faqihi",
+  "birth_date": "2007-10-29",
+  "country_id": 133,
+  "club_id": 1104149,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 97,
+  "value": 791000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7920352,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

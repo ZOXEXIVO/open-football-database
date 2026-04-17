@@ -1,0 +1,29 @@
+{
+  "id": 23470670,
+  "first_name": "Munther",
+  "last_name": "Al-Nakhli",
+  "birth_date": "1998-02-13",
+  "country_id": 133,
+  "club_id": 23469190,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 91,
+  "value": 249000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 106781,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

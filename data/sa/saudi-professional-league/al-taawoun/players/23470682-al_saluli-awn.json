@@ -1,0 +1,29 @@
+{
+  "id": 23470682,
+  "first_name": "Awn",
+  "last_name": "Al-Saluli",
+  "birth_date": "1998-09-02",
+  "country_id": 133,
+  "club_id": 7920352,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 86,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000326380,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000184656,
+  "first_name": "Abdulrahman",
+  "last_name": "Al-Khaibari",
+  "birth_date": "2000-03-18",
+  "country_id": 133,
+  "club_id": 1031640,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 91,
+  "value": 334000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7920502,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

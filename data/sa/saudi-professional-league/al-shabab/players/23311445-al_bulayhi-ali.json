@@ -1,0 +1,29 @@
+{
+  "id": 23311445,
+  "first_name": "Ali",
+  "last_name": "Al-Bulayhi",
+  "birth_date": "1989-11-21",
+  "country_id": 133,
+  "club_id": 102852,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 98,
+  "value": 262000,
+  "contract": {
+    "salary": 1196000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1535,
+    "expiration": "2026-06-30",
+    "salary": 1196000,
+    "wage_contribution_pct": 100
+  }
+}

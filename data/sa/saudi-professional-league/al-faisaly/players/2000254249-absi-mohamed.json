@@ -1,0 +1,29 @@
+{
+  "id": 2000254249,
+  "first_name": "Mohamed",
+  "last_name": "Absi",
+  "birth_date": "2004-06-13",
+  "country_id": 51,
+  "club_id": 106857,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 111,
+  "value": 100000,
+  "contract": {
+    "salary": 30004,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7920362,
+    "expiration": "2026-06-30",
+    "salary": 30004,
+    "wage_contribution_pct": 100
+  }
+}

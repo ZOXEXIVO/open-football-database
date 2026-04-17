@@ -1,0 +1,29 @@
+{
+  "id": 2000191485,
+  "first_name": "Wissem",
+  "last_name": "Chaouali",
+  "birth_date": "2006-08-15",
+  "country_id": 51,
+  "club_id": 135427,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 92,
+  "value": 160000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 23002953,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

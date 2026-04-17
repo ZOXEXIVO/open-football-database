@@ -1,0 +1,30 @@
+{
+  "id": 85100467,
+  "first_name": "Sadio",
+  "last_name": "Mané",
+  "birth_date": "1992-04-10",
+  "country_id": 41,
+  "club_id": 102862,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 98,
+  "potential_ability": 138,
+  "contract": {
+    "salary": 32500000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

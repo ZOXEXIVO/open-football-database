@@ -1,0 +1,31 @@
+{
+  "id": 2000147572,
+  "first_name": "Mohammed",
+  "last_name": "Sulaiman",
+  "birth_date": "2004-04-08",
+  "country_id": 133,
+  "club_id": 102850,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 113,
+  "value": 5000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

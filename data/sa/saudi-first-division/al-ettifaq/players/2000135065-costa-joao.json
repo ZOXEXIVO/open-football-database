@@ -1,0 +1,27 @@
+{
+  "id": 2000135065,
+  "first_name": "João",
+  "last_name": "Costa",
+  "birth_date": "2005-03-28",
+  "country_id": 788,
+  "club_id": 135427,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 86,
+  "value": 10000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

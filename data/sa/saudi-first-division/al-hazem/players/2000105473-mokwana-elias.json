@@ -1,0 +1,29 @@
+{
+  "id": 2000105473,
+  "first_name": "Elias",
+  "last_name": "Mokwana",
+  "birth_date": "1999-09-08",
+  "country_id": 45,
+  "club_id": 106858,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 277000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7920356,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 71049105,
+  "first_name": "Heorhii",
+  "last_name": "Bushchan",
+  "birth_date": "1994-05-31",
+  "country_id": 800,
+  "club_id": 1535,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 98,
+  "potential_ability": 107,
+  "value": 12000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71100094,
+    "expiration": "2026-06-30",
+    "salary": 1300000,
+    "wage_contribution_pct": 100
+  }
+}

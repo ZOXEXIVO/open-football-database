@@ -1,0 +1,33 @@
+{
+  "id": 2000128160,
+  "first_name": "Maxwell",
+  "last_name": "Quaye",
+  "birth_date": "1998-02-02",
+  "country_id": 21,
+  "club_id": 1024441,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 96,
+  "value": 130000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 23002952,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

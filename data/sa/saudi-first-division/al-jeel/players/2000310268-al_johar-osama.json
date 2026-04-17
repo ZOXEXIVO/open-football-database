@@ -1,0 +1,27 @@
+{
+  "id": 2000310268,
+  "first_name": "Osama",
+  "last_name": "Al-Johar",
+  "birth_date": "2005-07-27",
+  "country_id": 133,
+  "club_id": 23002952,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 60,
+  "value": 29000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

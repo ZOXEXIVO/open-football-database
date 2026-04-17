@@ -1,0 +1,27 @@
+{
+  "id": 2000014013,
+  "first_name": "Aiman",
+  "last_name": "Yahya",
+  "birth_date": "2001-05-14",
+  "country_id": 133,
+  "club_id": 102862,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 98,
+  "value": 3000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

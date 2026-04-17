@@ -1,0 +1,27 @@
+{
+  "id": 23166403,
+  "first_name": "Ahmed",
+  "last_name": "Al-Nadhri",
+  "birth_date": "1993-02-09",
+  "country_id": 133,
+  "club_id": 23002952,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 70,
+  "value": 6000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2023-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}
