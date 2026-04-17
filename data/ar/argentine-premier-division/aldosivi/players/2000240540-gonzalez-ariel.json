@@ -1,0 +1,33 @@
+{
+  "id": 2000240540,
+  "first_name": "Ariel",
+  "last_name": "González",
+  "birth_date": "2005-08-16",
+  "country_id": 1649,
+  "club_id": 108510,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 105,
+  "value": 454000,
+  "contract": {
+    "salary": 5356,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 102472,
+    "expiration": "2026-12-31",
+    "salary": 5356,
+    "wage_contribution_pct": 100
+  }
+}

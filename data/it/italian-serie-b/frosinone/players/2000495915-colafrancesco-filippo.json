@@ -1,0 +1,27 @@
+{
+  "id": 2000495915,
+  "first_name": "Filippo",
+  "last_name": "Colafrancesco",
+  "birth_date": "2008-01-20",
+  "country_id": 776,
+  "club_id": 2199,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 97,
+  "value": 62000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

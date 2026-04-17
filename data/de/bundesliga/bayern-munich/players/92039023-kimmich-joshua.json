@@ -1,0 +1,31 @@
+{
+  "id": 92039023,
+  "first_name": "Joshua",
+  "last_name": "Kimmich",
+  "birth_date": "1995-02-08",
+  "country_id": 771,
+  "club_id": 915,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 156,
+  "potential_ability": 161,
+  "value": 122000000,
+  "contract": {
+    "salary": 16380000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 18110671,
+  "first_name": "Alec",
+  "last_name": "Van Hoorenbeeck",
+  "birth_date": "1998-12-30",
+  "country_id": 757,
+  "club_id": 1009,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 97,
+  "value": 1000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1037,
+    "expiration": "2026-06-30",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

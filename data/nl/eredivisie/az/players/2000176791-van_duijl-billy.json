@@ -1,0 +1,27 @@
+{
+  "id": 2000176791,
+  "first_name": "Billy",
+  "last_name": "van Duijl",
+  "birth_date": "2005-10-04",
+  "country_id": 784,
+  "club_id": 991,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 116,
+  "value": 10000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

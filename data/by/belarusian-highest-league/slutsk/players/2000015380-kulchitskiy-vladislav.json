@@ -1,0 +1,31 @@
+{
+  "id": 2000015380,
+  "first_name": "Vladislav",
+  "last_name": "Kulchitskiy",
+  "birth_date": "2002-01-25",
+  "country_id": 758,
+  "club_id": 17004083,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 66,
+  "value": 6000,
+  "contract": {
+    "salary": 4784,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

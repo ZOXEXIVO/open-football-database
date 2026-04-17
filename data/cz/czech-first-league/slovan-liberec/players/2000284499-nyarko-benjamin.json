@@ -1,0 +1,29 @@
+{
+  "id": 2000284499,
+  "first_name": "Benjamin",
+  "last_name": "Nyarko",
+  "birth_date": "2004-01-29",
+  "country_id": 21,
+  "club_id": 475,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 107,
+  "value": 352000,
+  "contract": {
+    "salary": 31200,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300309,
+    "expiration": "2026-06-30",
+    "salary": 31200,
+    "wage_contribution_pct": 100
+  }
+}

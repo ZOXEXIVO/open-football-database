@@ -1,0 +1,37 @@
+{
+  "id": 2000014927,
+  "first_name": "Pablo",
+  "last_name": "Pérez",
+  "birth_date": "2001-08-18",
+  "country_id": 796,
+  "club_id": 1666,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 96,
+  "value": 64000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 4212197,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

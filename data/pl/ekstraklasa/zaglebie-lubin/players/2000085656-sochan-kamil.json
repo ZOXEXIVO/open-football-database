@@ -1,0 +1,33 @@
+{
+  "id": 2000085656,
+  "first_name": "Kamil",
+  "last_name": "Sochań",
+  "birth_date": "2004-02-04",
+  "country_id": 787,
+  "club_id": 1469,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 158000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 714200,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

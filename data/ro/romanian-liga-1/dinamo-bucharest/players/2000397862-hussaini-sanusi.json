@@ -1,0 +1,29 @@
+{
+  "id": 2000397862,
+  "first_name": "Sanusi",
+  "last_name": "Hussaini",
+  "birth_date": "2006-06-06",
+  "country_id": 38,
+  "club_id": 1500,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 90,
+  "value": 6000,
+  "contract": {
+    "salary": 11232,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57175414,
+    "expiration": "2026-06-30",
+    "salary": 11232,
+    "wage_contribution_pct": 100
+  }
+}

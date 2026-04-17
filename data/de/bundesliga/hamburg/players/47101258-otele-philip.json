@@ -1,0 +1,33 @@
+{
+  "id": 47101258,
+  "first_name": "Philip",
+  "last_name": "Otele",
+  "birth_date": "1999-04-15",
+  "country_id": 38,
+  "club_id": 1849,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 127,
+  "value": 4000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 947,
+    "expiration": "2026-06-30",
+    "salary": 468000,
+    "wage_contribution_pct": 100
+  }
+}

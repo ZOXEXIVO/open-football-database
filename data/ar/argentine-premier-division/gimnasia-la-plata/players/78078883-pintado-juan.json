@@ -1,0 +1,33 @@
+{
+  "id": 78078883,
+  "first_name": "Juan",
+  "last_name": "Pintado",
+  "birth_date": "1997-07-28",
+  "country_id": 1657,
+  "club_id": 87,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 113,
+  "value": 4000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1921,
+    "expiration": "2026-12-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

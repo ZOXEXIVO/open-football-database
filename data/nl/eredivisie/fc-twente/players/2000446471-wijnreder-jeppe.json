@@ -1,0 +1,33 @@
+{
+  "id": 2000446471,
+  "first_name": "Jeppe",
+  "last_name": "Wijnreder",
+  "birth_date": "2006-02-07",
+  "country_id": 784,
+  "club_id": 1009,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 116,
+  "value": 197000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000077838,
+    "expiration": "2027-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

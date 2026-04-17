@@ -1,0 +1,33 @@
+{
+  "id": 51055914,
+  "first_name": "Cristian",
+  "last_name": "Calderón",
+  "birth_date": "1997-05-24",
+  "country_id": 379,
+  "club_id": 1253,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 134,
+  "value": 550000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1258,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

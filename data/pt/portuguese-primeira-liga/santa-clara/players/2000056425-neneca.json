@@ -1,0 +1,29 @@
+{
+  "id": 2000056425,
+  "first_name": "Neneca",
+  "last_name": "",
+  "birth_date": "2003-08-27",
+  "country_id": 1651,
+  "club_id": 19072706,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 105,
+  "value": 80000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2448,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

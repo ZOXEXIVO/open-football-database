@@ -1,0 +1,27 @@
+{
+  "id": 43617790,
+  "first_name": "Antonio",
+  "last_name": "Vergara",
+  "birth_date": "2003-01-16",
+  "country_id": 776,
+  "club_id": 1150,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 123,
+  "potential_ability": 143,
+  "value": 11000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

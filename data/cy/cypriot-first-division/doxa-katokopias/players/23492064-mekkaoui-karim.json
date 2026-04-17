@@ -1,0 +1,27 @@
+{
+  "id": 23492064,
+  "first_name": "Karim",
+  "last_name": "Mekkaoui",
+  "birth_date": "2001-04-19",
+  "country_id": 123,
+  "club_id": 138180,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 81,
+  "value": 21000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

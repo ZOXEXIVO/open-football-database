@@ -1,0 +1,31 @@
+{
+  "id": 28066140,
+  "first_name": "Chris",
+  "last_name": "Long",
+  "birth_date": "1995-02-25",
+  "country_id": 765,
+  "club_id": 130220,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 112,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

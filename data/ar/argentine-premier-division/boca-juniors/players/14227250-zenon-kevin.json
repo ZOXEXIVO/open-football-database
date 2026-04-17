@@ -1,0 +1,31 @@
+{
+  "id": 14227250,
+  "first_name": "Kevin",
+  "last_name": "Zenón",
+  "birth_date": "2001-07-30",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 127,
+  "potential_ability": 148,
+  "value": 15000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

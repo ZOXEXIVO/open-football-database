@@ -1,0 +1,29 @@
+{
+  "id": 2000209100,
+  "first_name": "Valentin",
+  "last_name": "Dotsev",
+  "birth_date": "2006-08-19",
+  "country_id": 760,
+  "club_id": 116384,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 115,
+  "value": 301000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300203,
+    "expiration": "2026-06-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

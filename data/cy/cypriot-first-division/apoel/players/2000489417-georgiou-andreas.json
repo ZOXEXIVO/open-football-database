@@ -1,0 +1,33 @@
+{
+  "id": 2000489417,
+  "first_name": "Andreas",
+  "last_name": "Georgiou",
+  "birth_date": "2006-07-25",
+  "country_id": 762,
+  "club_id": 451,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 108,
+  "value": 205000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 149279,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

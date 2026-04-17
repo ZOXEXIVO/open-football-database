@@ -1,0 +1,29 @@
+{
+  "id": 2000021829,
+  "first_name": "Valerio",
+  "last_name": "Crespi",
+  "birth_date": "2004-08-04",
+  "country_id": 776,
+  "club_id": 1108,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 117,
+  "value": 972000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000478007,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

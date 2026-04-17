@@ -1,0 +1,27 @@
+{
+  "id": 2000358349,
+  "first_name": "Alan",
+  "last_name": "Díaz",
+  "birth_date": "2008-02-08",
+  "country_id": 1649,
+  "club_id": 88,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 121,
+  "value": 374000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000088291,
+  "first_name": "Ben",
+  "last_name": "van Dorssen",
+  "birth_date": "2005-05-11",
+  "country_id": 1435,
+  "club_id": 426430,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 79,
+  "value": 12000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

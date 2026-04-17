@@ -1,0 +1,27 @@
+{
+  "id": 2000375078,
+  "first_name": "Teo",
+  "last_name": "Rodríguez Pagano",
+  "birth_date": "2005-10-12",
+  "country_id": 1649,
+  "club_id": 96,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 119,
+  "value": 3000000,
+  "contract": {
+    "salary": 28964,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

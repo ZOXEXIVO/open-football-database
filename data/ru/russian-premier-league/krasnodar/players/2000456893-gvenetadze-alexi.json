@@ -1,0 +1,29 @@
+{
+  "id": 2000456893,
+  "first_name": "Alexi",
+  "last_name": "Gvenetadze",
+  "birth_date": "2007-03-05",
+  "country_id": 791,
+  "club_id": 58029064,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 126,
+  "value": 117000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130550,
+    "expiration": "2026-12-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

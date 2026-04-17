@@ -1,0 +1,33 @@
+{
+  "id": 2000045879,
+  "first_name": "Antoni",
+  "last_name": "Klimek",
+  "birth_date": "2002-08-04",
+  "country_id": 787,
+  "club_id": 96012813,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 96,
+  "value": 338000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300885,
+    "expiration": "2026-05-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

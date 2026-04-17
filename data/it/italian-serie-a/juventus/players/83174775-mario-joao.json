@@ -1,0 +1,45 @@
+{
+  "id": 83174775,
+  "first_name": "João",
+  "last_name": "Mário",
+  "birth_date": "2000-01-03",
+  "country_id": 788,
+  "club_id": 1139,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 141,
+  "value": 9000000,
+  "contract": {
+    "salary": 3172000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1111,
+    "expiration": "2026-06-30",
+    "salary": 3172000,
+    "wage_contribution_pct": 100
+  }
+}

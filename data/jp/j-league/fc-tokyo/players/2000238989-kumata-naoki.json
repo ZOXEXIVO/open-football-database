@@ -1,0 +1,37 @@
+{
+  "id": 2000238989,
+  "first_name": "Naoki",
+  "last_name": "Kumata",
+  "birth_date": "2004-08-02",
+  "country_id": 116,
+  "club_id": 107313,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 97,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-01-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 792248,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

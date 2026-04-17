@@ -1,0 +1,29 @@
+{
+  "id": 43339538,
+  "first_name": "Claudio",
+  "last_name": "Manzi",
+  "birth_date": "2000-06-21",
+  "country_id": 776,
+  "club_id": 1108,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 103,
+  "value": 193000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7983734,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

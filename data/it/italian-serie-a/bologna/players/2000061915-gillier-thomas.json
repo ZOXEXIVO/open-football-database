@@ -1,0 +1,29 @@
+{
+  "id": 2000061915,
+  "first_name": "Thomas",
+  "last_name": "Gillier",
+  "birth_date": "2004-05-28",
+  "country_id": 1652,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 110,
+  "value": 4000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000152066,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

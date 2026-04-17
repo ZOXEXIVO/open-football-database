@@ -1,0 +1,27 @@
+{
+  "id": 2000061848,
+  "first_name": "Isa",
+  "last_name": "Sakamoto",
+  "birth_date": "2003-08-26",
+  "country_id": 116,
+  "club_id": 289,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 99,
+  "value": 2000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

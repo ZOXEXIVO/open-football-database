@@ -1,0 +1,27 @@
+{
+  "id": 2000034357,
+  "first_name": "Fabio",
+  "last_name": "Blanco",
+  "birth_date": "2004-02-18",
+  "country_id": 796,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 111,
+  "value": 4000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

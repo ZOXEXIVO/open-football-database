@@ -1,0 +1,29 @@
+{
+  "id": 2000197175,
+  "first_name": "Benedikt",
+  "last_name": "Wimmer",
+  "birth_date": "2005-02-12",
+  "country_id": 771,
+  "club_id": 915,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 114,
+  "potential_ability": 144,
+  "value": 86000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 6000006,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

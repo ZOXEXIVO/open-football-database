@@ -1,0 +1,31 @@
+{
+  "id": 83111747,
+  "first_name": "André",
+  "last_name": "Sousa",
+  "birth_date": "1998-02-26",
+  "country_id": 788,
+  "club_id": 2386,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 98,
+  "value": 142000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

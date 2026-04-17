@@ -1,0 +1,29 @@
+{
+  "id": 2000160785,
+  "first_name": "Yegor",
+  "last_name": "Smelov",
+  "birth_date": "2005-05-11",
+  "country_id": 791,
+  "club_id": 1520,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 117,
+  "value": 497000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 58145944,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

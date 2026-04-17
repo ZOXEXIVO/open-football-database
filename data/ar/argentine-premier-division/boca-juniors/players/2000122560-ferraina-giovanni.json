@@ -1,0 +1,33 @@
+{
+  "id": 2000122560,
+  "first_name": "Giovanni",
+  "last_name": "Ferraina",
+  "birth_date": "2004-01-02",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 134,
+  "value": 433000,
+  "contract": {
+    "salary": 11544,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 102470,
+    "expiration": "2026-12-31",
+    "salary": 11544,
+    "wage_contribution_pct": 100
+  }
+}

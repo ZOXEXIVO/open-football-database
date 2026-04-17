@@ -1,0 +1,29 @@
+{
+  "id": 2000106375,
+  "first_name": "Nemanja",
+  "last_name": "Đeković",
+  "birth_date": "2003-05-09",
+  "country_id": 802,
+  "club_id": 1950,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 97,
+  "value": 832000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7004292,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000503799,
+  "first_name": "Ricardo",
+  "last_name": "Guzmán",
+  "birth_date": "2008-03-09",
+  "country_id": 1652,
+  "club_id": 400,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 93,
+  "value": 47000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

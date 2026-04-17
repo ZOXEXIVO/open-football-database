@@ -1,0 +1,35 @@
+{
+  "id": 2000084342,
+  "first_name": "Roni",
+  "last_name": "Hudd",
+  "birth_date": "2005-01-20",
+  "country_id": 768,
+  "club_id": 816,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 100,
+  "value": 156000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

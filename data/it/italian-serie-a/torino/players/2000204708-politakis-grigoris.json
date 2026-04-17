@@ -1,0 +1,31 @@
+{
+  "id": 2000204708,
+  "first_name": "Grigoris",
+  "last_name": "Politakis",
+  "birth_date": "2006-05-29",
+  "country_id": 772,
+  "club_id": 1174,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 112,
+  "value": 70000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

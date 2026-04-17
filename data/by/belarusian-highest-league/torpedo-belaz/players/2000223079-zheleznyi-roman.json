@@ -1,0 +1,33 @@
+{
+  "id": 2000223079,
+  "first_name": "Roman",
+  "last_name": "Zheleznyi",
+  "birth_date": "2004-12-20",
+  "country_id": 758,
+  "club_id": 485665,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 85,
+  "value": 36000,
+  "contract": {
+    "salary": 5772,
+    "expiration": "2027-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130881,
+    "expiration": "2026-12-10",
+    "salary": 5772,
+    "wage_contribution_pct": 100
+  }
+}

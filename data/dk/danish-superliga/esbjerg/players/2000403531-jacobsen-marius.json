@@ -1,0 +1,27 @@
+{
+  "id": 2000403531,
+  "first_name": "Marius",
+  "last_name": "Jacobsen",
+  "birth_date": "2008-03-25",
+  "country_id": 764,
+  "club_id": 502,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 117,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  }
+}

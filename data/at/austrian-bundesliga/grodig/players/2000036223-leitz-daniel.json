@@ -1,0 +1,27 @@
+{
+  "id": 2000036223,
+  "first_name": "Daniel",
+  "last_name": "Leitz",
+  "birth_date": "1992-09-16",
+  "country_id": 771,
+  "club_id": 16000158,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 72,
+  "value": 12000,
+  "contract": {
+    "salary": 13468,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

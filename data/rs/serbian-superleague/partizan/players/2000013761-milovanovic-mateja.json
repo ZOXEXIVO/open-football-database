@@ -1,0 +1,31 @@
+{
+  "id": 2000013761,
+  "first_name": "Mateja",
+  "last_name": "Milovanović",
+  "birth_date": "2004-04-18",
+  "country_id": 802,
+  "club_id": 1952,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 113,
+  "value": 815000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

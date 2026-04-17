@@ -1,0 +1,23 @@
+{
+  "id": 2000509593,
+  "first_name": "Lorenzo",
+  "last_name": "Mezzotero",
+  "birth_date": "2008-08-15",
+  "country_id": 776,
+  "club_id": 1167,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 89,
+  "value": 170000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000290361,
+  "first_name": "Oscar",
+  "last_name": "Lenne",
+  "birth_date": "2006-09-09",
+  "country_id": 769,
+  "club_id": 871,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 132,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000129313,
+  "first_name": "Matías",
+  "last_name": "Pinto",
+  "birth_date": "2004-09-11",
+  "country_id": 1652,
+  "club_id": 399,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 107,
+  "value": 136000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130796,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

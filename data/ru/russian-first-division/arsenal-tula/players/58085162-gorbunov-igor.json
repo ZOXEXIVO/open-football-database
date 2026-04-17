@@ -1,0 +1,31 @@
+{
+  "id": 58085162,
+  "first_name": "Igor",
+  "last_name": "Gorbunov",
+  "birth_date": "1994-09-20",
+  "country_id": 791,
+  "club_id": 130501,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 81,
+  "value": 212000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2024-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

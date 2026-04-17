@@ -1,0 +1,29 @@
+{
+  "id": 2000218342,
+  "first_name": "Corrado",
+  "last_name": "Fulga",
+  "birth_date": "2006-03-12",
+  "country_id": 790,
+  "club_id": 2227,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 90,
+  "value": 16000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43204868,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

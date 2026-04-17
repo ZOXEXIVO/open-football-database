@@ -1,0 +1,29 @@
+{
+  "id": 2000442104,
+  "first_name": "Hugo",
+  "last_name": "Woyna-Orlewicz",
+  "birth_date": "2006-02-06",
+  "country_id": 787,
+  "club_id": 1300881,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 93,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000385922,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

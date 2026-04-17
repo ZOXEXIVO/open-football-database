@@ -1,0 +1,29 @@
+{
+  "id": 2000027024,
+  "first_name": "Awesu",
+  "last_name": "Awesu",
+  "birth_date": "1997-04-10",
+  "country_id": 48,
+  "club_id": 131250,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 86,
+  "value": 68000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 12084360,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

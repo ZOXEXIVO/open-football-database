@@ -1,0 +1,30 @@
+{
+  "id": 43093382,
+  "first_name": "Matteo",
+  "last_name": "Politano",
+  "birth_date": "1993-08-03",
+  "country_id": 776,
+  "club_id": 1150,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 123,
+  "potential_ability": 124,
+  "contract": {
+    "salary": 5616000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 55030352,
+  "first_name": "João",
+  "last_name": "Reis",
+  "birth_date": "1992-06-24",
+  "country_id": 788,
+  "club_id": 2438,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 89,
+  "value": 197000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

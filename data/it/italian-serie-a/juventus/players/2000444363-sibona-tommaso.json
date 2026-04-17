@@ -1,0 +1,29 @@
+{
+  "id": 2000444363,
+  "first_name": "Tommaso",
+  "last_name": "Sibona",
+  "birth_date": "2008-05-17",
+  "country_id": 776,
+  "club_id": 1139,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 129,
+  "value": 570000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2218,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

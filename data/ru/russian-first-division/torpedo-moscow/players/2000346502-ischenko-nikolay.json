@@ -1,0 +1,33 @@
+{
+  "id": 2000346502,
+  "first_name": "Nikolay",
+  "last_name": "Ischenko",
+  "birth_date": "2004-05-21",
+  "country_id": 791,
+  "club_id": 58117053,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 82,
+  "value": 157000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130498,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

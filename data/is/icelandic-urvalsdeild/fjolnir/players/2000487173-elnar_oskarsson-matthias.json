@@ -1,0 +1,33 @@
+{
+  "id": 2000487173,
+  "first_name": "Matthías",
+  "last_name": "Elnar Óskarsson",
+  "birth_date": "2008-01-13",
+  "country_id": 774,
+  "club_id": 7841979,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 53,
+  "potential_ability": 71,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056746,
+    "expiration": "2038-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

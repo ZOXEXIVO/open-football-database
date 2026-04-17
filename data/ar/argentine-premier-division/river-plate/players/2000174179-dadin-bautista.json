@@ -1,0 +1,29 @@
+{
+  "id": 2000174179,
+  "first_name": "Bautista",
+  "last_name": "Dadín",
+  "birth_date": "2006-05-20",
+  "country_id": 1649,
+  "club_id": 94,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 138,
+  "value": 9000000,
+  "contract": {
+    "salary": 34008,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3101453,
+    "expiration": "2026-12-31",
+    "salary": 34008,
+    "wage_contribution_pct": 100
+  }
+}

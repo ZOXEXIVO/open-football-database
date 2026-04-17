@@ -1,0 +1,28 @@
+{
+  "id": 2000523420,
+  "first_name": "Denis",
+  "last_name": "Marfo",
+  "birth_date": "2006-01-28",
+  "country_id": 21,
+  "club_id": 2000033684,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 108,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 326,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

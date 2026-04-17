@@ -1,0 +1,29 @@
+{
+  "id": 2000202590,
+  "first_name": "Adriano",
+  "last_name": "Bispo",
+  "birth_date": "2005-07-11",
+  "country_id": 1651,
+  "club_id": 104749,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 110,
+  "value": 77000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000060543,
+    "expiration": "2026-05-18",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

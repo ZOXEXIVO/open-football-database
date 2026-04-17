@@ -1,0 +1,33 @@
+{
+  "id": 2000028254,
+  "first_name": "Ilya",
+  "last_name": "Moskalenchik",
+  "birth_date": "2003-05-04",
+  "country_id": 758,
+  "club_id": 130501,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 96,
+  "value": 232000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 485667,
+    "expiration": "2026-12-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

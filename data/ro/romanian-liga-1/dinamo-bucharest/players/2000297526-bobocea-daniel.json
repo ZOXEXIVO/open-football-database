@@ -1,0 +1,33 @@
+{
+  "id": 2000297526,
+  "first_name": "Daniel",
+  "last_name": "Bobocea",
+  "birth_date": "2007-03-27",
+  "country_id": 790,
+  "club_id": 1500,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 102,
+  "value": 22000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000433526,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000050634,
+  "first_name": "Alexis",
+  "last_name": "Dulón",
+  "birth_date": "2003-04-16",
+  "country_id": 1649,
+  "club_id": 88,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 107,
+  "value": 323000,
+  "contract": {
+    "salary": 9620,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

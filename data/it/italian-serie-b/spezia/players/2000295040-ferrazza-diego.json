@@ -1,0 +1,27 @@
+{
+  "id": 2000295040,
+  "first_name": "Diego",
+  "last_name": "Ferrazza",
+  "birth_date": "2007-05-04",
+  "country_id": 776,
+  "club_id": 1173,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 107,
+  "value": 124000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

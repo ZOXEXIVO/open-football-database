@@ -1,0 +1,31 @@
+{
+  "id": 2000153750,
+  "first_name": "Emmanuel",
+  "last_name": "Jonas",
+  "birth_date": "2003-12-26",
+  "country_id": 38,
+  "club_id": 5340750,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 92,
+  "value": 125000,
+  "contract": {
+    "salary": 936,
+    "expiration": "2026-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

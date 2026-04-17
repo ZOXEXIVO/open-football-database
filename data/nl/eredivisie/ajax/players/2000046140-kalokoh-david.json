@@ -1,0 +1,35 @@
+{
+  "id": 2000046140,
+  "first_name": "David",
+  "last_name": "Kalokoh",
+  "birth_date": "2005-04-21",
+  "country_id": 784,
+  "club_id": 992,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 128,
+  "value": 3000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

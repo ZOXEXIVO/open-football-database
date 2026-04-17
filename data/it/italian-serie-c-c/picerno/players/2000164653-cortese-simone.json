@@ -1,0 +1,29 @@
+{
+  "id": 2000164653,
+  "first_name": "Simone",
+  "last_name": "Cortese",
+  "birth_date": "2005-08-17",
+  "country_id": 776,
+  "club_id": 43065074,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 83,
+  "value": 84000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2213,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

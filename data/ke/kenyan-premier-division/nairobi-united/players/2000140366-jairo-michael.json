@@ -1,0 +1,31 @@
+{
+  "id": 2000140366,
+  "first_name": "Michael",
+  "last_name": "Jairo",
+  "birth_date": "2000-05-17",
+  "country_id": 25,
+  "club_id": 2000354849,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 49,
+  "potential_ability": 63,
+  "value": 27000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

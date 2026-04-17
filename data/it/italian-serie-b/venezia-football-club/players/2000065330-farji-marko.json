@@ -1,0 +1,31 @@
+{
+  "id": 2000065330,
+  "first_name": "Marko",
+  "last_name": "Farji",
+  "birth_date": "2004-03-26",
+  "country_id": 115,
+  "club_id": 1179,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 91,
+  "value": 3000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

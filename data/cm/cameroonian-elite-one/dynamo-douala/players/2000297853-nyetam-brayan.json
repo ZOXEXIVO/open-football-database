@@ -1,0 +1,27 @@
+{
+  "id": 2000297853,
+  "first_name": "Brayan",
+  "last_name": "Nyetam",
+  "birth_date": "2003-02-12",
+  "country_id": 11,
+  "club_id": 5340786,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 74,
+  "value": 5000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

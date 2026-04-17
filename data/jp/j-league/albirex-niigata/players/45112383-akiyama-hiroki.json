@@ -1,0 +1,30 @@
+{
+  "id": 45112383,
+  "first_name": "Hiroki",
+  "last_name": "Akiyama",
+  "birth_date": "2000-12-09",
+  "country_id": 116,
+  "club_id": 107280,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 110,
+  "value": 346000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-01-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 108997,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

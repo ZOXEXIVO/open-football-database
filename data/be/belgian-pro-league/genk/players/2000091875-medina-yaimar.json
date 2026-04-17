@@ -1,0 +1,27 @@
+{
+  "id": 2000091875,
+  "first_name": "Yaimar",
+  "last_name": "Medina",
+  "birth_date": "2004-11-05",
+  "country_id": 1654,
+  "club_id": 258,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 123,
+  "value": 6000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000375015,
+  "first_name": "Ignacio",
+  "last_name": "Rojas Sánchez",
+  "birth_date": "2008-03-03",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 147,
+  "value": 623000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

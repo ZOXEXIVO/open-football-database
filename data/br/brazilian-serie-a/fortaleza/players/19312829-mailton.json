@@ -1,0 +1,37 @@
+{
+  "id": 19312829,
+  "first_name": "Maílton",
+  "last_name": "",
+  "birth_date": "1998-05-31",
+  "country_id": 1651,
+  "club_id": 337,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 110,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 104750,
+    "expiration": "2026-12-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

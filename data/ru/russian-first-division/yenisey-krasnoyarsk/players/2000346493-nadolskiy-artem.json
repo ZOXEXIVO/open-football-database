@@ -1,0 +1,29 @@
+{
+  "id": 2000346493,
+  "first_name": "Artem",
+  "last_name": "Nadolskiy",
+  "birth_date": "2003-09-25",
+  "country_id": 791,
+  "club_id": 58066512,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 79,
+  "value": 171000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 58057322,
+    "expiration": "2026-06-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000240328,
+  "first_name": "Álex",
+  "last_name": "Calvo",
+  "birth_date": "2004-02-20",
+  "country_id": 796,
+  "club_id": 1709,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 105,
+  "value": 483000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

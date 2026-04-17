@@ -1,0 +1,28 @@
+{
+  "id": 2000097734,
+  "first_name": "Elijah",
+  "last_name": "Benedict",
+  "birth_date": "2002-04-15",
+  "country_id": 38,
+  "club_id": 2438,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 96,
+  "value": 162000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2024-07-10"
+  },
+  "loan": {
+    "to_club_id": 7880052,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

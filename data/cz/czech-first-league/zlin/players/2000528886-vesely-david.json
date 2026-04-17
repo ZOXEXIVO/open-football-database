@@ -1,0 +1,27 @@
+{
+  "id": 2000528886,
+  "first_name": "David",
+  "last_name": "Veselý",
+  "birth_date": "2009-08-25",
+  "country_id": 763,
+  "club_id": 467,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 128,
+  "value": 84000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

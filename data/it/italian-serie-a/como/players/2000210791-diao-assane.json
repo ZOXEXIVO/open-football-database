@@ -1,0 +1,31 @@
+{
+  "id": 2000210791,
+  "first_name": "Assane",
+  "last_name": "Diao",
+  "birth_date": "2005-09-07",
+  "country_id": 41,
+  "club_id": 1123,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 122,
+  "value": 71000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

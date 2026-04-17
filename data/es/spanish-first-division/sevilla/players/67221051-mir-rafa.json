@@ -1,0 +1,29 @@
+{
+  "id": 67221051,
+  "first_name": "Rafa",
+  "last_name": "Mir",
+  "birth_date": "1997-06-18",
+  "country_id": 796,
+  "club_id": 1759,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 122,
+  "potential_ability": 142,
+  "value": 16000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1707,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

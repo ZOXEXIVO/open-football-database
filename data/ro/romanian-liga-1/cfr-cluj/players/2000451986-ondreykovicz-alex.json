@@ -1,0 +1,33 @@
+{
+  "id": 2000451986,
+  "first_name": "Alex",
+  "last_name": "Ondreykovicz",
+  "birth_date": "2007-08-26",
+  "country_id": 790,
+  "club_id": 7540205,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 114,
+  "value": 17000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57142845,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

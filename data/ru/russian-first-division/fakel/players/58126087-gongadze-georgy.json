@@ -1,0 +1,29 @@
+{
+  "id": 58126087,
+  "first_name": "Georgy",
+  "last_name": "Gongadze",
+  "birth_date": "1996-03-20",
+  "country_id": 791,
+  "club_id": 130496,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 81,
+  "value": 330000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 58044880,
+    "expiration": "2026-06-10",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

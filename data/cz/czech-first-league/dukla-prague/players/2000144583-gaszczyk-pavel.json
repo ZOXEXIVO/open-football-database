@@ -1,0 +1,27 @@
+{
+  "id": 2000144583,
+  "first_name": "Pavel",
+  "last_name": "Gaszczyk",
+  "birth_date": "2005-02-17",
+  "country_id": 763,
+  "club_id": 5640780,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 95,
+  "value": 280000,
+  "contract": {
+    "salary": 32136,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

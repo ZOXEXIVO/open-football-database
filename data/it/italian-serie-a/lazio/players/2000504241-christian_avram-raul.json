@@ -1,0 +1,27 @@
+{
+  "id": 2000504241,
+  "first_name": "Raul",
+  "last_name": "Christian Avram",
+  "birth_date": "2008-12-30",
+  "country_id": 790,
+  "club_id": 1140,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 118,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

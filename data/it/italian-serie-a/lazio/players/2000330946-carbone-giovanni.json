@@ -1,0 +1,29 @@
+{
+  "id": 2000330946,
+  "first_name": "Giovanni",
+  "last_name": "Carbone",
+  "birth_date": "2007-01-22",
+  "country_id": 776,
+  "club_id": 1140,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 111,
+  "value": 129000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1108,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

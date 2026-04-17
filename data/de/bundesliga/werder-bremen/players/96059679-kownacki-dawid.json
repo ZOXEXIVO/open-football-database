@@ -1,0 +1,29 @@
+{
+  "id": 96059679,
+  "first_name": "Dawid",
+  "last_name": "Kownacki",
+  "birth_date": "1997-03-14",
+  "country_id": 787,
+  "club_id": 948,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 123,
+  "value": 2000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2247,
+    "expiration": "2026-06-30",
+    "salary": 1040000,
+    "wage_contribution_pct": 100
+  }
+}

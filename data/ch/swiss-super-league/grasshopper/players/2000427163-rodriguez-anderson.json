@@ -1,0 +1,33 @@
+{
+  "id": 2000427163,
+  "first_name": "Anderson",
+  "last_name": "Rodríguez",
+  "birth_date": "2006-11-07",
+  "country_id": 1657,
+  "club_id": 1855,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 94,
+  "value": 75000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5603779,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

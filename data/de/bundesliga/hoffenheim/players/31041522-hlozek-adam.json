@@ -1,0 +1,35 @@
+{
+  "id": 31041522,
+  "first_name": "Adam",
+  "last_name": "Hložek",
+  "birth_date": "2002-07-25",
+  "country_id": 763,
+  "club_id": 879226,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 129,
+  "value": 26000000,
+  "contract": {
+    "salary": 2132000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

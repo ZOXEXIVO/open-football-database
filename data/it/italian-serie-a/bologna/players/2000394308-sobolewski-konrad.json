@@ -1,0 +1,23 @@
+{
+  "id": 2000394308,
+  "first_name": "Konrad",
+  "last_name": "Sobolewski",
+  "birth_date": "2008-01-12",
+  "country_id": 787,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 107,
+  "value": 26000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

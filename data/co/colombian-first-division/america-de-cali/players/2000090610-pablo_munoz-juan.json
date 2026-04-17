@@ -1,0 +1,37 @@
+{
+  "id": 2000090610,
+  "first_name": "Juan",
+  "last_name": "Pablo Muñoz",
+  "birth_date": "2004-03-20",
+  "country_id": 1653,
+  "club_id": 417,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 116,
+  "value": 131000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 308272,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

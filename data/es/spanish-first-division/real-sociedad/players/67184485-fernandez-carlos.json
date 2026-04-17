@@ -1,0 +1,33 @@
+{
+  "id": 67184485,
+  "first_name": "Carlos",
+  "last_name": "Fernández",
+  "birth_date": "1996-05-22",
+  "country_id": 796,
+  "club_id": 1742,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 140,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 4212197,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

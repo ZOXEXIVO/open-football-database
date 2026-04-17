@@ -1,0 +1,29 @@
+{
+  "id": 2000331419,
+  "first_name": "Konstantin",
+  "last_name": "Dorofeev",
+  "birth_date": "2005-08-17",
+  "country_id": 791,
+  "club_id": 58029064,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 131,
+  "value": 637000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 494161,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

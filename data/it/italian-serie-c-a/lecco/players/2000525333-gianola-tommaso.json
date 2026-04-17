@@ -1,0 +1,33 @@
+{
+  "id": 2000525333,
+  "first_name": "Tommaso",
+  "last_name": "Gianola",
+  "birth_date": "2008-11-06",
+  "country_id": 776,
+  "club_id": 2205,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 117,
+  "value": 9000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43048791,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

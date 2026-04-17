@@ -1,0 +1,27 @@
+{
+  "id": 2000507663,
+  "first_name": "Antonio",
+  "last_name": "Grande",
+  "birth_date": "2009-06-24",
+  "country_id": 776,
+  "club_id": 1178,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 132,
+  "value": 43000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

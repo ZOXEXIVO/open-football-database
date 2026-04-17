@@ -1,0 +1,33 @@
+{
+  "id": 49062125,
+  "first_name": "Hamissou",
+  "last_name": "Dangabo",
+  "birth_date": "2003-01-15",
+  "country_id": 13,
+  "club_id": 846,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 112,
+  "value": 18000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3503463,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 50065334,
+  "first_name": "Boulaye",
+  "last_name": "Dia",
+  "birth_date": "1996-11-16",
+  "country_id": 41,
+  "club_id": 1166,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 96,
+  "value": 8000000,
+  "contract": {
+    "salary": 2236000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1140,
+    "expiration": "2026-06-30",
+    "salary": 2236000,
+    "wage_contribution_pct": 100
+  }
+}

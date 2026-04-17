@@ -1,0 +1,29 @@
+{
+  "id": 76047241,
+  "first_name": "Ruyery",
+  "last_name": "Blanco",
+  "birth_date": "1998-12-07",
+  "country_id": 1653,
+  "club_id": 104386,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 91,
+  "value": 415000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 41001022,
+    "expiration": "2026-07-01",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

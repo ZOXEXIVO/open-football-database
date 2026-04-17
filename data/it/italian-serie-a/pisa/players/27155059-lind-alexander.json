@@ -1,0 +1,29 @@
+{
+  "id": 27155059,
+  "first_name": "Alexander",
+  "last_name": "Lind",
+  "birth_date": "2002-06-26",
+  "country_id": 764,
+  "club_id": 2215,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 94,
+  "value": 3000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 932443,
+    "expiration": "2026-06-30",
+    "salary": 468000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000141707,
+  "first_name": "Yarek",
+  "last_name": "Gąsiorowski",
+  "birth_date": "2005-01-12",
+  "country_id": 796,
+  "club_id": 1028,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 124,
+  "potential_ability": 150,
+  "value": 23000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

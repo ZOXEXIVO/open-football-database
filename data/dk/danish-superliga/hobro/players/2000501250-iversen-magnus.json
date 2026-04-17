@@ -1,0 +1,31 @@
+{
+  "id": 2000501250,
+  "first_name": "Magnus",
+  "last_name": "Iversen",
+  "birth_date": "2009-04-01",
+  "country_id": 764,
+  "club_id": 930210,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 89,
+  "potential_ability": 116,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000403775,
+  "first_name": "Francis",
+  "last_name": "Gomis",
+  "birth_date": "2006-05-05",
+  "country_id": 20,
+  "club_id": 43204872,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 65,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43018333,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

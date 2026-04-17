@@ -1,0 +1,32 @@
+{
+  "id": 51068292,
+  "first_name": "Brian",
+  "last_name": "García",
+  "birth_date": "1997-10-31",
+  "country_id": 379,
+  "club_id": 102355,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 118,
+  "value": 879000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-01",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 116204,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000096279,
+  "first_name": "Mirko",
+  "last_name": "Elia",
+  "birth_date": "2005-10-13",
+  "country_id": 776,
+  "club_id": 1129,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 134,
+  "value": 83000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2198,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

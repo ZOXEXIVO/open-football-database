@@ -1,0 +1,33 @@
+{
+  "id": 2000438483,
+  "first_name": "Martin",
+  "last_name": "Anđelković",
+  "birth_date": "2005-05-17",
+  "country_id": 802,
+  "club_id": 5742987,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 91,
+  "value": 111000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5746212,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

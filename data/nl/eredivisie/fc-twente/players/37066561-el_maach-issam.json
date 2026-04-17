@@ -1,0 +1,29 @@
+{
+  "id": 37066561,
+  "first_name": "Issam",
+  "last_name": "El Maach",
+  "birth_date": "2000-02-01",
+  "country_id": 34,
+  "club_id": 1009,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 103,
+  "value": 152000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000077838,
+    "expiration": "2027-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

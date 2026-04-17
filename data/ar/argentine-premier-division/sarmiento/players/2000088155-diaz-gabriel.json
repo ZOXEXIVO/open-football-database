@@ -1,0 +1,31 @@
+{
+  "id": 2000088155,
+  "first_name": "Gabriel",
+  "last_name": "Díaz",
+  "birth_date": "2000-04-19",
+  "country_id": 1649,
+  "club_id": 3101516,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 84,
+  "value": 3000000,
+  "contract": {
+    "salary": 30368,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

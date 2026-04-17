@@ -1,0 +1,29 @@
+{
+  "id": 53149991,
+  "first_name": "Harald",
+  "last_name": "Nilsen Tangen",
+  "birth_date": "2001-01-03",
+  "country_id": 786,
+  "club_id": 53021327,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 96,
+  "value": 2000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 693,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

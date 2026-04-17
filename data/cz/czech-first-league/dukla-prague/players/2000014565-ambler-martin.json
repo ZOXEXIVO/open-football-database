@@ -1,0 +1,37 @@
+{
+  "id": 2000014565,
+  "first_name": "Martin",
+  "last_name": "Ambler",
+  "birth_date": "2000-07-08",
+  "country_id": 763,
+  "club_id": 5640780,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 85,
+  "value": 154000,
+  "contract": {
+    "salary": 27560,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 478,
+    "expiration": "2026-06-30",
+    "salary": 27560,
+    "wage_contribution_pct": 100
+  }
+}

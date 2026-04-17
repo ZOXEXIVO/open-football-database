@@ -1,0 +1,27 @@
+{
+  "id": 22077506,
+  "first_name": "Hristiyan",
+  "last_name": "Petrov",
+  "birth_date": "2002-06-24",
+  "country_id": 760,
+  "club_id": 1036,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 106,
+  "value": 1000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

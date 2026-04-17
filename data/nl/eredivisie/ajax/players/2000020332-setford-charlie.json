@@ -1,0 +1,29 @@
+{
+  "id": 2000020332,
+  "first_name": "Charlie",
+  "last_name": "Setford",
+  "birth_date": "2004-05-11",
+  "country_id": 765,
+  "club_id": 992,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 131,
+  "value": 1000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 151027,
+    "expiration": "2026-06-30",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

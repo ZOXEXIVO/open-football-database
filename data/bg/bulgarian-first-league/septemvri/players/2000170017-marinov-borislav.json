@@ -1,0 +1,41 @@
+{
+  "id": 2000170017,
+  "first_name": "Borislav",
+  "last_name": "Marinov",
+  "birth_date": "2005-03-02",
+  "country_id": 760,
+  "club_id": 116384,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 107,
+  "value": 362000,
+  "contract": {
+    "salary": 15496,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 22040114,
+    "expiration": "2026-06-15",
+    "salary": 15496,
+    "wage_contribution_pct": 100
+  }
+}

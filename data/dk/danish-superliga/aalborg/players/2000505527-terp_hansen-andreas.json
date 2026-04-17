@@ -1,0 +1,23 @@
+{
+  "id": 2000505527,
+  "first_name": "Andreas",
+  "last_name": "Terp Hansen",
+  "birth_date": "2008-11-05",
+  "country_id": 764,
+  "club_id": 483,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 90,
+  "value": 1000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

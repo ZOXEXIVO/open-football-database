@@ -1,0 +1,27 @@
+{
+  "id": 2000152540,
+  "first_name": "Fred",
+  "last_name": "Ngassam",
+  "birth_date": "1997-07-19",
+  "country_id": 11,
+  "club_id": 23086392,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 59,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 43299460,
+  "first_name": "Matteo",
+  "last_name": "Stoppa",
+  "birth_date": "2000-09-27",
+  "country_id": 776,
+  "club_id": 2193,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 79,
+  "value": 346000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 700036,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

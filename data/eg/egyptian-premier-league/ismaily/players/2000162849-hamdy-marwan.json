@@ -1,0 +1,31 @@
+{
+  "id": 2000162849,
+  "first_name": "Marwan",
+  "last_name": "Hamdy",
+  "birth_date": "2001-10-01",
+  "country_id": 16,
+  "club_id": 106757,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 99,
+  "value": 42000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

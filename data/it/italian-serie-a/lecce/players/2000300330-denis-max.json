@@ -1,0 +1,29 @@
+{
+  "id": 2000300330,
+  "first_name": "Max",
+  "last_name": "Denis",
+  "birth_date": "2006-06-20",
+  "country_id": 769,
+  "club_id": 1141,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 83,
+  "value": 29000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 34003166,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

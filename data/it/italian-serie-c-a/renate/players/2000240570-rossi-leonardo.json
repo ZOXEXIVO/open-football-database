@@ -1,0 +1,29 @@
+{
+  "id": 2000240570,
+  "first_name": "Leonardo",
+  "last_name": "Rossi",
+  "birth_date": "2006-09-12",
+  "country_id": 776,
+  "club_id": 1413274,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 72,
+  "value": 40000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 832142,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

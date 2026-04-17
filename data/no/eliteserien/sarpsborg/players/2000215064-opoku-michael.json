@@ -1,0 +1,27 @@
+{
+  "id": 2000215064,
+  "first_name": "Michael",
+  "last_name": "Opoku",
+  "birth_date": "2005-07-20",
+  "country_id": 764,
+  "club_id": 53021327,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 98,
+  "value": 2000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

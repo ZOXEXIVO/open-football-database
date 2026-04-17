@@ -1,0 +1,34 @@
+{
+  "id": 2000407604,
+  "first_name": "Chris",
+  "last_name": "Grombahi",
+  "birth_date": "2008-08-20",
+  "country_id": 24,
+  "club_id": 1489,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 147,
+  "value": 2000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000022413,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

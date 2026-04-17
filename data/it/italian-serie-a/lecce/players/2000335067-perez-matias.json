@@ -1,0 +1,27 @@
+{
+  "id": 2000335067,
+  "first_name": "Matías",
+  "last_name": "Pérez",
+  "birth_date": "2005-04-13",
+  "country_id": 1652,
+  "club_id": 1141,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 97,
+  "value": 933000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

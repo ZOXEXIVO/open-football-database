@@ -1,0 +1,37 @@
+{
+  "id": 13195830,
+  "first_name": "Milson",
+  "last_name": "",
+  "birth_date": "1999-10-12",
+  "country_id": 6,
+  "club_id": 1955,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 118,
+  "potential_ability": 128,
+  "value": 1000000,
+  "contract": {
+    "salary": 1144000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 135450,
+    "expiration": "2026-06-30",
+    "salary": 1144000,
+    "wage_contribution_pct": 100
+  }
+}

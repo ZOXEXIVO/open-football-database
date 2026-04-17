@@ -1,0 +1,31 @@
+{
+  "id": 93014195,
+  "first_name": "Viktor",
+  "last_name": "Claesson",
+  "birth_date": "1992-01-02",
+  "country_id": 797,
+  "club_id": 505,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 133,
+  "value": 1000000,
+  "contract": {
+    "salary": 1144000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

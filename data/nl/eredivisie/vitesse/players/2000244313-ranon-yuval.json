@@ -1,0 +1,31 @@
+{
+  "id": 2000244313,
+  "first_name": "Yuval",
+  "last_name": "Ranon",
+  "birth_date": "2006-02-11",
+  "country_id": 775,
+  "club_id": 1046,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 105,
+  "value": 201000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

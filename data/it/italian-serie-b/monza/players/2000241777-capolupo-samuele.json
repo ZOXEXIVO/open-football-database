@@ -1,0 +1,27 @@
+{
+  "id": 2000241777,
+  "first_name": "Samuele",
+  "last_name": "Capolupo",
+  "birth_date": "2006-04-08",
+  "country_id": 776,
+  "club_id": 1149,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 88,
+  "value": 215000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 53163464,
+  "first_name": "Sander",
+  "last_name": "Kartum",
+  "birth_date": "1995-10-03",
+  "country_id": 786,
+  "club_id": 1573,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 91,
+  "value": 575000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 15004168,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

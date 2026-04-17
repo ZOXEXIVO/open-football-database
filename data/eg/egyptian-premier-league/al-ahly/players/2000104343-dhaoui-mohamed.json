@@ -1,0 +1,29 @@
+{
+  "id": 2000104343,
+  "first_name": "Mohamed",
+  "last_name": "Dhaoui",
+  "birth_date": "2003-05-14",
+  "country_id": 51,
+  "club_id": 106756,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 123,
+  "value": 850000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2027-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 131255,
+    "expiration": "2026-06-30",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

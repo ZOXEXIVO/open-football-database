@@ -1,0 +1,35 @@
+{
+  "id": 2000499764,
+  "first_name": "Sondre",
+  "last_name": "Bakken",
+  "birth_date": "2009-07-29",
+  "country_id": 786,
+  "club_id": 1422,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 115,
+  "value": 1000000,
+  "contract": {
+    "salary": 18772,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

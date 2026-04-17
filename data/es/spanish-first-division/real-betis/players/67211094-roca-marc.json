@@ -1,0 +1,31 @@
+{
+  "id": 67211094,
+  "first_name": "Marc",
+  "last_name": "Roca",
+  "birth_date": "1996-11-26",
+  "country_id": 796,
+  "club_id": 1733,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 125,
+  "value": 25000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

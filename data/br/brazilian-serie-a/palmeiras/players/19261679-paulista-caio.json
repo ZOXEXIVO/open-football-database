@@ -1,0 +1,41 @@
+{
+  "id": 19261679,
+  "first_name": "Caio",
+  "last_name": "Paulista",
+  "birth_date": "1998-05-11",
+  "country_id": 1651,
+  "club_id": 329,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 124,
+  "potential_ability": 131,
+  "value": 2000000,
+  "contract": {
+    "salary": 1144000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 324,
+    "expiration": "2026-12-31",
+    "salary": 1144000,
+    "wage_contribution_pct": 100
+  }
+}

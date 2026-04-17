@@ -1,0 +1,35 @@
+{
+  "id": 33055789,
+  "first_name": "Lassi",
+  "last_name": "Lappalainen",
+  "birth_date": "1998-08-24",
+  "country_id": 768,
+  "club_id": 816,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 96,
+  "value": 523000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

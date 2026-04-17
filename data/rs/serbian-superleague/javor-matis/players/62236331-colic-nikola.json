@@ -1,0 +1,37 @@
+{
+  "id": 62236331,
+  "first_name": "Nikola",
+  "last_name": "Čolić",
+  "birth_date": "2002-08-17",
+  "country_id": 802,
+  "club_id": 5742987,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 81,
+  "value": 213000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2032-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1301381,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

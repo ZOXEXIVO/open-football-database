@@ -1,0 +1,29 @@
+{
+  "id": 2000441163,
+  "first_name": "Nikola",
+  "last_name": "Grujić",
+  "birth_date": "2006-12-17",
+  "country_id": 759,
+  "club_id": 62031842,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 87,
+  "value": 409000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5742473,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

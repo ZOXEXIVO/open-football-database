@@ -1,0 +1,23 @@
+{
+  "id": 2000416547,
+  "first_name": "Mohamed",
+  "last_name": "Tarek",
+  "birth_date": "2008-02-25",
+  "country_id": 16,
+  "club_id": 5370001,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 93,
+  "value": 75000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

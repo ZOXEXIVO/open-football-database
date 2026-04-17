@@ -1,0 +1,27 @@
+{
+  "id": 67231100,
+  "first_name": "Jorge",
+  "last_name": "De Frutos",
+  "birth_date": "1997-02-20",
+  "country_id": 796,
+  "club_id": 1729,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 106,
+  "value": 43000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

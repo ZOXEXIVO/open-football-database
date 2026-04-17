@@ -1,0 +1,31 @@
+{
+  "id": 58123707,
+  "first_name": "Anton",
+  "last_name": "Antonov",
+  "birth_date": "1998-02-02",
+  "country_id": 791,
+  "club_id": 1301102,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 73,
+  "value": 247000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

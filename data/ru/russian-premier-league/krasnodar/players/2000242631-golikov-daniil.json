@@ -1,0 +1,29 @@
+{
+  "id": 2000242631,
+  "first_name": "Daniil",
+  "last_name": "Golikov",
+  "birth_date": "2004-03-24",
+  "country_id": 791,
+  "club_id": 58029064,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 130,
+  "value": 85000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 58044880,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

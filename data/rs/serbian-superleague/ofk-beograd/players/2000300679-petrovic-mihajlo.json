@@ -1,0 +1,33 @@
+{
+  "id": 2000300679,
+  "first_name": "Mihajlo",
+  "last_name": "Petrović",
+  "birth_date": "2005-09-21",
+  "country_id": 802,
+  "club_id": 1951,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 110,
+  "value": 805000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1235,
+    "expiration": "2026-06-14",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

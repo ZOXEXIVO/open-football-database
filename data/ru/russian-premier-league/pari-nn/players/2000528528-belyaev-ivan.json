@@ -1,0 +1,23 @@
+{
+  "id": 2000528528,
+  "first_name": "Ivan",
+  "last_name": "Belyaev",
+  "birth_date": "2008-02-13",
+  "country_id": 791,
+  "club_id": 58145944,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 128,
+  "value": 204000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

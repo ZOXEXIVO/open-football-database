@@ -1,0 +1,31 @@
+{
+  "id": 2000353055,
+  "first_name": "Ivan",
+  "last_name": "Semin",
+  "birth_date": "2002-06-14",
+  "country_id": 791,
+  "club_id": 17026902,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 47,
+  "potential_ability": 61,
+  "value": 2000,
+  "contract": {
+    "salary": 2236,
+    "expiration": "2025-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

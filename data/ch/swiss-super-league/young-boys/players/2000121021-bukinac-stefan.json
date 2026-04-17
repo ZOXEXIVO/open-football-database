@@ -1,0 +1,27 @@
+{
+  "id": 2000121021,
+  "first_name": "Stefan",
+  "last_name": "Bukinac",
+  "birth_date": "2005-07-08",
+  "country_id": 802,
+  "club_id": 1847,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 120,
+  "value": 373000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

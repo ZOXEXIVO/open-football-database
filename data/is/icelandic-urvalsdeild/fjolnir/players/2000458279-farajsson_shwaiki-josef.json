@@ -1,0 +1,29 @@
+{
+  "id": 2000458279,
+  "first_name": "Jósef",
+  "last_name": "Farajsson Shwaiki",
+  "birth_date": "2007-11-19",
+  "country_id": 774,
+  "club_id": 7841979,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 53,
+  "potential_ability": 88,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056746,
+    "expiration": "2037-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

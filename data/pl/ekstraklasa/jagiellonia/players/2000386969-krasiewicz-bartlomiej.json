@@ -1,0 +1,31 @@
+{
+  "id": 2000386969,
+  "first_name": "Bartłomiej",
+  "last_name": "Krasiewicz",
+  "birth_date": "2005-11-26",
+  "country_id": 787,
+  "club_id": 710052,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 112,
+  "value": 29000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

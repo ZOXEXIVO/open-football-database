@@ -1,0 +1,37 @@
+{
+  "id": 2000095337,
+  "first_name": "Tiago",
+  "last_name": "Serrago",
+  "birth_date": "2004-02-05",
+  "country_id": 1649,
+  "club_id": 94,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 128,
+  "value": 3000000,
+  "contract": {
+    "salary": 40612,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3100018,
+    "expiration": "2026-12-31",
+    "salary": 40612,
+    "wage_contribution_pct": 100
+  }
+}

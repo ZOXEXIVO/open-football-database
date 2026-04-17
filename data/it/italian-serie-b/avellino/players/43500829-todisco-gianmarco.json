@@ -1,0 +1,37 @@
+{
+  "id": 43500829,
+  "first_name": "Gianmarco",
+  "last_name": "Todisco",
+  "birth_date": "2002-04-30",
+  "country_id": 776,
+  "club_id": 1108,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 103,
+  "value": 204000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43018336,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

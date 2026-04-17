@@ -1,0 +1,29 @@
+{
+  "id": 43299824,
+  "first_name": "Gianluca",
+  "last_name": "Saro",
+  "birth_date": "2000-06-25",
+  "country_id": 776,
+  "club_id": 1125,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 95,
+  "value": 356000,
+  "contract": {
+    "salary": 21528,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2195,
+    "expiration": "2026-06-30",
+    "salary": 21528,
+    "wage_contribution_pct": 100
+  }
+}

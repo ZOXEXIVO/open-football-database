@@ -1,0 +1,29 @@
+{
+  "id": 2000392870,
+  "first_name": "Mihail",
+  "last_name": "Petrov",
+  "birth_date": "2007-04-21",
+  "country_id": 760,
+  "club_id": 349,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 111,
+  "value": 74000,
+  "contract": {
+    "salary": 11076,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 350,
+    "expiration": "2026-06-15",
+    "salary": 11076,
+    "wage_contribution_pct": 100
+  }
+}

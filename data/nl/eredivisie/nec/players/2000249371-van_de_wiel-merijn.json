@@ -1,0 +1,33 @@
+{
+  "id": 2000249371,
+  "first_name": "Merijn",
+  "last_name": "van de Wiel",
+  "birth_date": "2005-12-23",
+  "country_id": 784,
+  "club_id": 1025,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 107,
+  "value": 286000,
+  "contract": {
+    "salary": 41548,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1042,
+    "expiration": "2026-06-30",
+    "salary": 41548,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000084891,
+  "first_name": "Juan",
+  "last_name": "Sebastián Herrera",
+  "birth_date": "2001-05-19",
+  "country_id": 1653,
+  "club_id": 309348,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 86,
+  "value": 420000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130801,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

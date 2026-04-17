@@ -1,0 +1,41 @@
+{
+  "id": 2000095270,
+  "first_name": "Cătălin",
+  "last_name": "Tolea",
+  "birth_date": "2003-05-11",
+  "country_id": 790,
+  "club_id": 57151160,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 96,
+  "value": 227000,
+  "contract": {
+    "salary": 15704,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57065222,
+    "expiration": "2026-06-30",
+    "salary": 15704,
+    "wage_contribution_pct": 100
+  }
+}

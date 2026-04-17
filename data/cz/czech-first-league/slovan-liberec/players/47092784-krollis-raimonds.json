@@ -1,0 +1,27 @@
+{
+  "id": 47092784,
+  "first_name": "Raimonds",
+  "last_name": "Krollis",
+  "birth_date": "2001-10-28",
+  "country_id": 777,
+  "club_id": 475,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 99,
+  "value": 426000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

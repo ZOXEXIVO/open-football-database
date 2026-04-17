@@ -1,0 +1,33 @@
+{
+  "id": 2000395560,
+  "first_name": "Jón",
+  "last_name": "Þór Finnbogason",
+  "birth_date": "2008-05-03",
+  "country_id": 774,
+  "club_id": 1072,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 94,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-11-16",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39002901,
+    "expiration": "2025-10-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

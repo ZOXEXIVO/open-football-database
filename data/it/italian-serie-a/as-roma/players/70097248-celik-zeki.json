@@ -1,0 +1,31 @@
+{
+  "id": 70097248,
+  "first_name": "Zeki",
+  "last_name": "Çelik",
+  "birth_date": "1997-02-17",
+  "country_id": 799,
+  "club_id": 1100,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "current_ability": 123,
+  "potential_ability": 128,
+  "value": 14000000,
+  "contract": {
+    "salary": 2236000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

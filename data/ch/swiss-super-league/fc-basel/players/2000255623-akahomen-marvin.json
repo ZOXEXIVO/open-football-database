@@ -1,0 +1,27 @@
+{
+  "id": 2000255623,
+  "first_name": "Marvin",
+  "last_name": "Akahomen",
+  "birth_date": "2007-07-15",
+  "country_id": 798,
+  "club_id": 1849,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 135,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

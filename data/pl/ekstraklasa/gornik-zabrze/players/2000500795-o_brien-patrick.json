@@ -1,0 +1,29 @@
+{
+  "id": 2000500795,
+  "first_name": "Patrick",
+  "last_name": "O'Brien",
+  "birth_date": "2008-01-14",
+  "country_id": 787,
+  "club_id": 1452,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 99,
+  "value": 67000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300879,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

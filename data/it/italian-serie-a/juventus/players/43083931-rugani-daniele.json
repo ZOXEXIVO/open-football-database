@@ -1,0 +1,29 @@
+{
+  "id": 43083931,
+  "first_name": "Daniele",
+  "last_name": "Rugani",
+  "birth_date": "1994-07-29",
+  "country_id": 776,
+  "club_id": 1139,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 146,
+  "value": 3000000,
+  "contract": {
+    "salary": 3172000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1129,
+    "expiration": "2026-06-30",
+    "salary": 3172000,
+    "wage_contribution_pct": 100
+  }
+}

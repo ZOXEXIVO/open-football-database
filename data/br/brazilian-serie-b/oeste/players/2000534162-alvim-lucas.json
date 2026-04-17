@@ -1,0 +1,31 @@
+{
+  "id": 2000534162,
+  "first_name": "Lucas",
+  "last_name": "Alvim",
+  "birth_date": "2004-04-06",
+  "country_id": 1651,
+  "club_id": 311028,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 88,
+  "value": 6000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-26",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

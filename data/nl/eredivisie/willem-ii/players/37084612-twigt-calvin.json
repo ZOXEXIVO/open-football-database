@@ -1,0 +1,29 @@
+{
+  "id": 37084612,
+  "first_name": "Calvin",
+  "last_name": "Twigt",
+  "birth_date": "2003-01-30",
+  "country_id": 784,
+  "club_id": 1015,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 97,
+  "value": 3000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1047,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

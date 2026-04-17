@@ -1,0 +1,30 @@
+{
+  "id": 2000345347,
+  "first_name": "Elly",
+  "last_name": "Owande",
+  "birth_date": "2005-10-16",
+  "country_id": 25,
+  "club_id": 135448,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 92,
+  "value": 44000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2024-09-09"
+  }
+}

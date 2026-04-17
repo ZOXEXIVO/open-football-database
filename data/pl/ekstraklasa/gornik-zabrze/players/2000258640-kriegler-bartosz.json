@@ -1,0 +1,29 @@
+{
+  "id": 2000258640,
+  "first_name": "Bartosz",
+  "last_name": "Kriegler",
+  "birth_date": "2007-06-29",
+  "country_id": 787,
+  "club_id": 1452,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 98,
+  "value": 151000,
+  "contract": {
+    "salary": 6812,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 717835,
+    "expiration": "2026-06-30",
+    "salary": 6812,
+    "wage_contribution_pct": 100
+  }
+}

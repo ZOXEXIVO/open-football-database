@@ -1,0 +1,29 @@
+{
+  "id": 2000295735,
+  "first_name": "Rahul",
+  "last_name": "Sharma",
+  "birth_date": "2007-01-19",
+  "country_id": 776,
+  "club_id": 1106,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 104,
+  "value": 60000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1153,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

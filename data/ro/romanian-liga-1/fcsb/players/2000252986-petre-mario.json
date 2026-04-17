@@ -1,0 +1,29 @@
+{
+  "id": 2000252986,
+  "first_name": "Mario",
+  "last_name": "Petre",
+  "birth_date": "2006-06-29",
+  "country_id": 790,
+  "club_id": 1513,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 148,
+  "value": 1000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57113519,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000143748,
+  "first_name": "Máximo",
+  "last_name": "Ferulano",
+  "birth_date": "2004-10-03",
+  "country_id": 1649,
+  "club_id": 3100018,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 100,
+  "value": 164000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3101520,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

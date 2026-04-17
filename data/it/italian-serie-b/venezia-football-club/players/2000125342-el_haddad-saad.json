@@ -1,0 +1,33 @@
+{
+  "id": 2000125342,
+  "first_name": "Saad",
+  "last_name": "El Haddad",
+  "birth_date": "2005-07-24",
+  "country_id": 34,
+  "club_id": 1179,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 101,
+  "value": 762000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43007150,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

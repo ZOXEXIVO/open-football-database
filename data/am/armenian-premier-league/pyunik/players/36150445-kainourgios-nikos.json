@@ -1,0 +1,27 @@
+{
+  "id": 36150445,
+  "first_name": "Nikos",
+  "last_name": "Kainourgios",
+  "birth_date": "1998-09-08",
+  "country_id": 772,
+  "club_id": 102,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 88,
+  "value": 123000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

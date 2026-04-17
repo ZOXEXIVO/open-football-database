@@ -1,0 +1,29 @@
+{
+  "id": 2000158930,
+  "first_name": "Dmitry",
+  "last_name": "Vasiljev",
+  "birth_date": "2004-06-16",
+  "country_id": 791,
+  "club_id": 1301108,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 128,
+  "value": 3000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 58145347,
+    "expiration": "2026-06-10",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

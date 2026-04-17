@@ -1,0 +1,31 @@
+{
+  "id": 2000128997,
+  "first_name": "Cléo",
+  "last_name": "Mélières",
+  "birth_date": "2005-04-13",
+  "country_id": 769,
+  "club_id": 844,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 108,
+  "value": 430000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

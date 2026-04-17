@@ -1,0 +1,29 @@
+{
+  "id": 2000012724,
+  "first_name": "Sigurpáll",
+  "last_name": "Sören Ingólfsson",
+  "birth_date": "2003-03-27",
+  "country_id": 774,
+  "club_id": 1076,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 86,
+  "value": 20000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-11-16",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 39002395,
+    "expiration": "2026-10-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

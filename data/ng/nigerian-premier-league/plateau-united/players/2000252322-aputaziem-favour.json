@@ -1,0 +1,29 @@
+{
+  "id": 2000252322,
+  "first_name": "Favour",
+  "last_name": "Aputaziem",
+  "birth_date": "2007-03-17",
+  "country_id": 38,
+  "club_id": 13158201,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 95,
+  "value": 22000,
+  "contract": {
+    "salary": 572,
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5340760,
+    "expiration": "2025-12-31",
+    "salary": 572,
+    "wage_contribution_pct": 100
+  }
+}

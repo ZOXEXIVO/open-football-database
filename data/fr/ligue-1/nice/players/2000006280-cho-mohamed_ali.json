@@ -1,0 +1,31 @@
+{
+  "id": 2000006280,
+  "first_name": "Mohamed-Ali",
+  "last_name": "Cho",
+  "birth_date": "2004-01-19",
+  "country_id": 769,
+  "club_id": 862,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 135,
+  "value": 12000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

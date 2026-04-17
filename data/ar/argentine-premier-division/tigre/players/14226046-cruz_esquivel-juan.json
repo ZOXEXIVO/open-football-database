@@ -1,0 +1,37 @@
+{
+  "id": 14226046,
+  "first_name": "Juan",
+  "last_name": "Cruz Esquivel",
+  "birth_date": "2000-08-22",
+  "country_id": 1649,
+  "club_id": 3100018,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 102,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 102482,
+    "expiration": "2026-12-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

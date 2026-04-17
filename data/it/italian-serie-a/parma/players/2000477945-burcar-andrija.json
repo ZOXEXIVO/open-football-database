@@ -1,0 +1,27 @@
+{
+  "id": 2000477945,
+  "first_name": "Andrija",
+  "last_name": "Burcar",
+  "birth_date": "2008-01-19",
+  "country_id": 761,
+  "club_id": 1156,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 107,
+  "value": 232000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

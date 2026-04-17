@@ -1,0 +1,27 @@
+{
+  "id": 2000289282,
+  "first_name": "Franciszek",
+  "last_name": "Antkiewicz",
+  "birth_date": "2004-06-10",
+  "country_id": 787,
+  "club_id": 1469,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 95,
+  "value": 15000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

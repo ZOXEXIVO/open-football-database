@@ -1,0 +1,29 @@
+{
+  "id": 43202417,
+  "first_name": "Alberto",
+  "last_name": "Dossena",
+  "birth_date": "1998-10-13",
+  "country_id": 776,
+  "club_id": 1123,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 107,
+  "value": 4000000,
+  "contract": {
+    "salary": 1612000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1114,
+    "expiration": "2026-06-30",
+    "salary": 1612000,
+    "wage_contribution_pct": 100
+  }
+}

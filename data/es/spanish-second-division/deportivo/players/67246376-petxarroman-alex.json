@@ -1,0 +1,29 @@
+{
+  "id": 67246376,
+  "first_name": "Álex",
+  "last_name": "Petxarromán",
+  "birth_date": "1997-02-06",
+  "country_id": 796,
+  "club_id": 1705,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 104,
+  "value": 525000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1709,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

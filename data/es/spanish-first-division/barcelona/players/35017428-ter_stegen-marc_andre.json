@@ -1,0 +1,29 @@
+{
+  "id": 35017428,
+  "first_name": "Marc-André",
+  "last_name": "ter Stegen",
+  "birth_date": "1992-04-30",
+  "country_id": 771,
+  "club_id": 1708,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 135,
+  "potential_ability": 165,
+  "value": 23000000,
+  "contract": {
+    "salary": 12064000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 814089,
+    "expiration": "2026-06-30",
+    "salary": 12064000,
+    "wage_contribution_pct": 100
+  }
+}

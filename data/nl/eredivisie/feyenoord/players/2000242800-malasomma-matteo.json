@@ -1,0 +1,29 @@
+{
+  "id": 2000242800,
+  "first_name": "Matteo",
+  "last_name": "Malasomma",
+  "birth_date": "2006-09-14",
+  "country_id": 776,
+  "club_id": 1013,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 123,
+  "value": 113000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1001,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000240210,
+  "first_name": "Jérémy",
+  "last_name": "Moray",
+  "birth_date": "2006-03-14",
+  "country_id": 757,
+  "club_id": 1126,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 105,
+  "value": 41000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

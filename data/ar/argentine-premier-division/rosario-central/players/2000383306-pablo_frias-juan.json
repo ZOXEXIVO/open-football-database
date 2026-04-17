@@ -1,0 +1,27 @@
+{
+  "id": 2000383306,
+  "first_name": "Juan",
+  "last_name": "Pablo Frías",
+  "birth_date": "2005-06-24",
+  "country_id": 1649,
+  "club_id": 95,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 112,
+  "value": 207000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

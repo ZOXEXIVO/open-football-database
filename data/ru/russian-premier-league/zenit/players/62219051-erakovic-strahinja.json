@@ -1,0 +1,33 @@
+{
+  "id": 62219051,
+  "first_name": "Strahinja",
+  "last_name": "Eraković",
+  "birth_date": "2001-01-22",
+  "country_id": 802,
+  "club_id": 1301108,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 124,
+  "potential_ability": 139,
+  "value": 3000000,
+  "contract": {
+    "salary": 832000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1955,
+    "expiration": "2026-08-31",
+    "salary": 832000,
+    "wage_contribution_pct": 100
+  }
+}

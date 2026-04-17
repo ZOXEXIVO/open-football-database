@@ -1,0 +1,27 @@
+{
+  "id": 2000516883,
+  "first_name": "Josseph",
+  "last_name": "Mosquera",
+  "birth_date": "2009-06-08",
+  "country_id": 1653,
+  "club_id": 308516,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 109,
+  "value": 123000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

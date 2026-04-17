@@ -1,0 +1,27 @@
+{
+  "id": 2000501555,
+  "first_name": "Jacob",
+  "last_name": "Valland",
+  "birth_date": "2007-10-25",
+  "country_id": 786,
+  "club_id": 1326,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 95,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "NonContract"
+  }
+}

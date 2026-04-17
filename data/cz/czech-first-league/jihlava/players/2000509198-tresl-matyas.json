@@ -1,0 +1,29 @@
+{
+  "id": 2000509198,
+  "first_name": "Matyáš",
+  "last_name": "Trešl",
+  "birth_date": "2006-04-23",
+  "country_id": 763,
+  "club_id": 136153,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 111,
+  "value": 36000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 136282,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

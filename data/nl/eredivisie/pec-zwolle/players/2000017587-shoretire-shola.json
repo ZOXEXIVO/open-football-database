@@ -1,0 +1,33 @@
+{
+  "id": 2000017587,
+  "first_name": "Shola",
+  "last_name": "Shoretire",
+  "birth_date": "2004-02-02",
+  "country_id": 765,
+  "club_id": 982,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 113,
+  "value": 4000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1012,
+    "expiration": "2026-06-30",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  }
+}

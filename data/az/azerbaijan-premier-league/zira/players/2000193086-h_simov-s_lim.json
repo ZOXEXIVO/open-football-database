@@ -1,0 +1,29 @@
+{
+  "id": 2000193086,
+  "first_name": "Səlim",
+  "last_name": "Həşimov",
+  "birth_date": "2006-10-09",
+  "country_id": 756,
+  "club_id": 59091534,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 96,
+  "value": 35000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000172513,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

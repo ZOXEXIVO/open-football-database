@@ -1,0 +1,31 @@
+{
+  "id": 43152493,
+  "first_name": "Giacomo",
+  "last_name": "Zecca",
+  "birth_date": "1997-07-06",
+  "country_id": 776,
+  "club_id": 2222,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 78,
+  "value": 223000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

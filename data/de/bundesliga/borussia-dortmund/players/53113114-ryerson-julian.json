@@ -1,0 +1,35 @@
+{
+  "id": 53113114,
+  "first_name": "Julian",
+  "last_name": "Ryerson",
+  "birth_date": "1997-11-17",
+  "country_id": 786,
+  "club_id": 907,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 132,
+  "value": 35000000,
+  "contract": {
+    "salary": 4316000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

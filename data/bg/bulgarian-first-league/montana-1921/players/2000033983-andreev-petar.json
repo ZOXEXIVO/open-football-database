@@ -1,0 +1,31 @@
+{
+  "id": 2000033983,
+  "first_name": "Petar",
+  "last_name": "Andreev",
+  "birth_date": "2004-07-02",
+  "country_id": 760,
+  "club_id": 353,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 113,
+  "value": 483000,
+  "contract": {
+    "salary": 17524,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

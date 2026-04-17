@@ -1,0 +1,35 @@
+{
+  "id": 2000397216,
+  "first_name": "Diogo",
+  "last_name": "Rodrigues",
+  "birth_date": "2007-10-08",
+  "country_id": 788,
+  "club_id": 2448,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 105,
+  "value": 3000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

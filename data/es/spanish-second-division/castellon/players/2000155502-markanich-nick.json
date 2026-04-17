@@ -1,0 +1,37 @@
+{
+  "id": 2000155502,
+  "first_name": "Nick",
+  "last_name": "Markanich",
+  "birth_date": "1999-12-26",
+  "country_id": 390,
+  "club_id": 1690,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 86,
+  "value": 223000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 72000112,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 13200912,
+  "first_name": "Tarek",
+  "last_name": "Bouabta",
+  "birth_date": "1991-07-21",
+  "country_id": 5,
+  "club_id": 7600575,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 85,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2021-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 24055362,
+  "first_name": "Roko",
+  "last_name": "Baturina",
+  "birth_date": "2000-06-20",
+  "country_id": 761,
+  "club_id": 1481,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 91,
+  "value": 452000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 481,
+    "expiration": "2026-06-30",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

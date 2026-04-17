@@ -1,0 +1,29 @@
+{
+  "id": 2000491729,
+  "first_name": "Michele",
+  "last_name": "Biffaro",
+  "birth_date": "2007-04-08",
+  "country_id": 776,
+  "club_id": 43018336,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 119,
+  "value": 6000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43018333,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

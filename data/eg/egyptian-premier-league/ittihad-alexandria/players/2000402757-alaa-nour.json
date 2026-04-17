@@ -1,0 +1,29 @@
+{
+  "id": 2000402757,
+  "first_name": "Nour",
+  "last_name": "Alaa",
+  "birth_date": "2003-01-01",
+  "country_id": 16,
+  "club_id": 13183943,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 111,
+  "value": 3000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-01-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 529014,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000172837,
+  "first_name": "Vadim",
+  "last_name": "Afanasjev",
+  "birth_date": "2005-04-17",
+  "country_id": 758,
+  "club_id": 17041311,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 49,
+  "potential_ability": 54,
+  "value": 6000,
+  "contract": {
+    "salary": 1924,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

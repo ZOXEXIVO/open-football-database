@@ -1,0 +1,30 @@
+{
+  "id": 27164375,
+  "first_name": "Luca",
+  "last_name": "Kjerrumgaard",
+  "birth_date": "2003-02-09",
+  "country_id": 764,
+  "club_id": 1178,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 113,
+  "value": 5000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 732,
+    "expiration": "2026-06-30",
+    "salary": 468000,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

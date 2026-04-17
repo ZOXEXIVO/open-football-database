@@ -1,0 +1,33 @@
+{
+  "id": 85120944,
+  "first_name": "Benjamin",
+  "last_name": "Pavard",
+  "birth_date": "1996-03-28",
+  "country_id": 769,
+  "club_id": 1135,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 125,
+  "potential_ability": 144,
+  "value": 29000000,
+  "contract": {
+    "salary": 6552000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 866,
+    "expiration": "2026-06-30",
+    "salary": 6552000,
+    "wage_contribution_pct": 100
+  }
+}

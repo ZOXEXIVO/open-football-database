@@ -1,0 +1,37 @@
+{
+  "id": 2000326318,
+  "first_name": "Simone",
+  "last_name": "Zaniboni",
+  "birth_date": "2006-10-04",
+  "country_id": 776,
+  "club_id": 700198,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 83,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7983708,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 19352206,
+  "first_name": "Ruan",
+  "last_name": "Tressoldi",
+  "birth_date": "1999-06-07",
+  "country_id": 1651,
+  "club_id": 3800256,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 116,
+  "value": 832000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 314,
+    "expiration": "2026-07-31",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

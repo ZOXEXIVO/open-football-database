@@ -1,0 +1,37 @@
+{
+  "id": 2000078161,
+  "first_name": "Ezequiel",
+  "last_name": "Cannavo",
+  "birth_date": "2002-06-12",
+  "country_id": 1649,
+  "club_id": 108526,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 121,
+  "value": 5000000,
+  "contract": {
+    "salary": 20124,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 93,
+    "expiration": "2026-12-31",
+    "salary": 20124,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000163799,
+  "first_name": "Nico",
+  "last_name": "Paz",
+  "birth_date": "2004-09-08",
+  "country_id": 1649,
+  "club_id": 1123,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 126,
+  "value": 86000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

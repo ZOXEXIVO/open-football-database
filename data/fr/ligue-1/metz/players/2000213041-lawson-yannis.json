@@ -1,0 +1,31 @@
+{
+  "id": 2000213041,
+  "first_name": "Yannis",
+  "last_name": "Lawson",
+  "birth_date": "2004-08-03",
+  "country_id": 757,
+  "club_id": 844,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 117,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

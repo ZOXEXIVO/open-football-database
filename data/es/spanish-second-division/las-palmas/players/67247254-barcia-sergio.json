@@ -1,0 +1,29 @@
+{
+  "id": 67247254,
+  "first_name": "Sergio",
+  "last_name": "Barcia",
+  "birth_date": "2000-12-31",
+  "country_id": 796,
+  "club_id": 1456,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 130,
+  "value": 2000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1772,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

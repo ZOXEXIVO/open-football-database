@@ -1,0 +1,29 @@
+{
+  "id": 2000422764,
+  "first_name": "Reyli",
+  "last_name": "Arroyo",
+  "birth_date": "2004-08-22",
+  "country_id": 379,
+  "club_id": 1253,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 107,
+  "value": 1000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5666502,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

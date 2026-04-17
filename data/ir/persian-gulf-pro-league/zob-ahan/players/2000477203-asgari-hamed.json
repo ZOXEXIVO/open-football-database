@@ -1,0 +1,37 @@
+{
+  "id": 2000477203,
+  "first_name": "Hamed",
+  "last_name": "Asgari",
+  "birth_date": "2002-12-05",
+  "country_id": 114,
+  "club_id": 104395,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 93,
+  "value": 135000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2032-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 23288854,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

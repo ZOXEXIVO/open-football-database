@@ -1,0 +1,37 @@
+{
+  "id": 43094108,
+  "first_name": "Daniele",
+  "last_name": "Verde",
+  "birth_date": "1996-06-20",
+  "country_id": 776,
+  "club_id": 1173,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 108,
+  "value": 963000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 458631,
+    "expiration": "2026-06-30",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  }
+}

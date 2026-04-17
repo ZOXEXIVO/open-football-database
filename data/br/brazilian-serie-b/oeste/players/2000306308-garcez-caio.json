@@ -1,0 +1,33 @@
+{
+  "id": 2000306308,
+  "first_name": "Caio",
+  "last_name": "Garcez",
+  "birth_date": "2004-07-06",
+  "country_id": 1651,
+  "club_id": 2106553,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 109,
+  "value": 20000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 311028,
+    "expiration": "2026-05-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

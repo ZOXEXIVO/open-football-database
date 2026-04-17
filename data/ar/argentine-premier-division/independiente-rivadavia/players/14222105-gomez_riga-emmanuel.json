@@ -1,0 +1,29 @@
+{
+  "id": 14222105,
+  "first_name": "Emmanuel",
+  "last_name": "Gómez Riga",
+  "birth_date": "2001-09-14",
+  "country_id": 1649,
+  "club_id": 14004603,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 90,
+  "value": 272000,
+  "contract": {
+    "salary": 11076,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3101453,
+    "expiration": "2026-12-31",
+    "salary": 11076,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000116931,
+  "first_name": "Junior",
+  "last_name": "Ligue",
+  "birth_date": "2005-03-21",
+  "country_id": 798,
+  "club_id": 1179,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 91,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 700198,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

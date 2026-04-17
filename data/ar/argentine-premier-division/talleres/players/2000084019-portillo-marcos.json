@@ -1,0 +1,29 @@
+{
+  "id": 2000084019,
+  "first_name": "Marcos",
+  "last_name": "Portillo",
+  "birth_date": "2000-01-31",
+  "country_id": 1649,
+  "club_id": 102489,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 116,
+  "value": 3000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 92,
+    "expiration": "2026-12-31",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000417701,
+  "first_name": "Shaun",
+  "last_name": "Carabott",
+  "birth_date": "2006-11-19",
+  "country_id": 782,
+  "club_id": 1300787,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 89,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  },
+  "loan": {
+    "to_club_id": 47001121,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

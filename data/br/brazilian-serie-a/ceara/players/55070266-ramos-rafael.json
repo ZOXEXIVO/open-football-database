@@ -1,0 +1,35 @@
+{
+  "id": 55070266,
+  "first_name": "Rafael",
+  "last_name": "Ramos",
+  "birth_date": "1995-01-09",
+  "country_id": 788,
+  "club_id": 104749,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 104,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

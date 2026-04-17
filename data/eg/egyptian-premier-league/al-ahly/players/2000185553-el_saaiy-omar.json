@@ -1,0 +1,29 @@
+{
+  "id": 2000185553,
+  "first_name": "Omar",
+  "last_name": "El Saaiy",
+  "birth_date": "2003-01-01",
+  "country_id": 16,
+  "club_id": 106756,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 116,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5370006,
+    "expiration": "2026-07-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000533759,
+  "first_name": "Jovan",
+  "last_name": "Bradić",
+  "birth_date": "2006-09-20",
+  "country_id": 802,
+  "club_id": 62159794,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 96,
+  "value": 443000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 62123106,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

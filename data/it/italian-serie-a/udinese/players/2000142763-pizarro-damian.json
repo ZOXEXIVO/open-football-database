@@ -1,0 +1,29 @@
+{
+  "id": 2000142763,
+  "first_name": "Damián",
+  "last_name": "Pizarro",
+  "birth_date": "2005-03-28",
+  "country_id": 1652,
+  "club_id": 1178,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 113,
+  "value": 2000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 93,
+    "expiration": "2026-12-31",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000264713,
+  "first_name": "Neil",
+  "last_name": "Said",
+  "birth_date": "2005-01-20",
+  "country_id": 782,
+  "club_id": 1247,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 78,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  },
+  "loan": {
+    "to_club_id": 47041703,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

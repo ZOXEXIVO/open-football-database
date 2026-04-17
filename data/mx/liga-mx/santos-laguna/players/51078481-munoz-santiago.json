@@ -1,0 +1,33 @@
+{
+  "id": 51078481,
+  "first_name": "Santiago",
+  "last_name": "Muñoz",
+  "birth_date": "2002-08-14",
+  "country_id": 379,
+  "club_id": 106029,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 122,
+  "value": 646000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5661074,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000101061,
+  "first_name": "Gerard",
+  "last_name": "Martín",
+  "birth_date": "2002-02-26",
+  "country_id": 796,
+  "club_id": 1708,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 135,
+  "potential_ability": 142,
+  "value": 17000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

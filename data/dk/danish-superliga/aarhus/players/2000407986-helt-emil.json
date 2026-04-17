@@ -1,0 +1,27 @@
+{
+  "id": 2000407986,
+  "first_name": "Emil",
+  "last_name": "Helt",
+  "birth_date": "2007-09-20",
+  "country_id": 764,
+  "club_id": 482,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 98,
+  "value": 6000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

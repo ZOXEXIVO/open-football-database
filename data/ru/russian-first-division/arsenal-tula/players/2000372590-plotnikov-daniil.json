@@ -1,0 +1,35 @@
+{
+  "id": 2000372590,
+  "first_name": "Daniil",
+  "last_name": "Plotnikov",
+  "birth_date": "2006-05-27",
+  "country_id": 791,
+  "club_id": 130501,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 91,
+  "value": 326000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

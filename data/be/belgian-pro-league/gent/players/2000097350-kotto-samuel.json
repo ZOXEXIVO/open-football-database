@@ -1,0 +1,29 @@
+{
+  "id": 2000097350,
+  "first_name": "Samuel",
+  "last_name": "Kotto",
+  "birth_date": "2003-09-03",
+  "country_id": 11,
+  "club_id": 168,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 118,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2047,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000490763,
+  "first_name": "Einar",
+  "last_name": "Bent Bjarnason",
+  "birth_date": "2009-01-06",
+  "country_id": 774,
+  "club_id": 1074,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 82,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056809,
+    "expiration": "2039-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

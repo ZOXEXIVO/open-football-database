@@ -1,0 +1,29 @@
+{
+  "id": 28110659,
+  "first_name": "Marian",
+  "last_name": "Huja",
+  "birth_date": "1999-08-05",
+  "country_id": 790,
+  "club_id": 1459,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 91,
+  "value": 413000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7540205,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

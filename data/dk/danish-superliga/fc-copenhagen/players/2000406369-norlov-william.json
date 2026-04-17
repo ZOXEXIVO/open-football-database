@@ -1,0 +1,31 @@
+{
+  "id": 2000406369,
+  "first_name": "William",
+  "last_name": "Nørløv",
+  "birth_date": "2008-01-31",
+  "country_id": 764,
+  "club_id": 505,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 119,
+  "value": 49000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

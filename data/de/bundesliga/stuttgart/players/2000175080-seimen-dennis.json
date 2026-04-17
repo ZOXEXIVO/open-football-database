@@ -1,0 +1,29 @@
+{
+  "id": 2000175080,
+  "first_name": "Dennis",
+  "last_name": "Seimen",
+  "birth_date": "2005-12-01",
+  "country_id": 771,
+  "club_id": 960,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 159,
+  "value": 27000000,
+  "contract": {
+    "salary": 676000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 121198,
+    "expiration": "2026-06-30",
+    "salary": 676000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000184176,
+  "first_name": "Juan",
+  "last_name": "Giménez",
+  "birth_date": "2003-06-01",
+  "country_id": 1655,
+  "club_id": 1445,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 109,
+  "value": 443000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5280220,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 28048384,
+  "first_name": "Carlos",
+  "last_name": "Pomares",
+  "birth_date": "1992-12-05",
+  "country_id": 796,
+  "club_id": 1749,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 96,
+  "value": 207000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

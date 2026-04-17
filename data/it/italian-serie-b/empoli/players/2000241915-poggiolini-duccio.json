@@ -1,0 +1,29 @@
+{
+  "id": 2000241915,
+  "first_name": "Duccio",
+  "last_name": "Poggiolini",
+  "birth_date": "2006-05-20",
+  "country_id": 776,
+  "club_id": 1126,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 95,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43599658,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

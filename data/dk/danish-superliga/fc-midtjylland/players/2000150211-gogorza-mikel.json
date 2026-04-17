@@ -1,0 +1,27 @@
+{
+  "id": 2000150211,
+  "first_name": "Mikel",
+  "last_name": "Gogorza",
+  "birth_date": "2006-09-27",
+  "country_id": 764,
+  "club_id": 526,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 112,
+  "value": 10000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

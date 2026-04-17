@@ -1,0 +1,33 @@
+{
+  "id": 2000492391,
+  "first_name": "Birgir",
+  "last_name": "Þór Jónsson",
+  "birth_date": "2007-06-04",
+  "country_id": 774,
+  "club_id": 1300641,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 76,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056767,
+    "expiration": "2027-11-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

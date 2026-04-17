@@ -1,0 +1,37 @@
+{
+  "id": 2000251345,
+  "first_name": "Raul",
+  "last_name": "Rotund",
+  "birth_date": "2005-11-17",
+  "country_id": 790,
+  "club_id": 1500,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 110,
+  "value": 326000,
+  "contract": {
+    "salary": 25792,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000132627,
+    "expiration": "2026-06-30",
+    "salary": 25792,
+    "wage_contribution_pct": 100
+  }
+}

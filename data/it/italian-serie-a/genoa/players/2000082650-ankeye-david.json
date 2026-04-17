@@ -1,0 +1,33 @@
+{
+  "id": 2000082650,
+  "first_name": "David",
+  "last_name": "Ankeye",
+  "birth_date": "2002-05-22",
+  "country_id": 38,
+  "club_id": 1132,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 114,
+  "value": 678000,
+  "contract": {
+    "salary": 572000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 26035664,
+    "expiration": "2026-05-31",
+    "salary": 572000,
+    "wage_contribution_pct": 100
+  }
+}

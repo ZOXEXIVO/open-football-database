@@ -1,0 +1,27 @@
+{
+  "id": 2000258012,
+  "first_name": "Levian",
+  "last_name": "Ochieng",
+  "birth_date": "1999-05-25",
+  "country_id": 25,
+  "club_id": 13100025,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 68,
+  "value": 15000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

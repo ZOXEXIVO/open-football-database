@@ -1,0 +1,29 @@
+{
+  "id": 2000465418,
+  "first_name": "Nicolas",
+  "last_name": "Giuliani",
+  "birth_date": "2007-08-23",
+  "country_id": 776,
+  "club_id": 2215,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 93,
+  "value": 30000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1160,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

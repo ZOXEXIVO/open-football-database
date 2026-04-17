@@ -1,0 +1,29 @@
+{
+  "id": 2000150854,
+  "first_name": "Peio",
+  "last_name": "Canales",
+  "birth_date": "2005-01-17",
+  "country_id": 796,
+  "club_id": 1664,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 153,
+  "value": 17000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1728,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

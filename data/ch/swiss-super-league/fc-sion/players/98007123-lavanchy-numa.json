@@ -1,0 +1,30 @@
+{
+  "id": 98007123,
+  "first_name": "Numa",
+  "last_name": "Lavanchy",
+  "birth_date": "1993-08-25",
+  "country_id": 798,
+  "club_id": 1852,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 91,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

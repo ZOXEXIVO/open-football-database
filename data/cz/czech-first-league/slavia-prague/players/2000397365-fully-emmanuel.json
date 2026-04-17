@@ -1,0 +1,33 @@
+{
+  "id": 2000397365,
+  "first_name": "Emmanuel",
+  "last_name": "Fully",
+  "birth_date": "2006-03-20",
+  "country_id": 27,
+  "club_id": 474,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 126,
+  "value": 69000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300309,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

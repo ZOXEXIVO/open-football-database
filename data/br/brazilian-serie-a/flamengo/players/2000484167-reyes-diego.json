@@ -1,0 +1,28 @@
+{
+  "id": 2000484167,
+  "first_name": "Diego",
+  "last_name": "Reyes",
+  "birth_date": "2007-09-03",
+  "country_id": 379,
+  "club_id": 1253,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 143,
+  "value": 589000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 322,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000303094,
+  "first_name": "Sofus",
+  "last_name": "Johannesen",
+  "birth_date": "2007-05-04",
+  "country_id": 764,
+  "club_id": 526,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 125,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 504,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

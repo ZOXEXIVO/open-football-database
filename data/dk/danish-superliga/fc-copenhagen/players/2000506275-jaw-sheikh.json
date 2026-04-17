@@ -1,0 +1,27 @@
+{
+  "id": 2000506275,
+  "first_name": "Sheikh",
+  "last_name": "Jaw",
+  "birth_date": "2007-09-01",
+  "country_id": 20,
+  "club_id": 505,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 124,
+  "value": 32000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

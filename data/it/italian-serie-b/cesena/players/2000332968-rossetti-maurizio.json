@@ -1,0 +1,31 @@
+{
+  "id": 2000332968,
+  "first_name": "Maurizio",
+  "last_name": "Rossetti",
+  "birth_date": "2007-03-01",
+  "country_id": 776,
+  "club_id": 1120,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 100,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

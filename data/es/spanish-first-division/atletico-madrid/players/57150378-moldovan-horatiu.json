@@ -1,0 +1,29 @@
+{
+  "id": 57150378,
+  "first_name": "Horaţiu",
+  "last_name": "Moldovan",
+  "birth_date": "1998-01-20",
+  "country_id": 790,
+  "club_id": 1687,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 134,
+  "value": 2000000,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1741,
+    "expiration": "2026-06-30",
+    "salary": 728000,
+    "wage_contribution_pct": 100
+  }
+}

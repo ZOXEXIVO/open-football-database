@@ -1,0 +1,33 @@
+{
+  "id": 26030142,
+  "first_name": "Grigoris",
+  "last_name": "Kastanos",
+  "birth_date": "1998-01-30",
+  "country_id": 762,
+  "club_id": 2201,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 108,
+  "value": 2000000,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 453,
+    "expiration": "2026-05-31",
+    "salary": 728000,
+    "wage_contribution_pct": 100
+  }
+}

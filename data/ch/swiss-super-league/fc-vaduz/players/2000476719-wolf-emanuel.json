@@ -1,0 +1,29 @@
+{
+  "id": 2000476719,
+  "first_name": "Emanuel",
+  "last_name": "Wolf",
+  "birth_date": "2009-07-17",
+  "country_id": 778,
+  "club_id": 5622951,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 131,
+  "value": 3000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5720002,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

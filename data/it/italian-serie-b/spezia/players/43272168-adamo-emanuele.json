@@ -1,0 +1,35 @@
+{
+  "id": 43272168,
+  "first_name": "Emanuele",
+  "last_name": "Adamo",
+  "birth_date": "1998-06-19",
+  "country_id": 776,
+  "club_id": 1173,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 101,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

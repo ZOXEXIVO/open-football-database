@@ -1,0 +1,23 @@
+{
+  "id": 2000510031,
+  "first_name": "Carlo",
+  "last_name": "Attanasio",
+  "birth_date": "2008-08-12",
+  "country_id": 776,
+  "club_id": 1108,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 102,
+  "value": 76000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000299194,
+  "first_name": "Deni",
+  "last_name": "Aslachanov",
+  "birth_date": "2006-03-09",
+  "country_id": 757,
+  "club_id": 1033,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 87,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000275367,
+  "first_name": "Ivan",
+  "last_name": "Furmanov",
+  "birth_date": "2006-01-04",
+  "country_id": 758,
+  "club_id": 17026902,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 47,
+  "potential_ability": 57,
+  "value": 7000,
+  "contract": {
+    "salary": 2080,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000058678,
+  "first_name": "Timotej",
+  "last_name": "Jambor",
+  "birth_date": "2003-04-04",
+  "country_id": 794,
+  "club_id": 57171586,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 86,
+  "value": 261000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300885,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

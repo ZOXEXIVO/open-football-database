@@ -1,0 +1,33 @@
+{
+  "id": 78074600,
+  "first_name": "Marcelo",
+  "last_name": "Saracchi",
+  "birth_date": "1998-04-23",
+  "country_id": 1657,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 127,
+  "potential_ability": 142,
+  "value": 6000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1569,
+    "expiration": "2026-06-30",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

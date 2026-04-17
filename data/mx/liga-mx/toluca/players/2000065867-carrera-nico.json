@@ -1,0 +1,29 @@
+{
+  "id": 2000065867,
+  "first_name": "Nico",
+  "last_name": "Carrera",
+  "birth_date": "2002-05-06",
+  "country_id": 390,
+  "club_id": 102355,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 125,
+  "value": 21000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 102356,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

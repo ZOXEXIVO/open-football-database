@@ -1,0 +1,31 @@
+{
+  "id": 2000514591,
+  "first_name": "Yakeen",
+  "last_name": "Muthelil",
+  "birth_date": "1999-06-18",
+  "country_id": 25,
+  "club_id": 5340910,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 67,
+  "value": 6000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

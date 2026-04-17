@@ -1,0 +1,31 @@
+{
+  "id": 2000480076,
+  "first_name": "Latif",
+  "last_name": "Ouédraogo",
+  "birth_date": "2007-10-23",
+  "country_id": 9,
+  "club_id": 1132,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 100,
+  "value": 41000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

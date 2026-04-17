@@ -1,0 +1,39 @@
+{
+  "id": 2000279620,
+  "first_name": "Sol",
+  "last_name": "Sidibé",
+  "birth_date": "2007-02-10",
+  "country_id": 765,
+  "club_id": 1028,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 135,
+  "value": 862000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

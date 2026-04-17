@@ -1,0 +1,29 @@
+{
+  "id": 2000300384,
+  "first_name": "Thomas",
+  "last_name": "Altomonte",
+  "birth_date": "2006-12-29",
+  "country_id": 776,
+  "club_id": 1123,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 81,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43040949,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

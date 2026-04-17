@@ -1,0 +1,29 @@
+{
+  "id": 43268698,
+  "first_name": "Frank",
+  "last_name": "Tsadjout",
+  "birth_date": "1999-07-28",
+  "country_id": 776,
+  "club_id": 1125,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 101,
+  "value": 452000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1158,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

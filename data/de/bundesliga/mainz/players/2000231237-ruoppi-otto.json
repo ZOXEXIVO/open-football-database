@@ -1,0 +1,33 @@
+{
+  "id": 2000231237,
+  "first_name": "Otto",
+  "last_name": "Ruoppi",
+  "birth_date": "2006-01-31",
+  "country_id": 768,
+  "club_id": 918,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 108,
+  "value": 299000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 818,
+    "expiration": "2026-06-30",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 58159027,
+  "first_name": "Daniil",
+  "last_name": "Odoevskiy",
+  "birth_date": "2003-01-22",
+  "country_id": 791,
+  "club_id": 1301108,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 125,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1301104,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

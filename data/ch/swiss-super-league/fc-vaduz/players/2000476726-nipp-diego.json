@@ -1,0 +1,29 @@
+{
+  "id": 2000476726,
+  "first_name": "Diego",
+  "last_name": "Nipp",
+  "birth_date": "2009-03-12",
+  "country_id": 778,
+  "club_id": 5622952,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 128,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5720002,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

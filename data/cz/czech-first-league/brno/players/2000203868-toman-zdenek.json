@@ -1,0 +1,29 @@
+{
+  "id": 2000203868,
+  "first_name": "Zdeněk",
+  "last_name": "Toman",
+  "birth_date": "2005-09-21",
+  "country_id": 763,
+  "club_id": 465,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 96,
+  "value": 92000,
+  "contract": {
+    "salary": 18356,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 136281,
+    "expiration": "2026-06-30",
+    "salary": 18356,
+    "wage_contribution_pct": 100
+  }
+}

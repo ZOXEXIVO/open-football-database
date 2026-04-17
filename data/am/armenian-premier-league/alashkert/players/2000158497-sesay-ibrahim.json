@@ -1,0 +1,29 @@
+{
+  "id": 2000158497,
+  "first_name": "Ibrahim",
+  "last_name": "Sesay",
+  "birth_date": "2004-10-18",
+  "country_id": 43,
+  "club_id": 59006806,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 105,
+  "value": 90000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000287056,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

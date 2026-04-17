@@ -1,0 +1,29 @@
+{
+  "id": 2000140797,
+  "first_name": "Camilo",
+  "last_name": "Viganoni",
+  "birth_date": "2003-12-10",
+  "country_id": 1649,
+  "club_id": 3100018,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 112,
+  "value": 2000000,
+  "contract": {
+    "salary": 11544,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 102495,
+    "expiration": "2026-12-31",
+    "salary": 11544,
+    "wage_contribution_pct": 100
+  }
+}

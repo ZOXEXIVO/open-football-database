@@ -1,0 +1,33 @@
+{
+  "id": 2000136731,
+  "first_name": "Lisandro",
+  "last_name": "Bajú",
+  "birth_date": "2005-07-18",
+  "country_id": 1649,
+  "club_id": 94,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 128,
+  "value": 397000,
+  "contract": {
+    "salary": 13468,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1926,
+    "expiration": "2026-12-31",
+    "salary": 13468,
+    "wage_contribution_pct": 100
+  }
+}

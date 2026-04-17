@@ -1,0 +1,33 @@
+{
+  "id": 14129708,
+  "first_name": "Leonardo",
+  "last_name": "Heredia",
+  "birth_date": "1996-01-11",
+  "country_id": 1649,
+  "club_id": 78,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 111,
+  "value": 4000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 92,
+    "expiration": "2026-12-31",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

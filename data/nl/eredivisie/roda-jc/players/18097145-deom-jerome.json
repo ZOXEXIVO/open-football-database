@@ -1,0 +1,27 @@
+{
+  "id": 18097145,
+  "first_name": "Jérôme",
+  "last_name": "Déom",
+  "birth_date": "1999-04-19",
+  "country_id": 757,
+  "club_id": 1033,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 80,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2000021030,
+  "first_name": "Tommaso",
+  "last_name": "Corazza",
+  "birth_date": "2004-06-29",
+  "country_id": 776,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 115,
+  "value": 2000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1120,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

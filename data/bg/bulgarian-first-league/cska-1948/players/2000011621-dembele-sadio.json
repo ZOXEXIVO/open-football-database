@@ -1,0 +1,29 @@
+{
+  "id": 2000011621,
+  "first_name": "Sadio",
+  "last_name": "Dembélé",
+  "birth_date": "2003-03-20",
+  "country_id": 769,
+  "club_id": 22070174,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 81,
+  "value": 32000,
+  "contract": {
+    "salary": 31928,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 352,
+    "expiration": "2026-06-15",
+    "salary": 31928,
+    "wage_contribution_pct": 100
+  }
+}

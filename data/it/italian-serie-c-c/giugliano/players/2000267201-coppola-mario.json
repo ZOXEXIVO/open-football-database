@@ -1,0 +1,29 @@
+{
+  "id": 2000267201,
+  "first_name": "Mario",
+  "last_name": "Coppola",
+  "birth_date": "2007-02-18",
+  "country_id": 776,
+  "club_id": 108986,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 75,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43157897,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000300645,
+  "first_name": "Petar",
+  "last_name": "Manojlović",
+  "birth_date": "2007-03-02",
+  "country_id": 802,
+  "club_id": 1955,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 111,
+  "value": 313000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 5740640,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

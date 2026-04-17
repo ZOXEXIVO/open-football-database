@@ -1,0 +1,27 @@
+{
+  "id": 2000496423,
+  "first_name": "Petr",
+  "last_name": "Mirvald",
+  "birth_date": "2002-10-16",
+  "country_id": 763,
+  "club_id": 463,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 101,
+  "value": 262000,
+  "contract": {
+    "salary": 36712,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000288682,
+  "first_name": "Rayan",
+  "last_name": "Mandengue",
+  "birth_date": "2006-01-06",
+  "country_id": 11,
+  "club_id": 824,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 119,
+  "value": 336000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 50034825,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

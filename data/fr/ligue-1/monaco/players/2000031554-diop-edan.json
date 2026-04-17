@@ -1,0 +1,29 @@
+{
+  "id": 2000031554,
+  "first_name": "Edan",
+  "last_name": "Diop",
+  "birth_date": "2004-08-28",
+  "country_id": 769,
+  "club_id": 826,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 135,
+  "value": 2000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 184,
+    "expiration": "2026-06-30",
+    "salary": 468000,
+    "wage_contribution_pct": 100
+  }
+}

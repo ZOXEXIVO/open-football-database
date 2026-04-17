@@ -1,0 +1,33 @@
+{
+  "id": 2000281256,
+  "first_name": "Šimon",
+  "last_name": "Černý",
+  "birth_date": "2006-07-23",
+  "country_id": 763,
+  "club_id": 463,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 102,
+  "value": 80000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 116156,
+    "expiration": "2026-06-20",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

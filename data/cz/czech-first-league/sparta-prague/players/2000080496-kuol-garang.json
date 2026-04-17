@@ -1,0 +1,27 @@
+{
+  "id": 2000080496,
+  "first_name": "Garang",
+  "last_name": "Kuol",
+  "birth_date": "2004-09-15",
+  "country_id": 1435,
+  "club_id": 476,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 131,
+  "value": 5000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000325378,
+  "first_name": "Juan",
+  "last_name": "Manuel Potes",
+  "birth_date": "2006-11-07",
+  "country_id": 1653,
+  "club_id": 337,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 120,
+  "value": 365000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-02-25",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

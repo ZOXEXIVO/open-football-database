@@ -1,0 +1,29 @@
+{
+  "id": 58154255,
+  "first_name": "Maxim",
+  "last_name": "Turischev",
+  "birth_date": "2002-03-05",
+  "country_id": 791,
+  "club_id": 1301104,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 107,
+  "value": 273000,
+  "contract": {
+    "salary": 5460,
+    "expiration": "2026-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130496,
+    "expiration": "2026-06-10",
+    "salary": 5460,
+    "wage_contribution_pct": 100
+  }
+}

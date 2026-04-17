@@ -1,0 +1,37 @@
+{
+  "id": 23410546,
+  "first_name": "Poramet",
+  "last_name": "Arjvirai",
+  "birth_date": "1998-07-20",
+  "country_id": 140,
+  "club_id": 23078012,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 91,
+  "value": 615000,
+  "contract": {
+    "salary": 8164,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1188,
+    "expiration": "2026-06-30",
+    "salary": 8164,
+    "wage_contribution_pct": 100
+  }
+}

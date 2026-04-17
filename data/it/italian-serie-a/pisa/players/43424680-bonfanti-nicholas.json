@@ -1,0 +1,29 @@
+{
+  "id": 43424680,
+  "first_name": "Nicholas",
+  "last_name": "Bonfanti",
+  "birth_date": "2002-03-28",
+  "country_id": 776,
+  "club_id": 2215,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 100,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 700198,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

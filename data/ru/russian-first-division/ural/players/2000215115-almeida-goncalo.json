@@ -1,0 +1,33 @@
+{
+  "id": 2000215115,
+  "first_name": "Gonçalo",
+  "last_name": "Almeida",
+  "birth_date": "2003-05-06",
+  "country_id": 788,
+  "club_id": 1533,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 89,
+  "value": 134000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 102,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

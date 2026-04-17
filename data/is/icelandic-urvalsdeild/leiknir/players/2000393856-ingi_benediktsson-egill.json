@@ -1,0 +1,32 @@
+{
+  "id": 2000393856,
+  "first_name": "Egill",
+  "last_name": "Ingi Benediktsson",
+  "birth_date": "2008-05-30",
+  "country_id": 774,
+  "club_id": 7840114,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 82,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-11-16",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 39056792,
+    "expiration": "2027-11-16",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

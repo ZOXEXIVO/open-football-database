@@ -1,0 +1,31 @@
+{
+  "id": 91199490,
+  "first_name": "Joey",
+  "last_name": "Müller",
+  "birth_date": "2000-08-30",
+  "country_id": 771,
+  "club_id": 1033,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 86,
+  "value": 580000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000080986,
+  "first_name": "Raúl",
+  "last_name": "Martínez",
+  "birth_date": "2003-03-05",
+  "country_id": 379,
+  "club_id": 1255,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 123,
+  "value": 500000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1258,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

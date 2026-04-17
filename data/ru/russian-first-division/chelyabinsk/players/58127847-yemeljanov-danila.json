@@ -1,0 +1,33 @@
+{
+  "id": 58127847,
+  "first_name": "Danila",
+  "last_name": "Yemeljanov",
+  "birth_date": "2000-01-23",
+  "country_id": 791,
+  "club_id": 58044880,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 71,
+  "value": 141000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 58148228,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

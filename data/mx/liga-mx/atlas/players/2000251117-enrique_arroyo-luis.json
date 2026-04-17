@@ -1,0 +1,35 @@
+{
+  "id": 2000251117,
+  "first_name": "Luis",
+  "last_name": "Enrique Arroyo",
+  "birth_date": "2004-12-01",
+  "country_id": 1653,
+  "club_id": 106027,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 93,
+  "value": 1000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

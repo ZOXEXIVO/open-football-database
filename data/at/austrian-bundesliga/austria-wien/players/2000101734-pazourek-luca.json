@@ -1,0 +1,33 @@
+{
+  "id": 2000101734,
+  "first_name": "Luca",
+  "last_name": "Pazourek",
+  "birth_date": "2005-02-04",
+  "country_id": 755,
+  "club_id": 152,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 113,
+  "value": 2000000,
+  "contract": {
+    "salary": 35152,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 137959,
+    "expiration": "2027-06-30",
+    "salary": 35152,
+    "wage_contribution_pct": 100
+  }
+}

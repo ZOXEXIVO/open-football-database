@@ -1,0 +1,27 @@
+{
+  "id": 2000444741,
+  "first_name": "Hugo",
+  "last_name": "Voskamp",
+  "birth_date": "2006-12-28",
+  "country_id": 784,
+  "club_id": 1033,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 89,
+  "value": 130000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

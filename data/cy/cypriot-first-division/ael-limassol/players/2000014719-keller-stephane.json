@@ -1,0 +1,29 @@
+{
+  "id": 2000014719,
+  "first_name": "Stephane",
+  "last_name": "Keller",
+  "birth_date": "2001-08-20",
+  "country_id": 11,
+  "club_id": 449,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 376000,
+  "contract": {
+    "salary": 31408,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 106063,
+    "expiration": "2026-06-30",
+    "salary": 31408,
+    "wage_contribution_pct": 100
+  }
+}

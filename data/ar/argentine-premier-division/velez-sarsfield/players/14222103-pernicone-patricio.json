@@ -1,0 +1,33 @@
+{
+  "id": 14222103,
+  "first_name": "Patricio",
+  "last_name": "Pernicone",
+  "birth_date": "2001-07-04",
+  "country_id": 1649,
+  "club_id": 98,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 113,
+  "value": 89000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130848,
+    "expiration": "2026-12-31",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

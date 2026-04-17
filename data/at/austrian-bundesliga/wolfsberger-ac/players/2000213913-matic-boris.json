@@ -1,0 +1,31 @@
+{
+  "id": 2000213913,
+  "first_name": "Boris",
+  "last_name": "Matić",
+  "birth_date": "2004-08-19",
+  "country_id": 802,
+  "club_id": 16034828,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 100,
+  "value": 4000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

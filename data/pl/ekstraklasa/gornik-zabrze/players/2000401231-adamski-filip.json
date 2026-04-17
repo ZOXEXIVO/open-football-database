@@ -1,0 +1,27 @@
+{
+  "id": 2000401231,
+  "first_name": "Filip",
+  "last_name": "Adamski",
+  "birth_date": "2007-05-21",
+  "country_id": 787,
+  "club_id": 1452,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 96,
+  "value": 28000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

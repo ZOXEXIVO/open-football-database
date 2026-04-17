@@ -1,0 +1,27 @@
+{
+  "id": 2000257921,
+  "first_name": "Karim",
+  "last_name": "Coulibaly",
+  "birth_date": "2007-05-23",
+  "country_id": 771,
+  "club_id": 948,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 135,
+  "value": 5000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

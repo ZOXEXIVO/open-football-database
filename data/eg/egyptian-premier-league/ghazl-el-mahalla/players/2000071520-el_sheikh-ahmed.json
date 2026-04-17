@@ -1,0 +1,37 @@
+{
+  "id": 2000071520,
+  "first_name": "Ahmed",
+  "last_name": "El Sheikh",
+  "birth_date": "1990-06-12",
+  "country_id": 16,
+  "club_id": 616875,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 78,
+  "value": 42000,
+  "contract": {
+    "salary": 44304,
+    "expiration": "2027-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5370007,
+    "expiration": "2026-06-30",
+    "salary": 44304,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000265963,
+  "first_name": "Adam",
+  "last_name": "Sosna",
+  "birth_date": "2007-01-18",
+  "country_id": 763,
+  "club_id": 1139,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 143,
+  "value": 70000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1164,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

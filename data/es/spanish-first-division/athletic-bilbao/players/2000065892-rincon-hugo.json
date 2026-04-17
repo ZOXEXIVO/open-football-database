@@ -1,0 +1,33 @@
+{
+  "id": 2000065892,
+  "first_name": "Hugo",
+  "last_name": "Rincón",
+  "birth_date": "2003-01-27",
+  "country_id": 796,
+  "club_id": 1664,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 139,
+  "value": 43000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 814089,
+    "expiration": "2026-06-30",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

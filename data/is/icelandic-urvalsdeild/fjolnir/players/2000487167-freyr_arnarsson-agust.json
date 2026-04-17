@@ -1,0 +1,29 @@
+{
+  "id": 2000487167,
+  "first_name": "Ágúst",
+  "last_name": "Freyr Arnarsson",
+  "birth_date": "2008-06-17",
+  "country_id": 774,
+  "club_id": 7841979,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 53,
+  "potential_ability": 98,
+  "value": 1000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056746,
+    "expiration": "2038-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

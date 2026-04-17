@@ -1,0 +1,35 @@
+{
+  "id": 31040477,
+  "first_name": "Viktor",
+  "last_name": "Popov",
+  "birth_date": "2000-03-06",
+  "country_id": 760,
+  "club_id": 129577,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 89,
+  "value": 751000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

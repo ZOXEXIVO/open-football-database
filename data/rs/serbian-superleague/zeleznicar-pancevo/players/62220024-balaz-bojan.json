@@ -1,0 +1,33 @@
+{
+  "id": 62220024,
+  "first_name": "Bojan",
+  "last_name": "Balaž",
+  "birth_date": "2001-01-05",
+  "country_id": 802,
+  "club_id": 62159794,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 74,
+  "value": 129000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 120783,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

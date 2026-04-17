@@ -1,0 +1,27 @@
+{
+  "id": 2000257454,
+  "first_name": "Joseph",
+  "last_name": "Odhiambo",
+  "birth_date": "2002-08-18",
+  "country_id": 25,
+  "club_id": 5340913,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 77,
+  "value": 49000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2032-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

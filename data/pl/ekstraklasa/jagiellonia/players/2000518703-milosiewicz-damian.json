@@ -1,0 +1,29 @@
+{
+  "id": 2000518703,
+  "first_name": "Damian",
+  "last_name": "Miłosiewicz",
+  "birth_date": "2008-06-03",
+  "country_id": 787,
+  "club_id": 710052,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 97,
+  "value": 28000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000522039,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000095202,
+  "first_name": "Aron",
+  "last_name": "Örn Hákonarson",
+  "birth_date": "2004-01-20",
+  "country_id": 774,
+  "club_id": 1073,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 77,
+  "value": 11000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-10-16",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 7840113,
+    "expiration": "2025-10-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

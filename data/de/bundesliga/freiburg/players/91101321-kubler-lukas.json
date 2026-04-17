@@ -1,0 +1,31 @@
+{
+  "id": 91101321,
+  "first_name": "Lukas",
+  "last_name": "Kübler",
+  "birth_date": "1992-08-30",
+  "country_id": 771,
+  "club_id": 944,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 116,
+  "value": 2000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

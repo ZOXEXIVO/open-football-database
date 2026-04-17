@@ -1,0 +1,35 @@
+{
+  "id": 16195163,
+  "first_name": "Marco",
+  "last_name": "Grüll",
+  "birth_date": "1998-07-06",
+  "country_id": 755,
+  "club_id": 948,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 117,
+  "value": 5000000,
+  "contract": {
+    "salary": 1092000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

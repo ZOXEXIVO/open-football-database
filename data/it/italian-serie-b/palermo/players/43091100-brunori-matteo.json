@@ -1,0 +1,29 @@
+{
+  "id": 43091100,
+  "first_name": "Matteo",
+  "last_name": "Brunori",
+  "birth_date": "1994-11-01",
+  "country_id": 776,
+  "club_id": 2194,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 114,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1167,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

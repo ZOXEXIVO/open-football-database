@@ -1,0 +1,29 @@
+{
+  "id": 79031724,
+  "first_name": "Alexis",
+  "last_name": "Duarte",
+  "birth_date": "2000-03-12",
+  "country_id": 1655,
+  "club_id": 335,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 127,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-09-14",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5280161,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

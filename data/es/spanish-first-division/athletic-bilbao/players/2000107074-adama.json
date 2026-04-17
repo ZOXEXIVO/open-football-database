@@ -1,0 +1,31 @@
+{
+  "id": 2000107074,
+  "first_name": "Adama",
+  "last_name": "",
+  "birth_date": "2002-06-22",
+  "country_id": 41,
+  "club_id": 1664,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 119,
+  "value": 364000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

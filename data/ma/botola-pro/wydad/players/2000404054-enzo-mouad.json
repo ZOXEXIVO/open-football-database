@@ -1,0 +1,33 @@
+{
+  "id": 2000404054,
+  "first_name": "Mouad",
+  "last_name": "Enzo",
+  "birth_date": "2001-05-21",
+  "country_id": 34,
+  "club_id": 1201001,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 101,
+  "value": 13000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5380018,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

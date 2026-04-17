@@ -1,0 +1,27 @@
+{
+  "id": 2000439080,
+  "first_name": "Marco",
+  "last_name": "Rivas",
+  "birth_date": "2008-05-15",
+  "country_id": 1656,
+  "club_id": 3100018,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 131,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

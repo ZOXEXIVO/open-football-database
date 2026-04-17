@@ -1,0 +1,33 @@
+{
+  "id": 2000474186,
+  "first_name": "Caio",
+  "last_name": "Henrique",
+  "birth_date": "2005-01-12",
+  "country_id": 1651,
+  "club_id": 19227768,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 111,
+  "value": 4000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 59006806,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

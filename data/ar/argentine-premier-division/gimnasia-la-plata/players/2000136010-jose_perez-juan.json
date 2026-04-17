@@ -1,0 +1,37 @@
+{
+  "id": 2000136010,
+  "first_name": "Juan",
+  "last_name": "José Pérez",
+  "birth_date": "2004-07-25",
+  "country_id": 1653,
+  "club_id": 5270424,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 100,
+  "value": 435000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 87,
+    "expiration": "2026-12-31",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

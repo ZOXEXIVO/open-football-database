@@ -1,0 +1,33 @@
+{
+  "id": 2000427051,
+  "first_name": "Kyle",
+  "last_name": "Debono",
+  "birth_date": "2004-12-14",
+  "country_id": 782,
+  "club_id": 1244,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 77,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  },
+  "loan": {
+    "to_club_id": 1300786,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

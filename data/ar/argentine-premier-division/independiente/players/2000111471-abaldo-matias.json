@@ -1,0 +1,41 @@
+{
+  "id": 2000111471,
+  "first_name": "Matías",
+  "last_name": "Abaldo",
+  "birth_date": "2004-04-03",
+  "country_id": 1657,
+  "club_id": 1919,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 98,
+  "potential_ability": 108,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 89,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

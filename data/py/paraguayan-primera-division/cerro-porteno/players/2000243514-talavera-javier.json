@@ -1,0 +1,29 @@
+{
+  "id": 2000243514,
+  "first_name": "Javier",
+  "last_name": "Talavera",
+  "birth_date": "2003-08-07",
+  "country_id": 1655,
+  "club_id": 1445,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 101,
+  "value": 264000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5280215,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

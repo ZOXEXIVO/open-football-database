@@ -1,0 +1,27 @@
+{
+  "id": 2000232135,
+  "first_name": "Mathew",
+  "last_name": "Samuel",
+  "birth_date": "2004-02-05",
+  "country_id": 38,
+  "club_id": 2000378388,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 92,
+  "value": 141000,
+  "contract": {
+    "salary": 936,
+    "expiration": "2026-08-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

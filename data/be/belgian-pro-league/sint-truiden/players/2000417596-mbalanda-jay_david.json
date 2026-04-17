@@ -1,0 +1,33 @@
+{
+  "id": 2000417596,
+  "first_name": "Jay-David",
+  "last_name": "Mbalanda",
+  "birth_date": "2007-05-03",
+  "country_id": 757,
+  "club_id": 278,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 93,
+  "value": 79000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 536240,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

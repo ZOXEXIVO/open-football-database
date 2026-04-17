@@ -1,0 +1,31 @@
+{
+  "id": 2000504798,
+  "first_name": "Felix",
+  "last_name": "Otieno",
+  "birth_date": "1998-11-12",
+  "country_id": 25,
+  "club_id": 5340915,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 65,
+  "value": 12000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

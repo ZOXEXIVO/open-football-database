@@ -1,0 +1,31 @@
+{
+  "id": 2000330436,
+  "first_name": "Viggo",
+  "last_name": "Gebel",
+  "birth_date": "2007-11-22",
+  "country_id": 771,
+  "club_id": 91013388,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 150,
+  "value": 480000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

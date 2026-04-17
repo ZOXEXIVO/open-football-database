@@ -1,0 +1,33 @@
+{
+  "id": 79028267,
+  "first_name": "Derlis",
+  "last_name": "Rodríguez",
+  "birth_date": "1997-09-18",
+  "country_id": 1655,
+  "club_id": 1445,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 99,
+  "value": 179000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 106071,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

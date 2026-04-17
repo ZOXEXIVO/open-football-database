@@ -1,0 +1,29 @@
+{
+  "id": 2000492392,
+  "first_name": "Guðmundur",
+  "last_name": "Ernir Brynjarsson",
+  "birth_date": "2008-06-16",
+  "country_id": 774,
+  "club_id": 1300641,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 85,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056767,
+    "expiration": "2027-11-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

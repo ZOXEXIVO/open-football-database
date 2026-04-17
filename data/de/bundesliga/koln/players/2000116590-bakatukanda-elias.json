@@ -1,0 +1,33 @@
+{
+  "id": 2000116590,
+  "first_name": "Elias",
+  "last_name": "Bakatukanda",
+  "birth_date": "2004-04-13",
+  "country_id": 771,
+  "club_id": 916,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 122,
+  "value": 2000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 137962,
+    "expiration": "2026-06-30",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

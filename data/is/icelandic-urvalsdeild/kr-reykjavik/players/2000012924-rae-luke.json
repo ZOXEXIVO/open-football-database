@@ -1,0 +1,31 @@
+{
+  "id": 2000012924,
+  "first_name": "Luke",
+  "last_name": "Rae",
+  "birth_date": "2000-12-27",
+  "country_id": 765,
+  "club_id": 1076,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 79,
+  "value": 71000,
+  "contract": {
+    "salary": 48568,
+    "expiration": "2027-10-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

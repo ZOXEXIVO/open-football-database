@@ -1,0 +1,31 @@
+{
+  "id": 2000125426,
+  "first_name": "Luis",
+  "last_name": "Palacios",
+  "birth_date": "2004-10-04",
+  "country_id": 1653,
+  "club_id": 5261737,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 86,
+  "value": 270000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

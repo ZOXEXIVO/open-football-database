@@ -1,0 +1,29 @@
+{
+  "id": 2000368788,
+  "first_name": "Jeremy",
+  "last_name": "Kandje Mbambi",
+  "birth_date": "2008-05-04",
+  "country_id": 757,
+  "club_id": 2215,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 126,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2216,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

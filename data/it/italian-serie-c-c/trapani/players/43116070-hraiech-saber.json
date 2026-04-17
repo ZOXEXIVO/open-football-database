@@ -1,0 +1,29 @@
+{
+  "id": 43116070,
+  "first_name": "Saber",
+  "last_name": "Hraiech",
+  "birth_date": "1995-07-30",
+  "country_id": 51,
+  "club_id": 1175,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 93,
+  "value": 171000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 108985,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

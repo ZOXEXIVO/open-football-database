@@ -1,0 +1,33 @@
+{
+  "id": 14217162,
+  "first_name": "Agustín",
+  "last_name": "Quiroga",
+  "birth_date": "2002-04-06",
+  "country_id": 1649,
+  "club_id": 89,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 115,
+  "value": 340000,
+  "contract": {
+    "salary": 36868,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 14018428,
+    "expiration": "2026-12-31",
+    "salary": 36868,
+    "wage_contribution_pct": 100
+  }
+}

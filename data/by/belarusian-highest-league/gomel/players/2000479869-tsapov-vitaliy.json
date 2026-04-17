@@ -1,0 +1,29 @@
+{
+  "id": 2000479869,
+  "first_name": "Vitaliy",
+  "last_name": "Tsapov",
+  "birth_date": "2006-08-10",
+  "country_id": 758,
+  "club_id": 5410568,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 65,
+  "value": 9000,
+  "contract": {
+    "salary": 1092,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000387457,
+    "expiration": "2025-12-31",
+    "salary": 1092,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 19259600,
+  "first_name": "Arthur",
+  "last_name": "",
+  "birth_date": "1996-08-12",
+  "country_id": 1651,
+  "club_id": 1139,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 144,
+  "value": 11000000,
+  "contract": {
+    "salary": 4992000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 324,
+    "expiration": "2026-06-30",
+    "salary": 4992000,
+    "wage_contribution_pct": 100
+  }
+}

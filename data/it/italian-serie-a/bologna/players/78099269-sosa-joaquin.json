@@ -1,0 +1,29 @@
+{
+  "id": 78099269,
+  "first_name": "Joaquín",
+  "last_name": "Sosa",
+  "birth_date": "2002-01-10",
+  "country_id": 1657,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 104,
+  "value": 345000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 399,
+    "expiration": "2026-12-31",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

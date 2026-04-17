@@ -1,0 +1,29 @@
+{
+  "id": 28108492,
+  "first_name": "Arijanet",
+  "last_name": "Murić",
+  "birth_date": "1998-11-07",
+  "country_id": 802,
+  "club_id": 667,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 108,
+  "value": 20000000,
+  "contract": {
+    "salary": 1560000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3800256,
+    "expiration": "2026-06-30",
+    "salary": 1560000,
+    "wage_contribution_pct": 100
+  }
+}

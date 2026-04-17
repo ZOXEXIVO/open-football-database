@@ -1,0 +1,31 @@
+{
+  "id": 12086162,
+  "first_name": "Peter",
+  "last_name": "Thiong'o",
+  "birth_date": "1999-10-03",
+  "country_id": 25,
+  "club_id": 13137121,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 73,
+  "value": 130000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

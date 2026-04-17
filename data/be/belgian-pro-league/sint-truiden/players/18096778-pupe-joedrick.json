@@ -1,0 +1,33 @@
+{
+  "id": 18096778,
+  "first_name": "Joedrick",
+  "last_name": "Pupe",
+  "birth_date": "1997-06-04",
+  "country_id": 757,
+  "club_id": 4400014,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 90,
+  "value": 1000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 278,
+    "expiration": "2029-06-30",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

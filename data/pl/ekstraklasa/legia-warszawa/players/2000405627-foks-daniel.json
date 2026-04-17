@@ -1,0 +1,27 @@
+{
+  "id": 2000405627,
+  "first_name": "Daniel",
+  "last_name": "Foks",
+  "birth_date": "2008-07-29",
+  "country_id": 787,
+  "club_id": 1456,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 103,
+  "value": 5000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

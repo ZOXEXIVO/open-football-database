@@ -1,0 +1,29 @@
+{
+  "id": 2000154462,
+  "first_name": "Mirsad",
+  "last_name": "Bašić",
+  "birth_date": "2005-05-15",
+  "country_id": 797,
+  "club_id": 1073,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 80,
+  "value": 26000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39060552,
+    "expiration": "2035-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

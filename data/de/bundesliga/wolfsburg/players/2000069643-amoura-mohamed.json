@@ -1,0 +1,27 @@
+{
+  "id": 2000069643,
+  "first_name": "Mohamed",
+  "last_name": "Amoura",
+  "birth_date": "2000-05-09",
+  "country_id": 5,
+  "club_id": 961,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 124,
+  "value": 25000000,
+  "contract": {
+    "salary": 1716000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

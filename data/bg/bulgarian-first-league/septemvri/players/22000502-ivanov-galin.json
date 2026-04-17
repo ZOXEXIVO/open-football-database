@@ -1,0 +1,31 @@
+{
+  "id": 22000502,
+  "first_name": "Galin",
+  "last_name": "Ivanov",
+  "birth_date": "1988-04-15",
+  "country_id": 760,
+  "club_id": 116384,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 91,
+  "value": 31000,
+  "contract": {
+    "salary": 35724,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

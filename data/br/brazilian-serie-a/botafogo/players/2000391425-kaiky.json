@@ -1,0 +1,29 @@
+{
+  "id": 2000391425,
+  "first_name": "Kaiky",
+  "last_name": "",
+  "birth_date": "2006-02-28",
+  "country_id": 1651,
+  "club_id": 316,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 112,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-08-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000210017,
+    "expiration": "2026-08-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

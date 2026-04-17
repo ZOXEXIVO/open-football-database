@@ -1,0 +1,27 @@
+{
+  "id": 2000063086,
+  "first_name": "Kazuki",
+  "last_name": "Fujimoto",
+  "birth_date": "1998-07-29",
+  "country_id": 116,
+  "club_id": 1183,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 105,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

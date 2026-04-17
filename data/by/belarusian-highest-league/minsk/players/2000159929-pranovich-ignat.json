@@ -1,0 +1,33 @@
+{
+  "id": 2000159929,
+  "first_name": "Ignat",
+  "last_name": "Pranovich",
+  "birth_date": "2003-05-02",
+  "country_id": 758,
+  "club_id": 17000059,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 78,
+  "value": 23000,
+  "contract": {
+    "salary": 6916,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300134,
+    "expiration": "2026-12-30",
+    "salary": 6916,
+    "wage_contribution_pct": 100
+  }
+}

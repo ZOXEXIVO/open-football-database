@@ -1,0 +1,33 @@
+{
+  "id": 2000243494,
+  "first_name": "Martín",
+  "last_name": "Lazarte",
+  "birth_date": "2005-09-19",
+  "country_id": 1649,
+  "club_id": 80,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 100,
+  "value": 269000,
+  "contract": {
+    "salary": 9620,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 102957,
+    "expiration": "2026-12-31",
+    "salary": 9620,
+    "wage_contribution_pct": 100
+  }
+}

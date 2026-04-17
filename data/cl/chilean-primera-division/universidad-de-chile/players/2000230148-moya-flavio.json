@@ -1,0 +1,29 @@
+{
+  "id": 2000230148,
+  "first_name": "Flavio",
+  "last_name": "Moya",
+  "birth_date": "2005-12-30",
+  "country_id": 1652,
+  "club_id": 404,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 133,
+  "value": 458000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 75034130,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 43424868,
+  "first_name": "Riccardo",
+  "last_name": "Ciervo",
+  "birth_date": "2002-04-01",
+  "country_id": 776,
+  "club_id": 3800256,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 124,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1120,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

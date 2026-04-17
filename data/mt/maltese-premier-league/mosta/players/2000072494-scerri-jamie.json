@@ -1,0 +1,33 @@
+{
+  "id": 2000072494,
+  "first_name": "Jamie",
+  "last_name": "Scerri",
+  "birth_date": "2004-02-02",
+  "country_id": 782,
+  "club_id": 133179,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 51,
+  "potential_ability": 70,
+  "value": 22000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-05-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 47022111,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

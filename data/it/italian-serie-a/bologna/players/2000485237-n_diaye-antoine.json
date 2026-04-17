@@ -1,0 +1,27 @@
+{
+  "id": 2000485237,
+  "first_name": "Antoine",
+  "last_name": "N'Diaye",
+  "birth_date": "2006-04-07",
+  "country_id": 364,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 113,
+  "value": 70000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000106583,
+  "first_name": "Ivan",
+  "last_name": "Chernykh",
+  "birth_date": "2004-01-19",
+  "country_id": 758,
+  "club_id": 130875,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 91,
+  "value": 28000,
+  "contract": {
+    "salary": 5772,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

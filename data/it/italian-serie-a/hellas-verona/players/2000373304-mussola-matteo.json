@@ -1,0 +1,27 @@
+{
+  "id": 2000373304,
+  "first_name": "Matteo",
+  "last_name": "Mussola",
+  "birth_date": "2007-12-31",
+  "country_id": 776,
+  "club_id": 2201,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 123,
+  "value": 169000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

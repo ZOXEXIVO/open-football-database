@@ -1,0 +1,27 @@
+{
+  "id": 2000075300,
+  "first_name": "Adrian",
+  "last_name": "Caragea",
+  "birth_date": "2005-09-07",
+  "country_id": 790,
+  "club_id": 1500,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 104,
+  "value": 294000,
+  "contract": {
+    "salary": 40404,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

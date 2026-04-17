@@ -1,0 +1,33 @@
+{
+  "id": 19319658,
+  "first_name": "Léo",
+  "last_name": "Ceará",
+  "birth_date": "1999-03-05",
+  "country_id": 1651,
+  "club_id": 19145268,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 85,
+  "value": 30000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 311028,
+    "expiration": "2026-05-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

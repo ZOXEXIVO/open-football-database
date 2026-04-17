@@ -1,0 +1,31 @@
+{
+  "id": 14240402,
+  "first_name": "Adrián",
+  "last_name": "Fernández",
+  "birth_date": "2001-05-20",
+  "country_id": 1649,
+  "club_id": 93,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 117,
+  "value": 889000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

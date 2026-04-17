@@ -1,0 +1,39 @@
+{
+  "id": 19303820,
+  "first_name": "Lucas",
+  "last_name": "Rosa",
+  "birth_date": "2000-04-03",
+  "country_id": 1651,
+  "club_id": 992,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "current_ability": 128,
+  "potential_ability": 135,
+  "value": 5000000,
+  "contract": {
+    "salary": 676000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

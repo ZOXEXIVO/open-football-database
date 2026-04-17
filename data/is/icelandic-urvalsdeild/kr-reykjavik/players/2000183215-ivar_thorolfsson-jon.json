@@ -1,0 +1,33 @@
+{
+  "id": 2000183215,
+  "first_name": "Jón",
+  "last_name": "Ívar Þórólfsson",
+  "birth_date": "2006-02-19",
+  "country_id": 774,
+  "club_id": 1076,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 88,
+  "value": 3000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056755,
+    "expiration": "2036-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

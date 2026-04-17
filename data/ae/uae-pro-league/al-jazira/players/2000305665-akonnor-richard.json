@@ -1,0 +1,31 @@
+{
+  "id": 2000305665,
+  "first_name": "Richard",
+  "last_name": "Akonnor",
+  "birth_date": "2004-02-06",
+  "country_id": 143,
+  "club_id": 135450,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 111,
+  "value": 5000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

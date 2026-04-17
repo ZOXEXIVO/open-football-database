@@ -1,0 +1,33 @@
+{
+  "id": 2000129277,
+  "first_name": "Agustín",
+  "last_name": "Alonso",
+  "birth_date": "2001-01-23",
+  "country_id": 1649,
+  "club_id": 92,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 100,
+  "value": 233000,
+  "contract": {
+    "salary": 18408,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 108574,
+    "expiration": "2026-12-31",
+    "salary": 18408,
+    "wage_contribution_pct": 100
+  }
+}

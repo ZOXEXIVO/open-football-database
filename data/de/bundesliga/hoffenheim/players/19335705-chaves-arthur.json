@@ -1,0 +1,33 @@
+{
+  "id": 19335705,
+  "first_name": "Arthur",
+  "last_name": "Chaves",
+  "birth_date": "2001-01-29",
+  "country_id": 1651,
+  "club_id": 879226,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 123,
+  "value": 4000000,
+  "contract": {
+    "salary": 1560000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2238,
+    "expiration": "2026-06-30",
+    "salary": 1560000,
+    "wage_contribution_pct": 100
+  }
+}

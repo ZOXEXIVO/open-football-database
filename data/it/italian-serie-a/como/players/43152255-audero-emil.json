@@ -1,0 +1,29 @@
+{
+  "id": 43152255,
+  "first_name": "Emil",
+  "last_name": "Audero",
+  "birth_date": "1997-01-18",
+  "country_id": 113,
+  "club_id": 1123,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 105,
+  "value": 3000000,
+  "contract": {
+    "salary": 1456000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1125,
+    "expiration": "2026-06-30",
+    "salary": 1456000,
+    "wage_contribution_pct": 100
+  }
+}

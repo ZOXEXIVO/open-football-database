@@ -1,0 +1,29 @@
+{
+  "id": 2000120815,
+  "first_name": "Ante",
+  "last_name": "Vuković",
+  "birth_date": "2004-08-10",
+  "country_id": 761,
+  "club_id": 2215,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 121,
+  "value": 5000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 700198,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

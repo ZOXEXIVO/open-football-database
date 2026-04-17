@@ -1,0 +1,29 @@
+{
+  "id": 2000111919,
+  "first_name": "Jakub",
+  "last_name": "Jasionek",
+  "birth_date": "2004-07-02",
+  "country_id": 787,
+  "club_id": 710052,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 109,
+  "value": 33000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 2000255824,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

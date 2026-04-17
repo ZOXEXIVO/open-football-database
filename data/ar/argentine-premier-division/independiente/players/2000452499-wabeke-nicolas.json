@@ -1,0 +1,29 @@
+{
+  "id": 2000452499,
+  "first_name": "Nicolás",
+  "last_name": "Wabeke",
+  "birth_date": "2008-07-17",
+  "country_id": 1649,
+  "club_id": 102472,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 94,
+  "value": 92000,
+  "contract": {
+    "salary": 9620,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 89,
+    "expiration": "2026-12-31",
+    "salary": 9620,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000489285,
+  "first_name": "Nikola",
+  "last_name": "Ninković",
+  "birth_date": "2006-12-26",
+  "country_id": 802,
+  "club_id": 1957,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 90,
+  "value": 330000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 5741309,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

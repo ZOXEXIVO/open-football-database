@@ -1,0 +1,37 @@
+{
+  "id": 77059148,
+  "first_name": "Christian",
+  "last_name": "Neira",
+  "birth_date": "2000-11-24",
+  "country_id": 1656,
+  "club_id": 117754,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 95,
+  "value": 78000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5290560,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

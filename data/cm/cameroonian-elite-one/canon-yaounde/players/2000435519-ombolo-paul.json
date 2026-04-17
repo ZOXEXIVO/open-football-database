@@ -1,0 +1,27 @@
+{
+  "id": 2000435519,
+  "first_name": "Paul",
+  "last_name": "Ombolo",
+  "birth_date": "2006-04-14",
+  "country_id": 11,
+  "club_id": 393,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 89,
+  "value": 11000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

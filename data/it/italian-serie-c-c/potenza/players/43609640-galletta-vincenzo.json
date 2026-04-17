@@ -1,0 +1,41 @@
+{
+  "id": 43609640,
+  "first_name": "Vincenzo",
+  "last_name": "Galletta",
+  "birth_date": "2003-08-25",
+  "country_id": 776,
+  "club_id": 43204872,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 84,
+  "value": 72000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1101,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

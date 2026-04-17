@@ -1,0 +1,33 @@
+{
+  "id": 2000266880,
+  "first_name": "Noel",
+  "last_name": "Nigg",
+  "birth_date": "2007-02-02",
+  "country_id": 778,
+  "club_id": 1208,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 92,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5720002,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

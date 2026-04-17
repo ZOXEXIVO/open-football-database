@@ -1,0 +1,27 @@
+{
+  "id": 2000151565,
+  "first_name": "Charles",
+  "last_name": "Bassey",
+  "birth_date": "2005-01-19",
+  "country_id": 38,
+  "club_id": 5370001,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 109,
+  "value": 123000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

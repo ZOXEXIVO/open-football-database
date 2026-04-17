@@ -1,0 +1,31 @@
+{
+  "id": 2000217532,
+  "first_name": "Lucky",
+  "last_name": "Emmanuel",
+  "birth_date": "2000-12-15",
+  "country_id": 38,
+  "club_id": 120286,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 75,
+  "value": 90000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

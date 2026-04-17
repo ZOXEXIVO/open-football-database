@@ -1,0 +1,27 @@
+{
+  "id": 2000104328,
+  "first_name": "Aziz",
+  "last_name": "Abid",
+  "birth_date": "2003-04-03",
+  "country_id": 51,
+  "club_id": 616875,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 97,
+  "value": 94000,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

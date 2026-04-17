@@ -1,0 +1,31 @@
+{
+  "id": 75044466,
+  "first_name": "Matías",
+  "last_name": "Sepúlveda",
+  "birth_date": "1999-03-13",
+  "country_id": 1652,
+  "club_id": 90,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 116,
+  "value": 624000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

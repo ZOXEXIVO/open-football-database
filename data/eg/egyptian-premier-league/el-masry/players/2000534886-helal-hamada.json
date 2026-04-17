@@ -1,0 +1,28 @@
+{
+  "id": 2000534886,
+  "first_name": "Hamada",
+  "last_name": "Helal",
+  "birth_date": "2003-11-11",
+  "country_id": 16,
+  "club_id": 5370006,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 103,
+  "value": 95000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 2000533556,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

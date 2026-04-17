@@ -1,0 +1,28 @@
+{
+  "id": 2000500649,
+  "first_name": "Deniss",
+  "last_name": "Denisovs",
+  "birth_date": "2009-02-26",
+  "country_id": 777,
+  "club_id": 2000208248,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 123,
+  "value": 11000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 1123,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

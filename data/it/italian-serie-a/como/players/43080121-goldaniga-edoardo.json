@@ -1,0 +1,27 @@
+{
+  "id": 43080121,
+  "first_name": "Edoardo",
+  "last_name": "Goldaniga",
+  "birth_date": "1993-11-02",
+  "country_id": 776,
+  "club_id": 1123,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 103,
+  "value": 3000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

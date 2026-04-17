@@ -1,0 +1,37 @@
+{
+  "id": 2000193453,
+  "first_name": "Adam",
+  "last_name": "Pieniądz",
+  "birth_date": "2006-05-24",
+  "country_id": 787,
+  "club_id": 1300881,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 96,
+  "value": 45000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 96028369,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

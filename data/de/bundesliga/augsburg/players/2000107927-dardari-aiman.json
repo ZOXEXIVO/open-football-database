@@ -1,0 +1,37 @@
+{
+  "id": 2000107927,
+  "first_name": "Aiman",
+  "last_name": "Dardari",
+  "birth_date": "2005-03-21",
+  "country_id": 780,
+  "club_id": 2238,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 117,
+  "value": 1000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2253,
+    "expiration": "2026-06-30",
+    "salary": 312000,
+    "wage_contribution_pct": 100
+  }
+}

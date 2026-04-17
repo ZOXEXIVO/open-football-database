@@ -1,0 +1,33 @@
+{
+  "id": 43300594,
+  "first_name": "Antonino",
+  "last_name": "Musso",
+  "birth_date": "1999-09-14",
+  "country_id": 776,
+  "club_id": 2222,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 74,
+  "value": 165000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 707654,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

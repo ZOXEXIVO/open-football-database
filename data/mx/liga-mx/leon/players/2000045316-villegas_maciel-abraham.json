@@ -1,0 +1,33 @@
+{
+  "id": 2000045316,
+  "first_name": "Abraham",
+  "last_name": "Villegas Maciel",
+  "birth_date": "2002-12-17",
+  "country_id": 379,
+  "club_id": 5661013,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 106,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2032-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1259,
+    "expiration": "2028-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

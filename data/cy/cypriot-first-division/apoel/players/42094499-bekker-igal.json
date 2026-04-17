@@ -1,0 +1,29 @@
+{
+  "id": 42094499,
+  "first_name": "Igal",
+  "last_name": "Bekker",
+  "birth_date": "1999-09-09",
+  "country_id": 775,
+  "club_id": 451,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 92,
+  "value": 45000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 149275,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 67262227,
+  "first_name": "Iván",
+  "last_name": "Jaime",
+  "birth_date": "2000-09-26",
+  "country_id": 796,
+  "club_id": 1478,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 124,
+  "potential_ability": 130,
+  "value": 3000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000152066,
+    "expiration": "2026-06-30",
+    "salary": 1040000,
+    "wage_contribution_pct": 100
+  }
+}

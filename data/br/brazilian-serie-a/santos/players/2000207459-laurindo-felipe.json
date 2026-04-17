@@ -1,0 +1,29 @@
+{
+  "id": 2000207459,
+  "first_name": "Felipe",
+  "last_name": "Laurindo",
+  "birth_date": "2005-01-18",
+  "country_id": 1651,
+  "club_id": 335,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 134,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 314600,
+    "expiration": "2026-04-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

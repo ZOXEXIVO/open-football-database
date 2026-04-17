@@ -1,0 +1,29 @@
+{
+  "id": 2000475808,
+  "first_name": "Jaider",
+  "last_name": "Victoria",
+  "birth_date": "2005-10-15",
+  "country_id": 1653,
+  "club_id": 130800,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 96,
+  "value": 67000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 80,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

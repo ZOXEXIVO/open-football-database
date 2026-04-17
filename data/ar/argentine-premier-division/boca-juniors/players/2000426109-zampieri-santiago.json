@@ -1,0 +1,31 @@
+{
+  "id": 2000426109,
+  "first_name": "Santiago",
+  "last_name": "Zampieri",
+  "birth_date": "2007-04-10",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 137,
+  "value": 314000,
+  "contract": {
+    "salary": 8112,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

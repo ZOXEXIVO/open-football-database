@@ -1,0 +1,29 @@
+{
+  "id": 2000230544,
+  "first_name": "Abdo",
+  "last_name": "Gouda",
+  "birth_date": "2003-02-05",
+  "country_id": 16,
+  "club_id": 13208139,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 82,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 529014,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

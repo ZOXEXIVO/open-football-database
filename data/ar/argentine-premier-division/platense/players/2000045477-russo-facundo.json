@@ -1,0 +1,29 @@
+{
+  "id": 2000045477,
+  "first_name": "Facundo",
+  "last_name": "Russo",
+  "birth_date": "2000-07-20",
+  "country_id": 1649,
+  "club_id": 92,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 89,
+  "value": 176000,
+  "contract": {
+    "salary": 42172,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 14037344,
+    "expiration": "2026-12-31",
+    "salary": 42172,
+    "wage_contribution_pct": 100
+  }
+}

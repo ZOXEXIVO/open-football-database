@@ -1,0 +1,41 @@
+{
+  "id": 19307361,
+  "first_name": "Paulo",
+  "last_name": "Vitor",
+  "birth_date": "1999-06-24",
+  "country_id": 1651,
+  "club_id": 2438,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000053380,
+    "expiration": "2026-06-15",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000401534,
+  "first_name": "Emre",
+  "last_name": "Sağlam",
+  "birth_date": "2005-03-04",
+  "country_id": 799,
+  "club_id": 1873,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 87,
+  "value": 52000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300489,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

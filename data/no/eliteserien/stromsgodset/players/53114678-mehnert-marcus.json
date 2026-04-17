@@ -1,0 +1,31 @@
+{
+  "id": 53114678,
+  "first_name": "Marcus",
+  "last_name": "Mehnert",
+  "birth_date": "1997-10-28",
+  "country_id": 786,
+  "club_id": 1404,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 96,
+  "value": 358000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

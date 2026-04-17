@@ -1,0 +1,33 @@
+{
+  "id": 2000266969,
+  "first_name": "Miguel",
+  "last_name": "Azzopardi",
+  "birth_date": "2004-05-24",
+  "country_id": 782,
+  "club_id": 1300787,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 81,
+  "value": 16000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 47022111,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

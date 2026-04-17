@@ -1,0 +1,33 @@
+{
+  "id": 2000363931,
+  "first_name": "Diego",
+  "last_name": "Catasus",
+  "birth_date": "2005-04-03",
+  "country_id": 367,
+  "club_id": 700060,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 64,
+  "value": 38000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 832154,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000312674,
+  "first_name": "Tomasz",
+  "last_name": "Walaszek",
+  "birth_date": "2005-07-07",
+  "country_id": 787,
+  "club_id": 96079808,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 98,
+  "value": 11000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129583,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

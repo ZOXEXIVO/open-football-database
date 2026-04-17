@@ -1,0 +1,27 @@
+{
+  "id": 57108725,
+  "first_name": "George",
+  "last_name": "Puşcaş",
+  "birth_date": "1996-04-08",
+  "country_id": 790,
+  "club_id": 1500,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 98,
+  "potential_ability": 103,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

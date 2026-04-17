@@ -1,0 +1,31 @@
+{
+  "id": 2000293973,
+  "first_name": "David",
+  "last_name": "Kusso",
+  "birth_date": "2004-01-22",
+  "country_id": 6,
+  "club_id": 1480,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 102,
+  "value": 583000,
+  "contract": {
+    "salary": 29172,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

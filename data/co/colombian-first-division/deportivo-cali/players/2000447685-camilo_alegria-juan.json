@@ -1,0 +1,27 @@
+{
+  "id": 2000447685,
+  "first_name": "Juan",
+  "last_name": "Camilo Alegría",
+  "birth_date": "2009-06-20",
+  "country_id": 1653,
+  "club_id": 421,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 114,
+  "value": 183000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

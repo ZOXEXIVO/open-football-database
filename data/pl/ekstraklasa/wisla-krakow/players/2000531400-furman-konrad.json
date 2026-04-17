@@ -1,0 +1,27 @@
+{
+  "id": 2000531400,
+  "first_name": "Konrad",
+  "last_name": "Furman",
+  "birth_date": "2008-09-06",
+  "country_id": 787,
+  "club_id": 1300881,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 103,
+  "value": 52000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

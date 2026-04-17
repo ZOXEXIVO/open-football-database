@@ -1,0 +1,33 @@
+{
+  "id": 2000189326,
+  "first_name": "Sebastiano",
+  "last_name": "Di Paolo",
+  "birth_date": "2006-10-09",
+  "country_id": 776,
+  "club_id": 1114,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 96,
+  "value": 42000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3804379,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

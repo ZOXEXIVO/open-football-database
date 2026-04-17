@@ -1,0 +1,33 @@
+{
+  "id": 2000252985,
+  "first_name": "Ricardo",
+  "last_name": "Pădurariu",
+  "birth_date": "2007-05-23",
+  "country_id": 790,
+  "club_id": 1513,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 128,
+  "value": 407000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57153289,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

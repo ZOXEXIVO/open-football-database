@@ -1,0 +1,31 @@
+{
+  "id": 43425834,
+  "first_name": "Matteo",
+  "last_name": "Ruggeri",
+  "birth_date": "2002-07-11",
+  "country_id": 776,
+  "club_id": 1687,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 142,
+  "value": 61000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

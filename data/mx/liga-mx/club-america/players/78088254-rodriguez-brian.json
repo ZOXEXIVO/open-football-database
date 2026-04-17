@@ -1,0 +1,31 @@
+{
+  "id": 78088254,
+  "first_name": "Brian",
+  "last_name": "Rodríguez",
+  "birth_date": "2000-05-20",
+  "country_id": 1657,
+  "club_id": 1253,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 139,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

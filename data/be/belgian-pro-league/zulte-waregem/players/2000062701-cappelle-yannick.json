@@ -1,0 +1,27 @@
+{
+  "id": 2000062701,
+  "first_name": "Yannick",
+  "last_name": "Cappelle",
+  "birth_date": "2003-07-07",
+  "country_id": 757,
+  "club_id": 299,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 99,
+  "value": 875000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

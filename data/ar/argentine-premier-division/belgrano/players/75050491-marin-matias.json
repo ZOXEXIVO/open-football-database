@@ -1,0 +1,33 @@
+{
+  "id": 75050491,
+  "first_name": "Matías",
+  "last_name": "Marín",
+  "birth_date": "1999-12-19",
+  "country_id": 1652,
+  "club_id": 81,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 106,
+  "value": 364000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130796,
+    "expiration": "2026-12-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

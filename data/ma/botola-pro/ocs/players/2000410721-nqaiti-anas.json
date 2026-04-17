@@ -1,0 +1,28 @@
+{
+  "id": 2000410721,
+  "first_name": "Anas",
+  "last_name": "Nqaiti",
+  "birth_date": "2003-08-02",
+  "country_id": 34,
+  "club_id": 8630097,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 87,
+  "value": 72000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 12065961,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

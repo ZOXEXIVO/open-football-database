@@ -1,0 +1,27 @@
+{
+  "id": 25019914,
+  "first_name": "Petr",
+  "last_name": "Mareš",
+  "birth_date": "1991-01-17",
+  "country_id": 763,
+  "club_id": 465,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 86,
+  "value": 25000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

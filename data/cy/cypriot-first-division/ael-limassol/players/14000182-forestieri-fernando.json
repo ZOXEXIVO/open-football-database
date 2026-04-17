@@ -1,0 +1,35 @@
+{
+  "id": 14000182,
+  "first_name": "Fernando",
+  "last_name": "Forestieri",
+  "birth_date": "1990-01-15",
+  "country_id": 776,
+  "club_id": 449,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 101,
+  "value": 121000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000298567,
+  "first_name": "Fernando",
+  "last_name": "Farías",
+  "birth_date": "2004-08-25",
+  "country_id": 1649,
+  "club_id": 108526,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 116,
+  "value": 557000,
+  "contract": {
+    "salary": 7696,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 952755,
+    "expiration": "2026-12-31",
+    "salary": 7696,
+    "wage_contribution_pct": 100
+  }
+}

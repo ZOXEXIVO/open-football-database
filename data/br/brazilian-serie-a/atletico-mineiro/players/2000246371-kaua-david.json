@@ -1,0 +1,37 @@
+{
+  "id": 2000246371,
+  "first_name": "David",
+  "last_name": "Kauã",
+  "birth_date": "2005-03-12",
+  "country_id": 1651,
+  "club_id": 314,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 122,
+  "value": 3000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 314600,
+    "expiration": "2026-11-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

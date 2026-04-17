@@ -1,0 +1,29 @@
+{
+  "id": 12087954,
+  "first_name": "El",
+  "last_name": "Hadji Latyr N'Diaye",
+  "birth_date": "1999-08-12",
+  "country_id": 41,
+  "club_id": 467,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 118,
+  "value": 41000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130859,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

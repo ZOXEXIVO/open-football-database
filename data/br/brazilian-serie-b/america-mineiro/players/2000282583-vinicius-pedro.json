@@ -1,0 +1,27 @@
+{
+  "id": 2000282583,
+  "first_name": "Pedro",
+  "last_name": "Vinicius",
+  "birth_date": "2007-02-08",
+  "country_id": 1651,
+  "club_id": 107201,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 111,
+  "value": 44000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

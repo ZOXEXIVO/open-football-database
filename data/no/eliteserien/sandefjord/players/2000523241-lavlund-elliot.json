@@ -1,0 +1,31 @@
+{
+  "id": 2000523241,
+  "first_name": "Elliot",
+  "last_name": "Lavlund",
+  "birth_date": "2008-10-28",
+  "country_id": 786,
+  "club_id": 1380,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 94,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "NonContract"
+  }
+}

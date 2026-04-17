@@ -1,0 +1,29 @@
+{
+  "id": 2000194108,
+  "first_name": "Ivan",
+  "last_name": "Vasiljević",
+  "birth_date": "2005-01-17",
+  "country_id": 796,
+  "club_id": 1952,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 99,
+  "value": 152000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 4212151,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000416185,
+  "first_name": "Abdramane",
+  "last_name": "Coulibaly",
+  "birth_date": "2004-06-23",
+  "country_id": 31,
+  "club_id": 135439,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 112,
+  "value": 125000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 23154119,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

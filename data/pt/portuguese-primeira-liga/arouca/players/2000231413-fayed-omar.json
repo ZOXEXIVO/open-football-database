@@ -1,0 +1,29 @@
+{
+  "id": 2000231413,
+  "first_name": "Omar",
+  "last_name": "Fayed",
+  "birth_date": "2003-07-04",
+  "country_id": 16,
+  "club_id": 1870,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 125,
+  "value": 2000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 729500,
+    "expiration": "2026-06-30",
+    "salary": 312000,
+    "wage_contribution_pct": 100
+  }
+}

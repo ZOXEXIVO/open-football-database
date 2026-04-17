@@ -1,0 +1,33 @@
+{
+  "id": 2000517739,
+  "first_name": "Aleksa",
+  "last_name": "Mitić",
+  "birth_date": "2009-08-30",
+  "country_id": 802,
+  "club_id": 62030404,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 103,
+  "value": 364000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 62160090,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

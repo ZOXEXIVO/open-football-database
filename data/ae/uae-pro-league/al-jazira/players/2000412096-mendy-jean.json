@@ -1,0 +1,31 @@
+{
+  "id": 2000412096,
+  "first_name": "Jean",
+  "last_name": "Mendy",
+  "birth_date": "2006-09-21",
+  "country_id": 41,
+  "club_id": 135450,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 115,
+  "value": 238000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

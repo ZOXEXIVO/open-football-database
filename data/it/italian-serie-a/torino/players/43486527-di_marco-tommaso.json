@@ -1,0 +1,33 @@
+{
+  "id": 43486527,
+  "first_name": "Tommaso",
+  "last_name": "Di Marco",
+  "birth_date": "2003-07-30",
+  "country_id": 776,
+  "club_id": 1174,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 123,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1163,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

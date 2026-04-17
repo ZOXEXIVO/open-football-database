@@ -1,0 +1,31 @@
+{
+  "id": 43161628,
+  "first_name": "Fabio",
+  "last_name": "Depaoli",
+  "birth_date": "1997-04-24",
+  "country_id": 776,
+  "club_id": 1167,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 81,
+  "value": 1000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

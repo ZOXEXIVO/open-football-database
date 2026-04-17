@@ -1,0 +1,33 @@
+{
+  "id": 2000089338,
+  "first_name": "Kevin",
+  "last_name": "Burov",
+  "birth_date": "2004-04-27",
+  "country_id": 766,
+  "club_id": 5220196,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 53,
+  "potential_ability": 62,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 5220102,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

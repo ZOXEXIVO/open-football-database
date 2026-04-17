@@ -1,0 +1,36 @@
+{
+  "id": 2000069197,
+  "first_name": "Hamza",
+  "last_name": "Darai",
+  "birth_date": "2001-05-21",
+  "country_id": 34,
+  "club_id": 5380023,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 94,
+  "value": 131000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 2000494425,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

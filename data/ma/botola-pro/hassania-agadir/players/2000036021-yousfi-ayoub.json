@@ -1,0 +1,27 @@
+{
+  "id": 2000036021,
+  "first_name": "Ayoub",
+  "last_name": "Yousfi",
+  "birth_date": "2002-12-30",
+  "country_id": 796,
+  "club_id": 5380014,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 96,
+  "value": 30000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000281085,
+  "first_name": "Esteban",
+  "last_name": "Cruz",
+  "birth_date": "2006-02-12",
+  "country_id": 1656,
+  "club_id": 1450,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 93,
+  "value": 17000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 77016717,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

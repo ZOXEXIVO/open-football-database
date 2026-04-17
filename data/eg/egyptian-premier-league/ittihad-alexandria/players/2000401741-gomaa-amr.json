@@ -1,0 +1,27 @@
+{
+  "id": 2000401741,
+  "first_name": "Amr",
+  "last_name": "Gomaa",
+  "birth_date": "1999-08-19",
+  "country_id": 16,
+  "club_id": 529014,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 97,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 91190633,
+  "first_name": "Marco",
+  "last_name": "Rente",
+  "birth_date": "1997-02-25",
+  "country_id": 771,
+  "club_id": 1007,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 88,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

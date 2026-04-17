@@ -1,0 +1,27 @@
+{
+  "id": 2000172849,
+  "first_name": "Ilya",
+  "last_name": "Zaytsev",
+  "birth_date": "2005-04-07",
+  "country_id": 758,
+  "club_id": 2000431962,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 47,
+  "potential_ability": 52,
+  "value": 3000,
+  "contract": {
+    "salary": 3068,
+    "expiration": "2025-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

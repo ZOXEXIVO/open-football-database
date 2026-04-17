@@ -1,0 +1,37 @@
+{
+  "id": 2000243602,
+  "first_name": "Vukašin",
+  "last_name": "Radosavljević",
+  "birth_date": "2006-01-19",
+  "country_id": 802,
+  "club_id": 62030404,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 84,
+  "value": 240000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5754056,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000412721,
+  "first_name": "Akram",
+  "last_name": "Khouidssi",
+  "birth_date": "2004-03-08",
+  "country_id": 34,
+  "club_id": 1201011,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 87,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 13165102,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

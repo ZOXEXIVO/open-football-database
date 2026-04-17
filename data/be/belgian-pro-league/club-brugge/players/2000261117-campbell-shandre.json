@@ -1,0 +1,31 @@
+{
+  "id": 2000261117,
+  "first_name": "Shandre",
+  "last_name": "Campbell",
+  "birth_date": "2005-07-15",
+  "country_id": 45,
+  "club_id": 186,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 119,
+  "value": 4000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 39060664,
+  "first_name": "Jón",
+  "last_name": "Kristinn Ingason",
+  "birth_date": "2001-09-12",
+  "country_id": 774,
+  "club_id": 39009058,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 81,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-11-16",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 7841979,
+    "expiration": "2025-10-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 43474384,
+  "first_name": "Lukáš",
+  "last_name": "Vorlický",
+  "birth_date": "2002-01-18",
+  "country_id": 763,
+  "club_id": 474,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 120,
+  "value": 533000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 465,
+    "expiration": "2026-06-21",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

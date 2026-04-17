@@ -1,0 +1,29 @@
+{
+  "id": 2000050861,
+  "first_name": "Diego",
+  "last_name": "Reyes",
+  "birth_date": "2003-08-11",
+  "country_id": 379,
+  "club_id": 136007,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 111,
+  "value": 27000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 51051210,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

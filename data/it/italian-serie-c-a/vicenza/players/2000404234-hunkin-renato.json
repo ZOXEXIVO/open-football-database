@@ -1,0 +1,29 @@
+{
+  "id": 2000404234,
+  "first_name": "Renato",
+  "last_name": "Hunkin",
+  "birth_date": "2007-08-07",
+  "country_id": 776,
+  "club_id": 1181,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 86,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43607802,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

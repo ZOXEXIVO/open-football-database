@@ -1,0 +1,33 @@
+{
+  "id": 19362985,
+  "first_name": "Lucas",
+  "last_name": "Silva",
+  "birth_date": "1999-08-27",
+  "country_id": 1651,
+  "club_id": 130777,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 96,
+  "value": 221000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 340,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

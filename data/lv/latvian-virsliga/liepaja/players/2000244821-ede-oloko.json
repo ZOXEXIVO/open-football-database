@@ -1,0 +1,29 @@
+{
+  "id": 2000244821,
+  "first_name": "Oloko",
+  "last_name": "Ede",
+  "birth_date": "2001-01-10",
+  "country_id": 38,
+  "club_id": 8404703,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 62,
+  "value": 7000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 485706,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

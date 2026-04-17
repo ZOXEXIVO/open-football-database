@@ -1,0 +1,37 @@
+{
+  "id": 19192323,
+  "first_name": "Kenedy",
+  "last_name": "",
+  "birth_date": "1996-02-08",
+  "country_id": 1651,
+  "club_id": 1747,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 113,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 116204,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

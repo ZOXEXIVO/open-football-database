@@ -1,0 +1,27 @@
+{
+  "id": 2000033164,
+  "first_name": "Tanguy",
+  "last_name": "Zoukrou",
+  "birth_date": "2003-05-07",
+  "country_id": 769,
+  "club_id": 1847,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 122,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

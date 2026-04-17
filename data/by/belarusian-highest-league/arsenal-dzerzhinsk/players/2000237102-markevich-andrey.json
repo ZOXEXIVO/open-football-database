@@ -1,0 +1,27 @@
+{
+  "id": 2000237102,
+  "first_name": "Andrey",
+  "last_name": "Markevich",
+  "birth_date": "2006-04-30",
+  "country_id": 758,
+  "club_id": 17040498,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 65,
+  "value": 12000,
+  "contract": {
+    "salary": 1924,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

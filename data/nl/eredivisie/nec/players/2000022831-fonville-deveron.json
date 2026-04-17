@@ -1,0 +1,27 @@
+{
+  "id": 2000022831,
+  "first_name": "Deveron",
+  "last_name": "Fonville",
+  "birth_date": "2003-05-16",
+  "country_id": 380,
+  "club_id": 1025,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 95,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

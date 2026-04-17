@@ -1,0 +1,41 @@
+{
+  "id": 43087308,
+  "first_name": "Federico",
+  "last_name": "Di Francesco",
+  "birth_date": "1994-06-14",
+  "country_id": 776,
+  "club_id": 2194,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 109,
+  "value": 613000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1119,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

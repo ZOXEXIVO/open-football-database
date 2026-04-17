@@ -1,0 +1,31 @@
+{
+  "id": 2000273128,
+  "first_name": "Axel",
+  "last_name": "Velev",
+  "birth_date": "2007-01-26",
+  "country_id": 760,
+  "club_id": 351,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 111,
+  "value": 115000,
+  "contract": {
+    "salary": 17940,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

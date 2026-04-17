@@ -1,0 +1,37 @@
+{
+  "id": 14253398,
+  "first_name": "David",
+  "last_name": "Zalazar",
+  "birth_date": "2002-05-09",
+  "country_id": 1649,
+  "club_id": 102489,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 111,
+  "value": 2000000,
+  "contract": {
+    "salary": 45136,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 80,
+    "expiration": "2026-12-31",
+    "salary": 45136,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000404577,
+  "first_name": "Mohamed",
+  "last_name": "Ashraf",
+  "birth_date": "1998-05-22",
+  "country_id": 16,
+  "club_id": 5370007,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 68,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

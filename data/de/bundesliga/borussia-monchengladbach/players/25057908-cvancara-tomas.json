@@ -1,0 +1,33 @@
+{
+  "id": 25057908,
+  "first_name": "Tomáš",
+  "last_name": "Čvančara",
+  "birth_date": "2000-08-13",
+  "country_id": 763,
+  "club_id": 908,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 120,
+  "value": 1000000,
+  "contract": {
+    "salary": 1716000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1569,
+    "expiration": "2026-06-30",
+    "salary": 1716000,
+    "wage_contribution_pct": 100
+  }
+}

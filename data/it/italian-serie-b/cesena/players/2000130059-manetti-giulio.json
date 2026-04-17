@@ -1,0 +1,37 @@
+{
+  "id": 2000130059,
+  "first_name": "Giulio",
+  "last_name": "Manetti",
+  "birth_date": "2005-06-14",
+  "country_id": 776,
+  "club_id": 1120,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 103,
+  "value": 223000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2198,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

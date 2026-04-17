@@ -1,0 +1,29 @@
+{
+  "id": 14185468,
+  "first_name": "Nahuel",
+  "last_name": "Ferraresi",
+  "birth_date": "1998-11-19",
+  "country_id": 1658,
+  "club_id": 337,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 110,
+  "value": 8000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 316,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

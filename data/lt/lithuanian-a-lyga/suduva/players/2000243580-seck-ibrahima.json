@@ -1,0 +1,33 @@
+{
+  "id": 2000243580,
+  "first_name": "Ibrahima",
+  "last_name": "Seck",
+  "birth_date": "2004-05-19",
+  "country_id": 41,
+  "club_id": 722115,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 106,
+  "value": 559000,
+  "contract": {
+    "salary": 21164,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 485305,
+    "expiration": "2026-11-30",
+    "salary": 21164,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000447105,
+  "first_name": "Louis",
+  "last_name": "Buffon",
+  "birth_date": "2007-12-28",
+  "country_id": 763,
+  "club_id": 2215,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 115,
+  "value": 194000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2216,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

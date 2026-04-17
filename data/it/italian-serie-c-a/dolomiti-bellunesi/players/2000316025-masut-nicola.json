@@ -1,0 +1,31 @@
+{
+  "id": 2000316025,
+  "first_name": "Nicola",
+  "last_name": "Masut",
+  "birth_date": "2006-04-03",
+  "country_id": 776,
+  "club_id": 2000111884,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 67,
+  "value": 28000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

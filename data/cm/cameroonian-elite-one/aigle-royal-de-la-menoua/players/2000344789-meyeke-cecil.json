@@ -1,0 +1,27 @@
+{
+  "id": 2000344789,
+  "first_name": "Cecil",
+  "last_name": "Meyeke",
+  "birth_date": "2004-11-03",
+  "country_id": 11,
+  "club_id": 8632779,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 70,
+  "value": 15000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

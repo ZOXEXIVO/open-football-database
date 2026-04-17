@@ -1,0 +1,33 @@
+{
+  "id": 2000416000,
+  "first_name": "Alessio",
+  "last_name": "Fortunato",
+  "birth_date": "2007-04-20",
+  "country_id": 776,
+  "club_id": 1413274,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 81,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43048791,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

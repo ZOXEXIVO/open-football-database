@@ -1,0 +1,31 @@
+{
+  "id": 48048325,
+  "first_name": "Philippe",
+  "last_name": "Keny",
+  "birth_date": "1999-05-18",
+  "country_id": 41,
+  "club_id": 1854,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 108,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000311463,
+  "first_name": "Oskar",
+  "last_name": "Pietuszewski",
+  "birth_date": "2008-05-20",
+  "country_id": 787,
+  "club_id": 1478,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 124,
+  "potential_ability": 159,
+  "value": 52000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2029-01-05",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 13162834,
+  "first_name": "Sékou",
+  "last_name": "Baba",
+  "birth_date": "1997-03-14",
+  "country_id": 31,
+  "club_id": 950376,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 98,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000370110,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

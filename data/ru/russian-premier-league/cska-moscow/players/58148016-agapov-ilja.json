@@ -1,0 +1,29 @@
+{
+  "id": 58148016,
+  "first_name": "Ilja",
+  "last_name": "Agapov",
+  "birth_date": "2001-01-21",
+  "country_id": 791,
+  "club_id": 1518,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 107,
+  "value": 456000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 58064627,
+    "expiration": "2026-06-10",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  }
+}

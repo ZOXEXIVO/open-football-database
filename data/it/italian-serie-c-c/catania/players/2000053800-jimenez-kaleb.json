@@ -1,0 +1,31 @@
+{
+  "id": 2000053800,
+  "first_name": "Kaleb",
+  "last_name": "Jimenez",
+  "birth_date": "2002-10-18",
+  "country_id": 796,
+  "club_id": 2193,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 96,
+  "value": 428000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000054503,
+  "first_name": "Şerban",
+  "last_name": "Niţu",
+  "birth_date": "2003-11-22",
+  "country_id": 790,
+  "club_id": 7540447,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 62,
+  "value": 4000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000388293,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

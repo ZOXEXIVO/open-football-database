@@ -1,0 +1,29 @@
+{
+  "id": 2000041647,
+  "first_name": "Lázaro",
+  "last_name": "Brítez",
+  "birth_date": "2004-03-21",
+  "country_id": 1649,
+  "club_id": 78,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 121,
+  "value": 310000,
+  "contract": {
+    "salary": 6656,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3101514,
+    "expiration": "2026-12-31",
+    "salary": 6656,
+    "wage_contribution_pct": 100
+  }
+}

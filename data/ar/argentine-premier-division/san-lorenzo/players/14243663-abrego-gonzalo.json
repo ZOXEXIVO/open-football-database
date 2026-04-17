@@ -1,0 +1,29 @@
+{
+  "id": 14243663,
+  "first_name": "Gonzalo",
+  "last_name": "Abrego",
+  "birth_date": "2000-01-07",
+  "country_id": 1649,
+  "club_id": 102491,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 110,
+  "value": 4000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 96,
+    "expiration": "2026-12-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

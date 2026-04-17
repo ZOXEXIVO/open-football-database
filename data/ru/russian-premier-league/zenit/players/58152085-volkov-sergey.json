@@ -1,0 +1,33 @@
+{
+  "id": 58152085,
+  "first_name": "Sergey",
+  "last_name": "Volkov",
+  "birth_date": "2002-09-09",
+  "country_id": 791,
+  "club_id": 1301108,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 124,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 58145347,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

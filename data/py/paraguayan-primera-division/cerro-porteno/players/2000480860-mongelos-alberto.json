@@ -1,0 +1,32 @@
+{
+  "id": 2000480860,
+  "first_name": "Alberto",
+  "last_name": "Mongelós",
+  "birth_date": "2004-07-31",
+  "country_id": 1655,
+  "club_id": 1445,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 91,
+  "value": 355000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 2000322990,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

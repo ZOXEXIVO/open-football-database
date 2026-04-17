@@ -1,0 +1,27 @@
+{
+  "id": 2000116422,
+  "first_name": "Fabio",
+  "last_name": "Chiarodia",
+  "birth_date": "2005-06-05",
+  "country_id": 776,
+  "club_id": 908,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 128,
+  "value": 5000000,
+  "contract": {
+    "salary": 884000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

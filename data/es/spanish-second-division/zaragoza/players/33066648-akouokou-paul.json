@@ -1,0 +1,29 @@
+{
+  "id": 33066648,
+  "first_name": "Paul",
+  "last_name": "Akouokou",
+  "birth_date": "1997-12-20",
+  "country_id": 24,
+  "club_id": 865,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 139,
+  "value": 1000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1749,
+    "expiration": "2026-06-30",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  }
+}

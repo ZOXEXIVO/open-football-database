@@ -1,0 +1,29 @@
+{
+  "id": 2000225854,
+  "first_name": "Adam",
+  "last_name": "Dohnálek",
+  "birth_date": "2004-07-04",
+  "country_id": 763,
+  "club_id": 473,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 101,
+  "value": 280000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 136158,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

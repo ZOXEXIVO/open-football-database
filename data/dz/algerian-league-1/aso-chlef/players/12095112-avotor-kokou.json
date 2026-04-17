@@ -1,0 +1,31 @@
+{
+  "id": 12095112,
+  "first_name": "Kokou",
+  "last_name": "Avotor",
+  "birth_date": "2001-11-17",
+  "country_id": 50,
+  "club_id": 7600575,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 88,
+  "value": 32000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

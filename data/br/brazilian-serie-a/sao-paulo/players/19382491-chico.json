@@ -1,0 +1,30 @@
+{
+  "id": 19382491,
+  "first_name": "Chico",
+  "last_name": "",
+  "birth_date": "1998-09-14",
+  "country_id": 1651,
+  "club_id": 338,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 103,
+  "value": 323000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1090,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

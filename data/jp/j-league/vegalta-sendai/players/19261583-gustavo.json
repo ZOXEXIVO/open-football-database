@@ -1,0 +1,41 @@
+{
+  "id": 19261583,
+  "first_name": "Gustavo",
+  "last_name": "",
+  "birth_date": "1996-06-25",
+  "country_id": 1651,
+  "club_id": 107283,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 103,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-01-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 301208,
+    "expiration": "2026-10-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

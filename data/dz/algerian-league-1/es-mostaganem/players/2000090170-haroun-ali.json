@@ -1,0 +1,27 @@
+{
+  "id": 2000090170,
+  "first_name": "Ali",
+  "last_name": "Haroun",
+  "birth_date": "1997-02-01",
+  "country_id": 5,
+  "club_id": 7600120,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 75,
+  "value": 27000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

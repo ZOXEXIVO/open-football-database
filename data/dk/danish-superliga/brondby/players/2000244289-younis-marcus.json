@@ -1,0 +1,33 @@
+{
+  "id": 2000244289,
+  "first_name": "Marcus",
+  "last_name": "Younis",
+  "birth_date": "2005-07-03",
+  "country_id": 1435,
+  "club_id": 496,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 114,
+  "value": 243000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 15051934,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

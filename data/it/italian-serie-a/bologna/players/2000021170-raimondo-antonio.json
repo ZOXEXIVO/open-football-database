@@ -1,0 +1,29 @@
+{
+  "id": 2000021170,
+  "first_name": "Antonio",
+  "last_name": "Raimondo",
+  "birth_date": "2004-03-18",
+  "country_id": 776,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 120,
+  "value": 3000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2199,
+    "expiration": "2026-06-30",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  }
+}

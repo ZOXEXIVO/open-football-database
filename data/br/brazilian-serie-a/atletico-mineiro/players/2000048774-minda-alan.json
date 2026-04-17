@@ -1,0 +1,27 @@
+{
+  "id": 2000048774,
+  "first_name": "Alan",
+  "last_name": "Minda",
+  "birth_date": "2003-05-14",
+  "country_id": 1654,
+  "club_id": 314,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 119,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

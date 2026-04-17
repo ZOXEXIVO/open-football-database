@@ -1,0 +1,33 @@
+{
+  "id": 86073738,
+  "first_name": "Jhon",
+  "last_name": "Jairo Sánchez",
+  "birth_date": "1999-07-30",
+  "country_id": 1654,
+  "club_id": 109177,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 87,
+  "value": 653000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 106071,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

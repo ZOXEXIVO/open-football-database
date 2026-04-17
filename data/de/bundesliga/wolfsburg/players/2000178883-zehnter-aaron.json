@@ -1,0 +1,27 @@
+{
+  "id": 2000178883,
+  "first_name": "Aaron",
+  "last_name": "Zehnter",
+  "birth_date": "2004-10-31",
+  "country_id": 771,
+  "club_id": 961,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 140,
+  "value": 7000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

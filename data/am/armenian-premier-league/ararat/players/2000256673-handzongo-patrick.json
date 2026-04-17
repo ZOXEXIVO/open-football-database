@@ -1,0 +1,27 @@
+{
+  "id": 2000256673,
+  "first_name": "Patrick",
+  "last_name": "Handzongo",
+  "birth_date": "2004-09-09",
+  "country_id": 11,
+  "club_id": 99,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 93,
+  "value": 116000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

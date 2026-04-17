@@ -1,0 +1,27 @@
+{
+  "id": 93083206,
+  "first_name": "Kevin",
+  "last_name": "Yakob",
+  "birth_date": "2000-10-10",
+  "country_id": 115,
+  "club_id": 482,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 112,
+  "value": 4000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

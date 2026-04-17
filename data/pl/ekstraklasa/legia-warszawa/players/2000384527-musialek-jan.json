@@ -1,0 +1,27 @@
+{
+  "id": 2000384527,
+  "first_name": "Jan",
+  "last_name": "Musiałek",
+  "birth_date": "2008-03-06",
+  "country_id": 787,
+  "club_id": 1456,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 111,
+  "value": 84000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

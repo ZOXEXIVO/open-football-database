@@ -1,0 +1,29 @@
+{
+  "id": 2000240096,
+  "first_name": "Juan",
+  "last_name": "Sánchez",
+  "birth_date": "2006-01-28",
+  "country_id": 1655,
+  "club_id": 1445,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 102,
+  "value": 282000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5280355,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

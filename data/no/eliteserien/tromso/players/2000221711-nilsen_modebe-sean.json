@@ -1,0 +1,29 @@
+{
+  "id": 2000221711,
+  "first_name": "Sean",
+  "last_name": "Nilsen-Modebe",
+  "birth_date": "2007-07-21",
+  "country_id": 786,
+  "club_id": 1410,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 126,
+  "value": 2000000,
+  "contract": {
+    "salary": 37596,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1328,
+    "expiration": "2026-12-31",
+    "salary": 37596,
+    "wage_contribution_pct": 100
+  }
+}

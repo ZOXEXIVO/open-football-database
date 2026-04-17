@@ -1,0 +1,33 @@
+{
+  "id": 14160029,
+  "first_name": "Lucas",
+  "last_name": "Brochero",
+  "birth_date": "1999-01-23",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 110,
+  "value": 626000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 108547,
+    "expiration": "2026-12-31",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000077164,
+  "first_name": "Pablo",
+  "last_name": "Tomeo",
+  "birth_date": "2000-01-23",
+  "country_id": 796,
+  "club_id": 1747,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 114,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

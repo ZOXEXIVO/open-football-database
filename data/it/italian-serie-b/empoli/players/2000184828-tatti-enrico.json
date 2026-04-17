@@ -1,0 +1,29 @@
+{
+  "id": 2000184828,
+  "first_name": "Enrico",
+  "last_name": "Tatti",
+  "birth_date": "2006-09-05",
+  "country_id": 776,
+  "club_id": 1126,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 84,
+  "value": 20000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1171,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

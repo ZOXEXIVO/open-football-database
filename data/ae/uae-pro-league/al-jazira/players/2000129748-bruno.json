@@ -1,0 +1,31 @@
+{
+  "id": 2000129748,
+  "first_name": "Bruno",
+  "last_name": "",
+  "birth_date": "2001-06-10",
+  "country_id": 143,
+  "club_id": 135450,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 108,
+  "value": 5000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

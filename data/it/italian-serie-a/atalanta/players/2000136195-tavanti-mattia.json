@@ -1,0 +1,29 @@
+{
+  "id": 2000136195,
+  "first_name": "Mattia",
+  "last_name": "Tavanti",
+  "birth_date": "2005-05-19",
+  "country_id": 776,
+  "club_id": 1106,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 95,
+  "value": 32000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000111884,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000384670,
+  "first_name": "Emil",
+  "last_name": "Morgan",
+  "birth_date": "2008-02-19",
+  "country_id": 764,
+  "club_id": 516,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 104,
+  "value": 17000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 496,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

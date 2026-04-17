@@ -1,0 +1,29 @@
+{
+  "id": 2000446439,
+  "first_name": "Sigurður",
+  "last_name": "Valur Sigursveinsson",
+  "birth_date": "2008-08-30",
+  "country_id": 774,
+  "club_id": 1074,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 83,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-10-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7842247,
+    "expiration": "2025-10-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000129888,
+  "first_name": "Javier",
+  "last_name": "Guerrero",
+  "birth_date": "2004-10-26",
+  "country_id": 379,
+  "club_id": 1255,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 115,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5661074,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000198888,
+  "first_name": "Oskar",
+  "last_name": "Lachowicz",
+  "birth_date": "2005-04-19",
+  "country_id": 787,
+  "club_id": 129583,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 106,
+  "value": 184000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7560050,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

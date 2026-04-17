@@ -1,0 +1,27 @@
+{
+  "id": 55070295,
+  "first_name": "João",
+  "last_name": "Carvalho",
+  "birth_date": "1997-03-09",
+  "country_id": 788,
+  "club_id": 2390,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 98,
+  "potential_ability": 101,
+  "value": 13000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

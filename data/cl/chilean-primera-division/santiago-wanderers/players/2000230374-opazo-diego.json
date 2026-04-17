@@ -1,0 +1,27 @@
+{
+  "id": 2000230374,
+  "first_name": "Diego",
+  "last_name": "Opazo",
+  "birth_date": "2006-06-06",
+  "country_id": 1652,
+  "club_id": 120921,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 104,
+  "value": 160000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

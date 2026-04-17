@@ -1,0 +1,29 @@
+{
+  "id": 2000404436,
+  "first_name": "Omar",
+  "last_name": "Lebyad",
+  "birth_date": "2008-07-15",
+  "country_id": 776,
+  "club_id": 1123,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 102,
+  "value": 344000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2205,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

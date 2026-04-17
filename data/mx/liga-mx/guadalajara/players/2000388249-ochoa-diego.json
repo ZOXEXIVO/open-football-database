@@ -1,0 +1,29 @@
+{
+  "id": 2000388249,
+  "first_name": "Diego",
+  "last_name": "Ochoa",
+  "birth_date": "2005-04-20",
+  "country_id": 379,
+  "club_id": 1255,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 142,
+  "value": 39000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 51051219,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

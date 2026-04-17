@@ -1,0 +1,31 @@
+{
+  "id": 2000204282,
+  "first_name": "Iker",
+  "last_name": "Zufiaurre",
+  "birth_date": "2005-08-07",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 131,
+  "value": 5000000,
+  "contract": {
+    "salary": 16068,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

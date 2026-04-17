@@ -1,0 +1,29 @@
+{
+  "id": 47081753,
+  "first_name": "Andre",
+  "last_name": "Fenech",
+  "birth_date": "2001-10-02",
+  "country_id": 782,
+  "club_id": 1244,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 74,
+  "value": 4000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 47041724,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

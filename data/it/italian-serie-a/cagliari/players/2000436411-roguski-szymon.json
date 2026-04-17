@@ -1,0 +1,29 @@
+{
+  "id": 2000436411,
+  "first_name": "Szymon",
+  "last_name": "Roguski",
+  "birth_date": "2007-12-15",
+  "country_id": 786,
+  "club_id": 53021327,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 105,
+  "value": 683000,
+  "contract": {
+    "salary": 22568,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1114,
+    "expiration": "2026-06-30",
+    "salary": 22568,
+    "wage_contribution_pct": 100
+  }
+}

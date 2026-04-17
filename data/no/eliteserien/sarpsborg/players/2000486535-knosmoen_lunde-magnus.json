@@ -1,0 +1,27 @@
+{
+  "id": 2000486535,
+  "first_name": "Magnus",
+  "last_name": "Knøsmoen Lunde",
+  "birth_date": "2008-09-22",
+  "country_id": 786,
+  "club_id": 53021327,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 103,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  }
+}

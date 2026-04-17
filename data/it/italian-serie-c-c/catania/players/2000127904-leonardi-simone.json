@@ -1,0 +1,29 @@
+{
+  "id": 2000127904,
+  "first_name": "Simone",
+  "last_name": "Leonardi",
+  "birth_date": "2005-07-18",
+  "country_id": 776,
+  "club_id": 2193,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 92,
+  "value": 104000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2227,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

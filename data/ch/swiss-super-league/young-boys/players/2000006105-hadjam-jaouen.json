@@ -1,0 +1,27 @@
+{
+  "id": 2000006105,
+  "first_name": "Jaouen",
+  "last_name": "Hadjam",
+  "birth_date": "2003-03-26",
+  "country_id": 5,
+  "club_id": 1847,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 133,
+  "value": 5000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000450681,
+  "first_name": "Samuel",
+  "last_name": "Solorzano",
+  "birth_date": "2007-08-17",
+  "country_id": 1653,
+  "club_id": 308516,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 106,
+  "value": 222000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

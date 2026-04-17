@@ -1,0 +1,27 @@
+{
+  "id": 2000416511,
+  "first_name": "Bernard",
+  "last_name": "Nguene",
+  "birth_date": "2006-08-04",
+  "country_id": 11,
+  "club_id": 250,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 119,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

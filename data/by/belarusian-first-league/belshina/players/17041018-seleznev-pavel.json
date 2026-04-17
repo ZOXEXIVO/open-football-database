@@ -1,0 +1,31 @@
+{
+  "id": 17041018,
+  "first_name": "Pavel",
+  "last_name": "Seleznev",
+  "birth_date": "2000-06-11",
+  "country_id": 758,
+  "club_id": 1300111,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 63,
+  "value": 16000,
+  "contract": {
+    "salary": 7696,
+    "expiration": "2026-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

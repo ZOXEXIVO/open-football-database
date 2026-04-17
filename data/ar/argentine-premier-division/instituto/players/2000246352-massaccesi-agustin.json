@@ -1,0 +1,27 @@
+{
+  "id": 2000246352,
+  "first_name": "Agustín",
+  "last_name": "Massaccesi",
+  "birth_date": "2002-09-17",
+  "country_id": 1649,
+  "club_id": 102485,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 100,
+  "value": 1000000,
+  "contract": {
+    "salary": 10660,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

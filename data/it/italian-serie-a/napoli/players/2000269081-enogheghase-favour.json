@@ -1,0 +1,29 @@
+{
+  "id": 2000269081,
+  "first_name": "Favour",
+  "last_name": "Enogheghase",
+  "birth_date": "2007-08-10",
+  "country_id": 776,
+  "club_id": 1150,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 137,
+  "value": 432000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000270136,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

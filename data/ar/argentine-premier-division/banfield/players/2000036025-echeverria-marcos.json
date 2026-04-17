@@ -1,0 +1,29 @@
+{
+  "id": 2000036025,
+  "first_name": "Marcos",
+  "last_name": "Echeverría",
+  "birth_date": "2003-07-16",
+  "country_id": 1649,
+  "club_id": 80,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 110,
+  "value": 573000,
+  "contract": {
+    "salary": 8892,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3100019,
+    "expiration": "2026-12-31",
+    "salary": 8892,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 19188567,
+  "first_name": "Diego",
+  "last_name": "Carlos",
+  "birth_date": "1993-03-15",
+  "country_id": 1651,
+  "club_id": 1870,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 122,
+  "potential_ability": 141,
+  "value": 6000000,
+  "contract": {
+    "salary": 3796000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1123,
+    "expiration": "2026-06-30",
+    "salary": 3796000,
+    "wage_contribution_pct": 100
+  }
+}

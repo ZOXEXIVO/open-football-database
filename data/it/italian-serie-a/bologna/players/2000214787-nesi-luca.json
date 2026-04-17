@@ -1,0 +1,27 @@
+{
+  "id": 2000214787,
+  "first_name": "Luca",
+  "last_name": "Nesi",
+  "birth_date": "2006-08-14",
+  "country_id": 776,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 100,
+  "value": 46000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

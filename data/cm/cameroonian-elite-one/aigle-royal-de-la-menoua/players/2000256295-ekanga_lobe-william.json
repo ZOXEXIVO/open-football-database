@@ -1,0 +1,31 @@
+{
+  "id": 2000256295,
+  "first_name": "William",
+  "last_name": "Ekanga Lobe",
+  "birth_date": "2003-06-06",
+  "country_id": 11,
+  "club_id": 8632779,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 73,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 49040688,
+  "first_name": "Woyo",
+  "last_name": "Coulibaly",
+  "birth_date": "1999-05-26",
+  "country_id": 31,
+  "club_id": 673,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 108,
+  "value": 11000000,
+  "contract": {
+    "salary": 1560000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3800256,
+    "expiration": "2026-06-30",
+    "salary": 1560000,
+    "wage_contribution_pct": 100
+  }
+}

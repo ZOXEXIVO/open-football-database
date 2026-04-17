@@ -1,0 +1,35 @@
+{
+  "id": 2000364501,
+  "first_name": "Matías",
+  "last_name": "Cáceres",
+  "birth_date": "2007-05-29",
+  "country_id": 1649,
+  "club_id": 102489,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 126,
+  "value": 188000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

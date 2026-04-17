@@ -1,0 +1,32 @@
+{
+  "id": 23416737,
+  "first_name": "Sultan",
+  "last_name": "Al-Zaabi",
+  "birth_date": "1998-10-26",
+  "country_id": 143,
+  "club_id": 54200130,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 91,
+  "value": 474000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 7880107,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

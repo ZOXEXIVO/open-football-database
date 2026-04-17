@@ -1,0 +1,37 @@
+{
+  "id": 2000139477,
+  "first_name": "Robert",
+  "last_name": "Santos",
+  "birth_date": "2003-07-20",
+  "country_id": 1651,
+  "club_id": 314,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 119,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 301304,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

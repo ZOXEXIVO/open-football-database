@@ -1,0 +1,31 @@
+{
+  "id": 2000481029,
+  "first_name": "Dennis",
+  "last_name": "Mbevi",
+  "birth_date": "2001-04-30",
+  "country_id": 25,
+  "club_id": 751587,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 73,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2031-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000448639,
+  "first_name": "Osvaldo",
+  "last_name": "Miranda",
+  "birth_date": "2004-01-24",
+  "country_id": 12,
+  "club_id": 2448,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 85,
+  "value": 0,
+  "contract": {
+    "salary": 11232,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

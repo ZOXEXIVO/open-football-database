@@ -1,0 +1,27 @@
+{
+  "id": 2000443910,
+  "first_name": "Ramon",
+  "last_name": "Barros",
+  "birth_date": "2007-07-03",
+  "country_id": 1651,
+  "club_id": 338,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 132,
+  "value": 393000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

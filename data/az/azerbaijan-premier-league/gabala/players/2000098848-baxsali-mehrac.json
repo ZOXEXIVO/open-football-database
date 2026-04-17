@@ -1,0 +1,33 @@
+{
+  "id": 2000098848,
+  "first_name": "Mehrac",
+  "last_name": "Baxşalı",
+  "birth_date": "2003-06-11",
+  "country_id": 756,
+  "club_id": 59001469,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 91,
+  "value": 13000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 485431,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

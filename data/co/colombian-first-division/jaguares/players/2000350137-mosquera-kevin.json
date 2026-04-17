@@ -1,0 +1,33 @@
+{
+  "id": 2000350137,
+  "first_name": "Kevin",
+  "last_name": "Mosquera",
+  "birth_date": "2004-04-07",
+  "country_id": 1653,
+  "club_id": 76034968,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 101,
+  "value": 217000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5261737,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

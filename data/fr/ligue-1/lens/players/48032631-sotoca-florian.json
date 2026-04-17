@@ -1,0 +1,31 @@
+{
+  "id": 48032631,
+  "first_name": "Florian",
+  "last_name": "Sotoca",
+  "birth_date": "1990-10-25",
+  "country_id": 769,
+  "club_id": 871,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 119,
+  "value": 233000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

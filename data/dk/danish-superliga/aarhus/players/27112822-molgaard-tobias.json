@@ -1,0 +1,27 @@
+{
+  "id": 27112822,
+  "first_name": "Tobias",
+  "last_name": "Mølgaard",
+  "birth_date": "1996-07-22",
+  "country_id": 764,
+  "club_id": 482,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 100,
+  "value": 1000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

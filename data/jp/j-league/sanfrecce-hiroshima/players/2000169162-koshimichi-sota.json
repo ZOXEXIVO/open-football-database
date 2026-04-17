@@ -1,0 +1,43 @@
+{
+  "id": 2000169162,
+  "first_name": "Sota",
+  "last_name": "Koshimichi",
+  "birth_date": "2004-04-03",
+  "country_id": 116,
+  "club_id": 1193,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 115,
+  "value": 1000000,
+  "contract": {
+    "salary": 42432,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

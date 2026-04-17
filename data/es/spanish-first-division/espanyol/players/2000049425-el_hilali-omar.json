@@ -1,0 +1,27 @@
+{
+  "id": 2000049425,
+  "first_name": "Omar",
+  "last_name": "El Hilali",
+  "birth_date": "2003-09-12",
+  "country_id": 34,
+  "club_id": 1725,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 131,
+  "value": 13000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

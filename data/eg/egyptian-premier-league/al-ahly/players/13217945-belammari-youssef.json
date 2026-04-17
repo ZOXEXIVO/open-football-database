@@ -1,0 +1,35 @@
+{
+  "id": 13217945,
+  "first_name": "Youssef",
+  "last_name": "Belammari",
+  "birth_date": "1998-09-20",
+  "country_id": 34,
+  "club_id": 106756,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 109,
+  "potential_ability": 115,
+  "value": 5000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

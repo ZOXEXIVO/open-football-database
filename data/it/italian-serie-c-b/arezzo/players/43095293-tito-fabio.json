@@ -1,0 +1,27 @@
+{
+  "id": 43095293,
+  "first_name": "Fabio",
+  "last_name": "Tito",
+  "birth_date": "1993-07-10",
+  "country_id": 776,
+  "club_id": 2185,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 79,
+  "value": 129000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

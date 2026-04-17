@@ -1,0 +1,31 @@
+{
+  "id": 2000141521,
+  "first_name": "Dimitris",
+  "last_name": "Rallis",
+  "birth_date": "2005-03-26",
+  "country_id": 772,
+  "club_id": 710052,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 113,
+  "value": 168000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

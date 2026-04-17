@@ -1,0 +1,33 @@
+{
+  "id": 14129251,
+  "first_name": "Damián",
+  "last_name": "Batallini",
+  "birth_date": "1996-06-24",
+  "country_id": 1649,
+  "club_id": 78,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 106,
+  "value": 5000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 309,
+    "expiration": "2026-06-30",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

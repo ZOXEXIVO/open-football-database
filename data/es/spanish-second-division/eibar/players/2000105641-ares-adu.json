@@ -1,0 +1,27 @@
+{
+  "id": 2000105641,
+  "first_name": "Adu",
+  "last_name": "Ares",
+  "birth_date": "2001-10-12",
+  "country_id": 796,
+  "club_id": 1753,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 113,
+  "value": 4000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

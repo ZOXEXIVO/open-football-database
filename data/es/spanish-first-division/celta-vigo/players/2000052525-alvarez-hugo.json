@@ -1,0 +1,27 @@
+{
+  "id": 2000052525,
+  "first_name": "Hugo",
+  "last_name": "Álvarez",
+  "birth_date": "2003-07-02",
+  "country_id": 796,
+  "club_id": 1724,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 117,
+  "value": 40000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

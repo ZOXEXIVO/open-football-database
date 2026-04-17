@@ -1,0 +1,29 @@
+{
+  "id": 2000528234,
+  "first_name": "Abdallah",
+  "last_name": "Kamel",
+  "birth_date": "2002-03-21",
+  "country_id": 16,
+  "club_id": 18021101,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 93,
+  "value": 33000,
+  "contract": {
+    "salary": 28600,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 12004630,
+    "expiration": "2026-06-30",
+    "salary": 28600,
+    "wage_contribution_pct": 100
+  }
+}

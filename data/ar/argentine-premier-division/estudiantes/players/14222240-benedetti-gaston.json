@@ -1,0 +1,27 @@
+{
+  "id": 14222240,
+  "first_name": "Gastón",
+  "last_name": "Benedetti",
+  "birth_date": "2001-03-29",
+  "country_id": 1649,
+  "club_id": 85,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 126,
+  "value": 5000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

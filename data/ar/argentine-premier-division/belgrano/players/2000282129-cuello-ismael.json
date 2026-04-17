@@ -1,0 +1,35 @@
+{
+  "id": 2000282129,
+  "first_name": "Ismael",
+  "last_name": "Cuello",
+  "birth_date": "2006-08-24",
+  "country_id": 1649,
+  "club_id": 81,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 108,
+  "value": 218000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

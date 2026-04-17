@@ -1,0 +1,29 @@
+{
+  "id": 19411615,
+  "first_name": "Kawê",
+  "last_name": "",
+  "birth_date": "2002-06-22",
+  "country_id": 1651,
+  "club_id": 317,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 110,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 311028,
+    "expiration": "2026-05-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

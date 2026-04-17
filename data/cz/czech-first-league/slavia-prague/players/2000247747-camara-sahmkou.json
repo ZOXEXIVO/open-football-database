@@ -1,0 +1,29 @@
+{
+  "id": 2000247747,
+  "first_name": "Sahmkou",
+  "last_name": "Camara",
+  "birth_date": "2003-06-10",
+  "country_id": 22,
+  "club_id": 474,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 114,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300307,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

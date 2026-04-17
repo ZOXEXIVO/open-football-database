@@ -1,0 +1,33 @@
+{
+  "id": 2000218934,
+  "first_name": "Ray",
+  "last_name": "",
+  "birth_date": "2004-08-31",
+  "country_id": 1651,
+  "club_id": 339,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 129,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-07-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 327,
+    "expiration": "2026-11-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

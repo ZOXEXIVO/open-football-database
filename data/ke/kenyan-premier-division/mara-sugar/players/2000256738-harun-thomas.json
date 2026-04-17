@@ -1,0 +1,27 @@
+{
+  "id": 2000256738,
+  "first_name": "Thomas",
+  "last_name": "Harun",
+  "birth_date": "1992-07-26",
+  "country_id": 25,
+  "club_id": 2000200690,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 49,
+  "potential_ability": 58,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2022-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

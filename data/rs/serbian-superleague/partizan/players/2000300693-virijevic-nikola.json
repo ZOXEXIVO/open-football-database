@@ -1,0 +1,27 @@
+{
+  "id": 2000300693,
+  "first_name": "Nikola",
+  "last_name": "Virijević",
+  "birth_date": "2007-02-28",
+  "country_id": 802,
+  "club_id": 1952,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 124,
+  "value": 193000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

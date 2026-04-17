@@ -1,0 +1,31 @@
+{
+  "id": 2000462075,
+  "first_name": "Nikola",
+  "last_name": "Genchev",
+  "birth_date": "2008-11-19",
+  "country_id": 760,
+  "club_id": 116384,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 107,
+  "value": 243000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

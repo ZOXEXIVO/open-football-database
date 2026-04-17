@@ -1,0 +1,49 @@
+{
+  "id": 75031426,
+  "first_name": "Brayan",
+  "last_name": "Véjar",
+  "birth_date": "1995-07-14",
+  "country_id": 1652,
+  "club_id": 120064,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 97,
+  "value": 676000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 104361,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

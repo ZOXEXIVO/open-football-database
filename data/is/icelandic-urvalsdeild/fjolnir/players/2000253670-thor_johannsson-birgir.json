@@ -1,0 +1,33 @@
+{
+  "id": 2000253670,
+  "first_name": "Birgir",
+  "last_name": "Þór Jóhannsson",
+  "birth_date": "2007-03-04",
+  "country_id": 774,
+  "club_id": 7841979,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 53,
+  "potential_ability": 80,
+  "value": 11000,
+  "contract": {
+    "salary": 1872,
+    "expiration": "2026-11-16",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39017234,
+    "expiration": "2025-10-15",
+    "salary": 1872,
+    "wage_contribution_pct": 100
+  }
+}

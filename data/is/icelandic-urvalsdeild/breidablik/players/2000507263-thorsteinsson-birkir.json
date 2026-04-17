@@ -1,0 +1,31 @@
+{
+  "id": 2000507263,
+  "first_name": "Birkir",
+  "last_name": "Þorsteinsson",
+  "birth_date": "2009-01-16",
+  "country_id": 774,
+  "club_id": 1069,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 123,
+  "value": 11000,
+  "contract": {
+    "salary": 3120,
+    "expiration": "2029-11-16",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

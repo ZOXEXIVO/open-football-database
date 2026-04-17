@@ -1,0 +1,29 @@
+{
+  "id": 14241918,
+  "first_name": "Nicolás",
+  "last_name": "Valentini",
+  "birth_date": "2001-04-08",
+  "country_id": 1649,
+  "club_id": 1129,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 135,
+  "value": 2000000,
+  "contract": {
+    "salary": 1612000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2201,
+    "expiration": "2026-06-30",
+    "salary": 1612000,
+    "wage_contribution_pct": 100
+  }
+}

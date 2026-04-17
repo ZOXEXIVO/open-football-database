@@ -1,0 +1,28 @@
+{
+  "id": 2000444311,
+  "first_name": "José",
+  "last_name": "Suárez",
+  "birth_date": "2006-05-04",
+  "country_id": 1658,
+  "club_id": 1254,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 115,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 5661074,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

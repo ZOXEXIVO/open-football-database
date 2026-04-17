@@ -1,0 +1,33 @@
+{
+  "id": 2000321154,
+  "first_name": "Caio",
+  "last_name": "Soares",
+  "birth_date": "2005-07-22",
+  "country_id": 1651,
+  "club_id": 328,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 93,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 19189354,
+    "expiration": "2026-03-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000138592,
+  "first_name": "Marcin",
+  "last_name": "Górkiewicz",
+  "birth_date": "2005-04-13",
+  "country_id": 787,
+  "club_id": 1300881,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 88,
+  "value": 46000,
+  "contract": {
+    "salary": 6344,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 96157955,
+    "expiration": "2026-06-30",
+    "salary": 6344,
+    "wage_contribution_pct": 100
+  }
+}

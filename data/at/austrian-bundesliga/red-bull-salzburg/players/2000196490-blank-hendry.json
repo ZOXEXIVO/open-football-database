@@ -1,0 +1,33 @@
+{
+  "id": 2000196490,
+  "first_name": "Hendry",
+  "last_name": "Blank",
+  "birth_date": "2004-08-21",
+  "country_id": 771,
+  "club_id": 158,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 127,
+  "value": 3000000,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 927,
+    "expiration": "2026-06-30",
+    "salary": 728000,
+    "wage_contribution_pct": 100
+  }
+}

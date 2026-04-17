@@ -1,0 +1,33 @@
+{
+  "id": 2000461959,
+  "first_name": "Gennaro",
+  "last_name": "Esposito",
+  "birth_date": "2007-04-26",
+  "country_id": 776,
+  "club_id": 108986,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 76,
+  "value": 24000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1136,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

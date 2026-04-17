@@ -1,0 +1,35 @@
+{
+  "id": 2000191394,
+  "first_name": "Gabriel",
+  "last_name": "Zlatanov",
+  "birth_date": "2005-03-24",
+  "country_id": 760,
+  "club_id": 22033833,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 105,
+  "value": 340000,
+  "contract": {
+    "salary": 15704,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

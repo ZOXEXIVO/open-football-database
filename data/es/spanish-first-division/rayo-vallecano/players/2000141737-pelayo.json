@@ -1,0 +1,29 @@
+{
+  "id": 2000141737,
+  "first_name": "Pelayo",
+  "last_name": "",
+  "birth_date": "2003-04-29",
+  "country_id": 796,
+  "club_id": 1729,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 115,
+  "value": 5000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1682,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

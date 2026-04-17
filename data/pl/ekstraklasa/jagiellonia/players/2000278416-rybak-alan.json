@@ -1,0 +1,29 @@
+{
+  "id": 2000278416,
+  "first_name": "Alan",
+  "last_name": "Rybak",
+  "birth_date": "2006-12-01",
+  "country_id": 787,
+  "club_id": 710052,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 105,
+  "value": 184000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 96020194,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

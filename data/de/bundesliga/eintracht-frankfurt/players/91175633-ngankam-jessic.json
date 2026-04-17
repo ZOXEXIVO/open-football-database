@@ -1,0 +1,33 @@
+{
+  "id": 91175633,
+  "first_name": "Jessic",
+  "last_name": "Ngankam",
+  "birth_date": "2000-07-20",
+  "country_id": 771,
+  "club_id": 912,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 120,
+  "value": 749000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 16034828,
+    "expiration": "2026-06-30",
+    "salary": 1300000,
+    "wage_contribution_pct": 100
+  }
+}

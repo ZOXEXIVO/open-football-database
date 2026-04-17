@@ -1,0 +1,27 @@
+{
+  "id": 2000237101,
+  "first_name": "Zakhar",
+  "last_name": "Baranok",
+  "birth_date": "2006-05-05",
+  "country_id": 758,
+  "club_id": 485665,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 87,
+  "value": 33000,
+  "contract": {
+    "salary": 2860,
+    "expiration": "2027-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

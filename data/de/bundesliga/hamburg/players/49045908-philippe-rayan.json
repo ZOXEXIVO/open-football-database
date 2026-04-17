@@ -1,0 +1,31 @@
+{
+  "id": 49045908,
+  "first_name": "Rayan",
+  "last_name": "Philippe",
+  "birth_date": "2000-10-23",
+  "country_id": 769,
+  "club_id": 947,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 120,
+  "value": 2000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

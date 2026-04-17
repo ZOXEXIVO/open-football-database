@@ -1,0 +1,35 @@
+{
+  "id": 2000459182,
+  "first_name": "Andrea",
+  "last_name": "Luongo",
+  "birth_date": "2008-02-16",
+  "country_id": 776,
+  "club_id": 1174,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 148,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

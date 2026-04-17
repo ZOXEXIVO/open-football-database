@@ -1,0 +1,29 @@
+{
+  "id": 2000267467,
+  "first_name": "Filippo",
+  "last_name": "Piva",
+  "birth_date": "2006-11-04",
+  "country_id": 776,
+  "club_id": 1154,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 87,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1413271,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

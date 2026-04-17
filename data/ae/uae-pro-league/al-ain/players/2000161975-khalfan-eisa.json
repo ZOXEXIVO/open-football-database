@@ -1,0 +1,28 @@
+{
+  "id": 2000161975,
+  "first_name": "Eisa",
+  "last_name": "Khalfan",
+  "birth_date": "2003-03-12",
+  "country_id": 143,
+  "club_id": 950376,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 108,
+  "value": 26000,
+  "contract": {
+    "salary": 572000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-07"
+  },
+  "loan": {
+    "to_club_id": 2000370110,
+    "expiration": "2026-06-30",
+    "salary": 572000,
+    "wage_contribution_pct": 100
+  }
+}

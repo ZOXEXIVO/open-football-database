@@ -1,0 +1,30 @@
+{
+  "id": 2000530716,
+  "first_name": "Thomas",
+  "last_name": "Omole",
+  "birth_date": "2006-05-15",
+  "country_id": 25,
+  "club_id": 5340910,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 95,
+  "value": 49000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01"
+  }
+}

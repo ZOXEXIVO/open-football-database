@@ -1,0 +1,31 @@
+{
+  "id": 2000098035,
+  "first_name": "Enrico",
+  "last_name": "Giannini",
+  "birth_date": "2004-09-17",
+  "country_id": 776,
+  "club_id": 1142,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 92,
+  "value": 176000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

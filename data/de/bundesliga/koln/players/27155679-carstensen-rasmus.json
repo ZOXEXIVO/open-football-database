@@ -1,0 +1,33 @@
+{
+  "id": 27155679,
+  "first_name": "Rasmus",
+  "last_name": "Carstensen",
+  "birth_date": "2000-11-10",
+  "country_id": 764,
+  "club_id": 916,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 124,
+  "value": 2000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 482,
+    "expiration": "2026-06-30",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

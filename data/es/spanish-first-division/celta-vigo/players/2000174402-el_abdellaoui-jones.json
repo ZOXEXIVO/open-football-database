@@ -1,0 +1,27 @@
+{
+  "id": 2000174402,
+  "first_name": "Jones",
+  "last_name": "El-Abdellaoui",
+  "birth_date": "2006-01-12",
+  "country_id": 34,
+  "club_id": 1724,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 132,
+  "value": 36000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

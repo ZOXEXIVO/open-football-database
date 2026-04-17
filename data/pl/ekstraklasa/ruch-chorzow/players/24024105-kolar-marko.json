@@ -1,0 +1,35 @@
+{
+  "id": 24024105,
+  "first_name": "Marko",
+  "last_name": "Kolar",
+  "birth_date": "1995-05-31",
+  "country_id": 761,
+  "club_id": 1462,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 89,
+  "value": 120000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

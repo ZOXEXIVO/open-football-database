@@ -1,0 +1,33 @@
+{
+  "id": 2000308483,
+  "first_name": "Luis",
+  "last_name": "Miguel",
+  "birth_date": "2005-02-04",
+  "country_id": 1651,
+  "club_id": 340,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 108,
+  "value": 76000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 301266,
+    "expiration": "2026-11-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

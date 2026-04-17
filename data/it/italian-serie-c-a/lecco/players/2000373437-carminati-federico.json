@@ -1,0 +1,29 @@
+{
+  "id": 2000373437,
+  "first_name": "Federico",
+  "last_name": "Carminati",
+  "birth_date": "2007-03-04",
+  "country_id": 776,
+  "club_id": 2205,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 91,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43210782,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000191409,
+  "first_name": "Lanroy",
+  "last_name": "Machine",
+  "birth_date": "2005-10-13",
+  "country_id": 769,
+  "club_id": 875,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 112,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

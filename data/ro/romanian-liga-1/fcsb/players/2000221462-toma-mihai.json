@@ -1,0 +1,35 @@
+{
+  "id": 2000221462,
+  "first_name": "Mihai",
+  "last_name": "Toma",
+  "birth_date": "2007-02-17",
+  "country_id": 790,
+  "club_id": 1513,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 113,
+  "value": 379000,
+  "contract": {
+    "salary": 40404,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

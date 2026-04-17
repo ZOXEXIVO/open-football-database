@@ -1,0 +1,27 @@
+{
+  "id": 2000230110,
+  "first_name": "Simón",
+  "last_name": "Pinto",
+  "birth_date": "2005-08-16",
+  "country_id": 1652,
+  "club_id": 130780,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 108,
+  "value": 899000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

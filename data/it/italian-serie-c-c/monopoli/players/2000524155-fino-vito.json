@@ -1,0 +1,33 @@
+{
+  "id": 2000524155,
+  "first_name": "Vito",
+  "last_name": "Fino",
+  "birth_date": "2008-09-22",
+  "country_id": 776,
+  "club_id": 7983734,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 87,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 832136,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

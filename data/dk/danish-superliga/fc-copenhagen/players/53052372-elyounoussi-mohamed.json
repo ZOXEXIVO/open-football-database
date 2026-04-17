@@ -1,0 +1,31 @@
+{
+  "id": 53052372,
+  "first_name": "Mohamed",
+  "last_name": "Elyounoussi",
+  "birth_date": "1994-08-04",
+  "country_id": 786,
+  "club_id": 505,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 125,
+  "value": 10000000,
+  "contract": {
+    "salary": 1976000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

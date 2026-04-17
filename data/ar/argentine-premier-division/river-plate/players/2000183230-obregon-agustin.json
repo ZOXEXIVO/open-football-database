@@ -1,0 +1,35 @@
+{
+  "id": 2000183230,
+  "first_name": "Agustín",
+  "last_name": "Obregón",
+  "birth_date": "2006-02-11",
+  "country_id": 1649,
+  "club_id": 94,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 128,
+  "value": 4000000,
+  "contract": {
+    "salary": 7696,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000210616,
+  "first_name": "Filip",
+  "last_name": "Večeřa",
+  "birth_date": "2006-01-04",
+  "country_id": 763,
+  "club_id": 465,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 106,
+  "value": 309000,
+  "contract": {
+    "salary": 22048,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 136281,
+    "expiration": "2026-06-30",
+    "salary": 22048,
+    "wage_contribution_pct": 100
+  }
+}

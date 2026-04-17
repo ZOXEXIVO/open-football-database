@@ -1,0 +1,32 @@
+{
+  "id": 2000283827,
+  "first_name": "Francisco",
+  "last_name": "Valenzuela",
+  "birth_date": "2007-04-13",
+  "country_id": 379,
+  "club_id": 1257,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 109,
+  "value": 12000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 1555,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

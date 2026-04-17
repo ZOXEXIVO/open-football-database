@@ -1,0 +1,37 @@
+{
+  "id": 76037263,
+  "first_name": "Mauro",
+  "last_name": "Manotas",
+  "birth_date": "1995-07-15",
+  "country_id": 1653,
+  "club_id": 106027,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 104,
+  "value": 633000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130801,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

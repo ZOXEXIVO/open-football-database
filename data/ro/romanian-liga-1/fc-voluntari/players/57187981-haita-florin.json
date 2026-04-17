@@ -1,0 +1,37 @@
+{
+  "id": 57187981,
+  "first_name": "Florin",
+  "last_name": "Haită",
+  "birth_date": "2000-10-29",
+  "country_id": 790,
+  "club_id": 2000104441,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 94,
+  "value": 167000,
+  "contract": {
+    "salary": 24700,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57065222,
+    "expiration": "2026-06-30",
+    "salary": 24700,
+    "wage_contribution_pct": 100
+  }
+}

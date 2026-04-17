@@ -1,0 +1,27 @@
+{
+  "id": 2000097478,
+  "first_name": "Ivan",
+  "last_name": "Cvijanović",
+  "birth_date": "2003-10-09",
+  "country_id": 761,
+  "club_id": 2403,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 105,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

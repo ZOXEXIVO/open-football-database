@@ -1,0 +1,33 @@
+{
+  "id": 2000191106,
+  "first_name": "Eivind",
+  "last_name": "Kolve",
+  "birth_date": "2004-10-22",
+  "country_id": 786,
+  "club_id": 1289,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 105,
+  "value": 386000,
+  "contract": {
+    "salary": 18772,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1294,
+    "expiration": "2026-12-31",
+    "salary": 18772,
+    "wage_contribution_pct": 100
+  }
+}

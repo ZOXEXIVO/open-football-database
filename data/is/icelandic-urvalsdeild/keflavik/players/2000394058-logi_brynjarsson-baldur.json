@@ -1,0 +1,33 @@
+{
+  "id": 2000394058,
+  "first_name": "Baldur",
+  "last_name": "Logi Brynjarsson",
+  "birth_date": "2008-05-25",
+  "country_id": 774,
+  "club_id": 1073,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 91,
+  "value": 1000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-11-16",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39060552,
+    "expiration": "2026-11-16",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

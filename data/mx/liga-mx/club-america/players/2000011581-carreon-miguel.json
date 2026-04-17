@@ -1,0 +1,27 @@
+{
+  "id": 2000011581,
+  "first_name": "Miguel",
+  "last_name": "Carreón",
+  "birth_date": "2004-05-24",
+  "country_id": 379,
+  "club_id": 1253,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 132,
+  "value": 5000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000200980,
+  "first_name": "Youssef",
+  "last_name": "Mahrani",
+  "birth_date": "2006-01-27",
+  "country_id": 34,
+  "club_id": 1115,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 57,
+  "potential_ability": 80,
+  "value": 75000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 14255867,
+  "first_name": "Agustín",
+  "last_name": "Lamosa",
+  "birth_date": "2001-10-17",
+  "country_id": 1649,
+  "club_id": 96,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 113,
+  "value": 466000,
+  "contract": {
+    "salary": 14768,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 14002958,
+    "expiration": "2026-12-31",
+    "salary": 14768,
+    "wage_contribution_pct": 100
+  }
+}

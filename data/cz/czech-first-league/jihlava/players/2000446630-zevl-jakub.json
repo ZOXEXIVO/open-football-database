@@ -1,0 +1,28 @@
+{
+  "id": 2000446630,
+  "first_name": "Jakub",
+  "last_name": "Zevl",
+  "birth_date": "2007-06-25",
+  "country_id": 763,
+  "club_id": 470,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 92,
+  "value": 71000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 136153,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000514586,
+  "first_name": "Adrian",
+  "last_name": "Oloo",
+  "birth_date": "2008-03-03",
+  "country_id": 25,
+  "club_id": 13100025,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 88,
+  "value": 29000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

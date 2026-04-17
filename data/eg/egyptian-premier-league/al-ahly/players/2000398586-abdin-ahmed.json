@@ -1,0 +1,29 @@
+{
+  "id": 2000398586,
+  "first_name": "Ahmed",
+  "last_name": "Abdin",
+  "birth_date": "2006-05-01",
+  "country_id": 16,
+  "club_id": 106756,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 126,
+  "value": 136000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2029-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 13183943,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

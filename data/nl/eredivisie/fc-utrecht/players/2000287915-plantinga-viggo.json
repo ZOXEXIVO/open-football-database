@@ -1,0 +1,31 @@
+{
+  "id": 2000287915,
+  "first_name": "Viggo",
+  "last_name": "Plantinga",
+  "birth_date": "2007-05-18",
+  "country_id": 784,
+  "club_id": 1010,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 129,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

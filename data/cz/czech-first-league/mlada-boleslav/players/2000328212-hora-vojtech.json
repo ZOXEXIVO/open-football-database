@@ -1,0 +1,37 @@
+{
+  "id": 2000328212,
+  "first_name": "Vojtěch",
+  "last_name": "Hora",
+  "birth_date": "2004-05-05",
+  "country_id": 763,
+  "club_id": 136156,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 94,
+  "value": 298000,
+  "contract": {
+    "salary": 42224,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 116156,
+    "expiration": "2026-06-21",
+    "salary": 42224,
+    "wage_contribution_pct": 100
+  }
+}

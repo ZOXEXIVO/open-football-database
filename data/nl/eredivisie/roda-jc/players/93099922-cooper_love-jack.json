@@ -1,0 +1,29 @@
+{
+  "id": 93099922,
+  "first_name": "Jack",
+  "last_name": "Cooper-Love",
+  "birth_date": "2001-12-25",
+  "country_id": 797,
+  "club_id": 4001706,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 90,
+  "value": 265000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1033,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 16202210,
+  "first_name": "Aleksandar",
+  "last_name": "Ćirković",
+  "birth_date": "2001-09-21",
+  "country_id": 802,
+  "club_id": 1055,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 108,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 715912,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

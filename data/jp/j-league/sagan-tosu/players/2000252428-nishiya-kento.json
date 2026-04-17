@@ -1,0 +1,29 @@
+{
+  "id": 2000252428,
+  "first_name": "Kento",
+  "last_name": "Nishiya",
+  "birth_date": "1999-11-07",
+  "country_id": 116,
+  "club_id": 107309,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 91,
+  "value": 164000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-01-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 106818,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

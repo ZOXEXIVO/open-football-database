@@ -1,0 +1,27 @@
+{
+  "id": 2000124150,
+  "first_name": "Yoel",
+  "last_name": "Lago",
+  "birth_date": "2004-03-25",
+  "country_id": 796,
+  "club_id": 1724,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 116,
+  "value": 5000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

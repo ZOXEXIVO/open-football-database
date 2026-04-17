@@ -1,0 +1,29 @@
+{
+  "id": 67221484,
+  "first_name": "Iñaki",
+  "last_name": "Peña",
+  "birth_date": "1999-03-02",
+  "country_id": 796,
+  "club_id": 1708,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 135,
+  "potential_ability": 147,
+  "value": 18000000,
+  "contract": {
+    "salary": 988000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1707,
+    "expiration": "2026-06-30",
+    "salary": 988000,
+    "wage_contribution_pct": 100
+  }
+}

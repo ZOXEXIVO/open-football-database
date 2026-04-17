@@ -1,0 +1,33 @@
+{
+  "id": 2000231497,
+  "first_name": "Jhoan",
+  "last_name": "Hernández",
+  "birth_date": "2006-02-20",
+  "country_id": 1653,
+  "club_id": 426,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 121,
+  "value": 869000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 316,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 27160181,
+  "first_name": "Rasmus",
+  "last_name": "Højlund",
+  "birth_date": "2003-02-04",
+  "country_id": 764,
+  "club_id": 680,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 133,
+  "potential_ability": 154,
+  "value": 71000000,
+  "contract": {
+    "salary": 4160000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1150,
+    "expiration": "2026-06-30",
+    "salary": 4160000,
+    "wage_contribution_pct": 100
+  }
+}

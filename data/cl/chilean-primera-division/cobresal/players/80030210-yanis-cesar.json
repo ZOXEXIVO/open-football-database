@@ -1,0 +1,31 @@
+{
+  "id": 80030210,
+  "first_name": "César",
+  "last_name": "Yanis",
+  "birth_date": "1996-01-28",
+  "country_id": 382,
+  "club_id": 130795,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 76,
+  "value": 472000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

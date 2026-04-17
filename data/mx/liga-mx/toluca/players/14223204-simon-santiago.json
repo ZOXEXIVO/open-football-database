@@ -1,0 +1,35 @@
+{
+  "id": 14223204,
+  "first_name": "Santiago",
+  "last_name": "Simón",
+  "birth_date": "2002-06-13",
+  "country_id": 1649,
+  "club_id": 102355,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 108,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

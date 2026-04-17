@@ -1,0 +1,31 @@
+{
+  "id": 2000481025,
+  "first_name": "William",
+  "last_name": "Gitama",
+  "birth_date": "2005-02-27",
+  "country_id": 25,
+  "club_id": 12015976,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 83,
+  "value": 60000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

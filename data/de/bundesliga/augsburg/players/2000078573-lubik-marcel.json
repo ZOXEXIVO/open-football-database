@@ -1,0 +1,29 @@
+{
+  "id": 2000078573,
+  "first_name": "Marcel",
+  "last_name": "Łubik",
+  "birth_date": "2004-05-19",
+  "country_id": 787,
+  "club_id": 2238,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 121,
+  "value": 2000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1452,
+    "expiration": "2026-06-30",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

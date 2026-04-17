@@ -1,0 +1,33 @@
+{
+  "id": 29142372,
+  "first_name": "Ben",
+  "last_name": "Godfrey",
+  "birth_date": "1998-01-15",
+  "country_id": 765,
+  "club_id": 1106,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 132,
+  "value": 1000000,
+  "contract": {
+    "salary": 4004000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 496,
+    "expiration": "2026-06-30",
+    "salary": 4004000,
+    "wage_contribution_pct": 100
+  }
+}

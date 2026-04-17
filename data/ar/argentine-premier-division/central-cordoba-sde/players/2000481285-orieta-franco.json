@@ -1,0 +1,29 @@
+{
+  "id": 2000481285,
+  "first_name": "Franco",
+  "last_name": "Orieta",
+  "birth_date": "2005-03-11",
+  "country_id": 1649,
+  "club_id": 14093715,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 27000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 14018428,
+    "expiration": "2025-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

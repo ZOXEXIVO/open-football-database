@@ -1,0 +1,33 @@
+{
+  "id": 2000308068,
+  "first_name": "Robbe",
+  "last_name": "Van Diest",
+  "birth_date": "2006-05-02",
+  "country_id": 757,
+  "club_id": 289,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 78,
+  "value": 24000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 8152873,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

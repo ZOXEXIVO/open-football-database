@@ -1,0 +1,27 @@
+{
+  "id": 2000531295,
+  "first_name": "Benjamín",
+  "last_name": "Pérez",
+  "birth_date": "2006-04-12",
+  "country_id": 1649,
+  "club_id": 102467,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 107,
+  "value": 280000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

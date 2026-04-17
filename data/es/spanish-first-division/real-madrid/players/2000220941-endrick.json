@@ -1,0 +1,33 @@
+{
+  "id": 2000220941,
+  "first_name": "Endrick",
+  "last_name": "",
+  "birth_date": "2006-07-21",
+  "country_id": 1651,
+  "club_id": 1736,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 137,
+  "potential_ability": 180,
+  "value": 96000000,
+  "contract": {
+    "salary": 3484000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 865,
+    "expiration": "2026-06-30",
+    "salary": 3484000,
+    "wage_contribution_pct": 100
+  }
+}

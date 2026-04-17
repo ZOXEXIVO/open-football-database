@@ -1,0 +1,29 @@
+{
+  "id": 2000297373,
+  "first_name": "Alessandro",
+  "last_name": "Patelli",
+  "birth_date": "2007-06-24",
+  "country_id": 776,
+  "club_id": 1142,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 97,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000015391,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

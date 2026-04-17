@@ -1,0 +1,31 @@
+{
+  "id": 2000067946,
+  "first_name": "Max",
+  "last_name": "Caputo",
+  "birth_date": "2005-08-17",
+  "country_id": 1435,
+  "club_id": 15051934,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 104,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000095346,
+  "first_name": "Gļebs",
+  "last_name": "Mihaļcovs",
+  "birth_date": "2004-03-15",
+  "country_id": 777,
+  "club_id": 47001127,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 53,
+  "potential_ability": 85,
+  "value": 57000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

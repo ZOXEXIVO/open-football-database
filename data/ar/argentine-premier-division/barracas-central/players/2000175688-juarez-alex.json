@@ -1,0 +1,31 @@
+{
+  "id": 2000175688,
+  "first_name": "Alex",
+  "last_name": "Juárez",
+  "birth_date": "2004-09-17",
+  "country_id": 1649,
+  "club_id": 952695,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 99,
+  "value": 4000000,
+  "contract": {
+    "salary": 7644,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

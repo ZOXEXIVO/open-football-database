@@ -1,0 +1,29 @@
+{
+  "id": 49040181,
+  "first_name": "Yannick",
+  "last_name": "Pandor",
+  "birth_date": "2001-05-01",
+  "country_id": 919586,
+  "club_id": 871,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 117,
+  "value": 169000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 527945,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

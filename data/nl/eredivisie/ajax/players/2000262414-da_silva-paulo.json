@@ -1,0 +1,35 @@
+{
+  "id": 2000262414,
+  "first_name": "Paulo",
+  "last_name": "Da Silva",
+  "birth_date": "2007-12-26",
+  "country_id": 784,
+  "club_id": 992,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 144,
+  "value": 2000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

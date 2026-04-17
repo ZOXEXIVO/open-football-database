@@ -1,0 +1,27 @@
+{
+  "id": 2000131720,
+  "first_name": "Waldo",
+  "last_name": "Madrid",
+  "birth_date": "2003-08-25",
+  "country_id": 379,
+  "club_id": 136014,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 113,
+  "value": 129000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

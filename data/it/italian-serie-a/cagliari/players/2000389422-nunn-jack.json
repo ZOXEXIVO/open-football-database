@@ -1,0 +1,27 @@
+{
+  "id": 2000389422,
+  "first_name": "Jack",
+  "last_name": "Nunn",
+  "birth_date": "2006-07-08",
+  "country_id": 765,
+  "club_id": 1114,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 103,
+  "value": 34000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

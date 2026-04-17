@@ -1,0 +1,31 @@
+{
+  "id": 2000066446,
+  "first_name": "Andres",
+  "last_name": "Jasson",
+  "birth_date": "2002-01-17",
+  "country_id": 390,
+  "club_id": 483,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 102,
+  "value": 737000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

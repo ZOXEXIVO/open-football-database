@@ -1,0 +1,27 @@
+{
+  "id": 2000102867,
+  "first_name": "Valentin",
+  "last_name": "Sulzbacher",
+  "birth_date": "2005-03-11",
+  "country_id": 755,
+  "club_id": 158,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 114,
+  "value": 506000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

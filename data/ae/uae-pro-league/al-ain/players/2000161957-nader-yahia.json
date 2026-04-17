@@ -1,0 +1,30 @@
+{
+  "id": 2000161957,
+  "first_name": "Yahia",
+  "last_name": "Nader",
+  "birth_date": "1998-09-11",
+  "country_id": 143,
+  "club_id": 950376,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 98,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7004292,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

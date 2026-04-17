@@ -1,0 +1,31 @@
+{
+  "id": 2000300668,
+  "first_name": "Milan",
+  "last_name": "Roganović",
+  "birth_date": "2005-10-28",
+  "country_id": 62002127,
+  "club_id": 1952,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 123,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

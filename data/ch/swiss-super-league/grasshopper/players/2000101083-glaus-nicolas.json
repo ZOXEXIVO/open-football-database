@@ -1,0 +1,23 @@
+{
+  "id": 2000101083,
+  "first_name": "Nicolas",
+  "last_name": "Glaus",
+  "birth_date": "2002-05-10",
+  "country_id": 798,
+  "club_id": 1855,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 101,
+  "value": 50000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

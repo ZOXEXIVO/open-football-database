@@ -1,0 +1,29 @@
+{
+  "id": 2000514543,
+  "first_name": "Francis",
+  "last_name": "Nambute",
+  "birth_date": "1996-10-22",
+  "country_id": 25,
+  "club_id": 13104771,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 52,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000200686,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

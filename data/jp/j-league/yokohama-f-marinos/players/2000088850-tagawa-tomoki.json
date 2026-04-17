@@ -1,0 +1,28 @@
+{
+  "id": 2000088850,
+  "first_name": "Tomoki",
+  "last_name": "Tagawa",
+  "birth_date": "2002-09-18",
+  "country_id": 116,
+  "club_id": 1198,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 115,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 107342,
+    "expiration": "2026-01-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000249980,
+  "first_name": "Jamiu",
+  "last_name": "Amusat",
+  "birth_date": "2001-06-12",
+  "country_id": 38,
+  "club_id": 120286,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 77,
+  "value": 42000,
+  "contract": {
+    "salary": 832,
+    "expiration": "2028-08-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

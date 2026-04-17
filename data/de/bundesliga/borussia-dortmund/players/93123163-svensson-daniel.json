@@ -1,0 +1,31 @@
+{
+  "id": 93123163,
+  "first_name": "Daniel",
+  "last_name": "Svensson",
+  "birth_date": "2002-02-12",
+  "country_id": 797,
+  "club_id": 907,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 142,
+  "value": 27000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2029-09-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

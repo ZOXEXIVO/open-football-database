@@ -1,0 +1,37 @@
+{
+  "id": 43391649,
+  "first_name": "Damiano",
+  "last_name": "Cancellieri",
+  "birth_date": "2001-03-28",
+  "country_id": 776,
+  "club_id": 1108,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 98,
+  "value": 15000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3804379,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

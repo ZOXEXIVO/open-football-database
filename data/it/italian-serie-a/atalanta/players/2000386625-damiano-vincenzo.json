@@ -1,0 +1,33 @@
+{
+  "id": 2000386625,
+  "first_name": "Vincenzo",
+  "last_name": "Damiano",
+  "birth_date": "2008-05-07",
+  "country_id": 776,
+  "club_id": 1106,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 141,
+  "value": 700000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1179,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

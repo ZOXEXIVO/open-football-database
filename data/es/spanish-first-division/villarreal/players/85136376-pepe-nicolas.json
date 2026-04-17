@@ -1,0 +1,27 @@
+{
+  "id": 85136376,
+  "first_name": "Nicolas",
+  "last_name": "Pépé",
+  "birth_date": "1995-05-29",
+  "country_id": 24,
+  "club_id": 1777,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 135,
+  "value": 46000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

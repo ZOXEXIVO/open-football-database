@@ -1,0 +1,29 @@
+{
+  "id": 2000041123,
+  "first_name": "Amourricho",
+  "last_name": "van Axel Dongen",
+  "birth_date": "2004-09-29",
+  "country_id": 784,
+  "club_id": 992,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 140,
+  "value": 12000000,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1036,
+    "expiration": "2026-06-30",
+    "salary": 728000,
+    "wage_contribution_pct": 100
+  }
+}

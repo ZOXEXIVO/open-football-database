@@ -1,0 +1,27 @@
+{
+  "id": 2000134003,
+  "first_name": "Ilya",
+  "last_name": "Tishurov",
+  "birth_date": "2004-10-27",
+  "country_id": 758,
+  "club_id": 17004083,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 80,
+  "value": 15000,
+  "contract": {
+    "salary": 5772,
+    "expiration": "2025-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

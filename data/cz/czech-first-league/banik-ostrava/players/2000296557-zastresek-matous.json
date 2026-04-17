@@ -1,0 +1,40 @@
+{
+  "id": 2000296557,
+  "first_name": "Matouš",
+  "last_name": "Zástřešek",
+  "birth_date": "2007-01-27",
+  "country_id": 763,
+  "club_id": 1300301,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 122,
+  "value": 69000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 136152,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

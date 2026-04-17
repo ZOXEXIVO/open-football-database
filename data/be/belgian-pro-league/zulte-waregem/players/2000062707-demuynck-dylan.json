@@ -1,0 +1,37 @@
+{
+  "id": 2000062707,
+  "first_name": "Dylan",
+  "last_name": "Demuynck",
+  "birth_date": "2004-05-06",
+  "country_id": 141,
+  "club_id": 299,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 104,
+  "value": 544000,
+  "contract": {
+    "salary": 42640,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 18008817,
+    "expiration": "2026-06-30",
+    "salary": 42640,
+    "wage_contribution_pct": 100
+  }
+}

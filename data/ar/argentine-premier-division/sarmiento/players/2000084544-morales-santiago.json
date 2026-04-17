@@ -1,0 +1,29 @@
+{
+  "id": 2000084544,
+  "first_name": "Santiago",
+  "last_name": "Morales",
+  "birth_date": "2001-08-27",
+  "country_id": 1649,
+  "club_id": 3101516,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 90,
+  "value": 158000,
+  "contract": {
+    "salary": 34216,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 308091,
+    "expiration": "2026-12-31",
+    "salary": 34216,
+    "wage_contribution_pct": 100
+  }
+}

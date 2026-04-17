@@ -1,0 +1,31 @@
+{
+  "id": 95078288,
+  "first_name": "Jesús",
+  "last_name": "Vázquez",
+  "birth_date": "2003-01-02",
+  "country_id": 796,
+  "club_id": 1775,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 134,
+  "value": 35000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

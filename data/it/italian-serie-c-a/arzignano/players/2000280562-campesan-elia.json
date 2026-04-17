@@ -1,0 +1,29 @@
+{
+  "id": 2000280562,
+  "first_name": "Elia",
+  "last_name": "Campesan",
+  "birth_date": "2005-02-14",
+  "country_id": 776,
+  "club_id": 43156731,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 65,
+  "value": 36000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 6100165,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

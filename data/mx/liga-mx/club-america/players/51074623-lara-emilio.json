@@ -1,0 +1,33 @@
+{
+  "id": 51074623,
+  "first_name": "Emilio",
+  "last_name": "Lara",
+  "birth_date": "2002-05-18",
+  "country_id": 379,
+  "club_id": 1253,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 121,
+  "value": 632000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1258,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

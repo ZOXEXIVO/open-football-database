@@ -1,0 +1,30 @@
+{
+  "id": 37041773,
+  "first_name": "Robin",
+  "last_name": "Gosens",
+  "birth_date": "1994-07-05",
+  "country_id": 771,
+  "club_id": 1129,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 132,
+  "contract": {
+    "salary": 3172000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

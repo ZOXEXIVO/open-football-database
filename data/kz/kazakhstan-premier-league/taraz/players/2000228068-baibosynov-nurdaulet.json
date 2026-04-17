@@ -1,0 +1,33 @@
+{
+  "id": 2000228068,
+  "first_name": "Nürdäulet",
+  "last_name": "Baibosynov",
+  "birth_date": "2004-06-13",
+  "country_id": 119,
+  "club_id": 484619,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 78,
+  "value": 66000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000310652,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

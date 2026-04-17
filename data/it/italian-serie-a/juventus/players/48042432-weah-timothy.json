@@ -1,0 +1,42 @@
+{
+  "id": 48042432,
+  "first_name": "Timothy",
+  "last_name": "Weah",
+  "birth_date": "2000-02-22",
+  "country_id": 390,
+  "club_id": 1139,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 135,
+  "value": 13000000,
+  "contract": {
+    "salary": 2236000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 866,
+    "expiration": "2026-06-30",
+    "salary": 2236000,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

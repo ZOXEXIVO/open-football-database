@@ -1,0 +1,27 @@
+{
+  "id": 2000115295,
+  "first_name": "Daniel",
+  "last_name": "Elfadli",
+  "birth_date": "1997-04-06",
+  "country_id": 28,
+  "club_id": 947,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 119,
+  "value": 3000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

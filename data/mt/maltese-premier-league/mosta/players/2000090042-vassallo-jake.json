@@ -1,0 +1,27 @@
+{
+  "id": 2000090042,
+  "first_name": "Jake",
+  "last_name": "Vassallo",
+  "birth_date": "2004-06-21",
+  "country_id": 782,
+  "club_id": 133179,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 51,
+  "potential_ability": 72,
+  "value": 31000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

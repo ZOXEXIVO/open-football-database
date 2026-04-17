@@ -1,0 +1,31 @@
+{
+  "id": 43295401,
+  "first_name": "Luca",
+  "last_name": "Falbo",
+  "birth_date": "2000-02-21",
+  "country_id": 776,
+  "club_id": 1163,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 75,
+  "value": 139000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000481112,
+  "first_name": "Hernandez",
+  "last_name": "Avouzoua",
+  "birth_date": "2008-12-29",
+  "country_id": 11,
+  "club_id": 393,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 99,
+  "value": 9000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000472043,
+  "first_name": "Bilal",
+  "last_name": "Achhiba",
+  "birth_date": "2005-02-12",
+  "country_id": 796,
+  "club_id": 1709,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 109,
+  "value": 201000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000380391,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

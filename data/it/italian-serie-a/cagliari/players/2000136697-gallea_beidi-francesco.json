@@ -1,0 +1,29 @@
+{
+  "id": 2000136697,
+  "first_name": "Francesco",
+  "last_name": "Gallea Beidi",
+  "birth_date": "2005-03-29",
+  "country_id": 776,
+  "club_id": 1114,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 91,
+  "value": 46000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1145,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

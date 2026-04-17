@@ -1,0 +1,33 @@
+{
+  "id": 98030499,
+  "first_name": "Ulisses",
+  "last_name": "Garcia",
+  "birth_date": "1996-01-11",
+  "country_id": 798,
+  "club_id": 866,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 122,
+  "potential_ability": 123,
+  "value": 3000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3800256,
+    "expiration": "2026-06-30",
+    "salary": 780000,
+    "wage_contribution_pct": 100
+  }
+}

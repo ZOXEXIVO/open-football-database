@@ -1,0 +1,27 @@
+{
+  "id": 2000277570,
+  "first_name": "Igor",
+  "last_name": "Serrote",
+  "birth_date": "2005-03-01",
+  "country_id": 1651,
+  "club_id": 135450,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 121,
+  "value": 5000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

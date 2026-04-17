@@ -1,0 +1,35 @@
+{
+  "id": 2000284347,
+  "first_name": "Riccardo",
+  "last_name": "Biguzzi",
+  "birth_date": "2007-02-06",
+  "country_id": 776,
+  "club_id": 1120,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 109,
+  "value": 19000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

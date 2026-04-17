@@ -1,0 +1,33 @@
+{
+  "id": 14185005,
+  "first_name": "Gastón",
+  "last_name": "Togni",
+  "birth_date": "1997-09-20",
+  "country_id": 1649,
+  "club_id": 108526,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 111,
+  "value": 5000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1922,
+    "expiration": "2026-12-31",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

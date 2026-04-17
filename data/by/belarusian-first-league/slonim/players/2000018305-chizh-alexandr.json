@@ -1,0 +1,35 @@
+{
+  "id": 2000018305,
+  "first_name": "Alexandr",
+  "last_name": "Chizh",
+  "birth_date": "2002-03-08",
+  "country_id": 758,
+  "club_id": 17026902,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 47,
+  "potential_ability": 58,
+  "value": 4000,
+  "contract": {
+    "salary": 3432,
+    "expiration": "2025-12-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

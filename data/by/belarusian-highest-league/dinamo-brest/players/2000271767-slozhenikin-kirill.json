@@ -1,0 +1,27 @@
+{
+  "id": 2000271767,
+  "first_name": "Kirill",
+  "last_name": "Slozhenikin",
+  "birth_date": "2005-09-08",
+  "country_id": 758,
+  "club_id": 1300113,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 74,
+  "value": 1000,
+  "contract": {
+    "salary": 1924,
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

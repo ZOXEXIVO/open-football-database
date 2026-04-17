@@ -1,0 +1,31 @@
+{
+  "id": 58133140,
+  "first_name": "Ivan",
+  "last_name": "Oblyakov",
+  "birth_date": "1998-07-05",
+  "country_id": 791,
+  "club_id": 1518,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 121,
+  "value": 6000000,
+  "contract": {
+    "salary": 1092000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000078505,
+  "first_name": "Giacomo",
+  "last_name": "Cavallini",
+  "birth_date": "2004-11-16",
+  "country_id": 776,
+  "club_id": 1164,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 82,
+  "value": 322000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2198,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

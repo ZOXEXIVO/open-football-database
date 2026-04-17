@@ -1,0 +1,27 @@
+{
+  "id": 86056924,
+  "first_name": "Ramiro",
+  "last_name": "Vaca",
+  "birth_date": "1999-07-01",
+  "country_id": 1650,
+  "club_id": 1201001,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 102,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

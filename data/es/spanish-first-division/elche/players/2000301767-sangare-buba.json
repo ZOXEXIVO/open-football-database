@@ -1,0 +1,33 @@
+{
+  "id": 2000301767,
+  "first_name": "Buba",
+  "last_name": "Sangaré",
+  "birth_date": "2007-08-06",
+  "country_id": 796,
+  "club_id": 1100,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 132,
+  "value": 18000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1707,
+    "expiration": "2026-06-30",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

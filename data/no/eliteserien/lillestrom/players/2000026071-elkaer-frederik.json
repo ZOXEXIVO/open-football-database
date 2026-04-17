@@ -1,0 +1,31 @@
+{
+  "id": 2000026071,
+  "first_name": "Frederik",
+  "last_name": "Elkær",
+  "birth_date": "2001-12-08",
+  "country_id": 764,
+  "club_id": 1341,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 99,
+  "value": 211000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2031-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

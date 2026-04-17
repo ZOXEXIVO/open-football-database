@@ -1,0 +1,28 @@
+{
+  "id": 51078567,
+  "first_name": "Ronaldo",
+  "last_name": "Beltrán",
+  "birth_date": "2002-03-28",
+  "country_id": 379,
+  "club_id": 102355,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 100,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 102356,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

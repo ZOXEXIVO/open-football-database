@@ -1,0 +1,28 @@
+{
+  "id": 2000417242,
+  "first_name": "Kadir",
+  "last_name": "Gicić",
+  "birth_date": "2007-07-28",
+  "country_id": 802,
+  "club_id": 62030404,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 100,
+  "value": 364000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 62160090,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

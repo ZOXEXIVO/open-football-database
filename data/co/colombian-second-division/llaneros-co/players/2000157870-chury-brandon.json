@@ -1,0 +1,32 @@
+{
+  "id": 2000157870,
+  "first_name": "Brandon",
+  "last_name": "Chury",
+  "birth_date": "2005-03-20",
+  "country_id": 1653,
+  "club_id": 76033284,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 91,
+  "value": 145000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 2000193331,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000108578,
+  "first_name": "Antoine",
+  "last_name": "Joujou",
+  "birth_date": "2003-03-12",
+  "country_id": 769,
+  "club_id": 1156,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 102,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2397,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

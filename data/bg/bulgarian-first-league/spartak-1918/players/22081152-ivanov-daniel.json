@@ -1,0 +1,31 @@
+{
+  "id": 22081152,
+  "first_name": "Daniel",
+  "last_name": "Ivanov",
+  "birth_date": "2002-02-22",
+  "country_id": 760,
+  "club_id": 22034856,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 77,
+  "value": 147000,
+  "contract": {
+    "salary": 17940,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

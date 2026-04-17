@@ -1,0 +1,31 @@
+{
+  "id": 2000031831,
+  "first_name": "Lazar",
+  "last_name": "Mijović",
+  "birth_date": "2003-03-12",
+  "country_id": 62002127,
+  "club_id": 1301372,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 91,
+  "value": 552000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

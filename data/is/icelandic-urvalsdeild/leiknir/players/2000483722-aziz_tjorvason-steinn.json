@@ -1,0 +1,29 @@
+{
+  "id": 2000483722,
+  "first_name": "Steinn",
+  "last_name": "Aziz Tjörvason",
+  "birth_date": "2008-05-15",
+  "country_id": 774,
+  "club_id": 7840114,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 84,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056792,
+    "expiration": "2038-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

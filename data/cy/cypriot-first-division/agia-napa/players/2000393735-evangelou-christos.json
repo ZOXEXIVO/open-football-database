@@ -1,0 +1,29 @@
+{
+  "id": 2000393735,
+  "first_name": "Christos",
+  "last_name": "Evangelou",
+  "birth_date": "2005-07-06",
+  "country_id": 762,
+  "club_id": 149278,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 70,
+  "value": 18000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 149279,
+    "expiration": "2026-05-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

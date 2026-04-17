@@ -1,0 +1,37 @@
+{
+  "id": 2000130073,
+  "first_name": "Valentino",
+  "last_name": "Coveri",
+  "birth_date": "2005-03-18",
+  "country_id": 776,
+  "club_id": 1120,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 115,
+  "value": 292000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2198,
+    "expiration": "2026-06-30",
+    "salary": 468000,
+    "wage_contribution_pct": 100
+  }
+}

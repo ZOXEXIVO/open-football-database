@@ -1,0 +1,33 @@
+{
+  "id": 2000193127,
+  "first_name": "Coba",
+  "last_name": "",
+  "birth_date": "2002-07-26",
+  "country_id": 23,
+  "club_id": 1710,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 123,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 256,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

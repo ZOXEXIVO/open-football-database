@@ -1,0 +1,33 @@
+{
+  "id": 28094954,
+  "first_name": "Sergi",
+  "last_name": "Canós",
+  "birth_date": "1997-02-02",
+  "country_id": 796,
+  "club_id": 1775,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 131,
+  "value": 3000000,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1747,
+    "expiration": "2026-06-30",
+    "salary": 728000,
+    "wage_contribution_pct": 100
+  }
+}

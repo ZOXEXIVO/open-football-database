@@ -1,0 +1,29 @@
+{
+  "id": 2000499332,
+  "first_name": "Jake",
+  "last_name": "Scicluna",
+  "birth_date": "2006-04-24",
+  "country_id": 782,
+  "club_id": 1250,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 95,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  },
+  "loan": {
+    "to_club_id": 133178,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

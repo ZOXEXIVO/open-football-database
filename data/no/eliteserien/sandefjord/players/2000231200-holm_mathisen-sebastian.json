@@ -1,0 +1,35 @@
+{
+  "id": 2000231200,
+  "first_name": "Sebastian",
+  "last_name": "Holm Mathisen",
+  "birth_date": "2005-06-30",
+  "country_id": 786,
+  "club_id": 1380,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 85,
+  "value": 2000000,
+  "contract": {
+    "salary": 30108,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

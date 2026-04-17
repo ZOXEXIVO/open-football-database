@@ -1,0 +1,29 @@
+{
+  "id": 2000011913,
+  "first_name": "Daniil",
+  "last_name": "Rodin",
+  "birth_date": "2002-12-07",
+  "country_id": 791,
+  "club_id": 130509,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 109,
+  "value": 425000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130550,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

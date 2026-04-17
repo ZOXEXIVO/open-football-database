@@ -1,0 +1,31 @@
+{
+  "id": 2000264401,
+  "first_name": "Vladislav",
+  "last_name": "Stepanenko",
+  "birth_date": "2006-04-17",
+  "country_id": 758,
+  "club_id": 17041311,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 49,
+  "potential_ability": 64,
+  "value": 10000,
+  "contract": {
+    "salary": 3068,
+    "expiration": "2026-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

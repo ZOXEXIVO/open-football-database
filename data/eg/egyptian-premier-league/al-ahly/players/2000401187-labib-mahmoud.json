@@ -1,0 +1,27 @@
+{
+  "id": 2000401187,
+  "first_name": "Mahmoud",
+  "last_name": "Labib",
+  "birth_date": "2005-05-01",
+  "country_id": 16,
+  "club_id": 106756,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 114,
+  "value": 35000,
+  "contract": {
+    "salary": 23400,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

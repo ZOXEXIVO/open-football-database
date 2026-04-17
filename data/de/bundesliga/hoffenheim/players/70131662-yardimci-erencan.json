@@ -1,0 +1,29 @@
+{
+  "id": 70131662,
+  "first_name": "Erencan",
+  "last_name": "Yardımcı",
+  "birth_date": "2002-02-04",
+  "country_id": 799,
+  "club_id": 879226,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 113,
+  "value": 1000000,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2237,
+    "expiration": "2026-06-30",
+    "salary": 728000,
+    "wage_contribution_pct": 100
+  }
+}

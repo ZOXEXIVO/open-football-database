@@ -1,0 +1,32 @@
+{
+  "id": 57189786,
+  "first_name": "Costin",
+  "last_name": "Amzăr",
+  "birth_date": "2003-07-11",
+  "country_id": 790,
+  "club_id": 1500,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 104,
+  "value": 380000,
+  "contract": {
+    "salary": 49400,
+    "expiration": "2027-06-30",
+    "started": "2021-09-16"
+  },
+  "loan": {
+    "to_club_id": 135448,
+    "expiration": "2026-06-30",
+    "salary": 49400,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000156283,
+  "first_name": "Maxim",
+  "last_name": "Katsynel",
+  "birth_date": "2005-07-13",
+  "country_id": 758,
+  "club_id": 307,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 72,
+  "value": 31000,
+  "contract": {
+    "salary": 5772,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130881,
+    "expiration": "2026-12-10",
+    "salary": 5772,
+    "wage_contribution_pct": 100
+  }
+}

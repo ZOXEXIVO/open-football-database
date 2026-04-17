@@ -1,0 +1,37 @@
+{
+  "id": 2000225928,
+  "first_name": "Kleiton",
+  "last_name": "Cuéllar",
+  "birth_date": "2004-02-26",
+  "country_id": 1653,
+  "club_id": 421,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 122,
+  "value": 200000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000273045,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

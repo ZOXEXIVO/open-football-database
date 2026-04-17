@@ -1,0 +1,27 @@
+{
+  "id": 2000278105,
+  "first_name": "Benjamin",
+  "last_name": "Pihl Jørgensen",
+  "birth_date": "2007-07-21",
+  "country_id": 764,
+  "club_id": 483,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 105,
+  "value": 42000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

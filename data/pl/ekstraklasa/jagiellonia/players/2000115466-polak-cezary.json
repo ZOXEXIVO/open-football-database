@@ -1,0 +1,37 @@
+{
+  "id": 2000115466,
+  "first_name": "Cezary",
+  "last_name": "Polak",
+  "birth_date": "2003-05-31",
+  "country_id": 787,
+  "club_id": 710052,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 119,
+  "value": 256000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 710017,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

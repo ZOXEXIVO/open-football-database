@@ -1,0 +1,33 @@
+{
+  "id": 2000170384,
+  "first_name": "Norbert",
+  "last_name": "Barczak",
+  "birth_date": "2005-08-01",
+  "country_id": 787,
+  "club_id": 1452,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 104,
+  "value": 321000,
+  "contract": {
+    "salary": 21892,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 96012813,
+    "expiration": "2026-06-30",
+    "salary": 21892,
+    "wage_contribution_pct": 100
+  }
+}

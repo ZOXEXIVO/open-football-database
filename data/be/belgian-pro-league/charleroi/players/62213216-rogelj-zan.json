@@ -1,0 +1,37 @@
+{
+  "id": 62213216,
+  "first_name": "Žan",
+  "last_name": "Rogelj",
+  "birth_date": "1999-11-25",
+  "country_id": 795,
+  "club_id": 263,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 92,
+  "value": 226000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1458,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

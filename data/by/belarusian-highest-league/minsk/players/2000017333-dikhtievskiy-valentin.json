@@ -1,0 +1,31 @@
+{
+  "id": 2000017333,
+  "first_name": "Valentin",
+  "last_name": "Dikhtievskiy",
+  "birth_date": "2003-09-25",
+  "country_id": 758,
+  "club_id": 17000059,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 71,
+  "value": 36000,
+  "contract": {
+    "salary": 6916,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

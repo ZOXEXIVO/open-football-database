@@ -1,0 +1,35 @@
+{
+  "id": 2000305067,
+  "first_name": "Bob",
+  "last_name": "Nii Armah",
+  "birth_date": "2004-01-20",
+  "country_id": 21,
+  "club_id": 818,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 86,
+  "value": 184000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000060755,
+  "first_name": "Marek",
+  "last_name": "Icha",
+  "birth_date": "2002-03-14",
+  "country_id": 763,
+  "club_id": 475,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 97,
+  "value": 438000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

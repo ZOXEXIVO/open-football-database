@@ -1,0 +1,29 @@
+{
+  "id": 43393593,
+  "first_name": "Iacopo",
+  "last_name": "Lipani",
+  "birth_date": "2001-04-24",
+  "country_id": 776,
+  "club_id": 43036943,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 99,
+  "value": 333000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 700060,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

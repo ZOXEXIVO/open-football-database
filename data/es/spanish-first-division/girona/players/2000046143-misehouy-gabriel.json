@@ -1,0 +1,37 @@
+{
+  "id": 2000046143,
+  "first_name": "Gabriël",
+  "last_name": "Misehouy",
+  "birth_date": "2005-07-18",
+  "country_id": 784,
+  "club_id": 814089,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 121,
+  "value": 1000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 969,
+    "expiration": "2026-06-30",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

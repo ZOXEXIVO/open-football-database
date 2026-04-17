@@ -1,0 +1,31 @@
+{
+  "id": 19239527,
+  "first_name": "Paulinho",
+  "last_name": "",
+  "birth_date": "1995-01-03",
+  "country_id": 1651,
+  "club_id": 526,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 109,
+  "potential_ability": 129,
+  "value": 1000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

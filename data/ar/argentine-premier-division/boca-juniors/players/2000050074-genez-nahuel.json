@@ -1,0 +1,33 @@
+{
+  "id": 2000050074,
+  "first_name": "Nahuel",
+  "last_name": "Génez",
+  "birth_date": "2003-06-18",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 127,
+  "value": 1000000,
+  "contract": {
+    "salary": 43004,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3101457,
+    "expiration": "2026-12-31",
+    "salary": 43004,
+    "wage_contribution_pct": 100
+  }
+}

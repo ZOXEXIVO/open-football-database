@@ -1,0 +1,37 @@
+{
+  "id": 58109307,
+  "first_name": "Ilzat",
+  "last_name": "Akhmetov",
+  "birth_date": "1997-12-31",
+  "country_id": 791,
+  "club_id": 1301108,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 124,
+  "value": 766000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1523,
+    "expiration": "2026-06-10",
+    "salary": 1300000,
+    "wage_contribution_pct": 100
+  }
+}

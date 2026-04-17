@@ -1,0 +1,29 @@
+{
+  "id": 2000182142,
+  "first_name": "Nikita",
+  "last_name": "Getman",
+  "birth_date": "2004-07-03",
+  "country_id": 791,
+  "club_id": 58029064,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 105,
+  "value": 41000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 478893,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

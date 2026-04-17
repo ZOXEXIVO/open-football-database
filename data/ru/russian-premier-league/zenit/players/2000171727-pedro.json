@@ -1,0 +1,31 @@
+{
+  "id": 2000171727,
+  "first_name": "Pedro",
+  "last_name": "",
+  "birth_date": "2006-02-05",
+  "country_id": 1651,
+  "club_id": 1301108,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 124,
+  "potential_ability": 150,
+  "value": 6000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000526712,
+  "first_name": "Agustín",
+  "last_name": "Bono",
+  "birth_date": "2008-02-15",
+  "country_id": 1649,
+  "club_id": 81,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 123,
+  "value": 251000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000098308,
+  "first_name": "Umberto",
+  "last_name": "Morleo",
+  "birth_date": "2005-01-20",
+  "country_id": 776,
+  "club_id": 1119,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 75,
+  "value": 21000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 831114,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000033240,
+  "first_name": "Samuel",
+  "last_name": "Mathias",
+  "birth_date": "1996-12-23",
+  "country_id": 38,
+  "club_id": 2000378388,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 75,
+  "value": 40000,
+  "contract": {
+    "salary": 1716,
+    "expiration": "2026-08-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

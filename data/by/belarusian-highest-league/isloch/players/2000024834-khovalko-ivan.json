@@ -1,0 +1,39 @@
+{
+  "id": 2000024834,
+  "first_name": "Ivan",
+  "last_name": "Khovalko",
+  "birth_date": "2003-06-09",
+  "country_id": 758,
+  "club_id": 7485067,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 82,
+  "value": 20000,
+  "contract": {
+    "salary": 7696,
+    "expiration": "2026-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000083415,
+  "first_name": "Toki",
+  "last_name": "Hirosawa",
+  "birth_date": "2002-10-21",
+  "country_id": 116,
+  "club_id": 710052,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 109,
+  "value": 12000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 96092811,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

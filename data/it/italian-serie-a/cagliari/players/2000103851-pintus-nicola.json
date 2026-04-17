@@ -1,0 +1,29 @@
+{
+  "id": 2000103851,
+  "first_name": "Nicola",
+  "last_name": "Pintus",
+  "birth_date": "2005-05-25",
+  "country_id": 776,
+  "club_id": 1114,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 111,
+  "value": 209000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1124,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

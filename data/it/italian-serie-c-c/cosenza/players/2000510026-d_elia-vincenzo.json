@@ -1,0 +1,27 @@
+{
+  "id": 2000510026,
+  "first_name": "Vincenzo",
+  "last_name": "D'Elia",
+  "birth_date": "2008-10-28",
+  "country_id": 776,
+  "club_id": 1124,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 83,
+  "value": 76000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

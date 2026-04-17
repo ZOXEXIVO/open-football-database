@@ -1,0 +1,33 @@
+{
+  "id": 2000091493,
+  "first_name": "Leonardo",
+  "last_name": "Monje",
+  "birth_date": "2002-03-26",
+  "country_id": 1649,
+  "club_id": 102485,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 93,
+  "value": 232000,
+  "contract": {
+    "salary": 16276,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 108546,
+    "expiration": "2026-12-31",
+    "salary": 16276,
+    "wage_contribution_pct": 100
+  }
+}

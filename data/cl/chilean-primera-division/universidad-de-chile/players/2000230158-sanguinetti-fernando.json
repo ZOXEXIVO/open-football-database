@@ -1,0 +1,35 @@
+{
+  "id": 2000230158,
+  "first_name": "Fernando",
+  "last_name": "Sanguinetti",
+  "birth_date": "2005-06-23",
+  "country_id": 1652,
+  "club_id": 404,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 106,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

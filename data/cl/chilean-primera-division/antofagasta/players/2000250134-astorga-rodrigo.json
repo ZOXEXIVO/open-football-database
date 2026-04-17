@@ -1,0 +1,27 @@
+{
+  "id": 2000250134,
+  "first_name": "Rodrigo",
+  "last_name": "Astorga",
+  "birth_date": "2004-03-05",
+  "country_id": 1652,
+  "club_id": 130790,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 105,
+  "value": 117000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

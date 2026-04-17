@@ -1,0 +1,29 @@
+{
+  "id": 89063070,
+  "first_name": "Apostolos",
+  "last_name": "Stamatelopoulos",
+  "birth_date": "1999-04-09",
+  "country_id": 1435,
+  "club_id": 1584,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 94,
+  "value": 121000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300490,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

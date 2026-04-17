@@ -1,0 +1,33 @@
+{
+  "id": 2000182981,
+  "first_name": "Vincent",
+  "last_name": "Burlet",
+  "birth_date": "2005-09-23",
+  "country_id": 757,
+  "club_id": 858,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 140,
+  "value": 1000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2002,
+    "expiration": "2026-06-30",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

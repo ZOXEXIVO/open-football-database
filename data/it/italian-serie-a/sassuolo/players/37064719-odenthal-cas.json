@@ -1,0 +1,29 @@
+{
+  "id": 37064719,
+  "first_name": "Cas",
+  "last_name": "Odenthal",
+  "birth_date": "2000-09-26",
+  "country_id": 784,
+  "club_id": 3800256,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 122,
+  "value": 963000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1110,
+    "expiration": "2026-06-30",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

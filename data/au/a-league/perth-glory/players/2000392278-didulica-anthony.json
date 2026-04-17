@@ -1,0 +1,31 @@
+{
+  "id": 2000392278,
+  "first_name": "Anthony",
+  "last_name": "Didulica",
+  "birth_date": "2008-03-03",
+  "country_id": 1435,
+  "club_id": 123001,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 86,
+  "value": 7000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

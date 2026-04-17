@@ -1,0 +1,31 @@
+{
+  "id": 2000227332,
+  "first_name": "Pablo",
+  "last_name": "Santiago",
+  "birth_date": "2000-09-27",
+  "country_id": 796,
+  "club_id": 1690,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

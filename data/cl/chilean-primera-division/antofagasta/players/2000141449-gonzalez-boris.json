@@ -1,0 +1,33 @@
+{
+  "id": 2000141449,
+  "first_name": "Boris",
+  "last_name": "González",
+  "birth_date": "2004-07-09",
+  "country_id": 1652,
+  "club_id": 130790,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 107,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 75034135,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

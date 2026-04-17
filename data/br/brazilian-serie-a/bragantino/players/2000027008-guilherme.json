@@ -1,0 +1,37 @@
+{
+  "id": 2000027008,
+  "first_name": "Guilherme",
+  "last_name": "",
+  "birth_date": "2002-02-14",
+  "country_id": 1651,
+  "club_id": 317,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 118,
+  "value": 699000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 301151,
+    "expiration": "2026-11-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

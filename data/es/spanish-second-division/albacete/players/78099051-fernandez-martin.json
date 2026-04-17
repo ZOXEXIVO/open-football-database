@@ -1,0 +1,29 @@
+{
+  "id": 78099051,
+  "first_name": "Martín",
+  "last_name": "Fernández",
+  "birth_date": "2001-05-08",
+  "country_id": 1657,
+  "club_id": 91,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 111,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1660,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

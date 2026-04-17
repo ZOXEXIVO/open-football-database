@@ -1,0 +1,33 @@
+{
+  "id": 2000313385,
+  "first_name": "Hamza",
+  "last_name": "Koutoune",
+  "birth_date": "2006-09-17",
+  "country_id": 34,
+  "club_id": 862,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 115,
+  "value": 276000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 85052735,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000188056,
+  "first_name": "Hilmar",
+  "last_name": "Starri Hilmarsson",
+  "birth_date": "2004-07-27",
+  "country_id": 774,
+  "club_id": 1080,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 72,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 39009058,
+    "expiration": "2025-10-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000094268,
+  "first_name": "Nathan",
+  "last_name": "",
+  "birth_date": "2002-08-19",
+  "country_id": 1651,
+  "club_id": 317,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 111,
+  "value": 4000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 340,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

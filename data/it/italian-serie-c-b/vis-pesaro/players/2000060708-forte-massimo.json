@@ -1,0 +1,29 @@
+{
+  "id": 2000060708,
+  "first_name": "Massimo",
+  "last_name": "Forte",
+  "birth_date": "2004-08-23",
+  "country_id": 1435,
+  "club_id": 2231,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 98,
+  "value": 90000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300787,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

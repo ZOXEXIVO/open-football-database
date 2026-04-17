@@ -1,0 +1,31 @@
+{
+  "id": 53170352,
+  "first_name": "Osame",
+  "last_name": "Sahraoui",
+  "birth_date": "2001-06-11",
+  "country_id": 34,
+  "club_id": 858,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 130,
+  "value": 15000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

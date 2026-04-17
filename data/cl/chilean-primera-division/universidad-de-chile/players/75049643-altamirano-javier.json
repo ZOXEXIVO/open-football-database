@@ -1,0 +1,31 @@
+{
+  "id": 75049643,
+  "first_name": "Javier",
+  "last_name": "Altamirano",
+  "birth_date": "1999-08-21",
+  "country_id": 1652,
+  "club_id": 404,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 109,
+  "potential_ability": 120,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

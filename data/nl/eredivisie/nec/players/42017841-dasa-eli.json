@@ -1,0 +1,27 @@
+{
+  "id": 42017841,
+  "first_name": "Eli",
+  "last_name": "Dasa",
+  "birth_date": "1992-12-03",
+  "country_id": 775,
+  "club_id": 1025,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 106,
+  "value": 2000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

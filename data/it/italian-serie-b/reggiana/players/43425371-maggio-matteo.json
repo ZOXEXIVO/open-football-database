@@ -1,0 +1,29 @@
+{
+  "id": 43425371,
+  "first_name": "Matteo",
+  "last_name": "Maggio",
+  "birth_date": "2002-01-06",
+  "country_id": 776,
+  "club_id": 1164,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 86,
+  "value": 344000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 707654,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

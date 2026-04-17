@@ -1,0 +1,27 @@
+{
+  "id": 2000507613,
+  "first_name": "Javier",
+  "last_name": "Arellano",
+  "birth_date": "2007-04-27",
+  "country_id": 1649,
+  "club_id": 96,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 127,
+  "value": 314000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

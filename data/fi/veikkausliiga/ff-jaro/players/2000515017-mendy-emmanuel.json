@@ -1,0 +1,27 @@
+{
+  "id": 2000515017,
+  "first_name": "Emmanuel",
+  "last_name": "Mendy",
+  "birth_date": "2005-03-11",
+  "country_id": 20,
+  "club_id": 813,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 76,
+  "value": 109000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

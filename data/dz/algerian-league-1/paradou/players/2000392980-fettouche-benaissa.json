@@ -1,0 +1,27 @@
+{
+  "id": 2000392980,
+  "first_name": "Benaissa",
+  "last_name": "Fettouche",
+  "birth_date": "2008-07-10",
+  "country_id": 5,
+  "club_id": 8628594,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 110,
+  "value": 42000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

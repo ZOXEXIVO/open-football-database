@@ -1,0 +1,37 @@
+{
+  "id": 2000055171,
+  "first_name": "Nolan",
+  "last_name": "Martens",
+  "birth_date": "2004-07-07",
+  "country_id": 757,
+  "club_id": 1004,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 94,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1000,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

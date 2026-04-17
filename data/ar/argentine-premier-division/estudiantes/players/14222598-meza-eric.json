@@ -1,0 +1,35 @@
+{
+  "id": 14222598,
+  "first_name": "Eric",
+  "last_name": "Meza",
+  "birth_date": "1999-04-08",
+  "country_id": 1649,
+  "club_id": 85,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 120,
+  "value": 6000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

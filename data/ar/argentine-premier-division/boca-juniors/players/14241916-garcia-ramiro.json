@@ -1,0 +1,29 @@
+{
+  "id": 14241916,
+  "first_name": "Ramiro",
+  "last_name": "García",
+  "birth_date": "2001-12-11",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 143,
+  "value": 11000,
+  "contract": {
+    "salary": 6656,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3101496,
+    "expiration": "2026-12-31",
+    "salary": 6656,
+    "wage_contribution_pct": 100
+  }
+}

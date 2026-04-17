@@ -1,0 +1,27 @@
+{
+  "id": 2000072038,
+  "first_name": "Issam",
+  "last_name": "El Farssi",
+  "birth_date": "1993-09-14",
+  "country_id": 34,
+  "club_id": 7600989,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 72,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2023-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

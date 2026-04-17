@@ -1,0 +1,29 @@
+{
+  "id": 2000209531,
+  "first_name": "Fillip",
+  "last_name": "Voster Botnen",
+  "birth_date": "2006-06-11",
+  "country_id": 786,
+  "club_id": 1422,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 115,
+  "value": 2000000,
+  "contract": {
+    "salary": 31980,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 109106,
+    "expiration": "2026-12-31",
+    "salary": 31980,
+    "wage_contribution_pct": 100
+  }
+}

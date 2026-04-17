@@ -1,0 +1,26 @@
+{
+  "id": 2000255483,
+  "first_name": "Adrian",
+  "last_name": "Przyborek",
+  "birth_date": "2007-01-01",
+  "country_id": 787,
+  "club_id": 1140,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 125,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

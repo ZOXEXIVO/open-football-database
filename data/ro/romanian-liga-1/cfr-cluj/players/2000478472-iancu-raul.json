@@ -1,0 +1,29 @@
+{
+  "id": 2000478472,
+  "first_name": "Raul",
+  "last_name": "Iancu",
+  "birth_date": "2008-07-27",
+  "country_id": 790,
+  "club_id": 7540205,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 136,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57155360,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

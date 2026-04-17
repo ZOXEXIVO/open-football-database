@@ -1,0 +1,31 @@
+{
+  "id": 67211699,
+  "first_name": "Tete",
+  "last_name": "Morente",
+  "birth_date": "1996-12-04",
+  "country_id": 796,
+  "club_id": 1707,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 110,
+  "value": 5000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

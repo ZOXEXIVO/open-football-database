@@ -1,0 +1,29 @@
+{
+  "id": 2000392897,
+  "first_name": "Aleksandrs",
+  "last_name": "Molotkovs",
+  "birth_date": "2007-08-11",
+  "country_id": 777,
+  "club_id": 8404703,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 70,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  },
+  "loan": {
+    "to_club_id": 47073332,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

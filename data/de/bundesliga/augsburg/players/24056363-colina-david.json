@@ -1,0 +1,33 @@
+{
+  "id": 24056363,
+  "first_name": "David",
+  "last_name": "Čolina",
+  "birth_date": "2000-07-19",
+  "country_id": 761,
+  "club_id": 2238,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 109,
+  "value": 417000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 440,
+    "expiration": "2026-06-30",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  }
+}

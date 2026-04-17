@@ -1,0 +1,33 @@
+{
+  "id": 14207518,
+  "first_name": "Gastón",
+  "last_name": "Ávila",
+  "birth_date": "2001-09-30",
+  "country_id": 1649,
+  "club_id": 992,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 128,
+  "value": 3000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 95,
+    "expiration": "2026-12-31",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 67276122,
+  "first_name": "Ansu",
+  "last_name": "Fati",
+  "birth_date": "2002-10-31",
+  "country_id": 796,
+  "club_id": 1708,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 135,
+  "potential_ability": 176,
+  "value": 43000000,
+  "contract": {
+    "salary": 7176000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 826,
+    "expiration": "2026-06-30",
+    "salary": 7176000,
+    "wage_contribution_pct": 100
+  }
+}

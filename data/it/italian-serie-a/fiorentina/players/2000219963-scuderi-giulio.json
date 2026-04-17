@@ -1,0 +1,33 @@
+{
+  "id": 2000219963,
+  "first_name": "Giulio",
+  "last_name": "Scuderi",
+  "birth_date": "2005-12-09",
+  "country_id": 776,
+  "club_id": 1129,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 125,
+  "value": 56000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43106513,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

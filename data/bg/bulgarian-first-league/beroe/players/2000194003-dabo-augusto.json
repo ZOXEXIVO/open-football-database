@@ -1,0 +1,27 @@
+{
+  "id": 2000194003,
+  "first_name": "Augusto",
+  "last_name": "Dabo",
+  "birth_date": "2004-03-13",
+  "country_id": 23,
+  "club_id": 341,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 89,
+  "value": 55000,
+  "contract": {
+    "salary": 25792,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

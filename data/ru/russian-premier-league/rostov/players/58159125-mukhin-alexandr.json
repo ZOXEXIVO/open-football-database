@@ -1,0 +1,29 @@
+{
+  "id": 58159125,
+  "first_name": "Alexandr",
+  "last_name": "Mukhin",
+  "birth_date": "2002-03-29",
+  "country_id": 791,
+  "club_id": 1301104,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 111,
+  "value": 19000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-13",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130561,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

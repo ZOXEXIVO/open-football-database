@@ -1,0 +1,33 @@
+{
+  "id": 2000051459,
+  "first_name": "David",
+  "last_name": "González",
+  "birth_date": "2003-07-08",
+  "country_id": 1649,
+  "club_id": 93,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 115,
+  "value": 343000,
+  "contract": {
+    "salary": 11544,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 120979,
+    "expiration": "2026-12-31",
+    "salary": 11544,
+    "wage_contribution_pct": 100
+  }
+}

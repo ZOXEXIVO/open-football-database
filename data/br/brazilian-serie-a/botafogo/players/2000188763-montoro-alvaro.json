@@ -1,0 +1,31 @@
+{
+  "id": 2000188763,
+  "first_name": "Álvaro",
+  "last_name": "Montoro",
+  "birth_date": "2007-04-17",
+  "country_id": 1649,
+  "club_id": 316,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 146,
+  "value": 13000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

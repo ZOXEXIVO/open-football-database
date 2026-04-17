@@ -1,0 +1,27 @@
+{
+  "id": 2000277321,
+  "first_name": "Tiago",
+  "last_name": "Franco",
+  "birth_date": "2006-02-02",
+  "country_id": 1649,
+  "club_id": 89,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 129,
+  "value": 324000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

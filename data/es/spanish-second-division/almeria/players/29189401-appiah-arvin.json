@@ -1,0 +1,37 @@
+{
+  "id": 29189401,
+  "first_name": "Arvin",
+  "last_name": "Appiah",
+  "birth_date": "2001-01-05",
+  "country_id": 765,
+  "club_id": 1661,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 101,
+  "value": 177000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 831,
+    "expiration": "2026-06-30",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

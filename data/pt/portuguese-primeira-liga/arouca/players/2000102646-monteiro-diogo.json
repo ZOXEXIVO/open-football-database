@@ -1,0 +1,31 @@
+{
+  "id": 2000102646,
+  "first_name": "Diogo",
+  "last_name": "Monteiro",
+  "birth_date": "2005-01-28",
+  "country_id": 788,
+  "club_id": 729500,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 97,
+  "value": 750000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

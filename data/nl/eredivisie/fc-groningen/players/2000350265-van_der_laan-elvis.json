@@ -1,0 +1,27 @@
+{
+  "id": 2000350265,
+  "first_name": "Elvis",
+  "last_name": "van der Laan",
+  "birth_date": "2008-02-29",
+  "country_id": 797,
+  "club_id": 1007,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 137,
+  "value": 5000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

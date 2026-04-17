@@ -1,0 +1,37 @@
+{
+  "id": 39045734,
+  "first_name": "Kolbeinn",
+  "last_name": "Birgir Finnsson",
+  "birth_date": "1999-08-25",
+  "country_id": 774,
+  "club_id": 1010,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 109,
+  "value": 984000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1426,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

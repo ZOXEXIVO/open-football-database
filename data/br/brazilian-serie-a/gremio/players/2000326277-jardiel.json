@@ -1,0 +1,29 @@
+{
+  "id": 2000326277,
+  "first_name": "Jardiel",
+  "last_name": "",
+  "birth_date": "2005-03-21",
+  "country_id": 1651,
+  "club_id": 324,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 135,
+  "value": 952000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-02-28",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 19144990,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

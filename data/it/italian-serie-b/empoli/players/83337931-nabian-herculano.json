@@ -1,0 +1,29 @@
+{
+  "id": 83337931,
+  "first_name": "Herculano",
+  "last_name": "Nabian",
+  "birth_date": "2004-01-25",
+  "country_id": 788,
+  "club_id": 1126,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 89,
+  "potential_ability": 114,
+  "value": 642000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2216,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

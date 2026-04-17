@@ -1,0 +1,27 @@
+{
+  "id": 2000400132,
+  "first_name": "Marvin",
+  "last_name": "Kalushi",
+  "birth_date": "2007-09-18",
+  "country_id": 752,
+  "club_id": 1173,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 111,
+  "value": 165000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

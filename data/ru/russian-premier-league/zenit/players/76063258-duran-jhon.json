@@ -1,0 +1,29 @@
+{
+  "id": 76063258,
+  "first_name": "Jhon",
+  "last_name": "Durán",
+  "birth_date": "2003-12-13",
+  "country_id": 1653,
+  "club_id": 102862,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 110,
+  "value": 96000000,
+  "contract": {
+    "salary": 15600000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1301108,
+    "expiration": "2026-06-30",
+    "salary": 15600000,
+    "wage_contribution_pct": 100
+  }
+}

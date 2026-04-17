@@ -1,0 +1,29 @@
+{
+  "id": 2000212032,
+  "first_name": "Yhonier",
+  "last_name": "López",
+  "birth_date": "2004-02-27",
+  "country_id": 1653,
+  "club_id": 130801,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 102,
+  "value": 201000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 77002090,
+    "expiration": "2025-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

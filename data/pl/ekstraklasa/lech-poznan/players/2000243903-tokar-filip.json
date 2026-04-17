@@ -1,0 +1,27 @@
+{
+  "id": 2000243903,
+  "first_name": "Filip",
+  "last_name": "Tokar",
+  "birth_date": "2007-01-08",
+  "country_id": 787,
+  "club_id": 1455,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 117,
+  "value": 128000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

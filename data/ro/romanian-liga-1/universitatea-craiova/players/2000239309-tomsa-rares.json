@@ -1,0 +1,29 @@
+{
+  "id": 2000239309,
+  "first_name": "Rareş",
+  "last_name": "Tomşa",
+  "birth_date": "2006-07-31",
+  "country_id": 790,
+  "club_id": 57111101,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 115,
+  "value": 12000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300956,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

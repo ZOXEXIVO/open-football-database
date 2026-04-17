@@ -1,0 +1,35 @@
+{
+  "id": 2000199403,
+  "first_name": "Zannetos",
+  "last_name": "Savva",
+  "birth_date": "2005-11-26",
+  "country_id": 762,
+  "club_id": 1174,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 113,
+  "value": 120000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

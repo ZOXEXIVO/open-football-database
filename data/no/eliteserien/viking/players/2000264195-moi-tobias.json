@@ -1,0 +1,31 @@
+{
+  "id": 2000264195,
+  "first_name": "Tobias",
+  "last_name": "Moi",
+  "birth_date": "2006-03-03",
+  "country_id": 786,
+  "club_id": 1422,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 112,
+  "value": 2000000,
+  "contract": {
+    "salary": 30316,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

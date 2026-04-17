@@ -1,0 +1,27 @@
+{
+  "id": 2000509591,
+  "first_name": "Gabriele",
+  "last_name": "Lelli",
+  "birth_date": "2008-07-15",
+  "country_id": 776,
+  "club_id": 1167,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 90,
+  "value": 83000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

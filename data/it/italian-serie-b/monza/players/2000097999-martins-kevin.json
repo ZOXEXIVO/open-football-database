@@ -1,0 +1,37 @@
+{
+  "id": 2000097999,
+  "first_name": "Kevin",
+  "last_name": "Martins",
+  "birth_date": "2005-01-31",
+  "country_id": 776,
+  "club_id": 1149,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 101,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 700036,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

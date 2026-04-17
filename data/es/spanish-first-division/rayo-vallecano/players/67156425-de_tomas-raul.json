@@ -1,0 +1,29 @@
+{
+  "id": 67156425,
+  "first_name": "Raúl",
+  "last_name": "De Tomás",
+  "birth_date": "1994-10-17",
+  "country_id": 796,
+  "club_id": 1729,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 131,
+  "value": 4000000,
+  "contract": {
+    "salary": 2600000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 135411,
+    "expiration": "2026-06-30",
+    "salary": 2600000,
+    "wage_contribution_pct": 100
+  }
+}

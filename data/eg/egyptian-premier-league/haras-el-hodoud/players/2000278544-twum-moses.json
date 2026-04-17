@@ -1,0 +1,27 @@
+{
+  "id": 2000278544,
+  "first_name": "Moses",
+  "last_name": "Twum",
+  "birth_date": "2002-09-20",
+  "country_id": 21,
+  "club_id": 616875,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 86,
+  "value": 117000,
+  "contract": {
+    "salary": 6500,
+    "expiration": "2032-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

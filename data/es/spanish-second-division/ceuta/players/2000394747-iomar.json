@@ -1,0 +1,29 @@
+{
+  "id": 2000394747,
+  "first_name": "Iomar",
+  "last_name": "",
+  "birth_date": "1999-05-21",
+  "country_id": 796,
+  "club_id": 67016725,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 76,
+  "value": 116000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 4212406,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

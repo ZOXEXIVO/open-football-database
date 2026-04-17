@@ -1,0 +1,27 @@
+{
+  "id": 2000292092,
+  "first_name": "Breno",
+  "last_name": "Vereza",
+  "birth_date": "2007-09-03",
+  "country_id": 1651,
+  "club_id": 339,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 146,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-09-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

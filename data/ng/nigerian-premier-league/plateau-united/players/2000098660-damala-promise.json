@@ -1,0 +1,31 @@
+{
+  "id": 2000098660,
+  "first_name": "Promise",
+  "last_name": "Damala",
+  "birth_date": "2002-07-21",
+  "country_id": 38,
+  "club_id": 5340760,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 75,
+  "value": 59000,
+  "contract": {
+    "salary": 832,
+    "expiration": "2026-08-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

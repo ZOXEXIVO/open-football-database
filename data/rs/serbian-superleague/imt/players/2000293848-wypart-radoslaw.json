@@ -1,0 +1,33 @@
+{
+  "id": 2000293848,
+  "first_name": "Radosław",
+  "last_name": "Wypart",
+  "birth_date": "2006-07-10",
+  "country_id": 787,
+  "club_id": 62030404,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 81,
+  "value": 193000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 5746212,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

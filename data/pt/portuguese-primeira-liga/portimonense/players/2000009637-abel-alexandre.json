@@ -1,0 +1,33 @@
+{
+  "id": 2000009637,
+  "first_name": "Alexandre",
+  "last_name": "Abel",
+  "birth_date": "1998-05-25",
+  "country_id": 6,
+  "club_id": 5390058,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 86,
+  "value": 163000,
+  "contract": {
+    "salary": 10504,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2438,
+    "expiration": "2026-06-30",
+    "salary": 10504,
+    "wage_contribution_pct": 100
+  }
+}

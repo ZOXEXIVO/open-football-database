@@ -1,0 +1,29 @@
+{
+  "id": 2000242552,
+  "first_name": "Seldin",
+  "last_name": "Đedović",
+  "birth_date": "2006-01-26",
+  "country_id": 759,
+  "club_id": 1009,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 93,
+  "value": 43000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000077838,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2000027057,
+  "first_name": "Samed",
+  "last_name": "Baždar",
+  "birth_date": "2004-01-31",
+  "country_id": 759,
+  "club_id": 1749,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 111,
+  "value": 4000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 710052,
+    "expiration": "2026-06-30",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

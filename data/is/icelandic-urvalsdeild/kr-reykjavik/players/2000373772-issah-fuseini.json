@@ -1,0 +1,33 @@
+{
+  "id": 2000373772,
+  "first_name": "Fuseini",
+  "last_name": "Issah",
+  "birth_date": "2005-04-01",
+  "country_id": 21,
+  "club_id": 1076,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 62,
+  "value": 30000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-11-16",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056755,
+    "expiration": "2026-11-16",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

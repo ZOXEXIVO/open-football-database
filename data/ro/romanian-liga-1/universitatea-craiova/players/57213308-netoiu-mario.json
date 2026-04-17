@@ -1,0 +1,33 @@
+{
+  "id": 57213308,
+  "first_name": "Mario",
+  "last_name": "Neţoiu",
+  "birth_date": "2003-10-03",
+  "country_id": 790,
+  "club_id": 57111101,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 77,
+  "value": 4000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57088202,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

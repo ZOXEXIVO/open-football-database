@@ -1,0 +1,35 @@
+{
+  "id": 2000171033,
+  "first_name": "Matteo",
+  "last_name": "Schablas",
+  "birth_date": "2005-03-14",
+  "country_id": 755,
+  "club_id": 152,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 101,
+  "value": 290000,
+  "contract": {
+    "salary": 41652,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

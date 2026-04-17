@@ -1,0 +1,29 @@
+{
+  "id": 38059041,
+  "first_name": "Botond",
+  "last_name": "Balogh",
+  "birth_date": "2002-06-06",
+  "country_id": 773,
+  "club_id": 1156,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 127,
+  "value": 6000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1876,
+    "expiration": "2026-06-30",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  }
+}

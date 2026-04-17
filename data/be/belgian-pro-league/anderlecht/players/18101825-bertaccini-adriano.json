@@ -1,0 +1,31 @@
+{
+  "id": 18101825,
+  "first_name": "Adriano",
+  "last_name": "Bertaccini",
+  "birth_date": "2000-08-13",
+  "country_id": 757,
+  "club_id": 256,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 122,
+  "value": 9000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

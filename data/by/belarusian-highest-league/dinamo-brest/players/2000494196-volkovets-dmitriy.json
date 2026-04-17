@@ -1,0 +1,37 @@
+{
+  "id": 2000494196,
+  "first_name": "Dmitriy",
+  "last_name": "Volkovets",
+  "birth_date": "2006-10-11",
+  "country_id": 758,
+  "club_id": 1300113,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 84,
+  "value": 56000,
+  "contract": {
+    "salary": 3848,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 485682,
+    "expiration": "2026-12-10",
+    "salary": 3848,
+    "wage_contribution_pct": 100
+  }
+}

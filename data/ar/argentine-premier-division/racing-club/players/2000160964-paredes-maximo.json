@@ -1,0 +1,29 @@
+{
+  "id": 2000160964,
+  "first_name": "Máximo",
+  "last_name": "Paredes",
+  "birth_date": "2005-02-06",
+  "country_id": 1649,
+  "club_id": 93,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 115,
+  "value": 424000,
+  "contract": {
+    "salary": 6500,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 102487,
+    "expiration": "2026-12-31",
+    "salary": 6500,
+    "wage_contribution_pct": 100
+  }
+}

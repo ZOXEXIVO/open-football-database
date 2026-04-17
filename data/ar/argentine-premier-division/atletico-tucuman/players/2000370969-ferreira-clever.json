@@ -1,0 +1,29 @@
+{
+  "id": 2000370969,
+  "first_name": "Clever",
+  "last_name": "Ferreira",
+  "birth_date": "2003-02-20",
+  "country_id": 1655,
+  "club_id": 5280352,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 115,
+  "value": 630000,
+  "contract": {
+    "salary": 47996,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 102474,
+    "expiration": "2026-12-31",
+    "salary": 47996,
+    "wage_contribution_pct": 100
+  }
+}

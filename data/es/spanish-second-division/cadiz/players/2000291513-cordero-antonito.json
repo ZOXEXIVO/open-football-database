@@ -1,0 +1,33 @@
+{
+  "id": 2000291513,
+  "first_name": "Antoñito",
+  "last_name": "Cordero",
+  "birth_date": "2006-11-14",
+  "country_id": 796,
+  "club_id": 688,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 135,
+  "value": 11000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1682,
+    "expiration": "2026-06-30",
+    "salary": 1040000,
+    "wage_contribution_pct": 100
+  }
+}

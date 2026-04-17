@@ -1,0 +1,31 @@
+{
+  "id": 83206395,
+  "first_name": "Francisco",
+  "last_name": "Moura",
+  "birth_date": "1999-08-16",
+  "country_id": 788,
+  "club_id": 1478,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 124,
+  "potential_ability": 131,
+  "value": 16000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

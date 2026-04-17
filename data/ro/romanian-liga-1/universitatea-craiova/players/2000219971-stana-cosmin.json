@@ -1,0 +1,37 @@
+{
+  "id": 2000219971,
+  "first_name": "Cosmin",
+  "last_name": "Stana",
+  "birth_date": "2007-07-09",
+  "country_id": 790,
+  "club_id": 57111101,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 125,
+  "value": 236000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000207543,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

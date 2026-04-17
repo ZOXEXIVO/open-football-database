@@ -1,0 +1,29 @@
+{
+  "id": 2000134953,
+  "first_name": "Timo",
+  "last_name": "Jansink",
+  "birth_date": "2003-03-16",
+  "country_id": 784,
+  "club_id": 1037,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 104,
+  "value": 390000,
+  "contract": {
+    "salary": 46020,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000077838,
+    "expiration": "2029-06-30",
+    "salary": 46020,
+    "wage_contribution_pct": 100
+  }
+}

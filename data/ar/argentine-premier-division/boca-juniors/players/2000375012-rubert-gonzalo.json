@@ -1,0 +1,31 @@
+{
+  "id": 2000375012,
+  "first_name": "Gonzalo",
+  "last_name": "Rubert",
+  "birth_date": "2008-06-04",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 124,
+  "value": 303000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000450074,
+  "first_name": "Jimmy",
+  "last_name": "Martínez",
+  "birth_date": "2007-03-20",
+  "country_id": 1653,
+  "club_id": 423,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 111,
+  "value": 156000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

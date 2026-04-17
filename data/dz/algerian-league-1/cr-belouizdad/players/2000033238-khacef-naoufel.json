@@ -1,0 +1,31 @@
+{
+  "id": 2000033238,
+  "first_name": "Naoufel",
+  "last_name": "Khacef",
+  "birth_date": "1997-10-27",
+  "country_id": 5,
+  "club_id": 5340078,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 66000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

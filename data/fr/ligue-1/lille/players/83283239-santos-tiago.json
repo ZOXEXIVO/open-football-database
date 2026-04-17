@@ -1,0 +1,31 @@
+{
+  "id": 83283239,
+  "first_name": "Tiago",
+  "last_name": "Santos",
+  "birth_date": "2002-07-23",
+  "country_id": 788,
+  "club_id": 858,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 131,
+  "value": 17000000,
+  "contract": {
+    "salary": 884000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

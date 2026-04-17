@@ -1,0 +1,29 @@
+{
+  "id": 14225842,
+  "first_name": "Kevin",
+  "last_name": "Vázquez",
+  "birth_date": "2001-03-19",
+  "country_id": 1649,
+  "club_id": 98,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 113,
+  "value": 4000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3101453,
+    "expiration": "2026-12-31",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

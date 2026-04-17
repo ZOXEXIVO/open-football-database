@@ -1,0 +1,29 @@
+{
+  "id": 2000425380,
+  "first_name": "Kirill",
+  "last_name": "Lisitsyn",
+  "birth_date": "2007-02-22",
+  "country_id": 791,
+  "club_id": 1301104,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 149,
+  "value": 11000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000258700,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

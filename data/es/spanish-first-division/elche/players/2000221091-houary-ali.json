@@ -1,0 +1,33 @@
+{
+  "id": 2000221091,
+  "first_name": "Ali",
+  "last_name": "Houary",
+  "birth_date": "2005-08-05",
+  "country_id": 34,
+  "club_id": 1707,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 107,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 4212197,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

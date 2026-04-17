@@ -1,0 +1,31 @@
+{
+  "id": 19052745,
+  "first_name": "Alan",
+  "last_name": "Ruschel",
+  "birth_date": "1989-08-23",
+  "country_id": 1651,
+  "club_id": 327,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 100,
+  "value": 202000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2019-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

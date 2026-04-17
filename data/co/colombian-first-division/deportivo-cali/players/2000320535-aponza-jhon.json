@@ -1,0 +1,37 @@
+{
+  "id": 2000320535,
+  "first_name": "Jhon",
+  "last_name": "Aponza",
+  "birth_date": "2005-10-21",
+  "country_id": 1653,
+  "club_id": 5260969,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 103,
+  "value": 375000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 421,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

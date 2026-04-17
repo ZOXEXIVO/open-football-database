@@ -1,0 +1,29 @@
+{
+  "id": 24065095,
+  "first_name": "Mislav",
+  "last_name": "Zadro",
+  "birth_date": "2003-04-22",
+  "country_id": 761,
+  "club_id": 453,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 106,
+  "value": 389000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 26035664,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

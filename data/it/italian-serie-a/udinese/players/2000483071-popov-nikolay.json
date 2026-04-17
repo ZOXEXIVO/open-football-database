@@ -1,0 +1,27 @@
+{
+  "id": 2000483071,
+  "first_name": "Nikolay",
+  "last_name": "Popov",
+  "birth_date": "2009-07-11",
+  "country_id": 760,
+  "club_id": 1178,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 131,
+  "value": 182000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

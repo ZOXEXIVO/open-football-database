@@ -1,0 +1,37 @@
+{
+  "id": 2000107073,
+  "first_name": "Matteo",
+  "last_name": "Di Paola",
+  "birth_date": "2005-05-24",
+  "country_id": 776,
+  "club_id": 1108,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 80,
+  "value": 18000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 707648,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

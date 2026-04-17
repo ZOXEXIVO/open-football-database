@@ -1,0 +1,33 @@
+{
+  "id": 2000280544,
+  "first_name": "Juan",
+  "last_name": "Delgado",
+  "birth_date": "2005-05-08",
+  "country_id": 1656,
+  "club_id": 117754,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 105,
+  "value": 59000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 308104,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000326337,
+  "first_name": "Paolo",
+  "last_name": "Sanseverino",
+  "birth_date": "2006-01-22",
+  "country_id": 776,
+  "club_id": 700198,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 69,
+  "value": 13000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43092864,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

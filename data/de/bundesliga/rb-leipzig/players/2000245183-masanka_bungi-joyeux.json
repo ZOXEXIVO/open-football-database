@@ -1,0 +1,33 @@
+{
+  "id": 2000245183,
+  "first_name": "Joyeux",
+  "last_name": "Masanka Bungi",
+  "birth_date": "2007-01-24",
+  "country_id": 757,
+  "club_id": 91013388,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 128,
+  "value": 216000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 72000160,
+    "expiration": "2026-06-30",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

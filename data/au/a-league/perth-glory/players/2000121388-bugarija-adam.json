@@ -1,0 +1,29 @@
+{
+  "id": 2000121388,
+  "first_name": "Adam",
+  "last_name": "Bugarija",
+  "birth_date": "2005-02-22",
+  "country_id": 1435,
+  "club_id": 123001,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 87,
+  "value": 132000,
+  "contract": {
+    "salary": 28808,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 122993,
+    "expiration": "2026-06-30",
+    "salary": 28808,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 14229541,
+  "first_name": "Gino",
+  "last_name": "Infantino",
+  "birth_date": "2003-05-19",
+  "country_id": 1649,
+  "club_id": 1129,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 120,
+  "value": 2000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 78,
+    "expiration": "2026-12-31",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  }
+}

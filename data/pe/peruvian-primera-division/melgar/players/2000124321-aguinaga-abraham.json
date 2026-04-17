@@ -1,0 +1,27 @@
+{
+  "id": 2000124321,
+  "first_name": "Abraham",
+  "last_name": "Aguinaga",
+  "birth_date": "2002-08-22",
+  "country_id": 1656,
+  "club_id": 303815,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 98,
+  "value": 76000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2032-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

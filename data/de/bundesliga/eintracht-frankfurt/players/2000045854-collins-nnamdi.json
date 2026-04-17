@@ -1,0 +1,27 @@
+{
+  "id": 2000045854,
+  "first_name": "Nnamdi",
+  "last_name": "Collins",
+  "birth_date": "2004-01-10",
+  "country_id": 771,
+  "club_id": 912,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 142,
+  "value": 33000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

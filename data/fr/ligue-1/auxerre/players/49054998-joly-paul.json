@@ -1,0 +1,33 @@
+{
+  "id": 49054998,
+  "first_name": "Paul",
+  "last_name": "Joly",
+  "birth_date": "2000-06-07",
+  "country_id": 769,
+  "club_id": 824,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 115,
+  "value": 3000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 945,
+    "expiration": "2026-06-30",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

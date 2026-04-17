@@ -1,0 +1,30 @@
+{
+  "id": 14122095,
+  "first_name": "Gabriel",
+  "last_name": "Compagnucci",
+  "birth_date": "1991-08-29",
+  "country_id": 1649,
+  "club_id": 102474,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

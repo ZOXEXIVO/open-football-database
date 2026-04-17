@@ -1,0 +1,29 @@
+{
+  "id": 2000113645,
+  "first_name": "Vladislavs",
+  "last_name": "Razumejevs",
+  "birth_date": "2005-09-03",
+  "country_id": 777,
+  "club_id": 47001127,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 53,
+  "potential_ability": 73,
+  "value": 62000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 47024031,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

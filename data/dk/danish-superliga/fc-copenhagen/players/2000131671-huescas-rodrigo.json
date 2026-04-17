@@ -1,0 +1,31 @@
+{
+  "id": 2000131671,
+  "first_name": "Rodrigo",
+  "last_name": "Huescas",
+  "birth_date": "2003-09-18",
+  "country_id": 379,
+  "club_id": 505,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 134,
+  "value": 13000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

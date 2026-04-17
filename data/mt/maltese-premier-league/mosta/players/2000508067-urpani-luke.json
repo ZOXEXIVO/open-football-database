@@ -1,0 +1,27 @@
+{
+  "id": 2000508067,
+  "first_name": "Luke",
+  "last_name": "Urpani",
+  "birth_date": "2008-02-29",
+  "country_id": 782,
+  "club_id": 133179,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 106,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  }
+}

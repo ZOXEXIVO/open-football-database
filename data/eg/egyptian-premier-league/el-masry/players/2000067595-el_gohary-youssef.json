@@ -1,0 +1,31 @@
+{
+  "id": 2000067595,
+  "first_name": "Youssef",
+  "last_name": "El Gohary",
+  "birth_date": "1997-11-13",
+  "country_id": 16,
+  "club_id": 5370006,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 90,
+  "value": 29000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

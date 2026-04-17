@@ -1,0 +1,31 @@
+{
+  "id": 2000447800,
+  "first_name": "Mariano",
+  "last_name": "Albornoz",
+  "birth_date": "2007-07-28",
+  "country_id": 1649,
+  "club_id": 102489,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 119,
+  "value": 402000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

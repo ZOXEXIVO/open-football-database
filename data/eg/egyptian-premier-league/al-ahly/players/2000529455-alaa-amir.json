@@ -1,0 +1,31 @@
+{
+  "id": 2000529455,
+  "first_name": "Amir",
+  "last_name": "Alaa",
+  "birth_date": "2006-08-20",
+  "country_id": 16,
+  "club_id": 106756,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 113,
+  "value": 233000,
+  "contract": {
+    "salary": 13000,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

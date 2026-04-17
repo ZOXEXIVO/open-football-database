@@ -1,0 +1,28 @@
+{
+  "id": 51063342,
+  "first_name": "Carlos",
+  "last_name": "Robles",
+  "birth_date": "2000-07-11",
+  "country_id": 379,
+  "club_id": 106027,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 129,
+  "value": 19000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 2000193551,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

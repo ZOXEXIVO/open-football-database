@@ -1,0 +1,23 @@
+{
+  "id": 2000518369,
+  "first_name": "Hubert",
+  "last_name": "Kędziora",
+  "birth_date": "2008-02-26",
+  "country_id": 787,
+  "club_id": 1455,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 120,
+  "value": 84000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

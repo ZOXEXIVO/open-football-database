@@ -1,0 +1,27 @@
+{
+  "id": 2000071254,
+  "first_name": "Derry",
+  "last_name": "Scherhant",
+  "birth_date": "2002-11-10",
+  "country_id": 771,
+  "club_id": 944,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 129,
+  "value": 11000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

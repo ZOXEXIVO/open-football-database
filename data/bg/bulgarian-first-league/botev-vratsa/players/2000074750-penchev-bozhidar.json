@@ -1,0 +1,33 @@
+{
+  "id": 2000074750,
+  "first_name": "Bozhidar",
+  "last_name": "Penchev",
+  "birth_date": "2002-03-17",
+  "country_id": 760,
+  "club_id": 22003932,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 97,
+  "value": 214000,
+  "contract": {
+    "salary": 21320,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7500389,
+    "expiration": "2026-06-15",
+    "salary": 21320,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000161463,
+  "first_name": "Joel",
+  "last_name": "Agyekum",
+  "birth_date": "2005-03-08",
+  "country_id": 771,
+  "club_id": 947,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 110,
+  "value": 299000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 879643,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

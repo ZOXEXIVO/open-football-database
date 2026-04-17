@@ -1,0 +1,27 @@
+{
+  "id": 2000264399,
+  "first_name": "Nikita",
+  "last_name": "Neskoromnyi",
+  "birth_date": "2005-11-25",
+  "country_id": 758,
+  "club_id": 130875,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 95,
+  "value": 68000,
+  "contract": {
+    "salary": 6916,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

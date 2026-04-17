@@ -1,0 +1,33 @@
+{
+  "id": 2000254522,
+  "first_name": "Angel",
+  "last_name": "Santiago Ndoho",
+  "birth_date": "2006-11-21",
+  "country_id": 17,
+  "club_id": 7840114,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 77,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056792,
+    "expiration": "2036-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

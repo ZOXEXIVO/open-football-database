@@ -1,0 +1,29 @@
+{
+  "id": 2000297136,
+  "first_name": "Luka",
+  "last_name": "Milojević",
+  "birth_date": "2003-06-09",
+  "country_id": 802,
+  "club_id": 120779,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 95,
+  "value": 447000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1235,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

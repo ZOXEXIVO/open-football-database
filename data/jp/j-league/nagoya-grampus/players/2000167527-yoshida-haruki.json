@@ -1,0 +1,32 @@
+{
+  "id": 2000167527,
+  "first_name": "Haruki",
+  "last_name": "Yoshida",
+  "birth_date": "2003-04-29",
+  "country_id": 116,
+  "club_id": 1191,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 107,
+  "value": 950000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 776288,
+    "expiration": "2026-01-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

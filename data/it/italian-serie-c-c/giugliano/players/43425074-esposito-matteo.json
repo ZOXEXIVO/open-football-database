@@ -1,0 +1,29 @@
+{
+  "id": 43425074,
+  "first_name": "Matteo",
+  "last_name": "Esposito",
+  "birth_date": "2002-08-06",
+  "country_id": 776,
+  "club_id": 108986,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 74,
+  "value": 59000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 832158,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

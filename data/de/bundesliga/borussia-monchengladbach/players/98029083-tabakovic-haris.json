@@ -1,0 +1,29 @@
+{
+  "id": 98029083,
+  "first_name": "Haris",
+  "last_name": "Tabaković",
+  "birth_date": "1994-06-20",
+  "country_id": 759,
+  "club_id": 879226,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 117,
+  "value": 7000000,
+  "contract": {
+    "salary": 1560000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 908,
+    "expiration": "2026-06-30",
+    "salary": 1560000,
+    "wage_contribution_pct": 100
+  }
+}

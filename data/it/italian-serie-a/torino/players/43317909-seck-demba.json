@@ -1,0 +1,37 @@
+{
+  "id": 43317909,
+  "first_name": "Demba",
+  "last_name": "Seck",
+  "birth_date": "2001-02-10",
+  "country_id": 41,
+  "club_id": 1174,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 111,
+  "value": 428000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1952,
+    "expiration": "2026-06-30",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  }
+}

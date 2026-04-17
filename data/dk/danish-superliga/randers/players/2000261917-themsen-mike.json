@@ -1,0 +1,27 @@
+{
+  "id": 2000261917,
+  "first_name": "Mike",
+  "last_name": "Themsen",
+  "birth_date": "2006-03-01",
+  "country_id": 764,
+  "club_id": 930621,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 112,
+  "value": 5000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

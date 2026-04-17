@@ -1,0 +1,29 @@
+{
+  "id": 2000378601,
+  "first_name": "Luke",
+  "last_name": "Tunnah",
+  "birth_date": "2005-10-04",
+  "country_id": 765,
+  "club_id": 457,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 75,
+  "value": 11000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 26035636,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

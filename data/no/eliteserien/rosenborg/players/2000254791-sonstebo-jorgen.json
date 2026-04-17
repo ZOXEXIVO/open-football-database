@@ -1,0 +1,33 @@
+{
+  "id": 2000254791,
+  "first_name": "Jørgen",
+  "last_name": "Sønstebø",
+  "birth_date": "2006-11-10",
+  "country_id": 786,
+  "club_id": 1376,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 104,
+  "value": 214000,
+  "contract": {
+    "salary": 6760,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 1399,
+    "expiration": "2026-12-31",
+    "salary": 6760,
+    "wage_contribution_pct": 100
+  }
+}

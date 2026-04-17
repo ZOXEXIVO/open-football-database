@@ -1,0 +1,28 @@
+{
+  "id": 2000385289,
+  "first_name": "Oskar",
+  "last_name": "Solik",
+  "birth_date": "2005-08-19",
+  "country_id": 787,
+  "club_id": 96006550,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 81,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 1452,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

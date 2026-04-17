@@ -1,0 +1,33 @@
+{
+  "id": 2000091629,
+  "first_name": "Alan",
+  "last_name": "Gómez",
+  "birth_date": "2002-08-29",
+  "country_id": 1655,
+  "club_id": 5280337,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 85,
+  "value": 483000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2032-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5280214,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

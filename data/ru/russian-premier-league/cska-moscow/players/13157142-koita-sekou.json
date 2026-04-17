@@ -1,0 +1,34 @@
+{
+  "id": 13157142,
+  "first_name": "Sékou",
+  "last_name": "Koïta",
+  "birth_date": "1999-11-28",
+  "country_id": 31,
+  "club_id": 1518,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 117,
+  "value": 1000000,
+  "contract": {
+    "salary": 832000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1873,
+    "expiration": "2026-06-30",
+    "salary": 832000,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

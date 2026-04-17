@@ -1,0 +1,37 @@
+{
+  "id": 43318455,
+  "first_name": "Michele",
+  "last_name": "Emmausso",
+  "birth_date": "1997-08-04",
+  "country_id": 776,
+  "club_id": 43018336,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 76,
+  "value": 216000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1124,
+    "expiration": "2027-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000014734,
+  "first_name": "Ilya",
+  "last_name": "Vikhrov",
+  "birth_date": "2002-12-25",
+  "country_id": 758,
+  "club_id": 1300111,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 51,
+  "potential_ability": 65,
+  "value": 6000,
+  "contract": {
+    "salary": 2652,
+    "expiration": "2025-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 29129459,
+  "first_name": "Bilal",
+  "last_name": "Ould-Chikh",
+  "birth_date": "1997-07-28",
+  "country_id": 34,
+  "club_id": 1201011,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 89,
+  "value": 795000,
+  "contract": {
+    "salary": 416,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1011,
+    "expiration": "2026-06-30",
+    "salary": 416,
+    "wage_contribution_pct": 100
+  }
+}

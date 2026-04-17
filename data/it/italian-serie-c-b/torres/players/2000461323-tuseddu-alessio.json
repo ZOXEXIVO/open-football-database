@@ -1,0 +1,27 @@
+{
+  "id": 2000461323,
+  "first_name": "Alessio",
+  "last_name": "Tuseddu",
+  "birth_date": "2008-02-02",
+  "country_id": 776,
+  "club_id": 2222,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 92,
+  "value": 23000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

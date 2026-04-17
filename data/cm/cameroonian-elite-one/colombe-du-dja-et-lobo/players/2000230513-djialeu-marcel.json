@@ -1,0 +1,27 @@
+{
+  "id": 2000230513,
+  "first_name": "Marcel",
+  "last_name": "Djialeu",
+  "birth_date": "2002-03-06",
+  "country_id": 11,
+  "club_id": 13172357,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 67,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2032-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

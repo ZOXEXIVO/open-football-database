@@ -1,0 +1,29 @@
+{
+  "id": 96159219,
+  "first_name": "Igor",
+  "last_name": "Strzałek",
+  "birth_date": "2004-01-19",
+  "country_id": 787,
+  "club_id": 1456,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 119,
+  "value": 421000,
+  "contract": {
+    "salary": 24336,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 96000060,
+    "expiration": "2026-06-30",
+    "salary": 24336,
+    "wage_contribution_pct": 100
+  }
+}

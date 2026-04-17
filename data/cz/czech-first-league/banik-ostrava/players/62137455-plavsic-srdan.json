@@ -1,0 +1,41 @@
+{
+  "id": 62137455,
+  "first_name": "Srđan",
+  "last_name": "Plavšić",
+  "birth_date": "1995-12-03",
+  "country_id": 802,
+  "club_id": 722115,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 110,
+  "value": 1000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300301,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

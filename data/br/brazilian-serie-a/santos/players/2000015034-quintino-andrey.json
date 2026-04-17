@@ -1,0 +1,33 @@
+{
+  "id": 2000015034,
+  "first_name": "Andrey",
+  "last_name": "Quintino",
+  "birth_date": "2002-08-05",
+  "country_id": 1651,
+  "club_id": 335,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 119,
+  "value": 1000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 301323,
+    "expiration": "2026-11-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

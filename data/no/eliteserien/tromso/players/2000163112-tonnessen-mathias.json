@@ -1,0 +1,31 @@
+{
+  "id": 2000163112,
+  "first_name": "Mathias",
+  "last_name": "Tønnessen",
+  "birth_date": "2003-11-22",
+  "country_id": 786,
+  "club_id": 1410,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 98,
+  "value": 2000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2031-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

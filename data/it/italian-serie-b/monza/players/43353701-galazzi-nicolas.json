@@ -1,0 +1,31 @@
+{
+  "id": 43353701,
+  "first_name": "Nicolas",
+  "last_name": "Galazzi",
+  "birth_date": "2000-12-18",
+  "country_id": 776,
+  "club_id": 1149,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 83,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

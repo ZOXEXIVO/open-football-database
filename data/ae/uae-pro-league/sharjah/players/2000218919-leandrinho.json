@@ -1,0 +1,31 @@
+{
+  "id": 2000218919,
+  "first_name": "Leandrinho",
+  "last_name": "",
+  "birth_date": "2005-03-17",
+  "country_id": 1651,
+  "club_id": 135455,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 125,
+  "value": 4000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

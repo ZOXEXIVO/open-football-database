@@ -1,0 +1,29 @@
+{
+  "id": 2000139819,
+  "first_name": "Milton",
+  "last_name": "Zanotti",
+  "birth_date": "2003-09-27",
+  "country_id": 1649,
+  "club_id": 95,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 112,
+  "value": 310000,
+  "contract": {
+    "salary": 4576,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 102470,
+    "expiration": "2026-12-31",
+    "salary": 4576,
+    "wage_contribution_pct": 100
+  }
+}

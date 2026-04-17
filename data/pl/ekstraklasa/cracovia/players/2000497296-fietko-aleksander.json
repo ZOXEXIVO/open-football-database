@@ -1,0 +1,26 @@
+{
+  "id": 2000497296,
+  "first_name": "Aleksander",
+  "last_name": "Fietko",
+  "birth_date": "2008-06-24",
+  "country_id": 787,
+  "club_id": 129583,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 95,
+  "value": 42000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01"
+  }
+}

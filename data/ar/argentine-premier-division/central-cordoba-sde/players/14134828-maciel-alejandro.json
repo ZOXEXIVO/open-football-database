@@ -1,0 +1,29 @@
+{
+  "id": 14134828,
+  "first_name": "Alejandro",
+  "last_name": "Maciel",
+  "birth_date": "1997-04-22",
+  "country_id": 1649,
+  "club_id": 102924,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 109,
+  "value": 566000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 14018428,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

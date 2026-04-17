@@ -1,0 +1,27 @@
+{
+  "id": 2000201806,
+  "first_name": "Juho",
+  "last_name": "Lähteenmäki",
+  "birth_date": "2006-06-15",
+  "country_id": 768,
+  "club_id": 932443,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 108,
+  "value": 4000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

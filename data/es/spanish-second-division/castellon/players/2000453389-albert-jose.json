@@ -1,0 +1,29 @@
+{
+  "id": 2000453389,
+  "first_name": "José",
+  "last_name": "Albert",
+  "birth_date": "2003-12-01",
+  "country_id": 796,
+  "club_id": 1690,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 111,
+  "value": 197000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 4212168,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

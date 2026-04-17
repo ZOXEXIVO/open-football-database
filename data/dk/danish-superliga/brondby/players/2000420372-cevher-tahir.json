@@ -1,0 +1,27 @@
+{
+  "id": 2000420372,
+  "first_name": "Tahir",
+  "last_name": "Cevher",
+  "birth_date": "2008-03-28",
+  "country_id": 764,
+  "club_id": 496,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 100,
+  "value": 1000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

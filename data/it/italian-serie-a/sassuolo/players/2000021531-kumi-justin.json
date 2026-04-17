@@ -1,0 +1,33 @@
+{
+  "id": 2000021531,
+  "first_name": "Justin",
+  "last_name": "Kumi",
+  "birth_date": "2004-07-16",
+  "country_id": 776,
+  "club_id": 3800256,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 129,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1108,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

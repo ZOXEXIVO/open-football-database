@@ -1,0 +1,33 @@
+{
+  "id": 91179656,
+  "first_name": "Yannik",
+  "last_name": "Keitel",
+  "birth_date": "2000-02-15",
+  "country_id": 771,
+  "club_id": 960,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 134,
+  "value": 2000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2238,
+    "expiration": "2026-06-30",
+    "salary": 1300000,
+    "wage_contribution_pct": 100
+  }
+}

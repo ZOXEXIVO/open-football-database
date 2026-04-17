@@ -1,0 +1,33 @@
+{
+  "id": 2000098328,
+  "first_name": "Patrick",
+  "last_name": "Nuamah",
+  "birth_date": "2005-12-31",
+  "country_id": 776,
+  "club_id": 3800256,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 121,
+  "value": 648000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1119,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

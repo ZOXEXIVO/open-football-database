@@ -1,0 +1,31 @@
+{
+  "id": 17028020,
+  "first_name": "Pavel",
+  "last_name": "Tseslyukevich",
+  "birth_date": "1995-05-11",
+  "country_id": 758,
+  "club_id": 17004083,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 55,
+  "value": 7000,
+  "contract": {
+    "salary": 5772,
+    "expiration": "2026-12-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

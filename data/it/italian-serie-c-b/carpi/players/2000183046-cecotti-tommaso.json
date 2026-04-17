@@ -1,0 +1,35 @@
+{
+  "id": 2000183046,
+  "first_name": "Tommaso",
+  "last_name": "Cecotti",
+  "birth_date": "2005-09-13",
+  "country_id": 776,
+  "club_id": 1115,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 84,
+  "value": 100000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

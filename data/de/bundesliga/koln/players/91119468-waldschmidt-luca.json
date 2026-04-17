@@ -1,0 +1,35 @@
+{
+  "id": 91119468,
+  "first_name": "Luca",
+  "last_name": "Waldschmidt",
+  "birth_date": "1996-05-19",
+  "country_id": 771,
+  "club_id": 916,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 128,
+  "value": 2000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

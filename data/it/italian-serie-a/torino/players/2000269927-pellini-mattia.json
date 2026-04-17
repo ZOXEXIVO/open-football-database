@@ -1,0 +1,33 @@
+{
+  "id": 2000269927,
+  "first_name": "Mattia",
+  "last_name": "Pellini",
+  "birth_date": "2007-02-23",
+  "country_id": 776,
+  "club_id": 43036943,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 126,
+  "value": 174000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1174,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000406211,
+  "first_name": "Niklas",
+  "last_name": "Fuglestad",
+  "birth_date": "2006-05-20",
+  "country_id": 786,
+  "club_id": 1422,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 110,
+  "value": 2000000,
+  "contract": {
+    "salary": 30316,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

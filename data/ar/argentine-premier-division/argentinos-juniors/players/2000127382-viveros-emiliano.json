@@ -1,0 +1,27 @@
+{
+  "id": 2000127382,
+  "first_name": "Emiliano",
+  "last_name": "Viveros",
+  "birth_date": "2002-09-30",
+  "country_id": 1649,
+  "club_id": 78,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 118,
+  "value": 5000000,
+  "contract": {
+    "salary": 41704,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

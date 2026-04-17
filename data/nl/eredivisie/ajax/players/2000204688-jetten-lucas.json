@@ -1,0 +1,27 @@
+{
+  "id": 2000204688,
+  "first_name": "Lucas",
+  "last_name": "Jetten",
+  "birth_date": "2007-06-07",
+  "country_id": 784,
+  "club_id": 992,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 149,
+  "value": 12000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 62217642,
+  "first_name": "Balša",
+  "last_name": "Popović",
+  "birth_date": "2000-06-10",
+  "country_id": 62002127,
+  "club_id": 1955,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 103,
+  "value": 175000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1951,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

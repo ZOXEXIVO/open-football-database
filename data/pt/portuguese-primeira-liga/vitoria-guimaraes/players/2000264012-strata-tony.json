@@ -1,0 +1,27 @@
+{
+  "id": 2000264012,
+  "first_name": "Tony",
+  "last_name": "Strata",
+  "birth_date": "2004-09-07",
+  "country_id": 790,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 108,
+  "value": 3000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

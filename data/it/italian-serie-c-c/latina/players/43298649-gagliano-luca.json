@@ -1,0 +1,29 @@
+{
+  "id": 43298649,
+  "first_name": "Luca",
+  "last_name": "Gagliano",
+  "birth_date": "2000-07-14",
+  "country_id": 776,
+  "club_id": 700060,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 92,
+  "value": 194000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000015398,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

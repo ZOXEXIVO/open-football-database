@@ -1,0 +1,31 @@
+{
+  "id": 2000378132,
+  "first_name": "Gunnar",
+  "last_name": "Orri Olsen",
+  "birth_date": "2008-03-15",
+  "country_id": 774,
+  "club_id": 505,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 131,
+  "value": 805000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000103724,
+  "first_name": "Giuseppe",
+  "last_name": "Carrozza",
+  "birth_date": "2005-05-25",
+  "country_id": 776,
+  "club_id": 43018336,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 66,
+  "value": 36000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1401285,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

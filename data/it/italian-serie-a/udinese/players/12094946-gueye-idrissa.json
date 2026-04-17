@@ -1,0 +1,30 @@
+{
+  "id": 12094946,
+  "first_name": "Idrissa",
+  "last_name": "Guèye",
+  "birth_date": "2006-09-16",
+  "country_id": 41,
+  "club_id": 844,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 120,
+  "value": 11000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1178,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

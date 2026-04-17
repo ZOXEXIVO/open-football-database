@@ -1,0 +1,31 @@
+{
+  "id": 2000044798,
+  "first_name": "Jules",
+  "last_name": "Armand Kooh",
+  "birth_date": "1999-06-16",
+  "country_id": 11,
+  "club_id": 5340786,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 71,
+  "value": 66000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

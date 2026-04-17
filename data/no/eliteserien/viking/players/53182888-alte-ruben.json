@@ -1,0 +1,27 @@
+{
+  "id": 53182888,
+  "first_name": "Ruben",
+  "last_name": "Alte",
+  "birth_date": "2000-02-28",
+  "country_id": 786,
+  "club_id": 1422,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 105,
+  "value": 3000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

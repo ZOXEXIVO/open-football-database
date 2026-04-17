@@ -1,0 +1,27 @@
+{
+  "id": 2000330472,
+  "first_name": "Kirill",
+  "last_name": "Simonov",
+  "birth_date": "2006-05-24",
+  "country_id": 791,
+  "club_id": 130496,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 106,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

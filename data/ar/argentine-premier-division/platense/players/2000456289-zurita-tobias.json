@@ -1,0 +1,23 @@
+{
+  "id": 2000456289,
+  "first_name": "Tobías",
+  "last_name": "Zurita",
+  "birth_date": "2008-10-18",
+  "country_id": 1650,
+  "club_id": 92,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 125,
+  "value": 221000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 25062509,
+  "first_name": "Daniel",
+  "last_name": "Kosek",
+  "birth_date": "2001-05-19",
+  "country_id": 763,
+  "club_id": 131289,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 95,
+  "value": 129000,
+  "contract": {
+    "salary": 42224,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5652987,
+    "expiration": "2026-06-30",
+    "salary": 42224,
+    "wage_contribution_pct": 100
+  }
+}

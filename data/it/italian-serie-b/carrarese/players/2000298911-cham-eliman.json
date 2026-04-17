@@ -1,0 +1,37 @@
+{
+  "id": 2000298911,
+  "first_name": "Eliman",
+  "last_name": "Cham",
+  "birth_date": "2005-01-03",
+  "country_id": 20,
+  "club_id": 1116,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 83,
+  "value": 35000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 829178,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

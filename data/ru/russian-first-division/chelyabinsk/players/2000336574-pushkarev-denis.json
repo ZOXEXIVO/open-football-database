@@ -1,0 +1,35 @@
+{
+  "id": 2000336574,
+  "first_name": "Denis",
+  "last_name": "Pushkarev",
+  "birth_date": "2005-03-21",
+  "country_id": 791,
+  "club_id": 58044880,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 96,
+  "value": 404000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

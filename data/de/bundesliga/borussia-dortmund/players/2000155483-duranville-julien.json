@@ -1,0 +1,33 @@
+{
+  "id": 2000155483,
+  "first_name": "Julien",
+  "last_name": "Duranville",
+  "birth_date": "2006-05-05",
+  "country_id": 757,
+  "club_id": 907,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 173,
+  "value": 8000000,
+  "contract": {
+    "salary": 1716000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1849,
+    "expiration": "2026-06-30",
+    "salary": 1716000,
+    "wage_contribution_pct": 100
+  }
+}

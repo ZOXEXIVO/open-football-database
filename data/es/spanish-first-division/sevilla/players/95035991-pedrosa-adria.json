@@ -1,0 +1,33 @@
+{
+  "id": 95035991,
+  "first_name": "Adrià",
+  "last_name": "Pedrosa",
+  "birth_date": "1998-05-13",
+  "country_id": 796,
+  "club_id": 1759,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 122,
+  "potential_ability": 139,
+  "value": 16000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1707,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

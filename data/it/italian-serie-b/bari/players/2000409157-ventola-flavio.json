@@ -1,0 +1,29 @@
+{
+  "id": 2000409157,
+  "first_name": "Flavio",
+  "last_name": "Ventola",
+  "birth_date": "2008-04-25",
+  "country_id": 776,
+  "club_id": 1110,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 103,
+  "value": 104000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 832136,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

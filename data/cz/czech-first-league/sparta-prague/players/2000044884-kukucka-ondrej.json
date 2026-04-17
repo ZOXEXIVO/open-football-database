@@ -1,0 +1,29 @@
+{
+  "id": 2000044884,
+  "first_name": "Ondřej",
+  "last_name": "Kukučka",
+  "birth_date": "2004-03-23",
+  "country_id": 763,
+  "club_id": 476,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 117,
+  "value": 715000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 463,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000024732,
+  "first_name": "Luca",
+  "last_name": "Marianucci",
+  "birth_date": "2004-07-23",
+  "country_id": 776,
+  "club_id": 1150,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 123,
+  "potential_ability": 153,
+  "value": 8000000,
+  "contract": {
+    "salary": 1612000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1174,
+    "expiration": "2026-06-30",
+    "salary": 1612000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000244453,
+  "first_name": "Kirill",
+  "last_name": "Kovalevich",
+  "birth_date": "2004-11-30",
+  "country_id": 758,
+  "club_id": 485671,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 48,
+  "potential_ability": 71,
+  "value": 21000,
+  "contract": {
+    "salary": 9620,
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

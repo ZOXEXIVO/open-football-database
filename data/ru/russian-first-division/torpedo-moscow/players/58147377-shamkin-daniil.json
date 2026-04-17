@@ -1,0 +1,33 @@
+{
+  "id": 58147377,
+  "first_name": "Daniil",
+  "last_name": "Shamkin",
+  "birth_date": "2002-06-22",
+  "country_id": 791,
+  "club_id": 130498,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 96,
+  "value": 186000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1522,
+    "expiration": "2026-06-10",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

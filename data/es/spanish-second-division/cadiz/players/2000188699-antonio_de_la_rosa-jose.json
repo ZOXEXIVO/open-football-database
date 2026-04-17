@@ -1,0 +1,27 @@
+{
+  "id": 2000188699,
+  "first_name": "José",
+  "last_name": "Antonio De la Rosa",
+  "birth_date": "2004-07-28",
+  "country_id": 796,
+  "club_id": 1682,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 108,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

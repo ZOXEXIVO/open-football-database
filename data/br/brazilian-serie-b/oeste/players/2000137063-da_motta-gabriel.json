@@ -1,0 +1,29 @@
+{
+  "id": 2000137063,
+  "first_name": "Gabriel",
+  "last_name": "da Motta",
+  "birth_date": "2001-09-23",
+  "country_id": 1651,
+  "club_id": 325,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 109,
+  "value": 17000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-02",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 311028,
+    "expiration": "2026-05-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

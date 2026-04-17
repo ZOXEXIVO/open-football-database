@@ -1,0 +1,27 @@
+{
+  "id": 2000019643,
+  "first_name": "Fin",
+  "last_name": "Stevens",
+  "birth_date": "2003-04-10",
+  "country_id": 801,
+  "club_id": 946,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 111,
+  "value": 1000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

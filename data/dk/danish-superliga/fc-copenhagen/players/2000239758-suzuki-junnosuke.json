@@ -1,0 +1,31 @@
+{
+  "id": 2000239758,
+  "first_name": "Junnosuke",
+  "last_name": "Suzuki",
+  "birth_date": "2003-07-12",
+  "country_id": 116,
+  "club_id": 505,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 126,
+  "value": 9000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

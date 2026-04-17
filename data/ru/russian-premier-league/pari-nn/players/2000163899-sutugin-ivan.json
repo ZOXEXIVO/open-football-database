@@ -1,0 +1,29 @@
+{
+  "id": 2000163899,
+  "first_name": "Ivan",
+  "last_name": "Sutugin",
+  "birth_date": "2003-09-15",
+  "country_id": 791,
+  "club_id": 58145944,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 97,
+  "value": 293000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1301102,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

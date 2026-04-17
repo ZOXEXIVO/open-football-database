@@ -1,0 +1,31 @@
+{
+  "id": 2000420917,
+  "first_name": "Gijs",
+  "last_name": "Groot",
+  "birth_date": "2008-03-26",
+  "country_id": 784,
+  "club_id": 991,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 120,
+  "value": 640000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

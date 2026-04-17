@@ -1,0 +1,37 @@
+{
+  "id": 43425272,
+  "first_name": "Angelo",
+  "last_name": "Guida",
+  "birth_date": "2002-08-24",
+  "country_id": 776,
+  "club_id": 707648,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 78,
+  "value": 86000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1165,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

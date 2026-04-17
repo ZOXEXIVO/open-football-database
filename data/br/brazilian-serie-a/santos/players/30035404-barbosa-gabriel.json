@@ -1,0 +1,33 @@
+{
+  "id": 30035404,
+  "first_name": "Gabriel",
+  "last_name": "Barbosa",
+  "birth_date": "1996-08-30",
+  "country_id": 1651,
+  "club_id": 321,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 130,
+  "value": 11000000,
+  "contract": {
+    "salary": 3900000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 335,
+    "expiration": "2026-12-31",
+    "salary": 3900000,
+    "wage_contribution_pct": 100
+  }
+}

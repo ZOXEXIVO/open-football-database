@@ -1,0 +1,33 @@
+{
+  "id": 2000040215,
+  "first_name": "Jeirye",
+  "last_name": "Caicedo",
+  "birth_date": "2004-03-16",
+  "country_id": 1653,
+  "club_id": 130800,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 108,
+  "value": 125000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 76004125,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

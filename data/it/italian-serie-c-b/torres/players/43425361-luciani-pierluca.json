@@ -1,0 +1,29 @@
+{
+  "id": 43425361,
+  "first_name": "Pierluca",
+  "last_name": "Luciani",
+  "birth_date": "2002-02-24",
+  "country_id": 776,
+  "club_id": 1163,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 79,
+  "value": 146000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2222,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

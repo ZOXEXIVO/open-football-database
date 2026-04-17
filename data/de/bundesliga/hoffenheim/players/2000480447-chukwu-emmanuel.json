@@ -1,0 +1,29 @@
+{
+  "id": 2000480447,
+  "first_name": "Emmanuel",
+  "last_name": "Chukwu",
+  "birth_date": "2006-11-07",
+  "country_id": 38,
+  "club_id": 879226,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 131,
+  "value": 1000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 16034828,
+    "expiration": "2026-06-30",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

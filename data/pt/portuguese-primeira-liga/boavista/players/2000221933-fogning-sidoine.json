@@ -1,0 +1,29 @@
+{
+  "id": 2000221933,
+  "first_name": "Sidoine",
+  "last_name": "Fogning",
+  "birth_date": "2001-11-14",
+  "country_id": 11,
+  "club_id": 1471,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 103,
+  "value": 793000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1622,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

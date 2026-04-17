@@ -1,0 +1,27 @@
+{
+  "id": 2000035015,
+  "first_name": "Davide",
+  "last_name": "Bragantini",
+  "birth_date": "2003-08-17",
+  "country_id": 776,
+  "club_id": 700198,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 99,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 28100266,
+  "first_name": "Marcus",
+  "last_name": "Rashford",
+  "birth_date": "1997-10-31",
+  "country_id": 765,
+  "club_id": 680,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 133,
+  "potential_ability": 154,
+  "value": 55000000,
+  "contract": {
+    "salary": 12220000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1708,
+    "expiration": "2026-06-30",
+    "salary": 12220000,
+    "wage_contribution_pct": 100
+  }
+}

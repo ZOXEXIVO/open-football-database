@@ -1,0 +1,23 @@
+{
+  "id": 2000518713,
+  "first_name": "Michał",
+  "last_name": "Abramczyk",
+  "birth_date": "2008-12-12",
+  "country_id": 787,
+  "club_id": 710052,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 111,
+  "value": 119000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

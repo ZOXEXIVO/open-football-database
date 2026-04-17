@@ -1,0 +1,29 @@
+{
+  "id": 14227546,
+  "first_name": "Santiago",
+  "last_name": "Flores",
+  "birth_date": "2001-03-25",
+  "country_id": 1649,
+  "club_id": 85,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 115,
+  "value": 800000,
+  "contract": {
+    "salary": 33176,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3100019,
+    "expiration": "2026-12-31",
+    "salary": 33176,
+    "wage_contribution_pct": 100
+  }
+}

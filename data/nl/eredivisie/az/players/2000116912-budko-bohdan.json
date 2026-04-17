@@ -1,0 +1,35 @@
+{
+  "id": 2000116912,
+  "first_name": "Bohdan",
+  "last_name": "Budko",
+  "birth_date": "2006-01-07",
+  "country_id": 800,
+  "club_id": 991,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 123,
+  "value": 4000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

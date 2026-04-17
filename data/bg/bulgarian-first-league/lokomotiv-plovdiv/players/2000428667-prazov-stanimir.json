@@ -1,0 +1,27 @@
+{
+  "id": 2000428667,
+  "first_name": "Stanimir",
+  "last_name": "Prazov",
+  "birth_date": "2006-03-27",
+  "country_id": 760,
+  "club_id": 351,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 117,
+  "value": 102000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

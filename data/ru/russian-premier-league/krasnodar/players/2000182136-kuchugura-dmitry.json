@@ -1,0 +1,29 @@
+{
+  "id": 2000182136,
+  "first_name": "Dmitry",
+  "last_name": "Kuchugura",
+  "birth_date": "2004-10-21",
+  "country_id": 791,
+  "club_id": 58029064,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 118,
+  "value": 117000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130550,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

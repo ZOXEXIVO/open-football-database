@@ -1,0 +1,33 @@
+{
+  "id": 98031331,
+  "first_name": "Manuel",
+  "last_name": "Akanji",
+  "birth_date": "1995-07-19",
+  "country_id": 798,
+  "club_id": 679,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 135,
+  "potential_ability": 137,
+  "value": 47000000,
+  "contract": {
+    "salary": 6760000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1135,
+    "expiration": "2026-06-30",
+    "salary": 6760000,
+    "wage_contribution_pct": 100
+  }
+}

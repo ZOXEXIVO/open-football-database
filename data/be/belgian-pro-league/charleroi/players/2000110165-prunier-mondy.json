@@ -1,0 +1,29 @@
+{
+  "id": 2000110165,
+  "first_name": "Mondy",
+  "last_name": "Prunier",
+  "birth_date": "1999-12-22",
+  "country_id": 375,
+  "club_id": 263,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 98,
+  "value": 159000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 527945,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

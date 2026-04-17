@@ -1,0 +1,31 @@
+{
+  "id": 2000250905,
+  "first_name": "Austin",
+  "last_name": "Harrison",
+  "birth_date": "2005-10-25",
+  "country_id": 38,
+  "club_id": 16034828,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 105,
+  "value": 420000,
+  "contract": {
+    "salary": 33332,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

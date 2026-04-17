@@ -1,0 +1,29 @@
+{
+  "id": 2000013788,
+  "first_name": "Mihajlo",
+  "last_name": "Spasojević",
+  "birth_date": "2004-02-15",
+  "country_id": 802,
+  "club_id": 62159794,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 86,
+  "value": 377000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 120783,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 19227511,
+  "first_name": "Gustavo",
+  "last_name": "Silva",
+  "birth_date": "1997-09-07",
+  "country_id": 1651,
+  "club_id": 1188,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 98,
+  "potential_ability": 103,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

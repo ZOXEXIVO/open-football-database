@@ -1,0 +1,29 @@
+{
+  "id": 2000452858,
+  "first_name": "Kirill",
+  "last_name": "Pankratov",
+  "birth_date": "2007-06-13",
+  "country_id": 758,
+  "club_id": 130875,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 85,
+  "value": 6000,
+  "contract": {
+    "salary": 1924,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000431962,
+    "expiration": "2025-12-10",
+    "salary": 1924,
+    "wage_contribution_pct": 100
+  }
+}

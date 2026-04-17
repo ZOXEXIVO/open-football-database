@@ -1,0 +1,29 @@
+{
+  "id": 2000265499,
+  "first_name": "Ernesto",
+  "last_name": "Runza",
+  "birth_date": "2007-04-27",
+  "country_id": 776,
+  "club_id": 1163,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 77,
+  "value": 7000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 829195,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

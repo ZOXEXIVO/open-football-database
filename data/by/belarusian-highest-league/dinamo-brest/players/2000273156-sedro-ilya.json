@@ -1,0 +1,27 @@
+{
+  "id": 2000273156,
+  "first_name": "Ilya",
+  "last_name": "Sedro",
+  "birth_date": "2005-08-16",
+  "country_id": 758,
+  "club_id": 1300113,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 77,
+  "value": 33000,
+  "contract": {
+    "salary": 1144,
+    "expiration": "2026-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000250551,
+  "first_name": "Nicolas",
+  "last_name": "Letelier",
+  "birth_date": "2005-06-01",
+  "country_id": 1652,
+  "club_id": 403,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 113,
+  "value": 129000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5250432,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

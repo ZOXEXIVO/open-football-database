@@ -1,0 +1,33 @@
+{
+  "id": 2000414367,
+  "first_name": "Youssry",
+  "last_name": "Wahid",
+  "birth_date": "1998-03-28",
+  "country_id": 16,
+  "club_id": 13167212,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 92,
+  "value": 29000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 529014,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

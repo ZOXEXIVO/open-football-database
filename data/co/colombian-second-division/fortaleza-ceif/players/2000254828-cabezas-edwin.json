@@ -1,0 +1,33 @@
+{
+  "id": 2000254828,
+  "first_name": "Edwin",
+  "last_name": "Cabezas",
+  "birth_date": "2005-04-27",
+  "country_id": 1653,
+  "club_id": 76019314,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 95,
+  "value": 65000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000273045,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000071495,
+  "first_name": "Bolbol",
+  "last_name": "",
+  "birth_date": "1998-01-12",
+  "country_id": 16,
+  "club_id": 2000067559,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 92,
+  "value": 26000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5370007,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

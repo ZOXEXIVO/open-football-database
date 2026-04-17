@@ -1,0 +1,33 @@
+{
+  "id": 14220062,
+  "first_name": "Benjamín",
+  "last_name": "Borasi",
+  "birth_date": "1997-11-11",
+  "country_id": 1649,
+  "club_id": 3101516,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 85,
+  "value": 199000,
+  "contract": {
+    "salary": 23556,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 102466,
+    "expiration": "2026-12-31",
+    "salary": 23556,
+    "wage_contribution_pct": 100
+  }
+}

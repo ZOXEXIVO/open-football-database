@@ -1,0 +1,33 @@
+{
+  "id": 2000136266,
+  "first_name": "Tommaso",
+  "last_name": "Casani",
+  "birth_date": "2005-02-15",
+  "country_id": 776,
+  "club_id": 43036943,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 80,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 702490,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

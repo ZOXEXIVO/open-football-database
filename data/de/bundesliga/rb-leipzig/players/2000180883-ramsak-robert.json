@@ -1,0 +1,33 @@
+{
+  "id": 2000180883,
+  "first_name": "Robert",
+  "last_name": "Ramšak",
+  "birth_date": "2006-10-28",
+  "country_id": 771,
+  "club_id": 91013388,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 135,
+  "value": 296000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 6000006,
+    "expiration": "2026-06-30",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 28106683,
+  "first_name": "Nathan",
+  "last_name": "Tella",
+  "birth_date": "1999-07-05",
+  "country_id": 38,
+  "club_id": 901,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 126,
+  "potential_ability": 132,
+  "value": 13000000,
+  "contract": {
+    "salary": 2600000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

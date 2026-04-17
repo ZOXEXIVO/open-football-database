@@ -1,0 +1,29 @@
+{
+  "id": 2000248373,
+  "first_name": "Mostafa",
+  "last_name": "Makhlouf",
+  "birth_date": "2003-05-16",
+  "country_id": 16,
+  "club_id": 106756,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 123,
+  "value": 5000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000142134,
+    "expiration": "2026-07-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

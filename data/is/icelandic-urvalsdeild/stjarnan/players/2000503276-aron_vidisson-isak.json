@@ -1,0 +1,29 @@
+{
+  "id": 2000503276,
+  "first_name": "Ísak",
+  "last_name": "Aron Víðisson",
+  "birth_date": "2008-11-25",
+  "country_id": 774,
+  "club_id": 1078,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 93,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-11-16",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056854,
+    "expiration": "2027-11-16",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

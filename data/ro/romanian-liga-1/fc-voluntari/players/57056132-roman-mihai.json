@@ -1,0 +1,29 @@
+{
+  "id": 57056132,
+  "first_name": "Mihai",
+  "last_name": "Roman",
+  "birth_date": "1992-05-31",
+  "country_id": 790,
+  "club_id": 1502,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 100,
+  "value": 105000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57065222,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

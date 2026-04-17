@@ -1,0 +1,33 @@
+{
+  "id": 19351934,
+  "first_name": "Lucas",
+  "last_name": "Souza",
+  "birth_date": "1998-01-06",
+  "country_id": 1651,
+  "club_id": 107240,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 7000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-11-25",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 107205,
+    "expiration": "2026-10-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

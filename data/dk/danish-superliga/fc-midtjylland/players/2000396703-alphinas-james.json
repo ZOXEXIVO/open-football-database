@@ -1,0 +1,27 @@
+{
+  "id": 2000396703,
+  "first_name": "James",
+  "last_name": "Alphinas",
+  "birth_date": "2008-02-20",
+  "country_id": 764,
+  "club_id": 526,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 109,
+  "value": 4000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

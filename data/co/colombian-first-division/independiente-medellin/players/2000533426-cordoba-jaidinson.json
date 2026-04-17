@@ -1,0 +1,31 @@
+{
+  "id": 2000533426,
+  "first_name": "Jaidinson",
+  "last_name": "Córdoba",
+  "birth_date": "2007-12-12",
+  "country_id": 1653,
+  "club_id": 425,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 125,
+  "value": 160000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

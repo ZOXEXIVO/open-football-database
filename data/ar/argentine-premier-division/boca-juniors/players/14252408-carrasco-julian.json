@@ -1,0 +1,29 @@
+{
+  "id": 14252408,
+  "first_name": "Julián",
+  "last_name": "Carrasco",
+  "birth_date": "2002-03-13",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 127,
+  "value": 497000,
+  "contract": {
+    "salary": 23088,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3100019,
+    "expiration": "2026-12-31",
+    "salary": 23088,
+    "wage_contribution_pct": 100
+  }
+}

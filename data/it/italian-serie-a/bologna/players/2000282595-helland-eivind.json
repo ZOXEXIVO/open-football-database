@@ -1,0 +1,31 @@
+{
+  "id": 2000282595,
+  "first_name": "Eivind",
+  "last_name": "Helland",
+  "birth_date": "2005-04-25",
+  "country_id": 786,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 128,
+  "value": 17000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

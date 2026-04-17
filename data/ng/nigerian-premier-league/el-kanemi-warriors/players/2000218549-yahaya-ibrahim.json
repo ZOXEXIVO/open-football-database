@@ -1,0 +1,31 @@
+{
+  "id": 2000218549,
+  "first_name": "Ibrahim",
+  "last_name": "Yahaya",
+  "birth_date": "2000-03-28",
+  "country_id": 38,
+  "club_id": 5340750,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 75,
+  "value": 44000,
+  "contract": {
+    "salary": 1040,
+    "expiration": "2026-08-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 93070929,
+  "first_name": "Jesper",
+  "last_name": "Karlsson",
+  "birth_date": "1998-07-25",
+  "country_id": 797,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 111,
+  "value": 927000,
+  "contract": {
+    "salary": 1404000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1010,
+    "expiration": "2026-06-30",
+    "salary": 1404000,
+    "wage_contribution_pct": 100
+  }
+}

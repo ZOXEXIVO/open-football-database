@@ -1,0 +1,31 @@
+{
+  "id": 78076343,
+  "first_name": "Mathías",
+  "last_name": "Olivera",
+  "birth_date": "1997-10-31",
+  "country_id": 1657,
+  "club_id": 1150,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 123,
+  "potential_ability": 128,
+  "value": 24000000,
+  "contract": {
+    "salary": 2236000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

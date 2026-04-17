@@ -1,0 +1,27 @@
+{
+  "id": 2000375662,
+  "first_name": "Lennart",
+  "last_name": "Karl",
+  "birth_date": "2008-02-22",
+  "country_id": 771,
+  "club_id": 915,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 135,
+  "potential_ability": 170,
+  "value": 28000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000157768,
+  "first_name": "Andrés",
+  "last_name": "Ferrari",
+  "birth_date": "2003-01-03",
+  "country_id": 1657,
+  "club_id": 278,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 98,
+  "value": 4000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1744,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

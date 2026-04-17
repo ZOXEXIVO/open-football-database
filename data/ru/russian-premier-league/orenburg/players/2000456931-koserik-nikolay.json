@@ -1,0 +1,29 @@
+{
+  "id": 2000456931,
+  "first_name": "Nikolay",
+  "last_name": "Koserik",
+  "birth_date": "2007-05-28",
+  "country_id": 791,
+  "club_id": 58127493,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 100,
+  "value": 310000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 476286,
+    "expiration": "2026-12-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

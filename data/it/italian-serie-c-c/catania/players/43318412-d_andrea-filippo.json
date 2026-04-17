@@ -1,0 +1,33 @@
+{
+  "id": 43318412,
+  "first_name": "Filippo",
+  "last_name": "D'Andrea",
+  "birth_date": "1998-09-25",
+  "country_id": 776,
+  "club_id": 2193,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 82,
+  "value": 253000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43007150,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

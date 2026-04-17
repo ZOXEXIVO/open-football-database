@@ -1,0 +1,29 @@
+{
+  "id": 2000083165,
+  "first_name": "David",
+  "last_name": "Kořán",
+  "birth_date": "2003-05-22",
+  "country_id": 763,
+  "club_id": 136156,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 96,
+  "value": 6000,
+  "contract": {
+    "salary": 19708,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 478,
+    "expiration": "2026-06-30",
+    "salary": 19708,
+    "wage_contribution_pct": 100
+  }
+}

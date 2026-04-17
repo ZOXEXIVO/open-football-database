@@ -1,0 +1,29 @@
+{
+  "id": 2000239697,
+  "first_name": "Shuto",
+  "last_name": "Adachi",
+  "birth_date": "2004-07-15",
+  "country_id": 116,
+  "club_id": 106844,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 96,
+  "value": 41000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 780521,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000237880,
+  "first_name": "Ivan",
+  "last_name": "Grudko",
+  "birth_date": "2004-07-27",
+  "country_id": 758,
+  "club_id": 130879,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 70,
+  "value": 44000,
+  "contract": {
+    "salary": 9620,
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 17037713,
+    "expiration": "2026-12-10",
+    "salary": 9620,
+    "wage_contribution_pct": 100
+  }
+}

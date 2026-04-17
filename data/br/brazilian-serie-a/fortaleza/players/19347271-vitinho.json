@@ -1,0 +1,33 @@
+{
+  "id": 19347271,
+  "first_name": "Vitinho",
+  "last_name": "",
+  "birth_date": "2001-04-23",
+  "country_id": 1651,
+  "club_id": 136021,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 102,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2031-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 104750,
+    "expiration": "2026-11-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

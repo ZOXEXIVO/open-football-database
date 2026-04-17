@@ -1,0 +1,27 @@
+{
+  "id": 2000356418,
+  "first_name": "Nikita",
+  "last_name": "Chaykov",
+  "birth_date": "2007-06-14",
+  "country_id": 758,
+  "club_id": 5410568,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 75,
+  "value": 14000,
+  "contract": {
+    "salary": 1924,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

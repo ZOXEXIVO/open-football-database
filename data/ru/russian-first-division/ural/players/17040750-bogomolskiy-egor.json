@@ -1,0 +1,33 @@
+{
+  "id": 17040750,
+  "first_name": "Egor",
+  "last_name": "Bogomolskiy",
+  "birth_date": "2000-06-03",
+  "country_id": 758,
+  "club_id": 59091534,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 83,
+  "value": 199000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1533,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

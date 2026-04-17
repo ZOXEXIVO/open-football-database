@@ -1,0 +1,35 @@
+{
+  "id": 2000164685,
+  "first_name": "Alexander",
+  "last_name": "Warneryd",
+  "birth_date": "2005-08-21",
+  "country_id": 797,
+  "club_id": 1410,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 83,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000111544,
+  "first_name": "Joseph",
+  "last_name": "Nduquidi",
+  "birth_date": "2004-10-25",
+  "country_id": 6,
+  "club_id": 844,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 109,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 831,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

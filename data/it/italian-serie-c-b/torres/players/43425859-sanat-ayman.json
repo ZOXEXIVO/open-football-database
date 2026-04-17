@@ -1,0 +1,33 @@
+{
+  "id": 43425859,
+  "first_name": "Ayman",
+  "last_name": "Sanat",
+  "birth_date": "2002-05-28",
+  "country_id": 34,
+  "club_id": 2222,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 93,
+  "value": 58000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43076659,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

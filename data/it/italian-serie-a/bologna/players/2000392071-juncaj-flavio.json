@@ -1,0 +1,27 @@
+{
+  "id": 2000392071,
+  "first_name": "Flavio",
+  "last_name": "Junčaj",
+  "birth_date": "2007-06-14",
+  "country_id": 795,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 123,
+  "value": 181000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000481030,
+  "first_name": "Austine",
+  "last_name": "Odongo",
+  "birth_date": "2007-03-08",
+  "country_id": 25,
+  "club_id": 5340908,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 97,
+  "value": 40000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

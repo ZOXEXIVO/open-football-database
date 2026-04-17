@@ -1,0 +1,33 @@
+{
+  "id": 14188594,
+  "first_name": "Andrés",
+  "last_name": "Herrera",
+  "birth_date": "1998-11-03",
+  "country_id": 1649,
+  "club_id": 94,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 128,
+  "potential_ability": 130,
+  "value": 3000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1904,
+    "expiration": "2026-06-30",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

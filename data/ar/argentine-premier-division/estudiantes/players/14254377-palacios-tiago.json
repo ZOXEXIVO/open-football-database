@@ -1,0 +1,31 @@
+{
+  "id": 14254377,
+  "first_name": "Tiago",
+  "last_name": "Palacios",
+  "birth_date": "2001-03-08",
+  "country_id": 1657,
+  "club_id": 85,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 126,
+  "value": 8000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

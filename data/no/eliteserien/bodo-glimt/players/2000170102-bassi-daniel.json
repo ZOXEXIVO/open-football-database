@@ -1,0 +1,31 @@
+{
+  "id": 2000170102,
+  "first_name": "Daniel",
+  "last_name": "Bassi",
+  "birth_date": "2004-10-31",
+  "country_id": 786,
+  "club_id": 1293,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 106,
+  "value": 5000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000516509,
+  "first_name": "Mostafa",
+  "last_name": "Medhat Oufa",
+  "birth_date": "2004-09-19",
+  "country_id": 16,
+  "club_id": 5370007,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 91,
+  "value": 70000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

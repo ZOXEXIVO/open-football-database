@@ -1,0 +1,29 @@
+{
+  "id": 2000481323,
+  "first_name": "Nahuel",
+  "last_name": "Reyes",
+  "birth_date": "2007-09-30",
+  "country_id": 1649,
+  "club_id": 14037231,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 112,
+  "value": 299000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 14018428,
+    "expiration": "2025-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

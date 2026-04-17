@@ -1,0 +1,33 @@
+{
+  "id": 12093883,
+  "first_name": "Valy",
+  "last_name": "Konaté",
+  "birth_date": "2006-11-14",
+  "country_id": 24,
+  "club_id": 826,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 133,
+  "value": 548000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 184,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

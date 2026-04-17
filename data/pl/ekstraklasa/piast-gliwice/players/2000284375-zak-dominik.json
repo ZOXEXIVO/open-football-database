@@ -1,0 +1,41 @@
+{
+  "id": 2000284375,
+  "first_name": "Dominik",
+  "last_name": "Żak",
+  "birth_date": "2006-11-19",
+  "country_id": 787,
+  "club_id": 1452,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 86,
+  "value": 33000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 714209,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

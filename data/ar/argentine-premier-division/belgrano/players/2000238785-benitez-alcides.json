@@ -1,0 +1,31 @@
+{
+  "id": 2000238785,
+  "first_name": "Alcides",
+  "last_name": "Benítez",
+  "birth_date": "2002-06-28",
+  "country_id": 1655,
+  "club_id": 81,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 106,
+  "value": 557000,
+  "contract": {
+    "salary": 41704,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

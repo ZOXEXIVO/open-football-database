@@ -1,0 +1,29 @@
+{
+  "id": 2000079859,
+  "first_name": "Artem",
+  "last_name": "Ismagilov",
+  "birth_date": "2004-06-29",
+  "country_id": 791,
+  "club_id": 130509,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 100,
+  "value": 21000,
+  "contract": {
+    "salary": 4472,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130510,
+    "expiration": "2026-06-10",
+    "salary": 4472,
+    "wage_contribution_pct": 100
+  }
+}

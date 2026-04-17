@@ -1,0 +1,32 @@
+{
+  "id": 2000454420,
+  "first_name": "Fernando",
+  "last_name": "Viveros",
+  "birth_date": "2006-08-07",
+  "country_id": 1655,
+  "club_id": 5280161,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 90,
+  "value": 338000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 2000322990,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

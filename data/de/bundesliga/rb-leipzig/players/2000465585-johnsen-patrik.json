@@ -1,0 +1,27 @@
+{
+  "id": 2000465585,
+  "first_name": "Patrik",
+  "last_name": "Johnsen",
+  "birth_date": "2009-05-20",
+  "country_id": 786,
+  "club_id": 91013388,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 150,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

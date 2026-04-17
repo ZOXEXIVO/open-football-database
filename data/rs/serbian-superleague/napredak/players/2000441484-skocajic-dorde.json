@@ -1,0 +1,33 @@
+{
+  "id": 2000441484,
+  "first_name": "Đorđe",
+  "last_name": "Skočajić",
+  "birth_date": "2006-05-26",
+  "country_id": 802,
+  "club_id": 1950,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 103,
+  "value": 345000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000266594,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

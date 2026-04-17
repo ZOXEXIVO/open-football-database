@@ -1,0 +1,33 @@
+{
+  "id": 2000140578,
+  "first_name": "Daniel",
+  "last_name": "Villaseca",
+  "birth_date": "2003-02-05",
+  "country_id": 763,
+  "club_id": 1255,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 117,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5661013,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

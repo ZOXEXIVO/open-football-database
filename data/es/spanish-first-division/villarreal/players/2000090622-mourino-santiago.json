@@ -1,0 +1,27 @@
+{
+  "id": 2000090622,
+  "first_name": "Santiago",
+  "last_name": "Mouriño",
+  "birth_date": "2002-02-13",
+  "country_id": 1657,
+  "club_id": 1777,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 136,
+  "value": 50000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

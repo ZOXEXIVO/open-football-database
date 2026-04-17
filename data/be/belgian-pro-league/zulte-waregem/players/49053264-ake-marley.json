@@ -1,0 +1,33 @@
+{
+  "id": 49053264,
+  "first_name": "Marley",
+  "last_name": "Aké",
+  "birth_date": "2001-01-05",
+  "country_id": 769,
+  "club_id": 105898,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 98,
+  "value": 364000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 299,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

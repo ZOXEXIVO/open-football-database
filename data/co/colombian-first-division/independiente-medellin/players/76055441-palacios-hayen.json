@@ -1,0 +1,37 @@
+{
+  "id": 76055441,
+  "first_name": "Hayen",
+  "last_name": "Palacios",
+  "birth_date": "1999-09-08",
+  "country_id": 1653,
+  "club_id": 107206,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 97,
+  "value": 881000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 425,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

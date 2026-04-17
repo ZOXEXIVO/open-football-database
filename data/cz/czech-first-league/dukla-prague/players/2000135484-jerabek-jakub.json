@@ -1,0 +1,27 @@
+{
+  "id": 2000135484,
+  "first_name": "Jakub",
+  "last_name": "Jeřábek",
+  "birth_date": "2001-04-17",
+  "country_id": 763,
+  "club_id": 5640780,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 97,
+  "value": 45000,
+  "contract": {
+    "salary": 33488,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

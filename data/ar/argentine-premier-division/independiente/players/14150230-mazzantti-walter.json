@@ -1,0 +1,33 @@
+{
+  "id": 14150230,
+  "first_name": "Walter",
+  "last_name": "Mazzantti",
+  "birth_date": "1996-09-05",
+  "country_id": 1649,
+  "club_id": 89,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 117,
+  "value": 6000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 91,
+    "expiration": "2026-12-31",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

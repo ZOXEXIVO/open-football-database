@@ -1,0 +1,27 @@
+{
+  "id": 2000462643,
+  "first_name": "Ivan",
+  "last_name": "Yakubovskiy",
+  "birth_date": "2009-02-04",
+  "country_id": 758,
+  "club_id": 307,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 91,
+  "value": 24000,
+  "contract": {
+    "salary": 2236,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

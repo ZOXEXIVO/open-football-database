@@ -1,0 +1,29 @@
+{
+  "id": 14222100,
+  "first_name": "Tomás",
+  "last_name": "Cavanagh",
+  "birth_date": "2001-01-05",
+  "country_id": 1649,
+  "club_id": 98,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 103,
+  "value": 71000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1918,
+    "expiration": "2026-12-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

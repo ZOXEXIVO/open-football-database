@@ -1,0 +1,27 @@
+{
+  "id": 2000225264,
+  "first_name": "Ali",
+  "last_name": "Aruna",
+  "birth_date": "2004-06-20",
+  "country_id": 364,
+  "club_id": 116384,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 95,
+  "value": 166000,
+  "contract": {
+    "salary": 30524,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000335414,
+  "first_name": "Karel",
+  "last_name": "Spáčil",
+  "birth_date": "2003-05-18",
+  "country_id": 763,
+  "club_id": 477,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 128,
+  "value": 5000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

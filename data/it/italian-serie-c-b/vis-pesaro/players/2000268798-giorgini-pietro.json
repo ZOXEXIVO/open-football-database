@@ -1,0 +1,33 @@
+{
+  "id": 2000268798,
+  "first_name": "Pietro",
+  "last_name": "Giorgini",
+  "birth_date": "2007-05-03",
+  "country_id": 776,
+  "club_id": 2231,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 77,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7981643,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

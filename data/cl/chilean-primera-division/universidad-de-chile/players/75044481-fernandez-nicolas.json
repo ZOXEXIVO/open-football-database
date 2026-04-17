@@ -1,0 +1,31 @@
+{
+  "id": 75044481,
+  "first_name": "Nicolás",
+  "last_name": "Fernandez",
+  "birth_date": "1999-08-03",
+  "country_id": 1652,
+  "club_id": 404,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 109,
+  "value": 225000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

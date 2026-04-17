@@ -1,0 +1,33 @@
+{
+  "id": 2000056415,
+  "first_name": "Ilias",
+  "last_name": "Akhomach",
+  "birth_date": "2004-04-16",
+  "country_id": 34,
+  "club_id": 1777,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 147,
+  "value": 26000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1729,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

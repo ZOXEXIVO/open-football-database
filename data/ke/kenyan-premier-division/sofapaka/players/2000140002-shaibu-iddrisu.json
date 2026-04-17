@@ -1,0 +1,31 @@
+{
+  "id": 2000140002,
+  "first_name": "Iddrisu",
+  "last_name": "Shaibu",
+  "birth_date": "2000-03-17",
+  "country_id": 21,
+  "club_id": 13100025,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 64,
+  "value": 22000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

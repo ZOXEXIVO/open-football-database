@@ -1,0 +1,27 @@
+{
+  "id": 2000420897,
+  "first_name": "Jakub",
+  "last_name": "Zbranek",
+  "birth_date": "2007-05-10",
+  "country_id": 763,
+  "club_id": 467,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 88,
+  "value": 73000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

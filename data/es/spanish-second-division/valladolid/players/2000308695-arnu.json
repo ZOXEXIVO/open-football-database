@@ -1,0 +1,29 @@
+{
+  "id": 2000308695,
+  "first_name": "Arnu",
+  "last_name": "",
+  "birth_date": "2007-03-04",
+  "country_id": 796,
+  "club_id": 1747,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 130,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1737,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

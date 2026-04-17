@@ -1,0 +1,31 @@
+{
+  "id": 2000240325,
+  "first_name": "Ismail",
+  "last_name": "Sarki",
+  "birth_date": "2002-10-10",
+  "country_id": 38,
+  "club_id": 5410010,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 77,
+  "value": 96000,
+  "contract": {
+    "salary": 2808,
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

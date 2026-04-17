@@ -1,0 +1,37 @@
+{
+  "id": 2000394452,
+  "first_name": "Ármann",
+  "last_name": "Kári Guðjónsson",
+  "birth_date": "2007-02-16",
+  "country_id": 774,
+  "club_id": 1300641,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 92,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-11-16",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056767,
+    "expiration": "2026-11-16",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000095445,
+  "first_name": "Mateus",
+  "last_name": "Lusuardi",
+  "birth_date": "2004-01-08",
+  "country_id": 1651,
+  "club_id": 2215,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 121,
+  "value": 3000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1164,
+    "expiration": "2026-06-30",
+    "salary": 312000,
+    "wage_contribution_pct": 100
+  }
+}

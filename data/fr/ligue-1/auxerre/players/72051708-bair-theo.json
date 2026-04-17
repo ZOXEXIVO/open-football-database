@@ -1,0 +1,33 @@
+{
+  "id": 72051708,
+  "first_name": "Theo",
+  "last_name": "Bair",
+  "birth_date": "1999-08-27",
+  "country_id": 364,
+  "club_id": 824,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 107,
+  "value": 2000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1856,
+    "expiration": "2026-06-30",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

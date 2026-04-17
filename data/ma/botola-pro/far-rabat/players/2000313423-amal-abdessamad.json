@@ -1,0 +1,28 @@
+{
+  "id": 2000313423,
+  "first_name": "Abdessamad",
+  "last_name": "Amal",
+  "birth_date": "2004-08-19",
+  "country_id": 34,
+  "club_id": 106054,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 97,
+  "value": 58000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 5380021,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

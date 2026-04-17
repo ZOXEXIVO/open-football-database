@@ -1,0 +1,33 @@
+{
+  "id": 14242246,
+  "first_name": "Lucas",
+  "last_name": "González",
+  "birth_date": "2000-06-03",
+  "country_id": 1649,
+  "club_id": 108526,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 111,
+  "value": 5000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 14018428,
+    "expiration": "2026-12-31",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

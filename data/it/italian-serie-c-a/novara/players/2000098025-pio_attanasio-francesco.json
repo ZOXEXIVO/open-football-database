@@ -1,0 +1,31 @@
+{
+  "id": 2000098025,
+  "first_name": "Francesco",
+  "last_name": "Pio Attanasio",
+  "birth_date": "2005-02-02",
+  "country_id": 776,
+  "club_id": 1153,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 81,
+  "value": 39000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

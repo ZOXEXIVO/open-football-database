@@ -1,0 +1,29 @@
+{
+  "id": 2000026013,
+  "first_name": "Burak",
+  "last_name": "Alili",
+  "birth_date": "2004-02-11",
+  "country_id": 752,
+  "club_id": 1852,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 112,
+  "value": 161000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 137912,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000006181,
+  "first_name": "Ismaël",
+  "last_name": "Gharbi",
+  "birth_date": "2004-04-10",
+  "country_id": 51,
+  "club_id": 1488,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 132,
+  "value": 6000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2238,
+    "expiration": "2026-06-30",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

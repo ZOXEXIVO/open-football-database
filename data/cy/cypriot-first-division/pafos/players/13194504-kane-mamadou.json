@@ -1,0 +1,29 @@
+{
+  "id": 13194504,
+  "first_name": "Mamadou",
+  "last_name": "Kané",
+  "birth_date": "1997-01-22",
+  "country_id": 22,
+  "club_id": 26031118,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 94,
+  "value": 58000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 456,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

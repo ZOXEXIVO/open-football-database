@@ -1,0 +1,29 @@
+{
+  "id": 2000366159,
+  "first_name": "Ousmane",
+  "last_name": "Guèye",
+  "birth_date": "2006-01-06",
+  "country_id": 41,
+  "club_id": 2216,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 57,
+  "potential_ability": 64,
+  "value": 21000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43076718,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

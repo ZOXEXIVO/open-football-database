@@ -1,0 +1,29 @@
+{
+  "id": 19140961,
+  "first_name": "Andrey",
+  "last_name": "",
+  "birth_date": "1993-07-17",
+  "country_id": 1651,
+  "club_id": 325,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 99,
+  "value": 22000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 311028,
+    "expiration": "2026-05-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

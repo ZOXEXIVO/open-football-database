@@ -1,0 +1,29 @@
+{
+  "id": 2000091914,
+  "first_name": "Froilán",
+  "last_name": "Díaz",
+  "birth_date": "2006-06-01",
+  "country_id": 1649,
+  "club_id": 102467,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 124,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 120974,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

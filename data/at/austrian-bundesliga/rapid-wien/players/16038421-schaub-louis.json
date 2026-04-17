@@ -1,0 +1,31 @@
+{
+  "id": 16038421,
+  "first_name": "Louis",
+  "last_name": "Schaub",
+  "birth_date": "1994-12-29",
+  "country_id": 755,
+  "club_id": 155,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 108,
+  "value": 1000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

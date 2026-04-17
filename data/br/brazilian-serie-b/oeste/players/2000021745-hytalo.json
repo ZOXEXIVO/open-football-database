@@ -1,0 +1,29 @@
+{
+  "id": 2000021745,
+  "first_name": "Hytalo",
+  "last_name": "",
+  "birth_date": "2005-07-05",
+  "country_id": 1651,
+  "club_id": 311028,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 72,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 319165,
+    "expiration": "2026-05-26",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

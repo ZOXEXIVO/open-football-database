@@ -1,0 +1,31 @@
+{
+  "id": 2000496442,
+  "first_name": "Martim",
+  "last_name": "Pinto",
+  "birth_date": "2008-03-15",
+  "country_id": 788,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 115,
+  "value": 0,
+  "contract": {
+    "salary": 29172,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000503135,
+  "first_name": "Diego",
+  "last_name": "Loi",
+  "birth_date": "2008-02-28",
+  "country_id": 776,
+  "club_id": 2216,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 116,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

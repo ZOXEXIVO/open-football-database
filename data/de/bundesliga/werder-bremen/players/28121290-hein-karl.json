@@ -1,0 +1,29 @@
+{
+  "id": 28121290,
+  "first_name": "Karl",
+  "last_name": "Hein",
+  "birth_date": "2002-04-13",
+  "country_id": 766,
+  "club_id": 602,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 133,
+  "potential_ability": 151,
+  "value": 9000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 948,
+    "expiration": "2026-06-30",
+    "salary": 780000,
+    "wage_contribution_pct": 100
+  }
+}

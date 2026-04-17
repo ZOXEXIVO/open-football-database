@@ -1,0 +1,31 @@
+{
+  "id": 2000459209,
+  "first_name": "Pietro",
+  "last_name": "Viani",
+  "birth_date": "2008-10-13",
+  "country_id": 776,
+  "club_id": 1154,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 80,
+  "value": 100000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000502698,
+  "first_name": "Curtis",
+  "last_name": "Junior Makosso Moungadji",
+  "birth_date": "2007-05-15",
+  "country_id": 19,
+  "club_id": 460,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 100,
+  "value": 132000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 694451,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000055633,
+  "first_name": "Martín",
+  "last_name": "Tejón",
+  "birth_date": "2004-04-12",
+  "country_id": 796,
+  "club_id": 1476,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 111,
+  "value": 5000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

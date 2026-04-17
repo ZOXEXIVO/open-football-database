@@ -1,0 +1,27 @@
+{
+  "id": 2000175453,
+  "first_name": "Jannik",
+  "last_name": "Schuster",
+  "birth_date": "2006-05-16",
+  "country_id": 755,
+  "club_id": 158,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 128,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

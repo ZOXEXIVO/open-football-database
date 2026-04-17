@@ -1,0 +1,35 @@
+{
+  "id": 2000025313,
+  "first_name": "Costantino",
+  "last_name": "Favasuli",
+  "birth_date": "2004-04-26",
+  "country_id": 776,
+  "club_id": 1119,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 93,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

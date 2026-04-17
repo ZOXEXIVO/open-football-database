@@ -1,0 +1,29 @@
+{
+  "id": 67117360,
+  "first_name": "Álvaro",
+  "last_name": "Morata",
+  "birth_date": "1992-10-23",
+  "country_id": 796,
+  "club_id": 1099,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 126,
+  "potential_ability": 154,
+  "value": 2000000,
+  "contract": {
+    "salary": 7176000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1123,
+    "expiration": "2026-06-30",
+    "salary": 7176000,
+    "wage_contribution_pct": 100
+  }
+}

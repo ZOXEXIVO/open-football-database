@@ -1,0 +1,33 @@
+{
+  "id": 2000223063,
+  "first_name": "Matvey",
+  "last_name": "Pritsker",
+  "birth_date": "2005-06-07",
+  "country_id": 758,
+  "club_id": 485665,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 72,
+  "value": 22000,
+  "contract": {
+    "salary": 5772,
+    "expiration": "2027-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300134,
+    "expiration": "2026-12-31",
+    "salary": 5772,
+    "wage_contribution_pct": 100
+  }
+}

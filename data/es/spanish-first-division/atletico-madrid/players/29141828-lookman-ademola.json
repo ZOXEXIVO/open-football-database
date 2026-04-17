@@ -1,0 +1,35 @@
+{
+  "id": 29141828,
+  "first_name": "Ademola",
+  "last_name": "Lookman",
+  "birth_date": "1997-10-20",
+  "country_id": 38,
+  "club_id": 1687,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 150,
+  "value": 75000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

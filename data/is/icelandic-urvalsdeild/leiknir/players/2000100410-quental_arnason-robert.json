@@ -1,0 +1,35 @@
+{
+  "id": 2000100410,
+  "first_name": "Róbert",
+  "last_name": "Quental Árnason",
+  "birth_date": "2005-05-23",
+  "country_id": 774,
+  "club_id": 7840114,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 104,
+  "value": 36000,
+  "contract": {
+    "salary": 3744,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

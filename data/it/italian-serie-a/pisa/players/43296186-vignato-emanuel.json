@@ -1,0 +1,37 @@
+{
+  "id": 43296186,
+  "first_name": "Emanuel",
+  "last_name": "Vignato",
+  "birth_date": "2000-08-24",
+  "country_id": 776,
+  "club_id": 2215,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 95,
+  "value": 356000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 149275,
+    "expiration": "2026-05-31",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  }
+}

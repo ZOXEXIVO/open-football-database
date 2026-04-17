@@ -1,0 +1,33 @@
+{
+  "id": 2000288839,
+  "first_name": "Veljko",
+  "last_name": "Jocić",
+  "birth_date": "2006-07-05",
+  "country_id": 802,
+  "club_id": 62031842,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 95,
+  "value": 637000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 136468,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

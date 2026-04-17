@@ -1,0 +1,29 @@
+{
+  "id": 2000371199,
+  "first_name": "Stanislav",
+  "last_name": "Oleinik",
+  "birth_date": "2006-08-26",
+  "country_id": 791,
+  "club_id": 58135242,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 104,
+  "value": 234000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130501,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000112724,
+  "first_name": "Adrián",
+  "last_name": "Palacios",
+  "birth_date": "2004-06-01",
+  "country_id": 1658,
+  "club_id": 258,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 133,
+  "value": 4000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

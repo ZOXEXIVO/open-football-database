@@ -1,0 +1,27 @@
+{
+  "id": 2000071262,
+  "first_name": "Tony",
+  "last_name": "Rölke",
+  "birth_date": "2003-01-22",
+  "country_id": 771,
+  "club_id": 994,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 96,
+  "value": 441000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

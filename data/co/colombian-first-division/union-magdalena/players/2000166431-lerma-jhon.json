@@ -1,0 +1,33 @@
+{
+  "id": 2000166431,
+  "first_name": "Jhon",
+  "last_name": "Lerma",
+  "birth_date": "2003-01-01",
+  "country_id": 1653,
+  "club_id": 2000521377,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 93,
+  "value": 445000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 104386,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

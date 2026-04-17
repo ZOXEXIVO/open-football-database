@@ -1,0 +1,29 @@
+{
+  "id": 5666466,
+  "first_name": "Rodolfo",
+  "last_name": "Cota",
+  "birth_date": "1987-07-03",
+  "country_id": 379,
+  "club_id": 1259,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 109,
+  "potential_ability": 125,
+  "value": 245000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1253,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

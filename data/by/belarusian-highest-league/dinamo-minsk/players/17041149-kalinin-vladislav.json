@@ -1,0 +1,31 @@
+{
+  "id": 17041149,
+  "first_name": "Vladislav",
+  "last_name": "Kalinin",
+  "birth_date": "2002-01-14",
+  "country_id": 758,
+  "club_id": 303,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 40000,
+  "contract": {
+    "salary": 19240,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

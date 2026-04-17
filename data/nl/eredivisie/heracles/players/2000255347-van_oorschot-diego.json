@@ -1,0 +1,29 @@
+{
+  "id": 2000255347,
+  "first_name": "Diego",
+  "last_name": "van Oorschot",
+  "birth_date": "2005-10-02",
+  "country_id": 784,
+  "club_id": 1037,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 104,
+  "value": 431000,
+  "contract": {
+    "salary": 44928,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1044,
+    "expiration": "2026-06-30",
+    "salary": 44928,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000364148,
+  "first_name": "Fredrik",
+  "last_name": "Berg",
+  "birth_date": "2008-06-25",
+  "country_id": 786,
+  "club_id": 1376,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 127,
+  "value": 626000,
+  "contract": {
+    "salary": 7176,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 49038342,
+  "first_name": "Jules",
+  "last_name": "Gaudin",
+  "birth_date": "2000-05-09",
+  "country_id": 769,
+  "club_id": 263,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 106,
+  "value": 385000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

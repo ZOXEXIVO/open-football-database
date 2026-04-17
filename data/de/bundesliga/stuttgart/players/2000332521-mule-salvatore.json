@@ -1,0 +1,27 @@
+{
+  "id": 2000332521,
+  "first_name": "Salvatore",
+  "last_name": "Mule",
+  "birth_date": "2008-01-24",
+  "country_id": 771,
+  "club_id": 960,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 145,
+  "value": 1000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

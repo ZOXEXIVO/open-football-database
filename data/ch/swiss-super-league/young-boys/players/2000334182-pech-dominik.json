@@ -1,0 +1,29 @@
+{
+  "id": 2000334182,
+  "first_name": "Dominik",
+  "last_name": "Pech",
+  "birth_date": "2006-09-04",
+  "country_id": 763,
+  "club_id": 474,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 127,
+  "value": 433000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1847,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

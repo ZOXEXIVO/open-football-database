@@ -1,0 +1,29 @@
+{
+  "id": 2000122473,
+  "first_name": "Bogdan",
+  "last_name": "Ştefan",
+  "birth_date": "2006-11-10",
+  "country_id": 790,
+  "club_id": 57065222,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 93,
+  "value": 115000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57142845,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

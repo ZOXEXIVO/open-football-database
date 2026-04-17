@@ -1,0 +1,29 @@
+{
+  "id": 2000400231,
+  "first_name": "Gabriel",
+  "last_name": "Bugli",
+  "birth_date": "2007-09-21",
+  "country_id": 776,
+  "club_id": 1106,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 91,
+  "value": 27000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 700173,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

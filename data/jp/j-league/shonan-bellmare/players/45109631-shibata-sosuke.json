@@ -1,0 +1,29 @@
+{
+  "id": 45109631,
+  "first_name": "Sosuke",
+  "last_name": "Shibata",
+  "birth_date": "2001-05-26",
+  "country_id": 116,
+  "club_id": 1184,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 106,
+  "value": 121000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 792248,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

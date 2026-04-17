@@ -1,0 +1,35 @@
+{
+  "id": 2000015369,
+  "first_name": "Andrey",
+  "last_name": "Rum",
+  "birth_date": "2002-01-19",
+  "country_id": 758,
+  "club_id": 17004083,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 66,
+  "value": 7000,
+  "contract": {
+    "salary": 9620,
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

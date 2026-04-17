@@ -1,0 +1,31 @@
+{
+  "id": 2000309652,
+  "first_name": "Youssef",
+  "last_name": "Dalouzi",
+  "birth_date": "2002-09-02",
+  "country_id": 34,
+  "club_id": 5380013,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 83,
+  "value": 55000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

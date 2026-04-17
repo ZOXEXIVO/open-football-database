@@ -1,0 +1,33 @@
+{
+  "id": 2000112963,
+  "first_name": "Hernán",
+  "last_name": "Zuliani",
+  "birth_date": "2002-12-01",
+  "country_id": 1649,
+  "club_id": 108526,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 111,
+  "value": 3000000,
+  "contract": {
+    "salary": 4836,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 108546,
+    "expiration": "2026-12-31",
+    "salary": 4836,
+    "wage_contribution_pct": 100
+  }
+}

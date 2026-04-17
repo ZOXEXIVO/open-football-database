@@ -1,0 +1,27 @@
+{
+  "id": 2000494269,
+  "first_name": "Rick",
+  "last_name": "van der Weerdt",
+  "birth_date": "2009-04-26",
+  "country_id": 784,
+  "club_id": 994,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 100,
+  "value": 128000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

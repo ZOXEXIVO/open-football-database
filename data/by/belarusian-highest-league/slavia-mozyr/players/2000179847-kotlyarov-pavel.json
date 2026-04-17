@@ -1,0 +1,33 @@
+{
+  "id": 2000179847,
+  "first_name": "Pavel",
+  "last_name": "Kotlyarov",
+  "birth_date": "2004-10-31",
+  "country_id": 758,
+  "club_id": 130879,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 79,
+  "value": 38000,
+  "contract": {
+    "salary": 4992,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 17040498,
+    "expiration": "2026-12-10",
+    "salary": 4992,
+    "wage_contribution_pct": 100
+  }
+}

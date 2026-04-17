@@ -1,0 +1,31 @@
+{
+  "id": 1401054,
+  "first_name": "Lorenzo",
+  "last_name": "De Silvestri",
+  "birth_date": "1988-05-23",
+  "country_id": 776,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 124,
+  "value": 45000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

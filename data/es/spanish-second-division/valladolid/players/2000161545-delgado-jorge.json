@@ -1,0 +1,29 @@
+{
+  "id": 2000161545,
+  "first_name": "Jorge",
+  "last_name": "Delgado",
+  "birth_date": "2002-11-09",
+  "country_id": 796,
+  "club_id": 1747,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 106,
+  "value": 586000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1480,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

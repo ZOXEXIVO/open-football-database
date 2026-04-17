@@ -1,0 +1,27 @@
+{
+  "id": 2000245263,
+  "first_name": "Johan",
+  "last_name": "Manzambi",
+  "birth_date": "2005-10-14",
+  "country_id": 798,
+  "club_id": 944,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 144,
+  "value": 67000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

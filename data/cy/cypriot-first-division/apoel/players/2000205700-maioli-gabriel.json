@@ -1,0 +1,27 @@
+{
+  "id": 2000205700,
+  "first_name": "Gabriel",
+  "last_name": "Maioli",
+  "birth_date": "2003-02-02",
+  "country_id": 1651,
+  "club_id": 451,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 104,
+  "value": 356000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

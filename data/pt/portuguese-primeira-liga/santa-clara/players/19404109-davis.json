@@ -1,0 +1,33 @@
+{
+  "id": 19404109,
+  "first_name": "Davis",
+  "last_name": "",
+  "birth_date": "2002-08-13",
+  "country_id": 1651,
+  "club_id": 2448,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 101,
+  "value": 352000,
+  "contract": {
+    "salary": 33696,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2410,
+    "expiration": "2026-06-30",
+    "salary": 33696,
+    "wage_contribution_pct": 100
+  }
+}

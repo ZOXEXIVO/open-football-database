@@ -1,0 +1,27 @@
+{
+  "id": 2000005802,
+  "first_name": "Phillip",
+  "last_name": "Čančar",
+  "birth_date": "2001-05-11",
+  "country_id": 1435,
+  "club_id": 15035999,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 87,
+  "value": 45000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

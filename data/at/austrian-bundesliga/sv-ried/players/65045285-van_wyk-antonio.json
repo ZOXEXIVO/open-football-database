@@ -1,0 +1,31 @@
+{
+  "id": 65045285,
+  "first_name": "Antonio",
+  "last_name": "Van Wyk",
+  "birth_date": "2002-03-30",
+  "country_id": 45,
+  "club_id": 159,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 94,
+  "value": 1000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

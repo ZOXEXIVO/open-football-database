@@ -1,0 +1,35 @@
+{
+  "id": 49062699,
+  "first_name": "Andy",
+  "last_name": "Diouf",
+  "birth_date": "2003-05-17",
+  "country_id": 769,
+  "club_id": 1135,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 125,
+  "potential_ability": 139,
+  "value": 11000000,
+  "contract": {
+    "salary": 3172000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 43357010,
+  "first_name": "Marco",
+  "last_name": "Imperiale",
+  "birth_date": "1999-05-01",
+  "country_id": 776,
+  "club_id": 1116,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 86,
+  "value": 2000000,
+  "contract": {
+    "salary": 34424,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

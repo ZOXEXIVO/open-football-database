@@ -1,0 +1,27 @@
+{
+  "id": 2000345610,
+  "first_name": "Felipe",
+  "last_name": "Tempone",
+  "birth_date": "2006-02-03",
+  "country_id": 1649,
+  "club_id": 89,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 120,
+  "value": 226000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

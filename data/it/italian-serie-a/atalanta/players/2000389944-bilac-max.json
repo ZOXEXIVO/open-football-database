@@ -1,0 +1,29 @@
+{
+  "id": 2000389944,
+  "first_name": "Max",
+  "last_name": "Bilać",
+  "birth_date": "2007-05-14",
+  "country_id": 795,
+  "club_id": 1106,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 123,
+  "value": 55000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1167,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

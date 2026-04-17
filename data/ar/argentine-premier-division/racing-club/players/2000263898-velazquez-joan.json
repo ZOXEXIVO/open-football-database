@@ -1,0 +1,27 @@
+{
+  "id": 2000263898,
+  "first_name": "Joan",
+  "last_name": "Velázquez",
+  "birth_date": "2006-06-12",
+  "country_id": 1649,
+  "club_id": 93,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 124,
+  "value": 215000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

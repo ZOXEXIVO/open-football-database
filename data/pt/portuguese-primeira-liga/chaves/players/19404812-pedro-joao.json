@@ -1,0 +1,29 @@
+{
+  "id": 19404812,
+  "first_name": "João",
+  "last_name": "Pedro",
+  "birth_date": "2002-08-17",
+  "country_id": 1651,
+  "club_id": 1480,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 86,
+  "value": 36000,
+  "contract": {
+    "salary": 33696,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2393,
+    "expiration": "2026-06-30",
+    "salary": 33696,
+    "wage_contribution_pct": 100
+  }
+}

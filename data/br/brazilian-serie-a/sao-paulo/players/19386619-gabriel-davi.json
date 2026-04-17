@@ -1,0 +1,31 @@
+{
+  "id": 19386619,
+  "first_name": "Davi",
+  "last_name": "Gabriel",
+  "birth_date": "1997-11-12",
+  "country_id": 1651,
+  "club_id": 338,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 102,
+  "value": 23000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

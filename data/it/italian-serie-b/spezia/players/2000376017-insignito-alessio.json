@@ -1,0 +1,35 @@
+{
+  "id": 2000376017,
+  "first_name": "Alessio",
+  "last_name": "Insignito",
+  "birth_date": "2008-05-05",
+  "country_id": 776,
+  "club_id": 1173,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 120,
+  "value": 321000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

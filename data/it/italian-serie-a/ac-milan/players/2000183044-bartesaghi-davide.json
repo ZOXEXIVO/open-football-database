@@ -1,0 +1,27 @@
+{
+  "id": 2000183044,
+  "first_name": "Davide",
+  "last_name": "Bartesaghi",
+  "birth_date": "2005-12-29",
+  "country_id": 776,
+  "club_id": 1099,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 126,
+  "potential_ability": 147,
+  "value": 15000000,
+  "contract": {
+    "salary": 936000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

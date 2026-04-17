@@ -1,0 +1,29 @@
+{
+  "id": 17035081,
+  "first_name": "Vladislav",
+  "last_name": "Morozov",
+  "birth_date": "2000-10-12",
+  "country_id": 758,
+  "club_id": 729500,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 108,
+  "value": 141000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2121,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

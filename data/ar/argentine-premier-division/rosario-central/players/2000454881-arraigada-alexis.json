@@ -1,0 +1,29 @@
+{
+  "id": 2000454881,
+  "first_name": "Alexis",
+  "last_name": "Arraigada",
+  "birth_date": "2005-03-09",
+  "country_id": 1649,
+  "club_id": 95,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 103,
+  "value": 65000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 108567,
+    "expiration": "2025-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

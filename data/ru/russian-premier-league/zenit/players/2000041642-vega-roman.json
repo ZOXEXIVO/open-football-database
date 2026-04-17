@@ -1,0 +1,27 @@
+{
+  "id": 2000041642,
+  "first_name": "Román",
+  "last_name": "Vega",
+  "birth_date": "2004-01-01",
+  "country_id": 1649,
+  "club_id": 1301108,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 124,
+  "potential_ability": 142,
+  "value": 7000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000503373,
+  "first_name": "Daniele",
+  "last_name": "Simoni",
+  "birth_date": "2008-05-28",
+  "country_id": 776,
+  "club_id": 43599648,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 97,
+  "value": 4000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3800256,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

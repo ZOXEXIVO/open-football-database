@@ -1,0 +1,37 @@
+{
+  "id": 47070689,
+  "first_name": "Nevin",
+  "last_name": "Portelli",
+  "birth_date": "1999-09-16",
+  "country_id": 782,
+  "club_id": 138209,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 59,
+  "value": 44000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 133179,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

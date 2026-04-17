@@ -1,0 +1,33 @@
+{
+  "id": 2000035704,
+  "first_name": "Gonzalo",
+  "last_name": "Valdivia",
+  "birth_date": "2001-04-05",
+  "country_id": 1649,
+  "club_id": 92,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 100,
+  "value": 132000,
+  "contract": {
+    "salary": 17628,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 14037231,
+    "expiration": "2026-12-31",
+    "salary": 17628,
+    "wage_contribution_pct": 100
+  }
+}

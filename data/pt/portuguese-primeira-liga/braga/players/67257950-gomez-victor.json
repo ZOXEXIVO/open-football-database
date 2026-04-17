@@ -1,0 +1,31 @@
+{
+  "id": 67257950,
+  "first_name": "Víctor",
+  "last_name": "Gómez",
+  "birth_date": "2000-04-01",
+  "country_id": 796,
+  "club_id": 1488,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 121,
+  "value": 18000000,
+  "contract": {
+    "salary": 572000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

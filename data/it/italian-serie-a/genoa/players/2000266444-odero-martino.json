@@ -1,0 +1,27 @@
+{
+  "id": 2000266444,
+  "first_name": "Martino",
+  "last_name": "Odero",
+  "birth_date": "2007-06-02",
+  "country_id": 776,
+  "club_id": 1132,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 120,
+  "value": 90000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

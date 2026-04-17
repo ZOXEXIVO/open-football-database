@@ -1,0 +1,33 @@
+{
+  "id": 2000203267,
+  "first_name": "Francesco",
+  "last_name": "Di Giovanni",
+  "birth_date": "2006-03-03",
+  "country_id": 776,
+  "club_id": 2191,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 62,
+  "value": 6000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43127073,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

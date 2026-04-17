@@ -1,0 +1,33 @@
+{
+  "id": 2000309679,
+  "first_name": "Maksymilian",
+  "last_name": "Czeczko",
+  "birth_date": "2006-10-16",
+  "country_id": 787,
+  "club_id": 710052,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 104,
+  "value": 141000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 710020,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000118229,
+  "first_name": "Abdelrahman",
+  "last_name": "Qattawy",
+  "birth_date": "2000-04-10",
+  "country_id": 16,
+  "club_id": 18021101,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 112,
+  "value": 21000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5370008,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000475772,
+  "first_name": "Heriksson",
+  "last_name": "Lima",
+  "birth_date": "2007-03-11",
+  "country_id": 23,
+  "club_id": 1488,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 121,
+  "value": 7000,
+  "contract": {
+    "salary": 22464,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

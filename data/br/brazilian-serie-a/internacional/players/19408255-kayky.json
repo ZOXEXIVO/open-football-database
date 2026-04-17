@@ -1,0 +1,33 @@
+{
+  "id": 19408255,
+  "first_name": "Kayky",
+  "last_name": "",
+  "birth_date": "2003-06-11",
+  "country_id": 1651,
+  "club_id": 315,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 109,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 326,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

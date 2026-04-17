@@ -1,0 +1,37 @@
+{
+  "id": 2000352215,
+  "first_name": "Jonas",
+  "last_name": "Seim",
+  "birth_date": "2006-11-07",
+  "country_id": 786,
+  "club_id": 1397,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 101,
+  "value": 552000,
+  "contract": {
+    "salary": 18772,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1370,
+    "expiration": "2026-12-31",
+    "salary": 18772,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000191159,
+  "first_name": "José",
+  "last_name": "Bernal",
+  "birth_date": "2002-08-20",
+  "country_id": 382,
+  "club_id": 130800,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 100,
+  "value": 307000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

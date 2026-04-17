@@ -1,0 +1,27 @@
+{
+  "id": 2000435646,
+  "first_name": "Leonardo",
+  "last_name": "Ríos",
+  "birth_date": "2006-11-09",
+  "country_id": 1649,
+  "club_id": 95,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 123,
+  "value": 325000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

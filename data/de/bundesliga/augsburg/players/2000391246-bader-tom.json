@@ -1,0 +1,31 @@
+{
+  "id": 2000391246,
+  "first_name": "Tom",
+  "last_name": "Bader",
+  "birth_date": "2008-01-26",
+  "country_id": 771,
+  "club_id": 2238,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 123,
+  "value": 138000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

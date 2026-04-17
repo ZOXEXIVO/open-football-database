@@ -1,0 +1,29 @@
+{
+  "id": 36105265,
+  "first_name": "Dimitris",
+  "last_name": "Nikolaou",
+  "birth_date": "1998-08-13",
+  "country_id": 772,
+  "club_id": 2194,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 109,
+  "value": 945000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1110,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

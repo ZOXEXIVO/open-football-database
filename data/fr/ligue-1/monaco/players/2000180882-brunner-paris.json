@@ -1,0 +1,31 @@
+{
+  "id": 2000180882,
+  "first_name": "Paris",
+  "last_name": "Brunner",
+  "birth_date": "2006-02-15",
+  "country_id": 771,
+  "club_id": 826,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 133,
+  "value": 2000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

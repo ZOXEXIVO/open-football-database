@@ -1,0 +1,29 @@
+{
+  "id": 2000448409,
+  "first_name": "Jakub",
+  "last_name": "Jeleń",
+  "birth_date": "2003-09-04",
+  "country_id": 787,
+  "club_id": 1452,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 82,
+  "value": 26000,
+  "contract": {
+    "salary": 15808,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 96092811,
+    "expiration": "2026-06-30",
+    "salary": 15808,
+    "wage_contribution_pct": 100
+  }
+}

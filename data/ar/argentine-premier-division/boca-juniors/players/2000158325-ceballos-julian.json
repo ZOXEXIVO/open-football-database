@@ -1,0 +1,29 @@
+{
+  "id": 2000158325,
+  "first_name": "Julián",
+  "last_name": "Ceballos",
+  "birth_date": "2004-09-13",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 127,
+  "value": 4000000,
+  "contract": {
+    "salary": 11076,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 956891,
+    "expiration": "2026-12-31",
+    "salary": 11076,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000338373,
+  "first_name": "Francisco",
+  "last_name": "Baridó",
+  "birth_date": "2008-01-01",
+  "country_id": 1649,
+  "club_id": 1150,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 146,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

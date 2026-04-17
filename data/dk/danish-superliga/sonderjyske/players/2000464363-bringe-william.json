@@ -1,0 +1,31 @@
+{
+  "id": 2000464363,
+  "first_name": "William",
+  "last_name": "Bringe",
+  "birth_date": "2008-11-23",
+  "country_id": 764,
+  "club_id": 926867,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 116,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

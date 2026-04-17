@@ -1,0 +1,27 @@
+{
+  "id": 2000006595,
+  "first_name": "Sandro",
+  "last_name": "Trémoulet",
+  "birth_date": "1999-11-18",
+  "country_id": 29,
+  "club_id": 5748006,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 95,
+  "value": 311000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

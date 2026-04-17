@@ -1,0 +1,29 @@
+{
+  "id": 2000061570,
+  "first_name": "Václav",
+  "last_name": "Míka",
+  "birth_date": "2000-06-01",
+  "country_id": 763,
+  "club_id": 477,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 113,
+  "value": 55000,
+  "contract": {
+    "salary": 33956,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1624,
+    "expiration": "2026-06-30",
+    "salary": 33956,
+    "wage_contribution_pct": 100
+  }
+}

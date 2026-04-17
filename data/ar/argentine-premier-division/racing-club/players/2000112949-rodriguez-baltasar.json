@@ -1,0 +1,31 @@
+{
+  "id": 2000112949,
+  "first_name": "Baltasar",
+  "last_name": "Rodríguez",
+  "birth_date": "2003-07-09",
+  "country_id": 1649,
+  "club_id": 93,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 120,
+  "value": 7000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

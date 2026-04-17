@@ -1,0 +1,41 @@
+{
+  "id": 2000038996,
+  "first_name": "Ermek",
+  "last_name": "Kenjebaev",
+  "birth_date": "2003-04-03",
+  "country_id": 121,
+  "club_id": 130879,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 82,
+  "value": 27000,
+  "contract": {
+    "salary": 5772,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 8067987,
+    "expiration": "2025-12-31",
+    "salary": 5772,
+    "wage_contribution_pct": 100
+  }
+}

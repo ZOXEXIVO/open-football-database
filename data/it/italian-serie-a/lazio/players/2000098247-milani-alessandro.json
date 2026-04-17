@@ -1,0 +1,29 @@
+{
+  "id": 2000098247,
+  "first_name": "Alessandro",
+  "last_name": "Milani",
+  "birth_date": "2005-06-14",
+  "country_id": 1658,
+  "club_id": 1140,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 129,
+  "value": 177000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1108,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

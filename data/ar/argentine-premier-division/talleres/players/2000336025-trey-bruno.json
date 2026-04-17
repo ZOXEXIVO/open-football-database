@@ -1,0 +1,31 @@
+{
+  "id": 2000336025,
+  "first_name": "Bruno",
+  "last_name": "Trey",
+  "birth_date": "2006-01-19",
+  "country_id": 1649,
+  "club_id": 102489,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 104,
+  "value": 152000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

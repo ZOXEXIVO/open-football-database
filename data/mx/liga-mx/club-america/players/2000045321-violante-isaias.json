@@ -1,0 +1,27 @@
+{
+  "id": 2000045321,
+  "first_name": "Isaías",
+  "last_name": "Violante",
+  "birth_date": "2003-10-20",
+  "country_id": 379,
+  "club_id": 1253,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 125,
+  "value": 4000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

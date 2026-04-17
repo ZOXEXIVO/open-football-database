@@ -1,0 +1,27 @@
+{
+  "id": 2000191032,
+  "first_name": "Ken-Gaston",
+  "last_name": "Koumous",
+  "birth_date": "2006-02-04",
+  "country_id": 49,
+  "club_id": 871,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 102,
+  "value": 42000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

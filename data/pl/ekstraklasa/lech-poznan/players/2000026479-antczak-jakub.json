@@ -1,0 +1,31 @@
+{
+  "id": 2000026479,
+  "first_name": "Jakub",
+  "last_name": "Antczak",
+  "birth_date": "2004-04-29",
+  "country_id": 787,
+  "club_id": 1455,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 110,
+  "value": 164000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

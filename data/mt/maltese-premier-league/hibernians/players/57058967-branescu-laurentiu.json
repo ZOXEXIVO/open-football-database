@@ -1,0 +1,29 @@
+{
+  "id": 57058967,
+  "first_name": "Laurenţiu",
+  "last_name": "Brănescu",
+  "birth_date": "1994-03-30",
+  "country_id": 790,
+  "club_id": 57151105,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 99,
+  "value": 244000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1243,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

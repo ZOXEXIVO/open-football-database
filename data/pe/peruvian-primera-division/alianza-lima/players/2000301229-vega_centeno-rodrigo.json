@@ -1,0 +1,28 @@
+{
+  "id": 2000301229,
+  "first_name": "Rodrigo",
+  "last_name": "Vega Centeno",
+  "birth_date": "2007-04-10",
+  "country_id": 1656,
+  "club_id": 117754,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 102,
+  "value": 13000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 77027923,
+    "expiration": "2025-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

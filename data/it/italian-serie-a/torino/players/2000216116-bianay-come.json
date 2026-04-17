@@ -1,0 +1,33 @@
+{
+  "id": 2000216116,
+  "first_name": "Côme",
+  "last_name": "Bianay",
+  "birth_date": "2005-05-13",
+  "country_id": 769,
+  "club_id": 1174,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 114,
+  "value": 95000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 700198,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

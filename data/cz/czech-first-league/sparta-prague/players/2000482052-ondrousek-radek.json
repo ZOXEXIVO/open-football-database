@@ -1,0 +1,26 @@
+{
+  "id": 2000482052,
+  "first_name": "Radek",
+  "last_name": "Ondroušek",
+  "birth_date": "2008-06-02",
+  "country_id": 763,
+  "club_id": 476,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 134,
+  "value": 99000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01"
+  }
+}

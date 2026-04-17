@@ -1,0 +1,33 @@
+{
+  "id": 2000293683,
+  "first_name": "Davide",
+  "last_name": "Avdullari",
+  "birth_date": "2007-01-13",
+  "country_id": 752,
+  "club_id": 2201,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 97,
+  "value": 26000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2210,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000444348,
+  "first_name": "Matteo",
+  "last_name": "Vitrotti",
+  "birth_date": "2008-01-21",
+  "country_id": 776,
+  "club_id": 1139,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 135,
+  "value": 49000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43066349,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

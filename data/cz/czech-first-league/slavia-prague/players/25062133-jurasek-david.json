@@ -1,0 +1,27 @@
+{
+  "id": 25062133,
+  "first_name": "David",
+  "last_name": "Jurásek",
+  "birth_date": "2000-08-07",
+  "country_id": 763,
+  "club_id": 474,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 131,
+  "value": 1000000,
+  "contract": {
+    "salary": 1404000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

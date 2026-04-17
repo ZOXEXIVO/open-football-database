@@ -1,0 +1,27 @@
+{
+  "id": 2000231437,
+  "first_name": "Thiago",
+  "last_name": "González",
+  "birth_date": "2004-07-04",
+  "country_id": 1649,
+  "club_id": 78,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 115,
+  "value": 55000,
+  "contract": {
+    "salary": 7384,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

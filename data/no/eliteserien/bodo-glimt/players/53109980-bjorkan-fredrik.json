@@ -1,0 +1,27 @@
+{
+  "id": 53109980,
+  "first_name": "Fredrik",
+  "last_name": "Bjørkan",
+  "birth_date": "1998-08-21",
+  "country_id": 786,
+  "club_id": 1293,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 109,
+  "value": 5000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

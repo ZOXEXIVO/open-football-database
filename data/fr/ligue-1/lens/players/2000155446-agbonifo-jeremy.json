@@ -1,0 +1,33 @@
+{
+  "id": 2000155446,
+  "first_name": "Jeremy",
+  "last_name": "Agbonifo",
+  "birth_date": "2005-10-24",
+  "country_id": 797,
+  "club_id": 871,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 118,
+  "value": 6000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1783,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

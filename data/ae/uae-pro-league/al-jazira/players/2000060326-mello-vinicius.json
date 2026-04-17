@@ -1,0 +1,27 @@
+{
+  "id": 2000060326,
+  "first_name": "Vinicius",
+  "last_name": "Mello",
+  "birth_date": "2002-08-19",
+  "country_id": 143,
+  "club_id": 135450,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 108,
+  "value": 6000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

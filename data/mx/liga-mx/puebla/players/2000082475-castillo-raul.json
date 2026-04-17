@@ -1,0 +1,27 @@
+{
+  "id": 2000082475,
+  "first_name": "Raul",
+  "last_name": "Castillo",
+  "birth_date": "2001-05-30",
+  "country_id": 379,
+  "club_id": 136007,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 100,
+  "value": 48000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 13157239,
+  "first_name": "Martin",
+  "last_name": "Hongla",
+  "birth_date": "1998-03-16",
+  "country_id": 11,
+  "club_id": 1714,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 111,
+  "value": 1000000,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 969,
+    "expiration": "2026-06-30",
+    "salary": 728000,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 43036636,
+  "first_name": "Stephan",
+  "last_name": "El Shaarawy",
+  "birth_date": "1992-10-27",
+  "country_id": 776,
+  "club_id": 1100,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 123,
+  "potential_ability": 137,
+  "value": 3000000,
+  "contract": {
+    "salary": 4004000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

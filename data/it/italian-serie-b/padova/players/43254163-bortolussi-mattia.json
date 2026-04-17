@@ -1,0 +1,31 @@
+{
+  "id": 43254163,
+  "first_name": "Mattia",
+  "last_name": "Bortolussi",
+  "birth_date": "1996-05-02",
+  "country_id": 776,
+  "club_id": 1154,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 91,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

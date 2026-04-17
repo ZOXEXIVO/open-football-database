@@ -1,0 +1,32 @@
+{
+  "id": 2000436831,
+  "first_name": "Octavio",
+  "last_name": "Alfonso",
+  "birth_date": "2005-12-19",
+  "country_id": 1655,
+  "club_id": 106071,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 113,
+  "value": 506000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 5280220,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

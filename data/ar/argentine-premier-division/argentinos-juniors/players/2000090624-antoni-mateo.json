@@ -1,0 +1,33 @@
+{
+  "id": 2000090624,
+  "first_name": "Mateo",
+  "last_name": "Antoni",
+  "birth_date": "2003-04-22",
+  "country_id": 1657,
+  "club_id": 78,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 106,
+  "value": 2000000,
+  "contract": {
+    "salary": 21164,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 117754,
+    "expiration": "2026-12-31",
+    "salary": 21164,
+    "wage_contribution_pct": 100
+  }
+}

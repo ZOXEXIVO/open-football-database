@@ -1,0 +1,27 @@
+{
+  "id": 22078623,
+  "first_name": "Ivan",
+  "last_name": "Yordanov",
+  "birth_date": "2000-11-07",
+  "country_id": 760,
+  "club_id": 22003969,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 92,
+  "potential_ability": 108,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

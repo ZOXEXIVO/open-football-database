@@ -1,0 +1,31 @@
+{
+  "id": 2000530570,
+  "first_name": "Wieger",
+  "last_name": "Beens",
+  "birth_date": "2007-03-20",
+  "country_id": 784,
+  "club_id": 1012,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 86,
+  "value": 59000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

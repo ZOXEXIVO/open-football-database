@@ -1,0 +1,31 @@
+{
+  "id": 2000431075,
+  "first_name": "Keisuke",
+  "last_name": "Sato",
+  "birth_date": "2002-06-25",
+  "country_id": 116,
+  "club_id": 107314,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 99,
+  "value": 256000,
+  "contract": {
+    "salary": 23972,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

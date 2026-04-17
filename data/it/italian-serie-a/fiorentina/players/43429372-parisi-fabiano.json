@@ -1,0 +1,31 @@
+{
+  "id": 43429372,
+  "first_name": "Fabiano",
+  "last_name": "Parisi",
+  "birth_date": "2000-11-09",
+  "country_id": 776,
+  "club_id": 1129,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 132,
+  "value": 5000000,
+  "contract": {
+    "salary": 2704000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

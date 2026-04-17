@@ -1,0 +1,27 @@
+{
+  "id": 2000025080,
+  "first_name": "Artem",
+  "last_name": "Kilyimanov",
+  "birth_date": "1998-07-10",
+  "country_id": 758,
+  "club_id": 2000015950,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 47,
+  "potential_ability": 52,
+  "value": 6000,
+  "contract": {
+    "salary": 3068,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

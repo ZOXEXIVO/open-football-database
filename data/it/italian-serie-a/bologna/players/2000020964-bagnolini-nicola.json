@@ -1,0 +1,29 @@
+{
+  "id": 2000020964,
+  "first_name": "Nicola",
+  "last_name": "Bagnolini",
+  "birth_date": "2004-03-14",
+  "country_id": 776,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 126,
+  "value": 659000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 108985,
+    "expiration": "2027-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

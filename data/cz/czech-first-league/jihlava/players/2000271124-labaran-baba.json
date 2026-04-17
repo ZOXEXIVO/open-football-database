@@ -1,0 +1,33 @@
+{
+  "id": 2000271124,
+  "first_name": "Baba",
+  "last_name": "Labaran",
+  "birth_date": "2003-10-10",
+  "country_id": 38,
+  "club_id": 136153,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 81,
+  "value": 46000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 25019581,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

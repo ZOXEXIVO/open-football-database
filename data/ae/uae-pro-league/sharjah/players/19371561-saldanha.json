@@ -1,0 +1,28 @@
+{
+  "id": 19371561,
+  "first_name": "Saldanha",
+  "last_name": "",
+  "birth_date": "1999-08-18",
+  "country_id": 1651,
+  "club_id": 135439,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 112,
+  "value": 9000000,
+  "contract": {
+    "salary": 1144000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-07"
+  },
+  "loan": {
+    "to_club_id": 135455,
+    "expiration": "2026-06-30",
+    "salary": 1144000,
+    "wage_contribution_pct": 100
+  }
+}

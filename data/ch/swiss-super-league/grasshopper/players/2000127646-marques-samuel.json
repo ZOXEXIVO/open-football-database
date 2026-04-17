@@ -1,0 +1,39 @@
+{
+  "id": 2000127646,
+  "first_name": "Samuel",
+  "last_name": "Marques",
+  "birth_date": "2005-02-04",
+  "country_id": 798,
+  "club_id": 1855,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 101,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

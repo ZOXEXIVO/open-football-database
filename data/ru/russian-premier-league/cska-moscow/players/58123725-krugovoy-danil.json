@@ -1,0 +1,31 @@
+{
+  "id": 58123725,
+  "first_name": "Danil",
+  "last_name": "Krugovoy",
+  "birth_date": "1998-05-28",
+  "country_id": 791,
+  "club_id": 1518,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 126,
+  "value": 4000000,
+  "contract": {
+    "salary": 884000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

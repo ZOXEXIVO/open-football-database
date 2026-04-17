@@ -1,0 +1,31 @@
+{
+  "id": 2000241322,
+  "first_name": "Thiago",
+  "last_name": "Sánchez",
+  "birth_date": "2005-11-25",
+  "country_id": 1649,
+  "club_id": 3100018,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 107,
+  "value": 226000,
+  "contract": {
+    "salary": 6136,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

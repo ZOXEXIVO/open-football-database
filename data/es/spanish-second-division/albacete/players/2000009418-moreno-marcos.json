@@ -1,0 +1,29 @@
+{
+  "id": 2000009418,
+  "first_name": "Marcos",
+  "last_name": "Moreno",
+  "birth_date": "2004-02-14",
+  "country_id": 796,
+  "club_id": 1660,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 109,
+  "value": 483000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 67173952,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

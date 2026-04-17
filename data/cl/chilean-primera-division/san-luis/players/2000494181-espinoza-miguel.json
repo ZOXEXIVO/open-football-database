@@ -1,0 +1,29 @@
+{
+  "id": 2000494181,
+  "first_name": "Miguel",
+  "last_name": "Espinoza",
+  "birth_date": "2006-12-21",
+  "country_id": 1652,
+  "club_id": 5250433,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 60,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 75041279,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 48037012,
+  "first_name": "Quentin",
+  "last_name": "Boisgard",
+  "birth_date": "1997-03-17",
+  "country_id": 769,
+  "club_id": 714209,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 100,
+  "value": 1000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

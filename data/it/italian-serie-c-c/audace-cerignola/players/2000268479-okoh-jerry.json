@@ -1,0 +1,29 @@
+{
+  "id": 2000268479,
+  "first_name": "Jerry",
+  "last_name": "Okoh",
+  "birth_date": "2006-02-28",
+  "country_id": 38,
+  "club_id": 43018336,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 68,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43076615,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

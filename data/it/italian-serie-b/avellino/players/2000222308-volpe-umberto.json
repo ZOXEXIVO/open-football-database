@@ -1,0 +1,27 @@
+{
+  "id": 2000222308,
+  "first_name": "Umberto",
+  "last_name": "Volpe",
+  "birth_date": "2006-06-23",
+  "country_id": 776,
+  "club_id": 1108,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 103,
+  "value": 9000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

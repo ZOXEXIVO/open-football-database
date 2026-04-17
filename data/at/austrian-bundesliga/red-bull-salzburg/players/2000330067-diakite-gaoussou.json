@@ -1,0 +1,33 @@
+{
+  "id": 2000330067,
+  "first_name": "Gaoussou",
+  "last_name": "Diakité",
+  "birth_date": "2005-09-26",
+  "country_id": 31,
+  "club_id": 158,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 136,
+  "value": 9000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1856,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

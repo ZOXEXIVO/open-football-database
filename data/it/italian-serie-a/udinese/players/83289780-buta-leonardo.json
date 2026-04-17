@@ -1,0 +1,33 @@
+{
+  "id": 83289780,
+  "first_name": "Leonardo",
+  "last_name": "Buta",
+  "birth_date": "2002-06-05",
+  "country_id": 788,
+  "club_id": 1178,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 112,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2383,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

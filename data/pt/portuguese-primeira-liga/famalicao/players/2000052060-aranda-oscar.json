@@ -1,0 +1,27 @@
+{
+  "id": 2000052060,
+  "first_name": "Óscar",
+  "last_name": "Aranda",
+  "birth_date": "2002-04-29",
+  "country_id": 796,
+  "club_id": 2397,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 118,
+  "value": 8000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

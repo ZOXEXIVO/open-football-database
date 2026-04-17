@@ -1,0 +1,29 @@
+{
+  "id": 79024967,
+  "first_name": "Juan",
+  "last_name": "Espínola",
+  "birth_date": "1994-11-02",
+  "country_id": 1655,
+  "club_id": 91,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 112,
+  "value": 3000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 952695,
+    "expiration": "2026-12-31",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

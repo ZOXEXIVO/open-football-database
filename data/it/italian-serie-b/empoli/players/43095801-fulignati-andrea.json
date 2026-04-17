@@ -1,0 +1,29 @@
+{
+  "id": 43095801,
+  "first_name": "Andrea",
+  "last_name": "Fulignati",
+  "birth_date": "1994-10-31",
+  "country_id": 776,
+  "club_id": 1125,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 97,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2024-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1126,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

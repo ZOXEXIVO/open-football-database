@@ -1,0 +1,27 @@
+{
+  "id": 2000070513,
+  "first_name": "Tim",
+  "last_name": "Oermann",
+  "birth_date": "2003-10-06",
+  "country_id": 771,
+  "club_id": 901,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 126,
+  "potential_ability": 151,
+  "value": 4000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

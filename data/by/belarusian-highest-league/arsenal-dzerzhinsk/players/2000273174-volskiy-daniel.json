@@ -1,0 +1,29 @@
+{
+  "id": 2000273174,
+  "first_name": "Daniel",
+  "last_name": "Volskiy",
+  "birth_date": "2007-02-23",
+  "country_id": 758,
+  "club_id": 2000353672,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 109,
+  "value": 4000,
+  "contract": {
+    "salary": 1300,
+    "expiration": "2026-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 17040498,
+    "expiration": "2026-12-31",
+    "salary": 1300,
+    "wage_contribution_pct": 100
+  }
+}

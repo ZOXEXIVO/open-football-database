@@ -1,0 +1,37 @@
+{
+  "id": 2000312120,
+  "first_name": "Izuogu",
+  "last_name": "Chibueze",
+  "birth_date": "2005-05-03",
+  "country_id": 38,
+  "club_id": 5340749,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 109,
+  "value": 94000,
+  "contract": {
+    "salary": 832,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 96502157,
+    "expiration": "2026-06-30",
+    "salary": 832,
+    "wage_contribution_pct": 100
+  }
+}

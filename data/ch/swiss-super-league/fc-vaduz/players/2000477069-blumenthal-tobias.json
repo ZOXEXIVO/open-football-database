@@ -1,0 +1,45 @@
+{
+  "id": 2000477069,
+  "first_name": "Tobias",
+  "last_name": "Blumenthal",
+  "birth_date": "2009-02-17",
+  "country_id": 778,
+  "club_id": 1210,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 134,
+  "value": 1000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5720002,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

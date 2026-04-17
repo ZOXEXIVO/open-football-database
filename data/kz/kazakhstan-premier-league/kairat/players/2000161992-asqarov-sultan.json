@@ -1,0 +1,29 @@
+{
+  "id": 2000161992,
+  "first_name": "Sūltan",
+  "last_name": "Asqarov",
+  "birth_date": "2004-01-21",
+  "country_id": 119,
+  "club_id": 484442,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 84,
+  "value": 202000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 484474,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

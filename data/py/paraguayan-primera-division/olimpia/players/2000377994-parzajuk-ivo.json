@@ -1,0 +1,28 @@
+{
+  "id": 2000377994,
+  "first_name": "Ivo",
+  "last_name": "Parzajuk",
+  "birth_date": "2005-04-24",
+  "country_id": 1655,
+  "club_id": 102924,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 124,
+  "value": 447000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 79024244,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

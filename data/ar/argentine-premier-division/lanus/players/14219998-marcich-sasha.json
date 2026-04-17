@@ -1,0 +1,31 @@
+{
+  "id": 14219998,
+  "first_name": "Sasha",
+  "last_name": "Marcich",
+  "birth_date": "1998-05-29",
+  "country_id": 1649,
+  "club_id": 90,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 112,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 43029905,
+  "first_name": "Cristiano",
+  "last_name": "Biraghi",
+  "birth_date": "1992-09-01",
+  "country_id": 776,
+  "club_id": 1174,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 133,
+  "value": 2000000,
+  "contract": {
+    "salary": 2704000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

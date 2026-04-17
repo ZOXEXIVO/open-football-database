@@ -1,0 +1,27 @@
+{
+  "id": 2000382792,
+  "first_name": "Tomás",
+  "last_name": "Silva",
+  "birth_date": "2006-05-25",
+  "country_id": 788,
+  "club_id": 1471,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 102,
+  "value": 11000,
+  "contract": {
+    "salary": 6708,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

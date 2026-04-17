@@ -1,0 +1,31 @@
+{
+  "id": 19252381,
+  "first_name": "Marcelo",
+  "last_name": "Hermes",
+  "birth_date": "1995-02-01",
+  "country_id": 1651,
+  "club_id": 320,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000105851,
+  "first_name": "Bautista",
+  "last_name": "Farías",
+  "birth_date": "2003-10-04",
+  "country_id": 1649,
+  "club_id": 417,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 109,
+  "value": 360000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2200063,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

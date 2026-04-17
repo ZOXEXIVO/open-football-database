@@ -1,0 +1,33 @@
+{
+  "id": 2000142072,
+  "first_name": "Arturo",
+  "last_name": "Palma",
+  "birth_date": "2002-01-16",
+  "country_id": 379,
+  "club_id": 1258,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 102,
+  "value": 86000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 106028,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

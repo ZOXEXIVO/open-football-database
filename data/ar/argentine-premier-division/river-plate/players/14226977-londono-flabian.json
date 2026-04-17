@@ -1,0 +1,29 @@
+{
+  "id": 14226977,
+  "first_name": "Flabián",
+  "last_name": "Londoño",
+  "birth_date": "2000-07-09",
+  "country_id": 1653,
+  "club_id": 94,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 112,
+  "value": 495000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 86034571,
+    "expiration": "2026-12-31",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

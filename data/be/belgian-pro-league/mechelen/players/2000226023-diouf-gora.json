@@ -1,0 +1,27 @@
+{
+  "id": 2000226023,
+  "first_name": "Gora",
+  "last_name": "Diouf",
+  "birth_date": "2003-09-20",
+  "country_id": 41,
+  "club_id": 232,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 112,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

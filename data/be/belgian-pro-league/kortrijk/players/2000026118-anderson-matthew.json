@@ -1,0 +1,27 @@
+{
+  "id": 2000026118,
+  "first_name": "Matthew",
+  "last_name": "Anderson",
+  "birth_date": "2004-01-25",
+  "country_id": 793,
+  "club_id": 231,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 103,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

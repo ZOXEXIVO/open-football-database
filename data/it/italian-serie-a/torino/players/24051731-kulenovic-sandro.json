@@ -1,0 +1,29 @@
+{
+  "id": 24051731,
+  "first_name": "Sandro",
+  "last_name": "Kulenović",
+  "birth_date": "1999-12-04",
+  "country_id": 761,
+  "club_id": 432,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 100,
+  "value": 2000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1174,
+    "expiration": "2026-06-30",
+    "salary": 468000,
+    "wage_contribution_pct": 100
+  }
+}

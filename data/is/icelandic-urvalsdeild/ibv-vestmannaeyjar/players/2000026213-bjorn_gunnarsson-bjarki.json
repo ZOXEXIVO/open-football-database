@@ -1,0 +1,31 @@
+{
+  "id": 2000026213,
+  "first_name": "Bjarki",
+  "last_name": "Björn Gunnarsson",
+  "birth_date": "2000-06-06",
+  "country_id": 774,
+  "club_id": 1074,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 79,
+  "value": 19000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-10-15",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

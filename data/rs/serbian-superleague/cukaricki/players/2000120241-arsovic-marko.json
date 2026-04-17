@@ -1,0 +1,29 @@
+{
+  "id": 2000120241,
+  "first_name": "Marko",
+  "last_name": "Arsović",
+  "birth_date": "2005-02-27",
+  "country_id": 802,
+  "club_id": 1301372,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 97,
+  "value": 58000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5742776,
+    "expiration": "2025-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

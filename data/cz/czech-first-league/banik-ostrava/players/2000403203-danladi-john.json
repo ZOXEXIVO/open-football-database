@@ -1,0 +1,32 @@
+{
+  "id": 2000403203,
+  "first_name": "John",
+  "last_name": "Danladi",
+  "birth_date": "2006-07-21",
+  "country_id": 38,
+  "club_id": 1300301,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 114,
+  "value": 71000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 136152,
+    "expiration": "2026-06-21",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

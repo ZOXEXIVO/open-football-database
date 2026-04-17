@@ -1,0 +1,27 @@
+{
+  "id": 2000237042,
+  "first_name": "Vladislav",
+  "last_name": "Krolik",
+  "birth_date": "2005-01-28",
+  "country_id": 758,
+  "club_id": 485665,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 92,
+  "value": 58000,
+  "contract": {
+    "salary": 15392,
+    "expiration": "2029-01-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

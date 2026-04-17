@@ -1,0 +1,29 @@
+{
+  "id": 43322079,
+  "first_name": "Maguette",
+  "last_name": "Fall",
+  "birth_date": "1994-05-24",
+  "country_id": 41,
+  "club_id": 43036943,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 88,
+  "value": 95000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7983734,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 19232508,
+  "first_name": "Guilherme",
+  "last_name": "Arana",
+  "birth_date": "1997-04-14",
+  "country_id": 1651,
+  "club_id": 323,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 123,
+  "value": 20000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

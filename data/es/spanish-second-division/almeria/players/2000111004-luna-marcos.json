@@ -1,0 +1,27 @@
+{
+  "id": 2000111004,
+  "first_name": "Marcos",
+  "last_name": "Luna",
+  "birth_date": "2003-04-05",
+  "country_id": 796,
+  "club_id": 1661,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 108,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

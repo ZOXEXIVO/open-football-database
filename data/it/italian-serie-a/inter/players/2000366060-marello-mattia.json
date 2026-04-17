@@ -1,0 +1,37 @@
+{
+  "id": 2000366060,
+  "first_name": "Mattia",
+  "last_name": "Marello",
+  "birth_date": "2008-03-13",
+  "country_id": 776,
+  "club_id": 1178,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 138,
+  "value": 609000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1135,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

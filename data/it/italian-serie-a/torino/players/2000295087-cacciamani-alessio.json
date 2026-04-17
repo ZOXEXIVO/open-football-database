@@ -1,0 +1,33 @@
+{
+  "id": 2000295087,
+  "first_name": "Alessio",
+  "last_name": "Cacciamani",
+  "birth_date": "2007-06-29",
+  "country_id": 776,
+  "club_id": 1174,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 139,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1138,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

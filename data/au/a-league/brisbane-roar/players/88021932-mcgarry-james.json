@@ -1,0 +1,31 @@
+{
+  "id": 88021932,
+  "first_name": "James",
+  "last_name": "McGarry",
+  "birth_date": "1998-04-09",
+  "country_id": 1438,
+  "club_id": 130220,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 90,
+  "value": 205000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

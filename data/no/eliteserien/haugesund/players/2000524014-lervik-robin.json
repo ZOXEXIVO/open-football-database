@@ -1,0 +1,27 @@
+{
+  "id": 2000524014,
+  "first_name": "Robin",
+  "last_name": "Lervik",
+  "birth_date": "2008-10-08",
+  "country_id": 786,
+  "club_id": 1326,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 88,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "NonContract"
+  }
+}

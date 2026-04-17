@@ -1,0 +1,31 @@
+{
+  "id": 2000182132,
+  "first_name": "Kirill",
+  "last_name": "Bogdanets",
+  "birth_date": "2004-03-28",
+  "country_id": 791,
+  "club_id": 130501,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 94,
+  "value": 479000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000101081,
+  "first_name": "Valentin",
+  "last_name": "Dumitrache",
+  "birth_date": "2003-03-29",
+  "country_id": 790,
+  "club_id": 1500,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 112,
+  "value": 36000,
+  "contract": {
+    "salary": 26936,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57050239,
+    "expiration": "2026-06-30",
+    "salary": 26936,
+    "wage_contribution_pct": 100
+  }
+}

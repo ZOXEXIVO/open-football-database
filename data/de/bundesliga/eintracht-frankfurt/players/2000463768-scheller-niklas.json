@@ -1,0 +1,27 @@
+{
+  "id": 2000463768,
+  "first_name": "Niklas",
+  "last_name": "Scheller",
+  "birth_date": "2008-10-13",
+  "country_id": 771,
+  "club_id": 912,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 135,
+  "value": 726000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

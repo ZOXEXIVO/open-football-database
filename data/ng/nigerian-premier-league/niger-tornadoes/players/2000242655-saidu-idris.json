@@ -1,0 +1,31 @@
+{
+  "id": 2000242655,
+  "first_name": "Idris",
+  "last_name": "Saidu",
+  "birth_date": "2001-12-24",
+  "country_id": 38,
+  "club_id": 5410010,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 76,
+  "value": 50000,
+  "contract": {
+    "salary": 1508,
+    "expiration": "2026-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

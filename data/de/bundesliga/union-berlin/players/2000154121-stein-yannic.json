@@ -1,0 +1,29 @@
+{
+  "id": 2000154121,
+  "first_name": "Yannic",
+  "last_name": "Stein",
+  "birth_date": "2004-09-17",
+  "country_id": 771,
+  "club_id": 121182,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 124,
+  "value": 432000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 121188,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

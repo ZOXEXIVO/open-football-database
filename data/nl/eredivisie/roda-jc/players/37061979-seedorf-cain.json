@@ -1,0 +1,35 @@
+{
+  "id": 37061979,
+  "first_name": "Cain",
+  "last_name": "Seedorf",
+  "birth_date": "2000-01-19",
+  "country_id": 784,
+  "club_id": 1033,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 83,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

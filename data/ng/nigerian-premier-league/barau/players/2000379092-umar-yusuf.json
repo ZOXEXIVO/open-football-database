@@ -1,0 +1,27 @@
+{
+  "id": 2000379092,
+  "first_name": "Yusuf",
+  "last_name": "Umar",
+  "birth_date": "2003-09-28",
+  "country_id": 38,
+  "club_id": 2000378388,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 85,
+  "value": 71000,
+  "contract": {
+    "salary": 936,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

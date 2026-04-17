@@ -1,0 +1,29 @@
+{
+  "id": 2000268991,
+  "first_name": "Axel",
+  "last_name": "Balbuena",
+  "birth_date": "2006-03-10",
+  "country_id": 1655,
+  "club_id": 90,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 117,
+  "value": 401000,
+  "contract": {
+    "salary": 7696,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 106072,
+    "expiration": "2026-12-31",
+    "salary": 7696,
+    "wage_contribution_pct": 100
+  }
+}

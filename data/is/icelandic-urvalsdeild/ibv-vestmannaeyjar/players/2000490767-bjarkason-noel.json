@@ -1,0 +1,29 @@
+{
+  "id": 2000490767,
+  "first_name": "Nóel",
+  "last_name": "Bjarkason",
+  "birth_date": "2008-09-05",
+  "country_id": 774,
+  "club_id": 1074,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 80,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056809,
+    "expiration": "2038-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

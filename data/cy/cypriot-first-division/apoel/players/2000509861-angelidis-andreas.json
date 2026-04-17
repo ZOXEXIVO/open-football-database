@@ -1,0 +1,33 @@
+{
+  "id": 2000509861,
+  "first_name": "Andreas",
+  "last_name": "Angelidis",
+  "birth_date": "2007-06-24",
+  "country_id": 762,
+  "club_id": 451,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 93,
+  "value": 39000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 138183,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

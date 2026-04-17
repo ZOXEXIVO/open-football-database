@@ -1,0 +1,31 @@
+{
+  "id": 2000281121,
+  "first_name": "Marcus",
+  "last_name": "Emil Sørensen",
+  "birth_date": "2007-03-14",
+  "country_id": 764,
+  "club_id": 483,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 95,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  }
+}

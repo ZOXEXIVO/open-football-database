@@ -1,0 +1,33 @@
+{
+  "id": 43215575,
+  "first_name": "Luca",
+  "last_name": "Zanimacchia",
+  "birth_date": "1998-07-19",
+  "country_id": 776,
+  "club_id": 1125,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 107,
+  "value": 3000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1147,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

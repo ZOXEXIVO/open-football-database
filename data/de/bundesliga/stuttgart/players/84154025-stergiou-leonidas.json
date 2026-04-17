@@ -1,0 +1,33 @@
+{
+  "id": 84154025,
+  "first_name": "Leonidas",
+  "last_name": "Stergiou",
+  "birth_date": "2002-03-03",
+  "country_id": 798,
+  "club_id": 960,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 135,
+  "value": 5000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 880295,
+    "expiration": "2026-06-30",
+    "salary": 1040000,
+    "wage_contribution_pct": 100
+  }
+}

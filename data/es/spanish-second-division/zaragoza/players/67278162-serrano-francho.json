@@ -1,0 +1,31 @@
+{
+  "id": 67278162,
+  "first_name": "Francho",
+  "last_name": "Serrano",
+  "birth_date": "2001-10-17",
+  "country_id": 796,
+  "club_id": 1749,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 106,
+  "value": 1000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

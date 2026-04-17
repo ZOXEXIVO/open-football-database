@@ -1,0 +1,29 @@
+{
+  "id": 2000290245,
+  "first_name": "Kormákur",
+  "last_name": "Pétur Ágústsson",
+  "birth_date": "2005-02-25",
+  "country_id": 774,
+  "club_id": 1076,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 67,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-11-16",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39002899,
+    "expiration": "2025-10-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

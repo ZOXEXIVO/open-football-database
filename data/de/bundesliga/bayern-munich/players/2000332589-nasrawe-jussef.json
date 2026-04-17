@@ -1,0 +1,37 @@
+{
+  "id": 2000332589,
+  "first_name": "Jussef",
+  "last_name": "Nasrawe",
+  "birth_date": "2007-03-22",
+  "country_id": 771,
+  "club_id": 915,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 114,
+  "potential_ability": 143,
+  "value": 412000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 159,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

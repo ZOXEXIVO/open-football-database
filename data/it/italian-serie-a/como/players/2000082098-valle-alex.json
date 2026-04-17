@@ -1,0 +1,27 @@
+{
+  "id": 2000082098,
+  "first_name": "Álex",
+  "last_name": "Valle",
+  "birth_date": "2004-04-25",
+  "country_id": 796,
+  "club_id": 1123,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 115,
+  "value": 49000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

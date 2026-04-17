@@ -1,0 +1,27 @@
+{
+  "id": 2000270220,
+  "first_name": "Lourenço",
+  "last_name": "Silva",
+  "birth_date": "2006-07-24",
+  "country_id": 788,
+  "club_id": 1488,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 130,
+  "value": 18000,
+  "contract": {
+    "salary": 22464,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000188103,
+  "first_name": "Nikola",
+  "last_name": "Neychev",
+  "birth_date": "2004-07-22",
+  "country_id": 760,
+  "club_id": 352,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 106,
+  "value": 710000,
+  "contract": {
+    "salary": 20644,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

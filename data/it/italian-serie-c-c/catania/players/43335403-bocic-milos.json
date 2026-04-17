@@ -1,0 +1,41 @@
+{
+  "id": 43335403,
+  "first_name": "Miloš",
+  "last_name": "Bočić",
+  "birth_date": "2000-01-26",
+  "country_id": 802,
+  "club_id": 2193,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 74,
+  "value": 136000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43065074,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

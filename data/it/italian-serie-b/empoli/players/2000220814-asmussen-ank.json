@@ -1,0 +1,33 @@
+{
+  "id": 2000220814,
+  "first_name": "Ank",
+  "last_name": "Asmussen",
+  "birth_date": "2005-12-30",
+  "country_id": 764,
+  "club_id": 1126,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 78,
+  "value": 23000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43124331,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

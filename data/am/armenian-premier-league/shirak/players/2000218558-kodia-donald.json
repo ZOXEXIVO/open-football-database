@@ -1,0 +1,27 @@
+{
+  "id": 2000218558,
+  "first_name": "Donald",
+  "last_name": "Kodia",
+  "birth_date": "2003-01-01",
+  "country_id": 24,
+  "club_id": 103,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 93,
+  "value": 557000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

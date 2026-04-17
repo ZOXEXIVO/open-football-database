@@ -1,0 +1,33 @@
+{
+  "id": 19376569,
+  "first_name": "Douglas",
+  "last_name": "Borel",
+  "birth_date": "2002-03-30",
+  "country_id": 1651,
+  "club_id": 2448,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 94,
+  "value": 366000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2416,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

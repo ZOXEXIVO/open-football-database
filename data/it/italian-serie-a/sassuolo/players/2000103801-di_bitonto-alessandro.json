@@ -1,0 +1,37 @@
+{
+  "id": 2000103801,
+  "first_name": "Alessandro",
+  "last_name": "Di Bitonto",
+  "birth_date": "2005-10-08",
+  "country_id": 776,
+  "club_id": 3800256,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 109,
+  "value": 67000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 108985,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

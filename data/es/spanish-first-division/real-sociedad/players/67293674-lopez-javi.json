@@ -1,0 +1,33 @@
+{
+  "id": 67293674,
+  "first_name": "Javi",
+  "last_name": "López",
+  "birth_date": "2002-03-25",
+  "country_id": 796,
+  "club_id": 1742,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 138,
+  "value": 11000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1741,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

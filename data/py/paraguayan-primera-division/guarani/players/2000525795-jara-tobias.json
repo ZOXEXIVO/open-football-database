@@ -1,0 +1,32 @@
+{
+  "id": 2000525795,
+  "first_name": "Tobías",
+  "last_name": "Jara",
+  "birth_date": "2009-05-06",
+  "country_id": 1655,
+  "club_id": 106071,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 104,
+  "value": 397000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 5280181,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

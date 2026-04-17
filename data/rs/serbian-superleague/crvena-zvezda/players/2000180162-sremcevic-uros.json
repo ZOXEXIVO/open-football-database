@@ -1,0 +1,29 @@
+{
+  "id": 2000180162,
+  "first_name": "Uroš",
+  "last_name": "Sremčević",
+  "birth_date": "2006-04-24",
+  "country_id": 802,
+  "club_id": 1955,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 131,
+  "value": 803000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1950,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

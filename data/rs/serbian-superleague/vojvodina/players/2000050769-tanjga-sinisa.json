@@ -1,0 +1,27 @@
+{
+  "id": 2000050769,
+  "first_name": "Siniša",
+  "last_name": "Tanjga",
+  "birth_date": "2004-03-11",
+  "country_id": 802,
+  "club_id": 1957,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 93,
+  "value": 145000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

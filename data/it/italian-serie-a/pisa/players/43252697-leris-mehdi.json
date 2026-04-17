@@ -1,0 +1,35 @@
+{
+  "id": 43252697,
+  "first_name": "Mehdi",
+  "last_name": "Léris",
+  "birth_date": "1998-05-23",
+  "country_id": 5,
+  "club_id": 2215,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 94,
+  "value": 2000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

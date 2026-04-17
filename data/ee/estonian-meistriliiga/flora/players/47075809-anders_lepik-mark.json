@@ -1,0 +1,37 @@
+{
+  "id": 47075809,
+  "first_name": "Mark",
+  "last_name": "Anders Lepik",
+  "birth_date": "2000-09-10",
+  "country_id": 766,
+  "club_id": 746,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 78,
+  "value": 190000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 47070349,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000102142,
+  "first_name": "Justin",
+  "last_name": "Smith",
+  "birth_date": "2003-02-04",
+  "country_id": 364,
+  "club_id": 1725,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 118,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1744,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

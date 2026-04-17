@@ -1,0 +1,27 @@
+{
+  "id": 2000509288,
+  "first_name": "Octavio",
+  "last_name": "Bertarelli",
+  "birth_date": "2008-05-02",
+  "country_id": 1649,
+  "club_id": 108526,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 113,
+  "value": 424000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

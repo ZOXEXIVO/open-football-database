@@ -1,0 +1,35 @@
+{
+  "id": 2000102872,
+  "first_name": "Tim",
+  "last_name": "Trummer",
+  "birth_date": "2005-11-10",
+  "country_id": 755,
+  "club_id": 158,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 129,
+  "value": 4000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

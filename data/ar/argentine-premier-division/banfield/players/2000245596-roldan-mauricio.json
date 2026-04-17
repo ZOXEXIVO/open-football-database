@@ -1,0 +1,33 @@
+{
+  "id": 2000245596,
+  "first_name": "Mauricio",
+  "last_name": "Roldán",
+  "birth_date": "2005-02-10",
+  "country_id": 1649,
+  "club_id": 80,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 108,
+  "value": 3000000,
+  "contract": {
+    "salary": 11544,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5280220,
+    "expiration": "2026-06-30",
+    "salary": 11544,
+    "wage_contribution_pct": 100
+  }
+}

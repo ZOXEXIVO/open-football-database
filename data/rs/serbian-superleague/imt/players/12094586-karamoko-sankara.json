@@ -1,0 +1,29 @@
+{
+  "id": 12094586,
+  "first_name": "Sankara",
+  "last_name": "Karamoko",
+  "birth_date": "2003-11-09",
+  "country_id": 24,
+  "club_id": 16034828,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 107,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 62030404,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

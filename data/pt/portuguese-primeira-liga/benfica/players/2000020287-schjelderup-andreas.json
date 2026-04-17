@@ -1,0 +1,27 @@
+{
+  "id": 2000020287,
+  "first_name": "Andreas",
+  "last_name": "Schjelderup",
+  "birth_date": "2004-06-01",
+  "country_id": 786,
+  "club_id": 1487,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 126,
+  "potential_ability": 134,
+  "value": 50000000,
+  "contract": {
+    "salary": 1248000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000445451,
+  "first_name": "Luca",
+  "last_name": "Nupieri",
+  "birth_date": "2004-03-21",
+  "country_id": 1649,
+  "club_id": 92,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 117,
+  "value": 49000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

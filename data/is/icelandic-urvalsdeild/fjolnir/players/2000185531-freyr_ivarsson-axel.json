@@ -1,0 +1,33 @@
+{
+  "id": 2000185531,
+  "first_name": "Axel",
+  "last_name": "Freyr Ívarsson",
+  "birth_date": "2005-02-24",
+  "country_id": 774,
+  "club_id": 7841979,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 53,
+  "potential_ability": 75,
+  "value": 12000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-10-15",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 39002901,
+    "expiration": "2025-10-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

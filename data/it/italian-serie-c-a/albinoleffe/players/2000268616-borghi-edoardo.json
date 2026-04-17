@@ -1,0 +1,29 @@
+{
+  "id": 2000268616,
+  "first_name": "Edoardo",
+  "last_name": "Borghi",
+  "birth_date": "2006-03-10",
+  "country_id": 776,
+  "club_id": 1142,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 90,
+  "value": 32000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 98008799,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

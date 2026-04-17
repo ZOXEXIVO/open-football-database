@@ -1,0 +1,29 @@
+{
+  "id": 2000019925,
+  "first_name": "Jānis",
+  "last_name": "Beks",
+  "birth_date": "2002-11-01",
+  "country_id": 777,
+  "club_id": 47024031,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 92,
+  "value": 7000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2032-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 47001127,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

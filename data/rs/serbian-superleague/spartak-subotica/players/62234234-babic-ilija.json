@@ -1,0 +1,31 @@
+{
+  "id": 62234234,
+  "first_name": "Ilija",
+  "last_name": "Babić",
+  "birth_date": "2002-08-03",
+  "country_id": 802,
+  "club_id": 62031842,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 94,
+  "value": 517000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

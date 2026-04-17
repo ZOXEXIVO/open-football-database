@@ -1,0 +1,33 @@
+{
+  "id": 2000116131,
+  "first_name": "Roberth",
+  "last_name": "Patiño",
+  "birth_date": "2005-05-08",
+  "country_id": 1658,
+  "club_id": 421,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 97,
+  "value": 52000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 76003517,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

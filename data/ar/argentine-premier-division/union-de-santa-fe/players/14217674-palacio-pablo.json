@@ -1,0 +1,29 @@
+{
+  "id": 14217674,
+  "first_name": "Pablo",
+  "last_name": "Palacio",
+  "birth_date": "2000-05-18",
+  "country_id": 1649,
+  "club_id": 102467,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 102,
+  "value": 596000,
+  "contract": {
+    "salary": 25168,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 108514,
+    "expiration": "2026-12-31",
+    "salary": 25168,
+    "wage_contribution_pct": 100
+  }
+}

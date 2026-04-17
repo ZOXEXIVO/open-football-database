@@ -1,0 +1,29 @@
+{
+  "id": 2000377537,
+  "first_name": "Daniel",
+  "last_name": "Halachev",
+  "birth_date": "2005-03-08",
+  "country_id": 760,
+  "club_id": 22034856,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 75,
+  "value": 75000,
+  "contract": {
+    "salary": 11752,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000273450,
+    "expiration": "2026-06-15",
+    "salary": 11752,
+    "wage_contribution_pct": 100
+  }
+}

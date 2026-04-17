@@ -1,0 +1,31 @@
+{
+  "id": 43252462,
+  "first_name": "Nadir",
+  "last_name": "Zortea",
+  "birth_date": "1999-06-19",
+  "country_id": 776,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 110,
+  "value": 10000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

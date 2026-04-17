@@ -1,0 +1,27 @@
+{
+  "id": 2000231488,
+  "first_name": "Juan",
+  "last_name": "José Rosa",
+  "birth_date": "2007-07-04",
+  "country_id": 1653,
+  "club_id": 427,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 149,
+  "value": 227000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

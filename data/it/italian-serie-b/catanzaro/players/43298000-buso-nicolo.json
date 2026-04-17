@@ -1,0 +1,41 @@
+{
+  "id": 43298000,
+  "first_name": "Nicolò",
+  "last_name": "Buso",
+  "birth_date": "2000-02-01",
+  "country_id": 776,
+  "club_id": 1119,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 96,
+  "value": 604000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 700198,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

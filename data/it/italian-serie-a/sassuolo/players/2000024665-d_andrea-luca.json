@@ -1,0 +1,29 @@
+{
+  "id": 2000024665,
+  "first_name": "Luca",
+  "last_name": "D'Andrea",
+  "birth_date": "2004-09-06",
+  "country_id": 776,
+  "club_id": 3800256,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 118,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1108,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

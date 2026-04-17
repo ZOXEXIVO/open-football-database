@@ -1,0 +1,29 @@
+{
+  "id": 2000031930,
+  "first_name": "Tony",
+  "last_name": "Leone",
+  "birth_date": "2004-04-28",
+  "country_id": 379,
+  "club_id": 1257,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 122,
+  "value": 12000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1260,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

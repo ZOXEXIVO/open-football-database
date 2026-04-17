@@ -1,0 +1,34 @@
+{
+  "id": 2000044839,
+  "first_name": "David",
+  "last_name": "Buchta",
+  "birth_date": "1999-06-27",
+  "country_id": 763,
+  "club_id": 1300301,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 98,
+  "value": 750000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01"
+  }
+}

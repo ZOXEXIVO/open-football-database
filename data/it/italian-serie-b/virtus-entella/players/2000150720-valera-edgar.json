@@ -1,0 +1,29 @@
+{
+  "id": 2000150720,
+  "first_name": "Edgar",
+  "last_name": "Valera",
+  "birth_date": "2005-03-23",
+  "country_id": 1658,
+  "club_id": 43036943,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 88,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43269789,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 43143491,
+  "first_name": "Paulino",
+  "last_name": "De la Fuente",
+  "birth_date": "1997-06-27",
+  "country_id": 796,
+  "club_id": 1749,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 107,
+  "value": 1000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

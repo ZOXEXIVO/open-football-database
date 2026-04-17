@@ -1,0 +1,33 @@
+{
+  "id": 48048856,
+  "first_name": "Hervé",
+  "last_name": "Touré",
+  "birth_date": "2000-05-20",
+  "country_id": 24,
+  "club_id": 2002,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 85,
+  "value": 65000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5742987,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

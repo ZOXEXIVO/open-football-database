@@ -1,0 +1,41 @@
+{
+  "id": 43112998,
+  "first_name": "Emmanuel",
+  "last_name": "Gyasi",
+  "birth_date": "1994-01-11",
+  "country_id": 21,
+  "club_id": 1126,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 109,
+  "value": 3000000,
+  "contract": {
+    "salary": 1144000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2194,
+    "expiration": "2026-06-30",
+    "salary": 1144000,
+    "wage_contribution_pct": 100
+  }
+}

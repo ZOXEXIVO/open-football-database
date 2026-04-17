@@ -1,0 +1,29 @@
+{
+  "id": 29162693,
+  "first_name": "Eugenio",
+  "last_name": "Pizzuto",
+  "birth_date": "2002-05-13",
+  "country_id": 379,
+  "club_id": 104360,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 127,
+  "value": 3000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 102356,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

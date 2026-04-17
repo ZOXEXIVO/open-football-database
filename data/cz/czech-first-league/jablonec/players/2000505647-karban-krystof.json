@@ -1,0 +1,28 @@
+{
+  "id": 2000505647,
+  "first_name": "Kryštof",
+  "last_name": "Karban",
+  "birth_date": "2004-07-04",
+  "country_id": 763,
+  "club_id": 468,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 101,
+  "value": 96000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 116156,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

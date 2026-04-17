@@ -1,0 +1,33 @@
+{
+  "id": 2000467000,
+  "first_name": "Iván",
+  "last_name": "Rodríguez",
+  "birth_date": "2006-06-07",
+  "country_id": 753,
+  "club_id": 1709,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 111,
+  "value": 432000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7452072,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

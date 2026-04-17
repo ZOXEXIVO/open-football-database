@@ -1,0 +1,33 @@
+{
+  "id": 2000394054,
+  "first_name": "Viktor",
+  "last_name": "Árni Traustason",
+  "birth_date": "2007-03-26",
+  "country_id": 774,
+  "club_id": 1073,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 99,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-11-16",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39060552,
+    "expiration": "2026-11-16",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

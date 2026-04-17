@@ -1,0 +1,29 @@
+{
+  "id": 83323735,
+  "first_name": "Léo",
+  "last_name": "Bolgado",
+  "birth_date": "1998-08-20",
+  "country_id": 1651,
+  "club_id": 7540205,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 106,
+  "value": 1000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57171586,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

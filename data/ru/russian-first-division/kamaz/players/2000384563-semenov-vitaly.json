@@ -1,0 +1,27 @@
+{
+  "id": 2000384563,
+  "first_name": "Vitaly",
+  "last_name": "Semenov",
+  "birth_date": "2005-04-29",
+  "country_id": 791,
+  "club_id": 1522,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 77,
+  "value": 171000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

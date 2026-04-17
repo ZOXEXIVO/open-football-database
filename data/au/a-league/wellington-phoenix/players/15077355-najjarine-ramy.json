@@ -1,0 +1,31 @@
+{
+  "id": 15077355,
+  "first_name": "Ramy",
+  "last_name": "Najjarine",
+  "birth_date": "2000-04-23",
+  "country_id": 123,
+  "club_id": 15004168,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 80,
+  "value": 107000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

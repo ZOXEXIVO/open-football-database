@@ -1,0 +1,31 @@
+{
+  "id": 91181667,
+  "first_name": "Derrick",
+  "last_name": "Köhn",
+  "birth_date": "1999-02-04",
+  "country_id": 21,
+  "club_id": 121182,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 119,
+  "value": 4000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

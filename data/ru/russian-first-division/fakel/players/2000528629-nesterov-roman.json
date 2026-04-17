@@ -1,0 +1,23 @@
+{
+  "id": 2000528629,
+  "first_name": "Roman",
+  "last_name": "Nesterov",
+  "birth_date": "2008-12-24",
+  "country_id": 791,
+  "club_id": 130496,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 115,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

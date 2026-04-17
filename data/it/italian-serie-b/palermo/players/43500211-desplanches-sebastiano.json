@@ -1,0 +1,29 @@
+{
+  "id": 43500211,
+  "first_name": "Sebastiano",
+  "last_name": "Desplanches",
+  "birth_date": "2003-03-11",
+  "country_id": 776,
+  "club_id": 2194,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 135,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1158,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

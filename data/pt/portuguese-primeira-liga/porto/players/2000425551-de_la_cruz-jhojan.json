@@ -1,0 +1,27 @@
+{
+  "id": 2000425551,
+  "first_name": "Jhojan",
+  "last_name": "De La Cruz",
+  "birth_date": "2007-04-28",
+  "country_id": 1653,
+  "club_id": 1478,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 126,
+  "value": 178000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

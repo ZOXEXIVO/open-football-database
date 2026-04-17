@@ -1,0 +1,33 @@
+{
+  "id": 2000020549,
+  "first_name": "Thauan",
+  "last_name": "Lara",
+  "birth_date": "2004-01-22",
+  "country_id": 1651,
+  "club_id": 2448,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 103,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2438,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

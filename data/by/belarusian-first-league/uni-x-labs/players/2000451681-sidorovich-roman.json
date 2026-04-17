@@ -1,0 +1,27 @@
+{
+  "id": 2000451681,
+  "first_name": "Roman",
+  "last_name": "Sidorovich",
+  "birth_date": "1996-02-05",
+  "country_id": 758,
+  "club_id": 2000431962,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 47,
+  "potential_ability": 47,
+  "value": 1000,
+  "contract": {
+    "salary": 3432,
+    "expiration": "2025-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

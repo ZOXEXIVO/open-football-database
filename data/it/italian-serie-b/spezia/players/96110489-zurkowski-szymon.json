@@ -1,0 +1,27 @@
+{
+  "id": 96110489,
+  "first_name": "Szymon",
+  "last_name": "Żurkowski",
+  "birth_date": "1997-09-25",
+  "country_id": 787,
+  "club_id": 1173,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 101,
+  "value": 1000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

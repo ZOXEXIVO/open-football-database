@@ -1,0 +1,27 @@
+{
+  "id": 2000184440,
+  "first_name": "Víctor",
+  "last_name": "Guzmán",
+  "birth_date": "2006-03-25",
+  "country_id": 1656,
+  "club_id": 1489,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 129,
+  "value": 721000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

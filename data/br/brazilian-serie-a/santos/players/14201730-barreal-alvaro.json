@@ -1,0 +1,31 @@
+{
+  "id": 14201730,
+  "first_name": "Álvaro",
+  "last_name": "Barreal",
+  "birth_date": "2000-08-17",
+  "country_id": 1649,
+  "club_id": 335,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 128,
+  "value": 7000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

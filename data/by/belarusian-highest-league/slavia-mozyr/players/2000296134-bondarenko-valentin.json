@@ -1,0 +1,33 @@
+{
+  "id": 2000296134,
+  "first_name": "Valentin",
+  "last_name": "Bondarenko",
+  "birth_date": "2005-02-12",
+  "country_id": 758,
+  "club_id": 130879,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 79,
+  "value": 15000,
+  "contract": {
+    "salary": 3432,
+    "expiration": "2026-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000125448,
+    "expiration": "2026-12-10",
+    "salary": 3432,
+    "wage_contribution_pct": 100
+  }
+}

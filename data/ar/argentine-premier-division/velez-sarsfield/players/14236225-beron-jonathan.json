@@ -1,0 +1,37 @@
+{
+  "id": 14236225,
+  "first_name": "Jonathan",
+  "last_name": "Berón",
+  "birth_date": "2002-06-09",
+  "country_id": 1649,
+  "club_id": 98,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 113,
+  "value": 889000,
+  "contract": {
+    "salary": 19188,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3101520,
+    "expiration": "2026-12-31",
+    "salary": 19188,
+    "wage_contribution_pct": 100
+  }
+}

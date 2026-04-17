@@ -1,0 +1,31 @@
+{
+  "id": 2000141427,
+  "first_name": "Lukáš",
+  "last_name": "Ambros",
+  "birth_date": "2004-06-05",
+  "country_id": 763,
+  "club_id": 1452,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 108,
+  "value": 688000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 14091604,
+  "first_name": "Gustavo",
+  "last_name": "Dulanto",
+  "birth_date": "1995-05-09",
+  "country_id": 1656,
+  "club_id": 1450,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 91,
+  "value": 86000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 303816,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

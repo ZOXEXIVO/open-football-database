@@ -1,0 +1,27 @@
+{
+  "id": 2000477666,
+  "first_name": "José",
+  "last_name": "Mejía",
+  "birth_date": "2003-03-07",
+  "country_id": 1653,
+  "club_id": 5261737,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 85,
+  "value": 36000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

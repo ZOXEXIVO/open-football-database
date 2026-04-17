@@ -1,0 +1,35 @@
+{
+  "id": 2000183317,
+  "first_name": "Anton",
+  "last_name": "Ivanov",
+  "birth_date": "2004-11-10",
+  "country_id": 760,
+  "club_id": 22019542,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 94,
+  "value": 366000,
+  "contract": {
+    "salary": 12376,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

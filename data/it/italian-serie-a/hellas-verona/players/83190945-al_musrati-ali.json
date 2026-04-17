@@ -1,0 +1,29 @@
+{
+  "id": 83190945,
+  "first_name": "Ali",
+  "last_name": "Al Musrati",
+  "birth_date": "1996-04-06",
+  "country_id": 28,
+  "club_id": 1866,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 137,
+  "value": 8000000,
+  "contract": {
+    "salary": 2704000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2201,
+    "expiration": "2026-06-30",
+    "salary": 2704000,
+    "wage_contribution_pct": 100
+  }
+}

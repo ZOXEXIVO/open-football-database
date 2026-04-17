@@ -1,0 +1,27 @@
+{
+  "id": 2000463210,
+  "first_name": "Andreas",
+  "last_name": "Knudsen",
+  "birth_date": "2008-11-06",
+  "country_id": 764,
+  "club_id": 545,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 112,
+  "value": 23000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000091085,
+  "first_name": "Alexis",
+  "last_name": "Fariña",
+  "birth_date": "2004-12-17",
+  "country_id": 1655,
+  "club_id": 1445,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 111,
+  "value": 368000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5280214,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

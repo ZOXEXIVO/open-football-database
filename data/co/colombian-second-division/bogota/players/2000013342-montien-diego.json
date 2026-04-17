@@ -1,0 +1,31 @@
+{
+  "id": 2000013342,
+  "first_name": "Diego",
+  "last_name": "Montien",
+  "birth_date": "2001-01-05",
+  "country_id": 1653,
+  "club_id": 309353,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 84,
+  "value": 26000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

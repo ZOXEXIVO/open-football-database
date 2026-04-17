@@ -1,0 +1,29 @@
+{
+  "id": 2000180802,
+  "first_name": "Ruben",
+  "last_name": "Silva-Richards",
+  "birth_date": "2004-01-03",
+  "country_id": 364,
+  "club_id": 2390,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 107,
+  "value": 1000000,
+  "contract": {
+    "salary": 29172,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 11023202,
+    "expiration": "2026-06-30",
+    "salary": 29172,
+    "wage_contribution_pct": 100
+  }
+}

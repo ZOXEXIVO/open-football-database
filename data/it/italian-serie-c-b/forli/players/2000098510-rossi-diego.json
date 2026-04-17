@@ -1,0 +1,27 @@
+{
+  "id": 2000098510,
+  "first_name": "Diego",
+  "last_name": "Rossi",
+  "birth_date": "2005-07-08",
+  "country_id": 776,
+  "club_id": 2198,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 100,
+  "value": 95000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

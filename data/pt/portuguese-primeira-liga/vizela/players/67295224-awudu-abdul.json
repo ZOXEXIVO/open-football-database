@@ -1,0 +1,33 @@
+{
+  "id": 67295224,
+  "first_name": "Abdul",
+  "last_name": "Awudu",
+  "birth_date": "2001-01-10",
+  "country_id": 21,
+  "club_id": 2403,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 84,
+  "value": 292000,
+  "contract": {
+    "salary": 20176,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71016825,
+    "expiration": "2026-12-31",
+    "salary": 20176,
+    "wage_contribution_pct": 100
+  }
+}

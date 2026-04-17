@@ -1,0 +1,29 @@
+{
+  "id": 2000208819,
+  "first_name": "Aviv",
+  "last_name": "Yefet",
+  "birth_date": "2005-04-27",
+  "country_id": 775,
+  "club_id": 1096,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 103,
+  "value": 147000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 42030609,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

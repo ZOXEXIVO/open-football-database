@@ -1,0 +1,33 @@
+{
+  "id": 2000033203,
+  "first_name": "Zach",
+  "last_name": "Booth",
+  "birth_date": "2004-02-17",
+  "country_id": 390,
+  "club_id": 1004,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 92,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 980543,
+    "expiration": "2026-12-31",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

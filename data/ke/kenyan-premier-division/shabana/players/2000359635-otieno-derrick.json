@@ -1,0 +1,31 @@
+{
+  "id": 2000359635,
+  "first_name": "Derrick",
+  "last_name": "Otieno",
+  "birth_date": "2001-10-02",
+  "country_id": 25,
+  "club_id": 5340908,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 68,
+  "value": 21000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2031-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

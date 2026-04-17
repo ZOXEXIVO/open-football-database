@@ -1,0 +1,29 @@
+{
+  "id": 2000397857,
+  "first_name": "Believe",
+  "last_name": "Maapia Peter",
+  "birth_date": "2006-01-06",
+  "country_id": 38,
+  "club_id": 1500,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 100,
+  "value": 173000,
+  "contract": {
+    "salary": 11232,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000117848,
+    "expiration": "2026-06-30",
+    "salary": 11232,
+    "wage_contribution_pct": 100
+  }
+}

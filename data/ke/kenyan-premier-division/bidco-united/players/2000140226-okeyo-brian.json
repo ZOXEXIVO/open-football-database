@@ -1,0 +1,27 @@
+{
+  "id": 2000140226,
+  "first_name": "Brian",
+  "last_name": "Okeyo",
+  "birth_date": "1995-05-17",
+  "country_id": 25,
+  "club_id": 13104763,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 55,
+  "value": 20000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2025-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

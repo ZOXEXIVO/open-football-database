@@ -1,0 +1,39 @@
+{
+  "id": 2000045242,
+  "first_name": "Tomás",
+  "last_name": "Porra",
+  "birth_date": "2004-01-09",
+  "country_id": 1649,
+  "club_id": 952695,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 100,
+  "value": 4000000,
+  "contract": {
+    "salary": 14196,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

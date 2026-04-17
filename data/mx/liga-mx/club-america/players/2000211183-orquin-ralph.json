@@ -1,0 +1,31 @@
+{
+  "id": 2000211183,
+  "first_name": "Ralph",
+  "last_name": "Orquin",
+  "birth_date": "2003-04-15",
+  "country_id": 379,
+  "club_id": 1253,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 125,
+  "value": 457000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

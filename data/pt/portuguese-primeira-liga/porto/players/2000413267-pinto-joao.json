@@ -1,0 +1,27 @@
+{
+  "id": 2000413267,
+  "first_name": "João",
+  "last_name": "Pinto",
+  "birth_date": "2008-06-12",
+  "country_id": 788,
+  "club_id": 1478,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 136,
+  "value": 96000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

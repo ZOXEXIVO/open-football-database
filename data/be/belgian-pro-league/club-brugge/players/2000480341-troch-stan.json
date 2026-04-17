@@ -1,0 +1,27 @@
+{
+  "id": 2000480341,
+  "first_name": "Stan",
+  "last_name": "Troch",
+  "birth_date": "2009-07-07",
+  "country_id": 757,
+  "club_id": 186,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 128,
+  "value": 238000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

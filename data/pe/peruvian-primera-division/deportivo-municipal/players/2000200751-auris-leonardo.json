@@ -1,0 +1,27 @@
+{
+  "id": 2000200751,
+  "first_name": "Leonardo",
+  "last_name": "Auris",
+  "birth_date": "2005-03-12",
+  "country_id": 1656,
+  "club_id": 1446,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 82,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

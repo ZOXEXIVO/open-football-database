@@ -1,0 +1,33 @@
+{
+  "id": 2000266604,
+  "first_name": "Alimkhan",
+  "last_name": "Zainivov",
+  "birth_date": "2005-01-04",
+  "country_id": 791,
+  "club_id": 2000032527,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 89,
+  "value": 23000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300134,
+    "expiration": "2026-12-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

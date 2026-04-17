@@ -1,0 +1,29 @@
+{
+  "id": 2000141295,
+  "first_name": "Nicolás",
+  "last_name": "Suarez",
+  "birth_date": "2005-07-31",
+  "country_id": 1652,
+  "club_id": 399,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 122,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5250434,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

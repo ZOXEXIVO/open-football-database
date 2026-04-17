@@ -1,0 +1,29 @@
+{
+  "id": 2000529589,
+  "first_name": "Mateo",
+  "last_name": "Miclăuş",
+  "birth_date": "2008-10-20",
+  "country_id": 790,
+  "club_id": 7540205,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 109,
+  "value": 3000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57142845,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

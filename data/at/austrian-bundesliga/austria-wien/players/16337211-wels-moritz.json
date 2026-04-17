@@ -1,0 +1,33 @@
+{
+  "id": 16337211,
+  "first_name": "Moritz",
+  "last_name": "Wels",
+  "birth_date": "2004-09-25",
+  "country_id": 755,
+  "club_id": 152,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 105,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 16324690,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

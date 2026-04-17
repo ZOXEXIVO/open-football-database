@@ -1,0 +1,29 @@
+{
+  "id": 62175678,
+  "first_name": "Nemanja",
+  "last_name": "Milunović",
+  "birth_date": "1999-10-12",
+  "country_id": 802,
+  "club_id": 1951,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 74,
+  "value": 16000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5747815,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

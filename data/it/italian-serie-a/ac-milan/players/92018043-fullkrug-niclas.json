@@ -1,0 +1,29 @@
+{
+  "id": 92018043,
+  "first_name": "Niclas",
+  "last_name": "Füllkrug",
+  "birth_date": "1993-02-09",
+  "country_id": 771,
+  "club_id": 735,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 131,
+  "value": 19000000,
+  "contract": {
+    "salary": 6500000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1099,
+    "expiration": "2026-06-30",
+    "salary": 6500000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 45112883,
+  "first_name": "Kojiro",
+  "last_name": "Yasuda",
+  "birth_date": "2003-08-14",
+  "country_id": 116,
+  "club_id": 107313,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 92,
+  "value": 114000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 792316,
+    "expiration": "2026-01-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

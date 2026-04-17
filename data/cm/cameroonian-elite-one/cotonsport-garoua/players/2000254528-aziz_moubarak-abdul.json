@@ -1,0 +1,27 @@
+{
+  "id": 2000254528,
+  "first_name": "Abdul",
+  "last_name": "Aziz Moubarak",
+  "birth_date": "2003-09-21",
+  "country_id": 11,
+  "club_id": 5340779,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 95,
+  "value": 35000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

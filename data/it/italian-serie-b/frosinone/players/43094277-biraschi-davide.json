@@ -1,0 +1,33 @@
+{
+  "id": 43094277,
+  "first_name": "Davide",
+  "last_name": "Biraschi",
+  "birth_date": "1994-07-02",
+  "country_id": 776,
+  "club_id": 2199,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 103,
+  "value": 850000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 458631,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

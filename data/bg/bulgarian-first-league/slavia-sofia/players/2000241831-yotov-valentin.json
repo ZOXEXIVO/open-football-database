@@ -1,0 +1,27 @@
+{
+  "id": 2000241831,
+  "first_name": "Valentin",
+  "last_name": "Yotov",
+  "birth_date": "2006-01-15",
+  "country_id": 760,
+  "club_id": 356,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 84,
+  "value": 64000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

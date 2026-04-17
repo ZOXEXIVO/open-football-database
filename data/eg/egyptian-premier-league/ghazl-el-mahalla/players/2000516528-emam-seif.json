@@ -1,0 +1,33 @@
+{
+  "id": 2000516528,
+  "first_name": "Seif",
+  "last_name": "Emam",
+  "birth_date": "2004-09-08",
+  "country_id": 16,
+  "club_id": 13153620,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 117,
+  "value": 228000,
+  "contract": {
+    "salary": 44200,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5370007,
+    "expiration": "2028-06-30",
+    "salary": 44200,
+    "wage_contribution_pct": 100
+  }
+}

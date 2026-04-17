@@ -1,0 +1,31 @@
+{
+  "id": 14208813,
+  "first_name": "Santiago",
+  "last_name": "González",
+  "birth_date": "1999-06-25",
+  "country_id": 1649,
+  "club_id": 1449,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 105,
+  "value": 200000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

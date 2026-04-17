@@ -1,0 +1,29 @@
+{
+  "id": 28038177,
+  "first_name": "Benji",
+  "last_name": "Siegrist",
+  "birth_date": "1992-01-31",
+  "country_id": 798,
+  "club_id": 57171586,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 896000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1132,
+    "expiration": "2026-06-30",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

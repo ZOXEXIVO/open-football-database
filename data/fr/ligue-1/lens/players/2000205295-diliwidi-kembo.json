@@ -1,0 +1,37 @@
+{
+  "id": 2000205295,
+  "first_name": "Kembo",
+  "last_name": "Diliwidi",
+  "birth_date": "2006-02-03",
+  "country_id": 769,
+  "club_id": 871,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 132,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 50034825,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

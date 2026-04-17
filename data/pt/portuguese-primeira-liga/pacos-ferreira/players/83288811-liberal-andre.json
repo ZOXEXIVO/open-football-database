@@ -1,0 +1,29 @@
+{
+  "id": 83288811,
+  "first_name": "André",
+  "last_name": "Liberal",
+  "birth_date": "2002-08-02",
+  "country_id": 788,
+  "club_id": 2386,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 102,
+  "value": 173000,
+  "contract": {
+    "salary": 38168,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2395,
+    "expiration": "2026-06-30",
+    "salary": 38168,
+    "wage_contribution_pct": 100
+  }
+}

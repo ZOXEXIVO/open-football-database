@@ -1,0 +1,35 @@
+{
+  "id": 2000163962,
+  "first_name": "Gonzalo",
+  "last_name": "Zelarayán",
+  "birth_date": "2004-04-28",
+  "country_id": 1649,
+  "club_id": 81,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 112,
+  "value": 3000000,
+  "contract": {
+    "salary": 21892,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

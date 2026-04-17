@@ -1,0 +1,29 @@
+{
+  "id": 19258662,
+  "first_name": "Gabriel",
+  "last_name": "Barbosa",
+  "birth_date": "1999-03-17",
+  "country_id": 1651,
+  "club_id": 1452,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 86,
+  "value": 403000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1624,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

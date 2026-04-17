@@ -1,0 +1,35 @@
+{
+  "id": 14230113,
+  "first_name": "Santiago",
+  "last_name": "Pierotti",
+  "birth_date": "2001-04-03",
+  "country_id": 1649,
+  "club_id": 1141,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 108,
+  "value": 5000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

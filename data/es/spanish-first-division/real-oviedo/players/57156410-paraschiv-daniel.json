@@ -1,0 +1,29 @@
+{
+  "id": 57156410,
+  "first_name": "Daniel",
+  "last_name": "Paraschiv",
+  "birth_date": "1999-04-24",
+  "country_id": 790,
+  "club_id": 1741,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 102,
+  "value": 1000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57171586,
+    "expiration": "2026-06-30",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 39000486,
+  "first_name": "Atli",
+  "last_name": "Jónasson",
+  "birth_date": "1988-03-12",
+  "country_id": 774,
+  "club_id": 7840114,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 65,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2025-10-16",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056792,
+    "expiration": "2025-10-16",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

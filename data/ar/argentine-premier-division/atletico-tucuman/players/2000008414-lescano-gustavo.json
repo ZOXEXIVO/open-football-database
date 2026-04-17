@@ -1,0 +1,29 @@
+{
+  "id": 2000008414,
+  "first_name": "Gustavo",
+  "last_name": "Lescano",
+  "birth_date": "2002-03-21",
+  "country_id": 1649,
+  "club_id": 102474,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 101,
+  "value": 92000,
+  "contract": {
+    "salary": 7384,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000303828,
+    "expiration": "2026-02-28",
+    "salary": 7384,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000437904,
+  "first_name": "Santiago",
+  "last_name": "Álzate",
+  "birth_date": "2007-06-03",
+  "country_id": 1653,
+  "club_id": 308516,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 106,
+  "value": 123000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

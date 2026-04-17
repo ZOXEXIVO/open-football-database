@@ -1,0 +1,29 @@
+{
+  "id": 14220099,
+  "first_name": "Laureano",
+  "last_name": "Martínez",
+  "birth_date": "2002-03-04",
+  "country_id": 1649,
+  "club_id": 102489,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 112,
+  "value": 230000,
+  "contract": {
+    "salary": 32500,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 14046675,
+    "expiration": "2026-12-31",
+    "salary": 32500,
+    "wage_contribution_pct": 100
+  }
+}

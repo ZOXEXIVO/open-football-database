@@ -1,0 +1,33 @@
+{
+  "id": 2000208620,
+  "first_name": "Fidel",
+  "last_name": "Barajas",
+  "birth_date": "2006-04-05",
+  "country_id": 379,
+  "club_id": 1255,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 130,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5661074,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

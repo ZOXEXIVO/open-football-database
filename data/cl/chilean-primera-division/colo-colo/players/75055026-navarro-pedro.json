@@ -1,0 +1,33 @@
+{
+  "id": 75055026,
+  "first_name": "Pedro",
+  "last_name": "Navarro",
+  "birth_date": "2001-03-30",
+  "country_id": 1652,
+  "club_id": 399,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 121,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2031-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 120921,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000129386,
+  "first_name": "David",
+  "last_name": "Retamal",
+  "birth_date": "2003-04-14",
+  "country_id": 1652,
+  "club_id": 404,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 116,
+  "value": 114000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130789,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

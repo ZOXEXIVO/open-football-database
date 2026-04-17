@@ -1,0 +1,31 @@
+{
+  "id": 2000105363,
+  "first_name": "Manuel",
+  "last_name": "Fraunhuber",
+  "birth_date": "2005-11-02",
+  "country_id": 755,
+  "club_id": 16000158,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 69,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

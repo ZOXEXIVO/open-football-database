@@ -1,0 +1,33 @@
+{
+  "id": 2000167710,
+  "first_name": "Yuta",
+  "last_name": "Miyamoto",
+  "birth_date": "1999-12-15",
+  "country_id": 116,
+  "club_id": 1195,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 113,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1192,
+    "expiration": "2026-01-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

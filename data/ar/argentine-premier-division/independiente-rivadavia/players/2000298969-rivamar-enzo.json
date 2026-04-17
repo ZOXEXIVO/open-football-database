@@ -1,0 +1,31 @@
+{
+  "id": 2000298969,
+  "first_name": "Enzo",
+  "last_name": "Rivamar",
+  "birth_date": "2003-01-16",
+  "country_id": 1649,
+  "club_id": 3101453,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 97,
+  "value": 276000,
+  "contract": {
+    "salary": 7696,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000417240,
+  "first_name": "Adama",
+  "last_name": "Dramé",
+  "birth_date": "2005-01-05",
+  "country_id": 24,
+  "club_id": 16034828,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 118,
+  "value": 1000000,
+  "contract": {
+    "salary": 33332,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

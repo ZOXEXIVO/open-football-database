@@ -1,0 +1,29 @@
+{
+  "id": 2000320687,
+  "first_name": "Robert",
+  "last_name": "",
+  "birth_date": "2005-02-03",
+  "country_id": 1651,
+  "club_id": 314,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 607000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 19342677,
+    "expiration": "2026-11-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

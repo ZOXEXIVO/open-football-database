@@ -1,0 +1,29 @@
+{
+  "id": 2000352129,
+  "first_name": "Andrea",
+  "last_name": "Natali",
+  "birth_date": "2008-01-28",
+  "country_id": 776,
+  "club_id": 901,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 156,
+  "value": 2000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 991,
+    "expiration": "2026-06-30",
+    "salary": 312000,
+    "wage_contribution_pct": 100
+  }
+}

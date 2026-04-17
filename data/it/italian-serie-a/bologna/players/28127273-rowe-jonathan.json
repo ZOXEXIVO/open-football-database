@@ -1,0 +1,27 @@
+{
+  "id": 28127273,
+  "first_name": "Jonathan",
+  "last_name": "Rowe",
+  "birth_date": "2003-04-30",
+  "country_id": 765,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 122,
+  "value": 25000000,
+  "contract": {
+    "salary": 2392000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

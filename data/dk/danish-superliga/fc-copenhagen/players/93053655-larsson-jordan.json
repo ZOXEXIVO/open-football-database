@@ -1,0 +1,27 @@
+{
+  "id": 93053655,
+  "first_name": "Jordan",
+  "last_name": "Larsson",
+  "birth_date": "1997-06-20",
+  "country_id": 797,
+  "club_id": 505,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 126,
+  "value": 1000000,
+  "contract": {
+    "salary": 936000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

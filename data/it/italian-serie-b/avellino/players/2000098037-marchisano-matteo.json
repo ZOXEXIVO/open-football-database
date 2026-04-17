@@ -1,0 +1,41 @@
+{
+  "id": 2000098037,
+  "first_name": "Matteo",
+  "last_name": "Marchisano",
+  "birth_date": "2004-10-06",
+  "country_id": 776,
+  "club_id": 1108,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 100,
+  "value": 100000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 108986,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

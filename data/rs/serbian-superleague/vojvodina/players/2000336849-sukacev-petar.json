@@ -1,0 +1,29 @@
+{
+  "id": 2000336849,
+  "first_name": "Petar",
+  "last_name": "Sukačev",
+  "birth_date": "2005-08-28",
+  "country_id": 802,
+  "club_id": 1957,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 96,
+  "value": 598000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5741309,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

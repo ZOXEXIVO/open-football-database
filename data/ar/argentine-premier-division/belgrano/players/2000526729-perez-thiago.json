@@ -1,0 +1,27 @@
+{
+  "id": 2000526729,
+  "first_name": "Thiago",
+  "last_name": "Pérez",
+  "birth_date": "2008-02-19",
+  "country_id": 1649,
+  "club_id": 81,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 110,
+  "value": 251000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

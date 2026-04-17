@@ -1,0 +1,33 @@
+{
+  "id": 2000054263,
+  "first_name": "Bryan",
+  "last_name": "Zaragoza",
+  "birth_date": "2001-04-25",
+  "country_id": 796,
+  "club_id": 915,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 135,
+  "potential_ability": 156,
+  "value": 18000000,
+  "contract": {
+    "salary": 3432000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1100,
+    "expiration": "2026-06-30",
+    "salary": 3432000,
+    "wage_contribution_pct": 100
+  }
+}

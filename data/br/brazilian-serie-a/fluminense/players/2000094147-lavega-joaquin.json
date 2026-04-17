@@ -1,0 +1,37 @@
+{
+  "id": 2000094147,
+  "first_name": "Joaquín",
+  "last_name": "Lavega",
+  "birth_date": "2005-02-03",
+  "country_id": 1657,
+  "club_id": 323,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 121,
+  "value": 5000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 104776,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

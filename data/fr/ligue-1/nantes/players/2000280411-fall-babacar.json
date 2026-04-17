@@ -1,0 +1,27 @@
+{
+  "id": 2000280411,
+  "first_name": "Babacar",
+  "last_name": "Fall",
+  "birth_date": "2007-05-08",
+  "country_id": 41,
+  "club_id": 846,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 120,
+  "value": 205000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 43270713,
+  "first_name": "Riccardo",
+  "last_name": "Sottil",
+  "birth_date": "1999-06-03",
+  "country_id": 776,
+  "club_id": 1129,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 130,
+  "value": 4000000,
+  "contract": {
+    "salary": 936000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1141,
+    "expiration": "2026-06-30",
+    "salary": 936000,
+    "wage_contribution_pct": 100
+  }
+}

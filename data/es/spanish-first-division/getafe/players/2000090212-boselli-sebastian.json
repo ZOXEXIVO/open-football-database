@@ -1,0 +1,33 @@
+{
+  "id": 2000090212,
+  "first_name": "Sebastián",
+  "last_name": "Boselli",
+  "birth_date": "2003-12-04",
+  "country_id": 1657,
+  "club_id": 94,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 130,
+  "value": 6000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1710,
+    "expiration": "2026-06-30",
+    "salary": 312000,
+    "wage_contribution_pct": 100
+  }
+}

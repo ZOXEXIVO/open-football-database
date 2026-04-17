@@ -1,0 +1,27 @@
+{
+  "id": 2000502770,
+  "first_name": "Angelo",
+  "last_name": "Antonio Di Palma",
+  "birth_date": "2009-02-05",
+  "country_id": 776,
+  "club_id": 1125,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 116,
+  "value": 32000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

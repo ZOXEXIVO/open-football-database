@@ -1,0 +1,23 @@
+{
+  "id": 2000502844,
+  "first_name": "Lautaro",
+  "last_name": "Kuchaska",
+  "birth_date": "2008-02-21",
+  "country_id": 1649,
+  "club_id": 85,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 111,
+  "value": 220000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

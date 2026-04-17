@@ -1,0 +1,35 @@
+{
+  "id": 2000012478,
+  "first_name": "Mohamed",
+  "last_name": "El Shami",
+  "birth_date": "1996-01-01",
+  "country_id": 16,
+  "club_id": 5370006,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 93,
+  "value": 350000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

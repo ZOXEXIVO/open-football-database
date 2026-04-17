@@ -1,0 +1,29 @@
+{
+  "id": 2000447749,
+  "first_name": "Mirko",
+  "last_name": "Stevanović",
+  "birth_date": "2005-04-10",
+  "country_id": 802,
+  "club_id": 62159794,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 95,
+  "value": 180000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 62123106,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

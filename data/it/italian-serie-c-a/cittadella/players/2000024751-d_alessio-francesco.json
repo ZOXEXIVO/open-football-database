@@ -1,0 +1,31 @@
+{
+  "id": 2000024751,
+  "first_name": "Francesco",
+  "last_name": "D'Alessio",
+  "birth_date": "2004-02-21",
+  "country_id": 776,
+  "club_id": 2195,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 95,
+  "value": 990000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

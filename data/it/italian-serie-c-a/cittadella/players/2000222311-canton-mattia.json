@@ -1,0 +1,33 @@
+{
+  "id": 2000222311,
+  "first_name": "Mattia",
+  "last_name": "Canton",
+  "birth_date": "2006-05-01",
+  "country_id": 776,
+  "club_id": 2195,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 77,
+  "value": 16000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43157339,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

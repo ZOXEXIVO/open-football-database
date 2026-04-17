@@ -1,0 +1,37 @@
+{
+  "id": 2000227977,
+  "first_name": "Héctor",
+  "last_name": "Fort",
+  "birth_date": "2006-08-02",
+  "country_id": 796,
+  "club_id": 1708,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 135,
+  "potential_ability": 161,
+  "value": 36000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1707,
+    "expiration": "2026-06-30",
+    "salary": 780000,
+    "wage_contribution_pct": 100
+  }
+}

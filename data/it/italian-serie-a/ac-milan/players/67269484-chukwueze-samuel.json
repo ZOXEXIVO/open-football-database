@@ -1,0 +1,33 @@
+{
+  "id": 67269484,
+  "first_name": "Samuel",
+  "last_name": "Chukwueze",
+  "birth_date": "1999-05-22",
+  "country_id": 38,
+  "club_id": 1099,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 126,
+  "potential_ability": 131,
+  "value": 13000000,
+  "contract": {
+    "salary": 4420000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 654,
+    "expiration": "2026-06-30",
+    "salary": 4420000,
+    "wage_contribution_pct": 100
+  }
+}

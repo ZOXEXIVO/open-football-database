@@ -1,0 +1,31 @@
+{
+  "id": 28058330,
+  "first_name": "Tom",
+  "last_name": "Lawrence",
+  "birth_date": "1994-01-13",
+  "country_id": 801,
+  "club_id": 123001,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 103,
+  "value": 690000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

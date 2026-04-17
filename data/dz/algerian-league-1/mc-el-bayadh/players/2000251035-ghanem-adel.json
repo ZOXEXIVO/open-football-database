@@ -1,0 +1,27 @@
+{
+  "id": 2000251035,
+  "first_name": "Adel",
+  "last_name": "Ghanem",
+  "birth_date": "2003-01-20",
+  "country_id": 5,
+  "club_id": 2000183368,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 106,
+  "value": 36000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 12095234,
+  "first_name": "Lassina",
+  "last_name": "Traoré",
+  "birth_date": "2007-01-10",
+  "country_id": 9,
+  "club_id": 158,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 108,
+  "value": 250000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 16123919,
+    "expiration": "2029-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

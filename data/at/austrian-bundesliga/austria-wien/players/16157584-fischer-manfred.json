@@ -1,0 +1,27 @@
+{
+  "id": 16157584,
+  "first_name": "Manfred",
+  "last_name": "Fischer",
+  "birth_date": "1995-08-06",
+  "country_id": 755,
+  "club_id": 152,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 104,
+  "value": 1000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

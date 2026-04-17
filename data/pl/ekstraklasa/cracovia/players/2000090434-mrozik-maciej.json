@@ -1,0 +1,29 @@
+{
+  "id": 2000090434,
+  "first_name": "Maciej",
+  "last_name": "Mrozik",
+  "birth_date": "2005-05-05",
+  "country_id": 787,
+  "club_id": 129583,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 101,
+  "value": 131000,
+  "contract": {
+    "salary": 6344,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129564,
+    "expiration": "2026-06-30",
+    "salary": 6344,
+    "wage_contribution_pct": 100
+  }
+}

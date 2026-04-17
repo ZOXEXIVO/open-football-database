@@ -1,0 +1,29 @@
+{
+  "id": 2000094429,
+  "first_name": "Theo",
+  "last_name": "Sander",
+  "birth_date": "2005-01-08",
+  "country_id": 764,
+  "club_id": 505,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 123,
+  "value": 2000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 545,
+    "expiration": "2026-06-30",
+    "salary": 312000,
+    "wage_contribution_pct": 100
+  }
+}

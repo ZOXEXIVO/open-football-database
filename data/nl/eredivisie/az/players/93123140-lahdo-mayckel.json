@@ -1,0 +1,33 @@
+{
+  "id": 93123140,
+  "first_name": "Mayckel",
+  "last_name": "Lahdo",
+  "birth_date": "2002-12-30",
+  "country_id": 797,
+  "club_id": 991,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 132,
+  "value": 8000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 496,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

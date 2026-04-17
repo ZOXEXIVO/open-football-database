@@ -1,0 +1,27 @@
+{
+  "id": 2000404574,
+  "first_name": "Amr",
+  "last_name": "El Gazar",
+  "birth_date": "1999-09-20",
+  "country_id": 16,
+  "club_id": 106756,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 108,
+  "value": 7000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

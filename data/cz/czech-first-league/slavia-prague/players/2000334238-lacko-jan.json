@@ -1,0 +1,28 @@
+{
+  "id": 2000334238,
+  "first_name": "Jan",
+  "last_name": "Lacko",
+  "birth_date": "2006-01-11",
+  "country_id": 763,
+  "club_id": 474,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 112,
+  "value": 278000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 136197,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

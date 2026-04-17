@@ -1,0 +1,37 @@
+{
+  "id": 2000216527,
+  "first_name": "Bartosz",
+  "last_name": "Biedrzycki",
+  "birth_date": "2003-04-16",
+  "country_id": 787,
+  "club_id": 129583,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 103,
+  "value": 190000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129565,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

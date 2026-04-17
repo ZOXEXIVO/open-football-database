@@ -1,0 +1,31 @@
+{
+  "id": 2000162689,
+  "first_name": "Mateo",
+  "last_name": "Zuleta",
+  "birth_date": "2002-06-07",
+  "country_id": 1653,
+  "club_id": 420,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 100,
+  "value": 684000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

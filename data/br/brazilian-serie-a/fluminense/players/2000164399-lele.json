@@ -1,0 +1,33 @@
+{
+  "id": 2000164399,
+  "first_name": "Lelê",
+  "last_name": "",
+  "birth_date": "1997-10-01",
+  "country_id": 1651,
+  "club_id": 323,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 117,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 26031118,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

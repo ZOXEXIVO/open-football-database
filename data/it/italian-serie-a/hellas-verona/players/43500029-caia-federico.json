@@ -1,0 +1,29 @@
+{
+  "id": 43500029,
+  "first_name": "Federico",
+  "last_name": "Caia",
+  "birth_date": "2003-04-21",
+  "country_id": 776,
+  "club_id": 2201,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 115,
+  "value": 21000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43006436,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

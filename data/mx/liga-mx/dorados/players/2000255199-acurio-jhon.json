@@ -1,0 +1,29 @@
+{
+  "id": 2000255199,
+  "first_name": "Jhon",
+  "last_name": "Acurio",
+  "birth_date": "2007-01-18",
+  "country_id": 1654,
+  "club_id": 109180,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 115,
+  "value": 743000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5666338,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

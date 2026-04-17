@@ -1,0 +1,37 @@
+{
+  "id": 2000162750,
+  "first_name": "Argyris",
+  "last_name": "Darelas",
+  "birth_date": "2003-10-16",
+  "country_id": 772,
+  "club_id": 1025,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 105,
+  "value": 2000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1001,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

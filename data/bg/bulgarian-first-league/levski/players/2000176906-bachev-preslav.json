@@ -1,0 +1,29 @@
+{
+  "id": 2000176906,
+  "first_name": "Preslav",
+  "last_name": "Bachev",
+  "birth_date": "2006-03-14",
+  "country_id": 760,
+  "club_id": 349,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 129,
+  "value": 338000,
+  "contract": {
+    "salary": 22464,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 22040114,
+    "expiration": "2026-06-15",
+    "salary": 22464,
+    "wage_contribution_pct": 100
+  }
+}

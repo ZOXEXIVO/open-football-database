@@ -1,0 +1,28 @@
+{
+  "id": 2000080383,
+  "first_name": "Midana",
+  "last_name": "Cassamá",
+  "birth_date": "2002-08-18",
+  "country_id": 23,
+  "club_id": 2438,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 91,
+  "value": 284000,
+  "contract": {
+    "salary": 26936,
+    "expiration": "2027-06-30",
+    "started": "2023-09-05"
+  },
+  "loan": {
+    "to_club_id": 7880052,
+    "expiration": "2026-05-31",
+    "salary": 26936,
+    "wage_contribution_pct": 100
+  }
+}

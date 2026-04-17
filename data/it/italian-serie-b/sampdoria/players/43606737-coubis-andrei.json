@@ -1,0 +1,29 @@
+{
+  "id": 43606737,
+  "first_name": "Andrei",
+  "last_name": "Coubiş",
+  "birth_date": "2003-09-29",
+  "country_id": 790,
+  "club_id": 1167,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 86,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1515,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

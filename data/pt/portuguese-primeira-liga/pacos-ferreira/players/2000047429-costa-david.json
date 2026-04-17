@@ -1,0 +1,33 @@
+{
+  "id": 2000047429,
+  "first_name": "David",
+  "last_name": "Costa",
+  "birth_date": "2004-01-12",
+  "country_id": 12,
+  "club_id": 2422,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 98,
+  "value": 525000,
+  "contract": {
+    "salary": 47164,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2386,
+    "expiration": "2026-06-30",
+    "salary": 47164,
+    "wage_contribution_pct": 100
+  }
+}

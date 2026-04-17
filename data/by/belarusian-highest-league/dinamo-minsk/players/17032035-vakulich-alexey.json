@@ -1,0 +1,31 @@
+{
+  "id": 17032035,
+  "first_name": "Alexey",
+  "last_name": "Vakulich",
+  "birth_date": "1998-06-24",
+  "country_id": 758,
+  "club_id": 303,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 86,
+  "value": 53000,
+  "contract": {
+    "salary": 19240,
+    "expiration": "2026-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000242228,
+  "first_name": "Olivier",
+  "last_name": "Kenfack",
+  "birth_date": "2005-04-04",
+  "country_id": 11,
+  "club_id": 58066512,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 102,
+  "value": 111000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

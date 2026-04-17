@@ -1,0 +1,30 @@
+{
+  "id": 2000472536,
+  "first_name": "Aleksa",
+  "last_name": "Damjanović",
+  "birth_date": "2008-12-04",
+  "country_id": 802,
+  "club_id": 1955,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 150,
+  "value": 6000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5743879,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

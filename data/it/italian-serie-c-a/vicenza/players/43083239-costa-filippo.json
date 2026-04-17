@@ -1,0 +1,31 @@
+{
+  "id": 43083239,
+  "first_name": "Filippo",
+  "last_name": "Costa",
+  "birth_date": "1995-05-21",
+  "country_id": 776,
+  "club_id": 1181,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 85,
+  "value": 693000,
+  "contract": {
+    "salary": 572000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

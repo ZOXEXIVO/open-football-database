@@ -1,0 +1,33 @@
+{
+  "id": 16147386,
+  "first_name": "Stefan",
+  "last_name": "Posch",
+  "birth_date": "1997-05-14",
+  "country_id": 755,
+  "club_id": 1123,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 104,
+  "value": 11000000,
+  "contract": {
+    "salary": 1560000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 918,
+    "expiration": "2026-06-30",
+    "salary": 1560000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 16253981,
+  "first_name": "Paul",
+  "last_name": "Koller",
+  "birth_date": "2002-02-22",
+  "country_id": 755,
+  "club_id": 156,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 104,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

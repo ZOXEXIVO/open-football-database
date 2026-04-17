@@ -1,0 +1,29 @@
+{
+  "id": 2000416201,
+  "first_name": "Linson",
+  "last_name": "",
+  "birth_date": "2007-03-31",
+  "country_id": 788,
+  "club_id": 736258,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 92,
+  "value": 29000,
+  "contract": {
+    "salary": 17940,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 526,
+    "expiration": "2026-06-30",
+    "salary": 17940,
+    "wage_contribution_pct": 100
+  }
+}

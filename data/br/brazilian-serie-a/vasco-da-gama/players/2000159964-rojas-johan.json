@@ -1,0 +1,29 @@
+{
+  "id": 2000159964,
+  "first_name": "Johan",
+  "last_name": "Rojas",
+  "birth_date": "2002-09-20",
+  "country_id": 1653,
+  "club_id": 1257,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 126,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 339,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

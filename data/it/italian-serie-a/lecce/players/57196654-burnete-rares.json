@@ -1,0 +1,29 @@
+{
+  "id": 57196654,
+  "first_name": "Rareş",
+  "last_name": "Burnete",
+  "birth_date": "2004-01-31",
+  "country_id": 790,
+  "club_id": 1141,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 113,
+  "value": 1000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1138,
+    "expiration": "2026-06-30",
+    "salary": 468000,
+    "wage_contribution_pct": 100
+  }
+}

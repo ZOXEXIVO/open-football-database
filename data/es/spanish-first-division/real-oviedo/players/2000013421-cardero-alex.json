@@ -1,0 +1,29 @@
+{
+  "id": 2000013421,
+  "first_name": "Álex",
+  "last_name": "Cardero",
+  "birth_date": "2003-08-25",
+  "country_id": 796,
+  "club_id": 1741,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 116,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 448,
+    "expiration": "2026-05-31",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

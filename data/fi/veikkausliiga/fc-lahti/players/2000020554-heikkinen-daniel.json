@@ -1,0 +1,31 @@
+{
+  "id": 2000020554,
+  "first_name": "Daniel",
+  "last_name": "Heikkinen",
+  "birth_date": "2002-01-01",
+  "country_id": 768,
+  "club_id": 811,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 78,
+  "value": 90000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

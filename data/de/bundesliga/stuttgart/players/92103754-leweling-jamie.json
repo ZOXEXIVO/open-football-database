@@ -1,0 +1,31 @@
+{
+  "id": 92103754,
+  "first_name": "Jamie",
+  "last_name": "Leweling",
+  "birth_date": "2001-02-26",
+  "country_id": 771,
+  "club_id": 960,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 123,
+  "value": 23000000,
+  "contract": {
+    "salary": 3432000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

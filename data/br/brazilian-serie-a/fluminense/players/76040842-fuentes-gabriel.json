@@ -1,0 +1,33 @@
+{
+  "id": 76040842,
+  "first_name": "Gabriel",
+  "last_name": "Fuentes",
+  "birth_date": "1997-02-09",
+  "country_id": 1653,
+  "club_id": 323,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 124,
+  "value": 5000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-08-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 104750,
+    "expiration": "2026-11-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

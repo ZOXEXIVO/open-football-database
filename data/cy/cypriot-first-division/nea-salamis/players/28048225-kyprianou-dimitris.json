@@ -1,0 +1,31 @@
+{
+  "id": 28048225,
+  "first_name": "Dimitris",
+  "last_name": "Kyprianou",
+  "birth_date": "1993-02-02",
+  "country_id": 762,
+  "club_id": 457,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 75,
+  "value": 7000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

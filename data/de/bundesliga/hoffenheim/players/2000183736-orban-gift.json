@@ -1,0 +1,29 @@
+{
+  "id": 2000183736,
+  "first_name": "Gift",
+  "last_name": "Orban",
+  "birth_date": "2002-07-17",
+  "country_id": 38,
+  "club_id": 879226,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 131,
+  "value": 25000000,
+  "contract": {
+    "salary": 1716000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2201,
+    "expiration": "2026-06-30",
+    "salary": 1716000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 43486851,
+  "first_name": "Antonio",
+  "last_name": "Sabbatani",
+  "birth_date": "2002-02-06",
+  "country_id": 776,
+  "club_id": 43018336,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 92,
+  "value": 108000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 831366,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

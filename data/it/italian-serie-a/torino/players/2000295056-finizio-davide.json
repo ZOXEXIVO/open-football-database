@@ -1,0 +1,33 @@
+{
+  "id": 2000295056,
+  "first_name": "Davide",
+  "last_name": "Finizio",
+  "birth_date": "2007-04-16",
+  "country_id": 776,
+  "club_id": 1174,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 97,
+  "value": 22000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 707637,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

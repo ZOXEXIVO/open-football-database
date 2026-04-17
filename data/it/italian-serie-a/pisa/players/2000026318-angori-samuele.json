@@ -1,0 +1,27 @@
+{
+  "id": 2000026318,
+  "first_name": "Samuele",
+  "last_name": "Angori",
+  "birth_date": "2003-10-07",
+  "country_id": 776,
+  "club_id": 2215,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 117,
+  "value": 9000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

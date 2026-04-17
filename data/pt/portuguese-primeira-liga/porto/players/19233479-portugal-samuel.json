@@ -1,0 +1,29 @@
+{
+  "id": 19233479,
+  "first_name": "Samuel",
+  "last_name": "Portugal",
+  "birth_date": "1994-03-29",
+  "country_id": 1651,
+  "club_id": 1478,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 124,
+  "potential_ability": 134,
+  "value": 2000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7920489,
+    "expiration": "2026-06-30",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

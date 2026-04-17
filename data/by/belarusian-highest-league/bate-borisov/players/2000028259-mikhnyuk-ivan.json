@@ -1,0 +1,33 @@
+{
+  "id": 2000028259,
+  "first_name": "Ivan",
+  "last_name": "Mikhnyuk",
+  "birth_date": "2003-06-01",
+  "country_id": 758,
+  "club_id": 17004083,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 91,
+  "value": 38000,
+  "contract": {
+    "salary": 8060,
+    "expiration": "2028-01-23",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130875,
+    "expiration": "2026-12-10",
+    "salary": 8060,
+    "wage_contribution_pct": 100
+  }
+}

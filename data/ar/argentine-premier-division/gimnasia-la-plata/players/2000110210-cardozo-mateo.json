@@ -1,0 +1,33 @@
+{
+  "id": 2000110210,
+  "first_name": "Mateo",
+  "last_name": "Cardozo",
+  "birth_date": "2003-06-26",
+  "country_id": 1649,
+  "club_id": 87,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 113,
+  "value": 310000,
+  "contract": {
+    "salary": 19240,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 952708,
+    "expiration": "2026-06-30",
+    "salary": 19240,
+    "wage_contribution_pct": 100
+  }
+}

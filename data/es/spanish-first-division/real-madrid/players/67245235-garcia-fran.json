@@ -1,0 +1,31 @@
+{
+  "id": 67245235,
+  "first_name": "Fran",
+  "last_name": "García",
+  "birth_date": "1999-08-14",
+  "country_id": 796,
+  "club_id": 1736,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 137,
+  "potential_ability": 144,
+  "value": 28000000,
+  "contract": {
+    "salary": 4472000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

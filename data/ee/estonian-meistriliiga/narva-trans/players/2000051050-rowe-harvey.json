@@ -1,0 +1,27 @@
+{
+  "id": 2000051050,
+  "first_name": "Harvey",
+  "last_name": "Rowe",
+  "birth_date": "2003-10-14",
+  "country_id": 765,
+  "club_id": 751,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 122,
+  "value": 33000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000527354,
+  "first_name": "Nils",
+  "last_name": "Veinbergs",
+  "birth_date": "2007-07-20",
+  "country_id": 777,
+  "club_id": 510307,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 84,
+  "value": 165000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 514046,
+    "expiration": "2026-11-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

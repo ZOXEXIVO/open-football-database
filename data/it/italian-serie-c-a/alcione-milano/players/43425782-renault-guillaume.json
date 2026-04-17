@@ -1,0 +1,35 @@
+{
+  "id": 43425782,
+  "first_name": "Guillaume",
+  "last_name": "Renault",
+  "birth_date": "2002-03-17",
+  "country_id": 776,
+  "club_id": 43106513,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 91,
+  "value": 82000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

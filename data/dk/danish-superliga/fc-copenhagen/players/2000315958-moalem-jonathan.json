@@ -1,0 +1,27 @@
+{
+  "id": 2000315958,
+  "first_name": "Jonathan",
+  "last_name": "Moalem",
+  "birth_date": "2007-02-01",
+  "country_id": 764,
+  "club_id": 505,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 129,
+  "value": 291000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

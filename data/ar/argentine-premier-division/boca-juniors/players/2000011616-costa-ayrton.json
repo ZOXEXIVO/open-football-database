@@ -1,0 +1,27 @@
+{
+  "id": 2000011616,
+  "first_name": "Ayrton",
+  "last_name": "Costa",
+  "birth_date": "1999-07-12",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 127,
+  "potential_ability": 135,
+  "value": 15000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

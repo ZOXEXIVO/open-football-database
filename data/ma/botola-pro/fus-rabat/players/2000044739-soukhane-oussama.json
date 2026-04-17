@@ -1,0 +1,31 @@
+{
+  "id": 2000044739,
+  "first_name": "Oussama",
+  "last_name": "Soukhane",
+  "birth_date": "1999-01-11",
+  "country_id": 34,
+  "club_id": 5380012,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 83,
+  "value": 118000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

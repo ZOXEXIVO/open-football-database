@@ -1,0 +1,33 @@
+{
+  "id": 2000035523,
+  "first_name": "Jonathan",
+  "last_name": "Gómez",
+  "birth_date": "2003-09-01",
+  "country_id": 390,
+  "club_id": 982,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 113,
+  "value": 3000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1660,
+    "expiration": "2026-06-30",
+    "salary": 312000,
+    "wage_contribution_pct": 100
+  }
+}

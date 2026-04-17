@@ -1,0 +1,31 @@
+{
+  "id": 2000456859,
+  "first_name": "Nicolas",
+  "last_name": "Romanelli",
+  "birth_date": "2008-01-01",
+  "country_id": 776,
+  "club_id": 1140,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 122,
+  "value": 363000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

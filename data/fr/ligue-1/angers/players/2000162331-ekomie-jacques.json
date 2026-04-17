@@ -1,0 +1,27 @@
+{
+  "id": 2000162331,
+  "first_name": "Jacques",
+  "last_name": "Ekomié",
+  "birth_date": "2003-08-19",
+  "country_id": 19,
+  "club_id": 875,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 121,
+  "value": 5000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000498374,
+  "first_name": "Mihail",
+  "last_name": "Angelos Marinescu",
+  "birth_date": "2005-06-11",
+  "country_id": 790,
+  "club_id": 456,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 72,
+  "value": 43000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

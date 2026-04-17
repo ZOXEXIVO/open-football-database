@@ -1,0 +1,27 @@
+{
+  "id": 13225025,
+  "first_name": "Kelvin",
+  "last_name": "John",
+  "birth_date": "2003-06-10",
+  "country_id": 48,
+  "club_id": 483,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 95,
+  "value": 842000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

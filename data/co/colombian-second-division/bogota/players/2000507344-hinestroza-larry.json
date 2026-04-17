@@ -1,0 +1,35 @@
+{
+  "id": 2000507344,
+  "first_name": "Larry",
+  "last_name": "Hinestroza",
+  "birth_date": "2007-11-14",
+  "country_id": 1653,
+  "club_id": 309353,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 91,
+  "value": 121000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

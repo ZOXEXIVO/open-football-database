@@ -1,0 +1,29 @@
+{
+  "id": 2000258636,
+  "first_name": "Dawid",
+  "last_name": "Szwiec",
+  "birth_date": "2007-08-02",
+  "country_id": 787,
+  "club_id": 1452,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 125,
+  "value": 181000,
+  "contract": {
+    "salary": 12168,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 96092811,
+    "expiration": "2026-06-30",
+    "salary": 12168,
+    "wage_contribution_pct": 100
+  }
+}

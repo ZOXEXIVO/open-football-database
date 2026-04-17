@@ -1,0 +1,33 @@
+{
+  "id": 2000298206,
+  "first_name": "Alberto",
+  "last_name": "Vogtmann",
+  "birth_date": "2006-03-10",
+  "country_id": 764,
+  "club_id": 926867,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 96,
+  "value": 52000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 943835,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

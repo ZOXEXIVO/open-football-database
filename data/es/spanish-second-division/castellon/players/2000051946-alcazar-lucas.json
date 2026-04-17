@@ -1,0 +1,27 @@
+{
+  "id": 2000051946,
+  "first_name": "Lucas",
+  "last_name": "Alcázar",
+  "birth_date": "2002-07-11",
+  "country_id": 796,
+  "club_id": 1690,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

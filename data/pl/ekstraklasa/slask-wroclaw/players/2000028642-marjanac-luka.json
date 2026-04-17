@@ -1,0 +1,27 @@
+{
+  "id": 2000028642,
+  "first_name": "Luka",
+  "last_name": "Marjanac",
+  "birth_date": "2003-01-24",
+  "country_id": 759,
+  "club_id": 1300885,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 93,
+  "value": 228000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

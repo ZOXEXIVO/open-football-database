@@ -1,0 +1,23 @@
+{
+  "id": 2000452367,
+  "first_name": "Ramses",
+  "last_name": "Pullerits",
+  "birth_date": "2008-08-21",
+  "country_id": 766,
+  "club_id": 746,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 87,
+  "value": 40000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  }
+}

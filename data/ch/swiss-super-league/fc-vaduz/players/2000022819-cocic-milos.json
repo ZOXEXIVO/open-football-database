@@ -1,0 +1,27 @@
+{
+  "id": 2000022819,
+  "first_name": "Miloš",
+  "last_name": "Ćoćić",
+  "birth_date": "2003-06-05",
+  "country_id": 802,
+  "club_id": 5720002,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 96,
+  "value": 90000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

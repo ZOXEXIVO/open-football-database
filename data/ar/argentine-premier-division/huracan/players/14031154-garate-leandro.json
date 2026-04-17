@@ -1,0 +1,29 @@
+{
+  "id": 14031154,
+  "first_name": "Leandro",
+  "last_name": "Garate",
+  "birth_date": "1993-09-02",
+  "country_id": 1649,
+  "club_id": 88,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 108,
+  "value": 150000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 978,
+    "expiration": "2026-06-30",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

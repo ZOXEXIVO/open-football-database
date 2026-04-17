@@ -1,0 +1,33 @@
+{
+  "id": 22041943,
+  "first_name": "Spas",
+  "last_name": "Georgiev",
+  "birth_date": "1992-06-21",
+  "country_id": 760,
+  "club_id": 22003932,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 81,
+  "value": 31000,
+  "contract": {
+    "salary": 17940,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7500915,
+    "expiration": "2026-06-15",
+    "salary": 17940,
+    "wage_contribution_pct": 100
+  }
+}

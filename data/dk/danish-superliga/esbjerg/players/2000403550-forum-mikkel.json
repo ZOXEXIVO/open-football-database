@@ -1,0 +1,27 @@
+{
+  "id": 2000403550,
+  "first_name": "Mikkel",
+  "last_name": "Forum",
+  "birth_date": "2008-01-15",
+  "country_id": 764,
+  "club_id": 502,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 100,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  }
+}

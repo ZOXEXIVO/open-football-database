@@ -1,0 +1,29 @@
+{
+  "id": 14253403,
+  "first_name": "Pablo",
+  "last_name": "Minissale",
+  "birth_date": "2001-01-14",
+  "country_id": 1649,
+  "club_id": 78,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 106,
+  "value": 210000,
+  "contract": {
+    "salary": 44304,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 14037231,
+    "expiration": "2026-12-31",
+    "salary": 44304,
+    "wage_contribution_pct": 100
+  }
+}

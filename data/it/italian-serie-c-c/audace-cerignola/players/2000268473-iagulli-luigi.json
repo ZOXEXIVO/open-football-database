@@ -1,0 +1,29 @@
+{
+  "id": 2000268473,
+  "first_name": "Luigi",
+  "last_name": "Iagulli",
+  "birth_date": "2007-01-11",
+  "country_id": 776,
+  "club_id": 43018336,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 71,
+  "value": 6000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43076786,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

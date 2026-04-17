@@ -1,0 +1,29 @@
+{
+  "id": 2000531479,
+  "first_name": "Joel",
+  "last_name": "Yakubu",
+  "birth_date": "2006-02-05",
+  "country_id": 38,
+  "club_id": 475,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 97,
+  "value": 97000,
+  "contract": {
+    "salary": 15132,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 47001127,
+    "expiration": "2026-12-31",
+    "salary": 15132,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 14110635,
+  "first_name": "Juan",
+  "last_name": "Manuel Elordi",
+  "birth_date": "1994-08-21",
+  "country_id": 1649,
+  "club_id": 93,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 117,
+  "value": 2000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3101453,
+    "expiration": "2026-12-31",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

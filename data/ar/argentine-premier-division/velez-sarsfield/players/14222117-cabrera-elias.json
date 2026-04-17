@@ -1,0 +1,33 @@
+{
+  "id": 14222117,
+  "first_name": "Elías",
+  "last_name": "Cabrera",
+  "birth_date": "2003-02-25",
+  "country_id": 1649,
+  "club_id": 98,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 125,
+  "value": 7000000,
+  "contract": {
+    "salary": 43160,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3100018,
+    "expiration": "2026-12-31",
+    "salary": 43160,
+    "wage_contribution_pct": 100
+  }
+}

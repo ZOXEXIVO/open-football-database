@@ -1,0 +1,33 @@
+{
+  "id": 2000095283,
+  "first_name": "Sheriff",
+  "last_name": "Kassama",
+  "birth_date": "2004-09-16",
+  "country_id": 776,
+  "club_id": 700059,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 100,
+  "value": 261000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1138,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

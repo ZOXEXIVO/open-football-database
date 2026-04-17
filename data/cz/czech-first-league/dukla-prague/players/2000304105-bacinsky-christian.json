@@ -1,0 +1,29 @@
+{
+  "id": 2000304105,
+  "first_name": "Christian",
+  "last_name": "Bačinský",
+  "birth_date": "2004-11-20",
+  "country_id": 794,
+  "club_id": 5640780,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 102,
+  "value": 208000,
+  "contract": {
+    "salary": 30316,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1301169,
+    "expiration": "2026-06-30",
+    "salary": 30316,
+    "wage_contribution_pct": 100
+  }
+}

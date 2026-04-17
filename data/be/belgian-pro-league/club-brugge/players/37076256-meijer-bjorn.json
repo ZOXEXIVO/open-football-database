@@ -1,0 +1,31 @@
+{
+  "id": 37076256,
+  "first_name": "Bjorn",
+  "last_name": "Meijer",
+  "birth_date": "2003-03-18",
+  "country_id": 784,
+  "club_id": 186,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 134,
+  "value": 4000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

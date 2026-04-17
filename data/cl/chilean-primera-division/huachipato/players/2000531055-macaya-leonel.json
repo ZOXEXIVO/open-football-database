@@ -1,0 +1,29 @@
+{
+  "id": 2000531055,
+  "first_name": "Leonel",
+  "last_name": "Macaya",
+  "birth_date": "2005-09-30",
+  "country_id": 1652,
+  "club_id": 104362,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 87,
+  "value": 85000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 75041279,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000534142,
+  "first_name": "Akram",
+  "last_name": "Haimoud",
+  "birth_date": "2004-07-27",
+  "country_id": 34,
+  "club_id": 5380014,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 83,
+  "value": 43000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

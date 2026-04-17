@@ -1,0 +1,29 @@
+{
+  "id": 75020023,
+  "first_name": "Ignacio",
+  "last_name": "Jeraldino",
+  "birth_date": "1995-12-06",
+  "country_id": 1652,
+  "club_id": 120064,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 111,
+  "value": 222000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2025-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130798,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

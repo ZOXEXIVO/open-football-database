@@ -1,0 +1,29 @@
+{
+  "id": 2000505461,
+  "first_name": "Paweł",
+  "last_name": "Szumiński",
+  "birth_date": "2006-07-13",
+  "country_id": 787,
+  "club_id": 714200,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 80,
+  "value": 32000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 96030171,
+    "expiration": "2027-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

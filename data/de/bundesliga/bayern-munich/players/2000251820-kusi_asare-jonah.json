@@ -1,0 +1,29 @@
+{
+  "id": 2000251820,
+  "first_name": "Jonah",
+  "last_name": "Kusi-Asare",
+  "birth_date": "2007-07-04",
+  "country_id": 797,
+  "club_id": 915,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 114,
+  "potential_ability": 155,
+  "value": 2000000,
+  "contract": {
+    "salary": 884000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 654,
+    "expiration": "2026-06-30",
+    "salary": 884000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43295822,
+  "first_name": "Nicolò",
+  "last_name": "Cambiaghi",
+  "birth_date": "2000-12-28",
+  "country_id": 776,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 111,
+  "value": 12000000,
+  "contract": {
+    "salary": 936000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

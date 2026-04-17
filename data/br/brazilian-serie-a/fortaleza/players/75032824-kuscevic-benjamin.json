@@ -1,0 +1,29 @@
+{
+  "id": 75032824,
+  "first_name": "Benjamín",
+  "last_name": "Kuscevic",
+  "birth_date": "1996-05-02",
+  "country_id": 1652,
+  "club_id": 104750,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 117,
+  "value": 4000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 72000789,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

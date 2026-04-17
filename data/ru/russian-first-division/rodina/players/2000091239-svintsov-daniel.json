@@ -1,0 +1,31 @@
+{
+  "id": 2000091239,
+  "first_name": "Daniel",
+  "last_name": "Svintsov",
+  "birth_date": "2003-04-21",
+  "country_id": 791,
+  "club_id": 58126754,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 80,
+  "value": 168000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

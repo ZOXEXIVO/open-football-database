@@ -1,0 +1,33 @@
+{
+  "id": 2000224489,
+  "first_name": "Lukáš",
+  "last_name": "Fila",
+  "birth_date": "2004-01-07",
+  "country_id": 763,
+  "club_id": 136156,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 104,
+  "value": 67000,
+  "contract": {
+    "salary": 23868,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130873,
+    "expiration": "2026-06-21",
+    "salary": 23868,
+    "wage_contribution_pct": 100
+  }
+}

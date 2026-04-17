@@ -1,0 +1,33 @@
+{
+  "id": 2000117792,
+  "first_name": "Stavros",
+  "last_name": "Georgiou",
+  "birth_date": "2004-10-19",
+  "country_id": 762,
+  "club_id": 451,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 98,
+  "value": 203000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 459,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 83243059,
+  "first_name": "Rafael",
+  "last_name": "Rodrigues",
+  "birth_date": "2002-01-27",
+  "country_id": 788,
+  "club_id": 55000306,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 95,
+  "value": 963000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 950376,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

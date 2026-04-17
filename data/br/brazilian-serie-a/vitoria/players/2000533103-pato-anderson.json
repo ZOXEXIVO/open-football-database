@@ -1,0 +1,27 @@
+{
+  "id": 2000533103,
+  "first_name": "Anderson",
+  "last_name": "Pato",
+  "birth_date": "2002-09-28",
+  "country_id": 1651,
+  "club_id": 340,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 102,
+  "value": 41000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2032-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

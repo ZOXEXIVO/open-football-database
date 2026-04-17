@@ -1,0 +1,31 @@
+{
+  "id": 91206925,
+  "first_name": "Tim",
+  "last_name": "Köther",
+  "birth_date": "2001-02-22",
+  "country_id": 771,
+  "club_id": 1033,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 89,
+  "value": 209000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

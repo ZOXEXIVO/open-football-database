@@ -1,0 +1,29 @@
+{
+  "id": 2000189846,
+  "first_name": "Daniil",
+  "last_name": "Tsyk",
+  "birth_date": "2005-12-27",
+  "country_id": 758,
+  "club_id": 130879,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 71,
+  "value": 26000,
+  "contract": {
+    "salary": 1924,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000015950,
+    "expiration": "2026-12-10",
+    "salary": 1924,
+    "wage_contribution_pct": 100
+  }
+}

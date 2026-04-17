@@ -1,0 +1,29 @@
+{
+  "id": 2000130061,
+  "first_name": "Filippo",
+  "last_name": "Valentini",
+  "birth_date": "2005-04-04",
+  "country_id": 776,
+  "club_id": 2198,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 57,
+  "potential_ability": 63,
+  "value": 6000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43106386,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

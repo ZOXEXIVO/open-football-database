@@ -1,0 +1,35 @@
+{
+  "id": 2000417833,
+  "first_name": "Ludvig",
+  "last_name": "Øverland",
+  "birth_date": "2006-08-12",
+  "country_id": 786,
+  "club_id": 1404,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 84,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "NonContract"
+  }
+}

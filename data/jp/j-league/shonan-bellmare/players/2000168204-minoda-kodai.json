@@ -1,0 +1,29 @@
+{
+  "id": 2000168204,
+  "first_name": "Kodai",
+  "last_name": "Minoda",
+  "birth_date": "1999-08-10",
+  "country_id": 116,
+  "club_id": 1184,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 102,
+  "value": 26000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 775154,
+    "expiration": "2026-01-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

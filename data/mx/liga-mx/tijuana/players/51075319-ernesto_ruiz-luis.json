@@ -1,0 +1,28 @@
+{
+  "id": 51075319,
+  "first_name": "Luis",
+  "last_name": "Ernesto Ruiz",
+  "birth_date": "2002-05-21",
+  "country_id": 379,
+  "club_id": 136021,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 109,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 5666338,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

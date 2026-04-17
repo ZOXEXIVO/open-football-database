@@ -1,0 +1,29 @@
+{
+  "id": 36077389,
+  "first_name": "Giorgos",
+  "last_name": "Giakoumakis",
+  "birth_date": "1994-12-09",
+  "country_id": 772,
+  "club_id": 1254,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 118,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2024-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 982,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

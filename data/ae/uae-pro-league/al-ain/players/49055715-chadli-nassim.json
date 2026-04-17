@@ -1,0 +1,29 @@
+{
+  "id": 49055715,
+  "first_name": "Nassim",
+  "last_name": "Chadli",
+  "birth_date": "2001-07-28",
+  "country_id": 34,
+  "club_id": 950376,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 109,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7004292,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

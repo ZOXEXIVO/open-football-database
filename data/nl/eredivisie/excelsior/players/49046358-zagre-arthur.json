@@ -1,0 +1,31 @@
+{
+  "id": 49046358,
+  "first_name": "Arthur",
+  "last_name": "Zagré",
+  "birth_date": "2001-10-04",
+  "country_id": 769,
+  "club_id": 1004,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 101,
+  "value": 3000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

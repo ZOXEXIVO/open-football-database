@@ -1,0 +1,33 @@
+{
+  "id": 14217414,
+  "first_name": "Lucas",
+  "last_name": "Beltrán",
+  "birth_date": "2001-03-29",
+  "country_id": 1649,
+  "club_id": 1129,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 134,
+  "value": 10000000,
+  "contract": {
+    "salary": 1976000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1775,
+    "expiration": "2026-06-30",
+    "salary": 1976000,
+    "wage_contribution_pct": 100
+  }
+}

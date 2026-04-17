@@ -1,0 +1,27 @@
+{
+  "id": 2000134002,
+  "first_name": "Artem",
+  "last_name": "Turich",
+  "birth_date": "2005-01-23",
+  "country_id": 758,
+  "club_id": 17000059,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 89,
+  "value": 51000,
+  "contract": {
+    "salary": 9620,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

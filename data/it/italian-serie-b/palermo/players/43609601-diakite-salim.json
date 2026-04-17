@@ -1,0 +1,33 @@
+{
+  "id": 43609601,
+  "first_name": "Salim",
+  "last_name": "Diakité",
+  "birth_date": "2000-06-03",
+  "country_id": 31,
+  "club_id": 2194,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 107,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1138,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

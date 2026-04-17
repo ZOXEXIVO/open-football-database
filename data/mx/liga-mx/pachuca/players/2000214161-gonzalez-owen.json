@@ -1,0 +1,28 @@
+{
+  "id": 2000214161,
+  "first_name": "Owen",
+  "last_name": "González",
+  "birth_date": "2003-07-20",
+  "country_id": 379,
+  "club_id": 116204,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 114,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 136007,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

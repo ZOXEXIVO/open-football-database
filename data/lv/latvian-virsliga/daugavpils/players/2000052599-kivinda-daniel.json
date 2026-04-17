@@ -1,0 +1,29 @@
+{
+  "id": 2000052599,
+  "first_name": "Daniel",
+  "last_name": "Kivinda",
+  "birth_date": "2004-08-30",
+  "country_id": 800,
+  "club_id": 47024031,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 108,
+  "value": 204000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 47001127,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

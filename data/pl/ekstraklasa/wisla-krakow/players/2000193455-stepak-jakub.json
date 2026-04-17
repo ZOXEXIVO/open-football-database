@@ -1,0 +1,29 @@
+{
+  "id": 2000193455,
+  "first_name": "Jakub",
+  "last_name": "Stępak",
+  "birth_date": "2006-03-20",
+  "country_id": 787,
+  "club_id": 1300881,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 107,
+  "value": 117000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 129571,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

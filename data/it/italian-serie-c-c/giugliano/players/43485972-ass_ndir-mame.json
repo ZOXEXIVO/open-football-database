@@ -1,0 +1,29 @@
+{
+  "id": 43485972,
+  "first_name": "Mame",
+  "last_name": "Ass Ndir",
+  "birth_date": "2001-01-24",
+  "country_id": 41,
+  "club_id": 108986,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 67,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43157897,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

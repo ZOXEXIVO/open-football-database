@@ -1,0 +1,29 @@
+{
+  "id": 2000184143,
+  "first_name": "Tommaso",
+  "last_name": "Martinelli",
+  "birth_date": "2006-01-06",
+  "country_id": 776,
+  "club_id": 1129,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 140,
+  "value": 13000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1167,
+    "expiration": "2026-06-30",
+    "salary": 780000,
+    "wage_contribution_pct": 100
+  }
+}

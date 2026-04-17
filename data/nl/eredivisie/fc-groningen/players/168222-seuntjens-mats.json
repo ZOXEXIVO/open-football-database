@@ -1,0 +1,35 @@
+{
+  "id": 168222,
+  "first_name": "Mats",
+  "last_name": "Seuntjens",
+  "birth_date": "1992-04-17",
+  "country_id": 784,
+  "club_id": 1007,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 109,
+  "value": 1000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

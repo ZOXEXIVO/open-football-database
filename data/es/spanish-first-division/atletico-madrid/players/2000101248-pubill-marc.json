@@ -1,0 +1,27 @@
+{
+  "id": 2000101248,
+  "first_name": "Marc",
+  "last_name": "Pubill",
+  "birth_date": "2003-06-20",
+  "country_id": 796,
+  "club_id": 1687,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 150,
+  "value": 51000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000198854,
+  "first_name": "Marco",
+  "last_name": "Vanzulli",
+  "birth_date": "2006-03-23",
+  "country_id": 776,
+  "club_id": 2000478007,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 73,
+  "value": 32000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43095992,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

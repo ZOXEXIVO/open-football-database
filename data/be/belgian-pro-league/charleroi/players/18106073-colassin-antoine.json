@@ -1,0 +1,31 @@
+{
+  "id": 18106073,
+  "first_name": "Antoine",
+  "last_name": "Colassin",
+  "birth_date": "2001-02-26",
+  "country_id": 757,
+  "club_id": 263,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 106,
+  "value": 864000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

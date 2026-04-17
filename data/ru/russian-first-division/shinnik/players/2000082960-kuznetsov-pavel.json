@@ -1,0 +1,27 @@
+{
+  "id": 2000082960,
+  "first_name": "Pavel",
+  "last_name": "Kuznetsov",
+  "birth_date": "2002-07-12",
+  "country_id": 791,
+  "club_id": 130510,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 75,
+  "value": 3000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2032-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

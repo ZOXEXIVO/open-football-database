@@ -1,0 +1,33 @@
+{
+  "id": 62097671,
+  "first_name": "Tomislav",
+  "last_name": "Todorović",
+  "birth_date": "1998-02-13",
+  "country_id": 802,
+  "club_id": 62030404,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 74,
+  "value": 76000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 62160090,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

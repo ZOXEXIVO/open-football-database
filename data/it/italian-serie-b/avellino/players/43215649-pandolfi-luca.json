@@ -1,0 +1,37 @@
+{
+  "id": 43215649,
+  "first_name": "Luca",
+  "last_name": "Pandolfi",
+  "birth_date": "1998-03-14",
+  "country_id": 776,
+  "club_id": 2195,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 79,
+  "value": 616000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1108,
+    "expiration": "2029-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

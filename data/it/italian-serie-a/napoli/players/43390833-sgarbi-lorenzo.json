@@ -1,0 +1,33 @@
+{
+  "id": 43390833,
+  "first_name": "Lorenzo",
+  "last_name": "Sgarbi",
+  "birth_date": "2001-03-24",
+  "country_id": 776,
+  "club_id": 1150,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 136,
+  "value": 88000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1108,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

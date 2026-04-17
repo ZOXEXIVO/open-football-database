@@ -1,0 +1,27 @@
+{
+  "id": 25019787,
+  "first_name": "Pavel",
+  "last_name": "Kadeřábek",
+  "birth_date": "1992-04-25",
+  "country_id": 763,
+  "club_id": 476,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 124,
+  "value": 1000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

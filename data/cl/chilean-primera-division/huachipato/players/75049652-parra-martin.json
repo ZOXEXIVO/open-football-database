@@ -1,0 +1,29 @@
+{
+  "id": 75049652,
+  "first_name": "Martín",
+  "last_name": "Parra",
+  "birth_date": "2000-09-01",
+  "country_id": 1652,
+  "club_id": 104362,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 109,
+  "value": 42000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 120064,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

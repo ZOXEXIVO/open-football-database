@@ -1,0 +1,29 @@
+{
+  "id": 2000097965,
+  "first_name": "Davide",
+  "last_name": "Franzini",
+  "birth_date": "2005-02-08",
+  "country_id": 776,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 101,
+  "value": 51000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 831114,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

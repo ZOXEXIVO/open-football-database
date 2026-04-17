@@ -1,0 +1,33 @@
+{
+  "id": 2000216407,
+  "first_name": "Senan",
+  "last_name": "Mullen",
+  "birth_date": "2005-02-28",
+  "country_id": 789,
+  "club_id": 1174,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 130,
+  "value": 120000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 588,
+    "expiration": "2026-11-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000280412,
+  "first_name": "Ņikita",
+  "last_name": "Barkovskis",
+  "birth_date": "2006-06-09",
+  "country_id": 777,
+  "club_id": 47001127,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 53,
+  "potential_ability": 63,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  },
+  "loan": {
+    "to_club_id": 47085621,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 43343570,
+  "first_name": "Michele",
+  "last_name": "D'Ausilio",
+  "birth_date": "1999-09-03",
+  "country_id": 776,
+  "club_id": 1108,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 87,
+  "value": 441000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2193,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

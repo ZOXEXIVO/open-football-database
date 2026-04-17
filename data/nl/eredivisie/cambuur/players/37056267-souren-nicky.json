@@ -1,0 +1,31 @@
+{
+  "id": 37056267,
+  "first_name": "Nicky",
+  "last_name": "Souren",
+  "birth_date": "1999-12-18",
+  "country_id": 380,
+  "club_id": 994,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 88,
+  "value": 770000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

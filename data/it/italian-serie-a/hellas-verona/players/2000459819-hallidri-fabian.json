@@ -1,0 +1,35 @@
+{
+  "id": 2000459819,
+  "first_name": "Fabian",
+  "last_name": "Hallidri",
+  "birth_date": "2008-07-13",
+  "country_id": 752,
+  "club_id": 2201,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 108,
+  "value": 344000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

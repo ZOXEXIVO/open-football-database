@@ -1,0 +1,31 @@
+{
+  "id": 53167331,
+  "first_name": "Tobias",
+  "last_name": "Gulliksen",
+  "birth_date": "2003-07-09",
+  "country_id": 786,
+  "club_id": 155,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 119,
+  "value": 6000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

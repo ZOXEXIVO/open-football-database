@@ -1,0 +1,33 @@
+{
+  "id": 2000495239,
+  "first_name": "Haukur",
+  "last_name": "Logi Tryggvason",
+  "birth_date": "2007-11-10",
+  "country_id": 774,
+  "club_id": 1076,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 85,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056755,
+    "expiration": "2037-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

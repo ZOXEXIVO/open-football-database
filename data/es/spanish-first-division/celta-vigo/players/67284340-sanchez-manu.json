@@ -1,0 +1,33 @@
+{
+  "id": 67284340,
+  "first_name": "Manu",
+  "last_name": "Sánchez",
+  "birth_date": "2000-08-24",
+  "country_id": 796,
+  "club_id": 1724,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 135,
+  "value": 5000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1717,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

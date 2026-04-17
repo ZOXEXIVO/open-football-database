@@ -1,0 +1,27 @@
+{
+  "id": 2000444443,
+  "first_name": "Francesco",
+  "last_name": "Macerata",
+  "birth_date": "2008-05-04",
+  "country_id": 776,
+  "club_id": 1140,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 113,
+  "value": 328000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

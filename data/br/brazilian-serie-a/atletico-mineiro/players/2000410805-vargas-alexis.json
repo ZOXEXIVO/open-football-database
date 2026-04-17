@@ -1,0 +1,33 @@
+{
+  "id": 2000410805,
+  "first_name": "Alexis",
+  "last_name": "Vargas",
+  "birth_date": "2006-10-02",
+  "country_id": 1655,
+  "club_id": 5280214,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 106,
+  "value": 426000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 314,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

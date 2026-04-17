@@ -1,0 +1,29 @@
+{
+  "id": 2000214377,
+  "first_name": "Olivier",
+  "last_name": "Janezic",
+  "birth_date": "2006-04-18",
+  "country_id": 757,
+  "club_id": 289,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 103,
+  "value": 344000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 8152873,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

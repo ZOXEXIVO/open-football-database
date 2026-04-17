@@ -1,0 +1,29 @@
+{
+  "id": 2000226646,
+  "first_name": "Stijn",
+  "last_name": "Bultman",
+  "birth_date": "2005-01-29",
+  "country_id": 784,
+  "club_id": 1037,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 103,
+  "value": 3000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1000,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

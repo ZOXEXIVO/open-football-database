@@ -1,0 +1,31 @@
+{
+  "id": 2000383550,
+  "first_name": "Luke",
+  "last_name": "Brooke-Smith",
+  "birth_date": "2008-06-06",
+  "country_id": 1438,
+  "club_id": 15004168,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 121,
+  "value": 1000000,
+  "contract": {
+    "salary": 4992,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

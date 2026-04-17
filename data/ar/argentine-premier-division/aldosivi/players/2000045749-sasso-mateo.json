@@ -1,0 +1,29 @@
+{
+  "id": 2000045749,
+  "first_name": "Mateo",
+  "last_name": "Sasso",
+  "birth_date": "2004-07-02",
+  "country_id": 1649,
+  "club_id": 108510,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 86,
+  "value": 31000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 14046676,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

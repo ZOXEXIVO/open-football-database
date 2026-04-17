@@ -1,0 +1,29 @@
+{
+  "id": 2000059486,
+  "first_name": "Miłosz",
+  "last_name": "Strzeboński",
+  "birth_date": "2003-11-19",
+  "country_id": 787,
+  "club_id": 129577,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 99,
+  "value": 311000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 717332,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

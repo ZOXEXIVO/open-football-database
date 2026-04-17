@@ -1,0 +1,29 @@
+{
+  "id": 2000155230,
+  "first_name": "Klose",
+  "last_name": "Azzopardi Conti",
+  "birth_date": "2004-11-03",
+  "country_id": 782,
+  "club_id": 1250,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 86,
+  "value": 4000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 133178,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2000116798,
+  "first_name": "Till",
+  "last_name": "Winkelmann",
+  "birth_date": "2005-06-15",
+  "country_id": 771,
+  "club_id": 1131,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 109,
+  "value": 204000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1175,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

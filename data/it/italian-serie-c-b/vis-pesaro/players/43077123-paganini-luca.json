@@ -1,0 +1,30 @@
+{
+  "id": 43077123,
+  "first_name": "Luca",
+  "last_name": "Paganini",
+  "birth_date": "1993-06-08",
+  "country_id": 776,
+  "club_id": 2231,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 85,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

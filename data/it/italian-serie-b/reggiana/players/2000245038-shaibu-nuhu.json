@@ -1,0 +1,29 @@
+{
+  "id": 2000245038,
+  "first_name": "Nuhu",
+  "last_name": "Shaibu",
+  "birth_date": "2004-01-01",
+  "country_id": 38,
+  "club_id": 1164,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 84,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43066297,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

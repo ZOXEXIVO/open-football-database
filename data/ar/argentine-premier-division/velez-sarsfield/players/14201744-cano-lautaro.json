@@ -1,0 +1,29 @@
+{
+  "id": 14201744,
+  "first_name": "Lautaro",
+  "last_name": "Cano",
+  "birth_date": "2002-08-22",
+  "country_id": 1649,
+  "club_id": 98,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 121,
+  "value": 321000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 459,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

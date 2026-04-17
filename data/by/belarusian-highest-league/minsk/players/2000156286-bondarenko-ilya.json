@@ -1,0 +1,27 @@
+{
+  "id": 2000156286,
+  "first_name": "Ilya",
+  "last_name": "Bondarenko",
+  "birth_date": "2005-01-01",
+  "country_id": 758,
+  "club_id": 17000059,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 70,
+  "value": 9000,
+  "contract": {
+    "salary": 1924,
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

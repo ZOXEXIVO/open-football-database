@@ -1,0 +1,27 @@
+{
+  "id": 2000497890,
+  "first_name": "Magnus",
+  "last_name": "Knutsvik",
+  "birth_date": "2005-02-23",
+  "country_id": 786,
+  "club_id": 1326,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 86,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "NonContract"
+  }
+}

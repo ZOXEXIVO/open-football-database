@@ -1,0 +1,27 @@
+{
+  "id": 2000288250,
+  "first_name": "Jair",
+  "last_name": "Moretti",
+  "birth_date": "2007-02-01",
+  "country_id": 1656,
+  "club_id": 1449,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 118,
+  "value": 63000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

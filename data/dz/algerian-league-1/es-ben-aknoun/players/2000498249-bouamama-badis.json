@@ -1,0 +1,31 @@
+{
+  "id": 2000498249,
+  "first_name": "Badis",
+  "last_name": "Bouamama",
+  "birth_date": "2004-06-16",
+  "country_id": 5,
+  "club_id": 13200685,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 81,
+  "value": 34000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

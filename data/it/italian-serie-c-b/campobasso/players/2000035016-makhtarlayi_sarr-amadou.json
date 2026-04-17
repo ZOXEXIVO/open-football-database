@@ -1,0 +1,33 @@
+{
+  "id": 2000035016,
+  "first_name": "Amadou",
+  "last_name": "Makhtarlayi Sarr",
+  "birth_date": "2004-06-28",
+  "country_id": 41,
+  "club_id": 1142,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 96,
+  "value": 242000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43204869,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

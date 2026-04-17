@@ -1,0 +1,27 @@
+{
+  "id": 2000529447,
+  "first_name": "Omar",
+  "last_name": "El Adawy",
+  "birth_date": "2008-01-24",
+  "country_id": 16,
+  "club_id": 106756,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 116,
+  "value": 207000,
+  "contract": {
+    "salary": 13000,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

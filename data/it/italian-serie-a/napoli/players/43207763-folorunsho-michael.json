@@ -1,0 +1,41 @@
+{
+  "id": 43207763,
+  "first_name": "Michael",
+  "last_name": "Folorunsho",
+  "birth_date": "1998-02-07",
+  "country_id": 776,
+  "club_id": 1150,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 123,
+  "potential_ability": 128,
+  "value": 5000000,
+  "contract": {
+    "salary": 1924000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1114,
+    "expiration": "2026-06-30",
+    "salary": 1924000,
+    "wage_contribution_pct": 100
+  }
+}

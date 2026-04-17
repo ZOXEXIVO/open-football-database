@@ -1,0 +1,27 @@
+{
+  "id": 2000481416,
+  "first_name": "Joe",
+  "last_name": "Bakuna",
+  "birth_date": "2009-08-18",
+  "country_id": 757,
+  "club_id": 280,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 107,
+  "value": 676000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

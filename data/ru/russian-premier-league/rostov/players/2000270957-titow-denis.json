@@ -1,0 +1,29 @@
+{
+  "id": 2000270957,
+  "first_name": "Denis",
+  "last_name": "Titow",
+  "birth_date": "2006-11-06",
+  "country_id": 142,
+  "club_id": 1301104,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 109,
+  "value": 256000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130550,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

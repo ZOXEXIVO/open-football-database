@@ -1,0 +1,27 @@
+{
+  "id": 2000509614,
+  "first_name": "Alberto",
+  "last_name": "Gilli",
+  "birth_date": "2008-10-16",
+  "country_id": 776,
+  "club_id": 1164,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 95,
+  "value": 106000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 14219443,
+  "first_name": "Agustín",
+  "last_name": "Urzi",
+  "birth_date": "2000-05-04",
+  "country_id": 1649,
+  "club_id": 51051219,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 98,
+  "value": 1000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130789,
+    "expiration": "2026-12-31",
+    "salary": 312000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000241263,
+  "first_name": "Ryunosuke",
+  "last_name": "Sugawara",
+  "birth_date": "2000-07-28",
+  "country_id": 116,
+  "club_id": 107283,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 90,
+  "value": 9000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 775187,
+    "expiration": "2026-01-06",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

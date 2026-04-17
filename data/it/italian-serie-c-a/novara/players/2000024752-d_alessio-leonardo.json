@@ -1,0 +1,35 @@
+{
+  "id": 2000024752,
+  "first_name": "Leonardo",
+  "last_name": "D'Alessio",
+  "birth_date": "2004-02-21",
+  "country_id": 776,
+  "club_id": 1153,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 90,
+  "value": 196000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

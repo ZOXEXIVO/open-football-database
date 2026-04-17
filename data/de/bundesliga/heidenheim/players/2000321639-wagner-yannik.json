@@ -1,0 +1,27 @@
+{
+  "id": 2000321639,
+  "first_name": "Yannik",
+  "last_name": "Wagner",
+  "birth_date": "2007-05-09",
+  "country_id": 771,
+  "club_id": 880295,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 120,
+  "value": 412000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

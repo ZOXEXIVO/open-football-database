@@ -1,0 +1,27 @@
+{
+  "id": 2000132470,
+  "first_name": "Álex",
+  "last_name": "Calatrava",
+  "birth_date": "2000-06-22",
+  "country_id": 796,
+  "club_id": 1690,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 107,
+  "value": 4000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

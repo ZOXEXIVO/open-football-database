@@ -1,0 +1,29 @@
+{
+  "id": 62142830,
+  "first_name": "Vanja",
+  "last_name": "Milinković-Savić",
+  "birth_date": "1997-02-20",
+  "country_id": 802,
+  "club_id": 1174,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 115,
+  "value": 16000000,
+  "contract": {
+    "salary": 2704000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1150,
+    "expiration": "2026-06-30",
+    "salary": 2704000,
+    "wage_contribution_pct": 100
+  }
+}

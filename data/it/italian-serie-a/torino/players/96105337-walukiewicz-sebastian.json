@@ -1,0 +1,29 @@
+{
+  "id": 96105337,
+  "first_name": "Sebastian",
+  "last_name": "Walukiewicz",
+  "birth_date": "2000-04-05",
+  "country_id": 787,
+  "club_id": 1174,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 120,
+  "value": 4000000,
+  "contract": {
+    "salary": 936000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3800256,
+    "expiration": "2026-06-30",
+    "salary": 936000,
+    "wage_contribution_pct": 100
+  }
+}

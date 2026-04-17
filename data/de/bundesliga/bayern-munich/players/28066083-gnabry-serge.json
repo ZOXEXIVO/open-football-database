@@ -1,0 +1,35 @@
+{
+  "id": 28066083,
+  "first_name": "Serge",
+  "last_name": "Gnabry",
+  "birth_date": "1995-07-14",
+  "country_id": 771,
+  "club_id": 915,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 135,
+  "potential_ability": 156,
+  "value": 60000000,
+  "contract": {
+    "salary": 12064000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

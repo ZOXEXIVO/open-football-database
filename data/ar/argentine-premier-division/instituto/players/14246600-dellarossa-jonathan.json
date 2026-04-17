@@ -1,0 +1,29 @@
+{
+  "id": 14246600,
+  "first_name": "Jonathan",
+  "last_name": "Dellarossa",
+  "birth_date": "2000-01-18",
+  "country_id": 1649,
+  "club_id": 102485,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 97,
+  "value": 2000000,
+  "contract": {
+    "salary": 20696,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3101504,
+    "expiration": "2026-12-31",
+    "salary": 20696,
+    "wage_contribution_pct": 100
+  }
+}

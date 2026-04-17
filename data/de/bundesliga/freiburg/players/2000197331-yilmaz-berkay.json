@@ -1,0 +1,33 @@
+{
+  "id": 2000197331,
+  "first_name": "Berkay",
+  "last_name": "Yılmaz",
+  "birth_date": "2005-02-25",
+  "country_id": 799,
+  "club_id": 944,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 139,
+  "value": 5000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 899,
+    "expiration": "2026-06-30",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

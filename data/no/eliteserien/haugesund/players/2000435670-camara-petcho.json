@@ -1,0 +1,31 @@
+{
+  "id": 2000435670,
+  "first_name": "Petcho",
+  "last_name": "Camara",
+  "birth_date": "2006-12-22",
+  "country_id": 24,
+  "club_id": 1326,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 99,
+  "value": 340000,
+  "contract": {
+    "salary": 22568,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

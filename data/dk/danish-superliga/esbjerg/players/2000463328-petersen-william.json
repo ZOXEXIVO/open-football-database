@@ -1,0 +1,27 @@
+{
+  "id": 2000463328,
+  "first_name": "William",
+  "last_name": "Petersen",
+  "birth_date": "2009-01-27",
+  "country_id": 764,
+  "club_id": 502,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 130,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  }
+}

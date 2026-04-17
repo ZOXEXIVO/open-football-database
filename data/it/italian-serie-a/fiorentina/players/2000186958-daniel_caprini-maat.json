@@ -1,0 +1,33 @@
+{
+  "id": 2000186958,
+  "first_name": "Maat",
+  "last_name": "Daniel Caprini",
+  "birth_date": "2006-02-11",
+  "country_id": 776,
+  "club_id": 1129,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 132,
+  "value": 871000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 700198,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

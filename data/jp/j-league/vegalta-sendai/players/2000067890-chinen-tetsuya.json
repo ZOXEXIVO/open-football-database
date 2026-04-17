@@ -1,0 +1,29 @@
+{
+  "id": 2000067890,
+  "first_name": "Tetsuya",
+  "last_name": "Chinen",
+  "birth_date": "1997-11-08",
+  "country_id": 116,
+  "club_id": 107283,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 99,
+  "value": 16000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-01-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 107289,
+    "expiration": "2026-01-06",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

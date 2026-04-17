@@ -1,0 +1,28 @@
+{
+  "id": 2000094908,
+  "first_name": "Jóhannes",
+  "last_name": "Karl Bárðarson",
+  "birth_date": "2003-09-24",
+  "country_id": 774,
+  "club_id": 1101637,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 69,
+  "value": 17000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 39009058,
+    "expiration": "2026-11-16",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

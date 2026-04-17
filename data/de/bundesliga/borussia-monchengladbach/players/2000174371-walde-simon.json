@@ -1,0 +1,27 @@
+{
+  "id": 2000174371,
+  "first_name": "Simon",
+  "last_name": "Walde",
+  "birth_date": "2005-01-04",
+  "country_id": 771,
+  "club_id": 908,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 125,
+  "value": 82000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

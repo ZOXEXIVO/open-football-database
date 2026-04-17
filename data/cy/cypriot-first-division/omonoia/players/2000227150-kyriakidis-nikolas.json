@@ -1,0 +1,29 @@
+{
+  "id": 2000227150,
+  "first_name": "Nikolas",
+  "last_name": "Kyriakidis",
+  "birth_date": "2004-09-20",
+  "country_id": 762,
+  "club_id": 460,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 75,
+  "value": 4000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 149276,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

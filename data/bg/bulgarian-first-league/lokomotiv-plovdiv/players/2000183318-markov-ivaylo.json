@@ -1,0 +1,33 @@
+{
+  "id": 2000183318,
+  "first_name": "Ivaylo",
+  "last_name": "Markov",
+  "birth_date": "2004-10-21",
+  "country_id": 760,
+  "club_id": 351,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 89,
+  "value": 95000,
+  "contract": {
+    "salary": 11492,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7501927,
+    "expiration": "2026-06-15",
+    "salary": 11492,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 16254134,
+  "first_name": "Moritz",
+  "last_name": "Oswald",
+  "birth_date": "2002-01-05",
+  "country_id": 755,
+  "club_id": 155,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 111,
+  "value": 754000,
+  "contract": {
+    "salary": 46904,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 137973,
+    "expiration": "2026-06-30",
+    "salary": 46904,
+    "wage_contribution_pct": 100
+  }
+}

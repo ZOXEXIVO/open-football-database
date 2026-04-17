@@ -1,0 +1,23 @@
+{
+  "id": 2000516755,
+  "first_name": "Petar",
+  "last_name": "Krastev",
+  "birth_date": "2008-04-17",
+  "country_id": 760,
+  "club_id": 351,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 110,
+  "value": 122000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

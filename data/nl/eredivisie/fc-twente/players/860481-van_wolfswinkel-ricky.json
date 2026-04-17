@@ -1,0 +1,27 @@
+{
+  "id": 860481,
+  "first_name": "Ricky",
+  "last_name": "van Wolfswinkel",
+  "birth_date": "1989-01-27",
+  "country_id": 784,
+  "club_id": 1009,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 109,
+  "potential_ability": 118,
+  "value": 605000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

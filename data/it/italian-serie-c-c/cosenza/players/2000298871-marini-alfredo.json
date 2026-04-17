@@ -1,0 +1,31 @@
+{
+  "id": 2000298871,
+  "first_name": "Alfredo",
+  "last_name": "Marini",
+  "birth_date": "2007-01-16",
+  "country_id": 776,
+  "club_id": 1124,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 97,
+  "value": 16000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

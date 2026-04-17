@@ -1,0 +1,23 @@
+{
+  "id": 2000435844,
+  "first_name": "Jason",
+  "last_name": "Moulle",
+  "birth_date": "2008-07-11",
+  "country_id": 11,
+  "club_id": 5684694,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 88,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

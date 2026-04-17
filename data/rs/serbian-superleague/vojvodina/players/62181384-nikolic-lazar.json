@@ -1,0 +1,35 @@
+{
+  "id": 62181384,
+  "first_name": "Lazar",
+  "last_name": "Nikolić",
+  "birth_date": "1999-08-01",
+  "country_id": 802,
+  "club_id": 1957,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 82,
+  "value": 311000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

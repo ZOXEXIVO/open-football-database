@@ -1,0 +1,29 @@
+{
+  "id": 2000102455,
+  "first_name": "Nils",
+  "last_name": "Zätterström",
+  "birth_date": "2005-03-29",
+  "country_id": 797,
+  "club_id": 708,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 101,
+  "value": 5000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1132,
+    "expiration": "2026-06-30",
+    "salary": 780000,
+    "wage_contribution_pct": 100
+  }
+}

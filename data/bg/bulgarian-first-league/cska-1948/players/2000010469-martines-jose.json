@@ -1,0 +1,31 @@
+{
+  "id": 2000010469,
+  "first_name": "José",
+  "last_name": "Martínes",
+  "birth_date": "2002-09-18",
+  "country_id": 1650,
+  "club_id": 22070174,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 86,
+  "value": 536000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

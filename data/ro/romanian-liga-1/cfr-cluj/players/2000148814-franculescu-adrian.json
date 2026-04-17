@@ -1,0 +1,29 @@
+{
+  "id": 2000148814,
+  "first_name": "Adrian",
+  "last_name": "Frănculescu",
+  "birth_date": "2005-02-28",
+  "country_id": 790,
+  "club_id": 7540205,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 121,
+  "value": 310000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 57141891,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

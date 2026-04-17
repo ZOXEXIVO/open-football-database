@@ -1,0 +1,35 @@
+{
+  "id": 53138034,
+  "first_name": "Peter",
+  "last_name": "Reinhardsen",
+  "birth_date": "1999-04-21",
+  "country_id": 786,
+  "club_id": 53021327,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 90,
+  "value": 1000000,
+  "contract": {
+    "salary": 45136,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

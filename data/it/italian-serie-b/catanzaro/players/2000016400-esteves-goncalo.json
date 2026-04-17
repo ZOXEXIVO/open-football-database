@@ -1,0 +1,27 @@
+{
+  "id": 2000016400,
+  "first_name": "Gonçalo",
+  "last_name": "Esteves",
+  "birth_date": "2004-02-27",
+  "country_id": 788,
+  "club_id": 1119,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 95,
+  "value": 739000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

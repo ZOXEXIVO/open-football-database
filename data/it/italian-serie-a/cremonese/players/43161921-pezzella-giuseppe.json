@@ -1,0 +1,31 @@
+{
+  "id": 43161921,
+  "first_name": "Giuseppe",
+  "last_name": "Pezzella",
+  "birth_date": "1997-11-29",
+  "country_id": 776,
+  "club_id": 1125,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 101,
+  "value": 4000000,
+  "contract": {
+    "salary": 936000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

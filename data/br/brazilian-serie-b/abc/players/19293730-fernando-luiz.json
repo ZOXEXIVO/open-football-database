@@ -1,0 +1,33 @@
+{
+  "id": 19293730,
+  "first_name": "Luiz",
+  "last_name": "Fernando",
+  "birth_date": "1999-07-11",
+  "country_id": 1651,
+  "club_id": 318907,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 84,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 107205,
+    "expiration": "2026-09-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000027710,
+  "first_name": "Mateusz",
+  "last_name": "Musiałowski",
+  "birth_date": "2003-10-16",
+  "country_id": 787,
+  "club_id": 460,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 108,
+  "value": 213000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

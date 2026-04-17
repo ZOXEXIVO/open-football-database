@@ -1,0 +1,27 @@
+{
+  "id": 2000071531,
+  "first_name": "Ahmed",
+  "last_name": "Yassin",
+  "birth_date": "1997-08-07",
+  "country_id": 16,
+  "club_id": 12004628,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 81,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

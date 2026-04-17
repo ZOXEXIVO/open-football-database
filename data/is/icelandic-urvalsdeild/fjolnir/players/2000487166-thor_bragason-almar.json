@@ -1,0 +1,33 @@
+{
+  "id": 2000487166,
+  "first_name": "Almar",
+  "last_name": "Þór Bragason",
+  "birth_date": "2006-11-29",
+  "country_id": 774,
+  "club_id": 7841979,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 53,
+  "potential_ability": 69,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056746,
+    "expiration": "2036-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

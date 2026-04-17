@@ -1,0 +1,37 @@
+{
+  "id": 2000245196,
+  "first_name": "Mostafa",
+  "last_name": "Disha",
+  "birth_date": "2002-07-19",
+  "country_id": 16,
+  "club_id": 2000138939,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 121,
+  "value": 100000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5370014,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

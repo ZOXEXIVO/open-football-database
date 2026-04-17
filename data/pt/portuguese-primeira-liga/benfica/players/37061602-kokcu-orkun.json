@@ -1,0 +1,34 @@
+{
+  "id": 37061602,
+  "first_name": "Orkun",
+  "last_name": "Kökçü",
+  "birth_date": "2000-12-29",
+  "country_id": 799,
+  "club_id": 1487,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 126,
+  "potential_ability": 136,
+  "value": 21000000,
+  "contract": {
+    "salary": 1664000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1866,
+    "expiration": "2026-06-30",
+    "salary": 1664000,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  }
+}

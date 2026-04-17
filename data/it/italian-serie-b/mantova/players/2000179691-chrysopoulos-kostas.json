@@ -1,0 +1,29 @@
+{
+  "id": 2000179691,
+  "first_name": "Kostas",
+  "last_name": "Chrysopoulos",
+  "birth_date": "2003-05-21",
+  "country_id": 772,
+  "club_id": 967,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 122,
+  "value": 9000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 700198,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

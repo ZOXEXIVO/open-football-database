@@ -1,0 +1,37 @@
+{
+  "id": 43424887,
+  "first_name": "Lorenzo",
+  "last_name": "Coccia",
+  "birth_date": "2002-06-02",
+  "country_id": 776,
+  "club_id": 2185,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 99,
+  "value": 185000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43076616,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

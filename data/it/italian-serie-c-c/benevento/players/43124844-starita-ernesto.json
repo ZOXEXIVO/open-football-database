@@ -1,0 +1,37 @@
+{
+  "id": 43124844,
+  "first_name": "Ernesto",
+  "last_name": "Starita",
+  "birth_date": "1996-03-03",
+  "country_id": 776,
+  "club_id": 2188,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 88,
+  "value": 146000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000384267,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

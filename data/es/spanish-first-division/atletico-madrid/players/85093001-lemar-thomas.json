@@ -1,0 +1,37 @@
+{
+  "id": 85093001,
+  "first_name": "Thomas",
+  "last_name": "Lemar",
+  "birth_date": "1995-11-12",
+  "country_id": 769,
+  "club_id": 1687,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 152,
+  "value": 30000000,
+  "contract": {
+    "salary": 2704000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 814089,
+    "expiration": "2026-06-30",
+    "salary": 2704000,
+    "wage_contribution_pct": 100
+  }
+}

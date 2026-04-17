@@ -1,0 +1,33 @@
+{
+  "id": 2000059773,
+  "first_name": "Ibrahim",
+  "last_name": "Adel",
+  "birth_date": "2001-04-23",
+  "country_id": 16,
+  "club_id": 135450,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 116,
+  "value": 7000000,
+  "contract": {
+    "salary": 2236000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 932443,
+    "expiration": "2026-06-30",
+    "salary": 2236000,
+    "wage_contribution_pct": 100
+  }
+}

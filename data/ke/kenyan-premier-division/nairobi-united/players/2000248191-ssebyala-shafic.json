@@ -1,0 +1,31 @@
+{
+  "id": 2000248191,
+  "first_name": "Shafic",
+  "last_name": "Ssebyala",
+  "birth_date": "2001-07-09",
+  "country_id": 52,
+  "club_id": 2000354849,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 49,
+  "potential_ability": 65,
+  "value": 38000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2031-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

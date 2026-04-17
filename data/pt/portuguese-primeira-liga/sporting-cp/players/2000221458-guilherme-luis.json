@@ -1,0 +1,27 @@
+{
+  "id": 2000221458,
+  "first_name": "Luís",
+  "last_name": "Guilherme",
+  "birth_date": "2006-02-09",
+  "country_id": 1651,
+  "club_id": 1489,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 122,
+  "potential_ability": 165,
+  "value": 35000000,
+  "contract": {
+    "salary": 1560000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

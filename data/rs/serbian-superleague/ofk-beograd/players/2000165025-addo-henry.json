@@ -1,0 +1,37 @@
+{
+  "id": 2000165025,
+  "first_name": "Henry",
+  "last_name": "Addo",
+  "birth_date": "2003-05-01",
+  "country_id": 21,
+  "club_id": 1097,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 116,
+  "value": 815000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1951,
+    "expiration": "2026-06-30",
+    "salary": 260000,
+    "wage_contribution_pct": 100
+  }
+}

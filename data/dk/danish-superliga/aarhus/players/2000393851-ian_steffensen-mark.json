@@ -1,0 +1,27 @@
+{
+  "id": 2000393851,
+  "first_name": "Mark",
+  "last_name": "Ian Steffensen",
+  "birth_date": "2008-02-07",
+  "country_id": 764,
+  "club_id": 482,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 108,
+  "value": 405000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

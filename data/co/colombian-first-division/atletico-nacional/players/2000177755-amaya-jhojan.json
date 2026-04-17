@@ -1,0 +1,37 @@
+{
+  "id": 2000177755,
+  "first_name": "Jhojan",
+  "last_name": "Amaya",
+  "birth_date": "2006-04-01",
+  "country_id": 1653,
+  "club_id": 427,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 125,
+  "value": 360000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000273045,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

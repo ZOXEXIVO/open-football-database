@@ -1,0 +1,33 @@
+{
+  "id": 2000269422,
+  "first_name": "Efe",
+  "last_name": "Aghama",
+  "birth_date": "2004-06-11",
+  "country_id": 38,
+  "club_id": 1682,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 104,
+  "value": 674000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 4212294,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

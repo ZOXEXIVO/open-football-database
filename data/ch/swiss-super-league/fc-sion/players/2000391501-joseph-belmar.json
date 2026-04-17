@@ -1,0 +1,29 @@
+{
+  "id": 2000391501,
+  "first_name": "Belmar",
+  "last_name": "Joseph",
+  "birth_date": "2005-10-13",
+  "country_id": 375,
+  "club_id": 1852,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 107,
+  "value": 181000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000081586,
+    "expiration": "2026-11-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

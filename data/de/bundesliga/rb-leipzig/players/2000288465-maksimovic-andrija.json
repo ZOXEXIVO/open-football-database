@@ -1,0 +1,27 @@
+{
+  "id": 2000288465,
+  "first_name": "Andrija",
+  "last_name": "Maksimović",
+  "birth_date": "2007-06-05",
+  "country_id": 802,
+  "club_id": 91013388,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 145,
+  "value": 22000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

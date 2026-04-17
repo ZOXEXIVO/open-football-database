@@ -1,0 +1,33 @@
+{
+  "id": 2000145982,
+  "first_name": "James",
+  "last_name": "Abankwah",
+  "birth_date": "2004-01-16",
+  "country_id": 789,
+  "club_id": 1178,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 116,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 732,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

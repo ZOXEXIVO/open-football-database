@@ -1,0 +1,29 @@
+{
+  "id": 2000191027,
+  "first_name": "Federico",
+  "last_name": "Aguirre",
+  "birth_date": "2002-04-22",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 123,
+  "value": 144000,
+  "contract": {
+    "salary": 43004,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 14024658,
+    "expiration": "2026-12-31",
+    "salary": 43004,
+    "wage_contribution_pct": 100
+  }
+}

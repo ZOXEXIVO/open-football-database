@@ -1,0 +1,31 @@
+{
+  "id": 2000166221,
+  "first_name": "Chemseddine",
+  "last_name": "Bekkouche",
+  "birth_date": "2001-03-13",
+  "country_id": 5,
+  "club_id": 7600575,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 95,
+  "value": 23000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000122545,
+  "first_name": "Román",
+  "last_name": "Rodríguez",
+  "birth_date": "2003-09-15",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 139,
+  "value": 4000000,
+  "contract": {
+    "salary": 29016,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 108531,
+    "expiration": "2026-12-31",
+    "salary": 29016,
+    "wage_contribution_pct": 100
+  }
+}

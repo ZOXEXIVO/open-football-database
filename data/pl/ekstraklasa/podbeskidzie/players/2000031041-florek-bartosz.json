@@ -1,0 +1,31 @@
+{
+  "id": 2000031041,
+  "first_name": "Bartosz",
+  "last_name": "Florek",
+  "birth_date": "2004-08-06",
+  "country_id": 787,
+  "club_id": 714200,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 84,
+  "value": 37000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

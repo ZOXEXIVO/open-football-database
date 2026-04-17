@@ -1,0 +1,31 @@
+{
+  "id": 2000530139,
+  "first_name": "Muhammed",
+  "last_name": "Jarju",
+  "birth_date": "2007-06-10",
+  "country_id": 20,
+  "club_id": 930210,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 108,
+  "value": 17000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

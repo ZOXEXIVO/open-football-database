@@ -1,0 +1,29 @@
+{
+  "id": 2000446440,
+  "first_name": "Alexander",
+  "last_name": "Örn Friðriksson",
+  "birth_date": "2007-08-16",
+  "country_id": 774,
+  "club_id": 1074,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 54,
+  "potential_ability": 91,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-10-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7842247,
+    "expiration": "2025-10-15",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000336810,
+  "first_name": "Srđan",
+  "last_name": "Borovina",
+  "birth_date": "2007-02-26",
+  "country_id": 802,
+  "club_id": 120779,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 107,
+  "value": 921000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5745023,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

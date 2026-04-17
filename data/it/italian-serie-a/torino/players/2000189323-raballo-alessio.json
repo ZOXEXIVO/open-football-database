@@ -1,0 +1,29 @@
+{
+  "id": 2000189323,
+  "first_name": "Alessio",
+  "last_name": "Raballo",
+  "birth_date": "2006-09-09",
+  "country_id": 367,
+  "club_id": 1174,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 107,
+  "value": 97000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1126,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

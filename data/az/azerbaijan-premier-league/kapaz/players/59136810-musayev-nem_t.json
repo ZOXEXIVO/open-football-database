@@ -1,0 +1,29 @@
+{
+  "id": 59136810,
+  "first_name": "Nemət",
+  "last_name": "Musayev",
+  "birth_date": "2002-01-17",
+  "country_id": 756,
+  "club_id": 59008177,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 75,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000284826,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

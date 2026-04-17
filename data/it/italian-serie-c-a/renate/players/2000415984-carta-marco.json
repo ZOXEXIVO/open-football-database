@@ -1,0 +1,31 @@
+{
+  "id": 2000415984,
+  "first_name": "Marco",
+  "last_name": "Carta",
+  "birth_date": "2007-01-21",
+  "country_id": 776,
+  "club_id": 1413274,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 76,
+  "value": 13000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

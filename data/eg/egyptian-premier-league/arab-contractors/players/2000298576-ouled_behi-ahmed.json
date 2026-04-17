@@ -1,0 +1,27 @@
+{
+  "id": 2000298576,
+  "first_name": "Ahmed",
+  "last_name": "Ouled Behi",
+  "birth_date": "2000-05-20",
+  "country_id": 51,
+  "club_id": 5370001,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 86,
+  "value": 118000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

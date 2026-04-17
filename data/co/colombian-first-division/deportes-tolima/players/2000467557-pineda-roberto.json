@@ -1,0 +1,31 @@
+{
+  "id": 2000467557,
+  "first_name": "Roberto",
+  "last_name": "Pineda",
+  "birth_date": "2008-06-25",
+  "country_id": 1653,
+  "club_id": 429,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 112,
+  "value": 135000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000089544,
+  "first_name": "Mihkel",
+  "last_name": "Sepp",
+  "birth_date": "2005-02-17",
+  "country_id": 766,
+  "club_id": 5220196,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 53,
+  "potential_ability": 68,
+  "value": 13000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 47052802,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

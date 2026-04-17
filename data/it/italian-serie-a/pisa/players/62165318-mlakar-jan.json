@@ -1,0 +1,33 @@
+{
+  "id": 62165318,
+  "first_name": "Jan",
+  "last_name": "Mlakar",
+  "birth_date": "1998-10-23",
+  "country_id": 795,
+  "club_id": 2215,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 94,
+  "value": 454000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 831,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

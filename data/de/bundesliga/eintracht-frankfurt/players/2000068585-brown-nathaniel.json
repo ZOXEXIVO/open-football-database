@@ -1,0 +1,27 @@
+{
+  "id": 2000068585,
+  "first_name": "Nathaniel",
+  "last_name": "Brown",
+  "birth_date": "2003-06-16",
+  "country_id": 771,
+  "club_id": 912,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 141,
+  "value": 71000000,
+  "contract": {
+    "salary": 1716000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

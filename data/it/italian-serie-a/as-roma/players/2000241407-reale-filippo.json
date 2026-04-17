@@ -1,0 +1,33 @@
+{
+  "id": 2000241407,
+  "first_name": "Filippo",
+  "last_name": "Reale",
+  "birth_date": "2006-02-24",
+  "country_id": 776,
+  "club_id": 1100,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 143,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1108,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

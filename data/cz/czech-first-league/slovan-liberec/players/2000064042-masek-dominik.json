@@ -1,0 +1,33 @@
+{
+  "id": 2000064042,
+  "first_name": "Dominik",
+  "last_name": "Mašek",
+  "birth_date": "2002-08-01",
+  "country_id": 763,
+  "club_id": 475,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 100,
+  "value": 114000,
+  "contract": {
+    "salary": 32136,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130873,
+    "expiration": "2026-06-30",
+    "salary": 32136,
+    "wage_contribution_pct": 100
+  }
+}

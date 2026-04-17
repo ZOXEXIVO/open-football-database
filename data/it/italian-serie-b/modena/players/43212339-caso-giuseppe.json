@@ -1,0 +1,37 @@
+{
+  "id": 43212339,
+  "first_name": "Giuseppe",
+  "last_name": "Caso",
+  "birth_date": "1998-12-09",
+  "country_id": 776,
+  "club_id": 1147,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 101,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1149,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

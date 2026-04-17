@@ -1,0 +1,29 @@
+{
+  "id": 2000187094,
+  "first_name": "Pablo",
+  "last_name": "Mangiaracina-Lopez",
+  "birth_date": "2006-04-10",
+  "country_id": 776,
+  "club_id": 1154,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 79,
+  "value": 13000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 831361,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

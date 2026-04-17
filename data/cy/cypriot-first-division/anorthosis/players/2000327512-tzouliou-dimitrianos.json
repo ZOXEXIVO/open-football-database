@@ -1,0 +1,33 @@
+{
+  "id": 2000327512,
+  "first_name": "Dimitrianos",
+  "last_name": "Tzouliou",
+  "birth_date": "2006-01-19",
+  "country_id": 762,
+  "club_id": 450,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 97,
+  "value": 146000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 26030981,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

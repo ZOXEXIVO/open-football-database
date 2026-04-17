@@ -1,0 +1,27 @@
+{
+  "id": 2000289558,
+  "first_name": "Cyril",
+  "last_name": "Borval",
+  "birth_date": "2005-01-30",
+  "country_id": 769,
+  "club_id": 2005,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 103,
+  "value": 30000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

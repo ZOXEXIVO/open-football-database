@@ -1,0 +1,29 @@
+{
+  "id": 2000511708,
+  "first_name": "Kyriakos",
+  "last_name": "Kyriakou",
+  "birth_date": "2006-02-03",
+  "country_id": 762,
+  "club_id": 449,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 77,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 694451,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000102653,
+  "first_name": "Amir",
+  "last_name": "Hossein Farhadi",
+  "birth_date": "2000-10-14",
+  "country_id": 114,
+  "club_id": 23159427,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 86,
+  "value": 58000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

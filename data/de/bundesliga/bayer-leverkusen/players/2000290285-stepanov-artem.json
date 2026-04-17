@@ -1,0 +1,29 @@
+{
+  "id": 2000290285,
+  "first_name": "Artem",
+  "last_name": "Stepanov",
+  "birth_date": "2007-08-10",
+  "country_id": 800,
+  "club_id": 901,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 149,
+  "value": 3000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1010,
+    "expiration": "2026-06-30",
+    "salary": 416000,
+    "wage_contribution_pct": 100
+  }
+}

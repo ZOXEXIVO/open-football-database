@@ -1,0 +1,31 @@
+{
+  "id": 2000017323,
+  "first_name": "Ivan",
+  "last_name": "Vorobjev",
+  "birth_date": "2001-11-21",
+  "country_id": 758,
+  "club_id": 17040498,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 80,
+  "value": 7000,
+  "contract": {
+    "salary": 4784,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

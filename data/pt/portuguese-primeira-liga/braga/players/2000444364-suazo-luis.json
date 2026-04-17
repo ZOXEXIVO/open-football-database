@@ -1,0 +1,31 @@
+{
+  "id": 2000444364,
+  "first_name": "Luis",
+  "last_name": "Suazo",
+  "birth_date": "2008-06-30",
+  "country_id": 376,
+  "club_id": 1488,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 121,
+  "value": 320000,
+  "contract": {
+    "salary": 49400,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

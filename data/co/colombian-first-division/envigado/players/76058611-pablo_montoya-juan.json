@@ -1,0 +1,29 @@
+{
+  "id": 76058611,
+  "first_name": "Juan",
+  "last_name": "Pablo Montoya",
+  "birth_date": "1998-10-15",
+  "country_id": 1653,
+  "club_id": 309348,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 82,
+  "value": 337000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 120936,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

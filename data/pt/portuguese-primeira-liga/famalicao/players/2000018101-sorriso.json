@@ -1,0 +1,31 @@
+{
+  "id": 2000018101,
+  "first_name": "Sorriso",
+  "last_name": "",
+  "birth_date": "2001-02-23",
+  "country_id": 1651,
+  "club_id": 2397,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 109,
+  "value": 9000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

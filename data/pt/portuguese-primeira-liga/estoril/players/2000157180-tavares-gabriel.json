@@ -1,0 +1,27 @@
+{
+  "id": 2000157180,
+  "first_name": "Gabriel",
+  "last_name": "Tavares",
+  "birth_date": "2005-07-23",
+  "country_id": 788,
+  "club_id": 2390,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 99,
+  "value": 286000,
+  "contract": {
+    "salary": 24700,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

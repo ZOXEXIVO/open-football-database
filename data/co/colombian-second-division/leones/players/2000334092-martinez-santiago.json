@@ -1,0 +1,31 @@
+{
+  "id": 2000334092,
+  "first_name": "Santiago",
+  "last_name": "Martínez",
+  "birth_date": "2004-11-05",
+  "country_id": 1653,
+  "club_id": 309348,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 97,
+  "value": 42000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

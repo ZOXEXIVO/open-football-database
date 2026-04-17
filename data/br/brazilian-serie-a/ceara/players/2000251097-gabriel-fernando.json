@@ -1,0 +1,29 @@
+{
+  "id": 2000251097,
+  "first_name": "Fernando",
+  "last_name": "Gabriel",
+  "birth_date": "2004-05-05",
+  "country_id": 1651,
+  "club_id": 104749,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 93,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 314604,
+    "expiration": "2026-11-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

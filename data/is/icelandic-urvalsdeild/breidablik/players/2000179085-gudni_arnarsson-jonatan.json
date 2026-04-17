@@ -1,0 +1,33 @@
+{
+  "id": 2000179085,
+  "first_name": "Jónatan",
+  "last_name": "Guðni Arnarsson",
+  "birth_date": "2007-02-09",
+  "country_id": 774,
+  "club_id": 1069,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 95,
+  "value": 41000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056846,
+    "expiration": "2037-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

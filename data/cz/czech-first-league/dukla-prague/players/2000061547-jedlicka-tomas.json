@@ -1,0 +1,29 @@
+{
+  "id": 2000061547,
+  "first_name": "Tomáš",
+  "last_name": "Jedlička",
+  "birth_date": "2003-07-05",
+  "country_id": 763,
+  "club_id": 5640780,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 91,
+  "value": 172000,
+  "contract": {
+    "salary": 52,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 116156,
+    "expiration": "2026-06-30",
+    "salary": 52,
+    "wage_contribution_pct": 100
+  }
+}

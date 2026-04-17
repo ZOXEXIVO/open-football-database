@@ -1,0 +1,33 @@
+{
+  "id": 16147693,
+  "first_name": "Attila",
+  "last_name": "Szalai",
+  "birth_date": "1998-01-20",
+  "country_id": 773,
+  "club_id": 879226,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 128,
+  "value": 1000000,
+  "contract": {
+    "salary": 1716000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1459,
+    "expiration": "2026-06-30",
+    "salary": 1716000,
+    "wage_contribution_pct": 100
+  }
+}

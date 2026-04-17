@@ -1,0 +1,27 @@
+{
+  "id": 2000429780,
+  "first_name": "Gonzalo",
+  "last_name": "Antoine",
+  "birth_date": "2005-01-21",
+  "country_id": 50,
+  "club_id": 263,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 86,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

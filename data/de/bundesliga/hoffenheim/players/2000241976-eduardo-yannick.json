@@ -1,0 +1,27 @@
+{
+  "id": 2000241976,
+  "first_name": "Yannick",
+  "last_name": "Eduardo",
+  "birth_date": "2006-01-23",
+  "country_id": 763,
+  "club_id": 879226,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 113,
+  "value": 1000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

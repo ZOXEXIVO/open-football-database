@@ -1,0 +1,27 @@
+{
+  "id": 2000472570,
+  "first_name": "Leon",
+  "last_name": "Ivanović",
+  "birth_date": "2008-01-06",
+  "country_id": 802,
+  "club_id": 1955,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 122,
+  "value": 246000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

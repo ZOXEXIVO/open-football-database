@@ -1,0 +1,31 @@
+{
+  "id": 25022596,
+  "first_name": "David",
+  "last_name": "Puškáč",
+  "birth_date": "1993-05-14",
+  "country_id": 763,
+  "club_id": 468,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 85,
+  "value": 200000,
+  "contract": {
+    "salary": 50492,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

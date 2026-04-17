@@ -1,0 +1,29 @@
+{
+  "id": 2000222222,
+  "first_name": "Noah",
+  "last_name": "Mutanda",
+  "birth_date": "2005-06-21",
+  "country_id": 771,
+  "club_id": 1108,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 87,
+  "value": 123000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 834830,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

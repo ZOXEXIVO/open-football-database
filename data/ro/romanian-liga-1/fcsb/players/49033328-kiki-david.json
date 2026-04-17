@@ -1,0 +1,27 @@
+{
+  "id": 49033328,
+  "first_name": "David",
+  "last_name": "Kiki",
+  "birth_date": "1993-11-25",
+  "country_id": 7,
+  "club_id": 1513,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 101,
+  "value": 184000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

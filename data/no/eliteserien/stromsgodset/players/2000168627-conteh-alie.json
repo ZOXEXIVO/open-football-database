@@ -1,0 +1,29 @@
+{
+  "id": 2000168627,
+  "first_name": "Alie",
+  "last_name": "Conteh",
+  "birth_date": "2004-10-29",
+  "country_id": 43,
+  "club_id": 1404,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 100,
+  "value": 1000000,
+  "contract": {
+    "salary": 37596,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300378,
+    "expiration": "2026-12-31",
+    "salary": 37596,
+    "wage_contribution_pct": 100
+  }
+}

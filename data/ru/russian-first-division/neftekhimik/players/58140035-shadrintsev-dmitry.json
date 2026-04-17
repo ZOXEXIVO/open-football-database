@@ -1,0 +1,41 @@
+{
+  "id": 58140035,
+  "first_name": "Dmitry",
+  "last_name": "Shadrintsev",
+  "birth_date": "1999-03-17",
+  "country_id": 791,
+  "club_id": 58126754,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 76,
+  "value": 95000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 130550,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

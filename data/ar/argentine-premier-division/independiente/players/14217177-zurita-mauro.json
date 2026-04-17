@@ -1,0 +1,29 @@
+{
+  "id": 14217177,
+  "first_name": "Mauro",
+  "last_name": "Zurita",
+  "birth_date": "2000-02-16",
+  "country_id": 1649,
+  "club_id": 89,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 116,
+  "value": 107000,
+  "contract": {
+    "salary": 42484,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 952724,
+    "expiration": "2026-12-31",
+    "salary": 42484,
+    "wage_contribution_pct": 100
+  }
+}

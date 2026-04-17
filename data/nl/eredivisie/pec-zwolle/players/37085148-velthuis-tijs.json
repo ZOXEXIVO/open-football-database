@@ -1,0 +1,29 @@
+{
+  "id": 37085148,
+  "first_name": "Tijs",
+  "last_name": "Velthuis",
+  "birth_date": "2002-01-12",
+  "country_id": 784,
+  "club_id": 1039,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 98,
+  "value": 885000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1012,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

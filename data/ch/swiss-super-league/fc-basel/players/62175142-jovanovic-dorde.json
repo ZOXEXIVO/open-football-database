@@ -1,0 +1,29 @@
+{
+  "id": 62175142,
+  "first_name": "Đorđe",
+  "last_name": "Jovanović",
+  "birth_date": "1999-02-15",
+  "country_id": 802,
+  "club_id": 1849,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 119,
+  "value": 2000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1093,
+    "expiration": "2026-05-31",
+    "salary": 364000,
+    "wage_contribution_pct": 100
+  }
+}

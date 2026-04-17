@@ -1,0 +1,27 @@
+{
+  "id": 2000518706,
+  "first_name": "Olaf",
+  "last_name": "Pankiewicz",
+  "birth_date": "2007-04-20",
+  "country_id": 787,
+  "club_id": 710052,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 99,
+  "value": 24000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

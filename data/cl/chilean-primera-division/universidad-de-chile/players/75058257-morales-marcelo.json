@@ -1,0 +1,33 @@
+{
+  "id": 75058257,
+  "first_name": "Marcelo",
+  "last_name": "Morales",
+  "birth_date": "2003-06-06",
+  "country_id": 1652,
+  "club_id": 72000160,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 119,
+  "value": 802000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 404,
+    "expiration": "2026-12-31",
+    "salary": 312000,
+    "wage_contribution_pct": 100
+  }
+}

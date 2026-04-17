@@ -1,0 +1,31 @@
+{
+  "id": 2000024706,
+  "first_name": "Filippo",
+  "last_name": "Puletto",
+  "birth_date": "2004-05-01",
+  "country_id": 776,
+  "club_id": 1115,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 88,
+  "value": 166000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

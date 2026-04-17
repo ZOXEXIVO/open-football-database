@@ -1,0 +1,41 @@
+{
+  "id": 12087972,
+  "first_name": "Nicolas",
+  "last_name": "Jackson",
+  "birth_date": "2001-06-20",
+  "country_id": 41,
+  "club_id": 630,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 131,
+  "potential_ability": 152,
+  "value": 47000000,
+  "contract": {
+    "salary": 6240000,
+    "expiration": "2031-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 915,
+    "expiration": "2026-06-30",
+    "salary": 6240000,
+    "wage_contribution_pct": 100
+  }
+}

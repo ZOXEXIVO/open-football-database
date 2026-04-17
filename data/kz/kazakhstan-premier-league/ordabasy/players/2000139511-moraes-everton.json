@@ -1,0 +1,27 @@
+{
+  "id": 2000139511,
+  "first_name": "Everton",
+  "last_name": "Moraes",
+  "birth_date": "2002-05-12",
+  "country_id": 1651,
+  "club_id": 483762,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 87,
+  "value": 475000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

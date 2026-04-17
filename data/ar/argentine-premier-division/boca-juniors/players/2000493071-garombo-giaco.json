@@ -1,0 +1,31 @@
+{
+  "id": 2000493071,
+  "first_name": "Giaco",
+  "last_name": "Garombo",
+  "birth_date": "2008-02-05",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 147,
+  "value": 449000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

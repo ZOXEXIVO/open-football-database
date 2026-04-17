@@ -1,0 +1,29 @@
+{
+  "id": 58102286,
+  "first_name": "Sergey",
+  "last_name": "Volkov",
+  "birth_date": "1995-05-10",
+  "country_id": 791,
+  "club_id": 58145316,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 75,
+  "value": 233000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 58126754,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

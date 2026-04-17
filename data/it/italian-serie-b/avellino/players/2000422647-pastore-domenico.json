@@ -1,0 +1,23 @@
+{
+  "id": 2000422647,
+  "first_name": "Domenico",
+  "last_name": "Pastore",
+  "birth_date": "2008-10-09",
+  "country_id": 776,
+  "club_id": 1108,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 90,
+  "value": 50000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2000532462,
+  "first_name": "Jean",
+  "last_name": "Ousama",
+  "birth_date": "2008-11-01",
+  "country_id": 11,
+  "club_id": 393,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 101,
+  "value": 16000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01"
+  }
+}

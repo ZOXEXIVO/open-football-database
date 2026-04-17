@@ -1,0 +1,31 @@
+{
+  "id": 2000490708,
+  "first_name": "Fabian",
+  "last_name": "Merién",
+  "birth_date": "2008-09-26",
+  "country_id": 784,
+  "club_id": 1028,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 105,
+  "potential_ability": 146,
+  "value": 7000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

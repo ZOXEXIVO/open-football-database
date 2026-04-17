@@ -1,0 +1,29 @@
+{
+  "id": 2000231424,
+  "first_name": "Islam",
+  "last_name": "Abdellah",
+  "birth_date": "2001-02-11",
+  "country_id": 16,
+  "club_id": 2000067559,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 107,
+  "value": 4000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5370001,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

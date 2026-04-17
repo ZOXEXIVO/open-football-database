@@ -1,0 +1,39 @@
+{
+  "id": 2000266397,
+  "first_name": "Gabriele",
+  "last_name": "Mazzetti",
+  "birth_date": "2007-01-01",
+  "country_id": 776,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 107,
+  "value": 23000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

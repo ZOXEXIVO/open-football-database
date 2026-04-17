@@ -1,0 +1,27 @@
+{
+  "id": 89066513,
+  "first_name": "Johnny",
+  "last_name": "Cardoso",
+  "birth_date": "2001-09-20",
+  "country_id": 390,
+  "club_id": 1687,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 150,
+  "value": 50000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

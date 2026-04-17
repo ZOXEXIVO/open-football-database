@@ -1,0 +1,27 @@
+{
+  "id": 2000146948,
+  "first_name": "Tom",
+  "last_name": "Rothe",
+  "birth_date": "2004-10-29",
+  "country_id": 771,
+  "club_id": 121182,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 141,
+  "value": 50000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

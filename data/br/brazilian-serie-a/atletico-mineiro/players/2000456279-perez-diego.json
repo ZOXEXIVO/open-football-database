@@ -1,0 +1,23 @@
+{
+  "id": 2000456279,
+  "first_name": "Diego",
+  "last_name": "Pérez",
+  "birth_date": "2008-04-20",
+  "country_id": 1650,
+  "club_id": 314,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 127,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "NonContract"
+  }
+}

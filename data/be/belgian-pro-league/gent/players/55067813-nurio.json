@@ -1,0 +1,33 @@
+{
+  "id": 55067813,
+  "first_name": "Núrio",
+  "last_name": "",
+  "birth_date": "1995-03-24",
+  "country_id": 6,
+  "club_id": 168,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 113,
+  "value": 501000,
+  "contract": {
+    "salary": 676000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 36136195,
+    "expiration": "2026-06-30",
+    "salary": 676000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000009210,
+  "first_name": "Artem",
+  "last_name": "Zimin",
+  "birth_date": "2003-03-24",
+  "country_id": 758,
+  "club_id": 1300111,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 51,
+  "potential_ability": 69,
+  "value": 4000,
+  "contract": {
+    "salary": 4576,
+    "expiration": "2025-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

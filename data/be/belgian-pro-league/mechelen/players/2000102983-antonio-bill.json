@@ -1,0 +1,23 @@
+{
+  "id": 2000102983,
+  "first_name": "Bill",
+  "last_name": "Antonio",
+  "birth_date": "2002-09-03",
+  "country_id": 55,
+  "club_id": 232,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 102,
+  "value": 2000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

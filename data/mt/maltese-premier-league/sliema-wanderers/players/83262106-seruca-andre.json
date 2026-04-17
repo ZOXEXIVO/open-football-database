@@ -1,0 +1,29 @@
+{
+  "id": 83262106,
+  "first_name": "André",
+  "last_name": "Seruca",
+  "birth_date": "2000-10-29",
+  "country_id": 788,
+  "club_id": 2000104441,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 87,
+  "value": 113000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1247,
+    "expiration": "2026-05-31",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

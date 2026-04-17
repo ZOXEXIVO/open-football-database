@@ -1,0 +1,29 @@
+{
+  "id": 2000144263,
+  "first_name": "Martín",
+  "last_name": "Sosa",
+  "birth_date": "2004-05-24",
+  "country_id": 1649,
+  "club_id": 952695,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 104,
+  "value": 283000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000532116,
+    "expiration": "2026-02-28",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

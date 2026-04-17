@@ -1,0 +1,27 @@
+{
+  "id": 2000365856,
+  "first_name": "Marvin",
+  "last_name": "Avila",
+  "birth_date": "2008-03-17",
+  "country_id": 373,
+  "club_id": 337,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 108,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "NonContract"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000122311,
+  "first_name": "Jan",
+  "last_name": "Plug",
+  "birth_date": "2005-04-02",
+  "country_id": 784,
+  "club_id": 1013,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 103,
+  "potential_ability": 126,
+  "value": 4000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1001,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

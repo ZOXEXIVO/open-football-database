@@ -1,0 +1,31 @@
+{
+  "id": 2000505530,
+  "first_name": "Salmaan",
+  "last_name": "Cabdi Hassan",
+  "birth_date": "2009-03-17",
+  "country_id": 764,
+  "club_id": 483,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 95,
+  "value": 7000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

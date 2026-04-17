@@ -1,0 +1,29 @@
+{
+  "id": 2000232124,
+  "first_name": "Haruna",
+  "last_name": "Aliyu",
+  "birth_date": "2006-01-02",
+  "country_id": 38,
+  "club_id": 2000393077,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 97,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "NonContract"
+  },
+  "loan": {
+    "to_club_id": 5340763,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 14250633,
+  "first_name": "Leandro",
+  "last_name": "Figueredo",
+  "birth_date": "2003-07-12",
+  "country_id": 1649,
+  "club_id": 88,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 116,
+  "value": 584000,
+  "contract": {
+    "salary": 13156,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 950231,
+    "expiration": "2026-12-31",
+    "salary": 13156,
+    "wage_contribution_pct": 100
+  }
+}

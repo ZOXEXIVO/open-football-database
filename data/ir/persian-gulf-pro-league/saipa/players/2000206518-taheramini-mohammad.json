@@ -1,0 +1,31 @@
+{
+  "id": 2000206518,
+  "first_name": "Mohammad",
+  "last_name": "Taheramini",
+  "birth_date": "2000-04-05",
+  "country_id": 114,
+  "club_id": 5512195,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 81,
+  "value": 35000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

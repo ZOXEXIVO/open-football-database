@@ -1,0 +1,29 @@
+{
+  "id": 83163701,
+  "first_name": "Miguel",
+  "last_name": "Sousa",
+  "birth_date": "1998-09-19",
+  "country_id": 788,
+  "club_id": 2443,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 97,
+  "value": 739000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2406,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

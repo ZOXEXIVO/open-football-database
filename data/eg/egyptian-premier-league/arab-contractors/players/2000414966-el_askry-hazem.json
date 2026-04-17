@@ -1,0 +1,29 @@
+{
+  "id": 2000414966,
+  "first_name": "Hazem",
+  "last_name": "El Askry",
+  "birth_date": "2003-03-08",
+  "country_id": 16,
+  "club_id": 2000067559,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 98,
+  "value": 91000,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5370001,
+    "expiration": "2026-06-30",
+    "salary": 39000,
+    "wage_contribution_pct": 100
+  }
+}

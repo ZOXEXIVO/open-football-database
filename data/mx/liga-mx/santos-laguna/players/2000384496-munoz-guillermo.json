@@ -1,0 +1,32 @@
+{
+  "id": 2000384496,
+  "first_name": "Guillermo",
+  "last_name": "Muñoz",
+  "birth_date": "2004-09-30",
+  "country_id": 379,
+  "club_id": 106029,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 115,
+  "value": 183000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2034-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 136017,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

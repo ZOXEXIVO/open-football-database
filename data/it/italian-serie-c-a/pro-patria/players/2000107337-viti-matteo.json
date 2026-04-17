@@ -1,0 +1,29 @@
+{
+  "id": 2000107337,
+  "first_name": "Matteo",
+  "last_name": "Viti",
+  "birth_date": "2005-12-18",
+  "country_id": 776,
+  "club_id": 2217,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 97,
+  "value": 207000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 702321,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

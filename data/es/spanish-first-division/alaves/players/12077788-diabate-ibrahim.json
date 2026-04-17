@@ -1,0 +1,29 @@
+{
+  "id": 12077788,
+  "first_name": "Ibrahim",
+  "last_name": "Diabaté",
+  "birth_date": "1999-11-17",
+  "country_id": 24,
+  "club_id": 2153,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 99,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1688,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 49053609,
+  "first_name": "Natanaël",
+  "last_name": "Thio",
+  "birth_date": "1999-07-01",
+  "country_id": 769,
+  "club_id": 2403,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 84,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

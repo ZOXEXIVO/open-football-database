@@ -1,0 +1,29 @@
+{
+  "id": 43115048,
+  "first_name": "Francesco",
+  "last_name": "Vicari",
+  "birth_date": "1994-08-03",
+  "country_id": 776,
+  "club_id": 1110,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 102,
+  "value": 1000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1164,
+    "expiration": "2026-06-30",
+    "salary": 780000,
+    "wage_contribution_pct": 100
+  }
+}

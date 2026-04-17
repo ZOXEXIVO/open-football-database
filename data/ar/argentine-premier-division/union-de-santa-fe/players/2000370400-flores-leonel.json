@@ -1,0 +1,33 @@
+{
+  "id": 2000370400,
+  "first_name": "Leonel",
+  "last_name": "Flores",
+  "birth_date": "2007-10-22",
+  "country_id": 1649,
+  "club_id": 14022190,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 126,
+  "value": 108000,
+  "contract": {
+    "salary": 7696,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 102467,
+    "expiration": "2026-12-31",
+    "salary": 7696,
+    "wage_contribution_pct": 100
+  }
+}

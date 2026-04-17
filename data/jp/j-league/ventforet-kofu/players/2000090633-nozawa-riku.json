@@ -1,0 +1,29 @@
+{
+  "id": 2000090633,
+  "first_name": "Riku",
+  "last_name": "Nozawa",
+  "birth_date": "1998-12-07",
+  "country_id": 116,
+  "club_id": 107314,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 94,
+  "value": 151000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 107346,
+    "expiration": "2026-01-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

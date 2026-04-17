@@ -1,0 +1,33 @@
+{
+  "id": 2000048066,
+  "first_name": "Sadiq",
+  "last_name": "Şəfiyev",
+  "birth_date": "2005-10-13",
+  "country_id": 756,
+  "club_id": 162,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 97,
+  "value": 512000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 59008177,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

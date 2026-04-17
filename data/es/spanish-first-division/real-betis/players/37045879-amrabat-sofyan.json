@@ -1,0 +1,29 @@
+{
+  "id": 37045879,
+  "first_name": "Sofyan",
+  "last_name": "Amrabat",
+  "birth_date": "1996-08-21",
+  "country_id": 34,
+  "club_id": 1870,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 122,
+  "potential_ability": 139,
+  "value": 20000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1733,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

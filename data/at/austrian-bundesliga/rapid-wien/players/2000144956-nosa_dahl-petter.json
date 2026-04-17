@@ -1,0 +1,31 @@
+{
+  "id": 2000144956,
+  "first_name": "Petter",
+  "last_name": "Nosa Dahl",
+  "birth_date": "2003-10-22",
+  "country_id": 786,
+  "club_id": 155,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 111,
+  "value": 5000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

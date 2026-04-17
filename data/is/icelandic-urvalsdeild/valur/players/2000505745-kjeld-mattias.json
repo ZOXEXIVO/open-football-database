@@ -1,0 +1,29 @@
+{
+  "id": 2000505745,
+  "first_name": "Mattías",
+  "last_name": "Kjeld",
+  "birth_date": "2009-01-27",
+  "country_id": 774,
+  "club_id": 1080,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 114,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-11-16",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 39056777,
+    "expiration": "2028-11-16",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

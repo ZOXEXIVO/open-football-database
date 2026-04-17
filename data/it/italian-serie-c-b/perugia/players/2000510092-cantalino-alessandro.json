@@ -1,0 +1,27 @@
+{
+  "id": 2000510092,
+  "first_name": "Alessandro",
+  "last_name": "Cantalino",
+  "birth_date": "2008-08-31",
+  "country_id": 776,
+  "club_id": 1157,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 74,
+  "value": 37000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

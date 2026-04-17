@@ -1,0 +1,27 @@
+{
+  "id": 2000333065,
+  "first_name": "German",
+  "last_name": "Ignatov",
+  "birth_date": "2005-08-11",
+  "country_id": 791,
+  "club_id": 1301104,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 124,
+  "value": 647000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

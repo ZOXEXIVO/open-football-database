@@ -1,0 +1,27 @@
+{
+  "id": 2000259382,
+  "first_name": "Luca",
+  "last_name": "Erlein",
+  "birth_date": "2007-07-05",
+  "country_id": 771,
+  "club_id": 879226,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 135,
+  "value": 3000000,
+  "contract": {
+    "salary": 676000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

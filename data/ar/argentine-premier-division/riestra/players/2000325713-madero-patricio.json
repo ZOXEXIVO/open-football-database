@@ -1,0 +1,33 @@
+{
+  "id": 2000325713,
+  "first_name": "Patricio",
+  "last_name": "Madero",
+  "birth_date": "1998-12-15",
+  "country_id": 1649,
+  "club_id": 952737,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 81,
+  "value": 81000,
+  "contract": {
+    "salary": 11544,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 952707,
+    "expiration": "2026-12-31",
+    "salary": 11544,
+    "wage_contribution_pct": 100
+  }
+}

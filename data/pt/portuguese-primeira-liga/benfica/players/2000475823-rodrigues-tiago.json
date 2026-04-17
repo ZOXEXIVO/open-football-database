@@ -1,0 +1,27 @@
+{
+  "id": 2000475823,
+  "first_name": "Tiago",
+  "last_name": "Rodrigues",
+  "birth_date": "2009-01-25",
+  "country_id": 788,
+  "club_id": 1487,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 165,
+  "value": 3000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

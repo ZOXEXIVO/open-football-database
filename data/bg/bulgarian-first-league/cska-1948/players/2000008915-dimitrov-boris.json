@@ -1,0 +1,29 @@
+{
+  "id": 2000008915,
+  "first_name": "Boris",
+  "last_name": "Dimitrov",
+  "birth_date": "2004-03-29",
+  "country_id": 760,
+  "club_id": 22070174,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 101,
+  "value": 620000,
+  "contract": {
+    "salary": 22464,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 353,
+    "expiration": "2026-06-15",
+    "salary": 22464,
+    "wage_contribution_pct": 100
+  }
+}

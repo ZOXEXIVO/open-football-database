@@ -1,0 +1,29 @@
+{
+  "id": 2000381902,
+  "first_name": "Miloš",
+  "last_name": "Bakić",
+  "birth_date": "2006-01-21",
+  "country_id": 802,
+  "club_id": 62030404,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 86,
+  "value": 364000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 62160090,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

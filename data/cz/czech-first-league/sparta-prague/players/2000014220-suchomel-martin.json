@@ -1,0 +1,41 @@
+{
+  "id": 2000014220,
+  "first_name": "Martin",
+  "last_name": "Suchomel",
+  "birth_date": "2002-09-11",
+  "country_id": 763,
+  "club_id": 476,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": 113,
+  "value": 496000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 472,
+    "expiration": "2026-06-30",
+    "salary": 104000,
+    "wage_contribution_pct": 100
+  }
+}

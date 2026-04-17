@@ -1,0 +1,29 @@
+{
+  "id": 2000242423,
+  "first_name": "Evgeny",
+  "last_name": "Lukinykh",
+  "birth_date": "2005-02-19",
+  "country_id": 791,
+  "club_id": 58145944,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 88,
+  "value": 40000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 58057322,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

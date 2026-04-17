@@ -1,0 +1,37 @@
+{
+  "id": 45114059,
+  "first_name": "Yutaro",
+  "last_name": "Hakamata",
+  "birth_date": "1996-06-24",
+  "country_id": 116,
+  "club_id": 1184,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 109,
+  "value": 63000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 786558,
+    "expiration": "2026-01-06",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

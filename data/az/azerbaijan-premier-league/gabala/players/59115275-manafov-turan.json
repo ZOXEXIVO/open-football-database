@@ -1,0 +1,37 @@
+{
+  "id": 59115275,
+  "first_name": "Turan",
+  "last_name": "Manafov",
+  "birth_date": "1998-08-19",
+  "country_id": 756,
+  "club_id": 65036389,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 91,
+  "value": 76000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 59001469,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

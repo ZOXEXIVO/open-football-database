@@ -1,0 +1,27 @@
+{
+  "id": 2000365947,
+  "first_name": "Karlo",
+  "last_name": "Pajsar",
+  "birth_date": "2008-03-07",
+  "country_id": 761,
+  "club_id": 1156,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 129,
+  "value": 845000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

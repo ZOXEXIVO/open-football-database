@@ -1,0 +1,27 @@
+{
+  "id": 55067679,
+  "first_name": "Paulo",
+  "last_name": "Henrique",
+  "birth_date": "1996-10-23",
+  "country_id": 788,
+  "club_id": 1476,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 87,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

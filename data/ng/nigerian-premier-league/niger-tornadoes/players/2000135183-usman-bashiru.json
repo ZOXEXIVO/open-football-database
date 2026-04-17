@@ -1,0 +1,31 @@
+{
+  "id": 2000135183,
+  "first_name": "Bashiru",
+  "last_name": "Usman",
+  "birth_date": "1998-12-25",
+  "country_id": 38,
+  "club_id": 5410010,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 80,
+  "value": 47000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-01-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

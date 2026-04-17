@@ -1,0 +1,27 @@
+{
+  "id": 2000103026,
+  "first_name": "Luka",
+  "last_name": "Izderić",
+  "birth_date": "2006-03-13",
+  "country_id": 802,
+  "club_id": 1954,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 89,
+  "value": 252000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

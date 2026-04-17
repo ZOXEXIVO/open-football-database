@@ -1,0 +1,31 @@
+{
+  "id": 2000499473,
+  "first_name": "Maciej",
+  "last_name": "Kuczyński",
+  "birth_date": "2007-02-01",
+  "country_id": 787,
+  "club_id": 710052,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 90,
+  "value": 45000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

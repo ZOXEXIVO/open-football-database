@@ -1,0 +1,27 @@
+{
+  "id": 2000209102,
+  "first_name": "Kubrat",
+  "last_name": "Onasci",
+  "birth_date": "2006-07-06",
+  "country_id": 760,
+  "club_id": 116384,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 91,
+  "value": 1000000,
+  "contract": {
+    "salary": 20644,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

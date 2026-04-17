@@ -1,0 +1,33 @@
+{
+  "id": 25055083,
+  "first_name": "Ladislav",
+  "last_name": "Krejčí",
+  "birth_date": "1999-04-20",
+  "country_id": 763,
+  "club_id": 814089,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 113,
+  "potential_ability": 126,
+  "value": 33000000,
+  "contract": {
+    "salary": 1092000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 740,
+    "expiration": "2026-06-30",
+    "salary": 1092000,
+    "wage_contribution_pct": 100
+  }
+}

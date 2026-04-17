@@ -1,0 +1,27 @@
+{
+  "id": 2000250472,
+  "first_name": "Ilya",
+  "last_name": "Kirko",
+  "birth_date": "2004-03-17",
+  "country_id": 758,
+  "club_id": 307,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 89,
+  "value": 61000,
+  "contract": {
+    "salary": 7696,
+    "expiration": "2026-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

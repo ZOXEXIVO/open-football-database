@@ -1,0 +1,29 @@
+{
+  "id": 2000026478,
+  "first_name": "Maksymilian",
+  "last_name": "Pingot",
+  "birth_date": "2003-04-01",
+  "country_id": 787,
+  "club_id": 1452,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 108,
+  "value": 311000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1454,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 19139020,
+  "first_name": "Gustavo",
+  "last_name": "Scarpa",
+  "birth_date": "1994-01-05",
+  "country_id": 1651,
+  "club_id": 314,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 131,
+  "contract": {
+    "salary": 1768000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 16253898,
+  "first_name": "Patrick",
+  "last_name": "Wimmer",
+  "birth_date": "2001-05-30",
+  "country_id": 755,
+  "club_id": 961,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 131,
+  "value": 9000000,
+  "contract": {
+    "salary": 1716000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

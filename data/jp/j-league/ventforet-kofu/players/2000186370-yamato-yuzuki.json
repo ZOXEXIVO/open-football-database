@@ -1,0 +1,28 @@
+{
+  "id": 2000186370,
+  "first_name": "Yuzuki",
+  "last_name": "Yamato",
+  "birth_date": "2003-07-16",
+  "country_id": 116,
+  "club_id": 107314,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 78,
+  "value": 210000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-01-31",
+    "started": "2024-12-29"
+  },
+  "loan": {
+    "to_club_id": 783801,
+    "expiration": "2026-01-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

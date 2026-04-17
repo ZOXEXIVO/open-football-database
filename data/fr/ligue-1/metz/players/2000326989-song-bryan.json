@@ -1,0 +1,31 @@
+{
+  "id": 2000326989,
+  "first_name": "Bryan",
+  "last_name": "Song",
+  "birth_date": "2007-04-28",
+  "country_id": 11,
+  "club_id": 844,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 101,
+  "value": 207000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

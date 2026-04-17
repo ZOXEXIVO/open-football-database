@@ -1,0 +1,33 @@
+{
+  "id": 2000354389,
+  "first_name": "Shola",
+  "last_name": "Adelani",
+  "birth_date": "2006-12-10",
+  "country_id": 38,
+  "club_id": 22033833,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 106,
+  "value": 157000,
+  "contract": {
+    "salary": 44928,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 22033716,
+    "expiration": "2026-06-15",
+    "salary": 44928,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000300828,
+  "first_name": "Kohei",
+  "last_name": "Hosoya",
+  "birth_date": "2001-12-11",
+  "country_id": 116,
+  "club_id": 1193,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 101,
+  "value": 3000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 776288,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

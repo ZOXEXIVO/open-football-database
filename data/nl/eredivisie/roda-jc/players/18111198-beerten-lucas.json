@@ -1,0 +1,39 @@
+{
+  "id": 18111198,
+  "first_name": "Lucas",
+  "last_name": "Beerten",
+  "birth_date": "2003-01-05",
+  "country_id": 757,
+  "club_id": 1033,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 93,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

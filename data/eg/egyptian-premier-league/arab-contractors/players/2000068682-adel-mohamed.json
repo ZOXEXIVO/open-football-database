@@ -1,0 +1,29 @@
+{
+  "id": 2000068682,
+  "first_name": "Mohamed",
+  "last_name": "Adel",
+  "birth_date": "1995-09-29",
+  "country_id": 16,
+  "club_id": 13183943,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 101,
+  "value": 28000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 5370001,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

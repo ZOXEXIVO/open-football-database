@@ -1,0 +1,31 @@
+{
+  "id": 83261133,
+  "first_name": "João",
+  "last_name": "Pinto",
+  "birth_date": "2002-08-31",
+  "country_id": 788,
+  "club_id": 2386,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 82,
+  "potential_ability": 89,
+  "value": 51000,
+  "contract": {
+    "salary": 33696,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

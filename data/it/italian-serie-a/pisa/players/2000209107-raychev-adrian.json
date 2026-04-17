@@ -1,0 +1,29 @@
+{
+  "id": 2000209107,
+  "first_name": "Adrian",
+  "last_name": "Raychev",
+  "birth_date": "2006-04-19",
+  "country_id": 760,
+  "club_id": 2215,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 100,
+  "value": 260000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2216,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2000377990,
+  "first_name": "Fabrizio",
+  "last_name": "Baruja",
+  "birth_date": "2006-08-12",
+  "country_id": 1655,
+  "club_id": 102924,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 112,
+  "value": 408000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 5280216,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 13105985,
+  "first_name": "Kevin",
+  "last_name": "Omondi",
+  "birth_date": "1990-08-04",
+  "country_id": 25,
+  "club_id": 5340908,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 82,
+  "value": 2000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2020-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

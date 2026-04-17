@@ -1,0 +1,35 @@
+{
+  "id": 2000124136,
+  "first_name": "Egas",
+  "last_name": "Cacintura",
+  "birth_date": "1997-10-29",
+  "country_id": 6,
+  "club_id": 58137861,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 101,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

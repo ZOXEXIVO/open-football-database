@@ -1,0 +1,27 @@
+{
+  "id": 2000110081,
+  "first_name": "Benjamín",
+  "last_name": "Domínguez",
+  "birth_date": "2003-09-19",
+  "country_id": 1649,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 106,
+  "potential_ability": 125,
+  "value": 8000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

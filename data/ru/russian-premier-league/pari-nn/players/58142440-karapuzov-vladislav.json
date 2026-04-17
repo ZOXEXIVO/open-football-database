@@ -1,0 +1,33 @@
+{
+  "id": 58142440,
+  "first_name": "Vladislav",
+  "last_name": "Karapuzov",
+  "birth_date": "2000-01-06",
+  "country_id": 791,
+  "club_id": 58145944,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 89,
+  "value": 361000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1533,
+    "expiration": "2026-06-10",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

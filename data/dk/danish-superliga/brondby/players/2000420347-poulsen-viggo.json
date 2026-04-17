@@ -1,0 +1,27 @@
+{
+  "id": 2000420347,
+  "first_name": "Viggo",
+  "last_name": "Poulsen",
+  "birth_date": "2008-04-07",
+  "country_id": 764,
+  "club_id": 496,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 113,
+  "value": 600000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

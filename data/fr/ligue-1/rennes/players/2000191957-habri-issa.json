@@ -1,0 +1,27 @@
+{
+  "id": 2000191957,
+  "first_name": "Issa",
+  "last_name": "Habri",
+  "birth_date": "2006-01-06",
+  "country_id": 34,
+  "club_id": 884,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 111,
+  "value": 42000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

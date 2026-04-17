@@ -1,0 +1,27 @@
+{
+  "id": 2000443162,
+  "first_name": "Alejandro",
+  "last_name": "Leiva",
+  "birth_date": "2005-02-10",
+  "country_id": 1649,
+  "club_id": 78,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 122,
+  "value": 310000,
+  "contract": {
+    "salary": 4264,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

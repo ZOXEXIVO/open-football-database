@@ -1,0 +1,29 @@
+{
+  "id": 2000371821,
+  "first_name": "Miloš",
+  "last_name": "Jović",
+  "birth_date": "2006-05-22",
+  "country_id": 802,
+  "club_id": 1141,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 115,
+  "value": 1000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 62030404,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

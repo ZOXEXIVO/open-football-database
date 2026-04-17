@@ -1,0 +1,29 @@
+{
+  "id": 2000217479,
+  "first_name": "Cavad",
+  "last_name": "Kərimov",
+  "birth_date": "2004-07-16",
+  "country_id": 756,
+  "club_id": 59008177,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 90,
+  "value": 87000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 59114387,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

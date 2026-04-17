@@ -1,0 +1,29 @@
+{
+  "id": 2000179810,
+  "first_name": "Karl",
+  "last_name": "Wendt",
+  "birth_date": "2005-07-05",
+  "country_id": 797,
+  "club_id": 715912,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": 99,
+  "value": 256000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1844,
+    "expiration": "2026-07-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

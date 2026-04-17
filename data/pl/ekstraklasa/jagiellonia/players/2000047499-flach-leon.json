@@ -1,0 +1,35 @@
+{
+  "id": 2000047499,
+  "first_name": "Leon",
+  "last_name": "Flach",
+  "birth_date": "2001-02-28",
+  "country_id": 390,
+  "club_id": 710052,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 107,
+  "value": 147000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

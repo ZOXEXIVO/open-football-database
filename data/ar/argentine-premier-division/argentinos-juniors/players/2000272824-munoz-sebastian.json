@@ -1,0 +1,27 @@
+{
+  "id": 2000272824,
+  "first_name": "Sebastián",
+  "last_name": "Muñoz",
+  "birth_date": "2006-01-20",
+  "country_id": 1649,
+  "club_id": 78,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 104,
+  "value": 236000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

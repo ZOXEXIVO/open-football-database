@@ -1,0 +1,39 @@
+{
+  "id": 2000045509,
+  "first_name": "Antoine",
+  "last_name": "Hainaut",
+  "birth_date": "2002-02-18",
+  "country_id": 769,
+  "club_id": 1179,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 83,
+  "potential_ability": 100,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

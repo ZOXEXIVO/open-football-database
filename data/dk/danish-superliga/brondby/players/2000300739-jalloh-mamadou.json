@@ -1,0 +1,29 @@
+{
+  "id": 2000300739,
+  "first_name": "Mamadou",
+  "last_name": "Jalloh",
+  "birth_date": "2006-11-29",
+  "country_id": 764,
+  "club_id": 496,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 106,
+  "value": 107000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300376,
+    "expiration": "2026-11-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

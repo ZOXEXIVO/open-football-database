@@ -1,0 +1,41 @@
+{
+  "id": 55070234,
+  "first_name": "Murilo",
+  "last_name": "",
+  "birth_date": "1995-03-08",
+  "country_id": 1651,
+  "club_id": 135531,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 91,
+  "value": 59000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 108986,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

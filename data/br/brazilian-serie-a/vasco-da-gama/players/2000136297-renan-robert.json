@@ -1,0 +1,29 @@
+{
+  "id": 2000136297,
+  "first_name": "Robert",
+  "last_name": "Renan",
+  "birth_date": "2003-10-11",
+  "country_id": 1651,
+  "club_id": 1301108,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 124,
+  "potential_ability": 143,
+  "value": 4000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 339,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

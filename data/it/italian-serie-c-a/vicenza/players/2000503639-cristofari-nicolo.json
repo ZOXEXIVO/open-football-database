@@ -1,0 +1,27 @@
+{
+  "id": 2000503639,
+  "first_name": "Nicolò",
+  "last_name": "Cristofari",
+  "birth_date": "2009-02-12",
+  "country_id": 776,
+  "club_id": 1181,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 121,
+  "value": 9000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2039-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000266295,
+  "first_name": "Andrés",
+  "last_name": "Celenza",
+  "birth_date": "2007-01-20",
+  "country_id": 776,
+  "club_id": 1147,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 84,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43204771,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

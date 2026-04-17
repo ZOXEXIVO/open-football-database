@@ -1,0 +1,27 @@
+{
+  "id": 2000515446,
+  "first_name": "Ian",
+  "last_name": "Alegria",
+  "birth_date": "2008-05-03",
+  "country_id": 1652,
+  "club_id": 130780,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 101,
+  "value": 80000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 85139014,
+  "first_name": "Kylian",
+  "last_name": "Mbappé",
+  "birth_date": "1998-12-20",
+  "country_id": 769,
+  "club_id": 1736,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 158,
+  "potential_ability": 160,
+  "value": 175000000,
+  "contract": {
+    "salary": 25844000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

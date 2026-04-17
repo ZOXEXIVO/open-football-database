@@ -1,0 +1,29 @@
+{
+  "id": 2000252303,
+  "first_name": "Kendry",
+  "last_name": "Páez",
+  "birth_date": "2007-05-04",
+  "country_id": 1654,
+  "club_id": 630,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 147,
+  "value": 21000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 94,
+    "expiration": "2027-06-30",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  }
+}

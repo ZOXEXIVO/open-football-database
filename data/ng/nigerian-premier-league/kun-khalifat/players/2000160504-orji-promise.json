@@ -1,0 +1,27 @@
+{
+  "id": 2000160504,
+  "first_name": "Promise",
+  "last_name": "Orji",
+  "birth_date": "1994-12-26",
+  "country_id": 38,
+  "club_id": 2000199402,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 66,
+  "value": 0,
+  "contract": {
+    "salary": 832,
+    "expiration": "2026-08-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

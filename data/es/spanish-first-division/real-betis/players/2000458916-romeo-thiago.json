@@ -1,0 +1,37 @@
+{
+  "id": 2000458916,
+  "first_name": "Thiago",
+  "last_name": "Romeo",
+  "birth_date": "2008-08-05",
+  "country_id": 1653,
+  "club_id": 1733,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 116,
+  "value": 135000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 67276729,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

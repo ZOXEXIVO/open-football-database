@@ -1,0 +1,23 @@
+{
+  "id": 2000510040,
+  "first_name": "Gabriele",
+  "last_name": "Giacalone",
+  "birth_date": "2008-10-24",
+  "country_id": 776,
+  "club_id": 1158,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 98,
+  "value": 56000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2038-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

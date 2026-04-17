@@ -1,0 +1,33 @@
+{
+  "id": 14241915,
+  "first_name": "Maximiliano",
+  "last_name": "Zalazar",
+  "birth_date": "2001-03-08",
+  "country_id": 1649,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 127,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 87,
+    "expiration": "2026-12-31",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

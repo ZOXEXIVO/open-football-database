@@ -1,0 +1,29 @@
+{
+  "id": 13227290,
+  "first_name": "Alieu",
+  "last_name": "Fadera",
+  "birth_date": "2001-11-03",
+  "country_id": 20,
+  "club_id": 1123,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": 114,
+  "value": 9000000,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3800256,
+    "expiration": "2026-06-30",
+    "salary": 728000,
+    "wage_contribution_pct": 100
+  }
+}

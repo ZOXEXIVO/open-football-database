@@ -1,0 +1,27 @@
+{
+  "id": 54002026,
+  "first_name": "Adam",
+  "last_name": "Frączczak",
+  "birth_date": "1987-08-07",
+  "country_id": 787,
+  "club_id": 1459,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 113,
+  "value": 1000,
+  "contract": {
+    "salary": 29224,
+    "expiration": "2026-07-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

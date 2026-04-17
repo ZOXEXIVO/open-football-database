@@ -1,0 +1,31 @@
+{
+  "id": 98059228,
+  "first_name": "Donat",
+  "last_name": "Rrudhani",
+  "birth_date": "1999-05-02",
+  "country_id": 802,
+  "club_id": 1852,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 100,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

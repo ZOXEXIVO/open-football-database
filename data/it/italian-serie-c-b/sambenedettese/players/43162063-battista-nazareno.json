@@ -1,0 +1,29 @@
+{
+  "id": 43162063,
+  "first_name": "Nazareno",
+  "last_name": "Battista",
+  "birth_date": "1998-04-13",
+  "country_id": 776,
+  "club_id": 700036,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 56,
+  "potential_ability": 67,
+  "value": 22000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1104,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

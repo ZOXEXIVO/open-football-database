@@ -1,0 +1,29 @@
+{
+  "id": 78063239,
+  "first_name": "Thiago",
+  "last_name": "Cardozo",
+  "birth_date": "1996-07-31",
+  "country_id": 1657,
+  "club_id": 102467,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 102,
+  "potential_ability": 106,
+  "value": 2000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 81,
+    "expiration": "2026-12-31",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

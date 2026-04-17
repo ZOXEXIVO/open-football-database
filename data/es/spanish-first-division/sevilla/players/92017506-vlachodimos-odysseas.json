@@ -1,0 +1,29 @@
+{
+  "id": 92017506,
+  "first_name": "Odysseas",
+  "last_name": "Vlachodimos",
+  "birth_date": "1994-04-26",
+  "country_id": 772,
+  "club_id": 688,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 124,
+  "potential_ability": 127,
+  "value": 23000000,
+  "contract": {
+    "salary": 2340000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1759,
+    "expiration": "2026-06-30",
+    "salary": 2340000,
+    "wage_contribution_pct": 100
+  }
+}

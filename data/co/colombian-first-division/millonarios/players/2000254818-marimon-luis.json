@@ -1,0 +1,29 @@
+{
+  "id": 2000254818,
+  "first_name": "Luis",
+  "last_name": "Marimón",
+  "birth_date": "2004-03-18",
+  "country_id": 1653,
+  "club_id": 426,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 94,
+  "potential_ability": 109,
+  "value": 570000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 76033284,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

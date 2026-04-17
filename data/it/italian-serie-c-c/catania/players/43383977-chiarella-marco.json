@@ -1,0 +1,33 @@
+{
+  "id": 43383977,
+  "first_name": "Marco",
+  "last_name": "Chiarella",
+  "birth_date": "2002-08-14",
+  "country_id": 776,
+  "club_id": 2193,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 86,
+  "value": 91000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7983747,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

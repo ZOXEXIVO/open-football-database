@@ -1,0 +1,29 @@
+{
+  "id": 67252958,
+  "first_name": "Miguel",
+  "last_name": "De la Fuente",
+  "birth_date": "1999-09-03",
+  "country_id": 796,
+  "club_id": 1678,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 87,
+  "potential_ability": 108,
+  "value": 3000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1661,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  }
+}

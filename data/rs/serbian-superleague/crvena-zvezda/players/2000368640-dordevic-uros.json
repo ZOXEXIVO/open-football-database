@@ -1,0 +1,33 @@
+{
+  "id": 2000368640,
+  "first_name": "Uroš",
+  "last_name": "Đorđević",
+  "birth_date": "2007-11-30",
+  "country_id": 802,
+  "club_id": 1955,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 137,
+  "value": 688000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1301381,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 15059041,
+  "first_name": "Daniel",
+  "last_name": "Arzani",
+  "birth_date": "1999-01-04",
+  "country_id": 1435,
+  "club_id": 1055,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 113,
+  "value": 314000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 15051934,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

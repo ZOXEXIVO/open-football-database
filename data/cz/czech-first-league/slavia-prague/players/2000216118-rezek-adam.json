@@ -1,0 +1,28 @@
+{
+  "id": 2000216118,
+  "first_name": "Adam",
+  "last_name": "Rezek",
+  "birth_date": "2005-11-21",
+  "country_id": 763,
+  "club_id": 474,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 110,
+  "value": 71000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2035-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 25001307,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

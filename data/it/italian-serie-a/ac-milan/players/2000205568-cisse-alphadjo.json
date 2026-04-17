@@ -1,0 +1,33 @@
+{
+  "id": 2000205568,
+  "first_name": "Alphadjo",
+  "last_name": "Cissé",
+  "birth_date": "2006-10-22",
+  "country_id": 776,
+  "club_id": 1099,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 107,
+  "potential_ability": 135,
+  "value": 3000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1119,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

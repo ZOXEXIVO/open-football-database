@@ -1,0 +1,29 @@
+{
+  "id": 2000098058,
+  "first_name": "Federico",
+  "last_name": "Magro",
+  "birth_date": "2005-01-10",
+  "country_id": 776,
+  "club_id": 2201,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 132,
+  "value": 400000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1131,
+    "expiration": "2026-06-30",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  }
+}

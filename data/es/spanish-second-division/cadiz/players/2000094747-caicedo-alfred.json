@@ -1,0 +1,33 @@
+{
+  "id": 2000094747,
+  "first_name": "Alfred",
+  "last_name": "Caicedo",
+  "birth_date": "2004-09-10",
+  "country_id": 1654,
+  "club_id": 2000173149,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 93,
+  "value": 661000,
+  "contract": {
+    "salary": 33696,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1682,
+    "expiration": "2026-06-30",
+    "salary": 33696,
+    "wage_contribution_pct": 100
+  }
+}

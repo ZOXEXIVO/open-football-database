@@ -1,0 +1,29 @@
+{
+  "id": 19393729,
+  "first_name": "João",
+  "last_name": "Maistro",
+  "birth_date": "2000-08-04",
+  "country_id": 1651,
+  "club_id": 301151,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 87,
+  "value": 90000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 107208,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

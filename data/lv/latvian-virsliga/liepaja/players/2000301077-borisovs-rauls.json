@@ -1,0 +1,29 @@
+{
+  "id": 2000301077,
+  "first_name": "Rauls",
+  "last_name": "Borisovs",
+  "birth_date": "2006-09-20",
+  "country_id": 777,
+  "club_id": 8404703,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 80,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2036-06-30",
+    "started": "2025-07-01",
+    "contract_type": "Amateur"
+  },
+  "loan": {
+    "to_club_id": 47073332,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

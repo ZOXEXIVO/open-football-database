@@ -1,0 +1,27 @@
+{
+  "id": 2000317400,
+  "first_name": "Nassor",
+  "last_name": "Shikokoti",
+  "birth_date": "2007-06-27",
+  "country_id": 25,
+  "club_id": 2000200690,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 49,
+  "potential_ability": 79,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2037-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

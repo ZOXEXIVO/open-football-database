@@ -1,0 +1,29 @@
+{
+  "id": 2000075986,
+  "first_name": "Brite",
+  "last_name": "Ihuomah",
+  "birth_date": "2003-02-17",
+  "country_id": 782,
+  "club_id": 1247,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 79,
+  "value": 6000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "loan": {
+    "to_club_id": 1251,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

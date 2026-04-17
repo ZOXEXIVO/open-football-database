@@ -1,0 +1,33 @@
+{
+  "id": 2000130070,
+  "first_name": "Federico",
+  "last_name": "Valentini",
+  "birth_date": "2005-04-04",
+  "country_id": 776,
+  "club_id": 1120,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 107,
+  "value": 278000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 43106386,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

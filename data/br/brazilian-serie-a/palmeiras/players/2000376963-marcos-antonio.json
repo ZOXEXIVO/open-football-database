@@ -1,0 +1,31 @@
+{
+  "id": 2000376963,
+  "first_name": "Antônio",
+  "last_name": "Marcos",
+  "birth_date": "2007-06-25",
+  "country_id": 1651,
+  "club_id": 329,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 86,
+  "potential_ability": 125,
+  "value": 239000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

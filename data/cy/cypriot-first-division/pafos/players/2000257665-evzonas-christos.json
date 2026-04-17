@@ -1,0 +1,33 @@
+{
+  "id": 2000257665,
+  "first_name": "Christos",
+  "last_name": "Evzonas",
+  "birth_date": "2005-04-21",
+  "country_id": 762,
+  "club_id": 26031118,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 71,
+  "value": 14000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 458,
+    "expiration": "2026-05-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

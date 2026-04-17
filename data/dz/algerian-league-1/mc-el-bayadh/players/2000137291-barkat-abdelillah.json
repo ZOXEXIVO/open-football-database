@@ -1,0 +1,31 @@
+{
+  "id": 2000137291,
+  "first_name": "Abdelillah",
+  "last_name": "Barkat",
+  "birth_date": "1996-08-08",
+  "country_id": 5,
+  "club_id": 2000183368,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 68,
+  "value": 32000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

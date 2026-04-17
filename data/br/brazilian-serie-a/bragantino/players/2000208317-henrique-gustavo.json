@@ -1,0 +1,28 @@
+{
+  "id": 2000208317,
+  "first_name": "Gustavo",
+  "last_name": "Henrique",
+  "birth_date": "2005-10-18",
+  "country_id": 1651,
+  "club_id": 317,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 122,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-03-31",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 328,
+    "expiration": "2026-11-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

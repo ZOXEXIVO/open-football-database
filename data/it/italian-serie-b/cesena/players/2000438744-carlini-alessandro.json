@@ -1,0 +1,33 @@
+{
+  "id": 2000438744,
+  "first_name": "Alessandro",
+  "last_name": "Carlini",
+  "birth_date": "2007-01-11",
+  "country_id": 776,
+  "club_id": 1120,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 94,
+  "value": 26000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1179,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

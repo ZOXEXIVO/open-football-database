@@ -1,0 +1,32 @@
+{
+  "id": 2000169157,
+  "first_name": "Ryo",
+  "last_name": "Tanada",
+  "birth_date": "2003-06-19",
+  "country_id": 116,
+  "club_id": 1193,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 102,
+  "value": 13000,
+  "contract": {
+    "salary": 35152,
+    "expiration": "2026-01-31",
+    "started": "2025-01-08"
+  },
+  "loan": {
+    "to_club_id": 107354,
+    "expiration": "2026-01-06",
+    "salary": 35152,
+    "wage_contribution_pct": 100
+  }
+}

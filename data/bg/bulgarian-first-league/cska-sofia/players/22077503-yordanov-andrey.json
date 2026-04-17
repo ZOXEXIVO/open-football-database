@@ -1,0 +1,31 @@
+{
+  "id": 22077503,
+  "first_name": "Andrey",
+  "last_name": "Yordanov",
+  "birth_date": "2001-09-06",
+  "country_id": 760,
+  "club_id": 22069955,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 99,
+  "value": 186000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

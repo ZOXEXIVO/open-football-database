@@ -1,0 +1,29 @@
+{
+  "id": 2000300910,
+  "first_name": "Michał",
+  "last_name": "Sienicki",
+  "birth_date": "2006-01-18",
+  "country_id": 787,
+  "club_id": 129565,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 82,
+  "value": 70000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000122073,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

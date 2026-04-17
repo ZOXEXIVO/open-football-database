@@ -1,0 +1,27 @@
+{
+  "id": 2000143020,
+  "first_name": "Adrián",
+  "last_name": "Niño",
+  "birth_date": "2004-06-19",
+  "country_id": 796,
+  "club_id": 2096,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 88,
+  "potential_ability": 104,
+  "value": 4000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

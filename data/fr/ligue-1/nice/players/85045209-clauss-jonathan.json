@@ -1,0 +1,30 @@
+{
+  "id": 85045209,
+  "first_name": "Jonathan",
+  "last_name": "Clauss",
+  "birth_date": "1992-09-25",
+  "country_id": 769,
+  "club_id": 862,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 115,
+  "potential_ability": 127,
+  "contract": {
+    "salary": 2132000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

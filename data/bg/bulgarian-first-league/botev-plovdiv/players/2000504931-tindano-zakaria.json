@@ -1,0 +1,37 @@
+{
+  "id": 2000504931,
+  "first_name": "Zakaria",
+  "last_name": "Tindano",
+  "birth_date": "2007-01-30",
+  "country_id": 24,
+  "club_id": 130338,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 107,
+  "value": 83000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 22033833,
+    "expiration": "2026-06-30",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

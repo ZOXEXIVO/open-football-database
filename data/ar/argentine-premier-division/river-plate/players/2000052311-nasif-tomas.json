@@ -1,0 +1,29 @@
+{
+  "id": 2000052311,
+  "first_name": "Tomás",
+  "last_name": "Nasif",
+  "birth_date": "2004-01-02",
+  "country_id": 1649,
+  "club_id": 94,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 108,
+  "potential_ability": 128,
+  "value": 2000000,
+  "contract": {
+    "salary": 22776,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 92,
+    "expiration": "2026-12-31",
+    "salary": 22776,
+    "wage_contribution_pct": 100
+  }
+}

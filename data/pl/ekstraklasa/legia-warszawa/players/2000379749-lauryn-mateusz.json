@@ -1,0 +1,31 @@
+{
+  "id": 2000379749,
+  "first_name": "Mateusz",
+  "last_name": "Lauryn",
+  "birth_date": "2008-03-28",
+  "country_id": 787,
+  "club_id": 1456,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 114,
+  "value": 101000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

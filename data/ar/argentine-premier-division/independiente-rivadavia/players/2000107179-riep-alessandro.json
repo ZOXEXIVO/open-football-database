@@ -1,0 +1,33 @@
+{
+  "id": 2000107179,
+  "first_name": "Alessandro",
+  "last_name": "Riep",
+  "birth_date": "2003-07-03",
+  "country_id": 1652,
+  "club_id": 130778,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 107,
+  "value": 313000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2033-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 3101453,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}

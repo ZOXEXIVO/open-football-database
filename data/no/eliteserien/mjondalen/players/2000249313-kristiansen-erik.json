@@ -1,0 +1,27 @@
+{
+  "id": 2000249313,
+  "first_name": "Erik",
+  "last_name": "Kristiansen",
+  "birth_date": "2003-10-05",
+  "country_id": 786,
+  "club_id": 1351,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 85,
+  "value": 30000,
+  "contract": {
+    "salary": 5616,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000441263,
+  "first_name": "Ernest",
+  "last_name": "",
+  "birth_date": "2006-12-22",
+  "country_id": 1651,
+  "club_id": 333,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 92,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 322,
+    "expiration": "2026-12-31",
+    "salary": 0,
+    "wage_contribution_pct": 100
+  }
+}
