@@ -31,6 +31,8 @@ use std::fs::{self, File};
 use std::io::{BufWriter, Write};
 use std::path::{Path, PathBuf};
 
+use std::collections::HashSet;
+
 use anyhow::{Context, Result};
 use flate2::Compression;
 use flate2::write::GzEncoder;
@@ -172,10 +174,48 @@ fn main() -> Result<()> {
                     });
                     for player_path in player_files {
                         let v = read_json(&player_path)?;
+                        validate_player_history(&v, &player_path)?;
                         players.push(v);
                     }
                 }
             }
+        }
+    }
+
+    // Cross-check every `history[].club_id` against the loaded club set.
+    // Unknown ids still compile (the hydrator tolerates them by rendering empty
+    // club/league cells) but almost always indicate a typo in scraper output.
+    let known_club_ids: HashSet<u64> = clubs
+        .iter()
+        .filter_map(|c| c.get("id").and_then(|v| v.as_u64()))
+        .collect();
+    let mut unknown_refs: Vec<(u64, u64)> = Vec::new();
+    for p in &players {
+        let Some(pid) = p.get("id").and_then(|v| v.as_u64()) else {
+            continue;
+        };
+        let Some(history) = p.get("history").and_then(|v| v.as_array()) else {
+            continue;
+        };
+        for item in history {
+            if let Some(cid) = item.get("c").and_then(|v| v.as_u64()) {
+                if !known_club_ids.contains(&cid) {
+                    unknown_refs.push((pid, cid));
+                }
+            }
+        }
+    }
+    if !unknown_refs.is_empty() {
+        eprintln!(
+            "warning: {} history entr{} reference unknown club_id:",
+            unknown_refs.len(),
+            if unknown_refs.len() == 1 { "y" } else { "ies" },
+        );
+        for (pid, cid) in unknown_refs.iter().take(20) {
+            eprintln!("  player {pid} -> club_id {cid}");
+        }
+        if unknown_refs.len() > 20 {
+            eprintln!("  ... and {} more", unknown_refs.len() - 20);
         }
     }
 
@@ -277,6 +317,37 @@ fn insert_country_code(v: &mut Value, code: &str) {
     if let Some(obj) = v.as_object_mut() {
         obj.insert("country_code".into(), Value::String(code.into()));
     }
+}
+
+/// Sanity-check the `history` field on a player record. Each entry must be an
+/// object with numeric `season` and `club_id`. Shape errors are fatal — they
+/// mean the scraper produced garbage and the resulting DB would silently drop
+/// rows at hydration time.
+fn validate_player_history(v: &Value, path: &Path) -> Result<()> {
+    let Some(history) = v.get("history") else {
+        return Ok(());
+    };
+    let arr = history.as_array().with_context(|| {
+        format!("history in {} must be an array", path.display())
+    })?;
+    for (i, item) in arr.iter().enumerate() {
+        let obj = item.as_object().with_context(|| {
+            format!("history[{i}] in {} must be an object", path.display())
+        })?;
+        obj.get("s").and_then(|v| v.as_u64()).with_context(|| {
+            format!(
+                "history[{i}].s (season) in {} must be an unsigned integer",
+                path.display()
+            )
+        })?;
+        obj.get("c").and_then(|v| v.as_u64()).with_context(|| {
+            format!(
+                "history[{i}].c (club_id) in {} must be an unsigned integer",
+                path.display()
+            )
+        })?;
+    }
+    Ok(())
 }
 
 fn stamp_main_team_league_id(club: &mut Value, league_id: u64) {
