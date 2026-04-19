@@ -9,6 +9,7 @@
 
 use std::collections::HashMap;
 use std::fs;
+use std::io::Write;
 use std::path::{Path, PathBuf};
 use std::thread::sleep;
 use std::time::Duration;
@@ -40,12 +41,26 @@ fn main() -> Result<()> {
         .canonicalize()
         .with_context(|| format!("data dir not found: {}", data_dir.display()))?;
 
+    // Optional 2nd arg: substring filter applied to each player path, so we
+    // can scope a run to a single club (e.g. "real-madrid") without losing
+    // the cross-league club index.
+    let filter = std::env::args().nth(2);
+
     println!("data dir: {}", data_dir.display());
+    if let Some(ref f) = filter {
+        println!("filter: {f}");
+    }
 
     let clubs = build_club_index(&data_dir)?;
     println!("indexed {} clubs by transfermarkt.com id", clubs.len());
 
-    let players = find_player_files(&data_dir);
+    let players: Vec<PathBuf> = find_player_files(&data_dir)
+        .into_iter()
+        .filter(|p| match &filter {
+            Some(f) => p.to_string_lossy().contains(f.as_str()),
+            None => true,
+        })
+        .collect();
     println!("found {} player files", players.len());
 
     let mut updated = 0usize;
@@ -72,11 +87,13 @@ fn main() -> Result<()> {
                     rows,
                     skipped
                 );
+                let _ = std::io::stdout().flush();
                 sleep(Duration::from_millis(REQUEST_DELAY_MS));
             }
             Err(e) => {
                 failed += 1;
                 eprintln!("  [FAIL] {}: {e:#}", short(path, &data_dir));
+                let _ = std::io::stderr().flush();
                 sleep(Duration::from_millis(REQUEST_DELAY_MS));
             }
         }
@@ -233,15 +250,47 @@ fn build_club_index(data_dir: &Path) -> Result<ClubIndex> {
 // ----------------------------------------------------------------------------
 
 fn fetch_player_html(tm_id: &str) -> Result<String> {
-    let url = format!("{TM_HOST}/a/leistungsdatendetails/spieler/{tm_id}");
+    // Primary: direct TM. Fallback: web.archive.org (TM frequently serves a
+    // "Human Verification" 405 to scripted clients; the archive has public
+    // snapshots we can read instead).
     let agent = ureq::AgentBuilder::new()
         .timeout(Duration::from_secs(30))
         .user_agent(USER_AGENT)
         .redirects(5)
         .build();
+
+    let direct_url =
+        format!("{TM_HOST}/a/leistungsdatendetails/spieler/{tm_id}");
+    match try_fetch(&agent, &direct_url) {
+        Ok(body) if body.contains(r#"class="items""#) => return Ok(body),
+        Ok(_) => {} // fall through to archive
+        Err(_) => {}
+    }
+
+    let mut last_err: Option<anyhow::Error> = None;
+    for ts in &["2026", "20251201", "20251001", "20250601"] {
+        let url = format!(
+            "https://web.archive.org/web/{ts}/https://www.transfermarkt.com\
+             /a/leistungsdatendetails/spieler/{tm_id}"
+        );
+        match try_fetch(&agent, &url) {
+            Ok(body) if body.contains(r#"class="items""#) => return Ok(body),
+            Ok(_) => {
+                last_err = Some(anyhow!("archive.org {ts}: no items table"));
+            }
+            Err(e) => last_err = Some(e),
+        }
+    }
+    Err(last_err.unwrap_or_else(|| anyhow!("all fetches failed for tm_id {tm_id}")))
+}
+
+fn try_fetch(agent: &ureq::Agent, url: &str) -> Result<String> {
     let resp = agent
-        .get(&url)
-        .set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
+        .get(url)
+        .set(
+            "Accept",
+            "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        )
         .set("Accept-Language", "en-US,en;q=0.9")
         .call()
         .with_context(|| format!("GET {url}"))?;
@@ -352,12 +401,26 @@ fn parse_season_start(s: &str) -> Option<i64> {
 // ----------------------------------------------------------------------------
 
 fn replace_history(original: &str, rows: &[HistoryRow]) -> Result<String> {
-    let re = Regex::new(r#"(?s)"history":\s*\[[^\]]*\]"#)?;
-    if !re.is_match(original) {
-        return Err(anyhow!("no history block found"));
-    }
     let formatted = format_history(rows);
-    Ok(re.replace(original, formatted.as_str()).into_owned())
+
+    // Existing history block → replace in place.
+    let re = Regex::new(r#"(?s)"history":\s*\[[^\]]*\]"#)?;
+    if re.is_match(original) {
+        return Ok(re.replace(original, formatted.as_str()).into_owned());
+    }
+
+    // No history block: insert before the object's closing `}` (which lives
+    // at column 0 on its own line for every player file in this repo).
+    let insert_re = Regex::new(r"(?s)(,?)\s*\n\}\s*\n?\Z")?;
+    let Some(m) = insert_re.find(original) else {
+        return Err(anyhow!("no closing brace to insert before"));
+    };
+    let mut out = String::with_capacity(original.len() + formatted.len() + 8);
+    out.push_str(&original[..m.start()]);
+    out.push_str(",\n  ");
+    out.push_str(&formatted);
+    out.push_str("\n}\n");
+    Ok(out)
 }
 
 fn format_history(rows: &[HistoryRow]) -> String {
