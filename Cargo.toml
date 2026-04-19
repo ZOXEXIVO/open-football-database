@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
-members = ["compiler"]
+members = ["compiler", "statistics_updater"]
 
 [workspace.package]
 edition = "2024"

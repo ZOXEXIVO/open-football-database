@@ -43,8 +43,8 @@
     }
   ],
   "colors": {
-    "background": "#f47920",
-    "foreground": "#000000"
+    "background": "#003da5",
+    "foreground": "#ffffff"
   },
   "philosophy": "Balanced",
   "facilities": {
@@ -53,5 +53,8 @@
     "academy": "Fairly Basic",
     "recruitment": "Basic"
   },
-  "average_attendance": 5010
+  "average_attendance": 5010,
+  "ids": {
+    "transfermarkt.com": "14589"
+  }
 }
