@@ -9,6 +9,7 @@
 //!   data/{country_code}/{league_slug}/league.json
 //!   data/{country_code}/{league_slug}/{club_slug}/club.json
 //!   data/{country_code}/{league_slug}/{club_slug}/players/*.json
+//!   data/{country_code}/free_agents/*.json   (optional — clubless players)
 //!
 //! Output (gzipped JSON):
 //!   {
@@ -131,8 +132,35 @@ fn main() -> Result<()> {
             names.push(v);
         }
 
+        // Free agents live in `data/{cc}/free_agents/*.json`. They have no
+        // league or club, so they bypass the league/club walk below and feed
+        // straight into the players list. The hydrator distinguishes them
+        // by the absent (or zero) `club_id` field.
+        let free_agents_dir = country_dir.join("free_agents");
+        if free_agents_dir.is_dir() {
+            let mut player_files = read_sorted_dir(&free_agents_dir)?;
+            player_files.retain(|p| {
+                p.is_file()
+                    && p.extension()
+                        .and_then(|s| s.to_str())
+                        .map(|s| s.eq_ignore_ascii_case("json"))
+                        .unwrap_or(false)
+            });
+            for player_path in player_files {
+                let v = read_json(&player_path)?;
+                validate_player_history(&v, &player_path)?;
+                players.push(v);
+            }
+        }
+
         let mut league_entries = read_sorted_dir(&country_dir)?;
-        league_entries.retain(|p| p.is_dir());
+        league_entries.retain(|p| {
+            p.is_dir()
+                && p.file_name()
+                    .and_then(|s| s.to_str())
+                    .map(|s| s != "free_agents")
+                    .unwrap_or(true)
+        });
 
         for league_dir in league_entries {
             let league_json = league_dir.join("league.json");
