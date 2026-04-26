@@ -41,7 +41,7 @@ use serde_json::{Map, Value};
 
 const OUTPUT_VERSION: &str = "0.01";
 const DEFAULT_DATA_DIR: &str = "../data";
-const DEFAULT_OUT_FILE: &str = r"F:\Rust\open-football\src\database\src\data\database.db";
+const DEFAULT_OUT_FILE: &str = r"D:\Projects\open-football\src\database\src\data\database.db";
 
 struct Args {
     data_dir: PathBuf,
@@ -119,6 +119,11 @@ fn main() -> Result<()> {
     let mut names: Vec<Value> = Vec::new();
     let mut players: Vec<Value> = Vec::new();
 
+    // Satellite directories (those with `parent_club` in club.json) are
+    // collected here and folded into their parents after the directory walk
+    // completes — that way merges work regardless of file/directory ordering.
+    let mut satellites: Vec<SatelliteSpec> = Vec::new();
+
     let mut country_entries: Vec<_> = read_sorted_dir(&args.data_dir)?;
     country_entries.retain(|p| p.is_dir());
 
@@ -187,6 +192,39 @@ fn main() -> Result<()> {
 
                 let mut club_val = read_json(&club_json)?;
                 insert_country_code(&mut club_val, &country_code);
+
+                // Satellite directory: defer the merge into its parent until
+                // every directory has been read.
+                if let Some(parent) = take_parent_club(&mut club_val) {
+                    let mut player_records: Vec<Value> = Vec::new();
+                    let players_dir = club_dir.join("players");
+                    if players_dir.is_dir() {
+                        let mut player_files = read_sorted_dir(&players_dir)?;
+                        player_files.retain(|p| {
+                            p.is_file()
+                                && p.extension()
+                                    .and_then(|s| s.to_str())
+                                    .map(|s| s.eq_ignore_ascii_case("json"))
+                                    .unwrap_or(false)
+                        });
+                        for player_path in player_files {
+                            let v = read_json(&player_path)?;
+                            validate_player_history(&v, &player_path)?;
+                            player_records.push(v);
+                        }
+                    }
+
+                    satellites.push(SatelliteSpec {
+                        parent_id: parent.id,
+                        team_type: parent.team_type,
+                        league_id,
+                        satellite_club: club_val,
+                        players: player_records,
+                        source_path: club_json.clone(),
+                    });
+                    continue;
+                }
+
                 stamp_main_team_league_id(&mut club_val, league_id);
                 clubs.push(club_val);
 
@@ -209,6 +247,11 @@ fn main() -> Result<()> {
             }
         }
     }
+
+    // Fold satellite clubs (those with `parent_club`) into their parents.
+    // Done after the full walk so the parent club entry is guaranteed to exist
+    // regardless of directory ordering.
+    apply_satellites(&mut clubs, &mut players, satellites)?;
 
     // Cross-check every `history[].club_id` against the loaded club set.
     // Unknown ids still compile (the hydrator tolerates them by rendering empty
@@ -394,4 +437,143 @@ fn stamp_main_team_league_id(club: &mut Value, league_id: u64) {
             }
         }
     }
+}
+
+/// Pending merge of a satellite directory into a parent club.
+struct SatelliteSpec {
+    /// Parent club id named in `parent_club.id`.
+    parent_id: u64,
+    /// Sub-team slot to fill in the parent (typically `"B"`).
+    team_type: String,
+    /// League id of the directory the satellite lives in — gets stamped onto
+    /// the new sub-team so it competes in that league.
+    league_id: u64,
+    /// The satellite's full club.json (with `parent_club` already removed).
+    satellite_club: Value,
+    /// Player records read from the satellite's `players/` folder.
+    players: Vec<Value>,
+    /// Original satellite club.json path, for error messages.
+    source_path: PathBuf,
+}
+
+/// Pull the `parent_club` field off a club value (if present) and return it.
+/// Mutates `club` so the field doesn't leak into the compiled output.
+struct ParentClubRef {
+    id: u64,
+    team_type: String,
+}
+
+fn take_parent_club(club: &mut Value) -> Option<ParentClubRef> {
+    let obj = club.as_object_mut()?;
+    let raw = obj.remove("parent_club")?;
+    let parent_obj = raw.as_object()?;
+    let id = parent_obj.get("id").and_then(|v| v.as_u64())?;
+    let team_type = parent_obj
+        .get("team_type")
+        .and_then(|v| v.as_str())
+        .unwrap_or("B")
+        .to_string();
+    Some(ParentClubRef { id, team_type })
+}
+
+fn apply_satellites(
+    clubs: &mut [Value],
+    players: &mut Vec<Value>,
+    satellites: Vec<SatelliteSpec>,
+) -> Result<()> {
+    for spec in satellites {
+        let SatelliteSpec {
+            parent_id,
+            team_type,
+            league_id,
+            satellite_club,
+            players: sat_players,
+            source_path,
+        } = spec;
+
+        // Locate the parent club in the already-collected list.
+        let parent = clubs
+            .iter_mut()
+            .find(|c| c.get("id").and_then(|v| v.as_u64()) == Some(parent_id))
+            .with_context(|| {
+                format!(
+                    "{} declares parent_club id {} but no such club was found",
+                    source_path.display(),
+                    parent_id
+                )
+            })?;
+
+        // Pull out the satellite's Main team (the squad we want to attach as
+        // the parent's `team_type` sub-team). Other teams in the satellite's
+        // teams[] (e.g. its own youth side) are dropped — the parent already
+        // has its own youth competitions.
+        let satellite_main = satellite_club
+            .get("teams")
+            .and_then(|v| v.as_array())
+            .and_then(|arr| {
+                arr.iter().find(|t| {
+                    t.get("team_type").and_then(|v| v.as_str()) == Some("Main")
+                })
+            })
+            .cloned()
+            .with_context(|| {
+                format!(
+                    "{} has no Main team — satellite directories must define one",
+                    source_path.display()
+                )
+            })?;
+
+        // Reshape the Main entry into a sub-team of the parent: change its
+        // team_type and stamp the enclosing league id.
+        let mut sub_team = satellite_main;
+        if let Some(obj) = sub_team.as_object_mut() {
+            obj.insert("team_type".into(), Value::String(team_type.clone()));
+            obj.insert("league_id".into(), Value::from(league_id));
+        }
+
+        // Append to parent.teams[].
+        let parent_teams = parent
+            .get_mut("teams")
+            .and_then(|v| v.as_array_mut())
+            .with_context(|| {
+                format!(
+                    "parent club {} has no teams[] to attach satellite to",
+                    parent_id
+                )
+            })?;
+        // If the parent already declares a slot of this team_type (the human-
+        // curated route — e.g. a hand-named "ural-b" entry inside Ural's
+        // club.json), keep that as canonical and skip the auto-append. Players
+        // still get folded in below via team_type_hint.
+        // Otherwise, append the satellite Main as a new sub-team. Two
+        // satellites both targeting the same parent+team_type would silently
+        // race here — flag it.
+        let existing_idx = parent_teams.iter().position(|t| {
+            t.get("team_type").and_then(|v| v.as_str()) == Some(team_type.as_str())
+        });
+        if existing_idx.is_none() {
+            parent_teams.push(sub_team);
+        } else {
+            // Make sure the pre-declared slot has the right league_id stamped.
+            let team = &mut parent_teams[existing_idx.unwrap()];
+            if let Some(obj) = team.as_object_mut() {
+                obj.entry("league_id".to_string())
+                    .or_insert(Value::from(league_id));
+            }
+        }
+
+        // Rewrite each satellite player so it belongs to the parent club but
+        // is forced into the sub-team bucket via team_type_hint.
+        for mut player in sat_players {
+            if let Some(obj) = player.as_object_mut() {
+                obj.insert("club_id".into(), Value::from(parent_id));
+                obj.insert(
+                    "team_type_hint".into(),
+                    Value::String(team_type.clone()),
+                );
+            }
+            players.push(player);
+        }
+    }
+    Ok(())
 }
