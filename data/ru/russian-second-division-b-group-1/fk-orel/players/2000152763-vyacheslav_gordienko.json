@@ -1,0 +1,31 @@
+{
+  "id": 2000152763,
+  "first_name": "Vyacheslav",
+  "last_name": "Gordienko",
+  "birth_date": "2004-06-30",
+  "country_id": 791,
+  "club_id": 130527,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 16
+    },
+    {
+      "code": "WBR",
+      "level": 12
+    },
+    {
+      "code": "MR",
+      "level": 10
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 60,
+  "value": 45000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

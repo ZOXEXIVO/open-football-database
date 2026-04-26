@@ -1,26 +1,33 @@
 {
-  "id": 58126843,
-  "name": "Ural 2",
-  "parent_club": {
-    "id": 1533,
-    "team_type": "Second"
-  },
+  "id": 130527,
+  "name": "Orel",
   "location": {
     "city_id": 791
   },
   "finance": {
-    "balance": 500000
+    "balance": 230000
   },
   "teams": [
     {
-      "id": 58126843,
-      "name": "Ural 2",
-      "slug": "ural-2-yekaterinburg",
+      "id": 130527,
+      "name": "Orel",
+      "slug": "fk-orel",
       "team_type": "Main",
       "reputation": {
         "home": 1500,
         "national": 1500,
         "world": 1500
+      }
+    },
+    {
+      "id": 99130527,
+      "name": "Orel",
+      "slug": "fk-orel-u19",
+      "team_type": "U19",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
       }
     }
   ],
@@ -33,7 +40,7 @@
     "training": "Below Average",
     "youth": "Below Average",
     "academy": "Fairly Basic",
-    "recruitment": "Limited"
+    "recruitment": "Basic"
   },
-  "average_attendance": 1500
+  "average_attendance": 2982
 }
