@@ -14,15 +14,11 @@
   "current_ability": 85,
   "potential_ability": 120,
   "value": 28000,
-  "contract": {
-    "salary": 0,
-    "expiration": "2031-06-30",
+  "contract": {    "expiration": "2031-06-30",
     "started": "2025-07-01"
   },
   "loan": {
     "to_club_id": 65033935,
-    "expiration": "2027-06-30",
-    "salary": 0,
-    "wage_contribution_pct": 100
+    "expiration": "2027-06-30",    "wage_contribution_pct": 100
   }
 }

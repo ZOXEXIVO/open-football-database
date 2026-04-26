@@ -14,16 +14,12 @@
   "current_ability": 75,
   "potential_ability": 95,
   "value": 0,
-  "contract": {
-    "salary": 0,
-    "expiration": "2036-06-30",
+  "contract": {    "expiration": "2036-06-30",
     "started": "2025-07-01",
     "contract_type": "Amateur"
   },
   "loan": {
     "to_club_id": 133178,
-    "expiration": "2027-05-31",
-    "salary": 0,
-    "wage_contribution_pct": 100
+    "expiration": "2027-05-31",    "wage_contribution_pct": 100
   }
 }

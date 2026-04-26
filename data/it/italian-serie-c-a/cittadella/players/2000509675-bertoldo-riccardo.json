@@ -14,9 +14,7 @@
   "current_ability": 60,
   "potential_ability": 70,
   "value": 18000,
-  "contract": {
-    "salary": 0,
-    "expiration": "2038-06-30",
+  "contract": {    "expiration": "2038-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

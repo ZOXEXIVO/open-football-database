@@ -14,16 +14,12 @@
   "current_ability": 60,
   "potential_ability": 97,
   "value": 161000,
-  "contract": {
-    "salary": 0,
-    "expiration": "2027-12-31",
+  "contract": {    "expiration": "2027-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },
   "loan": {
     "to_club_id": 2000235756,
-    "expiration": "2027-11-30",
-    "salary": 0,
-    "wage_contribution_pct": 100
+    "expiration": "2027-11-30",    "wage_contribution_pct": 100
   }
 }

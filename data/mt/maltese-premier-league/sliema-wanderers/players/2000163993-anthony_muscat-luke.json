@@ -22,16 +22,12 @@
   "current_ability": 71,
   "potential_ability": 90,
   "value": 12000,
-  "contract": {
-    "salary": 0,
-    "expiration": "2028-05-31",
+  "contract": {    "expiration": "2028-05-31",
     "started": "2025-07-01",
     "contract_type": "PartTime"
   },
   "loan": {
     "to_club_id": 133178,
-    "expiration": "2027-05-31",
-    "salary": 0,
-    "wage_contribution_pct": 100
+    "expiration": "2027-05-31",    "wage_contribution_pct": 100
   }
 }

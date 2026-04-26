@@ -14,17 +14,13 @@
   "current_ability": 96,
   "potential_ability": 121,
   "value": 780000,
-  "contract": {
-    "salary": 0,
-    "expiration": "2027-12-31",
+  "contract": {    "expiration": "2027-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },
   "loan": {
     "to_club_id": 423,
-    "expiration": "2027-12-31",
-    "salary": 0,
-    "wage_contribution_pct": 100
+    "expiration": "2027-12-31",    "wage_contribution_pct": 100
   },
   "ids": {
     "transfermarkt.com": "1031798"

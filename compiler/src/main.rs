@@ -545,13 +545,39 @@ fn apply_satellites(
         // curated route — e.g. a hand-named "ural-b" entry inside Ural's
         // club.json), keep that as canonical and skip the auto-append. Players
         // still get folded in below via team_type_hint.
-        // Otherwise, append the satellite Main as a new sub-team. Two
-        // satellites both targeting the same parent+team_type would silently
-        // race here — flag it.
+        // Otherwise, append the satellite Main as a new sub-team.
         let existing_idx = parent_teams.iter().position(|t| {
             t.get("team_type").and_then(|v| v.as_str()) == Some(team_type.as_str())
         });
         if existing_idx.is_none() {
+            // Reject id collisions: if some other slot on the parent already
+            // uses this id, the fold would create two teams in the same league
+            // sharing one numeric id — exactly the kind of duplicate that
+            // makes a sub-league render two rows for the same physical team.
+            // Almost always means the parent's club.json predeclares the team
+            // under a different team_type than the satellite's parent_club.
+            let satellite_team_id = sub_team.get("id").and_then(|v| v.as_u64());
+            if let Some(sid) = satellite_team_id {
+                if let Some(conflict) = parent_teams.iter().find(|t| {
+                    t.get("id").and_then(|v| v.as_u64()) == Some(sid)
+                }) {
+                    let other_type = conflict
+                        .get("team_type")
+                        .and_then(|v| v.as_str())
+                        .unwrap_or("?");
+                    anyhow::bail!(
+                        "{} would attach team id {} as {} on parent {}, \
+                         but that id already exists as {}. Either drop the \
+                         predeclared slot from the parent's club.json or \
+                         set parent_club.team_type to match it.",
+                        source_path.display(),
+                        sid,
+                        team_type,
+                        parent_id,
+                        other_type,
+                    );
+                }
+            }
             parent_teams.push(sub_team);
         } else {
             // Make sure the pre-declared slot has the right league_id stamped.
