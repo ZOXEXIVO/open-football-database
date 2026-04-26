@@ -1,0 +1,27 @@
+{
+  "id": 2000091218,
+  "first_name": "Rasul",
+  "last_name": "Zhangurazov",
+  "birth_date": "2001-11-19",
+  "country_id": 791,
+  "club_id": 1521,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 63,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

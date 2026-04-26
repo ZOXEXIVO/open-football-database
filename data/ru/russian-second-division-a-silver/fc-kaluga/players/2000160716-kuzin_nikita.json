@@ -1,0 +1,31 @@
+{
+  "id": 2000160716,
+  "first_name": "Nikita",
+  "last_name": "Kuzin",
+  "birth_date": "2004-11-28",
+  "country_id": 791,
+  "club_id": 58057322,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    },
+    {
+      "code": "ST",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 80,
+  "value": 76000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

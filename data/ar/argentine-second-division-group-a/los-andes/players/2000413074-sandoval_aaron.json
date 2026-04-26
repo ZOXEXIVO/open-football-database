@@ -1,0 +1,27 @@
+{
+  "id": 2000413074,
+  "first_name": "Aaron",
+  "last_name": "Sandoval",
+  "birth_date": "2005-08-10",
+  "country_id": 1649,
+  "club_id": 102495,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 80,
+  "value": 118000,
+  "contract": {
+    "salary": 55,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000041556,
+  "first_name": "Leandro",
+  "last_name": "Lucero",
+  "birth_date": "2003-01-25",
+  "country_id": 1649,
+  "club_id": 3100019,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 79,
+  "value": 1000000,
+  "contract": {
+    "salary": 71,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000234855,
+  "first_name": "Maxim",
+  "last_name": "Balakhonov",
+  "birth_date": "2005-01-15",
+  "country_id": 791,
+  "club_id": 479504,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 67,
+  "value": 44000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

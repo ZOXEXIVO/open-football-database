@@ -1,0 +1,27 @@
+{
+  "id": 2000162247,
+  "first_name": "Mateo",
+  "last_name": "Monserrat",
+  "birth_date": "2005-01-31",
+  "country_id": 1649,
+  "club_id": 86,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 84,
+  "value": 353000,
+  "contract": {
+    "salary": 111,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

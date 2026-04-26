@@ -1,0 +1,27 @@
+{
+  "id": 2000495396,
+  "first_name": "Arseny",
+  "last_name": "Tarasov",
+  "birth_date": "2007-07-15",
+  "country_id": 791,
+  "club_id": 477560,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 89,
+  "value": 18000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

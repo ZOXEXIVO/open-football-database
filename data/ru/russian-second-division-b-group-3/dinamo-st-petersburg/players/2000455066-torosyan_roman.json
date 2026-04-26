@@ -1,0 +1,31 @@
+{
+  "id": 2000455066,
+  "first_name": "Roman",
+  "last_name": "Torosyan",
+  "birth_date": "2006-06-16",
+  "country_id": 791,
+  "club_id": 476489,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 85,
+  "value": 65000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

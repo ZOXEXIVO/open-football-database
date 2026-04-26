@@ -1,0 +1,31 @@
+{
+  "id": 2000329061,
+  "first_name": "Rasul",
+  "last_name": "Guseinov",
+  "birth_date": "2004-12-23",
+  "country_id": 791,
+  "club_id": 58126751,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 64,
+  "value": 70000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

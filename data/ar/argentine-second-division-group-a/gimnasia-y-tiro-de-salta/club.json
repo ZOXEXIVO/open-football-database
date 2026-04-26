@@ -1,0 +1,46 @@
+{
+  "id": 102464,
+  "name": "Gimnasia y Tiro",
+  "location": {
+    "city_id": 1651
+  },
+  "finance": {
+    "balance": 500000
+  },
+  "teams": [
+    {
+      "id": 102464,
+      "name": "Gimnasia y Tiro",
+      "slug": "gimnasia-y-tiro-de-salta",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 99102464,
+      "name": "Gimnasia y Tiro",
+      "slug": "gimnasia-y-tiro-de-salta-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cccccc",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1500
+}

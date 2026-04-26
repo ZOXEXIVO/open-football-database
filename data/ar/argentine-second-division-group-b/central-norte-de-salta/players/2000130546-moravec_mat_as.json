@@ -1,0 +1,27 @@
+{
+  "id": 2000130546,
+  "first_name": "Matías",
+  "last_name": "Moravec",
+  "birth_date": "2001-04-12",
+  "country_id": 1649,
+  "club_id": 14002958,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 75,
+  "value": 216000,
+  "contract": {
+    "salary": 259,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

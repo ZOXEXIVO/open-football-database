@@ -1,0 +1,39 @@
+{
+  "id": 58126843,
+  "name": "Ural 2",
+  "parent_club": {
+    "id": 1533,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 791
+  },
+  "finance": {
+    "balance": 500000
+  },
+  "teams": [
+    {
+      "id": 58126843,
+      "name": "Ural 2",
+      "slug": "ural-2-yekaterinburg",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cccccc",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1500
+}

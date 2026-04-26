@@ -1,0 +1,27 @@
+{
+  "id": 58120002,
+  "first_name": "Alexandr",
+  "last_name": "Smirnov",
+  "birth_date": "1996-04-12",
+  "country_id": 791,
+  "club_id": 130556,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 74,
+  "value": 82000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

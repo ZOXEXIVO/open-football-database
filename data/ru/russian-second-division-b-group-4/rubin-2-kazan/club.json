@@ -1,0 +1,39 @@
+{
+  "id": 8064339,
+  "name": "Rubin 2",
+  "parent_club": {
+    "id": 130509,
+    "team_type": "Second"
+  },
+  "location": {
+    "city_id": 791
+  },
+  "finance": {
+    "balance": 500000
+  },
+  "teams": [
+    {
+      "id": 8064339,
+      "name": "Rubin 2",
+      "slug": "rubin-2-kazan",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cccccc",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1500
+}

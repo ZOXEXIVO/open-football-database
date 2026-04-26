@@ -1,0 +1,27 @@
+{
+  "id": 2000235001,
+  "first_name": "Roman",
+  "last_name": "Shishkov",
+  "birth_date": "2002-08-07",
+  "country_id": 791,
+  "club_id": 58014340,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 65,
+  "value": 119000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

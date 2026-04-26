@@ -1,0 +1,31 @@
+{
+  "id": 2000427745,
+  "first_name": "Ernesto",
+  "last_name": "Pontoriero",
+  "birth_date": "2005-03-03",
+  "country_id": 1649,
+  "club_id": 3101514,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 85,
+  "value": 67000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

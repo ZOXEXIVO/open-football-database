@@ -1,0 +1,35 @@
+{
+  "id": 58152605,
+  "first_name": "Nikita",
+  "last_name": "Zhustjev",
+  "birth_date": "2002-11-23",
+  "country_id": 791,
+  "club_id": 130556,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 16
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "ST",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 62,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

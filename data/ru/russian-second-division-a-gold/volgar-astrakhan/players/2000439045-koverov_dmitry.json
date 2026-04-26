@@ -1,0 +1,27 @@
+{
+  "id": 2000439045,
+  "first_name": "Dmitry",
+  "last_name": "Koverov",
+  "birth_date": "2006-02-16",
+  "country_id": 791,
+  "club_id": 130515,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 81,
+  "value": 52000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

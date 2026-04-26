@@ -1,0 +1,31 @@
+{
+  "id": 2000244410,
+  "first_name": "Semyon",
+  "last_name": "Yemelin",
+  "birth_date": "2004-12-28",
+  "country_id": 791,
+  "club_id": 130497,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 79,
+  "value": 61000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

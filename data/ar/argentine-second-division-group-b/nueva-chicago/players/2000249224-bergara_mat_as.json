@@ -1,0 +1,27 @@
+{
+  "id": 2000249224,
+  "first_name": "Matías",
+  "last_name": "Bergara",
+  "birth_date": "2004-01-14",
+  "country_id": 1649,
+  "club_id": 102486,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 83,
+  "value": 3000000,
+  "contract": {
+    "salary": 259,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

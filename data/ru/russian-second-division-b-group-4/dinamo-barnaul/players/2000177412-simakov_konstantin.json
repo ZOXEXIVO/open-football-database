@@ -1,0 +1,31 @@
+{
+  "id": 2000177412,
+  "first_name": "Konstantin",
+  "last_name": "Simakov",
+  "birth_date": "2004-07-21",
+  "country_id": 791,
+  "club_id": 477174,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    },
+    {
+      "code": "ST",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 65,
+  "value": 32000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

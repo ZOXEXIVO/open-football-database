@@ -1,0 +1,27 @@
+{
+  "id": 2000383867,
+  "first_name": "Georgy",
+  "last_name": "Makarov",
+  "birth_date": "2006-12-26",
+  "country_id": 791,
+  "club_id": 476489,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 86,
+  "value": 66000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

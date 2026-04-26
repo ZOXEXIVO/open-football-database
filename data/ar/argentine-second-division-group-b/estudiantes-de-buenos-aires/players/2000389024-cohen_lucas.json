@@ -1,0 +1,35 @@
+{
+  "id": 2000389024,
+  "first_name": "Lucas",
+  "last_name": "Cohen",
+  "birth_date": "2005-08-20",
+  "country_id": 1649,
+  "club_id": 108531,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 16
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 80,
+  "value": 139000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

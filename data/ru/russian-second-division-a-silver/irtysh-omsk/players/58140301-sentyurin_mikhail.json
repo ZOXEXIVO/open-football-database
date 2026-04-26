@@ -1,0 +1,35 @@
+{
+  "id": 58140301,
+  "first_name": "Mikhail",
+  "last_name": "Sentyurin",
+  "birth_date": "2001-07-20",
+  "country_id": 791,
+  "club_id": 130556,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    },
+    {
+      "code": "AMC",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 63,
+  "value": 12000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

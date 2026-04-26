@@ -1,0 +1,31 @@
+{
+  "id": 2000107432,
+  "first_name": "Lisandro",
+  "last_name": "Montenegro",
+  "birth_date": "2003-03-27",
+  "country_id": 1649,
+  "club_id": 102493,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 16
+    },
+    {
+      "code": "MC",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 85,
+  "value": 2000000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

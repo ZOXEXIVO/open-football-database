@@ -1,0 +1,35 @@
+{
+  "id": 2000133914,
+  "first_name": "Makar",
+  "last_name": "Pestov",
+  "birth_date": "2004-01-13",
+  "country_id": 791,
+  "club_id": 477429,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 70,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

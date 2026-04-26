@@ -1,0 +1,27 @@
+{
+  "id": 2000095241,
+  "first_name": "Agustín",
+  "last_name": "Graneros",
+  "birth_date": "2001-05-31",
+  "country_id": 1649,
+  "club_id": 102466,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 73,
+  "value": 23000,
+  "contract": {
+    "salary": 96,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

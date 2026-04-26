@@ -1,0 +1,31 @@
+{
+  "id": 2000328034,
+  "first_name": "Leonid",
+  "last_name": "Belov",
+  "birth_date": "2005-12-30",
+  "country_id": 791,
+  "club_id": 58126843,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 70,
+  "value": 15000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

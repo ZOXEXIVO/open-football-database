@@ -1,0 +1,27 @@
+{
+  "id": 14123596,
+  "first_name": "Gustavo",
+  "last_name": "Canto",
+  "birth_date": "1994-02-25",
+  "country_id": 1649,
+  "club_id": 86,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 75,
+  "value": 0,
+  "contract": {
+    "salary": 1000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

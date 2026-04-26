@@ -1,0 +1,31 @@
+{
+  "id": 2000371190,
+  "first_name": "Yegor",
+  "last_name": "Gurenko",
+  "birth_date": "2007-01-17",
+  "country_id": 791,
+  "club_id": 1519,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    },
+    {
+      "code": "AMC",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 88,
+  "value": 15000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

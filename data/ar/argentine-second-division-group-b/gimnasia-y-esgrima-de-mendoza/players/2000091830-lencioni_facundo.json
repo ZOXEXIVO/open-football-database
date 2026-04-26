@@ -1,0 +1,35 @@
+{
+  "id": 2000091830,
+  "first_name": "Facundo",
+  "last_name": "Lencioni",
+  "birth_date": "2001-02-14",
+  "country_id": 1649,
+  "club_id": 956891,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    },
+    {
+      "code": "AMC",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 71,
+  "value": 1000000,
+  "contract": {
+    "salary": 1000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000244323,
+  "first_name": "David",
+  "last_name": "Sarbashev",
+  "birth_date": "2004-08-20",
+  "country_id": 791,
+  "club_id": 130512,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    },
+    {
+      "code": "AMC",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 67,
+  "value": 24000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

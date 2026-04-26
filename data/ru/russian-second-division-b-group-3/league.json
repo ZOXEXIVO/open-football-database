@@ -1,0 +1,46 @@
+{
+  "id": 2000272305,
+  "enabled": true,
+  "slug": "russian-second-division-b-group-3",
+  "name": "Russian Second Division B Group 3",
+  "reputation": 1500,
+  "tier": 3,
+  "promotion_spots": 1,
+  "relegation_spots": 2,
+  "sub_leagues_competitions": [
+    "U19"
+  ],
+  "league_group": {
+    "name": "B Group 3",
+    "competition": "Second Division",
+    "total_groups": 6
+  },
+  "settings": {
+    "season_starting_half": {
+      "from_day": 15,
+      "from_month": 7,
+      "to_day": 10,
+      "to_month": 12
+    },
+    "season_ending_half": {
+      "from_day": 1,
+      "from_month": 3,
+      "to_day": 1,
+      "to_month": 6
+    }
+  },
+  "foreign_players": [
+    {
+      "country_id": 776,
+      "weight": 2
+    },
+    {
+      "country_id": 758,
+      "weight": 2
+    },
+    {
+      "country_id": 769,
+      "weight": 1
+    }
+  ]
+}

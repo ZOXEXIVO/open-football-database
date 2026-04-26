@@ -1,0 +1,27 @@
+{
+  "id": 2000017176,
+  "first_name": "Sergey",
+  "last_name": "Chibisov",
+  "birth_date": "2000-03-01",
+  "country_id": 791,
+  "club_id": 58057322,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 75,
+  "value": 17000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

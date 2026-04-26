@@ -1,0 +1,39 @@
+{
+  "id": 2000180675,
+  "first_name": "Erik",
+  "last_name": "Gubiev",
+  "birth_date": "2004-10-06",
+  "country_id": 791,
+  "club_id": 58153555,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 16
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 68,
+  "value": 50000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

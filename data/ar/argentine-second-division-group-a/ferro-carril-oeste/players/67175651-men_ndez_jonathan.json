@@ -1,0 +1,27 @@
+{
+  "id": 67175651,
+  "first_name": "Jonathan",
+  "last_name": "Menéndez",
+  "birth_date": "1994-03-05",
+  "country_id": 1649,
+  "club_id": 86,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 85,
+  "value": 490000,
+  "contract": {
+    "salary": 1000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

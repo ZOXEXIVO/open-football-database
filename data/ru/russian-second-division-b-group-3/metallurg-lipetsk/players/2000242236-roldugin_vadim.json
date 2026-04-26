@@ -1,0 +1,35 @@
+{
+  "id": 2000242236,
+  "first_name": "Vadim",
+  "last_name": "Roldugin",
+  "birth_date": "2005-09-10",
+  "country_id": 791,
+  "club_id": 130507,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 16
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 87,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

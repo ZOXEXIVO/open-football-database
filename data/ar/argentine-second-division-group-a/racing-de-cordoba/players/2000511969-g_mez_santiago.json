@@ -1,0 +1,27 @@
+{
+  "id": 2000511969,
+  "first_name": "Santiago",
+  "last_name": "Gómez",
+  "birth_date": "2005-05-20",
+  "country_id": 1649,
+  "club_id": 3102137,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 59,
+  "value": 23000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

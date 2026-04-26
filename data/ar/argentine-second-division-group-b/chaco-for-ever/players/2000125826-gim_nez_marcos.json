@@ -1,0 +1,27 @@
+{
+  "id": 2000125826,
+  "first_name": "Marcos",
+  "last_name": "Giménez",
+  "birth_date": "1997-07-16",
+  "country_id": 1649,
+  "club_id": 108574,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 66,
+  "value": 111000,
+  "contract": {
+    "salary": 348,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

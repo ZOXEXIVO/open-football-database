@@ -1,0 +1,27 @@
+{
+  "id": 2000181990,
+  "first_name": "Tomás",
+  "last_name": "Buenrostro",
+  "birth_date": "2001-02-23",
+  "country_id": 1649,
+  "club_id": 951312,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 72,
+  "value": 5000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

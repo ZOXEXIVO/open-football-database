@@ -1,0 +1,31 @@
+{
+  "id": 2000125856,
+  "first_name": "Thiago",
+  "last_name": "Schiavulli",
+  "birth_date": "2003-09-19",
+  "country_id": 1649,
+  "club_id": 102476,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 78,
+  "value": 299000,
+  "contract": {
+    "salary": 269,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

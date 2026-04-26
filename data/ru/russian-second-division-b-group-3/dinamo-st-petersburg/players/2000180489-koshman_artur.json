@@ -1,0 +1,35 @@
+{
+  "id": 2000180489,
+  "first_name": "Artur",
+  "last_name": "Koshman",
+  "birth_date": "2004-01-18",
+  "country_id": 791,
+  "club_id": 476489,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 16
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 67,
+  "value": 53000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

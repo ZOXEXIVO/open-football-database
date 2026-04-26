@@ -1,0 +1,27 @@
+{
+  "id": 2000048630,
+  "first_name": "Martín",
+  "last_name": "González",
+  "birth_date": "2001-01-13",
+  "country_id": 1649,
+  "club_id": 3101514,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 74,
+  "value": 64000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

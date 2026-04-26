@@ -1,0 +1,27 @@
+{
+  "id": 2000120425,
+  "first_name": "Alan",
+  "last_name": "Cisnero",
+  "birth_date": "2004-12-06",
+  "country_id": 1649,
+  "club_id": 102466,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 85,
+  "value": 333000,
+  "contract": {
+    "salary": 111,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

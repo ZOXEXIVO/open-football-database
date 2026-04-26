@@ -1,0 +1,27 @@
+{
+  "id": 2000052766,
+  "first_name": "Rodrigo",
+  "last_name": "Sosa",
+  "birth_date": "2002-04-25",
+  "country_id": 1649,
+  "club_id": 108517,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 77,
+  "value": 201000,
+  "contract": {
+    "salary": 96,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

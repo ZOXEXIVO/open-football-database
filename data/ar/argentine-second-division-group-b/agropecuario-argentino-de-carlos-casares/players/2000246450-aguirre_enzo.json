@@ -1,0 +1,31 @@
+{
+  "id": 2000246450,
+  "first_name": "Enzo",
+  "last_name": "Aguirre",
+  "birth_date": "2003-08-03",
+  "country_id": 1649,
+  "club_id": 14064697,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 84,
+  "value": 456000,
+  "contract": {
+    "salary": 370,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

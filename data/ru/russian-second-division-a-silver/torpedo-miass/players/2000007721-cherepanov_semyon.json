@@ -1,0 +1,27 @@
+{
+  "id": 2000007721,
+  "first_name": "Semyon",
+  "last_name": "Cherepanov",
+  "birth_date": "2002-07-05",
+  "country_id": 791,
+  "club_id": 130551,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 74,
+  "value": 17000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

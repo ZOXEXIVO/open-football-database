@@ -1,0 +1,27 @@
+{
+  "id": 2000024489,
+  "first_name": "Matteo",
+  "last_name": "Trombini",
+  "birth_date": "2003-04-25",
+  "country_id": 1649,
+  "club_id": 102476,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 81,
+  "value": 367000,
+  "contract": {
+    "salary": 182,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

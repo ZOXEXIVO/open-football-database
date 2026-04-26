@@ -1,0 +1,27 @@
+{
+  "id": 2000112396,
+  "first_name": "Kevin",
+  "last_name": "López",
+  "birth_date": "2001-12-28",
+  "country_id": 1649,
+  "club_id": 102466,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 16
+    }
+  ],
+  "current_ability": 90,
+  "potential_ability": 103,
+  "value": 4000000,
+  "contract": {
+    "salary": 3000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

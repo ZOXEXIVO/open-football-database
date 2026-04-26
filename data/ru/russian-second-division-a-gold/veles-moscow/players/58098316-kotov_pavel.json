@@ -1,0 +1,31 @@
+{
+  "id": 58098316,
+  "first_name": "Pavel",
+  "last_name": "Kotov",
+  "birth_date": "1995-06-21",
+  "country_id": 791,
+  "club_id": 58126756,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 69,
+  "value": 109000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

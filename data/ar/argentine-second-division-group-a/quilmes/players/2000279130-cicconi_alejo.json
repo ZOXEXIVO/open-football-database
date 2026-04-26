@@ -1,0 +1,27 @@
+{
+  "id": 2000279130,
+  "first_name": "Alejo",
+  "last_name": "Cicconi",
+  "birth_date": "2005-02-04",
+  "country_id": 1649,
+  "club_id": 102487,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 70,
+  "value": 75000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

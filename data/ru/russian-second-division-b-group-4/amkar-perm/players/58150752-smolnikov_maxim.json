@@ -1,0 +1,39 @@
+{
+  "id": 58150752,
+  "first_name": "Maxim",
+  "last_name": "Smolnikov",
+  "birth_date": "2000-02-07",
+  "country_id": 791,
+  "club_id": 130500,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 16
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "WBL",
+      "level": 16
+    },
+    {
+      "code": "MC",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 57,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

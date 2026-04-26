@@ -1,0 +1,31 @@
+{
+  "id": 2000050254,
+  "first_name": "Rodrigo",
+  "last_name": "Dinocco",
+  "birth_date": "2002-01-26",
+  "country_id": 1649,
+  "club_id": 3101514,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "MR",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 79,
+  "value": 77000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

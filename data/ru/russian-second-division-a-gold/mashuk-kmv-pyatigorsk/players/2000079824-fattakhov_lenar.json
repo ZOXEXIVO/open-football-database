@@ -1,0 +1,35 @@
+{
+  "id": 2000079824,
+  "first_name": "Lenar",
+  "last_name": "Fattakhov",
+  "birth_date": "2003-05-12",
+  "country_id": 791,
+  "club_id": 476286,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 16
+    },
+    {
+      "code": "AML",
+      "level": 16
+    },
+    {
+      "code": "AMC",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 64,
+  "value": 16000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

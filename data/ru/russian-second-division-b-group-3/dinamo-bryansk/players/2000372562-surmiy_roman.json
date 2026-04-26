@@ -1,0 +1,27 @@
+{
+  "id": 2000372562,
+  "first_name": "Roman",
+  "last_name": "Surmiy",
+  "birth_date": "2005-01-29",
+  "country_id": 791,
+  "club_id": 130524,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 69,
+  "value": 33000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

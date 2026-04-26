@@ -1,0 +1,31 @@
+{
+  "id": 2000337936,
+  "first_name": "Konstantin",
+  "last_name": "Shokhin",
+  "birth_date": "2002-05-24",
+  "country_id": 791,
+  "club_id": 130556,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    },
+    {
+      "code": "AMC",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 60,
+  "value": 11000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

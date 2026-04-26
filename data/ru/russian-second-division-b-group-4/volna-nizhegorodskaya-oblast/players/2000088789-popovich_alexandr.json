@@ -1,0 +1,27 @@
+{
+  "id": 2000088789,
+  "first_name": "Alexandr",
+  "last_name": "Popovich",
+  "birth_date": "2002-12-06",
+  "country_id": 791,
+  "club_id": 58153555,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 77,
+  "value": 65000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

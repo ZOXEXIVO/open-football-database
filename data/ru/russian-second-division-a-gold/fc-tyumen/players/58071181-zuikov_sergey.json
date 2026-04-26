@@ -1,0 +1,31 @@
+{
+  "id": 58071181,
+  "first_name": "Sergey",
+  "last_name": "Zuikov",
+  "birth_date": "1993-09-19",
+  "country_id": 791,
+  "club_id": 1519,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 16
+    },
+    {
+      "code": "DC",
+      "level": 16
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 80,
+  "value": 74000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

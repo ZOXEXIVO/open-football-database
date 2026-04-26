@@ -1,0 +1,35 @@
+{
+  "id": 58113959,
+  "first_name": "Anton",
+  "last_name": "Betyuzhnov",
+  "birth_date": "1997-05-08",
+  "country_id": 791,
+  "club_id": 130517,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 16
+    },
+    {
+      "code": "AMC",
+      "level": 16
+    },
+    {
+      "code": "FC",
+      "level": 16
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 60,
+  "value": 22000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}
