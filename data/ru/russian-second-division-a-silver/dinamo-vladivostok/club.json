@@ -10,7 +10,7 @@
   "teams": [
     {
       "id": 2000101878,
-      "name": "Dinamo",
+      "name": "Dinamo Vladivostok",
       "slug": "dinamo-vladivostok",
       "team_type": "Main",
       "reputation": {
@@ -21,7 +21,7 @@
     },
     {
       "id": 2099101878,
-      "name": "Dinamo",
+      "name": "Dinamo Vladivostok",
       "slug": "dinamo-vladivostok-u19",
       "team_type": "U19",
       "reputation": {
@@ -32,8 +32,8 @@
     }
   ],
   "colors": {
-    "background": "#cccccc",
-    "foreground": "#000000"
+    "background": "#003da5",
+    "foreground": "#ffffff"
   },
   "philosophy": "Balanced",
   "facilities": {
