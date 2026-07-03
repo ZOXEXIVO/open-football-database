@@ -257,9 +257,23 @@ fn main() -> Result<()> {
     // Cross-check every `history[].club_id` against the loaded club set.
     // Unknown ids still compile (the hydrator tolerates them by rendering empty
     // club/league cells) but almost always indicate a typo in scraper output.
+    // Sub-team ids count as known too: a spell at a satellite club (e.g.
+    // Spartak Moscow 2) is referenced by the satellite's own id, which after
+    // folding survives only as a teams[] entry on the parent club.
     let known_club_ids: HashSet<u64> = clubs
         .iter()
-        .filter_map(|c| c.get("id").and_then(|v| v.as_u64()))
+        .flat_map(|c| {
+            c.get("id")
+                .and_then(|v| v.as_u64())
+                .into_iter()
+                .chain(
+                    c.get("teams")
+                        .and_then(|v| v.as_array())
+                        .into_iter()
+                        .flatten()
+                        .filter_map(|t| t.get("id").and_then(|v| v.as_u64())),
+                )
+        })
         .collect();
     let mut unknown_refs: Vec<(u64, u64)> = Vec::new();
     for p in &players {

@@ -30,6 +30,10 @@
     "to_club_id": 1110,
     "expiration": "2027-06-30",    "wage_contribution_pct": 100
   },
+  "history": [
+    { "s": 2025, "c": 1110, "p": 10 },
+    { "s": 2025, "c": 1138, "p": 6 }
+  ],
   "ids": {
     "transfermarkt.com": "930767"
   }

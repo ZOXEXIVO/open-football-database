@@ -26,6 +26,11 @@
     "to_club_id": 700198,
     "expiration": "2027-06-30",    "wage_contribution_pct": 100
   },
+  "history": [
+    { "s": 2020, "c": 1850, "p": 1 },
+    { "s": 2021, "c": 1850, "p": 9 },
+    { "s": 2025, "c": 700198, "p": 2 }
+  ],
   "ids": {
     "transfermarkt.com": "583025"
   }
