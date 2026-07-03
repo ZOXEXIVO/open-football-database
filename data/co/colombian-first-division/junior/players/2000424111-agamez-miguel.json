@@ -30,6 +30,11 @@
     "to_club_id": 5261738,
     "expiration": "2027-12-31",    "wage_contribution_pct": 100
   },
+  "history": [
+    { "s": 2024, "c": 5261738, "p": 10 },
+    { "s": 2025, "c": 419, "p": 2 },
+    { "s": 2026, "c": 5261738, "p": 8 }
+  ],
   "ids": {
     "transfermarkt.com": "1285379"
   }
