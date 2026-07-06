@@ -26,21 +26,15 @@
   "current_ability": 106,
   "potential_ability": 110,
   "value": 223000,
-  "contract": {    "expiration": "2028-06-30",
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },
   "loan": {
     "to_club_id": 72000112,
-    "expiration": "2027-12-31",    "wage_contribution_pct": 100
-  },
-  "history": [
-    { "s": 2022, "c": 20041327, "p": 9 },
-    { "s": 2024, "c": 1690, "p": 13 },
-    { "s": 2025, "c": 1690, "p": 11 },
-    { "s": 2026, "c": 72000112, "p": 6 }
-  ],
-  "ids": {
-    "transfermarkt.com": "972764"
+    "expiration": "2028-06-30",
+    "wage_contribution_pct": 100
   }
 }

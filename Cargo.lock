@@ -655,6 +655,17 @@ dependencies = [
 ]
 
 [[package]]
+name = "transfer_scraper"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "regex",
+ "serde_json",
+ "ureq",
+ "walkdir",
+]
+
+[[package]]
 name = "unicode-ident"
 version = "1.0.24"
 source = "registry+https://github.com/rust-lang/crates.io-index"
