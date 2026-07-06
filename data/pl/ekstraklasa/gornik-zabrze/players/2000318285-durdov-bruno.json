@@ -1,0 +1,43 @@
+{
+  "id": 2000318285,
+  "first_name": "Bruno",
+  "last_name": "Durdov",
+  "birth_date": "2007-12-11",
+  "country_id": 761,
+  "club_id": 1452,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 102,
+  "potential_ability": -8,
+  "value": 3000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 433, "p": 2 },
+    { "s": 2024, "c": 433, "p": 27 },
+    { "s": 2025, "c": 433, "p": 16 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1172620"
+  }
+}

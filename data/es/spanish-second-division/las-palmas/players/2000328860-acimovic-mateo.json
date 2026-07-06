@@ -1,0 +1,29 @@
+{
+  "id": 2000328860,
+  "first_name": "Mateo",
+  "last_name": "Aćimović",
+  "birth_date": "2007-10-05",
+  "country_id": 795,
+  "club_id": 1772,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 90,
+  "potential_ability": -75,
+  "value": 757000,
+  "contract": {    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

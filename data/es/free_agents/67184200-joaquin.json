@@ -1,0 +1,37 @@
+{
+  "id": 67184200,
+  "first_name": "Joaquín",
+  "last_name": "",
+  "birth_date": "1996-05-31",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 120,
+  "potential_ability": 138,
+  "value": 1000000,
+  "ids": {
+    "transfermarkt.com": "221321"
+  },
+  "history": [
+    { "s": 2018, "c": 1747, "p": 13, "g": 1 },
+    { "s": 2019, "c": 1747, "p": 17, "g": 1 },
+    { "s": 2020, "c": 1747, "p": 28, "g": 2 },
+    { "s": 2022, "c": 1747, "p": 27, "g": 1 }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000241108,
+  "first_name": "Yutaka",
+  "last_name": "Michiwaki",
+  "birth_date": "2006-04-05",
+  "country_id": 116,
+  "club_id": 1183,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -75,
+  "value": 782000,
+  "contract": {    "expiration": "2028-01-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 539089,
+    "expiration": "2027-01-18",    "wage_contribution_pct": 100
+  },
+  "ids": {
+    "transfermarkt.com": "914195"
+  }
+}

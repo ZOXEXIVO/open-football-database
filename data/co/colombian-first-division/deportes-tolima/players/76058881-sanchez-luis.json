@@ -1,0 +1,41 @@
+{
+  "id": 76058881,
+  "first_name": "Luis",
+  "last_name": "Sánchez",
+  "birth_date": "2000-09-18",
+  "country_id": 1653,
+  "club_id": 429,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 130,
+  "value": 660000,
+  "contract": {    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 420,
+    "expiration": "2027-06-30",    "wage_contribution_pct": 100
+  }
+}

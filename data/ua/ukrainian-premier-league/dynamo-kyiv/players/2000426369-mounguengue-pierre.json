@@ -1,0 +1,25 @@
+{
+  "id": 2000426369,
+  "first_name": "Pierre",
+  "last_name": "Mounguengue",
+  "birth_date": "2008-01-03",
+  "country_id": 769,
+  "club_id": 1885,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -8,
+  "value": 1000000,
+  "contract": {    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

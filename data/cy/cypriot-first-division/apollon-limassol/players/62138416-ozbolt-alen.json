@@ -1,0 +1,40 @@
+{
+  "id": 62138416,
+  "first_name": "Alen",
+  "last_name": "Ožbolt",
+  "birth_date": "1996-06-24",
+  "country_id": 795,
+  "club_id": 452,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 120,
+  "value": 2000000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "245070"
+  },
+  "history": [
+    { "s": 2024, "c": 979, "p": 20, "g": 2 },
+    { "s": 2025, "c": 979, "p": 20, "g": 10 }
+  ]
+}

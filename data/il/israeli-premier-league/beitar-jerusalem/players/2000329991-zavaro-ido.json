@@ -1,0 +1,25 @@
+{
+  "id": 2000329991,
+  "first_name": "Ido",
+  "last_name": "Zavaro",
+  "birth_date": "2008-03-06",
+  "country_id": 775,
+  "club_id": 1083,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -6,
+  "value": 275000,
+  "contract": {    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

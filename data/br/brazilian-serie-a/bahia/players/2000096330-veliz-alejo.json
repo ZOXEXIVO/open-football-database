@@ -1,0 +1,42 @@
+{
+  "id": 2000096330,
+  "first_name": "Alejo",
+  "last_name": "Veliz",
+  "birth_date": "2003-09-19",
+  "country_id": 1649,
+  "club_id": 315,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 128,
+  "potential_ability": 150,
+  "value": 11000000,
+  "contract": {
+    "salary": 1560000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 95,
+    "expiration": "2027-06-30",
+    "salary": 1560000,
+    "wage_contribution_pct": 100,
+    "future_fee_obligation": true
+  },
+  "ids": {
+    "transfermarkt.com": "888493"
+  },
+  "history": [
+    { "s": 2023, "c": 728, "p": 8, "g": 1 },
+    { "s": 2023, "c": 1759, "p": 6 },
+    { "s": 2024, "c": 1725, "p": 27, "g": 1 }
+  ]
+}

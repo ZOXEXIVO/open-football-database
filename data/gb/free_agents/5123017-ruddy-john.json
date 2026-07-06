@@ -1,0 +1,28 @@
+{
+  "id": 5123017,
+  "first_name": "John",
+  "last_name": "Ruddy",
+  "birth_date": "1986-10-24",
+  "country_id": 765,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 146,
+  "value": 29000,
+  "ids": {
+    "transfermarkt.com": "29712"
+  },
+  "history": [
+    { "s": 2018, "c": 740, "p": 1 },
+    { "s": 2020, "c": 740, "p": 2 },
+    { "s": 2021, "c": 740, "p": 2 }
+  ]
+}

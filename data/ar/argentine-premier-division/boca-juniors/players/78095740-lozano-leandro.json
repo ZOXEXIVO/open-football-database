@@ -1,0 +1,51 @@
+{
+  "id": 78095740,
+  "first_name": "Leandro",
+  "last_name": "Lozano",
+  "birth_date": "1998-12-19",
+  "country_id": 1657,
+  "club_id": 82,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 126,
+  "potential_ability": 126,
+  "value": 3000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 5512793, "p": 16 },
+    { "s": 2020, "c": 5512793, "p": 35 },
+    { "s": 2021, "c": 5512793, "p": 22 }
+  ],
+  "ids": {
+    "transfermarkt.com": "665101"
+  }
+}

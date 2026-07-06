@@ -1,0 +1,41 @@
+{
+  "id": 67080318,
+  "first_name": "Óscar",
+  "last_name": "Plano",
+  "birth_date": "1991-02-11",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 130,
+  "potential_ability": 136,
+  "value": 1000000,
+  "ids": {
+    "transfermarkt.com": "221309"
+  },
+  "history": [
+    { "s": 2018, "c": 1747, "p": 33, "g": 3 },
+    { "s": 2019, "c": 1747, "p": 32, "g": 3 },
+    { "s": 2020, "c": 1747, "p": 40, "g": 6 },
+    { "s": 2022, "c": 1747, "p": 33, "g": 1 }
+  ]
+}

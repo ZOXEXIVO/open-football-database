@@ -1,0 +1,41 @@
+{
+  "id": 37027601,
+  "first_name": "Mike",
+  "last_name": "van der Hoorn",
+  "birth_date": "1992-10-15",
+  "country_id": 784,
+  "club_id": 448,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 124,
+  "potential_ability": 134,
+  "value": 2000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "187105"
+  },
+  "history": [
+    { "s": 2012, "c": 1010, "p": 31, "g": 4 },
+    { "s": 2013, "c": 992, "p": 3 },
+    { "s": 2014, "c": 992, "p": 15, "g": 2 },
+    { "s": 2015, "c": 992, "p": 15, "g": 1 },
+    { "s": 2021, "c": 1010, "p": 31, "g": 2 },
+    { "s": 2022, "c": 1010, "p": 25, "g": 1 },
+    { "s": 2023, "c": 1010, "p": 21, "g": 1 },
+    { "s": 2024, "c": 1010, "p": 31, "g": 3 },
+    { "s": 2025, "c": 1010, "p": 23, "g": 1 }
+  ]
+}

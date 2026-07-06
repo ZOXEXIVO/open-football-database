@@ -1,0 +1,45 @@
+{
+  "id": 78093573,
+  "first_name": "Juan",
+  "last_name": "Manuel Gutiérrez",
+  "birth_date": "2002-02-04",
+  "country_id": 1657,
+  "club_id": 108526,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 122,
+  "potential_ability": 128,
+  "value": 667000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 108526,
+    "expiration": "2027-06-30",    "wage_contribution_pct": 100
+  }
+}

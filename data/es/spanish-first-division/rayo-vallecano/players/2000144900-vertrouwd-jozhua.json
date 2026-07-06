@@ -1,0 +1,40 @@
+{
+  "id": 2000144900,
+  "first_name": "Jozhua",
+  "last_name": "Vertrouwd",
+  "birth_date": "2004-08-21",
+  "country_id": 784,
+  "club_id": 1729,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 118,
+  "potential_ability": 146,
+  "value": 1000000,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "765467"
+  },
+  "history": [
+    { "s": 2025, "c": 1729, "p": 7 }
+  ]
+}

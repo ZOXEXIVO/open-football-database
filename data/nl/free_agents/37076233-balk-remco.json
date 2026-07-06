@@ -1,0 +1,40 @@
+{
+  "id": 37076233,
+  "first_name": "Remco",
+  "last_name": "Balk",
+  "birth_date": "2001-03-02",
+  "country_id": 784,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 120,
+  "value": 1000000,
+  "ids": {
+    "transfermarkt.com": "412940"
+  },
+  "history": [
+    { "s": 2020, "c": 1007, "p": 11, "g": 1 },
+    { "s": 2020, "c": 1010, "p": 2 },
+    { "s": 2021, "c": 1010, "p": 17 }
+  ]
+}

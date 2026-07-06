@@ -1,0 +1,40 @@
+{
+  "id": 76038736,
+  "first_name": "Rafael",
+  "last_name": "Santos Borré",
+  "birth_date": "1995-09-15",
+  "country_id": 1653,
+  "club_id": 94,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 132,
+  "potential_ability": 136,
+  "value": 7000000,
+  "contract": {
+    "salary": 1768000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "323831"
+  },
+  "history": [
+    { "s": 2016, "c": 1777, "p": 17, "g": 2 },
+    { "s": 2021, "c": 912, "p": 31, "g": 8 },
+    { "s": 2022, "c": 912, "p": 32, "g": 2 },
+    { "s": 2023, "c": 948, "p": 19, "g": 4 }
+  ]
+}

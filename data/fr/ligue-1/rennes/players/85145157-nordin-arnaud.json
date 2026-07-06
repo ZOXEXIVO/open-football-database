@@ -1,0 +1,53 @@
+{
+  "id": 85145157,
+  "first_name": "Arnaud",
+  "last_name": "Nordin",
+  "birth_date": "1998-06-17",
+  "country_id": 769,
+  "club_id": 884,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 90,
+    "right": 100
+  },
+  "current_ability": 128,
+  "potential_ability": 136,
+  "value": 4000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 884,
+    "expiration": "2027-06-30",
+    "salary": 1300000,
+    "wage_contribution_pct": 100
+  },
+  "ids": {
+    "transfermarkt.com": "324811"
+  },
+  "history": [
+    { "s": 2024, "c": 918, "p": 6 },
+    { "s": 2025, "c": 884, "p": 7, "g": 1 },
+    { "s": 2025, "c": 918, "p": 13 }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 70103092,
+  "first_name": "Melih",
+  "last_name": "Kabasakal",
+  "birth_date": "1996-02-18",
+  "country_id": 799,
+  "club_id": 1879,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 118,
+  "value": 1000000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 1879, "p": 7 },
+    { "s": 2019, "c": 1874, "p": 9 },
+    { "s": 2020, "c": 1874, "p": 29 },
+    { "s": 2021, "c": 1874, "p": 36 },
+    { "s": 2022, "c": 1874, "p": 17 },
+    { "s": 2025, "c": 130341, "p": 24 }
+  ],
+  "ids": {
+    "transfermarkt.com": "275683"
+  }
+}

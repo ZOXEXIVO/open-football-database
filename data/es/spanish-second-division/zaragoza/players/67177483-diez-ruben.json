@@ -1,0 +1,47 @@
+{
+  "id": 67177483,
+  "first_name": "Rubén",
+  "last_name": "Díez",
+  "birth_date": "1993-08-18",
+  "country_id": 796,
+  "club_id": 1749,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 126,
+  "value": 258000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1690, "p": 16 },
+    { "s": 2019, "c": 1690, "p": 26 },
+    { "s": 2020, "c": 1690, "p": 40 },
+    { "s": 2024, "c": 67016725, "p": 33 },
+    { "s": 2025, "c": 67016725, "p": 29 }
+  ],
+  "ids": {
+    "transfermarkt.com": "311266"
+  }
+}

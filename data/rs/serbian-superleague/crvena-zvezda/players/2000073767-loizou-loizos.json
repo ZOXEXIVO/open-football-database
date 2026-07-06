@@ -1,0 +1,41 @@
+{
+  "id": 2000073767,
+  "first_name": "Loizos",
+  "last_name": "Loizou",
+  "birth_date": "2003-07-18",
+  "country_id": 762,
+  "club_id": 1955,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 116,
+  "potential_ability": 130,
+  "value": 2000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "615033"
+  },
+  "history": [
+    { "s": 2023, "c": 1036, "p": 5 }
+  ]
+}

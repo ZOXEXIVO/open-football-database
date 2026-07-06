@@ -1,0 +1,39 @@
+{
+  "id": 2000244866,
+  "first_name": "Oscar",
+  "last_name": "Sjöstrand",
+  "birth_date": "2004-11-08",
+  "country_id": 797,
+  "club_id": 1816,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 128,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

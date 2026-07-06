@@ -1,0 +1,34 @@
+{
+  "id": 2000250278,
+  "first_name": "Hadji",
+  "last_name": "Issa Moustapha",
+  "birth_date": "2003-12-04",
+  "country_id": 11,
+  "club_id": 24013516,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": -65,
+  "value": 450000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 99, "p": 12 },
+    { "s": 2023, "c": 99, "p": 30 },
+    { "s": 2025, "c": 99, "p": 12 },
+    { "s": 2025, "c": 24013516, "p": 2 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1112528"
+  }
+}

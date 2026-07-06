@@ -1,0 +1,37 @@
+{
+  "id": 67269372,
+  "first_name": "Juan",
+  "last_name": "Gutiérrez",
+  "birth_date": "2000-01-28",
+  "country_id": 796,
+  "club_id": 1704,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 122,
+  "potential_ability": 128,
+  "value": 1000000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 67016725, "p": 23 },
+    { "s": 2024, "c": 4212197, "p": 37 },
+    { "s": 2025, "c": 4212197, "p": 39 }
+  ],
+  "ids": {
+    "transfermarkt.com": "531121"
+  }
+}

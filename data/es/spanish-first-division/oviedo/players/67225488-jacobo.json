@@ -1,0 +1,48 @@
+{
+  "id": 67225488,
+  "first_name": "Jacobo",
+  "last_name": "",
+  "birth_date": "1997-03-25",
+  "country_id": 796,
+  "club_id": 1741,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 130,
+  "value": 1000000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "340870"
+  },
+  "history": [
+    { "s": 2019, "c": 1724, "p": 1 },
+    { "s": 2020, "c": 1724, "p": 1 }
+  ]
+}

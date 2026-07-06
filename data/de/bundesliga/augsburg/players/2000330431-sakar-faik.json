@@ -1,0 +1,37 @@
+{
+  "id": 2000330431,
+  "first_name": "Faik",
+  "last_name": "Sakar",
+  "birth_date": "2008-01-14",
+  "country_id": 771,
+  "club_id": 2238,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -7,
+  "value": 279000,
+  "contract": {
+    "salary": 43056,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "1132292"
+  },
+  "history": [
+    { "s": 2024, "c": 91013388, "p": 1 }
+  ]
+}

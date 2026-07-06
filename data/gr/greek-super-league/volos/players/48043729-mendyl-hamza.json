@@ -1,0 +1,38 @@
+{
+  "id": 48043729,
+  "first_name": "Hamza",
+  "last_name": "Mendyl",
+  "birth_date": "1997-10-21",
+  "country_id": 34,
+  "club_id": 36136195,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 116,
+  "potential_ability": 120,
+  "value": 1000000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "447221"
+  },
+  "history": [
+    { "s": 2016, "c": 858, "p": 1 },
+    { "s": 2017, "c": 858, "p": 12 },
+    { "s": 2024, "c": 969, "p": 7, "g": 1 },
+    { "s": 2025, "c": 969, "p": 8 }
+  ]
+}

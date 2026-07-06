@@ -1,0 +1,36 @@
+{
+  "id": 2000182279,
+  "first_name": "Alessandro",
+  "last_name": "Vogt",
+  "birth_date": "2005-02-03",
+  "country_id": 798,
+  "club_id": 879226,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 146,
+  "value": 2000000,
+  "contract": {    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1853, "p": 2 },
+    { "s": 2025, "c": 1853, "p": 35 }
+  ],
+  "ids": {
+    "transfermarkt.com": "987770"
+  }
+}

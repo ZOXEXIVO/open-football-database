@@ -1,0 +1,49 @@
+{
+  "id": 28018613,
+  "first_name": "Kieran",
+  "last_name": "Trippier",
+  "birth_date": "1990-09-19",
+  "country_id": 765,
+  "club_id": 740,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 148,
+  "potential_ability": 160,
+  "value": 4000000,
+  "contract": {
+    "salary": 5980000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "95810"
+  },
+  "history": [
+    { "s": 2014, "c": 622, "p": 38 },
+    { "s": 2015, "c": 728, "p": 6, "g": 1 },
+    { "s": 2016, "c": 728, "p": 12 },
+    { "s": 2017, "c": 728, "p": 24 },
+    { "s": 2018, "c": 728, "p": 27, "g": 1 },
+    { "s": 2019, "c": 1687, "p": 25 },
+    { "s": 2020, "c": 1687, "p": 28 },
+    { "s": 2021, "c": 688, "p": 6, "g": 2 },
+    { "s": 2021, "c": 1687, "p": 15 },
+    { "s": 2022, "c": 688, "p": 38, "g": 1 },
+    { "s": 2023, "c": 688, "p": 28, "g": 1 },
+    { "s": 2024, "c": 688, "p": 25 },
+    { "s": 2025, "c": 688, "p": 9 }
+  ]
+}

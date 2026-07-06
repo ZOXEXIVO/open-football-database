@@ -1,0 +1,43 @@
+{
+  "id": 790435,
+  "first_name": "Kota",
+  "last_name": "Mizunuma",
+  "birth_date": "1990-02-22",
+  "country_id": 116,
+  "club_id": 1195,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 126,
+  "value": 90000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2012, "c": 107309, "p": 33 },
+    { "s": 2013, "c": 107309, "p": 27 },
+    { "s": 2014, "c": 107309, "p": 32 },
+    { "s": 2015, "c": 107309, "p": 32 },
+    { "s": 2016, "c": 107313, "p": 17 },
+    { "s": 2024, "c": 688, "p": 12 },
+    { "s": 2025, "c": 688, "p": 18 }
+  ],
+  "ids": {
+    "transfermarkt.com": "79419"
+  }
+}

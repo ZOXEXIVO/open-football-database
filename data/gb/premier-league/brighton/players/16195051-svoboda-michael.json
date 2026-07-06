@@ -1,0 +1,34 @@
+{
+  "id": 16195051,
+  "first_name": "Michael",
+  "last_name": "Svoboda",
+  "birth_date": "1998-10-15",
+  "country_id": 755,
+  "club_id": 618,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 124,
+  "potential_ability": 132,
+  "value": 3000000,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "438961"
+  },
+  "history": [
+    { "s": 2021, "c": 1179, "p": 18 },
+    { "s": 2024, "c": 1179, "p": 16, "g": 1 }
+  ]
+}

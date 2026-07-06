@@ -1,0 +1,28 @@
+{
+  "id": 2000495234,
+  "first_name": "Younes",
+  "last_name": "El Bahraoui",
+  "birth_date": "2005-01-04",
+  "country_id": 34,
+  "club_id": 12005104,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 130,
+  "value": 100000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01"
+  }
+}

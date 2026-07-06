@@ -1,0 +1,36 @@
+{
+  "id": 19338024,
+  "first_name": "Bruninho",
+  "last_name": "",
+  "birth_date": "2000-04-27",
+  "country_id": 1651,
+  "club_id": 1093,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 130,
+  "value": 4000000,
+  "contract": {    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "584083"
+  },
+  "history": [
+    { "s": 2024, "c": 2000053380, "p": 24, "g": 8 },
+    { "s": 2025, "c": 2000053380, "p": 20, "g": 7 }
+  ]
+}

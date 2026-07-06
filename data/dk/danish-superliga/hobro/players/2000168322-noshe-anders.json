@@ -1,0 +1,37 @@
+{
+  "id": 2000168322,
+  "first_name": "Anders",
+  "last_name": "Noshe",
+  "birth_date": "2006-01-09",
+  "country_id": 764,
+  "club_id": 930210,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": -5,
+  "value": 10000,
+  "contract": {
+    "salary": 39104,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 483, "p": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "926987"
+  }
+}

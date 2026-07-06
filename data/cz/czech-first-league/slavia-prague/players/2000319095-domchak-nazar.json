@@ -1,0 +1,31 @@
+{
+  "id": 2000319095,
+  "first_name": "Nazar",
+  "last_name": "Domchak",
+  "birth_date": "2007-04-06",
+  "country_id": 800,
+  "club_id": 474,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": -75,
+  "value": 3000000,
+  "contract": {    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "1161403"
+  },
+  "history": [
+    { "s": 2025, "c": 2000053380, "p": 18 }
+  ]
+}

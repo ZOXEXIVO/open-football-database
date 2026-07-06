@@ -1,0 +1,53 @@
+{
+  "id": 2000184619,
+  "first_name": "Tyrique",
+  "last_name": "George",
+  "birth_date": "2006-02-04",
+  "country_id": 765,
+  "club_id": 650,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": -8,
+  "value": 11000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 650,
+    "expiration": "2027-06-30",
+    "salary": 520000,
+    "wage_contribution_pct": 100
+  },
+  "ids": {
+    "transfermarkt.com": "936874"
+  },
+  "history": [
+    { "s": 2024, "c": 630, "p": 8, "g": 1 },
+    { "s": 2025, "c": 630, "p": 4 },
+    { "s": 2025, "c": 650, "p": 5 }
+  ]
+}

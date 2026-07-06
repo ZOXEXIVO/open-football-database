@@ -1,0 +1,41 @@
+{
+  "id": 19400568,
+  "first_name": "Paulo",
+  "last_name": "Victor",
+  "birth_date": "2001-04-13",
+  "country_id": 1651,
+  "club_id": 136014,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 112,
+  "potential_ability": 120,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "875511"
+  },
+  "history": [
+    { "s": 2025, "c": 2448, "p": 18, "g": 1 }
+  ]
+}

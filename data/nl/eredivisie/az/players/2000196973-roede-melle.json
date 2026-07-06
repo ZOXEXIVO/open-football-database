@@ -1,0 +1,33 @@
+{
+  "id": 2000196973,
+  "first_name": "Melle",
+  "last_name": "Roede",
+  "birth_date": "2006-06-26",
+  "country_id": 784,
+  "club_id": 991,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": -6,
+  "value": 84000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2000077838,
+    "expiration": "2027-06-30",    "wage_contribution_pct": 100
+  }
+}

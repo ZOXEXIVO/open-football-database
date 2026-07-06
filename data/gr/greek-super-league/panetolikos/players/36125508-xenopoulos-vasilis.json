@@ -1,0 +1,33 @@
+{
+  "id": 36125508,
+  "first_name": "Vasilis",
+  "last_name": "Xenopoulos",
+  "birth_date": "1998-05-20",
+  "country_id": 772,
+  "club_id": 129665,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 116,
+  "value": 50000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "450427"
+  },
+  "history": [
+    { "s": 2019, "c": 983, "p": 1 },
+    { "s": 2020, "c": 983, "p": 1 },
+    { "s": 2025, "c": 36077318, "p": 6 }
+  ]
+}

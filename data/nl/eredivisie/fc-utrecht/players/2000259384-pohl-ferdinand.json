@@ -1,0 +1,29 @@
+{
+  "id": 2000259384,
+  "first_name": "Ferdinand",
+  "last_name": "Pohl",
+  "birth_date": "2007-02-02",
+  "country_id": 771,
+  "club_id": 1010,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -65,
+  "value": 296000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

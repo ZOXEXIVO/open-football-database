@@ -1,0 +1,39 @@
+{
+  "id": 2000076241,
+  "first_name": "Plamen",
+  "last_name": "Andreev",
+  "birth_date": "2004-12-15",
+  "country_id": 760,
+  "club_id": 1052,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 144,
+  "value": 7000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1455,
+    "expiration": "2027-06-30",
+    "salary": 208000,
+    "wage_contribution_pct": 100
+  },
+  "ids": {
+    "transfermarkt.com": "859218"
+  },
+  "history": [
+    { "s": 2024, "c": 1013, "p": 1 }
+  ]
+}

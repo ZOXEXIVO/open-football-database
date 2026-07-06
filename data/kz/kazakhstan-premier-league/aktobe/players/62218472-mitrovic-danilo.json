@@ -1,0 +1,36 @@
+{
+  "id": 62218472,
+  "first_name": "Danilo",
+  "last_name": "Mitrović",
+  "birth_date": "2001-03-23",
+  "country_id": 802,
+  "club_id": 494162,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 108,
+  "potential_ability": 124,
+  "value": 650000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 120779, "p": 5 },
+    { "s": 2026, "c": 494162, "p": 5 }
+  ],
+  "ids": {
+    "transfermarkt.com": "574666"
+  }
+}

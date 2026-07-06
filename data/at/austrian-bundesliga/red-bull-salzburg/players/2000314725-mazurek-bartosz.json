@@ -1,0 +1,36 @@
+{
+  "id": 2000314725,
+  "first_name": "Bartosz",
+  "last_name": "Mazurek",
+  "birth_date": "2007-01-03",
+  "country_id": 787,
+  "club_id": 158,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -7,
+  "value": 68000,
+  "contract": {    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 710052, "p": 2 },
+    { "s": 2025, "c": 710052, "p": 23 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1118873"
+  }
+}

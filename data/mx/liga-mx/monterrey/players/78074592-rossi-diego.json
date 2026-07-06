@@ -1,0 +1,53 @@
+{
+  "id": 78074592,
+  "first_name": "Diego",
+  "last_name": "Rossi",
+  "birth_date": "1998-03-05",
+  "country_id": 1657,
+  "club_id": 1257,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 134,
+  "potential_ability": 140,
+  "value": 6000000,
+  "contract": {
+    "salary": 2548000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 1922, "p": 6 },
+    { "s": 2016, "c": 1922, "p": 6 },
+    { "s": 2017, "c": 1922, "p": 31 },
+    { "s": 2021, "c": 1870, "p": 31 },
+    { "s": 2022, "c": 1870, "p": 33 },
+    { "s": 2023, "c": 1904, "p": 10 },
+    { "s": 2024, "c": 1904, "p": 34 },
+    { "s": 2025, "c": 1904, "p": 29 },
+    { "s": 2026, "c": 1904, "p": 15 }
+  ],
+  "ids": {
+    "transfermarkt.com": "317454"
+  }
+}

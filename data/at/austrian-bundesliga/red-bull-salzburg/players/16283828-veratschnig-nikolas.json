@@ -1,0 +1,38 @@
+{
+  "id": 16283828,
+  "first_name": "Nikolas",
+  "last_name": "Veratschnig",
+  "birth_date": "2003-01-24",
+  "country_id": 755,
+  "club_id": 158,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 140,
+  "value": 3000000,
+  "contract": {
+    "salary": 676000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "601143"
+  },
+  "history": [
+    { "s": 2024, "c": 918, "p": 15 },
+    { "s": 2025, "c": 918, "p": 17 }
+  ]
+}

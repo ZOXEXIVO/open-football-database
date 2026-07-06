@@ -1,0 +1,43 @@
+{
+  "id": 27092473,
+  "first_name": "Stefan",
+  "last_name": "Gartenmann",
+  "birth_date": "1997-02-02",
+  "country_id": 798,
+  "club_id": 1167,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 130,
+  "value": 321000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 926867, "p": 17 },
+    { "s": 2018, "c": 926867, "p": 25 },
+    { "s": 2019, "c": 926867, "p": 24 },
+    { "s": 2020, "c": 926867, "p": 21 },
+    { "s": 2021, "c": 926867, "p": 22 },
+    { "s": 2022, "c": 526, "p": 15 },
+    { "s": 2023, "c": 526, "p": 3 },
+    { "s": 2024, "c": 1055, "p": 28 },
+    { "s": 2025, "c": 1055, "p": 6 }
+  ],
+  "ids": {
+    "transfermarkt.com": "243770"
+  }
+}
