@@ -1,17 +1,17 @@
 {
-  "id": 1009,
-  "name": "FC Twente",
+  "id": 1010,
+  "name": "Utrecht",
   "location": {
-    "city_id": 3105
+    "city_id": 3104
   },
   "finance": {
     "balance": 15240000
   },
   "teams": [
     {
-      "id": 1009,
-      "name": "FC Twente",
-      "slug": "fc-twente",
+      "id": 1010,
+      "name": "Utrecht",
+      "slug": "fc-utrecht",
       "team_type": "Main",
       "reputation": {
         "home": 6600,
@@ -20,9 +20,9 @@
       }
     },
     {
-      "id": 90200011,
-      "name": "FC Twente",
-      "slug": "fc-twente-u20",
+      "id": 90200009,
+      "name": "Utrecht",
+      "slug": "fc-utrecht-u20",
       "team_type": "U20",
       "reputation": {
         "home": 1980,
@@ -31,9 +31,9 @@
       }
     },
     {
-      "id": 90200012,
-      "name": "FC Twente",
-      "slug": "fc-twente-u18",
+      "id": 90200010,
+      "name": "Utrecht",
+      "slug": "fc-utrecht-u18",
       "team_type": "U18",
       "reputation": {
         "home": 1320,
@@ -48,13 +48,13 @@
   },
   "philosophy": "Balanced",
   "facilities": {
-    "training": "Great",
-    "youth": "Good",
+    "training": "Excellent",
+    "youth": "Great",
     "academy": "Good",
-    "recruitment": "Average"
+    "recruitment": "Good"
   },
-  "average_attendance": 29212,
+  "average_attendance": 19769,
   "ids": {
-    "transfermarkt.com": "317"
+    "transfermarkt.com": "200"
   }
 }
