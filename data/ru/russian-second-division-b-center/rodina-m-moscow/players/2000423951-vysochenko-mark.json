@@ -1,0 +1,27 @@
+{
+  "id": 2000423951,
+  "first_name": "Mark",
+  "last_name": "Vysochenko",
+  "birth_date": "2006-01-01",
+  "country_id": 791,
+  "club_id": 2000191500,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 54,
+  "potential_ability": -5,
+  "value": 23176,
+  "contract": {
+    "salary": 7332,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

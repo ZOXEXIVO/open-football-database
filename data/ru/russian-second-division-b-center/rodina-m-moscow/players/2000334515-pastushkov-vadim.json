@@ -1,0 +1,39 @@
+{
+  "id": 2000334515,
+  "first_name": "Vadim",
+  "last_name": "Pastushkov",
+  "birth_date": "2006-01-01",
+  "country_id": 791,
+  "club_id": 2000191500,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 54,
+  "potential_ability": -5,
+  "value": 25973,
+  "contract": {
+    "salary": 10192,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

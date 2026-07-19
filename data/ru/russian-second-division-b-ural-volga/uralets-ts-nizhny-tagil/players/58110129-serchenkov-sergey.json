@@ -1,0 +1,39 @@
+{
+  "id": 58110129,
+  "first_name": "Sergey",
+  "last_name": "Serchenkov",
+  "birth_date": "1997-01-01",
+  "country_id": 791,
+  "club_id": 130552,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 74,
+  "potential_ability": 96,
+  "value": 82053,
+  "contract": {
+    "salary": 40456,
+    "expiration": "2025-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

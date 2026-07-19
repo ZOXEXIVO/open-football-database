@@ -1,0 +1,27 @@
+{
+  "id": 2000346465,
+  "first_name": "Rostislav",
+  "last_name": "Tyschenko",
+  "birth_date": "2004-01-01",
+  "country_id": 791,
+  "club_id": 2000044624,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": 86,
+  "value": 39320,
+  "contract": {
+    "salary": 12688,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

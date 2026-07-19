@@ -1,0 +1,31 @@
+{
+  "id": 58135839,
+  "first_name": "Konstantin",
+  "last_name": "Antipov",
+  "birth_date": "1999-01-01",
+  "country_id": 791,
+  "club_id": 8058412,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": 76,
+  "value": 1794,
+  "contract": {
+    "salary": 14872,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

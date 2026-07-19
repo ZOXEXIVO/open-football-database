@@ -1,0 +1,27 @@
+{
+  "id": 2000346590,
+  "first_name": "Alexandr",
+  "last_name": "Iljin",
+  "birth_date": "2006-01-01",
+  "country_id": 791,
+  "club_id": 2000177313,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 30,
+  "potential_ability": -35,
+  "value": 4460,
+  "contract": {
+    "salary": 2392,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

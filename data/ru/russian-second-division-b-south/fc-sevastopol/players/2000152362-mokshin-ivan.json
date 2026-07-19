@@ -1,0 +1,27 @@
+{
+  "id": 2000152362,
+  "first_name": "Ivan",
+  "last_name": "Mokshin",
+  "birth_date": "2003-01-01",
+  "country_id": 791,
+  "club_id": 2000044624,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": 80,
+  "value": 38148,
+  "contract": {
+    "salary": 8788,
+    "expiration": "2025-12-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

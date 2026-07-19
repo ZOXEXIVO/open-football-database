@@ -1,0 +1,34 @@
+{
+  "id": 58063435,
+  "first_name": "Alexandr",
+  "last_name": "Bolonin",
+  "birth_date": "1991-01-01",
+  "country_id": 791,
+  "club_id": 58035168,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": 94,
+  "contract": {
+    "salary": 43316,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000383901,
+  "first_name": "Stepan",
+  "last_name": "Glebov",
+  "birth_date": "2006-01-01",
+  "country_id": 791,
+  "club_id": 58011250,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 52,
+  "potential_ability": -45,
+  "value": 13960,
+  "contract": {
+    "salary": 6812,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000522388,
+  "first_name": "Kirill",
+  "last_name": "Timofeev",
+  "birth_date": "2007-01-01",
+  "country_id": 791,
+  "club_id": 8058412,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 46,
+  "potential_ability": -55,
+  "value": 10666,
+  "contract": {
+    "salary": 1872,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

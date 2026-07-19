@@ -1,0 +1,27 @@
+{
+  "id": 2000456921,
+  "first_name": "Matvey",
+  "last_name": "Bezrogov",
+  "birth_date": "2008-01-01",
+  "country_id": 791,
+  "club_id": 2000095019,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 40,
+  "potential_ability": -55,
+  "value": 30901,
+  "contract": {
+    "salary": 2756,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

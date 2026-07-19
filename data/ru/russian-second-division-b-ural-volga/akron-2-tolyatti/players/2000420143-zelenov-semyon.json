@@ -1,0 +1,31 @@
+{
+  "id": 2000420143,
+  "first_name": "Semyon",
+  "last_name": "Zelenov",
+  "birth_date": "2007-01-01",
+  "country_id": 791,
+  "club_id": 2000095019,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -65,
+  "value": 430510,
+  "contract": {
+    "salary": 10868,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

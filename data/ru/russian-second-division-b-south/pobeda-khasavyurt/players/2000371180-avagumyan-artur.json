@@ -1,0 +1,31 @@
+{
+  "id": 2000371180,
+  "first_name": "Artur",
+  "last_name": "Avagumyan",
+  "birth_date": "2006-01-01",
+  "country_id": 791,
+  "club_id": 2000177517,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": -55,
+  "value": 18487,
+  "contract": {
+    "salary": 15652,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

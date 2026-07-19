@@ -1,0 +1,27 @@
+{
+  "id": 2000457252,
+  "first_name": "Danil",
+  "last_name": "Shageev",
+  "birth_date": "2007-01-01",
+  "country_id": 791,
+  "club_id": 2000452904,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 42,
+  "potential_ability": -45,
+  "value": 13986,
+  "contract": {
+    "salary": 3692,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

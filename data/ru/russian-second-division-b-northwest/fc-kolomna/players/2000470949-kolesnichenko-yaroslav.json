@@ -1,0 +1,31 @@
+{
+  "id": 2000470949,
+  "first_name": "Yaroslav",
+  "last_name": "Kolesnichenko",
+  "birth_date": "2005-01-01",
+  "country_id": 791,
+  "club_id": 130526,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 10
+  },
+  "current_ability": 48,
+  "potential_ability": -4,
+  "value": 20459,
+  "contract": {
+    "salary": 2392,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

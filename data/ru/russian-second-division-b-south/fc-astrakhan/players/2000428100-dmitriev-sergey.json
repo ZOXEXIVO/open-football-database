@@ -1,0 +1,27 @@
+{
+  "id": 2000428100,
+  "first_name": "Sergey",
+  "last_name": "Dmitriev",
+  "birth_date": "2002-01-01",
+  "country_id": 791,
+  "club_id": 58035168,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": 70,
+  "value": 1438,
+  "contract": {
+    "salary": 6604,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

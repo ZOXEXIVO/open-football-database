@@ -1,0 +1,39 @@
+{
+  "id": 2000012006,
+  "first_name": "Albert",
+  "last_name": "Naniev",
+  "birth_date": "2001-01-01",
+  "country_id": 791,
+  "club_id": 71093552,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 68,
+  "potential_ability": 86,
+  "value": 28283,
+  "contract": {
+    "salary": 20800,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

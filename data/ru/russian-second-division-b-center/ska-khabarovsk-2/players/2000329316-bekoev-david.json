@@ -1,0 +1,35 @@
+{
+  "id": 2000329316,
+  "first_name": "David",
+  "last_name": "Bekoev",
+  "birth_date": "2005-01-01",
+  "country_id": 791,
+  "club_id": 2000177313,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 58,
+  "potential_ability": 86,
+  "value": 117483,
+  "contract": {
+    "salary": 12688,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

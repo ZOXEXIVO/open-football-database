@@ -1,0 +1,31 @@
+{
+  "id": 58151301,
+  "first_name": "Victor",
+  "last_name": "Drăgoi",
+  "birth_date": "1995-01-01",
+  "country_id": 791,
+  "club_id": 8050413,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": 52,
+  "value": 5178,
+  "contract": {
+    "salary": 13260,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

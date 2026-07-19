@@ -1,0 +1,27 @@
+{
+  "id": 2000383797,
+  "first_name": "Rustam",
+  "last_name": "Dolgorukov",
+  "birth_date": "2004-01-01",
+  "country_id": 791,
+  "club_id": 475802,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 40,
+  "potential_ability": -35,
+  "value": 6330,
+  "contract": {
+    "salary": 1612,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2000162473,
+  "first_name": "Yegor",
+  "last_name": "Pankov",
+  "birth_date": "2003-01-01",
+  "country_id": 791,
+  "club_id": 58011250,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": 86,
+  "value": 56477,
+  "contract": {
+    "salary": 26520,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

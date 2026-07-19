@@ -1,0 +1,27 @@
+{
+  "id": 2000428115,
+  "first_name": "Anton",
+  "last_name": "Novikov",
+  "birth_date": "2007-01-01",
+  "country_id": 791,
+  "club_id": 8058412,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 36,
+  "potential_ability": -5,
+  "value": 8205,
+  "contract": {
+    "salary": 2340,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

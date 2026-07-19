@@ -1,0 +1,31 @@
+{
+  "id": 2000081603,
+  "first_name": "Yegor",
+  "last_name": "Perevoznikov",
+  "birth_date": "2002-01-01",
+  "country_id": 791,
+  "club_id": 2000173532,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": 90,
+  "value": 56477,
+  "contract": {
+    "salary": 23348,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

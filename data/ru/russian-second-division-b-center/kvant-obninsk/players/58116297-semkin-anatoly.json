@@ -1,0 +1,35 @@
+{
+  "id": 58116297,
+  "first_name": "Anatoly",
+  "last_name": "Semkin",
+  "birth_date": "1991-01-01",
+  "country_id": 791,
+  "club_id": 8050413,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 54,
+  "potential_ability": 66,
+  "value": 120,
+  "contract": {
+    "salary": 14040,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

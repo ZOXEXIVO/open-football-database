@@ -1,0 +1,39 @@
+{
+  "id": 58142137,
+  "first_name": "Alexandr",
+  "last_name": "Galimov",
+  "birth_date": "2000-01-01",
+  "country_id": 791,
+  "club_id": 58011250,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 74,
+  "potential_ability": 90,
+  "value": 26641,
+  "contract": {
+    "salary": 23296,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

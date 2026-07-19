@@ -1,0 +1,35 @@
+{
+  "id": 58152213,
+  "first_name": "Nikita",
+  "last_name": "Simdyankin",
+  "birth_date": "2001-01-01",
+  "country_id": 791,
+  "club_id": 8058412,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 84,
+  "potential_ability": 94,
+  "value": 53281,
+  "contract": {
+    "salary": 29796,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

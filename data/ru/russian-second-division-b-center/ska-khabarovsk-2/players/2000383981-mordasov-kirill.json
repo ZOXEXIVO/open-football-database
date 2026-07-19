@@ -1,0 +1,31 @@
+{
+  "id": 2000383981,
+  "first_name": "Kirill",
+  "last_name": "Mordasov",
+  "birth_date": "2008-01-01",
+  "country_id": 791,
+  "club_id": 2000177313,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 50,
+  "potential_ability": -6,
+  "value": 146496,
+  "contract": {
+    "salary": 4732,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

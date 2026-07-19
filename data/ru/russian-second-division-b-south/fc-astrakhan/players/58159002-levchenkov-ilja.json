@@ -1,0 +1,31 @@
+{
+  "id": 58159002,
+  "first_name": "Ilja",
+  "last_name": "Levchenkov",
+  "birth_date": "2002-01-01",
+  "country_id": 791,
+  "club_id": 58035168,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": 90,
+  "value": 51682,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

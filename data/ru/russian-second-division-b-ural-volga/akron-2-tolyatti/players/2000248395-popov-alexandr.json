@@ -1,0 +1,27 @@
+{
+  "id": 2000248395,
+  "first_name": "Alexandr",
+  "last_name": "Popov",
+  "birth_date": "2005-01-01",
+  "country_id": 791,
+  "club_id": 2000095019,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -5,
+  "value": 27172,
+  "contract": {
+    "salary": 10348,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

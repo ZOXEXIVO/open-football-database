@@ -1,0 +1,35 @@
+{
+  "id": 2000136599,
+  "first_name": "Yury",
+  "last_name": "Yakunin",
+  "birth_date": "2003-01-01",
+  "country_id": 791,
+  "club_id": 2000044624,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": 66,
+  "value": 12765,
+  "contract": {
+    "salary": 3224,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

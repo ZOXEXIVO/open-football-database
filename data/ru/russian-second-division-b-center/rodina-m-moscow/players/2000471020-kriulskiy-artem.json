@@ -1,0 +1,31 @@
+{
+  "id": 2000471020,
+  "first_name": "Artem",
+  "last_name": "Kriulskiy",
+  "birth_date": "2008-01-01",
+  "country_id": 791,
+  "club_id": 2000191500,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 75
+  },
+  "current_ability": 66,
+  "potential_ability": -7,
+  "value": 445963,
+  "contract": {
+    "salary": 12688,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

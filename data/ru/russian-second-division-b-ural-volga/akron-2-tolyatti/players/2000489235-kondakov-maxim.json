@@ -1,0 +1,27 @@
+{
+  "id": 2000489235,
+  "first_name": "Maxim",
+  "last_name": "Kondakov",
+  "birth_date": "2007-01-01",
+  "country_id": 791,
+  "club_id": 2000095019,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 15,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -6,
+  "value": 236567,
+  "contract": {
+    "salary": 6500,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

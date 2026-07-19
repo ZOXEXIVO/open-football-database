@@ -1,0 +1,27 @@
+{
+  "id": 2000265323,
+  "first_name": "Yaroslav",
+  "last_name": "Terechev",
+  "birth_date": "2005-01-01",
+  "country_id": 791,
+  "club_id": 477394,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -5,
+  "value": 39320,
+  "contract": {
+    "salary": 10764,
+    "expiration": "2026-12-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

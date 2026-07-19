@@ -1,0 +1,39 @@
+{
+  "id": 2000179872,
+  "first_name": "Denis",
+  "last_name": "Nikonorov",
+  "birth_date": "2004-01-01",
+  "country_id": 791,
+  "club_id": 8058412,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": -5,
+  "value": 10666,
+  "contract": {
+    "salary": 11128,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

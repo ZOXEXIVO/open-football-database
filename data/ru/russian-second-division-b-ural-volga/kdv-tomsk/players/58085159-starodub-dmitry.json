@@ -1,0 +1,39 @@
+{
+  "id": 58085159,
+  "first_name": "Dmitry",
+  "last_name": "Starodub",
+  "birth_date": "1995-01-01",
+  "country_id": 791,
+  "club_id": 8058412,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 92,
+  "value": 107894,
+  "contract": {
+    "salary": 74568,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

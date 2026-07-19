@@ -1,0 +1,35 @@
+{
+  "id": 58132170,
+  "first_name": "Nikita",
+  "last_name": "Antipov",
+  "birth_date": "1997-01-01",
+  "country_id": 791,
+  "club_id": 130552,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 76,
+  "value": 17863,
+  "contract": {
+    "salary": 29952,
+    "expiration": "2025-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

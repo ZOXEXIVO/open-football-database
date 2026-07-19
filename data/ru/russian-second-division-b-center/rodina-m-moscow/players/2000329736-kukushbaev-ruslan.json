@@ -1,0 +1,35 @@
+{
+  "id": 2000329736,
+  "first_name": "Ruslan",
+  "last_name": "Kukushbaev",
+  "birth_date": "2006-01-01",
+  "country_id": 791,
+  "club_id": 2000191500,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 15,
+    "right": 100
+  },
+  "current_ability": 52,
+  "potential_ability": -45,
+  "value": 15664,
+  "contract": {
+    "salary": 11960,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

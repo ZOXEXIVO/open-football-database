@@ -1,0 +1,35 @@
+{
+  "id": 58127398,
+  "first_name": "Anatoly",
+  "last_name": "Anisimov",
+  "birth_date": "1998-01-01",
+  "country_id": 791,
+  "club_id": 130552,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 70,
+  "potential_ability": 76,
+  "value": 23817,
+  "contract": {
+    "salary": 24232,
+    "expiration": "2025-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

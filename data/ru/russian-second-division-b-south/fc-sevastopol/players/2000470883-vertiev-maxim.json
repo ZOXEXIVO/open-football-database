@@ -1,0 +1,27 @@
+{
+  "id": 2000470883,
+  "first_name": "Maxim",
+  "last_name": "Vertiev",
+  "birth_date": "2006-01-01",
+  "country_id": 791,
+  "club_id": 2000044624,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 54,
+  "potential_ability": -5,
+  "value": 19686,
+  "contract": {
+    "salary": 5096,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

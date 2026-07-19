@@ -1,0 +1,27 @@
+{
+  "id": 2000383978,
+  "first_name": "Rostislav",
+  "last_name": "Zaretskiy",
+  "birth_date": "2008-01-01",
+  "country_id": 791,
+  "club_id": 2000177313,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 40,
+  "potential_ability": -5,
+  "value": 18461,
+  "contract": {
+    "salary": 3068,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

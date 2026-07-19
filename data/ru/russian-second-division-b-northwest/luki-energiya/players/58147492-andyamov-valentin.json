@@ -1,0 +1,39 @@
+{
+  "id": 58147492,
+  "first_name": "Valentin",
+  "last_name": "Andyamov",
+  "birth_date": "2000-01-01",
+  "country_id": 791,
+  "club_id": 58011250,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 68,
+  "potential_ability": 86,
+  "value": 22776,
+  "contract": {
+    "salary": 23296,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

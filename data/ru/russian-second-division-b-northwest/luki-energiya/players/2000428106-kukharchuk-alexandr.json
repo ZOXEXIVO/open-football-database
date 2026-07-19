@@ -1,0 +1,31 @@
+{
+  "id": 2000428106,
+  "first_name": "Alexandr",
+  "last_name": "Kukharchuk",
+  "birth_date": "2003-01-01",
+  "country_id": 791,
+  "club_id": 58011250,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 74,
+  "potential_ability": 90,
+  "value": 66069,
+  "contract": {
+    "salary": 23296,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

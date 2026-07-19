@@ -1,0 +1,35 @@
+{
+  "id": 2000521955,
+  "first_name": "Yelisey",
+  "last_name": "Snegirev",
+  "birth_date": "2008-01-01",
+  "country_id": 791,
+  "club_id": 58070696,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 46,
+  "potential_ability": -55,
+  "value": 12712,
+  "contract": {
+    "salary": 2392,
+    "expiration": "2026-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

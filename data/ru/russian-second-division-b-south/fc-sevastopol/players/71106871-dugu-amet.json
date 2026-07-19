@@ -1,0 +1,31 @@
+{
+  "id": 71106871,
+  "first_name": "Amet",
+  "last_name": "Dugu",
+  "birth_date": "1998-01-01",
+  "country_id": 791,
+  "club_id": 2000044624,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": 86,
+  "value": 10123,
+  "contract": {
+    "salary": 23348,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

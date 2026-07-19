@@ -1,0 +1,31 @@
+{
+  "id": 2000470996,
+  "first_name": "Daniil",
+  "last_name": "Scherbakov",
+  "birth_date": "2006-01-01",
+  "country_id": 791,
+  "club_id": 477394,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 28,
+  "potential_ability": -35,
+  "value": 5901,
+  "contract": {
+    "salary": 2392,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000367564,
+  "first_name": "Artem",
+  "last_name": "Khusainov",
+  "birth_date": "2008-01-01",
+  "country_id": 791,
+  "club_id": 2000177313,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 32,
+  "potential_ability": -45,
+  "value": 14545,
+  "contract": {
+    "salary": 2652,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

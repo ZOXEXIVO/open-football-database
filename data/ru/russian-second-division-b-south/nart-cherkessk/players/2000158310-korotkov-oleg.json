@@ -1,0 +1,39 @@
+{
+  "id": 2000158310,
+  "first_name": "Oleg",
+  "last_name": "Korotkov",
+  "birth_date": "2003-01-01",
+  "country_id": 791,
+  "club_id": 475802,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 68,
+  "potential_ability": 90,
+  "value": 61272,
+  "contract": {
+    "salary": 14872,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

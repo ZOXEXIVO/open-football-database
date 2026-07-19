@@ -1,0 +1,27 @@
+{
+  "id": 2000470980,
+  "first_name": "Dmitry",
+  "last_name": "Popov",
+  "birth_date": "2005-01-01",
+  "country_id": 791,
+  "club_id": 58070696,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 32,
+  "potential_ability": -35,
+  "value": 7851,
+  "contract": {
+    "salary": 2392,
+    "expiration": "2026-12-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

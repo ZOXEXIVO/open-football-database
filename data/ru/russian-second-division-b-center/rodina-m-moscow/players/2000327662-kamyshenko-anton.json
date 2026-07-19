@@ -1,0 +1,31 @@
+{
+  "id": 2000327662,
+  "first_name": "Anton",
+  "last_name": "Kamyshenko",
+  "birth_date": "2005-01-01",
+  "country_id": 791,
+  "club_id": 2000191500,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -55,
+  "value": 241322,
+  "contract": {
+    "salary": 18044,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

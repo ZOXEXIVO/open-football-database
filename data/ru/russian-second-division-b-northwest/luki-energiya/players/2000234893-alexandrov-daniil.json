@@ -1,0 +1,27 @@
+{
+  "id": 2000234893,
+  "first_name": "Daniil",
+  "last_name": "Alexandrov",
+  "birth_date": "2005-01-01",
+  "country_id": 791,
+  "club_id": 58011250,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 30,
+  "potential_ability": -35,
+  "value": 4763,
+  "contract": {
+    "salary": 2392,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

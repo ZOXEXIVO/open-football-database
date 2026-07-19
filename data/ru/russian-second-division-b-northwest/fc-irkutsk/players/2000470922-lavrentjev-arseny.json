@@ -1,0 +1,27 @@
+{
+  "id": 2000470922,
+  "first_name": "Arseny",
+  "last_name": "Lavrentjev",
+  "birth_date": "2005-01-01",
+  "country_id": 791,
+  "club_id": 2000173532,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 56,
+  "potential_ability": -5,
+  "value": 26187,
+  "contract": {
+    "salary": 6656,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

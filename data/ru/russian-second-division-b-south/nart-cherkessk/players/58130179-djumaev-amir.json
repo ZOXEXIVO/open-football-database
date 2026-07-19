@@ -1,0 +1,39 @@
+{
+  "id": 58130179,
+  "first_name": "Amir",
+  "last_name": "Djumaev",
+  "birth_date": "1998-01-01",
+  "country_id": 791,
+  "club_id": 475802,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": 80,
+  "value": 11959,
+  "contract": {
+    "salary": 22308,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

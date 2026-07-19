@@ -1,0 +1,27 @@
+{
+  "id": 2000081646,
+  "first_name": "Nikita",
+  "last_name": "Baranov",
+  "birth_date": "2004-01-01",
+  "country_id": 791,
+  "club_id": 8050413,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 48,
+  "potential_ability": -5,
+  "value": 21312,
+  "contract": {
+    "salary": 10192,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000470920,
+  "first_name": "Sergey",
+  "last_name": "Agarev",
+  "birth_date": "2007-01-01",
+  "country_id": 791,
+  "club_id": 58011250,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 32,
+  "potential_ability": -4,
+  "value": 9484,
+  "contract": {
+    "salary": 2392,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000334516,
+  "first_name": "Dmitry",
+  "last_name": "Melnik",
+  "birth_date": "2006-01-01",
+  "country_id": 791,
+  "club_id": 58011250,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 62,
+  "potential_ability": -55,
+  "value": 45608,
+  "contract": {
+    "salary": 8112,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}
