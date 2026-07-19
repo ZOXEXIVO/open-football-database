@@ -1,0 +1,46 @@
+{
+  "id": 2000600015,
+  "name": "Rodina M",
+  "location": {
+    "city_id": 791
+  },
+  "finance": {
+    "balance": 500000
+  },
+  "teams": [
+    {
+      "id": 2000600015,
+      "name": "Rodina M",
+      "slug": "rodina-m-moscow",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 2099600015,
+      "name": "Rodina M",
+      "slug": "rodina-m-moscow-u19",
+      "team_type": "U19",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#8b0000",
+    "foreground": "#ffd700"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1500
+}

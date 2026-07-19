@@ -1,0 +1,39 @@
+{
+  "id": 2000600023,
+  "name": "Akron 2",
+  "parent_club": {
+    "id": 58145316,
+    "team_type": "Second"
+  },
+  "location": {
+    "city_id": 791
+  },
+  "finance": {
+    "balance": 500000
+  },
+  "teams": [
+    {
+      "id": 2000600023,
+      "name": "Akron 2",
+      "slug": "akron-2-tolyatti",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#002d6a",
+    "foreground": "#d4af37"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1500
+}

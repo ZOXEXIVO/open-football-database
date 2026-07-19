@@ -1,0 +1,39 @@
+{
+  "id": 2000600024,
+  "name": "Chelyabinsk 2",
+  "parent_club": {
+    "id": 58044880,
+    "team_type": "Second"
+  },
+  "location": {
+    "city_id": 791
+  },
+  "finance": {
+    "balance": 500000
+  },
+  "teams": [
+    {
+      "id": 2000600024,
+      "name": "Chelyabinsk 2",
+      "slug": "chelyabinsk-2",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#006633",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1500
+}

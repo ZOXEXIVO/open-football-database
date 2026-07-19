@@ -1,0 +1,39 @@
+{
+  "id": 2000600013,
+  "name": "Yenisey 2",
+  "parent_club": {
+    "id": 58066512,
+    "team_type": "Second"
+  },
+  "location": {
+    "city_id": 791
+  },
+  "finance": {
+    "balance": 500000
+  },
+  "teams": [
+    {
+      "id": 2000600013,
+      "name": "Yenisey 2",
+      "slug": "yenisey-2-krasnoyarsk",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#8b0000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1500
+}
