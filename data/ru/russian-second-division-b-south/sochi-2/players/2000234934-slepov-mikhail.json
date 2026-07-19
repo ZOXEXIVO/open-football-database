@@ -1,0 +1,27 @@
+{
+  "id": 2000234934,
+  "first_name": "Mikhail",
+  "last_name": "Slepov",
+  "birth_date": "2004-01-01",
+  "country_id": 791,
+  "club_id": 2000452915,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -55,
+  "value": 47685,
+  "contract": {
+    "salary": 12012,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

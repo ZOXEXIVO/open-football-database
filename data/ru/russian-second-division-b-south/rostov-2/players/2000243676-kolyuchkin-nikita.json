@@ -1,0 +1,27 @@
+{
+  "id": 2000243676,
+  "first_name": "Nikita",
+  "last_name": "Kolyuchkin",
+  "birth_date": "2005-01-01",
+  "country_id": 791,
+  "club_id": 58002983,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -55,
+  "value": 40225,
+  "contract": {
+    "salary": 11128,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

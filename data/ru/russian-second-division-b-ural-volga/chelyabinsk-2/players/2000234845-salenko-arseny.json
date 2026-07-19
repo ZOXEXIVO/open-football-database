@@ -1,0 +1,47 @@
+{
+  "id": 2000234845,
+  "first_name": "Arseny",
+  "last_name": "Salenko",
+  "birth_date": "2005-01-01",
+  "country_id": 791,
+  "club_id": 2000452904,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 46,
+  "potential_ability": -4,
+  "value": 11508,
+  "contract": {
+    "salary": 9464,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

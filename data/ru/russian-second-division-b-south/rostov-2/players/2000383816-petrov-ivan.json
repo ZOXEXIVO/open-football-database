@@ -1,0 +1,27 @@
+{
+  "id": 2000383816,
+  "first_name": "Ivan",
+  "last_name": "Petrov",
+  "birth_date": "2006-01-01",
+  "country_id": 791,
+  "club_id": 58002983,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 50,
+  "potential_ability": -5,
+  "value": 23868,
+  "contract": {
+    "salary": 6136,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

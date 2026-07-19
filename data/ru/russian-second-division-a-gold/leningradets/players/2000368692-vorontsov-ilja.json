@@ -1,0 +1,31 @@
+{
+  "id": 2000368692,
+  "first_name": "Ilja",
+  "last_name": "Vorontsov",
+  "birth_date": "2006-01-01",
+  "country_id": 791,
+  "club_id": 58148228,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -55,
+  "value": 66069,
+  "contract": {
+    "salary": 8736,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

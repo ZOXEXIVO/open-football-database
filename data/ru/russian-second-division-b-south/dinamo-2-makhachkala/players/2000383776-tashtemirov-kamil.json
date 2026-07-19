@@ -1,0 +1,39 @@
+{
+  "id": 2000383776,
+  "first_name": "Kamil",
+  "last_name": "Tashtemirov",
+  "birth_date": "2005-01-01",
+  "country_id": 791,
+  "club_id": 2000032527,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 54,
+  "potential_ability": -45,
+  "value": 17901,
+  "contract": {
+    "salary": 11752,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000241379,
+  "first_name": "Roman",
+  "last_name": "Chenchikov",
+  "birth_date": "2005-01-01",
+  "country_id": 791,
+  "club_id": 2000452915,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 62,
+  "potential_ability": -5,
+  "value": 40225,
+  "contract": {
+    "salary": 13468,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

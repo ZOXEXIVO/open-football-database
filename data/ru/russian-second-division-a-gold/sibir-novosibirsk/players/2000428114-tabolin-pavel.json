@@ -1,0 +1,27 @@
+{
+  "id": 2000428114,
+  "first_name": "Pavel",
+  "last_name": "Tabolin",
+  "birth_date": "2007-01-01",
+  "country_id": 791,
+  "club_id": 58001661,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 30,
+  "potential_ability": -45,
+  "value": 7001,
+  "contract": {
+    "salary": 1144,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

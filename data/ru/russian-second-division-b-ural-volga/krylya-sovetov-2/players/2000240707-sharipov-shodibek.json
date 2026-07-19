@@ -1,0 +1,35 @@
+{
+  "id": 2000240707,
+  "first_name": "Shodibek",
+  "last_name": "Sharipov",
+  "birth_date": "2005-01-01",
+  "country_id": 144,
+  "club_id": 58137496,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -55,
+  "value": 49549,
+  "contract": {
+    "salary": 24596,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

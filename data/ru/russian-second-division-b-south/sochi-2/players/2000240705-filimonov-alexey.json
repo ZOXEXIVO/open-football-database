@@ -1,0 +1,39 @@
+{
+  "id": 2000240705,
+  "first_name": "Alexey",
+  "last_name": "Filimonov",
+  "birth_date": "2004-01-01",
+  "country_id": 791,
+  "club_id": 2000452915,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -45,
+  "value": 25360,
+  "contract": {
+    "salary": 17628,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

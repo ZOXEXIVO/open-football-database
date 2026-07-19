@@ -1,0 +1,31 @@
+{
+  "id": 2000383763,
+  "first_name": "Irlan",
+  "last_name": "Khugaev",
+  "birth_date": "2007-01-01",
+  "country_id": 791,
+  "club_id": 58137496,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 56,
+  "potential_ability": -55,
+  "value": 45820,
+  "contract": {
+    "salary": 10036,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

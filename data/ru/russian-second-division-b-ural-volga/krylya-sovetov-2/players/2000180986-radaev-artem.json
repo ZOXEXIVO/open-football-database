@@ -1,0 +1,31 @@
+{
+  "id": 2000180986,
+  "first_name": "Artem",
+  "last_name": "Radaev",
+  "birth_date": "2005-01-01",
+  "country_id": 791,
+  "club_id": 58137496,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 65
+  },
+  "current_ability": 68,
+  "potential_ability": -55,
+  "value": 45820,
+  "contract": {
+    "salary": 19240,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

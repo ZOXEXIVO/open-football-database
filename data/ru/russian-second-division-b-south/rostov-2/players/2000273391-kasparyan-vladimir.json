@@ -1,0 +1,31 @@
+{
+  "id": 2000273391,
+  "first_name": "Vladimir",
+  "last_name": "Kasparyan",
+  "birth_date": "2006-01-01",
+  "country_id": 791,
+  "club_id": 58002983,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 64,
+  "potential_ability": -55,
+  "value": 36496,
+  "contract": {
+    "salary": 11128,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}
