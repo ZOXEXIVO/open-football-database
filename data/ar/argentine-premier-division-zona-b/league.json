@@ -1,13 +1,21 @@
 {
-  "id": 60,
+  "id": 2000060002,
   "enabled": true,
-  "slug": "argentine-premier-division",
-  "name": "Premier Division",
+  "slug": "argentine-premier-division-zona-b",
+  "name": "Primera Division B",
   "reputation": 7500,
   "tier": 1,
   "promotion_spots": 0,
-  "relegation_spots": 2,
+  "relegation_spots": 1,
   "sub_leagues_competitions": ["U18"],
+  "league_group": {
+    "name": "Zona B",
+    "competition": "Primera Division",
+    "total_groups": 2,
+    "playoff": {
+      "qualifiers_per_group": 8
+    }
+  },
   "settings": {
     "season_starting_half": {
       "from_day": 1,
