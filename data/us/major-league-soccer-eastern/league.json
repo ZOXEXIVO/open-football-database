@@ -1,13 +1,21 @@
 {
-  "id": 310,
+  "id": 2000310001,
   "enabled": true,
-  "slug": "major-league-soccer",
-  "name": "Major League Soccer",
+  "slug": "major-league-soccer-eastern",
+  "name": "MLS Eastern Conference",
   "reputation": 6200,
   "tier": 1,
   "promotion_spots": 0,
   "relegation_spots": 0,
   "sub_leagues_competitions": ["U18"],
+  "league_group": {
+    "name": "Eastern",
+    "competition": "Major League Soccer",
+    "total_groups": 2,
+    "playoff": {
+      "qualifiers_per_group": 8
+    }
+  },
   "settings": {
     "season_starting_half": {
       "from_day": 1,
