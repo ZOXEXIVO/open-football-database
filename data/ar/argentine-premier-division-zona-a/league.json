@@ -2,7 +2,7 @@
   "id": 2000060001,
   "enabled": true,
   "slug": "argentine-premier-division-zona-a",
-  "name": "Primera Division A",
+  "name": "Primera Division Zona A",
   "reputation": 7500,
   "tier": 1,
   "promotion_spots": 0,
@@ -13,7 +13,9 @@
     "competition": "Primera Division",
     "total_groups": 2,
     "playoff": {
-      "qualifiers_per_group": 8
+      "qualifiers_per_group": 8,
+      "format": "cross_group",
+      "stage_names": ["Torneo Apertura", "Torneo Clausura"]
     }
   },
   "settings": {
@@ -28,7 +30,8 @@
       "from_month": 7,
       "to_day": 15,
       "to_month": 12
-    }
+    },
+    "split_season": true
   },
   "foreign_players": [
     {

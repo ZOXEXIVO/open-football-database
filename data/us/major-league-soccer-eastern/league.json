@@ -13,7 +13,9 @@
     "competition": "Major League Soccer",
     "total_groups": 2,
     "playoff": {
-      "qualifiers_per_group": 8
+      "qualifiers_per_group": 9,
+      "format": "mls",
+      "name": "MLS Cup Playoffs"
     }
   },
   "settings": {
