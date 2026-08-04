@@ -1,0 +1,52 @@
+{
+  "id": 67295224,
+  "first_name": "Abdul",
+  "last_name": "Awudu",
+  "birth_date": "2001-01-10",
+  "country_id": 21,
+  "club_id": 2403,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 104,
+  "value": 292000,
+  "contract": {
+    "salary": 20176,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 71016825,
+    "expiration": "2026-12-31",
+    "salary": 20176,
+    "wage_contribution_pct": 100
+  },
+  "ids": {
+    "transfermarkt.com": "706176"
+  },
+  "history": [
+    { "s": 2023, "c": 2403, "p": 6 },
+    { "s": 2025, "c": 71016825, "p": 6 }
+  ]
+}

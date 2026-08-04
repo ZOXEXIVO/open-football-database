@@ -3,33 +3,22 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="ALL" />
   </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml">
+      <package file="$PROJECT_DIR$/compiler">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/fmf_update">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="505cb019-09e5-4271-844a-a130a66a0df7" name="Changes" comment="Fix club names">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-center/kvant-obninsk/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-center/kvant-obninsk/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-center/rodina-m-moscow/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-center/rodina-m-moscow/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-center/rotor-2-volgograd/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-center/rotor-2-volgograd/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-center/ska-khabarovsk-2/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-center/ska-khabarovsk-2/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-center/zenit-penza/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-center/zenit-penza/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-northwest/fc-cherepovets/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-northwest/fc-cherepovets/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-northwest/fc-irkutsk/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-northwest/fc-irkutsk/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-northwest/fc-kolomna/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-northwest/fc-kolomna/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-northwest/luki-energiya/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-northwest/luki-energiya/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-northwest/yenisey-2-krasnoyarsk/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-northwest/yenisey-2-krasnoyarsk/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/angusht-nazran/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/angusht-nazran/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/dinamo-2-makhachkala/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/dinamo-2-makhachkala/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/fc-astrakhan/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/fc-astrakhan/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/fc-sevastopol/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/fc-sevastopol/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/nart-cherkessk/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/nart-cherkessk/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/pobeda-khasavyurt/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/pobeda-khasavyurt/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/rostov-2/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/rostov-2/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/rubin-yalta/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/rubin-yalta/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/sochi-2/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-south/sochi-2/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-ural-volga/akron-2-tolyatti/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-ural-volga/akron-2-tolyatti/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-ural-volga/chelyabinsk-2/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-ural-volga/chelyabinsk-2/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-ural-volga/kdv-tomsk/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-ural-volga/kdv-tomsk/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-ural-volga/krylya-sovetov-2/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-ural-volga/krylya-sovetov-2/club.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ru/russian-second-division-b-ural-volga/uralets-ts-nizhny-tagil/club.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/ru/russian-second-division-b-ural-volga/uralets-ts-nizhny-tagil/club.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,24 +54,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="505cb019-09e5-4271-844a-a130a66a0df7" name="Changes" comment="" />

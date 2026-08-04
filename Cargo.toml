@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
-members = ["compiler", "scraper", "history_scraper", "transfer_scraper"]
+members = ["compiler", "fmf_update"]
 
 [workspace.package]
 edition = "2024"

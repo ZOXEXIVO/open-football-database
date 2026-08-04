@@ -1,0 +1,34 @@
+{
+  "id": 2000478668,
+  "first_name": "Baye",
+  "last_name": "Gora Mbaye",
+  "birth_date": "2005-10-20",
+  "country_id": 41,
+  "club_id": 12078181,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 60,
+  "potential_ability": -6,
+  "value": 0,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01"
+  },
+  "loan": {
+    "to_club_id": 2403,
+    "expiration": "2026-06-30",
+    "wage_contribution_pct": 100
+  }
+}

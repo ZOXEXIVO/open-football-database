@@ -1,0 +1,37 @@
+{
+  "id": 83261123,
+  "first_name": "Rui",
+  "last_name": "Pedro",
+  "birth_date": "2002-04-24",
+  "country_id": 788,
+  "club_id": 2386,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 86,
+  "potential_ability": 106,
+  "value": 41000,
+  "contract": {
+    "salary": 26936,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 109042,
+    "expiration": "2026-06-30",
+    "salary": 26936,
+    "wage_contribution_pct": 100
+  }
+}

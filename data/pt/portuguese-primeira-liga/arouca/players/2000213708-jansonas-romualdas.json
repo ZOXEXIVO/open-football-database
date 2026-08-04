@@ -18,13 +18,15 @@
   "current_ability": 96,
   "potential_ability": -65,
   "value": 259000,
-  "contract": {    "expiration": "2030-06-30",
+  "contract": {
+    "expiration": "2030-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },
   "loan": {
     "to_club_id": 1474,
-    "expiration": "2027-06-30",    "wage_contribution_pct": 100
+    "expiration": "2026-06-30",
+    "wage_contribution_pct": 100
   },
   "ids": {
     "transfermarkt.com": "832326"
