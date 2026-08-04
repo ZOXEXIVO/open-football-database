@@ -4,7 +4,7 @@
   "last_name": "Lickunas",
   "birth_date": "2006-03-28",
   "country_id": 779,
-  "club_id": 1157,
+  "club_id": 1125,
   "positions": [
     {
       "code": "DR",
@@ -29,9 +29,5 @@
   "contract": {    "expiration": "2026-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
-  },
-  "loan": {
-    "to_club_id": 1125,
-    "expiration": "2027-06-30",    "wage_contribution_pct": 100
   }
 }

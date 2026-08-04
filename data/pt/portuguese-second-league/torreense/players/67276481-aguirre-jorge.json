@@ -1,0 +1,34 @@
+{
+  "id": 67276481,
+  "first_name": "Jorge",
+  "last_name": "Aguirre",
+  "birth_date": "2000-01-05",
+  "country_id": 367,
+  "club_id": 2422,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 106,
+  "value": 238000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "629385"
+  },
+  "history": [
+    { "s": 2024, "c": 1481, "p": 31, "g": 3 },
+    { "s": 2025, "c": 129665, "p": 16, "g": 3 }
+  ]
+}

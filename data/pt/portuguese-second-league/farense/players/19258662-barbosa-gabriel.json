@@ -1,0 +1,33 @@
+{
+  "id": 19258662,
+  "first_name": "Gabriel",
+  "last_name": "Barbosa",
+  "birth_date": "1999-03-17",
+  "country_id": 1651,
+  "club_id": 1485,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 112,
+  "value": 403000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 331, "p": 2 },
+    { "s": 2021, "c": 979, "p": 11 },
+    { "s": 2025, "c": 1452, "p": 3 }
+  ],
+  "ids": {
+    "transfermarkt.com": "534024"
+  }
+}

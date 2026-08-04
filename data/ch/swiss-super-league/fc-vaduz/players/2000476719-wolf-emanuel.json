@@ -4,7 +4,7 @@
   "last_name": "Wolf",
   "birth_date": "2009-07-17",
   "country_id": 778,
-  "club_id": 5622951,
+  "club_id": 5720002,
   "positions": [
     {
       "code": "MC",
@@ -21,9 +21,5 @@
   "contract": {    "expiration": "2029-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
-  },
-  "loan": {
-    "to_club_id": 5720002,
-    "expiration": "2027-06-30",    "wage_contribution_pct": 100
   }
 }

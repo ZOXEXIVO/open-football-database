@@ -4,7 +4,7 @@
   "last_name": "Malen",
   "birth_date": "1999-01-19",
   "country_id": 784,
-  "club_id": 603,
+  "club_id": 1100,
   "positions": [
     {
       "code": "AMR",
@@ -31,12 +31,6 @@
     "expiration": "2029-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
-  },
-  "loan": {
-    "to_club_id": 1100,
-    "expiration": "2027-06-30",
-    "salary": 6760000,
-    "wage_contribution_pct": 100
   },
   "ids": {
     "transfermarkt.com": "326029"

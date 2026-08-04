@@ -1,0 +1,42 @@
+{
+  "id": 742448,
+  "first_name": "José",
+  "last_name": "Fonte",
+  "birth_date": "1983-12-22",
+  "country_id": 788,
+  "club_id": 722,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 146,
+  "value": 169000,
+  "contract": {
+    "salary": 171548,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "33829"
+  },
+  "history": [
+    { "s": 2016, "c": 735, "p": 16 },
+    { "s": 2017, "c": 735, "p": 8 },
+    { "s": 2018, "c": 858, "p": 36, "g": 3 },
+    { "s": 2019, "c": 858, "p": 25, "g": 1 },
+    { "s": 2020, "c": 858, "p": 36, "g": 3 },
+    { "s": 2021, "c": 858, "p": 38 },
+    { "s": 2022, "c": 858, "p": 31, "g": 1 },
+    { "s": 2023, "c": 1488, "p": 19 },
+    { "s": 2024, "c": 2443, "p": 25 },
+    { "s": 2025, "c": 2443, "p": 17, "g": 1 }
+  ]
+}

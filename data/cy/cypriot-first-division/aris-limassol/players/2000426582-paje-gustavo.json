@@ -4,7 +4,7 @@
   "last_name": "Pajé",
   "birth_date": "2005-02-02",
   "country_id": 1651,
-  "club_id": 107236,
+  "club_id": 453,
   "positions": [
     {
       "code": "AMR",
@@ -25,9 +25,5 @@
   "contract": {    "expiration": "2027-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
-  },
-  "loan": {
-    "to_club_id": 453,
-    "expiration": "2027-05-31",    "wage_contribution_pct": 100
   }
 }

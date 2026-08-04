@@ -1,0 +1,47 @@
+{
+  "id": 37061602,
+  "first_name": "Orkun",
+  "last_name": "Kökçü",
+  "birth_date": "2000-12-29",
+  "country_id": 799,
+  "club_id": 1866,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 146,
+  "potential_ability": 156,
+  "value": 21000000,
+  "contract": {
+    "salary": 1664000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "454567"
+  },
+  "history": [
+    { "s": 2018, "c": 1013, "p": 11, "g": 3 },
+    { "s": 2019, "c": 1013, "p": 22, "g": 2 },
+    { "s": 2020, "c": 1013, "p": 22, "g": 3 },
+    { "s": 2021, "c": 1013, "p": 32, "g": 7 },
+    { "s": 2022, "c": 1013, "p": 32, "g": 8 },
+    { "s": 2023, "c": 1487, "p": 27, "g": 7 },
+    { "s": 2024, "c": 1487, "p": 33, "g": 7 }
+  ]
+}

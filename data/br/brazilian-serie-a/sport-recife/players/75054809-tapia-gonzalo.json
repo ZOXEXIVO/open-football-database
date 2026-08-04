@@ -4,7 +4,7 @@
   "last_name": "Tapia",
   "birth_date": "2002-02-18",
   "country_id": 1652,
-  "club_id": 94,
+  "club_id": 337,
   "positions": [
     {
       "code": "AMR",
@@ -31,12 +31,6 @@
     "expiration": "2028-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
-  },
-  "loan": {
-    "to_club_id": 337,
-    "expiration": "2027-12-31",
-    "salary": 104000,
-    "wage_contribution_pct": 100
   },
   "history": [
     { "s": 2025, "c": 338, "p": 20 },

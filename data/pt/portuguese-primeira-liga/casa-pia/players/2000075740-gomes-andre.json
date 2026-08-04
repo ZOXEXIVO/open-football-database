@@ -1,0 +1,27 @@
+{
+  "id": 2000075740,
+  "first_name": "André",
+  "last_name": "Gomes",
+  "birth_date": "2004-01-01",
+  "country_id": 788,
+  "club_id": 2443,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": -8,
+  "value": 21749998,
+  "contract": {
+    "salary": 181948,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

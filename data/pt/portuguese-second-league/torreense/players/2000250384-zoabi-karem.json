@@ -1,0 +1,46 @@
+{
+  "id": 2000250384,
+  "first_name": "Karem",
+  "last_name": "Zoabi",
+  "birth_date": "2006-05-03",
+  "country_id": 775,
+  "club_id": 2422,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 100,
+  "potential_ability": -7,
+  "value": 484000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "982557"
+  },
+  "history": [
+    { "s": 2024, "c": 2383, "p": 12 },
+    { "s": 2025, "c": 2383, "p": 5 }
+  ]
+}

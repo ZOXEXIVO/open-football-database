@@ -1,0 +1,34 @@
+{
+  "id": 16155609,
+  "first_name": "Felix",
+  "last_name": "Bacher",
+  "birth_date": "2000-10-25",
+  "country_id": 755,
+  "club_id": 865,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 126,
+  "potential_ability": 130,
+  "value": 7000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "394134"
+  },
+  "history": [
+    { "s": 2024, "c": 2390, "p": 23, "g": 2 },
+    { "s": 2025, "c": 2390, "p": 27, "g": 2 }
+  ]
+}

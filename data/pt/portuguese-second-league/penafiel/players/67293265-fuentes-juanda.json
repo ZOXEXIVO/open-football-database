@@ -1,0 +1,33 @@
+{
+  "id": 67293265,
+  "first_name": "Juanda",
+  "last_name": "Fuentes",
+  "birth_date": "2003-05-19",
+  "country_id": 1653,
+  "club_id": 1477,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 100,
+  "potential_ability": 122,
+  "value": 425000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

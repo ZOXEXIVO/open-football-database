@@ -1,0 +1,51 @@
+{
+  "id": 88023585,
+  "first_name": "Sarpreet",
+  "last_name": "Singh",
+  "birth_date": "1999-02-20",
+  "country_id": 1438,
+  "club_id": 1485,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 108,
+  "potential_ability": 126,
+  "value": 657000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "350357"
+  },
+  "history": [
+    { "s": 2019, "c": 915, "p": 2 }
+  ]
+}

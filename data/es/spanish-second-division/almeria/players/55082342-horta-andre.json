@@ -1,0 +1,50 @@
+{
+  "id": 55082342,
+  "first_name": "André",
+  "last_name": "Horta",
+  "birth_date": "1996-11-07",
+  "country_id": 788,
+  "club_id": 1661,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 126,
+  "potential_ability": 136,
+  "value": 1000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "329722"
+  },
+  "history": [
+    { "s": 2016, "c": 1487, "p": 10, "g": 1 },
+    { "s": 2017, "c": 1488, "p": 22, "g": 1 },
+    { "s": 2019, "c": 1488, "p": 20 },
+    { "s": 2020, "c": 1488, "p": 26, "g": 1 },
+    { "s": 2021, "c": 1488, "p": 28, "g": 1 },
+    { "s": 2022, "c": 1488, "p": 32, "g": 1 },
+    { "s": 2023, "c": 981, "p": 5 },
+    { "s": 2023, "c": 1488, "p": 14, "g": 2 },
+    { "s": 2024, "c": 981, "p": 2 },
+    { "s": 2024, "c": 1488, "p": 12 }
+  ]
+}

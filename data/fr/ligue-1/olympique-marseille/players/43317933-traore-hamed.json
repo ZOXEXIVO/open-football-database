@@ -4,7 +4,7 @@
   "last_name": "Traoré",
   "birth_date": "2000-02-16",
   "country_id": 24,
-  "club_id": 600,
+  "club_id": 866,
   "positions": [
     {
       "code": "AML",
@@ -28,13 +28,6 @@
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },
-  "loan": {
-    "to_club_id": 866,
-    "expiration": "2027-06-30",
-    "salary": 2860000,
-    "wage_contribution_pct": 100,
-    "future_fee_obligation": true
-  },
   "ids": {
     "transfermarkt.com": "391065"
   },
@@ -50,5 +43,10 @@
     { "s": 2024, "c": 824, "p": 26, "g": 10 },
     { "s": 2025, "c": 600, "p": 1 },
     { "s": 2025, "c": 866, "p": 9, "g": 1 }
-  ]
+  ],
+  "loan": {
+    "to_club_id": 1132,
+    "expiration": "2026-06-30",
+    "wage_contribution_pct": 75
+  }
 }

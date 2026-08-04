@@ -1,0 +1,36 @@
+{
+  "id": 28100012,
+  "first_name": "Andre",
+  "last_name": "Green",
+  "birth_date": "1998-01-01",
+  "country_id": 765,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 120,
+  "value": 999999
+}

@@ -32,5 +32,10 @@
   "history": [
     { "s": 2020, "c": 1489, "p": 16 },
     { "s": 2021, "c": 1489, "p": 21, "g": 3 }
-  ]
+  ],
+  "loan": {
+    "to_club_id": 5624425,
+    "expiration": "2026-06-30",
+    "wage_contribution_pct": 100
+  }
 }

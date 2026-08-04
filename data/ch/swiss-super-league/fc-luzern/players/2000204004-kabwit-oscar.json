@@ -4,7 +4,7 @@
   "last_name": "Kabwit",
   "birth_date": "2005-05-05",
   "country_id": 53,
-  "club_id": 5341691,
+  "club_id": 1851,
   "positions": [
     {
       "code": "AMR",
@@ -29,10 +29,6 @@
   "contract": {    "expiration": "2026-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
-  },
-  "loan": {
-    "to_club_id": 1851,
-    "expiration": "2027-06-30",    "wage_contribution_pct": 100
   },
   "history": [
     { "s": 2025, "c": 1851, "p": 27 }

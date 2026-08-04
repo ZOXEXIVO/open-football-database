@@ -1,0 +1,40 @@
+{
+  "id": 67256616,
+  "first_name": "Gaizka",
+  "last_name": "Larrazabal",
+  "birth_date": "1997-12-17",
+  "country_id": 796,
+  "club_id": 614,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 122,
+  "potential_ability": 130,
+  "value": 4000000,
+  "contract": {
+    "salary": 145548,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "439465"
+  },
+  "history": [
+    { "s": 2019, "c": 1664, "p": 10 },
+    { "s": 2023, "c": 2443, "p": 32, "g": 2 },
+    { "s": 2024, "c": 2443, "p": 32, "g": 2 },
+    { "s": 2025, "c": 2443, "p": 25, "g": 3 }
+  ]
+}

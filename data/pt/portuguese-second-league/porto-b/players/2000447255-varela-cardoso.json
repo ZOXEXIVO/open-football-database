@@ -1,0 +1,35 @@
+{
+  "id": 2000447255,
+  "first_name": "Cardoso",
+  "last_name": "Varela",
+  "birth_date": "2008-10-29",
+  "country_id": 788,
+  "club_id": 55000308,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": -8,
+  "value": 5000000,
+  "contract": {    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 432, "p": 14 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1134201"
+  }
+}

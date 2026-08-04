@@ -4,7 +4,7 @@
   "last_name": "Aké",
   "birth_date": "2001-01-05",
   "country_id": 769,
-  "club_id": 105898,
+  "club_id": 299,
   "positions": [
     {
       "code": "AMR",
@@ -25,9 +25,5 @@
   "contract": {    "expiration": "2027-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
-  },
-  "loan": {
-    "to_club_id": 299,
-    "expiration": "2027-06-30",    "wage_contribution_pct": 100
   }
 }
