@@ -1,0 +1,39 @@
+{
+  "id": 2000132673,
+  "first_name": "Gustavo",
+  "last_name": "Marques",
+  "birth_date": "2001-10-09",
+  "country_id": 1651,
+  "club_id": 1487,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 126,
+  "potential_ability": 134,
+  "value": 3000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 317,
+    "expiration": "2026-06-30",
+    "salary": 156000,
+    "wage_contribution_pct": 100
+  },
+  "ids": {
+    "transfermarkt.com": "977465"
+  },
+  "history": [
+    { "s": 2023, "c": 1487, "p": 1 }
+  ]
+}

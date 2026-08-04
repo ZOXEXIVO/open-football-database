@@ -1,0 +1,29 @@
+{
+  "id": 19046041,
+  "first_name": "Philippe",
+  "last_name": "Coutinho",
+  "birth_date": "1992-01-01",
+  "country_id": 1651,
+  "club_id": 339,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 138,
+  "potential_ability": 176,
+  "loan": {
+    "to_club_id": 255,
+    "expiration": "2026-06-30",
+    "wage_contribution_pct": 100
+  }
+}

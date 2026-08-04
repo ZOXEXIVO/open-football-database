@@ -1,0 +1,27 @@
+{
+  "id": 2000305717,
+  "first_name": "Simão",
+  "last_name": "Lopes",
+  "birth_date": "2005-01-01",
+  "country_id": 788,
+  "club_id": 1480,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": -5,
+  "value": 18720,
+  "contract": {
+    "salary": 6032,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

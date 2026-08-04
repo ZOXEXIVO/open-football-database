@@ -1,0 +1,31 @@
+{
+  "id": 83191205,
+  "first_name": "Tomás",
+  "last_name": "Domingos",
+  "birth_date": "1999-01-01",
+  "country_id": 788,
+  "club_id": 2388,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 116,
+  "value": 607498,
+  "contract": {
+    "salary": 85748,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

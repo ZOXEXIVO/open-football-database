@@ -1,0 +1,31 @@
+{
+  "id": 2000342881,
+  "first_name": "Francisco",
+  "last_name": "França",
+  "birth_date": "2006-01-01",
+  "country_id": 788,
+  "club_id": 1488,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 76,
+  "potential_ability": -65,
+  "value": 80998,
+  "contract": {
+    "salary": 41600,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

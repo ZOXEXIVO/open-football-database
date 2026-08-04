@@ -1,0 +1,37 @@
+{
+  "id": 13193925,
+  "first_name": "Eric",
+  "last_name": "Ayiah",
+  "birth_date": "2000-01-01",
+  "country_id": 21,
+  "club_id": 2384,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 102,
+  "value": 121499,
+  "contract": {
+    "salary": 50648,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2471,
+    "expiration": "2026-06-30",
+    "salary": 50648,
+    "wage_contribution_pct": 100
+  }
+}

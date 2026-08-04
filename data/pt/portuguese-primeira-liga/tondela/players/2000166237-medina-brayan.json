@@ -1,0 +1,27 @@
+{
+  "id": 2000166237,
+  "first_name": "Brayan",
+  "last_name": "Medina",
+  "birth_date": "2002-01-01",
+  "country_id": 1653,
+  "club_id": 2424,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 116,
+  "potential_ability": 132,
+  "value": 3440000,
+  "contract": {
+    "salary": 135148,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

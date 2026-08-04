@@ -1,0 +1,51 @@
+{
+  "id": 48038032,
+  "first_name": "Ronaël",
+  "last_name": "Pierre-Gabriel",
+  "birth_date": "1998-06-13",
+  "country_id": 769,
+  "club_id": 36136195,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 130,
+  "value": 221000,
+  "contract": {
+    "salary": 884000,
+    "expiration": "2026-06-19",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "410185"
+  },
+  "history": [
+    { "s": 2018, "c": 826, "p": 4 },
+    { "s": 2019, "c": 918, "p": 8 },
+    { "s": 2020, "c": 2061, "p": 29, "g": 1 },
+    { "s": 2021, "c": 2061, "p": 30 },
+    { "s": 2022, "c": 872, "p": 14 },
+    { "s": 2022, "c": 1725, "p": 8, "g": 1 },
+    { "s": 2023, "c": 846, "p": 12 }
+  ]
+}

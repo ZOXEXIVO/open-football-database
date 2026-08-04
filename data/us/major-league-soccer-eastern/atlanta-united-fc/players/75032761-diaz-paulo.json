@@ -1,0 +1,37 @@
+{
+  "id": 75032761,
+  "first_name": "Paulo",
+  "last_name": "Díaz",
+  "birth_date": "1994-08-25",
+  "country_id": 1652,
+  "club_id": 72047296,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 128,
+  "potential_ability": 136,
+  "value": 11000000,
+  "contract": {
+    "salary": 676000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2013, "c": 130780, "p": 4 },
+    { "s": 2014, "c": 130780, "p": 24 },
+    { "s": 2015, "c": 399, "p": 1 },
+    { "s": 2016, "c": 96, "p": 26 },
+    { "s": 2017, "c": 96, "p": 21 }
+  ],
+  "ids": {
+    "transfermarkt.com": "271478"
+  }
+}

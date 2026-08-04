@@ -1,0 +1,39 @@
+{
+  "id": 19382496,
+  "first_name": "Pedro",
+  "last_name": "Maranhão",
+  "birth_date": "1999-01-01",
+  "country_id": 1651,
+  "club_id": 2424,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 118,
+  "value": 1979998,
+  "contract": {
+    "salary": 44148,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

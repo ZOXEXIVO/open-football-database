@@ -1,0 +1,36 @@
+{
+  "id": 28100727,
+  "first_name": "Aaron",
+  "last_name": "Nemane",
+  "birth_date": "1997-09-26",
+  "country_id": 765,
+  "club_id": 704,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 106,
+  "value": 136000,
+  "history": [
+    { "s": 2024, "c": 151027, "p": 40 },
+    { "s": 2025, "c": 151027, "p": 38 }
+  ],
+  "ids": {
+    "transfermarkt.com": "248325"
+  }
+}

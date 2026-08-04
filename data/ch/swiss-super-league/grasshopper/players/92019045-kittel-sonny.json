@@ -1,0 +1,41 @@
+{
+  "id": 92019045,
+  "first_name": "Sonny",
+  "last_name": "Kittel",
+  "birth_date": "1993-01-01",
+  "country_id": 771,
+  "club_id": 1855,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 140,
+  "loan": {
+    "to_club_id": 255,
+    "expiration": "2024-06-30",
+    "wage_contribution_pct": 100
+  }
+}

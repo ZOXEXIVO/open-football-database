@@ -1,0 +1,39 @@
+{
+  "id": 85144982,
+  "first_name": "Yann",
+  "last_name": "Karamoh",
+  "birth_date": "1998-01-01",
+  "country_id": 769,
+  "club_id": 55000308,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 124,
+  "potential_ability": 134,
+  "value": 1399999,
+  "contract": {
+    "salary": 797732,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

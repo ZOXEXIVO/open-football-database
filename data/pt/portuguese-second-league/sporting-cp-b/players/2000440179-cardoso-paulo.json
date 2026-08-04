@@ -1,0 +1,35 @@
+{
+  "id": 2000440179,
+  "first_name": "Paulo",
+  "last_name": "Cardoso",
+  "birth_date": "2006-01-01",
+  "country_id": 12,
+  "club_id": 55056835,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -65,
+  "value": 665999,
+  "contract": {
+    "salary": 70148,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

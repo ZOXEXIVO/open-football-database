@@ -1,0 +1,60 @@
+{
+  "id": 2389,
+  "name": "Moreirense",
+  "location": {
+    "city_id": 1431
+  },
+  "finance": {
+    "balance": 1097280
+  },
+  "teams": [
+    {
+      "id": 2389,
+      "name": "Moreirense",
+      "slug": "moreirense",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5700,
+        "national": 5700,
+        "world": 5700
+      }
+    },
+    {
+      "id": 88400057,
+      "name": "Moreirense",
+      "slug": "moreirense-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1710,
+        "national": 1710,
+        "world": 1710
+      }
+    },
+    {
+      "id": 88400058,
+      "name": "Moreirense",
+      "slug": "moreirense-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    }
+  ],
+  "colors": {
+    "background": "#195d48",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2387,
+  "ids": {
+    "transfermarkt.com": "979"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000407542,
+  "first_name": "Fernando",
+  "last_name": "Silva",
+  "birth_date": "2005-01-01",
+  "country_id": 1651,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "value": 63879,
+  "contract": {
+    "salary": 36348,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

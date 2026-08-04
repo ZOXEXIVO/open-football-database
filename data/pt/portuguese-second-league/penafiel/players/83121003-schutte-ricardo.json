@@ -1,0 +1,39 @@
+{
+  "id": 83121003,
+  "first_name": "Ricardo",
+  "last_name": "Schutte",
+  "birth_date": "1998-01-01",
+  "country_id": 788,
+  "club_id": 1477,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 114,
+  "value": 283499,
+  "contract": {
+    "salary": 78000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

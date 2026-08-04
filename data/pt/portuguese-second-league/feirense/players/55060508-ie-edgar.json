@@ -1,0 +1,31 @@
+{
+  "id": 55060508,
+  "first_name": "Edgar",
+  "last_name": "Ié",
+  "birth_date": "1994-01-01",
+  "country_id": 23,
+  "club_id": 2387,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 136,
+  "value": 292120,
+  "contract": {
+    "salary": 83148,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2000103267,
+  "first_name": "Noah",
+  "last_name": "Saviolo",
+  "birth_date": "2004-03-07",
+  "country_id": 757,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 136,
+  "value": 3000000,
+  "contract": {
+    "salary": 43784,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "671669"
+  },
+  "history": [
+    { "s": 2025, "c": 1494, "p": 23, "g": 2 }
+  ]
+}

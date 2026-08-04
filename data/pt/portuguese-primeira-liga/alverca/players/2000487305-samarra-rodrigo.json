@@ -1,0 +1,30 @@
+{
+  "id": 2000487305,
+  "first_name": "Rodrigo",
+  "last_name": "Samarra",
+  "birth_date": "2006-01-01",
+  "country_id": 788,
+  "club_id": 2391,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 62,
+  "potential_ability": -45,
+  "contract": {
+    "salary": 7748,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000497837,
+  "first_name": "Mamadu",
+  "last_name": "Queta",
+  "birth_date": "2008-01-01",
+  "country_id": 23,
+  "club_id": 2388,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 56,
+  "potential_ability": -5,
+  "value": 12735,
+  "contract": {
+    "salary": 3328,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

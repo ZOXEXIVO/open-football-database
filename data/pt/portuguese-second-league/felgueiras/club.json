@@ -1,0 +1,60 @@
+{
+  "id": 2384,
+  "name": "Felgueiras",
+  "location": {
+    "city_id": 1420
+  },
+  "finance": {
+    "balance": 411480
+  },
+  "teams": [
+    {
+      "id": 2384,
+      "name": "Felgueiras",
+      "slug": "felgueiras",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 88400041,
+      "name": "Felgueiras",
+      "slug": "felgueiras-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 88400042,
+      "name": "Felgueiras",
+      "slug": "felgueiras-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#003da5",
+    "foreground": "#e2001a"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 1434,
+  "ids": {
+    "transfermarkt.com": "1701"
+  }
+}

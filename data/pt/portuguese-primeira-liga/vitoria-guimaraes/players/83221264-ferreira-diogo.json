@@ -1,0 +1,37 @@
+{
+  "id": 83221264,
+  "first_name": "Diogo",
+  "last_name": "Ferreira",
+  "birth_date": "2001-01-01",
+  "country_id": 788,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": -6,
+  "value": 56349,
+  "contract": {
+    "salary": 49348,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 55001110,
+    "expiration": "2026-06-30",
+    "salary": 49348,
+    "wage_contribution_pct": 100
+  }
+}

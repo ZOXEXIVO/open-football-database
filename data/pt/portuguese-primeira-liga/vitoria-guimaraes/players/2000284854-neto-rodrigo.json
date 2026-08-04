@@ -1,0 +1,41 @@
+{
+  "id": 2000284854,
+  "first_name": "Rodrigo",
+  "last_name": "Neto",
+  "birth_date": "2006-01-01",
+  "country_id": 788,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 70,
+  "potential_ability": -55,
+  "value": 24389,
+  "contract": {
+    "salary": 18148,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2392,
+    "expiration": "2026-06-30",
+    "salary": 18148,
+    "wage_contribution_pct": 100
+  }
+}

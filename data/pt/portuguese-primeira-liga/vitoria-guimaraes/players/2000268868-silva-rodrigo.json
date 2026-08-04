@@ -1,0 +1,31 @@
+{
+  "id": 2000268868,
+  "first_name": "Rodrigo",
+  "last_name": "Silva",
+  "birth_date": "2007-01-01",
+  "country_id": 788,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -65,
+  "value": 72899,
+  "contract": {
+    "salary": 23348,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

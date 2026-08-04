@@ -1,0 +1,29 @@
+{
+  "id": 2000187052,
+  "first_name": "Luca",
+  "last_name": "Lattanzi",
+  "birth_date": "2006-03-11",
+  "country_id": 776,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "value": 64000,
+  "loan": {
+    "to_club_id": 255,
+    "expiration": "2026-06-30",
+    "wage_contribution_pct": 100
+  }
+}

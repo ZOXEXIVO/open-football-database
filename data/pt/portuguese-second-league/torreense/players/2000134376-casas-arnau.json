@@ -1,0 +1,31 @@
+{
+  "id": 2000134376,
+  "first_name": "Arnau",
+  "last_name": "Casas",
+  "birth_date": "2004-01-01",
+  "country_id": 796,
+  "club_id": 2422,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": -7,
+  "value": 3126000,
+  "contract": {
+    "salary": 93548,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

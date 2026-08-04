@@ -1,0 +1,25 @@
+{
+  "id": 2000020814,
+  "first_name": "Randall",
+  "last_name": "Rodríguez",
+  "birth_date": "2003-01-01",
+  "country_id": 1657,
+  "club_id": 98,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 124,
+  "loan": {
+    "to_club_id": 5512793,
+    "expiration": "2023-12-31",
+    "wage_contribution_pct": 100
+  }
+}

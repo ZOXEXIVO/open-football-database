@@ -1,0 +1,60 @@
+{
+  "id": 2422,
+  "name": "Torreense",
+  "location": {
+    "city_id": 1425
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 2422,
+      "name": "Torreense",
+      "slug": "torreense",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 88400049,
+      "name": "Torreense",
+      "slug": "torreense-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1470,
+        "national": 1470,
+        "world": 1470
+      }
+    },
+    {
+      "id": 88400050,
+      "name": "Torreense",
+      "slug": "torreense-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 980,
+        "national": 980,
+        "world": 980
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e2001a",
+    "foreground": "#195d48"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 825,
+  "ids": {
+    "transfermarkt.com": "2432"
+  }
+}

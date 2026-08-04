@@ -1,0 +1,37 @@
+{
+  "id": 67196256,
+  "first_name": "Marc",
+  "last_name": "Gual",
+  "birth_date": "1996-03-13",
+  "country_id": 796,
+  "club_id": 2383,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 138,
+  "value": 3000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "376486"
+  },
+  "history": [
+    { "s": 2025, "c": 2383, "p": 10 }
+  ]
+}

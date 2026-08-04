@@ -1,0 +1,39 @@
+{
+  "id": 2000193169,
+  "first_name": "Tiago",
+  "last_name": "Andrade",
+  "birth_date": "2005-01-01",
+  "country_id": 788,
+  "club_id": 55000308,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": -7,
+  "value": 2861999,
+  "contract": {
+    "salary": 109148,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000274353,
+  "first_name": "Miguel",
+  "last_name": "Vaz",
+  "birth_date": "2005-01-01",
+  "country_id": 788,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -65,
+  "value": 83998,
+  "contract": {
+    "salary": 33748,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

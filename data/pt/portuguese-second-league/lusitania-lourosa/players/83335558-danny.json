@@ -1,0 +1,43 @@
+{
+  "id": 83335558,
+  "first_name": "Danny",
+  "last_name": "",
+  "birth_date": "1998-01-01",
+  "country_id": 1651,
+  "club_id": 2404,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 96,
+  "value": 67499,
+  "contract": {
+    "salary": 41600,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

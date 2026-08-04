@@ -1,0 +1,35 @@
+{
+  "id": 83148722,
+  "first_name": "Cláudio",
+  "last_name": "Falcão",
+  "birth_date": "1994-01-01",
+  "country_id": 1651,
+  "club_id": 1485,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 120,
+  "value": 2821501,
+  "contract": {
+    "salary": 101400,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

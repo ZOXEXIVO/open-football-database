@@ -1,0 +1,44 @@
+{
+  "id": 24044427,
+  "first_name": "Filip",
+  "last_name": "Krovinović",
+  "birth_date": "1995-08-29",
+  "country_id": 761,
+  "club_id": 324,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 130,
+  "value": 2000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "261988"
+  },
+  "history": [
+    { "s": 2015, "c": 2383, "p": 9 },
+    { "s": 2016, "c": 2383, "p": 26, "g": 5 },
+    { "s": 2017, "c": 1487, "p": 13, "g": 1 },
+    { "s": 2018, "c": 1487, "p": 4 }
+  ]
+}

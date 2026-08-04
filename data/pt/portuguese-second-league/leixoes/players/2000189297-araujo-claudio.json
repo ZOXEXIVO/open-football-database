@@ -1,0 +1,31 @@
+{
+  "id": 2000189297,
+  "first_name": "Cláudio",
+  "last_name": "Araújo",
+  "birth_date": "2003-01-01",
+  "country_id": 788,
+  "club_id": 2406,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 118,
+  "value": 452999,
+  "contract": {
+    "salary": 57148,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

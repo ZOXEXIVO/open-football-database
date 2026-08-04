@@ -1,0 +1,35 @@
+{
+  "id": 2000073485,
+  "first_name": "Werton",
+  "last_name": "",
+  "birth_date": "2003-01-01",
+  "country_id": 1651,
+  "club_id": 2406,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 130,
+  "value": 2144999,
+  "contract": {
+    "salary": 80548,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

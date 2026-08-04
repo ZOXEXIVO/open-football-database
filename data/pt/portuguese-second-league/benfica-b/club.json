@@ -1,0 +1,42 @@
+{
+  "id": 55000306,
+  "name": "Benfica B",
+  "parent_club": {
+    "id": 1487,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 1426
+  },
+  "finance": {
+    "balance": 260000
+  },
+  "teams": [
+    {
+      "id": 55000306,
+      "name": "Benfica B",
+      "slug": "benfica-b",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5300,
+        "national": 5300,
+        "world": 5300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e2001a",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Poor",
+    "youth": "Poor",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 544,
+  "ids": {
+    "transfermarkt.com": "10330"
+  }
+}

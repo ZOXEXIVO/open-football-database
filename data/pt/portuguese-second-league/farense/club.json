@@ -1,0 +1,60 @@
+{
+  "id": 1485,
+  "name": "Farense",
+  "location": {
+    "city_id": 1428
+  },
+  "finance": {
+    "balance": 548640
+  },
+  "teams": [
+    {
+      "id": 1485,
+      "name": "Farense",
+      "slug": "farense",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5500,
+        "national": 5500,
+        "world": 5500
+      }
+    },
+    {
+      "id": 88400051,
+      "name": "Farense",
+      "slug": "farense-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1650,
+        "national": 1650,
+        "world": 1650
+      }
+    },
+    {
+      "id": 88400052,
+      "name": "Farense",
+      "slug": "farense-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 7165,
+  "ids": {
+    "transfermarkt.com": "4294"
+  }
+}

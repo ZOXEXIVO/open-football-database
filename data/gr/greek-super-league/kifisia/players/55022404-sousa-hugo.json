@@ -1,0 +1,33 @@
+{
+  "id": 55022404,
+  "first_name": "Hugo",
+  "last_name": "Sousa",
+  "birth_date": "1992-06-04",
+  "country_id": 788,
+  "club_id": 36077318,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 106,
+  "value": 140000,
+  "ids": {
+    "transfermarkt.com": "187908"
+  },
+  "history": [
+    { "s": 2018, "c": 969, "p": 7 },
+    { "s": 2019, "c": 969, "p": 8 },
+    { "s": 2025, "c": 36077318, "p": 20, "g": 1 }
+  ]
+}

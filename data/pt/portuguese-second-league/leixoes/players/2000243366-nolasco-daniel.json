@@ -1,0 +1,27 @@
+{
+  "id": 2000243366,
+  "first_name": "Daniel",
+  "last_name": "Nolasco",
+  "birth_date": "2005-01-01",
+  "country_id": 1651,
+  "club_id": 2406,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 112,
+  "value": 222600,
+  "contract": {
+    "salary": 9256,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

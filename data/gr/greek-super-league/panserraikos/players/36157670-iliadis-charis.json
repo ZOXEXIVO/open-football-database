@@ -1,0 +1,33 @@
+{
+  "id": 36157670,
+  "first_name": "Charis",
+  "last_name": "Iliadis",
+  "birth_date": "1996-09-05",
+  "country_id": 772,
+  "club_id": 129666,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 100,
+  "value": 60000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "484367"
+  },
+  "history": [
+    { "s": 2019, "c": 978, "p": 2, "g": 1 },
+    { "s": 2020, "c": 978, "p": 17 },
+    { "s": 2025, "c": 978, "p": 11 }
+  ]
+}

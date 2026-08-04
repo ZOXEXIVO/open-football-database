@@ -1,0 +1,31 @@
+{
+  "id": 2000334620,
+  "first_name": "Lucas",
+  "last_name": "D'Agrella",
+  "birth_date": "2005-01-01",
+  "country_id": 788,
+  "club_id": 1485,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 116,
+  "value": 539999,
+  "contract": {
+    "salary": 62400,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

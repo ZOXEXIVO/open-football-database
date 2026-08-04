@@ -1,0 +1,31 @@
+{
+  "id": 2000484232,
+  "first_name": "Leon",
+  "last_name": "Ziętek",
+  "birth_date": "2007-05-01",
+  "country_id": 787,
+  "club_id": 2000030636,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "value": 155000,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1487,
+    "expiration": "2026-06-30",
+    "wage_contribution_pct": 100
+  }
+}

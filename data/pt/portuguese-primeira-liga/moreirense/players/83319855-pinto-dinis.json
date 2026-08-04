@@ -1,0 +1,35 @@
+{
+  "id": 83319855,
+  "first_name": "Dinis",
+  "last_name": "Pinto",
+  "birth_date": "2000-01-01",
+  "country_id": 788,
+  "club_id": 2389,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 128,
+  "potential_ability": 134,
+  "value": 5939999,
+  "contract": {
+    "salary": 80548,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

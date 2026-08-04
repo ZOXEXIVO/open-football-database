@@ -1,0 +1,31 @@
+{
+  "id": 2000308591,
+  "first_name": "Alisson",
+  "last_name": "Souza",
+  "birth_date": "2005-01-01",
+  "country_id": 1651,
+  "club_id": 2000030636,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 84,
+  "potential_ability": -55,
+  "value": 599999,
+  "contract": {
+    "salary": 33748,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

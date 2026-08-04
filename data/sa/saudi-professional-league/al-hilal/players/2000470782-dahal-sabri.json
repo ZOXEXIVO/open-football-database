@@ -1,0 +1,35 @@
+{
+  "id": 2000470782,
+  "first_name": "Sabri",
+  "last_name": "Dahal",
+  "birth_date": "2008-02-29",
+  "country_id": 133,
+  "club_id": 102852,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": -75,
+  "value": 9000000,
+  "contract": {    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 7920365, "p": 24 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1238031"
+  }
+}

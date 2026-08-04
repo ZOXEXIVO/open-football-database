@@ -1,0 +1,39 @@
+{
+  "id": 83169876,
+  "first_name": "Rodrigo",
+  "last_name": "Conceição",
+  "birth_date": "2000-01-01",
+  "country_id": 788,
+  "club_id": 2424,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 126,
+  "value": 3761998,
+  "contract": {
+    "salary": 119548,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

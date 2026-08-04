@@ -1,0 +1,33 @@
+{
+  "id": 2000326702,
+  "first_name": "Tiago",
+  "last_name": "Lopes",
+  "birth_date": "2006-01-01",
+  "country_id": 788,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -6,
+  "value": 32999,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 83216646,
+    "expiration": "2026-06-30",
+    "salary": 26000,
+    "wage_contribution_pct": 100
+  }
+}

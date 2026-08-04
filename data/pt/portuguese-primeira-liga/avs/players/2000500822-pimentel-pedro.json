@@ -1,0 +1,37 @@
+{
+  "id": 2000500822,
+  "first_name": "Pedro",
+  "last_name": "Pimentel",
+  "birth_date": "2007-01-01",
+  "country_id": 788,
+  "club_id": 2000263090,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -55,
+  "value": 41200,
+  "contract": {
+    "salary": 6032,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2455,
+    "expiration": "2026-06-30",
+    "salary": 6032,
+    "wage_contribution_pct": 100
+  }
+}

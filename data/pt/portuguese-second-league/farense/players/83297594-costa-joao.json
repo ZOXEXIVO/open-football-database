@@ -1,0 +1,27 @@
+{
+  "id": 83297594,
+  "first_name": "João",
+  "last_name": "Costa",
+  "birth_date": "2005-01-01",
+  "country_id": 788,
+  "club_id": 1485,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "value": 81519,
+  "contract": {
+    "salary": 23348,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

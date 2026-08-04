@@ -1,0 +1,60 @@
+{
+  "id": 1493,
+  "name": "Leiria",
+  "location": {
+    "city_id": 1429
+  },
+  "finance": {
+    "balance": 603250
+  },
+  "teams": [
+    {
+      "id": 1493,
+      "name": "Leiria",
+      "slug": "leiria",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    },
+    {
+      "id": 88400053,
+      "name": "Leiria",
+      "slug": "leiria-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1530,
+        "national": 1530,
+        "world": 1530
+      }
+    },
+    {
+      "id": 88400054,
+      "name": "Leiria",
+      "slug": "leiria-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    }
+  ],
+  "colors": {
+    "background": "#003da5",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 3172,
+  "ids": {
+    "transfermarkt.com": "2639"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 27111118,
+  "first_name": "Nicolai",
+  "last_name": "Vallys",
+  "birth_date": "1996-09-04",
+  "country_id": 764,
+  "club_id": 107313,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 128,
+  "potential_ability": 134,
+  "value": 5000000,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 496, "p": 15 },
+    { "s": 2023, "c": 496, "p": 22 },
+    { "s": 2024, "c": 496, "p": 16 },
+    { "s": 2025, "c": 496, "p": 20 }
+  ],
+  "ids": {
+    "transfermarkt.com": "524081"
+  }
+}

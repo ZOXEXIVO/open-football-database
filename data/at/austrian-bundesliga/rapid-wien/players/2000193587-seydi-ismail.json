@@ -1,0 +1,49 @@
+{
+  "id": 2000193587,
+  "first_name": "Ismaïl",
+  "last_name": "Seydi",
+  "birth_date": "2001-01-01",
+  "country_id": 769,
+  "club_id": 155,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 114,
+  "value": 288123,
+  "contract": {
+    "salary": 65000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2422,
+    "expiration": "2026-06-30",
+    "salary": 65000,
+    "wage_contribution_pct": 100
+  }
+}

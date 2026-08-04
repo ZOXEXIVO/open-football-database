@@ -1,0 +1,43 @@
+{
+  "id": 83231134,
+  "first_name": "Paulité",
+  "last_name": "",
+  "birth_date": "2000-01-01",
+  "country_id": 788,
+  "club_id": 2406,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 112,
+  "value": 438749,
+  "contract": {
+    "salary": 50648,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

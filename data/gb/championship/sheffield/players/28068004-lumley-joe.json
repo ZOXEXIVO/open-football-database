@@ -1,0 +1,39 @@
+{
+  "id": 28068004,
+  "first_name": "Joe",
+  "last_name": "Lumley",
+  "birth_date": "1995-02-15",
+  "country_id": 765,
+  "club_id": 709,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 136,
+  "value": 1000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 701, "p": 1 },
+    { "s": 2017, "c": 701, "p": 2 },
+    { "s": 2018, "c": 701, "p": 42 },
+    { "s": 2019, "c": 701, "p": 27 },
+    { "s": 2020, "c": 701, "p": 5 },
+    { "s": 2021, "c": 685, "p": 34 },
+    { "s": 2022, "c": 702, "p": 41 }
+  ],
+  "ids": {
+    "transfermarkt.com": "336367"
+  }
+}

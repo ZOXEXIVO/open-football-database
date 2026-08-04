@@ -1,0 +1,39 @@
+{
+  "id": 55080670,
+  "first_name": "Kiko",
+  "last_name": "Bondoso",
+  "birth_date": "1995-01-01",
+  "country_id": 788,
+  "club_id": 2389,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 122,
+  "potential_ability": 130,
+  "value": 3739998,
+  "contract": {
+    "salary": 150800,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

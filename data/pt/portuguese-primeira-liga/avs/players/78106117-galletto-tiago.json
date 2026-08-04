@@ -1,0 +1,39 @@
+{
+  "id": 78106117,
+  "first_name": "Tiago",
+  "last_name": "Galletto",
+  "birth_date": "2002-01-01",
+  "country_id": 1657,
+  "club_id": 2000263090,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 120,
+  "value": 944998,
+  "contract": {
+    "salary": 91000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

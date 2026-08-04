@@ -1,0 +1,42 @@
+{
+  "id": 83215572,
+  "first_name": "Zé",
+  "last_name": "Carlos",
+  "birth_date": "1998-07-31",
+  "country_id": 788,
+  "club_id": 1481,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 122,
+  "potential_ability": 124,
+  "value": 4000000,
+  "contract": {
+    "salary": 124800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "617679"
+  },
+  "history": [
+    { "s": 2020, "c": 1488, "p": 4 },
+    { "s": 2021, "c": 1481, "p": 30 },
+    { "s": 2022, "c": 1481, "p": 8 },
+    { "s": 2023, "c": 1481, "p": 26, "g": 1 },
+    { "s": 2024, "c": 1481, "p": 31 },
+    { "s": 2025, "c": 1481, "p": 25 }
+  ]
+}

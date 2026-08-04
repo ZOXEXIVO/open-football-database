@@ -1,0 +1,33 @@
+{
+  "id": 2000443835,
+  "first_name": "Modou",
+  "last_name": "Seye",
+  "birth_date": "2006-01-01",
+  "country_id": 41,
+  "club_id": 1488,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": -65,
+  "value": 14699,
+  "contract": {
+    "salary": 62400,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 23477748,
+    "expiration": "2026-06-30",
+    "salary": 62400,
+    "wage_contribution_pct": 100
+  }
+}

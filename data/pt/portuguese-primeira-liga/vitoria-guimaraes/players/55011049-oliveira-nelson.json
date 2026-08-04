@@ -1,0 +1,40 @@
+{
+  "id": 55011049,
+  "first_name": "Nélson",
+  "last_name": "Oliveira",
+  "birth_date": "1991-08-08",
+  "country_id": 788,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 136,
+  "value": 829000,
+  "contract": {
+    "salary": 249600,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "72768"
+  },
+  "history": [
+    { "s": 2012, "c": 1705, "p": 30, "g": 4 },
+    { "s": 2013, "c": 884, "p": 30, "g": 8 },
+    { "s": 2019, "c": 967, "p": 17, "g": 9 },
+    { "s": 2020, "c": 967, "p": 21, "g": 5 },
+    { "s": 2022, "c": 982, "p": 24, "g": 7 },
+    { "s": 2023, "c": 1494, "p": 15, "g": 2 },
+    { "s": 2024, "c": 1494, "p": 31, "g": 3 },
+    { "s": 2025, "c": 1494, "p": 23, "g": 3 }
+  ]
+}

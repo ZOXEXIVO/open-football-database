@@ -1,0 +1,25 @@
+{
+  "id": 2000132916,
+  "first_name": "Mateo",
+  "last_name": "Jurić-Petrašilo",
+  "birth_date": "2004-11-30",
+  "country_id": 761,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 114,
+  "value": 532000,
+  "loan": {
+    "to_club_id": 255,
+    "expiration": "2026-06-30",
+    "wage_contribution_pct": 100
+  }
+}

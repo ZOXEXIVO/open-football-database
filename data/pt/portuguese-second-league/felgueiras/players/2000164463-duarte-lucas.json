@@ -1,0 +1,27 @@
+{
+  "id": 2000164463,
+  "first_name": "Lucas",
+  "last_name": "Duarte",
+  "birth_date": "2001-01-01",
+  "country_id": 1651,
+  "club_id": 2384,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 112,
+  "value": 536249,
+  "contract": {
+    "salary": 49348,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

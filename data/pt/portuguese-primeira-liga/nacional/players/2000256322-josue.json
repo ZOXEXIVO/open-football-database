@@ -1,0 +1,37 @@
+{
+  "id": 2000256322,
+  "first_name": "Josué",
+  "last_name": "",
+  "birth_date": "2005-01-01",
+  "country_id": 1651,
+  "club_id": 2433,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -65,
+  "value": 573999,
+  "contract": {
+    "salary": 67548,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 301184,
+    "expiration": "2026-09-30",
+    "salary": 67548,
+    "wage_contribution_pct": 100
+  }
+}

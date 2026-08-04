@@ -1,0 +1,33 @@
+{
+  "id": 2000019860,
+  "first_name": "João",
+  "last_name": "Oliveira",
+  "birth_date": "2002-01-01",
+  "country_id": 788,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116,
+  "value": 305399,
+  "contract": {
+    "salary": 49348,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 55001110,
+    "expiration": "2026-06-30",
+    "salary": 49348,
+    "wage_contribution_pct": 100
+  }
+}

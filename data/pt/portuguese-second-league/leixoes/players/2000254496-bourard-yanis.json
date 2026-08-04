@@ -1,0 +1,31 @@
+{
+  "id": 2000254496,
+  "first_name": "Yanis",
+  "last_name": "Bourard",
+  "birth_date": "2007-01-01",
+  "country_id": 34,
+  "club_id": 2406,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": -65,
+  "value": 465000,
+  "contract": {
+    "salary": 3328,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

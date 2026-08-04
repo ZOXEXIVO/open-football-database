@@ -1,0 +1,35 @@
+{
+  "id": 2000407494,
+  "first_name": "Mateus",
+  "last_name": "Mide",
+  "birth_date": "2008-01-01",
+  "country_id": 788,
+  "club_id": 55000308,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -8,
+  "value": 17250000,
+  "contract": {
+    "salary": 5408,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

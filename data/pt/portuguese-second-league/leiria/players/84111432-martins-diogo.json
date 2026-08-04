@@ -1,0 +1,31 @@
+{
+  "id": 84111432,
+  "first_name": "Diogo",
+  "last_name": "Martins",
+  "birth_date": "1996-01-01",
+  "country_id": 788,
+  "club_id": 1493,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 106,
+  "value": 89929,
+  "contract": {
+    "salary": 57148,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000017221,
+  "first_name": "Bruno",
+  "last_name": "Pires",
+  "birth_date": "2004-01-01",
+  "country_id": 788,
+  "club_id": 1485,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -6,
+  "value": 41899,
+  "contract": {
+    "salary": 23348,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

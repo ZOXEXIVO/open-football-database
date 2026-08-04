@@ -1,0 +1,31 @@
+{
+  "id": 2000484238,
+  "first_name": "Leandro",
+  "last_name": "Sauane",
+  "birth_date": "2008-01-01",
+  "country_id": 23,
+  "club_id": 2000030636,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -6,
+  "value": 37839,
+  "contract": {
+    "salary": 3328,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

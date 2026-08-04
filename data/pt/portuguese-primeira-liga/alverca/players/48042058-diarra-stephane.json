@@ -1,0 +1,39 @@
+{
+  "id": 48042058,
+  "first_name": "Stéphane",
+  "last_name": "Diarra",
+  "birth_date": "1998-01-01",
+  "country_id": 24,
+  "club_id": 2391,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 130,
+  "value": 769999,
+  "contract": {
+    "salary": 114400,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

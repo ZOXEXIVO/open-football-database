@@ -1,0 +1,31 @@
+{
+  "id": 2000218708,
+  "first_name": "Gonçalo",
+  "last_name": "Sousa",
+  "birth_date": "2006-01-01",
+  "country_id": 788,
+  "club_id": 55000308,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 104,
+  "potential_ability": -8,
+  "value": 8580000,
+  "contract": {
+    "salary": 161200,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

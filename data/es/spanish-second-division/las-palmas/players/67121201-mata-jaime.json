@@ -1,0 +1,33 @@
+{
+  "id": 67121201,
+  "first_name": "Jaime",
+  "last_name": "Mata",
+  "birth_date": "1988-10-24",
+  "country_id": 796,
+  "club_id": 1772,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 142,
+  "value": 64000,
+  "ids": {
+    "transfermarkt.com": "227961"
+  },
+  "history": [
+    { "s": 2018, "c": 1710, "p": 34, "g": 14 },
+    { "s": 2019, "c": 1710, "p": 28, "g": 11 },
+    { "s": 2020, "c": 1710, "p": 39, "g": 5 },
+    { "s": 2021, "c": 1710, "p": 22, "g": 1 },
+    { "s": 2022, "c": 1710, "p": 18, "g": 1 },
+    { "s": 2023, "c": 1710, "p": 35, "g": 5 },
+    { "s": 2024, "c": 1772, "p": 30 }
+  ]
+}

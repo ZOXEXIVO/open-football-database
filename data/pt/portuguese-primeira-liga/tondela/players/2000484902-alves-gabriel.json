@@ -1,0 +1,37 @@
+{
+  "id": 2000484902,
+  "first_name": "Gabriel",
+  "last_name": "Alves",
+  "birth_date": "2006-01-01",
+  "country_id": 788,
+  "club_id": 2424,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 76,
+  "potential_ability": -55,
+  "value": 55479,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 83314396,
+    "expiration": "2026-06-30",
+    "salary": 26000,
+    "wage_contribution_pct": 100
+  }
+}

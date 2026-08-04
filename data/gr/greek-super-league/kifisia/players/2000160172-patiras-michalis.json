@@ -1,0 +1,39 @@
+{
+  "id": 2000160172,
+  "first_name": "Michalis",
+  "last_name": "Patiras",
+  "birth_date": "2004-05-13",
+  "country_id": 772,
+  "club_id": 36077318,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 80,
+  "potential_ability": 110,
+  "value": 70000,
+  "ids": {
+    "transfermarkt.com": "733904"
+  },
+  "history": [
+    { "s": 2025, "c": 36077318, "p": 1 }
+  ]
+}

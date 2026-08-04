@@ -1,0 +1,31 @@
+{
+  "id": 2000482080,
+  "first_name": "Júlio",
+  "last_name": "Vieira",
+  "birth_date": "2009-01-01",
+  "country_id": 788,
+  "club_id": 2424,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 62,
+  "potential_ability": -6,
+  "value": 97759,
+  "contract": {
+    "salary": 5408,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000019874,
+  "first_name": "José",
+  "last_name": "Bica",
+  "birth_date": "2003-01-01",
+  "country_id": 788,
+  "club_id": 2406,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 122,
+  "value": 742499,
+  "contract": {
+    "salary": 85748,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 83262117,
+  "first_name": "João",
+  "last_name": "Pinto",
+  "birth_date": "2000-01-01",
+  "country_id": 788,
+  "club_id": 2384,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 126,
+  "value": 404999,
+  "contract": {
+    "salary": 65000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

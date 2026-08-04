@@ -1,0 +1,50 @@
+{
+  "id": 2000192797,
+  "first_name": "Leo",
+  "last_name": "Sauer",
+  "birth_date": "2005-12-16",
+  "country_id": 794,
+  "club_id": 960,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 130,
+  "potential_ability": -8,
+  "value": 21000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "710886"
+  },
+  "history": [
+    { "s": 2023, "c": 1013, "p": 13, "g": 2 },
+    { "s": 2025, "c": 1013, "p": 20, "g": 3 }
+  ]
+}

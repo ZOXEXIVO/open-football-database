@@ -1,0 +1,35 @@
+{
+  "id": 55082742,
+  "first_name": "Simãozinho",
+  "last_name": "",
+  "birth_date": "1995-01-01",
+  "country_id": 788,
+  "club_id": 2406,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 100,
+  "potential_ability": 112,
+  "value": 303749,
+  "contract": {
+    "salary": 67548,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

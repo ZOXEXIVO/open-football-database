@@ -1,0 +1,27 @@
+{
+  "id": 2000466230,
+  "first_name": "Josemar",
+  "last_name": "Sicuba",
+  "birth_date": "2006-01-01",
+  "country_id": 6,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -5,
+  "value": 18779,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

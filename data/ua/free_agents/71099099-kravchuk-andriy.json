@@ -1,0 +1,39 @@
+{
+  "id": 71099099,
+  "first_name": "Andriy",
+  "last_name": "Kravchuk",
+  "birth_date": "1999-02-26",
+  "country_id": 800,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 86,
+  "potential_ability": 94,
+  "value": 26000,
+  "history": [
+    { "s": 2020, "c": 130498, "p": 13 },
+    { "s": 2021, "c": 130498, "p": 19 }
+  ],
+  "ids": {
+    "transfermarkt.com": "537859"
+  }
+}

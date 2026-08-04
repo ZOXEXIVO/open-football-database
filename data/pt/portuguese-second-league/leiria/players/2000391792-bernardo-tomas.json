@@ -1,0 +1,31 @@
+{
+  "id": 2000391792,
+  "first_name": "Tomás",
+  "last_name": "Bernardo",
+  "birth_date": "2005-01-01",
+  "country_id": 788,
+  "club_id": 1493,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 66,
+  "potential_ability": 96,
+  "value": 26910,
+  "contract": {
+    "salary": 18148,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

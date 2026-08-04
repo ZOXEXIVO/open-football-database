@@ -1,0 +1,37 @@
+{
+  "id": 2000080212,
+  "first_name": "Rocco",
+  "last_name": "Žiković",
+  "birth_date": "2005-01-01",
+  "country_id": 761,
+  "club_id": 158,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": -65,
+  "value": 779999,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1493,
+    "expiration": "2026-06-30",
+    "salary": 52000,
+    "wage_contribution_pct": 100
+  }
+}

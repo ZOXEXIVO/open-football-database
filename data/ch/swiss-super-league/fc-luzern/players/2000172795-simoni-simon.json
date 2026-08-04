@@ -1,0 +1,30 @@
+{
+  "id": 2000172795,
+  "first_name": "Simon",
+  "last_name": "Simoni",
+  "birth_date": "2004-07-14",
+  "country_id": 752,
+  "club_id": 1851,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 132,
+  "value": 1000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "726120"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2424,
+  "name": "Tondela",
+  "location": {
+    "city_id": 1433
+  },
+  "finance": {
+    "balance": 548640
+  },
+  "teams": [
+    {
+      "id": 2424,
+      "name": "Tondela",
+      "slug": "tondela",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 88400061,
+      "name": "Tondela",
+      "slug": "tondela-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 88400062,
+      "name": "Tondela",
+      "slug": "tondela-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd700",
+    "foreground": "#195d48"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Good",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2148,
+  "ids": {
+    "transfermarkt.com": "7179"
+  }
+}

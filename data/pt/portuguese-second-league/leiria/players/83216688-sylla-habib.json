@@ -1,0 +1,31 @@
+{
+  "id": 83216688,
+  "first_name": "Habib",
+  "last_name": "Sylla",
+  "birth_date": "1999-01-01",
+  "country_id": 24,
+  "club_id": 1493,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 114,
+  "value": 364498,
+  "contract": {
+    "salary": 75400,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

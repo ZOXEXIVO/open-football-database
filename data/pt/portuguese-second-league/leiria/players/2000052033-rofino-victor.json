@@ -1,0 +1,27 @@
+{
+  "id": 2000052033,
+  "first_name": "Víctor",
+  "last_name": "Rofino",
+  "birth_date": "2002-01-01",
+  "country_id": 23,
+  "club_id": 1493,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 120,
+  "value": 674999,
+  "contract": {
+    "salary": 67548,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

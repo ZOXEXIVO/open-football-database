@@ -1,0 +1,42 @@
+{
+  "id": 55056835,
+  "name": "Sporting CP B",
+  "parent_club": {
+    "id": 1489,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 1427
+  },
+  "finance": {
+    "balance": 258000
+  },
+  "teams": [
+    {
+      "id": 55056835,
+      "name": "Sporting CP B",
+      "slug": "sporting-cp-b",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#00524d",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Poor",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 226,
+  "ids": {
+    "transfermarkt.com": "10949"
+  }
+}

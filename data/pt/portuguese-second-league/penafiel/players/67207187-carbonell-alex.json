@@ -1,0 +1,35 @@
+{
+  "id": 67207187,
+  "first_name": "Àlex",
+  "last_name": "Carbonell",
+  "birth_date": "1997-01-01",
+  "country_id": 796,
+  "club_id": 1477,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 122,
+  "value": 1410748,
+  "contract": {
+    "salary": 101400,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

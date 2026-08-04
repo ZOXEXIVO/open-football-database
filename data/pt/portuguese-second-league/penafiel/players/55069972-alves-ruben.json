@@ -1,0 +1,39 @@
+{
+  "id": 55069972,
+  "first_name": "Rúben",
+  "last_name": "Alves",
+  "birth_date": "1995-01-01",
+  "country_id": 788,
+  "club_id": 1477,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 114,
+  "value": 674999,
+  "contract": {
+    "salary": 59748,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

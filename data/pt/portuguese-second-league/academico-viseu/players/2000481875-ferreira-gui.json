@@ -1,0 +1,31 @@
+{
+  "id": 2000481875,
+  "first_name": "Gui",
+  "last_name": "Ferreira",
+  "birth_date": "2006-01-01",
+  "country_id": 788,
+  "club_id": 2388,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": -55,
+  "value": 24390,
+  "contract": {
+    "salary": 15600,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

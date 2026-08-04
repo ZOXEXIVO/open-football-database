@@ -1,0 +1,27 @@
+{
+  "id": 2000199255,
+  "first_name": "João",
+  "last_name": "Fonseca",
+  "birth_date": "2006-01-01",
+  "country_id": 788,
+  "club_id": 55000306,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": -8,
+  "value": 5490000,
+  "contract": {
+    "salary": 192348,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 12094098,
+  "first_name": "Bachirou",
+  "last_name": "Yaméogo",
+  "birth_date": "2004-01-01",
+  "country_id": 9,
+  "club_id": 2422,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 118,
+  "value": 387000,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

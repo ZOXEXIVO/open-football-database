@@ -1,0 +1,27 @@
+{
+  "id": 2000183244,
+  "first_name": "Francisco",
+  "last_name": "Silva",
+  "birth_date": "2005-01-01",
+  "country_id": 788,
+  "club_id": 55056835,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -7,
+  "value": 467999,
+  "contract": {
+    "salary": 101400,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

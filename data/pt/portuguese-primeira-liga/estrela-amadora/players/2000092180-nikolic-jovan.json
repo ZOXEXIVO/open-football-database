@@ -1,0 +1,26 @@
+{
+  "id": 2000092180,
+  "first_name": "Jovan",
+  "last_name": "Nikolić",
+  "birth_date": "2001-01-01",
+  "country_id": 8,
+  "club_id": 2000030636,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 46,
+  "potential_ability": 56,
+  "contract": {
+    "salary": 14248,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

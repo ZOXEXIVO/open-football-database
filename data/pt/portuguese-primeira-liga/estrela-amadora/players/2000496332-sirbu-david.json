@@ -1,0 +1,38 @@
+{
+  "id": 2000496332,
+  "first_name": "David",
+  "last_name": "Sîrbu",
+  "birth_date": "2006-01-01",
+  "country_id": 783,
+  "club_id": 2000030636,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 56,
+  "potential_ability": -4,
+  "contract": {
+    "salary": 14248,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

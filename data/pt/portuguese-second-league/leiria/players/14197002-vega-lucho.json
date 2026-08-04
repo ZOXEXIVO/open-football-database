@@ -1,0 +1,39 @@
+{
+  "id": 14197002,
+  "first_name": "Lucho",
+  "last_name": "Vega",
+  "birth_date": "1999-01-01",
+  "country_id": 1649,
+  "club_id": 1493,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 112,
+  "value": 384748,
+  "contract": {
+    "salary": 65000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

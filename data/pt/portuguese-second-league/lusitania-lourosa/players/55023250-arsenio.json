@@ -1,0 +1,46 @@
+{
+  "id": 55023250,
+  "first_name": "Arsénio",
+  "last_name": "",
+  "birth_date": "1989-01-01",
+  "country_id": 788,
+  "club_id": 2404,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 120,
+  "contract": {
+    "salary": 54600,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

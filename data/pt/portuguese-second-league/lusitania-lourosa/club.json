@@ -1,0 +1,60 @@
+{
+  "id": 2404,
+  "name": "Lusitânia Lourosa",
+  "location": {
+    "city_id": 1424
+  },
+  "finance": {
+    "balance": 328930
+  },
+  "teams": [
+    {
+      "id": 2404,
+      "name": "Lusitânia Lourosa",
+      "slug": "lusitania-lourosa",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 88400047,
+      "name": "Lusitânia Lourosa",
+      "slug": "lusitania-lourosa-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 88400048,
+      "name": "Lusitânia Lourosa",
+      "slug": "lusitania-lourosa-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd700",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2214,
+  "ids": {
+    "transfermarkt.com": "8189"
+  }
+}

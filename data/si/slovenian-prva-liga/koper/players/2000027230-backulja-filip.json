@@ -1,0 +1,32 @@
+{
+  "id": 2000027230,
+  "first_name": "Filip",
+  "last_name": "Bačkulja",
+  "birth_date": "2002-06-25",
+  "country_id": 802,
+  "club_id": 1632,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 112,
+  "value": 169000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 6400020, "p": 19 },
+    { "s": 2025, "c": 6400020, "p": 14 }
+  ],
+  "ids": {
+    "transfermarkt.com": "698902"
+  }
+}

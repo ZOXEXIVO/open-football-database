@@ -1,0 +1,27 @@
+{
+  "id": 2000484899,
+  "first_name": "Rodrigo",
+  "last_name": "Silva",
+  "birth_date": "2009-01-01",
+  "country_id": 788,
+  "club_id": 2424,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 56,
+  "potential_ability": -65,
+  "value": 87119,
+  "contract": {
+    "salary": 5408,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

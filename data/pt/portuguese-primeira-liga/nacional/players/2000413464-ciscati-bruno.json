@@ -1,0 +1,27 @@
+{
+  "id": 2000413464,
+  "first_name": "Bruno",
+  "last_name": "Ciscati",
+  "birth_date": "2008-01-01",
+  "country_id": 788,
+  "club_id": 2433,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -55,
+  "value": 84179,
+  "contract": {
+    "salary": 5408,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

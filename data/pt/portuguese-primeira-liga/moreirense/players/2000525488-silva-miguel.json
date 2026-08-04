@@ -1,0 +1,27 @@
+{
+  "id": 2000525488,
+  "first_name": "Miguel",
+  "last_name": "Silva",
+  "birth_date": "2008-01-01",
+  "country_id": 788,
+  "club_id": 2389,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "value": 431199,
+  "contract": {
+    "salary": 3328,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

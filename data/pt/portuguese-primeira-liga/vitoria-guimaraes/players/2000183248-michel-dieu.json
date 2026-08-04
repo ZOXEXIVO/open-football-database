@@ -1,0 +1,33 @@
+{
+  "id": 2000183248,
+  "first_name": "Dieu",
+  "last_name": "Michel",
+  "birth_date": "2004-01-01",
+  "country_id": 364,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 120,
+  "value": 708748,
+  "contract": {
+    "salary": 67548,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1493,
+    "expiration": "2026-06-30",
+    "salary": 67548,
+    "wage_contribution_pct": 100
+  }
+}

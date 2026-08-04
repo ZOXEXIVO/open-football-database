@@ -1,0 +1,35 @@
+{
+  "id": 2000184183,
+  "first_name": "Manuel",
+  "last_name": "Kissanga",
+  "birth_date": "2006-01-01",
+  "country_id": 6,
+  "club_id": 55056835,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": -7,
+  "value": 407249,
+  "contract": {
+    "salary": 111800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

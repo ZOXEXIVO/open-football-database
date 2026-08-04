@@ -1,0 +1,60 @@
+{
+  "id": 2433,
+  "name": "Nacional",
+  "location": {
+    "city_id": 1434
+  },
+  "finance": {
+    "balance": 548640
+  },
+  "teams": [
+    {
+      "id": 2433,
+      "name": "Nacional",
+      "slug": "nacional",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5500,
+        "national": 5500,
+        "world": 5500
+      }
+    },
+    {
+      "id": 88400063,
+      "name": "Nacional",
+      "slug": "nacional-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1650,
+        "national": 1650,
+        "world": 1650
+      }
+    },
+    {
+      "id": 88400064,
+      "name": "Nacional",
+      "slug": "nacional-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2396,
+  "ids": {
+    "transfermarkt.com": "982"
+  }
+}

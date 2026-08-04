@@ -1,0 +1,31 @@
+{
+  "id": 83212490,
+  "first_name": "Yaya",
+  "last_name": "Sithole",
+  "birth_date": "1999-01-01",
+  "country_id": 45,
+  "club_id": 2424,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 116,
+  "value": 107161,
+  "contract": {
+    "salary": 101400,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

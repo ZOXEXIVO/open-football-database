@@ -1,0 +1,35 @@
+{
+  "id": 2000118958,
+  "first_name": "Andreas",
+  "last_name": "Karamanolis",
+  "birth_date": "2001-09-02",
+  "country_id": 762,
+  "club_id": 450,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 114,
+  "value": 520000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "703007"
+  },
+  "history": [
+    { "s": 2024, "c": 129666, "p": 1 }
+  ]
+}

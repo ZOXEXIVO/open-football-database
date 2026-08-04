@@ -1,0 +1,38 @@
+{
+  "id": 29217261,
+  "first_name": "Jan",
+  "last_name": "Žambůrek",
+  "birth_date": "2001-02-13",
+  "country_id": 763,
+  "club_id": 986,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 65
+  },
+  "current_ability": 112,
+  "potential_ability": 126,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "487924"
+  },
+  "history": [
+    { "s": 2024, "c": 1037, "p": 20 },
+    { "s": 2025, "c": 1037, "p": 23 }
+  ]
+}

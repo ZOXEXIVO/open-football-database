@@ -1,0 +1,27 @@
+{
+  "id": 2000130646,
+  "first_name": "Georgy",
+  "last_name": "Tunguliyadi",
+  "birth_date": "2004-01-01",
+  "country_id": 791,
+  "club_id": 2000030636,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -5,
+  "value": 44968,
+  "contract": {
+    "salary": 33748,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

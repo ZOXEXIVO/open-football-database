@@ -1,0 +1,44 @@
+{
+  "id": 19404391,
+  "first_name": "Alisson",
+  "last_name": "Santos",
+  "birth_date": "2002-09-27",
+  "country_id": 1651,
+  "club_id": 1489,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 128,
+  "potential_ability": 140,
+  "value": 7000000,
+  "contract": {
+    "salary": 572000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1150,
+    "expiration": "2026-06-30",
+    "salary": 572000,
+    "wage_contribution_pct": 100
+  },
+  "ids": {
+    "transfermarkt.com": "830365"
+  },
+  "history": [
+    { "s": 2025, "c": 1150, "p": 6, "g": 2 },
+    { "s": 2025, "c": 1489, "p": 18 }
+  ]
+}

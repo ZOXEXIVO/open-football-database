@@ -1,0 +1,35 @@
+{
+  "id": 67248395,
+  "first_name": "Javi",
+  "last_name": "Vázquez",
+  "birth_date": "2000-01-01",
+  "country_id": 796,
+  "club_id": 2422,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 114,
+  "potential_ability": 126,
+  "value": 1930500,
+  "contract": {
+    "salary": 98748,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

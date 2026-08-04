@@ -1,0 +1,45 @@
+{
+  "id": 2000138490,
+  "first_name": "Javirro",
+  "last_name": "",
+  "birth_date": "2005-01-01",
+  "country_id": 796,
+  "club_id": 2422,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 120,
+  "value": 617999,
+  "contract": {
+    "salary": 72748,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 7441045,
+    "expiration": "2026-06-30",
+    "salary": 72748,
+    "wage_contribution_pct": 100
+  }
+}

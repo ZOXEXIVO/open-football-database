@@ -1,0 +1,35 @@
+{
+  "id": 2000207521,
+  "first_name": "Martim",
+  "last_name": "Ribeiro",
+  "birth_date": "2006-01-01",
+  "country_id": 788,
+  "club_id": 1493,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": -6,
+  "value": 302400,
+  "contract": {
+    "salary": 23348,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

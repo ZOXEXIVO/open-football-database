@@ -1,0 +1,33 @@
+{
+  "id": 2000246119,
+  "first_name": "Ekanga",
+  "last_name": "Ondoa",
+  "birth_date": "2003-01-01",
+  "country_id": 11,
+  "club_id": 2000030636,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": -6,
+  "value": 128998,
+  "contract": {
+    "salary": 33748,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 734119,
+    "expiration": "2026-06-30",
+    "salary": 33748,
+    "wage_contribution_pct": 100
+  }
+}

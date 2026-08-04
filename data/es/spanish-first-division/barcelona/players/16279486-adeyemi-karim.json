@@ -1,0 +1,48 @@
+{
+  "id": 16279486,
+  "first_name": "Karim",
+  "last_name": "Adeyemi",
+  "birth_date": "2002-01-18",
+  "country_id": 771,
+  "club_id": 1708,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 150,
+  "potential_ability": 160,
+  "value": 53000000,
+  "contract": {
+    "salary": 4732000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "496094"
+  },
+  "history": [
+    { "s": 2022, "c": 907, "p": 24, "g": 6 },
+    { "s": 2023, "c": 907, "p": 21, "g": 3 },
+    { "s": 2024, "c": 907, "p": 25, "g": 7 },
+    { "s": 2025, "c": 907, "p": 25, "g": 6 }
+  ]
+}

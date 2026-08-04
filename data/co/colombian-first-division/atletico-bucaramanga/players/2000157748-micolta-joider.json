@@ -1,0 +1,39 @@
+{
+  "id": 2000157748,
+  "first_name": "Joider",
+  "last_name": "Micolta",
+  "birth_date": "2002-07-13",
+  "country_id": 1653,
+  "club_id": 130802,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 124,
+  "value": 520000,
+  "contract": {    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2026, "c": 130800, "p": 11 }
+  ],
+  "ids": {
+    "transfermarkt.com": "975151"
+  }
+}

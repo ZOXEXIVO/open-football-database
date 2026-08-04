@@ -1,0 +1,35 @@
+{
+  "id": 49039793,
+  "first_name": "Kévin",
+  "last_name": "Zohi",
+  "birth_date": "1997-01-01",
+  "country_id": 31,
+  "club_id": 2422,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 130,
+  "value": 1154998,
+  "contract": {
+    "salary": 96148,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

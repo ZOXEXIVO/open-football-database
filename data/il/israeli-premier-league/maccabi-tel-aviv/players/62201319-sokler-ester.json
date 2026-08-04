@@ -1,0 +1,41 @@
+{
+  "id": 62201319,
+  "first_name": "Ester",
+  "last_name": "Sokler",
+  "birth_date": "1999-06-04",
+  "country_id": 795,
+  "club_id": 1097,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 116,
+  "value": 594000,
+  "contract": {    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 7580708, "p": 2 },
+    { "s": 2017, "c": 7580708, "p": 12 },
+    { "s": 2018, "c": 7580708, "p": 24 },
+    { "s": 2019, "c": 7580708, "p": 16 },
+    { "s": 2020, "c": 1637, "p": 14 },
+    { "s": 2021, "c": 1637, "p": 30 },
+    { "s": 2025, "c": 120779, "p": 22 }
+  ],
+  "ids": {
+    "transfermarkt.com": "481244"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000222250,
+  "first_name": "Vasilis",
+  "last_name": "Bratsiotis",
+  "birth_date": "2005-01-01",
+  "country_id": 772,
+  "club_id": 2388,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -5,
+  "value": 39090,
+  "contract": {
+    "salary": 20748,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

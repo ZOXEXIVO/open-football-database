@@ -1,0 +1,42 @@
+{
+  "id": 55000308,
+  "name": "Porto B",
+  "parent_club": {
+    "id": 1478,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 1422
+  },
+  "finance": {
+    "balance": 308000
+  },
+  "teams": [
+    {
+      "id": 55000308,
+      "name": "Porto B",
+      "slug": "porto-b",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5000,
+        "national": 5000,
+        "world": 5000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#003da5",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Poor",
+    "youth": "Poor",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 581,
+  "ids": {
+    "transfermarkt.com": "10331"
+  }
+}

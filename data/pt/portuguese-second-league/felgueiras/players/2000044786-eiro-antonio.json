@@ -1,0 +1,35 @@
+{
+  "id": 2000044786,
+  "first_name": "António",
+  "last_name": "Eirô",
+  "birth_date": "2001-01-01",
+  "country_id": 788,
+  "club_id": 2384,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 112,
+  "value": 631123,
+  "contract": {
+    "salary": 50648,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000127752,
+  "first_name": "Rodrigo",
+  "last_name": "Melro",
+  "birth_date": "2004-01-01",
+  "country_id": 788,
+  "club_id": 1480,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 112,
+  "value": 472499,
+  "contract": {
+    "salary": 23348,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2456,
+    "expiration": "2026-06-30",
+    "salary": 23348,
+    "wage_contribution_pct": 100
+  }
+}

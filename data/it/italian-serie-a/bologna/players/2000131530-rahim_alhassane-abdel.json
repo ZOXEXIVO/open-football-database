@@ -1,0 +1,33 @@
+{
+  "id": 2000131530,
+  "first_name": "Abdel",
+  "last_name": "Rahim Alhassane",
+  "birth_date": "2002-01-01",
+  "country_id": 37,
+  "club_id": 1111,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 126,
+  "potential_ability": 138,
+  "value": 4000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "929899"
+  },
+  "history": [
+    { "s": 2025, "c": 1741, "p": 20 }
+  ]
+}

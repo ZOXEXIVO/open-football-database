@@ -1,0 +1,39 @@
+{
+  "id": 83119839,
+  "first_name": "Jaiminho",
+  "last_name": "",
+  "birth_date": "1997-01-01",
+  "country_id": 788,
+  "club_id": 1485,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 108,
+  "potential_ability": 112,
+  "value": 849999,
+  "contract": {
+    "salary": 80548,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

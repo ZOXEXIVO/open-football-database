@@ -1,0 +1,27 @@
+{
+  "id": 2000445644,
+  "first_name": "Peter",
+  "last_name": "Edokpolor",
+  "birth_date": "2007-01-01",
+  "country_id": 38,
+  "club_id": 55000306,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": -65,
+  "value": 500000,
+  "contract": {
+    "salary": 78000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

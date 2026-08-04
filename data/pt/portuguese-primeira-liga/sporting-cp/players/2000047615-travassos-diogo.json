@@ -1,0 +1,45 @@
+{
+  "id": 2000047615,
+  "first_name": "Diogo",
+  "last_name": "Travassos",
+  "birth_date": "2004-01-01",
+  "country_id": 788,
+  "club_id": 1489,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 122,
+  "potential_ability": 134,
+  "value": 5325000,
+  "contract": {
+    "salary": 317148,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2389,
+    "expiration": "2026-06-30",
+    "salary": 317148,
+    "wage_contribution_pct": 100
+  }
+}

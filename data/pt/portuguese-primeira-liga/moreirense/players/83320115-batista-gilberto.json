@@ -1,0 +1,31 @@
+{
+  "id": 83320115,
+  "first_name": "Gilberto",
+  "last_name": "Batista",
+  "birth_date": "2004-01-01",
+  "country_id": 23,
+  "club_id": 2389,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 114,
+  "value": 944998,
+  "contract": {
+    "salary": 78000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

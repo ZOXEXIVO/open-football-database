@@ -1,0 +1,33 @@
+{
+  "id": 55028042,
+  "first_name": "Fábio",
+  "last_name": "Martins",
+  "birth_date": "1993-07-24",
+  "country_id": 788,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 136,
+  "ids": {
+    "transfermarkt.com": "223029"
+  },
+  "history": [
+    { "s": 2014, "c": 1488, "p": 1 },
+    { "s": 2017, "c": 1488, "p": 27, "g": 5 },
+    { "s": 2018, "c": 1488, "p": 11 },
+    { "s": 2019, "c": 2397, "p": 24, "g": 9 },
+    { "s": 2020, "c": 2397, "p": 5, "g": 3 }
+  ]
+}

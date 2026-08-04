@@ -1,0 +1,31 @@
+{
+  "id": 95073319,
+  "first_name": "Domingos",
+  "last_name": "Andrade",
+  "birth_date": "2003-01-01",
+  "country_id": 6,
+  "club_id": 55000308,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 128,
+  "value": 2039999,
+  "contract": {
+    "salary": 140400,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000020239,
+  "first_name": "Alexander",
+  "last_name": "Sandahl",
+  "birth_date": "2004-01-01",
+  "country_id": 797,
+  "club_id": 55000306,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 114,
+  "value": 17323,
+  "contract": {
+    "salary": 91000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

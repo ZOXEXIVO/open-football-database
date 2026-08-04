@@ -1,0 +1,41 @@
+{
+  "id": 2000184831,
+  "first_name": "Jefer",
+  "last_name": "Gunjo",
+  "birth_date": "2005-01-01",
+  "country_id": 6,
+  "club_id": 2406,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "value": 305399,
+  "contract": {
+    "salary": 23348,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2394,
+    "expiration": "2026-06-30",
+    "salary": 23348,
+    "wage_contribution_pct": 100
+  }
+}

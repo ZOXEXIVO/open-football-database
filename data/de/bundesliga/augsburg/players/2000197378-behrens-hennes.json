@@ -1,0 +1,38 @@
+{
+  "id": 2000197378,
+  "first_name": "Hennes",
+  "last_name": "Behrens",
+  "birth_date": "2005-01-19",
+  "country_id": 771,
+  "club_id": 2238,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 118,
+  "potential_ability": 140,
+  "value": 3000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "829838"
+  },
+  "history": [
+    { "s": 2024, "c": 879226, "p": 1 },
+    { "s": 2025, "c": 880295, "p": 9, "g": 1 }
+  ]
+}

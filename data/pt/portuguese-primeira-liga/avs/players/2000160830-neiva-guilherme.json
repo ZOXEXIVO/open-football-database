@@ -1,0 +1,47 @@
+{
+  "id": 2000160830,
+  "first_name": "Guilherme",
+  "last_name": "Neiva",
+  "birth_date": "2001-01-01",
+  "country_id": 1651,
+  "club_id": 2000263090,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 112,
+  "value": 674998,
+  "contract": {
+    "salary": 49348,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

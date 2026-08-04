@@ -1,0 +1,45 @@
+{
+  "id": 83239087,
+  "first_name": "Faissal",
+  "last_name": "Zangré",
+  "birth_date": "1997-01-01",
+  "country_id": 9,
+  "club_id": 2384,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 94,
+  "value": 141073,
+  "contract": {
+    "salary": 44148,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 109042,
+    "expiration": "2026-06-30",
+    "salary": 44148,
+    "wage_contribution_pct": 100
+  }
+}

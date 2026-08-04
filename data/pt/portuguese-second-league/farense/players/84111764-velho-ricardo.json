@@ -1,0 +1,33 @@
+{
+  "id": 84111764,
+  "first_name": "Ricardo",
+  "last_name": "Velho",
+  "birth_date": "1998-01-01",
+  "country_id": 788,
+  "club_id": 1485,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 136,
+  "value": 5399999,
+  "contract": {
+    "salary": 199472,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1873,
+    "expiration": "2026-06-30",
+    "salary": 199472,
+    "wage_contribution_pct": 100
+  }
+}

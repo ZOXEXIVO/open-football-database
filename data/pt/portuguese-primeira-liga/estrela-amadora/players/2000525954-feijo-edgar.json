@@ -1,0 +1,30 @@
+{
+  "id": 2000525954,
+  "first_name": "Edgar",
+  "last_name": "Feijó",
+  "birth_date": "2006-01-01",
+  "country_id": 1651,
+  "club_id": 2000030636,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 56,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 14248,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

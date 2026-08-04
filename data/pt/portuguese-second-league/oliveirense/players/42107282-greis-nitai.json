@@ -1,0 +1,27 @@
+{
+  "id": 42107282,
+  "first_name": "Nitai",
+  "last_name": "Greis",
+  "birth_date": "2004-01-01",
+  "country_id": 775,
+  "club_id": 2416,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "value": 120600,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

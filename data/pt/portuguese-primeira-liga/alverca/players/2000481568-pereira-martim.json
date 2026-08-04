@@ -1,0 +1,27 @@
+{
+  "id": 2000481568,
+  "first_name": "Martim",
+  "last_name": "Pereira",
+  "birth_date": "2008-01-01",
+  "country_id": 788,
+  "club_id": 2391,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -55,
+  "value": 70599,
+  "contract": {
+    "salary": 5408,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

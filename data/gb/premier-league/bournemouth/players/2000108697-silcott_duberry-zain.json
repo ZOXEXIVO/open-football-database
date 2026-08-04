@@ -1,0 +1,39 @@
+{
+  "id": 2000108697,
+  "first_name": "Zain",
+  "last_name": "Silcott-Duberry",
+  "birth_date": "2005-07-09",
+  "country_id": 765,
+  "club_id": 600,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -65,
+  "value": 348000,
+  "ids": {
+    "transfermarkt.com": "777308"
+  },
+  "history": [
+    { "s": 2024, "c": 600, "p": 1 }
+  ]
+}

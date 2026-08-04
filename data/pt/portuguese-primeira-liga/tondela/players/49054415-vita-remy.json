@@ -1,0 +1,35 @@
+{
+  "id": 49054415,
+  "first_name": "Rémy",
+  "last_name": "Vita",
+  "birth_date": "2001-01-01",
+  "country_id": 919586,
+  "club_id": 2424,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 110,
+  "potential_ability": 128,
+  "value": 1179664,
+  "contract": {
+    "salary": 101400,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

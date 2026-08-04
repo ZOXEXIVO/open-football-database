@@ -1,0 +1,37 @@
+{
+  "id": 2000206838,
+  "first_name": "Tiago",
+  "last_name": "Silva",
+  "birth_date": "2003-01-01",
+  "country_id": 788,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 78,
+  "potential_ability": 102,
+  "value": 70274,
+  "contract": {
+    "salary": 28600,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 734125,
+    "expiration": "2026-06-30",
+    "salary": 28600,
+    "wage_contribution_pct": 100
+  }
+}

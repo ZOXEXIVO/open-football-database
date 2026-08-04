@@ -1,0 +1,33 @@
+{
+  "id": 2000012532,
+  "first_name": "Talles",
+  "last_name": "Wander",
+  "birth_date": "2003-01-01",
+  "country_id": 1651,
+  "club_id": 2000263090,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 120,
+  "value": 691999,
+  "contract": {
+    "salary": 78000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 2428,
+    "expiration": "2026-06-30",
+    "salary": 78000,
+    "wage_contribution_pct": 100
+  }
+}

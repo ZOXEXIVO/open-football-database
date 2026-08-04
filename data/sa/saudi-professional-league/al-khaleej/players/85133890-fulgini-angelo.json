@@ -1,0 +1,45 @@
+{
+  "id": 85133890,
+  "first_name": "Angelo",
+  "last_name": "Fulgini",
+  "birth_date": "1996-08-20",
+  "country_id": 129532,
+  "club_id": 7920260,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 126,
+  "potential_ability": 140,
+  "value": 2000000,
+  "contract": {
+    "salary": 1560000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "250013"
+  },
+  "history": [
+    { "s": 2017, "c": 875, "p": 29, "g": 3 },
+    { "s": 2018, "c": 875, "p": 31, "g": 4 },
+    { "s": 2019, "c": 875, "p": 20, "g": 1 },
+    { "s": 2020, "c": 875, "p": 33, "g": 7 },
+    { "s": 2021, "c": 875, "p": 36, "g": 5 },
+    { "s": 2022, "c": 871, "p": 17, "g": 1 },
+    { "s": 2022, "c": 918, "p": 16 },
+    { "s": 2023, "c": 871, "p": 29, "g": 1 },
+    { "s": 2024, "c": 871, "p": 23, "g": 1 }
+  ]
+}

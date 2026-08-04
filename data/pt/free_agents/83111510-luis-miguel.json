@@ -1,0 +1,38 @@
+{
+  "id": 83111510,
+  "first_name": "Miguel",
+  "last_name": "Luís",
+  "birth_date": "1999-02-27",
+  "country_id": 788,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 116,
+  "value": 375000,
+  "ids": {
+    "transfermarkt.com": "357161"
+  },
+  "history": [
+    { "s": 2018, "c": 1489, "p": 8, "g": 1 },
+    { "s": 2019, "c": 1489, "p": 2 },
+    { "s": 2020, "c": 1494, "p": 18 },
+    { "s": 2024, "c": 129665, "p": 22, "g": 1 },
+    { "s": 2025, "c": 129665, "p": 7 }
+  ]
+}

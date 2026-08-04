@@ -1,0 +1,31 @@
+{
+  "id": 83333469,
+  "first_name": "Leandro",
+  "last_name": "Santos",
+  "birth_date": "2005-01-01",
+  "country_id": 788,
+  "club_id": 2389,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": -7,
+  "value": 3464000,
+  "contract": {
+    "salary": 135148,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

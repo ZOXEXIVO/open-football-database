@@ -1,0 +1,38 @@
+{
+  "id": 2000497797,
+  "first_name": "Falcão",
+  "last_name": "",
+  "birth_date": "2007-01-01",
+  "country_id": 788,
+  "club_id": 2404,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 40,
+  "potential_ability": -4,
+  "contract": {
+    "salary": 3120,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

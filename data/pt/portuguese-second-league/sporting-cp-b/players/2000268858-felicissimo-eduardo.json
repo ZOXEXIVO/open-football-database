@@ -1,0 +1,31 @@
+{
+  "id": 2000268858,
+  "first_name": "Eduardo",
+  "last_name": "Felicíssimo",
+  "birth_date": "2007-01-01",
+  "country_id": 788,
+  "club_id": 55056835,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": -8,
+  "value": 6720001,
+  "contract": {
+    "salary": 389948,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

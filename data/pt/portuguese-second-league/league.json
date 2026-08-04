@@ -1,0 +1,43 @@
+{
+  "id": 61,
+  "enabled": true,
+  "slug": "portuguese-second-league",
+  "name": "Liga Portugal 2",
+  "reputation": 5500,
+  "tier": 2,
+  "promotion_spots": 2,
+  "relegation_spots": 0,
+  "sub_leagues_competitions": ["U18"],
+  "settings": {
+    "season_starting_half": {
+      "from_day": 9,
+      "from_month": 8,
+      "to_day": 22,
+      "to_month": 12
+    },
+    "season_ending_half": {
+      "from_day": 5,
+      "from_month": 1,
+      "to_day": 17,
+      "to_month": 5
+    }
+  },
+  "foreign_players": [
+    {
+      "country_id": 1651,
+      "weight": 6
+    },
+    {
+      "country_id": 1649,
+      "weight": 3
+    },
+    {
+      "country_id": 769,
+      "weight": 2
+    },
+    {
+      "country_id": 776,
+      "weight": 1
+    }
+  ]
+}

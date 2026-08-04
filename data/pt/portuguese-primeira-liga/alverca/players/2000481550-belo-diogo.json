@@ -1,0 +1,30 @@
+{
+  "id": 2000481550,
+  "first_name": "Diogo",
+  "last_name": "Belo",
+  "birth_date": "2005-01-01",
+  "country_id": 788,
+  "club_id": 2391,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 60,
+  "potential_ability": -4,
+  "contract": {
+    "salary": 13000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

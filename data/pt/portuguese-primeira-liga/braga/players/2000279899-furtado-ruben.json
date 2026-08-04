@@ -1,0 +1,31 @@
+{
+  "id": 2000279899,
+  "first_name": "Rúben",
+  "last_name": "Furtado",
+  "birth_date": "2005-01-01",
+  "country_id": 788,
+  "club_id": 1488,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 92,
+  "potential_ability": -7,
+  "value": 720748,
+  "contract": {
+    "salary": 45500,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 28094949,
+  "first_name": "Harry",
+  "last_name": "Wilson",
+  "birth_date": "1997-03-22",
+  "country_id": 801,
+  "club_id": 671,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 144,
+  "potential_ability": 144,
+  "value": 36000000,
+  "contract": {
+    "salary": 3900000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "279455"
+  },
+  "history": [
+    { "s": 2019, "c": 600, "p": 25, "g": 7 },
+    { "s": 2020, "c": 600, "p": 6 }
+  ]
+}

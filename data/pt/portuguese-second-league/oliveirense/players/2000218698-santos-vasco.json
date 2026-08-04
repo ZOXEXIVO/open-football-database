@@ -1,0 +1,39 @@
+{
+  "id": 2000218698,
+  "first_name": "Vasco",
+  "last_name": "Santos",
+  "birth_date": "2006-01-01",
+  "country_id": 788,
+  "club_id": 2416,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -6,
+  "value": 302400,
+  "contract": {
+    "salary": 44148,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

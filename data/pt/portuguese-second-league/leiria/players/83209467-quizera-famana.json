@@ -1,0 +1,39 @@
+{
+  "id": 83209467,
+  "first_name": "Famana",
+  "last_name": "Quizera",
+  "birth_date": "2002-01-01",
+  "country_id": 23,
+  "club_id": 1493,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 114,
+  "value": 506250,
+  "contract": {
+    "salary": 88400,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

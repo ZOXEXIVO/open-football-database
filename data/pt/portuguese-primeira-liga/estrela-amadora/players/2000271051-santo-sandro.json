@@ -1,0 +1,31 @@
+{
+  "id": 2000271051,
+  "first_name": "Sandro",
+  "last_name": "Santo",
+  "birth_date": "2007-01-01",
+  "country_id": 788,
+  "club_id": 2000030636,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "value": 371999,
+  "contract": {
+    "salary": 23348,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

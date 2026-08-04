@@ -1,0 +1,51 @@
+{
+  "id": 2000303379,
+  "first_name": "Salvador",
+  "last_name": "Blopá",
+  "birth_date": "2007-01-01",
+  "country_id": 788,
+  "club_id": 55056835,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": -75,
+  "value": 6449999,
+  "contract": {
+    "salary": 493948,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

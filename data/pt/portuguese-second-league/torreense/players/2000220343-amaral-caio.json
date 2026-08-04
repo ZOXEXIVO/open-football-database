@@ -1,0 +1,27 @@
+{
+  "id": 2000220343,
+  "first_name": "Caio",
+  "last_name": "Amaral",
+  "birth_date": "2003-01-01",
+  "country_id": 1651,
+  "club_id": 2422,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -7,
+  "value": 462750,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

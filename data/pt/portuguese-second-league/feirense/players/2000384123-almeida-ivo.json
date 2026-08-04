@@ -1,0 +1,37 @@
+{
+  "id": 2000384123,
+  "first_name": "Ivo",
+  "last_name": "Almeida",
+  "birth_date": "2005-01-01",
+  "country_id": 788,
+  "club_id": 2387,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -55,
+  "value": 50658,
+  "contract": {
+    "salary": 20748,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 83314396,
+    "expiration": "2026-06-30",
+    "salary": 20748,
+    "wage_contribution_pct": 100
+  }
+}

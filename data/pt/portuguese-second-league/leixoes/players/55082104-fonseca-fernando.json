@@ -1,0 +1,31 @@
+{
+  "id": 55082104,
+  "first_name": "Fernando",
+  "last_name": "Fonseca",
+  "birth_date": "1997-01-01",
+  "country_id": 788,
+  "club_id": 2406,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 126,
+  "value": 1039499,
+  "contract": {
+    "salary": 85748,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

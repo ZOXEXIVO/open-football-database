@@ -1,0 +1,44 @@
+{
+  "id": 62056923,
+  "first_name": "Nemanja",
+  "last_name": "Stevanović",
+  "birth_date": "1992-05-08",
+  "country_id": 802,
+  "club_id": 1950,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 118,
+  "value": 145000,
+  "contract": {
+    "salary": 44928,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2011, "c": 1301372, "p": 3 },
+    { "s": 2012, "c": 1301372, "p": 3 },
+    { "s": 2014, "c": 1301372, "p": 24 },
+    { "s": 2015, "c": 1301372, "p": 37 },
+    { "s": 2016, "c": 1952, "p": 4 },
+    { "s": 2016, "c": 1301372, "p": 1 },
+    { "s": 2018, "c": 1301372, "p": 33 },
+    { "s": 2019, "c": 1952, "p": 2 },
+    { "s": 2020, "c": 1952, "p": 2 },
+    { "s": 2021, "c": 1952, "p": 14 },
+    { "s": 2022, "c": 1952, "p": 7 },
+    { "s": 2023, "c": 1952, "p": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "181443"
+  }
+}

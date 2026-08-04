@@ -1,0 +1,33 @@
+{
+  "id": 19302919,
+  "first_name": "Léo",
+  "last_name": "Chú",
+  "birth_date": "2000-01-01",
+  "country_id": 1651,
+  "club_id": 2391,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 116,
+  "potential_ability": 122,
+  "value": 2700000,
+  "contract": {
+    "salary": 161200,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 19342677,
+    "expiration": "2026-11-30",
+    "salary": 161200,
+    "wage_contribution_pct": 100
+  }
+}

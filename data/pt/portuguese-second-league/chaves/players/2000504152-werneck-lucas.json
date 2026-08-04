@@ -1,0 +1,31 @@
+{
+  "id": 2000504152,
+  "first_name": "Lucas",
+  "last_name": "Werneck",
+  "birth_date": "2006-01-01",
+  "country_id": 1651,
+  "club_id": 1480,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": -5,
+  "value": 54525,
+  "contract": {
+    "salary": 9412,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

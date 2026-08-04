@@ -1,0 +1,27 @@
+{
+  "id": 2000397433,
+  "first_name": "Diógenes",
+  "last_name": "Inácio",
+  "birth_date": "2005-01-01",
+  "country_id": 6,
+  "club_id": 2000030636,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 76,
+  "potential_ability": -55,
+  "value": 39089,
+  "contract": {
+    "salary": 23348,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

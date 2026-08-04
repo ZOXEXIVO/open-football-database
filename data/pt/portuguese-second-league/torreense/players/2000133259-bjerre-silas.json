@@ -1,0 +1,27 @@
+{
+  "id": 2000133259,
+  "first_name": "Silas",
+  "last_name": "Bjerre",
+  "birth_date": "2005-01-01",
+  "country_id": 764,
+  "club_id": 2422,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 80,
+  "potential_ability": 110,
+  "value": 222600,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

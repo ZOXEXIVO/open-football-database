@@ -1,0 +1,35 @@
+{
+  "id": 83288814,
+  "first_name": "Yan",
+  "last_name": "Said",
+  "birth_date": "2002-01-01",
+  "country_id": 788,
+  "club_id": 1488,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": 114,
+  "value": 8999,
+  "contract": {
+    "salary": 60528,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

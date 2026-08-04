@@ -1,0 +1,42 @@
+{
+  "id": 36152916,
+  "first_name": "Christos",
+  "last_name": "Tzolis",
+  "birth_date": "2002-01-30",
+  "country_id": 772,
+  "club_id": 602,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 136,
+  "potential_ability": 148,
+  "value": 14000000,
+  "contract": {
+    "salary": 1664000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "451677"
+  },
+  "history": [
+    { "s": 2020, "c": 982, "p": 25, "g": 6 },
+    { "s": 2022, "c": 1009, "p": 10, "g": 1 }
+  ]
+}

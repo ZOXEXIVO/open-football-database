@@ -1,0 +1,31 @@
+{
+  "id": 2000287733,
+  "first_name": "Kevin",
+  "last_name": "Pinto",
+  "birth_date": "2006-01-01",
+  "country_id": 788,
+  "club_id": 55000306,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -65,
+  "value": 253199,
+  "contract": {
+    "salary": 67548,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

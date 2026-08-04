@@ -1,0 +1,44 @@
+{
+  "id": 43094535,
+  "first_name": "Mattia",
+  "last_name": "Aramu",
+  "birth_date": "1995-05-14",
+  "country_id": 776,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 116,
+  "potential_ability": 134,
+  "value": 817000,
+  "ids": {
+    "transfermarkt.com": "200188"
+  },
+  "history": [
+    { "s": 2016, "c": 1174, "p": 1 },
+    { "s": 2021, "c": 1179, "p": 32, "g": 7 }
+  ],
+  "loan": {
+    "to_club_id": 255,
+    "expiration": "2026-06-30",
+    "wage_contribution_pct": 100
+  }
+}

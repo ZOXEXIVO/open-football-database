@@ -1,0 +1,31 @@
+{
+  "id": 2000268843,
+  "first_name": "João",
+  "last_name": "Capucho",
+  "birth_date": "2007-01-01",
+  "country_id": 788,
+  "club_id": 55000306,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 88,
+  "potential_ability": -7,
+  "value": 584999,
+  "contract": {
+    "salary": 78000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

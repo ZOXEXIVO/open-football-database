@@ -1,0 +1,27 @@
+{
+  "id": 83174673,
+  "first_name": "Brian",
+  "last_name": "Araújo",
+  "birth_date": "2000-01-01",
+  "country_id": 788,
+  "club_id": 1485,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 100,
+  "value": 506248,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

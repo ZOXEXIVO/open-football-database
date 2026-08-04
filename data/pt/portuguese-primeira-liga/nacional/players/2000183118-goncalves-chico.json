@@ -1,0 +1,27 @@
+{
+  "id": 2000183118,
+  "first_name": "Chico",
+  "last_name": "Gonçalves",
+  "birth_date": "2004-01-01",
+  "country_id": 788,
+  "club_id": 2433,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 118,
+  "value": 316199,
+  "contract": {
+    "salary": 28600,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

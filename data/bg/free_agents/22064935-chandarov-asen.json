@@ -1,0 +1,33 @@
+{
+  "id": 22064935,
+  "first_name": "Asen",
+  "last_name": "Chandarov",
+  "birth_date": "1998-11-13",
+  "country_id": 760,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 106,
+  "value": 345000,
+  "loan": {
+    "to_club_id": 255,
+    "expiration": "2024-06-30",
+    "wage_contribution_pct": 100
+  }
+}

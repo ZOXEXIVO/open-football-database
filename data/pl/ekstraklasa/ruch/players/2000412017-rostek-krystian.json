@@ -1,0 +1,29 @@
+{
+  "id": 2000412017,
+  "first_name": "Krystian",
+  "last_name": "Rostek",
+  "birth_date": "2008-03-08",
+  "country_id": 787,
+  "club_id": 1462,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -6,
+  "value": 147000,
+  "contract": {    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

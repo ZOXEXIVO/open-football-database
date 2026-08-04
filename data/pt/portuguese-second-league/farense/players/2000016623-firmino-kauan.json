@@ -1,0 +1,27 @@
+{
+  "id": 2000016623,
+  "first_name": "Kauan",
+  "last_name": "Firmino",
+  "birth_date": "2002-01-01",
+  "country_id": 1651,
+  "club_id": 1485,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": 96,
+  "value": 62199,
+  "contract": {
+    "salary": 23348,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

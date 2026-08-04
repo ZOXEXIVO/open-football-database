@@ -1,0 +1,55 @@
+{
+  "id": 29165730,
+  "first_name": "Danny",
+  "last_name": "Namaso",
+  "birth_date": "2000-08-28",
+  "country_id": 11,
+  "club_id": 1478,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 126,
+  "potential_ability": 134,
+  "value": 3000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 824,
+    "expiration": "2027-06-30",
+    "salary": 624000,
+    "wage_contribution_pct": 100
+  },
+  "ids": {
+    "transfermarkt.com": "392767"
+  },
+  "history": [
+    { "s": 2021, "c": 1478, "p": 1, "g": 1 },
+    { "s": 2022, "c": 1478, "p": 22, "g": 3 },
+    { "s": 2023, "c": 1478, "p": 16, "g": 1 },
+    { "s": 2024, "c": 1478, "p": 29, "g": 3 },
+    { "s": 2025, "c": 824, "p": 23, "g": 3 }
+  ]
+}

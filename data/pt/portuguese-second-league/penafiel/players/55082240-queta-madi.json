@@ -1,0 +1,39 @@
+{
+  "id": 55082240,
+  "first_name": "Madi",
+  "last_name": "Queta",
+  "birth_date": "1998-01-01",
+  "country_id": 23,
+  "club_id": 1477,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 126,
+  "value": 229498,
+  "contract": {
+    "salary": 83148,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

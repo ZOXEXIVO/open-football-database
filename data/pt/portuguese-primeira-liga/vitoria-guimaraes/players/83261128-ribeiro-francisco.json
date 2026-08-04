@@ -1,0 +1,33 @@
+{
+  "id": 83261128,
+  "first_name": "Francisco",
+  "last_name": "Ribeiro",
+  "birth_date": "2003-01-01",
+  "country_id": 788,
+  "club_id": 1494,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": 98,
+  "value": 51373,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 734115,
+    "expiration": "2026-06-30",
+    "salary": 39000,
+    "wage_contribution_pct": 100
+  }
+}

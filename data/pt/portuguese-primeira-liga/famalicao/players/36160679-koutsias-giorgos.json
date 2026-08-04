@@ -1,0 +1,41 @@
+{
+  "id": 36160679,
+  "first_name": "Giorgos",
+  "last_name": "Koutsias",
+  "birth_date": "2004-02-08",
+  "country_id": 772,
+  "club_id": 2397,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 136,
+  "value": 2000000,
+  "contract": {    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "724039"
+  },
+  "history": [
+    { "s": 2020, "c": 982, "p": 2 },
+    { "s": 2021, "c": 982, "p": 1 },
+    { "s": 2022, "c": 36136195, "p": 20, "g": 3 }
+  ]
+}
