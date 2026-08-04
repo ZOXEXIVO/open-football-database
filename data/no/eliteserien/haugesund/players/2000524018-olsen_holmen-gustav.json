@@ -21,5 +21,9 @@
   "contract": {    "expiration": "2039-06-30",
     "started": "2025-07-01",
     "contract_type": "NonContract"
-  }
+  },
+  "history": [
+    { "s": 2024, "c": 80001277, "p": 0 },
+    { "s": 2025, "c": 86047634, "p": 2 }
+  ]
 }

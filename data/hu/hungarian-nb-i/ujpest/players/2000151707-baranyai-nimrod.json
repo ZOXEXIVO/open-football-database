@@ -33,5 +33,9 @@
   "loan": {
     "to_club_id": 7521266,
     "expiration": "2027-06-30",    "wage_contribution_pct": 100
-  }
+  },
+  "history": [
+    { "s": 2020, "c": 792389, "p": 9, "g": 2 },
+    { "s": 2021, "c": 775266, "p": 9 }
+  ]
 }

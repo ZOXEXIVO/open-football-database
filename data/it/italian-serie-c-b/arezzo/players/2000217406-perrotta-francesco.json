@@ -29,5 +29,10 @@
   "contract": {    "expiration": "2026-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
-  }
+  },
+  "history": [
+    { "s": 2019, "c": 1556, "p": 0 },
+    { "s": 2020, "c": 1556, "p": 0 },
+    { "s": 2022, "c": 1544, "p": 2 }
+  ]
 }

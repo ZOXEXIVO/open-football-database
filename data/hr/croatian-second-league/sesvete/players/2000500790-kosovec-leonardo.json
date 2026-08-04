@@ -33,5 +33,9 @@
   "contract": {    "expiration": "2030-06-30",
     "started": "2025-07-01",
     "contract_type": "PartTime"
-  }
+  },
+  "history": [
+    { "s": 2025, "c": 2159, "p": 10, "g": 2 },
+    { "s": 2025, "c": 93143640, "p": 2 }
+  ]
 }
