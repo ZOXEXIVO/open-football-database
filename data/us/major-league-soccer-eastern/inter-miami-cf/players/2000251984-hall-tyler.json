@@ -1,0 +1,31 @@
+{
+  "id": 2000251984,
+  "first_name": "Tyler",
+  "last_name": "Hall",
+  "birth_date": "2006-01-01",
+  "country_id": 390,
+  "club_id": 72052048,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -65,
+  "value": 1137148,
+  "contract": {
+    "salary": 89076,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

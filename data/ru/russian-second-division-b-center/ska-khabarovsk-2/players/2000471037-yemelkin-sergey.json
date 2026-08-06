@@ -1,0 +1,27 @@
+{
+  "id": 2000471037,
+  "first_name": "Sergey",
+  "last_name": "Yemelkin",
+  "birth_date": "2006-01-01",
+  "country_id": 791,
+  "club_id": 2000177313,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -5,
+  "value": 105496,
+  "contract": {
+    "salary": 10244,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000437952,
+  "first_name": "Tyrone",
+  "last_name": "Samba",
+  "birth_date": "2008-01-01",
+  "country_id": 769,
+  "club_id": 679,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": -7,
+  "value": 565027,
+  "contract": {
+    "salary": 18356,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

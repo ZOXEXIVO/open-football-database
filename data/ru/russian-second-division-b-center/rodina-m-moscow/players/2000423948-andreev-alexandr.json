@@ -1,0 +1,31 @@
+{
+  "id": 2000423948,
+  "first_name": "Alexandr",
+  "last_name": "Andreev",
+  "birth_date": "2009-01-01",
+  "country_id": 791,
+  "club_id": 2000191500,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -75,
+  "value": 534195,
+  "contract": {
+    "salary": 3328,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

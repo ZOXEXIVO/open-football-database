@@ -1,0 +1,27 @@
+{
+  "id": 2000423945,
+  "first_name": "Nikita",
+  "last_name": "Philippov",
+  "birth_date": "2008-01-01",
+  "country_id": 791,
+  "club_id": 2000177313,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 44,
+  "potential_ability": -55,
+  "value": 109092,
+  "contract": {
+    "salary": 4056,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

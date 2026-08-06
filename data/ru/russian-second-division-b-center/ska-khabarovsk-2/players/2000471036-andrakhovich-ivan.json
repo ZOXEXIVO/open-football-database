@@ -1,0 +1,27 @@
+{
+  "id": 2000471036,
+  "first_name": "Ivan",
+  "last_name": "Andrakhovich",
+  "birth_date": "2007-01-01",
+  "country_id": 791,
+  "club_id": 2000177313,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 42,
+  "potential_ability": -45,
+  "value": 14545,
+  "contract": {
+    "salary": 3692,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

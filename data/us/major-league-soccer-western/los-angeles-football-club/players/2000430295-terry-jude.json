@@ -1,0 +1,31 @@
+{
+  "id": 2000430295,
+  "first_name": "Jude",
+  "last_name": "Terry",
+  "birth_date": "2008-01-01",
+  "country_id": 390,
+  "club_id": 72049313,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": -7,
+  "value": 4028207,
+  "contract": {
+    "salary": 89076,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

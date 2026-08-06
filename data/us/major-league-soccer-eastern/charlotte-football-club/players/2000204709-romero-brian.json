@@ -1,0 +1,31 @@
+{
+  "id": 2000204709,
+  "first_name": "Brian",
+  "last_name": "Romero",
+  "birth_date": "2006-01-01",
+  "country_id": 390,
+  "club_id": 2000032491,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -6,
+  "value": 1018063,
+  "contract": {
+    "salary": 116324,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

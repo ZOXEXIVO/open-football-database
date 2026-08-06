@@ -1,0 +1,27 @@
+{
+  "id": 2000322121,
+  "first_name": "Brian",
+  "last_name": "Schaefer",
+  "birth_date": "2002-01-01",
+  "country_id": 390,
+  "club_id": 20041327,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 104,
+  "value": 955976,
+  "contract": {
+    "salary": 69004,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

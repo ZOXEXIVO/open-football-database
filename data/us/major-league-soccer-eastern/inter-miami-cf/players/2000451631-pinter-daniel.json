@@ -1,0 +1,35 @@
+{
+  "id": 2000451631,
+  "first_name": "Dániel",
+  "last_name": "Pintér",
+  "birth_date": "2007-01-01",
+  "country_id": 390,
+  "club_id": 72052048,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 132,
+  "value": 1796311,
+  "contract": {
+    "salary": 69004,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

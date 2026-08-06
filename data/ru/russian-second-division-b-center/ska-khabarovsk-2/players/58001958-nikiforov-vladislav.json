@@ -1,0 +1,39 @@
+{
+  "id": 58001958,
+  "first_name": "Vladislav",
+  "last_name": "Nikiforov",
+  "birth_date": "1989-01-01",
+  "country_id": 791,
+  "club_id": 2000177313,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 108,
+  "value": 3596,
+  "contract": {
+    "salary": 30524,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

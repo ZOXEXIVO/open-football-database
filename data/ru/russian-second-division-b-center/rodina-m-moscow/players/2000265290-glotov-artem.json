@@ -1,0 +1,31 @@
+{
+  "id": 2000265290,
+  "first_name": "Artem",
+  "last_name": "Glotov",
+  "birth_date": "2008-01-01",
+  "country_id": 791,
+  "club_id": 2000191500,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 36,
+  "potential_ability": -45,
+  "value": 16783,
+  "contract": {
+    "salary": 2704,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}
