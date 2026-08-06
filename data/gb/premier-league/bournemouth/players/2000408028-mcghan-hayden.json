@@ -1,0 +1,25 @@
+{
+  "id": 2000408028,
+  "first_name": "Hayden",
+  "last_name": "McGhan",
+  "birth_date": "2008-03-02",
+  "country_id": 765,
+  "club_id": 600,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": 108,
+  "value": 14000,
+  "history": [
+    { "s": 2024, "c": 600, "p": 0 },
+    { "s": 2024, "c": 90069982, "p": 6 }
+  ]
+}

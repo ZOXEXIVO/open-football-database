@@ -1,0 +1,31 @@
+{
+  "id": 2000198726,
+  "first_name": "I-Lani",
+  "last_name": "Edwards",
+  "birth_date": "2005-09-20",
+  "country_id": 765,
+  "club_id": 603,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -5,
+  "value": 27000,
+  "history": [
+    { "s": 2022, "c": 603, "p": 0 },
+    { "s": 2023, "c": 603, "p": 0 },
+    { "s": 2024, "c": 603, "p": 0 },
+    { "s": 2025, "c": 82070144, "p": 17, "g": 1 }
+  ]
+}

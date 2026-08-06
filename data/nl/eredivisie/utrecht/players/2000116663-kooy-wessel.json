@@ -1,0 +1,30 @@
+{
+  "id": 2000116663,
+  "first_name": "Wessel",
+  "last_name": "Kooy",
+  "birth_date": "2005-01-09",
+  "country_id": 784,
+  "club_id": 1010,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": -7,
+  "value": 4000000,
+  "history": [
+    { "s": 2022, "c": 37060575, "p": 9 },
+    { "s": 2023, "c": 1010, "p": 0 },
+    { "s": 2023, "c": 37060575, "p": 30, "g": 1 },
+    { "s": 2024, "c": 37060575, "p": 24 }
+  ],
+  "ids": {
+    "transfermarkt.com": "931018"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2000417921,
+  "first_name": "McCartney",
+  "last_name": "Woodhouse",
+  "birth_date": "2008-01-14",
+  "country_id": 765,
+  "club_id": 685,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -6,
+  "value": 47000,
+  "history": [
+    { "s": 2024, "c": 685, "p": 0 }
+  ]
+}

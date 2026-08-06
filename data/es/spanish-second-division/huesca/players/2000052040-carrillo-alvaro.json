@@ -1,0 +1,37 @@
+{
+  "id": 2000052040,
+  "first_name": "Álvaro",
+  "last_name": "Carrillo",
+  "birth_date": "2002-04-06",
+  "country_id": 796,
+  "club_id": 4212294,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 140,
+  "value": 912000,
+  "history": [
+    { "s": 2019, "c": 1736, "p": 0 },
+    { "s": 2020, "c": 1736, "p": 0 },
+    { "s": 2020, "c": 1737, "p": 6 },
+    { "s": 2021, "c": 1737, "p": 18 },
+    { "s": 2022, "c": 1737, "p": 28 },
+    { "s": 2023, "c": 1737, "p": 20 },
+    { "s": 2024, "c": 1753, "p": 21, "g": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "652330"
+  }
+}

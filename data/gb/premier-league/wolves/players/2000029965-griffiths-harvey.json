@@ -1,0 +1,38 @@
+{
+  "id": 2000029965,
+  "first_name": "Harvey",
+  "last_name": "Griffiths",
+  "birth_date": "2003-09-22",
+  "country_id": 765,
+  "club_id": 740,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": 100,
+  "value": 40000,
+  "history": [
+    { "s": 2020, "c": 679, "p": 0 },
+    { "s": 2021, "c": 679, "p": 0 },
+    { "s": 2021, "c": 740, "p": 0 },
+    { "s": 2022, "c": 740, "p": 0 },
+    { "s": 2023, "c": 731, "p": 1 },
+    { "s": 2023, "c": 740, "p": 0 },
+    { "s": 2024, "c": 740, "p": 0 },
+    { "s": 2025, "c": 641, "p": 0 }
+  ],
+  "ids": {
+    "transfermarkt.com": "670558"
+  }
+}

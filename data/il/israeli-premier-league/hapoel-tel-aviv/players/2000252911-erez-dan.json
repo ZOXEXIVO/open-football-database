@@ -1,0 +1,29 @@
+{
+  "id": 2000252911,
+  "first_name": "Dan",
+  "last_name": "Erez",
+  "birth_date": "2006-04-21",
+  "country_id": 775,
+  "club_id": 1090,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 46,
+  "potential_ability": -4,
+  "value": 0,
+  "history": [
+    { "s": 2021, "c": 1096, "p": 0 },
+    { "s": 2022, "c": 1090, "p": 0 },
+    { "s": 2023, "c": 1090, "p": 0 },
+    { "s": 2024, "c": 1090, "p": 0 },
+    { "s": 2024, "c": 42006473, "p": 0 },
+    { "s": 2025, "c": 1090, "p": 0 }
+  ]
+}

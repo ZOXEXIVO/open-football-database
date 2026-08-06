@@ -1,0 +1,30 @@
+{
+  "id": 2000199175,
+  "first_name": "Callum",
+  "last_name": "Yam",
+  "birth_date": "2006-02-21",
+  "country_id": 765,
+  "club_id": 665,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -5,
+  "value": 24000,
+  "history": [
+    { "s": 2021, "c": 688, "p": 0 },
+    { "s": 2022, "c": 708, "p": 0 },
+    { "s": 2023, "c": 665, "p": 0 },
+    { "s": 2023, "c": 708, "p": 0 },
+    { "s": 2023, "c": 4001092, "p": 1 },
+    { "s": 2024, "c": 665, "p": 0 },
+    { "s": 2024, "c": 30009849, "p": 3 }
+  ]
+}

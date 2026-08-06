@@ -1,0 +1,28 @@
+{
+  "id": 2000436214,
+  "first_name": "Cavalli",
+  "last_name": "Walker",
+  "birth_date": "2008-01-14",
+  "country_id": 765,
+  "club_id": 619,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": -5,
+  "value": 14000,
+  "history": [
+    { "s": 2024, "c": 619, "p": 0 }
+  ]
+}

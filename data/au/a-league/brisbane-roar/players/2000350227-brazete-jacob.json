@@ -1,0 +1,32 @@
+{
+  "id": 2000350227,
+  "first_name": "Jacob",
+  "last_name": "Brazete",
+  "birth_date": "2006-01-20",
+  "country_id": 1435,
+  "club_id": 130220,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -6,
+  "value": 748000,
+  "history": [
+    { "s": 2024, "c": 130220, "p": 21, "g": 1 },
+    { "s": 2024, "c": 15072277, "p": 26, "g": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1158287"
+  }
+}

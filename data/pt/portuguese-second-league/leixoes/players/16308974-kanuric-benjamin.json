@@ -1,0 +1,42 @@
+{
+  "id": 16308974,
+  "first_name": "Benjamin",
+  "last_name": "Kanurić",
+  "birth_date": "2003-01-01",
+  "country_id": 755,
+  "club_id": 2406,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 128,
+  "value": 959999,
+  "history": [
+    { "s": 2019, "c": 5605434, "p": 3 },
+    { "s": 2020, "c": 5605434, "p": 24, "g": 1 },
+    { "s": 2021, "c": 155, "p": 2 },
+    { "s": 2021, "c": 5605434, "p": 24, "g": 5 },
+    { "s": 2022, "c": 904, "p": 10, "g": 1 },
+    { "s": 2023, "c": 8714658, "p": 35, "g": 6 },
+    { "s": 2024, "c": 8714658, "p": 35, "g": 8 }
+  ]
+}

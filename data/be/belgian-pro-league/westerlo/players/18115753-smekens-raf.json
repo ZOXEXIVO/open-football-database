@@ -1,0 +1,35 @@
+{
+  "id": 18115753,
+  "first_name": "Raf",
+  "last_name": "Smekens",
+  "birth_date": "2004-01-29",
+  "country_id": 757,
+  "club_id": 289,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 86,
+  "potential_ability": 118,
+  "value": 413000,
+  "history": [
+    { "s": 2021, "c": 258, "p": 0 },
+    { "s": 2022, "c": 2000173149, "p": 1 },
+    { "s": 2023, "c": 289, "p": 0 },
+    { "s": 2024, "c": 289, "p": 2 },
+    { "s": 2024, "c": 2000369087, "p": 25, "g": 9 }
+  ],
+  "ids": {
+    "transfermarkt.com": "655011"
+  }
+}

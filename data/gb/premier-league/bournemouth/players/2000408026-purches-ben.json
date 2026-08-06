@@ -1,0 +1,28 @@
+{
+  "id": 2000408026,
+  "first_name": "Ben",
+  "last_name": "Purches",
+  "birth_date": "2008-03-07",
+  "country_id": 765,
+  "club_id": 600,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 36,
+  "potential_ability": 106,
+  "value": 57000,
+  "history": [
+    { "s": 2024, "c": 600, "p": 0 }
+  ]
+}

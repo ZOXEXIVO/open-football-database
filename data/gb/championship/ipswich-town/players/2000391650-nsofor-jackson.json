@@ -1,0 +1,40 @@
+{
+  "id": 2000391650,
+  "first_name": "Jackson",
+  "last_name": "Nsofor",
+  "birth_date": "2008-02-08",
+  "country_id": 38,
+  "club_id": 667,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": -7,
+  "value": 247000,
+  "history": [
+    { "s": 2024, "c": 667, "p": 0 }
+  ]
+}

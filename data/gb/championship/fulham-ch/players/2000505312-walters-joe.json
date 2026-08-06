@@ -1,0 +1,28 @@
+{
+  "id": 2000505312,
+  "first_name": "Joe",
+  "last_name": "Walters",
+  "birth_date": "2008-07-18",
+  "country_id": 765,
+  "club_id": 654,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 46,
+  "potential_ability": -45,
+  "value": 14000,
+  "history": [
+    { "s": 2024, "c": 654, "p": 0 }
+  ]
+}

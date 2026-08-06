@@ -1,0 +1,26 @@
+{
+  "id": 2000013760,
+  "first_name": "Sten",
+  "last_name": "Kremers",
+  "birth_date": "2004-02-16",
+  "country_id": 784,
+  "club_id": 1000,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -7,
+  "value": 1000000,
+  "history": [
+    { "s": 2022, "c": 856118, "p": 4 },
+    { "s": 2023, "c": 856118, "p": 1 },
+    { "s": 2024, "c": 1000, "p": 1 }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2000385232,
+  "first_name": "Ilyes",
+  "last_name": "Benlahrour",
+  "birth_date": "2006-08-19",
+  "country_id": 769,
+  "club_id": 2061,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -55,
+  "value": 40000,
+  "history": [
+    { "s": 2022, "c": 2075, "p": 0 },
+    { "s": 2023, "c": 2075, "p": 0 },
+    { "s": 2024, "c": 2061, "p": 0 }
+  ]
+}

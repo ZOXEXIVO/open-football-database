@@ -1,0 +1,32 @@
+{
+  "id": 2000101083,
+  "first_name": "Nicolas",
+  "last_name": "Glaus",
+  "birth_date": "2002-05-10",
+  "country_id": 798,
+  "club_id": 1855,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 104,
+  "value": 50000,
+  "history": [
+    { "s": 2020, "c": 5723683, "p": 3 },
+    { "s": 2021, "c": 121206, "p": 11 },
+    { "s": 2022, "c": 121206, "p": 8 },
+    { "s": 2023, "c": 98000666, "p": 20 },
+    { "s": 2024, "c": 137917, "p": 4 },
+    { "s": 2024, "c": 98000666, "p": 4 }
+  ],
+  "ids": {
+    "transfermarkt.com": "499319"
+  }
+}
