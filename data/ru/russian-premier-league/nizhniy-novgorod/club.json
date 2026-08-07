@@ -1,6 +1,6 @@
 {
   "id": 58145944,
-  "name": "Pari Nizhniy Novgorod",
+  "name": "Nizhniy Novgorod",
   "location": {
     "city_id": 113
   },
@@ -10,8 +10,8 @@
   "teams": [
     {
       "id": 58145944,
-      "name": "Pari Nizhniy Novgorod",
-      "slug": "pari-nn",
+      "name": "Nizhniy Novgorod",
+      "slug": "nizhniy-novgorod",
       "team_type": "Main",
       "reputation": {
         "home": 4800,
@@ -21,9 +21,9 @@
     },
     {
       "id": 99100027,
-      "name": "Pari Nizhniy Novgorod",
-      "slug": "pari-nn-u21",
-      "team_type": "U21",
+      "name": "Nizhniy Novgorod",
+      "slug": "nizhniy-novgorod-u19",
+      "team_type": "U19",
       "reputation": {
         "home": 1440,
         "national": 1440,
@@ -32,9 +32,9 @@
     },
     {
       "id": 99100028,
-      "name": "Pari Nizhniy Novgorod",
-      "slug": "pari-nn-u19",
-      "team_type": "U19",
+      "name": "Nizhniy Novgorod",
+      "slug": "nizhniy-novgorod-u18",
+      "team_type": "U18",
       "reputation": {
         "home": 960,
         "national": 960,
@@ -43,8 +43,8 @@
     }
   ],
   "colors": {
-    "background": "#231f20",
-    "foreground": "#e31e24"
+    "background": "#006871",
+    "foreground": "#ffffff"
   },
   "philosophy": "Balanced",
   "facilities": {
