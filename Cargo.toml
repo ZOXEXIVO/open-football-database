@@ -1,6 +1,13 @@
 [workspace]
 resolver = "2"
-members = ["compiler", "fmf_update"]
+members = [
+    "club_match",
+    "compiler",
+    "fmf_update",
+    "history_scraper",
+    "scraper",
+    "transfer_scraper",
+]
 
 [workspace.package]
 edition = "2024"
