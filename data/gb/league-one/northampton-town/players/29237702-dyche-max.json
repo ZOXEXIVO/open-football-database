@@ -1,0 +1,39 @@
+{
+  "id": 29237702,
+  "first_name": "Max",
+  "last_name": "Dyche",
+  "birth_date": "2003-02-22",
+  "country_id": 765,
+  "club_id": 689,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 689, "p": 0 },
+    { "s": 2020, "c": 689, "p": 2 },
+    { "s": 2021, "c": 668, "p": 7 },
+    { "s": 2021, "c": 689, "p": 1 },
+    { "s": 2021, "c": 5100088, "p": 6, "g": 1 },
+    { "s": 2022, "c": 689, "p": 18, "g": 1 },
+    { "s": 2023, "c": 573, "p": 2 },
+    { "s": 2023, "c": 689, "p": 4 },
+    { "s": 2023, "c": 739, "p": 9 },
+    { "s": 2024, "c": 689, "p": 20 },
+    { "s": 2024, "c": 739, "p": 21, "g": 2 }
+  ]
+}

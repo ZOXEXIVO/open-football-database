@@ -1,0 +1,45 @@
+{
+  "id": 29240147,
+  "first_name": "Charlie",
+  "last_name": "Barker",
+  "birth_date": "2003-02-12",
+  "country_id": 765,
+  "club_id": 640,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 62400,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 628, "p": 0 },
+    { "s": 2020, "c": 628, "p": 3 },
+    { "s": 2021, "c": 628, "p": 0 },
+    { "s": 2021, "c": 5100217, "p": 3 },
+    { "s": 2022, "c": 628, "p": 0 },
+    { "s": 2022, "c": 5100217, "p": 29 },
+    { "s": 2022, "c": 5100225, "p": 7 },
+    { "s": 2023, "c": 5100217, "p": 43, "g": 2 },
+    { "s": 2024, "c": 640, "p": 39, "g": 1 }
+  ]
+}

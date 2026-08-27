@@ -1,0 +1,33 @@
+{
+  "id": 2000189966,
+  "first_name": "Roraigh",
+  "last_name": "Browne",
+  "birth_date": "2005-09-12",
+  "country_id": 45,
+  "club_id": 732,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 0,
+  "contract": {
+    "salary": 20800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 732, "p": 0 },
+    { "s": 2022, "c": 7940962, "p": 1 },
+    { "s": 2023, "c": 732, "p": 0 },
+    { "s": 2023, "c": 5100216, "p": 13 },
+    { "s": 2023, "c": 8602689, "p": 13 },
+    { "s": 2024, "c": 611, "p": 1 },
+    { "s": 2024, "c": 732, "p": 0 },
+    { "s": 2024, "c": 4002016, "p": 6 },
+    { "s": 2024, "c": 89022659, "p": 3 }
+  ]
+}

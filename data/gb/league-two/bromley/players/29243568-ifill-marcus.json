@@ -1,0 +1,48 @@
+{
+  "id": 29243568,
+  "first_name": "Marcus",
+  "last_name": "Ifill",
+  "birth_date": "2003-11-02",
+  "country_id": 765,
+  "club_id": 5100153,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 101,
+  "potential_ability": 125,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 618, "p": 0 },
+    { "s": 2019, "c": 725, "p": 0 },
+    { "s": 2020, "c": 618, "p": 0 },
+    { "s": 2021, "c": 618, "p": 0 },
+    { "s": 2022, "c": 618, "p": 0 },
+    { "s": 2023, "c": 618, "p": 0 },
+    { "s": 2024, "c": 618, "p": 0 },
+    { "s": 2024, "c": 5100153, "p": 6 }
+  ]
+}

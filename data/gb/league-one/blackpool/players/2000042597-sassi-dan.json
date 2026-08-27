@@ -1,0 +1,38 @@
+{
+  "id": 2000042597,
+  "first_name": "Dan",
+  "last_name": "Sassi",
+  "birth_date": "2003-12-08",
+  "country_id": 765,
+  "club_id": 613,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 73,
+  "potential_ability": 104,
+  "contract": {
+    "salary": 78000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 721, "p": 0 },
+    { "s": 2020, "c": 622, "p": 0 },
+    { "s": 2021, "c": 622, "p": 0 },
+    { "s": 2022, "c": 622, "p": 0 },
+    { "s": 2023, "c": 613, "p": 0 },
+    { "s": 2023, "c": 622, "p": 0 },
+    { "s": 2023, "c": 703, "p": 10 },
+    { "s": 2024, "c": 613, "p": 0 },
+    { "s": 2024, "c": 703, "p": 4 },
+    { "s": 2024, "c": 8601358, "p": 6 }
+  ]
+}

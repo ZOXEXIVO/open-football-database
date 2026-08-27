@@ -1,0 +1,39 @@
+{
+  "id": 2000210518,
+  "first_name": "Frankie",
+  "last_name": "Baker",
+  "birth_date": "2006-08-31",
+  "country_id": 765,
+  "club_id": 686,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 77,
+  "potential_ability": 0,
+  "contract": {
+    "salary": 28600,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 686, "p": 0 },
+    { "s": 2023, "c": 686, "p": 0 },
+    { "s": 2024, "c": 686, "p": 0 }
+  ]
+}

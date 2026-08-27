@@ -1,0 +1,41 @@
+{
+  "id": 2000216813,
+  "first_name": "Darius",
+  "last_name": "Lipsiuc",
+  "birth_date": "2005-09-16",
+  "country_id": 789,
+  "club_id": 721,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 599, "p": 1 },
+    { "s": 2023, "c": 599, "p": 0 },
+    { "s": 2023, "c": 721, "p": 0 },
+    { "s": 2024, "c": 721, "p": 0 },
+    { "s": 2024, "c": 731, "p": 0 }
+  ]
+}

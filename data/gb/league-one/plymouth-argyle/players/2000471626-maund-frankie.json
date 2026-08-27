@@ -1,0 +1,34 @@
+{
+  "id": 2000471626,
+  "first_name": "Frankie",
+  "last_name": "Maund",
+  "birth_date": "2009-08-31",
+  "country_id": 765,
+  "club_id": 697,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 35,
+  "potential_ability": -45,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000223197,
+  "first_name": "Tom",
+  "last_name": "Dean",
+  "birth_date": "2005-11-30",
+  "country_id": 765,
+  "club_id": 651,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -45,
+  "contract": {
+    "salary": 15600,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 651, "p": 0 },
+    { "s": 2023, "c": 651, "p": 0 },
+    { "s": 2024, "c": 94008868, "p": 37, "g": 4 }
+  ]
+}

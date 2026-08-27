@@ -1,0 +1,31 @@
+{
+  "id": 2000177605,
+  "first_name": "Harry",
+  "last_name": "French",
+  "birth_date": "2005-09-28",
+  "country_id": 765,
+  "club_id": 673,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 70
+  },
+  "current_ability": 78,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 46800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 673, "p": 0 },
+    { "s": 2023, "c": 673, "p": 0 },
+    { "s": 2024, "c": 673, "p": 0 }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2000167104,
+  "first_name": "Josh",
+  "last_name": "Woods",
+  "birth_date": "2000-07-05",
+  "country_id": 765,
+  "club_id": 109210,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": 95,
+  "contract": {
+    "salary": 46800,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 682, "p": 1 },
+    { "s": 2021, "c": 109210, "p": 3 },
+    { "s": 2022, "c": 109210, "p": 10, "g": 1 },
+    { "s": 2023, "c": 109210, "p": 32, "g": 1 },
+    { "s": 2024, "c": 109210, "p": 31, "g": 5 }
+  ]
+}

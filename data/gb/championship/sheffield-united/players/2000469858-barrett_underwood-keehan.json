@@ -1,0 +1,30 @@
+{
+  "id": 2000469858,
+  "first_name": "Keehan",
+  "last_name": "Barrett-Underwood",
+  "birth_date": "2008-09-11",
+  "country_id": 765,
+  "club_id": 708,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": 0,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

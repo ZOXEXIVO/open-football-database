@@ -1,0 +1,33 @@
+{
+  "id": 2000516405,
+  "first_name": "Alex",
+  "last_name": "Faux",
+  "birth_date": "2007-10-20",
+  "country_id": 765,
+  "club_id": 636,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 67,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 654, "p": 0 }
+  ]
+}

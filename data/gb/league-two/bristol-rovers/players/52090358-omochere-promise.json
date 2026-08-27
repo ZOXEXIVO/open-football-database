@@ -1,0 +1,41 @@
+{
+  "id": 52090358,
+  "first_name": "Promise",
+  "last_name": "Omochere",
+  "birth_date": "2000-10-18",
+  "country_id": 38,
+  "club_id": 620,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 93,
+  "potential_ability": 116,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 1300920, "p": 0 },
+    { "s": 2018, "c": 588, "p": 2 },
+    { "s": 2019, "c": 588, "p": 0 },
+    { "s": 2020, "c": 588, "p": 6 },
+    { "s": 2021, "c": 588, "p": 18, "g": 5 },
+    { "s": 2022, "c": 588, "p": 22, "g": 5 },
+    { "s": 2022, "c": 5103834, "p": 28, "g": 5 },
+    { "s": 2023, "c": 5103834, "p": 34, "g": 6 },
+    { "s": 2024, "c": 620, "p": 22, "g": 4 }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000074554,
+  "first_name": "Josh",
+  "last_name": "Keeley",
+  "birth_date": "2003-05-17",
+  "country_id": 789,
+  "club_id": 677,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 115,
+  "potential_ability": 140,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 599, "p": 0 },
+    { "s": 2020, "c": 599, "p": 0 },
+    { "s": 2021, "c": 599, "p": 1 },
+    { "s": 2022, "c": 599, "p": 0 },
+    { "s": 2022, "c": 728, "p": 0 },
+    { "s": 2023, "c": 605, "p": 18 },
+    { "s": 2023, "c": 728, "p": 0 },
+    { "s": 2024, "c": 674, "p": 36 },
+    { "s": 2024, "c": 728, "p": 0 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 606,
+  "name": "Barnsley",
+  "location": {
+    "city_id": 3633
+  },
+  "finance": {
+    "balance": 890270
+  },
+  "teams": [
+    {
+      "id": 606,
+      "name": "Barnsley",
+      "slug": "barnsley",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5200,
+        "national": 5200,
+        "world": 5200
+      }
+    },
+    {
+      "id": 90700067,
+      "name": "Barnsley",
+      "slug": "barnsley-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1560,
+        "national": 1560,
+        "world": 1560
+      }
+    },
+    {
+      "id": 90700068,
+      "name": "Barnsley",
+      "slug": "barnsley-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1040,
+        "national": 1040,
+        "world": 1040
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e4001b",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 12211
+}

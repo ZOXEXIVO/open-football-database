@@ -1,0 +1,33 @@
+{
+  "id": 2000413173,
+  "first_name": "Adam",
+  "last_name": "Rowe",
+  "birth_date": "2007-09-24",
+  "country_id": 765,
+  "club_id": 693,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 38,
+  "potential_ability": -45,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 693, "p": 0 }
+  ]
+}

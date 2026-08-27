@@ -1,0 +1,57 @@
+{
+  "id": 640,
+  "name": "Crawley Town",
+  "location": {
+    "city_id": 3660
+  },
+  "finance": {
+    "balance": 167640
+  },
+  "teams": [
+    {
+      "id": 640,
+      "name": "Crawley Town",
+      "slug": "crawley-town",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 90700121,
+      "name": "Crawley Town",
+      "slug": "crawley-town-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 90700122,
+      "name": "Crawley Town",
+      "slug": "crawley-town-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e4002b",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 4308
+}

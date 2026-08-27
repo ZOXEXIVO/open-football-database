@@ -1,0 +1,34 @@
+{
+  "id": 2000217736,
+  "first_name": "Rogan",
+  "last_name": "Ravenhill",
+  "birth_date": "2005-10-25",
+  "country_id": 765,
+  "club_id": 606,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 73,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 36400,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 606, "p": 0 },
+    { "s": 2023, "c": 606, "p": 0 },
+    { "s": 2023, "c": 5103857, "p": 3 },
+    { "s": 2024, "c": 606, "p": 0 },
+    { "s": 2024, "c": 5100053, "p": 21, "g": 1 },
+    { "s": 2025, "c": 5108729, "p": 18 }
+  ]
+}

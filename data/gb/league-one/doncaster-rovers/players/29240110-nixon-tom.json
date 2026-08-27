@@ -1,0 +1,41 @@
+{
+  "id": 29240110,
+  "first_name": "Tom",
+  "last_name": "Nixon",
+  "birth_date": "2002-11-25",
+  "country_id": 765,
+  "club_id": 646,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 105,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 721, "p": 0 },
+    { "s": 2020, "c": 721, "p": 0 },
+    { "s": 2021, "c": 665, "p": 0 },
+    { "s": 2021, "c": 8325227, "p": 5, "g": 1 },
+    { "s": 2022, "c": 615, "p": 18, "g": 1 },
+    { "s": 2022, "c": 665, "p": 0 },
+    { "s": 2023, "c": 646, "p": 25, "g": 1 },
+    { "s": 2023, "c": 665, "p": 0 },
+    { "s": 2024, "c": 646, "p": 9 }
+  ]
+}

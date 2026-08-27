@@ -1,0 +1,57 @@
+{
+  "id": 631,
+  "name": "Cheltenham Town",
+  "location": {
+    "city_id": 3657
+  },
+  "finance": {
+    "balance": 720090
+  },
+  "teams": [
+    {
+      "id": 631,
+      "name": "Cheltenham Town",
+      "slug": "cheltenham-town",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 90700115,
+      "name": "Cheltenham Town",
+      "slug": "cheltenham-town-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 90700116,
+      "name": "Cheltenham Town",
+      "slug": "cheltenham-town-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d2232a",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Adequate",
+    "youth": "Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 4198
+}

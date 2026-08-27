@@ -1,0 +1,34 @@
+{
+  "id": 2000118111,
+  "first_name": "Zech",
+  "last_name": "Obiero",
+  "birth_date": "2005-01-27",
+  "country_id": 765,
+  "club_id": 674,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 674, "p": 1 },
+    { "s": 2022, "c": 674, "p": 0 },
+    { "s": 2022, "c": 5103647, "p": 15, "g": 2 },
+    { "s": 2023, "c": 629, "p": 7 },
+    { "s": 2023, "c": 674, "p": 6 },
+    { "s": 2024, "c": 674, "p": 10 }
+  ]
+}

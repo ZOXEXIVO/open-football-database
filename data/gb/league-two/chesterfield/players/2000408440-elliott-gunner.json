@@ -1,0 +1,25 @@
+{
+  "id": 2000408440,
+  "first_name": "Gunner",
+  "last_name": "Elliott",
+  "birth_date": "2008-07-18",
+  "country_id": 782,
+  "club_id": 634,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 634, "p": 1 }
+  ]
+}

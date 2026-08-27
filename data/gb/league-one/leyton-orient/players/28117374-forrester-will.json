@@ -1,0 +1,38 @@
+{
+  "id": 28117374,
+  "first_name": "Will",
+  "last_name": "Forrester",
+  "birth_date": "2001-06-29",
+  "country_id": 765,
+  "club_id": 674,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 125,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 721, "p": 0 },
+    { "s": 2018, "c": 721, "p": 0 },
+    { "s": 2019, "c": 721, "p": 0 },
+    { "s": 2020, "c": 721, "p": 1, "g": 1 },
+    { "s": 2021, "c": 681, "p": 4 },
+    { "s": 2021, "c": 721, "p": 3 },
+    { "s": 2022, "c": 698, "p": 35, "g": 2 },
+    { "s": 2023, "c": 614, "p": 9 },
+    { "s": 2024, "c": 614, "p": 23 },
+    { "s": 2025, "c": 614, "p": 0 }
+  ]
+}

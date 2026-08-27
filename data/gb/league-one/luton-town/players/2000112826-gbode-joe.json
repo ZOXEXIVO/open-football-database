@@ -1,0 +1,45 @@
+{
+  "id": 2000112826,
+  "first_name": "Joe",
+  "last_name": "Gbode",
+  "birth_date": "2005-04-08",
+  "country_id": 765,
+  "club_id": 677,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 656, "p": 2 },
+    { "s": 2021, "c": 5100134, "p": 4 },
+    { "s": 2021, "c": 5101707, "p": 1 },
+    { "s": 2022, "c": 656, "p": 4 },
+    { "s": 2022, "c": 5100070, "p": 13, "g": 8 },
+    { "s": 2023, "c": 656, "p": 3 },
+    { "s": 2024, "c": 656, "p": 34, "g": 3 },
+    { "s": 2025, "c": 656, "p": 4, "g": 1 },
+    { "s": 2025, "c": 677, "p": 5 }
+  ]
+}

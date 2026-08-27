@@ -1,0 +1,41 @@
+{
+  "id": 2000083123,
+  "first_name": "Eom",
+  "last_name": "Ji-Sung",
+  "birth_date": "2002-05-09",
+  "country_id": 135,
+  "club_id": 724,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": -75,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 66011708, "p": 37, "g": 4 },
+    { "s": 2022, "c": 66011708, "p": 28, "g": 9 },
+    { "s": 2023, "c": 66011708, "p": 28, "g": 5 },
+    { "s": 2024, "c": 724, "p": 37, "g": 3 },
+    { "s": 2024, "c": 66011708, "p": 15, "g": 2 }
+  ]
+}

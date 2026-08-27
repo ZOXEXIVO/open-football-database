@@ -1,0 +1,31 @@
+{
+  "id": 2000408034,
+  "first_name": "Adrien",
+  "last_name": "Thibaut",
+  "birth_date": "2004-07-11",
+  "country_id": 789,
+  "club_id": 641,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 110,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 2000095665, "p": 0 },
+    { "s": 2024, "c": 641, "p": 18, "g": 1 },
+    { "s": 2025, "c": 715, "p": 10, "g": 4 }
+  ]
+}

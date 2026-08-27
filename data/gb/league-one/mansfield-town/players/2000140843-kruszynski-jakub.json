@@ -1,0 +1,33 @@
+{
+  "id": 2000140843,
+  "first_name": "Jakub",
+  "last_name": "Kruszynski",
+  "birth_date": "2005-03-09",
+  "country_id": 765,
+  "club_id": 681,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 45,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 681, "p": 0 },
+    { "s": 2022, "c": 681, "p": 0 },
+    { "s": 2023, "c": 681, "p": 0 },
+    { "s": 2023, "c": 90075613, "p": 1 },
+    { "s": 2024, "c": 681, "p": 0 }
+  ]
+}

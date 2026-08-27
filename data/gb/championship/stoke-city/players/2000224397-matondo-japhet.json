@@ -1,0 +1,31 @@
+{
+  "id": 2000224397,
+  "first_name": "Japhet",
+  "last_name": "Matondo",
+  "birth_date": "2005-09-23",
+  "country_id": 801,
+  "club_id": 721,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 62400,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 625, "p": 0 },
+    { "s": 2023, "c": 625, "p": 0 },
+    { "s": 2024, "c": 721, "p": 0 }
+  ]
+}

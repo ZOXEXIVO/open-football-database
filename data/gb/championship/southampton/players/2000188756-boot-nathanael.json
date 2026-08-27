@@ -1,0 +1,32 @@
+{
+  "id": 2000188756,
+  "first_name": "Nathanael",
+  "last_name": "Boot",
+  "birth_date": "2006-08-31",
+  "country_id": 765,
+  "club_id": 713,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 600, "p": 0 },
+    { "s": 2022, "c": 713, "p": 0 },
+    { "s": 2023, "c": 713, "p": 0 },
+    { "s": 2024, "c": 713, "p": 0 }
+  ]
+}

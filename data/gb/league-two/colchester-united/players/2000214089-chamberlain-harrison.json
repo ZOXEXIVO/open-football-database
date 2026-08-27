@@ -1,0 +1,34 @@
+{
+  "id": 2000214089,
+  "first_name": "Harrison",
+  "last_name": "Chamberlain",
+  "birth_date": "2006-04-09",
+  "country_id": 765,
+  "club_id": 636,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 67,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 20800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 636, "p": 0 },
+    { "s": 2022, "c": 5101707, "p": 0 },
+    { "s": 2023, "c": 636, "p": 0 },
+    { "s": 2023, "c": 28092968, "p": 0 },
+    { "s": 2024, "c": 636, "p": 0 },
+    { "s": 2024, "c": 29088514, "p": 17 }
+  ]
+}

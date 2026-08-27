@@ -1,0 +1,57 @@
+{
+  "id": 5100047,
+  "name": "Harrogate Town",
+  "location": {
+    "city_id": 3665
+  },
+  "finance": {
+    "balance": 200660
+  },
+  "teams": [
+    {
+      "id": 5100047,
+      "name": "Harrogate Town",
+      "slug": "harrogate-town",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3900,
+        "national": 3900,
+        "world": 3900
+      }
+    },
+    {
+      "id": 90700131,
+      "name": "Harrogate Town",
+      "slug": "harrogate-town-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1170,
+        "national": 1170,
+        "world": 1170
+      }
+    },
+    {
+      "id": 90700132,
+      "name": "Harrogate Town",
+      "slug": "harrogate-town-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 780,
+        "national": 780,
+        "world": 780
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f7d117",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2948
+}

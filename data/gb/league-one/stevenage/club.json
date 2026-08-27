@@ -1,0 +1,57 @@
+{
+  "id": 719,
+  "name": "Stevenage",
+  "location": {
+    "city_id": 3647
+  },
+  "finance": {
+    "balance": 419100
+  },
+  "teams": [
+    {
+      "id": 719,
+      "name": "Stevenage",
+      "slug": "stevenage",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 90700095,
+      "name": "Stevenage",
+      "slug": "stevenage-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 90700096,
+      "name": "Stevenage",
+      "slug": "stevenage-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e4002b",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Adequate",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 3989
+}

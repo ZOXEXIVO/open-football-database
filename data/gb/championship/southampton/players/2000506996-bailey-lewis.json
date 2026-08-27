@@ -1,0 +1,26 @@
+{
+  "id": 2000506996,
+  "first_name": "Lewis",
+  "last_name": "Bailey",
+  "birth_date": "2009-08-31",
+  "country_id": 765,
+  "club_id": 713,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 721, "p": 0 },
+    { "s": 2025, "c": 721, "p": 0 }
+  ]
+}

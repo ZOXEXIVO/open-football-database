@@ -1,0 +1,43 @@
+{
+  "id": 28127163,
+  "first_name": "Tom",
+  "last_name": "Hill",
+  "birth_date": "2002-10-13",
+  "country_id": 801,
+  "club_id": 5100047,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 72800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 676, "p": 0 },
+    { "s": 2020, "c": 676, "p": 0 },
+    { "s": 2021, "c": 676, "p": 0 },
+    { "s": 2022, "c": 676, "p": 0 },
+    { "s": 2023, "c": 676, "p": 0 },
+    { "s": 2024, "c": 676, "p": 0 },
+    { "s": 2024, "c": 5100047, "p": 6 }
+  ]
+}

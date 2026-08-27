@@ -1,0 +1,57 @@
+{
+  "id": 674,
+  "name": "Leyton Orient",
+  "location": {
+    "city_id": 3639
+  },
+  "finance": {
+    "balance": 541020
+  },
+  "teams": [
+    {
+      "id": 674,
+      "name": "Leyton Orient",
+      "slug": "leyton-orient",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 90700079,
+      "name": "Leyton Orient",
+      "slug": "leyton-orient-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 90700080,
+      "name": "Leyton Orient",
+      "slug": "leyton-orient-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d40000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Adequate",
+    "youth": "Adequate",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 7890
+}

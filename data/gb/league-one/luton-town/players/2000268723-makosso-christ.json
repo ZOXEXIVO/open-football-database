@@ -1,0 +1,34 @@
+{
+  "id": 2000268723,
+  "first_name": "Christ",
+  "last_name": "Makosso",
+  "birth_date": "2004-05-09",
+  "country_id": 49,
+  "club_id": 677,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 111,
+  "potential_ability": 147,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 2009, "p": 5 },
+    { "s": 2023, "c": 257, "p": 10 },
+    { "s": 2023, "c": 2009, "p": 8 },
+    { "s": 2024, "c": 257, "p": 12 },
+    { "s": 2024, "c": 677, "p": 13 },
+    { "s": 2025, "c": 677, "p": 11 }
+  ]
+}

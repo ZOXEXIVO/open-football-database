@@ -1,0 +1,57 @@
+{
+  "id": 681,
+  "name": "Mansfield Town",
+  "location": {
+    "city_id": 3642
+  },
+  "finance": {
+    "balance": 120650
+  },
+  "teams": [
+    {
+      "id": 681,
+      "name": "Mansfield Town",
+      "slug": "mansfield-town",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 90700085,
+      "name": "Mansfield Town",
+      "slug": "mansfield-town-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 90700086,
+      "name": "Mansfield Town",
+      "slug": "mansfield-town-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f7b500",
+    "foreground": "#1a3668"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 7769
+}

@@ -1,0 +1,9 @@
+[package]
+name = "club_match"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+serde_json = { version = "1.0.149", features = ["preserve_order"] }
+anyhow = "1.0"
+walkdir = "2.5"

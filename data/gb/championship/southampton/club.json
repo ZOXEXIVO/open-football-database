@@ -1,0 +1,57 @@
+{
+  "id": 713,
+  "name": "Southampton",
+  "location": {
+    "city_id": 3626
+  },
+  "finance": {
+    "balance": 63500
+  },
+  "teams": [
+    {
+      "id": 713,
+      "name": "Southampton",
+      "slug": "southampton",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6200,
+        "national": 6200,
+        "world": 6200
+      }
+    },
+    {
+      "id": 90700053,
+      "name": "Southampton",
+      "slug": "southampton-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1860,
+        "national": 1860,
+        "world": 1860
+      }
+    },
+    {
+      "id": 90700054,
+      "name": "Southampton",
+      "slug": "southampton-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1240,
+        "national": 1240,
+        "world": 1240
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d71920",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Superb",
+    "youth": "Excellent",
+    "academy": "Good",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 28695
+}

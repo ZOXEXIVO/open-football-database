@@ -1,0 +1,35 @@
+{
+  "id": 2000015309,
+  "first_name": "Mikki",
+  "last_name": "van Sas",
+  "birth_date": "2004-02-29",
+  "country_id": 784,
+  "club_id": 742,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 99,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 182000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 1010, "p": 0 },
+    { "s": 2020, "c": 679, "p": 0 },
+    { "s": 2021, "c": 679, "p": 0 },
+    { "s": 2022, "c": 679, "p": 0 },
+    { "s": 2023, "c": 1013, "p": 0 },
+    { "s": 2024, "c": 1013, "p": 0 },
+    { "s": 2024, "c": 1046, "p": 12 }
+  ]
+}

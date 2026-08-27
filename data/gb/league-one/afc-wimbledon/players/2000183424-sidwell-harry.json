@@ -1,0 +1,39 @@
+{
+  "id": 2000183424,
+  "first_name": "Harry",
+  "last_name": "Sidwell",
+  "birth_date": "2006-08-31",
+  "country_id": 765,
+  "club_id": 5110769,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 67,
+  "potential_ability": 92,
+  "contract": {
+    "salary": 15600,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 5110769, "p": 0 },
+    { "s": 2023, "c": 670, "p": 7 },
+    { "s": 2023, "c": 5110769, "p": 0 },
+    { "s": 2024, "c": 5100132, "p": 12, "g": 1 },
+    { "s": 2024, "c": 5110769, "p": 1 },
+    { "s": 2024, "c": 8325134, "p": 8, "g": 1 },
+    { "s": 2025, "c": 643, "p": 18 }
+  ]
+}

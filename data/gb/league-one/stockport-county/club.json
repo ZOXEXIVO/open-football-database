@@ -1,0 +1,57 @@
+{
+  "id": 720,
+  "name": "Stockport County",
+  "location": {
+    "city_id": 3648
+  },
+  "finance": {
+    "balance": 847090
+  },
+  "teams": [
+    {
+      "id": 720,
+      "name": "Stockport County",
+      "slug": "stockport-county",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 90700097,
+      "name": "Stockport County",
+      "slug": "stockport-county-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1470,
+        "national": 1470,
+        "world": 1470
+      }
+    },
+    {
+      "id": 90700098,
+      "name": "Stockport County",
+      "slug": "stockport-county-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 980,
+        "national": 980,
+        "world": 980
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0033a0",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Adequate",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 9603
+}

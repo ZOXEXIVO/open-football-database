@@ -1,0 +1,50 @@
+{
+  "id": 2000018177,
+  "first_name": "Charlie",
+  "last_name": "Webster",
+  "birth_date": "2004-01-31",
+  "country_id": 765,
+  "club_id": 4001706,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 108,
+  "potential_ability": 126,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 630, "p": 0 },
+    { "s": 2020, "c": 630, "p": 0 },
+    { "s": 2021, "c": 630, "p": 0 },
+    { "s": 2022, "c": 630, "p": 0 },
+    { "s": 2023, "c": 1036, "p": 13, "g": 1 },
+    { "s": 2024, "c": 4001706, "p": 32, "g": 5 }
+  ]
+}

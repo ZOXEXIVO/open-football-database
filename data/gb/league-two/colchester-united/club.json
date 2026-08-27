@@ -1,0 +1,57 @@
+{
+  "id": 636,
+  "name": "Colchester United",
+  "location": {
+    "city_id": 3659
+  },
+  "finance": {
+    "balance": 279400
+  },
+  "teams": [
+    {
+      "id": 636,
+      "name": "Colchester United",
+      "slug": "colchester-united",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 90700119,
+      "name": "Colchester United",
+      "slug": "colchester-united-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 90700120,
+      "name": "Colchester United",
+      "slug": "colchester-united-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0a4ea2",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 4998
+}

@@ -1,0 +1,57 @@
+{
+  "id": 581,
+  "name": "Newport County",
+  "location": {
+    "city_id": 3666
+  },
+  "finance": {
+    "balance": 76200
+  },
+  "teams": [
+    {
+      "id": 581,
+      "name": "Newport County",
+      "slug": "newport-county",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 90700133,
+      "name": "Newport County",
+      "slug": "newport-county-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 90700134,
+      "name": "Newport County",
+      "slug": "newport-county-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f5b800",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 4203
+}

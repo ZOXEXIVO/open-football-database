@@ -1,0 +1,41 @@
+{
+  "id": 2000126170,
+  "first_name": "Alex",
+  "last_name": "Bannon",
+  "birth_date": "2003-09-16",
+  "country_id": 793,
+  "club_id": 4001706,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 114,
+  "contract": {
+    "salary": 78000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 1591, "p": 0 },
+    { "s": 2020, "c": 1591, "p": 0 },
+    { "s": 2021, "c": 1591, "p": 0 },
+    { "s": 2022, "c": 1591, "p": 15 },
+    { "s": 2023, "c": 1591, "p": 30, "g": 1 },
+    { "s": 2024, "c": 4001706, "p": 9 },
+    { "s": 2024, "c": 5203872, "p": 12 },
+    { "s": 2025, "c": 591, "p": 7, "g": 2 },
+    { "s": 2025, "c": 4001706, "p": 0 }
+  ]
+}

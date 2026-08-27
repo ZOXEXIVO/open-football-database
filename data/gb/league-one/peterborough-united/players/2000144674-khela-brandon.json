@@ -1,0 +1,42 @@
+{
+  "id": 2000144674,
+  "first_name": "Brandon",
+  "last_name": "Khela",
+  "birth_date": "2005-01-19",
+  "country_id": 765,
+  "club_id": 696,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 93,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 609, "p": 0 },
+    { "s": 2022, "c": 609, "p": 0 },
+    { "s": 2023, "c": 609, "p": 1 },
+    { "s": 2023, "c": 1593, "p": 14 },
+    { "s": 2024, "c": 609, "p": 2 },
+    { "s": 2024, "c": 616, "p": 15 }
+  ]
+}

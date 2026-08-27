@@ -1,0 +1,30 @@
+{
+  "id": 2000422726,
+  "first_name": "Takudzwa",
+  "last_name": "Gwanzura",
+  "birth_date": "2008-02-10",
+  "country_id": 765,
+  "club_id": 691,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 59,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 613, "p": 0 },
+    { "s": 2024, "c": 691, "p": 0 }
+  ]
+}

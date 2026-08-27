@@ -1,0 +1,57 @@
+{
+  "id": 737,
+  "name": "Wigan Athletic",
+  "location": {
+    "city_id": 3649
+  },
+  "finance": {
+    "balance": 429260
+  },
+  "teams": [
+    {
+      "id": 737,
+      "name": "Wigan Athletic",
+      "slug": "wigan-athletic",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 90700099,
+      "name": "Wigan Athletic",
+      "slug": "wigan-athletic-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 90700100,
+      "name": "Wigan Athletic",
+      "slug": "wigan-athletic-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1d59af",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 9946
+}

@@ -1,0 +1,54 @@
+{
+  "id": 52097526,
+  "first_name": "Darragh",
+  "last_name": "Burns",
+  "birth_date": "2002-08-06",
+  "country_id": 789,
+  "club_id": 658,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 96,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 599, "p": 0 },
+    { "s": 2019, "c": 599, "p": 0 },
+    { "s": 2020, "c": 599, "p": 6 },
+    { "s": 2021, "c": 599, "p": 26, "g": 4 },
+    { "s": 2022, "c": 599, "p": 22, "g": 4 },
+    { "s": 2022, "c": 151027, "p": 14 },
+    { "s": 2023, "c": 151027, "p": 0 },
+    { "s": 2024, "c": 596, "p": 28, "g": 5 },
+    { "s": 2024, "c": 658, "p": 9 },
+    { "s": 2024, "c": 151027, "p": 0 }
+  ]
+}

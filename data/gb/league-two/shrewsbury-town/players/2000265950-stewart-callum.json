@@ -1,0 +1,45 @@
+{
+  "id": 2000265950,
+  "first_name": "Callum",
+  "last_name": "Stewart",
+  "birth_date": "2001-12-14",
+  "country_id": 765,
+  "club_id": 710,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 125,
+  "contract": {
+    "salary": 41600,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 7940389, "p": 37, "g": 31 },
+    { "s": 2022, "c": 7940389, "p": 34, "g": 34 },
+    { "s": 2023, "c": 5108729, "p": 40, "g": 13 },
+    { "s": 2024, "c": 710, "p": 15 },
+    { "s": 2024, "c": 5108729, "p": 23, "g": 14 }
+  ]
+}

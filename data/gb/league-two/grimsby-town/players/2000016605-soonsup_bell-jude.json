@@ -1,0 +1,46 @@
+{
+  "id": 2000016605,
+  "first_name": "Jude",
+  "last_name": "Soonsup-Bell",
+  "birth_date": "2004-01-10",
+  "country_id": 140,
+  "club_id": 658,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 130000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 725, "p": 0 },
+    { "s": 2019, "c": 630, "p": 0 },
+    { "s": 2020, "c": 630, "p": 0 },
+    { "s": 2021, "c": 630, "p": 0 },
+    { "s": 2022, "c": 630, "p": 0 },
+    { "s": 2022, "c": 728, "p": 0 },
+    { "s": 2023, "c": 728, "p": 0 },
+    { "s": 2024, "c": 728, "p": 0 },
+    { "s": 2024, "c": 1704, "p": 7 },
+    { "s": 2024, "c": 4212406, "p": 13, "g": 1 }
+  ]
+}

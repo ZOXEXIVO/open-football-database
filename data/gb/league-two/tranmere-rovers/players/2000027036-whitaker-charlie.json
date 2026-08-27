@@ -1,0 +1,43 @@
+{
+  "id": 2000027036,
+  "first_name": "Charlie",
+  "last_name": "Whitaker",
+  "birth_date": "2003-09-16",
+  "country_id": 765,
+  "club_id": 729,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 93600,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 650, "p": 0 },
+    { "s": 2020, "c": 650, "p": 0 },
+    { "s": 2021, "c": 650, "p": 0 },
+    { "s": 2022, "c": 650, "p": 0 },
+    { "s": 2023, "c": 650, "p": 0 },
+    { "s": 2024, "c": 650, "p": 0 },
+    { "s": 2024, "c": 693, "p": 20, "g": 4 }
+  ]
+}

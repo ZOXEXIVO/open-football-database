@@ -1,0 +1,57 @@
+{
+  "id": 651,
+  "name": "Exeter City",
+  "location": {
+    "city_id": 3638
+  },
+  "finance": {
+    "balance": -412750
+  },
+  "teams": [
+    {
+      "id": 651,
+      "name": "Exeter City",
+      "slug": "exeter-city",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 90700077,
+      "name": "Exeter City",
+      "slug": "exeter-city-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 90700078,
+      "name": "Exeter City",
+      "slug": "exeter-city-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d3122d",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Adequate",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 6513
+}

@@ -1,0 +1,57 @@
+{
+  "id": 697,
+  "name": "Plymouth Argyle",
+  "location": {
+    "city_id": 3645
+  },
+  "finance": {
+    "balance": 3810000
+  },
+  "teams": [
+    {
+      "id": 697,
+      "name": "Plymouth Argyle",
+      "slug": "plymouth-argyle",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5300,
+        "national": 5300,
+        "world": 5300
+      }
+    },
+    {
+      "id": 90700091,
+      "name": "Plymouth Argyle",
+      "slug": "plymouth-argyle-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1590,
+        "national": 1590,
+        "world": 1590
+      }
+    },
+    {
+      "id": 90700092,
+      "name": "Plymouth Argyle",
+      "slug": "plymouth-argyle-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1060,
+        "national": 1060,
+        "world": 1060
+      }
+    }
+  ],
+  "colors": {
+    "background": "#004b30",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Adequate",
+    "youth": "Adequate",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 16537
+}

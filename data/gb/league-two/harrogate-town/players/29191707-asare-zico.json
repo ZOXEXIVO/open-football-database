@@ -1,0 +1,40 @@
+{
+  "id": 29191707,
+  "first_name": "Zico",
+  "last_name": "Asare",
+  "birth_date": "2001-04-11",
+  "country_id": 765,
+  "club_id": 5100047,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 77,
+  "potential_ability": 97,
+  "contract": {
+    "salary": 78000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 654, "p": 0 },
+    { "s": 2017, "c": 654, "p": 0 },
+    { "s": 2018, "c": 654, "p": 0 },
+    { "s": 2019, "c": 654, "p": 0 },
+    { "s": 2021, "c": 5100163, "p": 39 },
+    { "s": 2022, "c": 5100192, "p": 43 },
+    { "s": 2023, "c": 5100192, "p": 43 },
+    { "s": 2024, "c": 5100047, "p": 26, "g": 1 }
+  ]
+}

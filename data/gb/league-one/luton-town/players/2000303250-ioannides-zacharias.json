@@ -1,0 +1,30 @@
+{
+  "id": 2000303250,
+  "first_name": "Zacharias",
+  "last_name": "Ioannides",
+  "birth_date": "2007-08-31",
+  "country_id": 765,
+  "club_id": 677,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": -45,
+  "contract": {
+    "salary": 18200,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 677, "p": 0 },
+    { "s": 2024, "c": 677, "p": 0 }
+  ]
+}

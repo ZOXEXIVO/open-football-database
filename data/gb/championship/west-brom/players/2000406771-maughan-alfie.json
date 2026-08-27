@@ -1,0 +1,33 @@
+{
+  "id": 2000406771,
+  "first_name": "Alfie",
+  "last_name": "Maughan",
+  "birth_date": "2008-06-16",
+  "country_id": 765,
+  "club_id": 734,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 23400,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 734, "p": 0 }
+  ]
+}

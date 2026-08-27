@@ -1,0 +1,40 @@
+{
+  "id": 2000025989,
+  "first_name": "Freddie",
+  "last_name": "Draper",
+  "birth_date": "2004-07-28",
+  "country_id": 765,
+  "club_id": 675,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 129,
+  "contract": {
+    "salary": 114400,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 675, "p": 0 },
+    { "s": 2021, "c": 675, "p": 8 },
+    { "s": 2021, "c": 4001092, "p": 8, "g": 1 },
+    { "s": 2022, "c": 675, "p": 0 },
+    { "s": 2023, "c": 675, "p": 15, "g": 2 },
+    { "s": 2023, "c": 731, "p": 21, "g": 10 },
+    { "s": 2023, "c": 1300922, "p": 21, "g": 8 },
+    { "s": 2024, "c": 675, "p": 38, "g": 4 }
+  ]
+}

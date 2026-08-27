@@ -1,0 +1,47 @@
+{
+  "id": 28122351,
+  "first_name": "Lewis",
+  "last_name": "Richards",
+  "birth_date": "2001-10-15",
+  "country_id": 789,
+  "club_id": 640,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 92,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 740, "p": 0 },
+    { "s": 2019, "c": 740, "p": 0 },
+    { "s": 2020, "c": 740, "p": 0 },
+    { "s": 2021, "c": 740, "p": 0 },
+    { "s": 2021, "c": 5100047, "p": 8 },
+    { "s": 2022, "c": 740, "p": 0 },
+    { "s": 2022, "c": 5100047, "p": 9 },
+    { "s": 2023, "c": 616, "p": 26 },
+    { "s": 2023, "c": 740, "p": 0 },
+    { "s": 2024, "c": 616, "p": 22, "g": 2 },
+    { "s": 2025, "c": 616, "p": 0 }
+  ]
+}

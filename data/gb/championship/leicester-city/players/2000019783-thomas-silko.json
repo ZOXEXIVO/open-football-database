@@ -1,0 +1,43 @@
+{
+  "id": 2000019783,
+  "first_name": "Silko",
+  "last_name": "Thomas",
+  "birth_date": "2004-06-25",
+  "country_id": 765,
+  "club_id": 673,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 125,
+  "contract": {
+    "salary": 78000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 630, "p": 0 },
+    { "s": 2020, "c": 630, "p": 0 },
+    { "s": 2021, "c": 630, "p": 0 },
+    { "s": 2022, "c": 630, "p": 0 },
+    { "s": 2023, "c": 673, "p": 0 },
+    { "s": 2024, "c": 673, "p": 0 },
+    { "s": 2024, "c": 737, "p": 24 }
+  ]
+}

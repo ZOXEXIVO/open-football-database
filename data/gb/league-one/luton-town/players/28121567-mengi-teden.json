@@ -1,0 +1,38 @@
+{
+  "id": 28121567,
+  "first_name": "Teden",
+  "last_name": "Mengi",
+  "birth_date": "2002-04-30",
+  "country_id": 765,
+  "club_id": 677,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 136,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 680, "p": 0 },
+    { "s": 2019, "c": 680, "p": 0 },
+    { "s": 2020, "c": 645, "p": 9 },
+    { "s": 2020, "c": 680, "p": 0 },
+    { "s": 2021, "c": 609, "p": 9 },
+    { "s": 2021, "c": 680, "p": 0 },
+    { "s": 2022, "c": 680, "p": 0 },
+    { "s": 2023, "c": 677, "p": 30, "g": 1 },
+    { "s": 2023, "c": 680, "p": 0 },
+    { "s": 2024, "c": 677, "p": 20, "g": 1 }
+  ]
+}

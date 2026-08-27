@@ -1,0 +1,30 @@
+{
+  "id": 2000475343,
+  "first_name": "Joe",
+  "last_name": "Astles",
+  "birth_date": "2009-04-19",
+  "country_id": 765,
+  "club_id": 720,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

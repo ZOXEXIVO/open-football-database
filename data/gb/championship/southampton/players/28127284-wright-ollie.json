@@ -1,0 +1,38 @@
+{
+  "id": 28127284,
+  "first_name": "Ollie",
+  "last_name": "Wright",
+  "birth_date": "2002-10-25",
+  "country_id": 765,
+  "club_id": 713,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": 116,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 713, "p": 0 },
+    { "s": 2020, "c": 713, "p": 0 },
+    { "s": 2021, "c": 713, "p": 0 },
+    { "s": 2022, "c": 713, "p": 0 },
+    { "s": 2023, "c": 608, "p": 11 },
+    { "s": 2023, "c": 713, "p": 0 },
+    { "s": 2023, "c": 5100210, "p": 10 },
+    { "s": 2024, "c": 713, "p": 0 },
+    { "s": 2024, "c": 743, "p": 29 },
+    { "s": 2024, "c": 30010181, "p": 10 }
+  ]
+}

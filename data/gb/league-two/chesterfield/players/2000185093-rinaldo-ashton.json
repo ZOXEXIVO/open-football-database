@@ -1,0 +1,26 @@
+{
+  "id": 2000185093,
+  "first_name": "Ashton",
+  "last_name": "Rinaldo",
+  "birth_date": "2005-10-25",
+  "country_id": 1435,
+  "club_id": 634,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 634, "p": 0 },
+    { "s": 2024, "c": 634, "p": 0 }
+  ]
+}

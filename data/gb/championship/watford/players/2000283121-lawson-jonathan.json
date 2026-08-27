@@ -1,0 +1,41 @@
+{
+  "id": 2000283121,
+  "first_name": "Jonathan",
+  "last_name": "Lawson",
+  "birth_date": "2005-10-16",
+  "country_id": 765,
+  "club_id": 732,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 31200,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 29088514, "p": 0 },
+    { "s": 2023, "c": 732, "p": 0 },
+    { "s": 2024, "c": 663, "p": 4 },
+    { "s": 2024, "c": 732, "p": 0 },
+    { "s": 2024, "c": 8325153, "p": 3, "g": 4 }
+  ]
+}

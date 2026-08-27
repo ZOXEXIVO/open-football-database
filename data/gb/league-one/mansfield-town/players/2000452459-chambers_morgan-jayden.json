@@ -1,0 +1,29 @@
+{
+  "id": 2000452459,
+  "first_name": "Jayden",
+  "last_name": "Chambers-Morgan",
+  "birth_date": "2007-12-08",
+  "country_id": 377,
+  "club_id": 681,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 0,
+  "potential_ability": 0,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 681, "p": 0 }
+  ]
+}

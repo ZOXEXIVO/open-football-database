@@ -1,0 +1,26 @@
+{
+  "id": 2000278451,
+  "first_name": "Tom",
+  "last_name": "Georgiou",
+  "birth_date": "2006-09-07",
+  "country_id": 765,
+  "club_id": 732,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 0,
+  "potential_ability": 0,
+  "contract": {
+    "salary": 31200,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 732, "p": 0 },
+    { "s": 2024, "c": 732, "p": 0 }
+  ]
+}

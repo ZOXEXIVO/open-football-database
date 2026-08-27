@@ -1,0 +1,33 @@
+{
+  "id": 2000397901,
+  "first_name": "Sam",
+  "last_name": "Colechin",
+  "birth_date": "2008-09-08",
+  "country_id": 765,
+  "club_id": 708,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 36400,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 708, "p": 0 }
+  ]
+}

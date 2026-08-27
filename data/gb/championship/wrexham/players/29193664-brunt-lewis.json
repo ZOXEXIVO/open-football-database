@@ -1,0 +1,47 @@
+{
+  "id": 29193664,
+  "first_name": "Lewis",
+  "last_name": "Brunt",
+  "birth_date": "2000-11-06",
+  "country_id": 765,
+  "club_id": 741,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 135,
+  "contract": {
+    "salary": 338000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 603, "p": 0 },
+    { "s": 2018, "c": 603, "p": 0 },
+    { "s": 2019, "c": 603, "p": 0 },
+    { "s": 2019, "c": 657, "p": 6, "g": 2 },
+    { "s": 2020, "c": 603, "p": 0 },
+    { "s": 2020, "c": 657, "p": 6, "g": 1 },
+    { "s": 2021, "c": 673, "p": 1 },
+    { "s": 2022, "c": 673, "p": 1 },
+    { "s": 2023, "c": 673, "p": 0 },
+    { "s": 2023, "c": 681, "p": 34, "g": 2 },
+    { "s": 2024, "c": 741, "p": 22 }
+  ]
+}

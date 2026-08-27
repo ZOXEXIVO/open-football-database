@@ -1,0 +1,38 @@
+{
+  "id": 29233526,
+  "first_name": "Baba",
+  "last_name": "Adeeko",
+  "birth_date": "2003-04-03",
+  "country_id": 789,
+  "club_id": 737,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 125,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 737, "p": 0 },
+    { "s": 2020, "c": 737, "p": 0 },
+    { "s": 2021, "c": 737, "p": 0 },
+    { "s": 2022, "c": 737, "p": 0 },
+    { "s": 2023, "c": 737, "p": 42 },
+    { "s": 2024, "c": 737, "p": 31, "g": 1 }
+  ]
+}

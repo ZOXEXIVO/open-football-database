@@ -1,0 +1,37 @@
+{
+  "id": 2000090196,
+  "first_name": "Connor",
+  "last_name": "Taylor",
+  "birth_date": "2001-10-25",
+  "country_id": 765,
+  "club_id": 742,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 105,
+  "potential_ability": 121,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 721, "p": 0 },
+    { "s": 2020, "c": 721, "p": 1 },
+    { "s": 2020, "c": 29066004, "p": 3 },
+    { "s": 2021, "c": 620, "p": 42, "g": 3 },
+    { "s": 2021, "c": 721, "p": 0 },
+    { "s": 2022, "c": 721, "p": 14 },
+    { "s": 2023, "c": 620, "p": 33 },
+    { "s": 2024, "c": 620, "p": 42, "g": 1 },
+    { "s": 2025, "c": 620, "p": 0 }
+  ]
+}

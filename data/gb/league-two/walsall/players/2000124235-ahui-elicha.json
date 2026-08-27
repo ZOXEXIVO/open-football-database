@@ -1,0 +1,42 @@
+{
+  "id": 2000124235,
+  "first_name": "Elicha",
+  "last_name": "Ahui",
+  "birth_date": "2003-12-28",
+  "country_id": 765,
+  "club_id": 731,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 110,
+  "contract": {
+    "salary": 44200,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 675, "p": 0 },
+    { "s": 2021, "c": 675, "p": 0 },
+    { "s": 2021, "c": 4001092, "p": 20, "g": 1 },
+    { "s": 2022, "c": 675, "p": 0 },
+    { "s": 2022, "c": 1300922, "p": 20, "g": 1 },
+    { "s": 2023, "c": 675, "p": 0 },
+    { "s": 2023, "c": 1542, "p": 12 },
+    { "s": 2023, "c": 90060453, "p": 17 },
+    { "s": 2024, "c": 1300922, "p": 14, "g": 1 },
+    { "s": 2025, "c": 1300922, "p": 8, "g": 1 }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 28127312,
+  "first_name": "Michael",
+  "last_name": "Craig",
+  "birth_date": "2003-04-16",
+  "country_id": 793,
+  "club_id": 674,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 130,
+  "contract": {
+    "salary": 130000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 728, "p": 0 },
+    { "s": 2019, "c": 728, "p": 0 },
+    { "s": 2020, "c": 728, "p": 0 },
+    { "s": 2021, "c": 728, "p": 0 },
+    { "s": 2022, "c": 702, "p": 2 },
+    { "s": 2023, "c": 702, "p": 28 },
+    { "s": 2024, "c": 702, "p": 30, "g": 2 }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 29236345,
+  "first_name": "Oliver",
+  "last_name": "Hammond",
+  "birth_date": "2002-11-13",
+  "country_id": 765,
+  "club_id": 694,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 79,
+  "potential_ability": 93,
+  "contract": {
+    "salary": 62400,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 692, "p": 0 },
+    { "s": 2020, "c": 692, "p": 0 },
+    { "s": 2021, "c": 692, "p": 0 },
+    { "s": 2022, "c": 692, "p": 0 },
+    { "s": 2023, "c": 631, "p": 9 },
+    { "s": 2023, "c": 692, "p": 0 },
+    { "s": 2023, "c": 694, "p": 11 },
+    { "s": 2024, "c": 694, "p": 8 }
+  ]
+}

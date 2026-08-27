@@ -1,0 +1,40 @@
+{
+  "id": 28126474,
+  "first_name": "Jason",
+  "last_name": "Sraha",
+  "birth_date": "2002-11-19",
+  "country_id": 765,
+  "club_id": 4001706,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 92,
+  "potential_ability": 120,
+  "contract": {
+    "salary": 93600,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 630, "p": 0 },
+    { "s": 2019, "c": 602, "p": 0 },
+    { "s": 2020, "c": 602, "p": 0 },
+    { "s": 2021, "c": 578, "p": 13 },
+    { "s": 2021, "c": 606, "p": 2 },
+    { "s": 2022, "c": 606, "p": 0 },
+    { "s": 2023, "c": 710, "p": 17, "g": 1 },
+    { "s": 2024, "c": 4001706, "p": 16 }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2000330647,
+  "first_name": "Charlie",
+  "last_name": "Cummins",
+  "birth_date": "2005-06-13",
+  "country_id": 789,
+  "club_id": 651,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 67,
+  "potential_ability": -45,
+  "contract": {
+    "salary": 20800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 52008071, "p": 0 },
+    { "s": 2021, "c": 589, "p": 0 },
+    { "s": 2022, "c": 589, "p": 0 },
+    { "s": 2023, "c": 589, "p": 1 },
+    { "s": 2023, "c": 651, "p": 0 },
+    { "s": 2023, "c": 31042431, "p": 10, "g": 1 },
+    { "s": 2024, "c": 651, "p": 0 }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2000438793,
+  "first_name": "Nikoloz",
+  "last_name": "Chikovani",
+  "birth_date": "2007-06-21",
+  "country_id": 770,
+  "club_id": 732,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 59007890, "p": 9 },
+    { "s": 2025, "c": 892, "p": 9, "g": 1 },
+    { "s": 2025, "c": 59007890, "p": 2 }
+  ]
+}

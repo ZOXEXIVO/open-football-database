@@ -1,0 +1,45 @@
+{
+  "id": 2000201762,
+  "first_name": "Louis",
+  "last_name": "Bonser",
+  "birth_date": "2006-08-31",
+  "country_id": 765,
+  "club_id": 681,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 40,
+  "potential_ability": 0,
+  "contract": {
+    "salary": 23400,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 681, "p": 0 },
+    { "s": 2023, "c": 681, "p": 0 },
+    { "s": 2024, "c": 681, "p": 0 },
+    { "s": 2024, "c": 5103719, "p": 1 },
+    { "s": 2024, "c": 8601344, "p": 2 }
+  ]
+}

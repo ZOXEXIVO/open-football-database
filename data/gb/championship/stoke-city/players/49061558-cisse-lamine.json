@@ -1,0 +1,43 @@
+{
+  "id": 49061558,
+  "first_name": "Lamine",
+  "last_name": "Cissé",
+  "birth_date": "2003-02-15",
+  "country_id": 769,
+  "club_id": 721,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 115,
+  "potential_ability": 131,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 827, "p": 0 },
+    { "s": 2020, "c": 827, "p": 1 },
+    { "s": 2021, "c": 827, "p": 21, "g": 2 },
+    { "s": 2022, "c": 827, "p": 29, "g": 4 },
+    { "s": 2023, "c": 827, "p": 21, "g": 3 },
+    { "s": 2023, "c": 48038868, "p": 2, "g": 3 },
+    { "s": 2024, "c": 876, "p": 31, "g": 9 }
+  ]
+}

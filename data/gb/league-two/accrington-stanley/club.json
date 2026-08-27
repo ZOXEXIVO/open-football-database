@@ -1,0 +1,57 @@
+{
+  "id": 109210,
+  "name": "Accrington Stanley",
+  "location": {
+    "city_id": 3651
+  },
+  "finance": {
+    "balance": 256540
+  },
+  "teams": [
+    {
+      "id": 109210,
+      "name": "Accrington Stanley",
+      "slug": "accrington-stanley",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 90700103,
+      "name": "Accrington Stanley",
+      "slug": "accrington-stanley-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 90700104,
+      "name": "Accrington Stanley",
+      "slug": "accrington-stanley-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e2231a",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2539
+}

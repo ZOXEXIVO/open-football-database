@@ -1,0 +1,30 @@
+{
+  "id": 2000505728,
+  "first_name": "Jude",
+  "last_name": "Robertson",
+  "birth_date": "2008-08-28",
+  "country_id": 765,
+  "club_id": 640,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": -4,
+  "contract": {
+    "salary": 23400,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

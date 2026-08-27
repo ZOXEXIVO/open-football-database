@@ -1,0 +1,30 @@
+{
+  "id": 2000299818,
+  "first_name": "George",
+  "last_name": "Goodman",
+  "birth_date": "2006-12-11",
+  "country_id": 785,
+  "club_id": 616,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 73,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 18200,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 616, "p": 0 },
+    { "s": 2024, "c": 616, "p": 0 }
+  ]
+}

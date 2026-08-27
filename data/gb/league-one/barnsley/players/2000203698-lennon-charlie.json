@@ -1,0 +1,44 @@
+{
+  "id": 2000203698,
+  "first_name": "Charlie",
+  "last_name": "Lennon",
+  "birth_date": "2006-04-09",
+  "country_id": 765,
+  "club_id": 606,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 78000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 685, "p": 0 },
+    { "s": 2023, "c": 685, "p": 0 },
+    { "s": 2024, "c": 685, "p": 1 },
+    { "s": 2025, "c": 29130446, "p": 19, "g": 2 }
+  ]
+}

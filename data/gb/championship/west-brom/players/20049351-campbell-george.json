@@ -1,0 +1,39 @@
+{
+  "id": 20049351,
+  "first_name": "George",
+  "last_name": "Campbell",
+  "birth_date": "2001-06-22",
+  "country_id": 390,
+  "club_id": 734,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 130,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 20046402, "p": 22, "g": 2 },
+    { "s": 2020, "c": 72047296, "p": 1 },
+    { "s": 2021, "c": 72047296, "p": 15, "g": 1 },
+    { "s": 2022, "c": 72047296, "p": 20 },
+    { "s": 2023, "c": 2000152066, "p": 26, "g": 1 },
+    { "s": 2024, "c": 2000152066, "p": 28 },
+    { "s": 2025, "c": 2000152066, "p": 16 }
+  ]
+}

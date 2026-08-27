@@ -1,0 +1,57 @@
+{
+  "id": 724,
+  "name": "Swansea City",
+  "location": {
+    "city_id": 3628
+  },
+  "finance": {
+    "balance": 6350000
+  },
+  "teams": [
+    {
+      "id": 724,
+      "name": "Swansea City",
+      "slug": "swansea-city",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5800,
+        "national": 5800,
+        "world": 5800
+      }
+    },
+    {
+      "id": 90700057,
+      "name": "Swansea City",
+      "slug": "swansea-city-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1740,
+        "national": 1740,
+        "world": 1740
+      }
+    },
+    {
+      "id": 90700058,
+      "name": "Swansea City",
+      "slug": "swansea-city-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1160,
+        "national": 1160,
+        "world": 1160
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Great",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 15503
+}

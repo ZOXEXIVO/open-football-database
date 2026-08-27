@@ -1,0 +1,57 @@
+{
+  "id": 686,
+  "name": "Millwall",
+  "location": {
+    "city_id": 3621
+  },
+  "finance": {
+    "balance": 1049020
+  },
+  "teams": [
+    {
+      "id": 686,
+      "name": "Millwall",
+      "slug": "millwall",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5700,
+        "national": 5700,
+        "world": 5700
+      }
+    },
+    {
+      "id": 90700043,
+      "name": "Millwall",
+      "slug": "millwall-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1710,
+        "national": 1710,
+        "world": 1710
+      }
+    },
+    {
+      "id": 90700044,
+      "name": "Millwall",
+      "slug": "millwall-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    }
+  ],
+  "colors": {
+    "background": "#001d5e",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 15490
+}

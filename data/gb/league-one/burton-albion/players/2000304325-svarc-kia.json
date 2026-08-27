@@ -1,0 +1,29 @@
+{
+  "id": 2000304325,
+  "first_name": "Kia",
+  "last_name": "Svarc",
+  "birth_date": "2006-09-15",
+  "country_id": 765,
+  "club_id": 4001706,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 35,
+  "potential_ability": 0,
+  "contract": {
+    "salary": 13520,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 4001706, "p": 0 },
+    { "s": 2024, "c": 4001706, "p": 0 },
+    { "s": 2024, "c": 8325021, "p": 4 },
+    { "s": 2024, "c": 29173143, "p": 8, "g": 1 },
+    { "s": 2025, "c": 90059182, "p": 12, "g": 1 }
+  ]
+}

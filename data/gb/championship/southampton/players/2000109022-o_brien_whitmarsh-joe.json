@@ -1,0 +1,38 @@
+{
+  "id": 2000109022,
+  "first_name": "Joe",
+  "last_name": "O'Brien-Whitmarsh",
+  "birth_date": "2005-05-11",
+  "country_id": 789,
+  "club_id": 713,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 99,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 590, "p": 0 },
+    { "s": 2022, "c": 590, "p": 0 },
+    { "s": 2023, "c": 590, "p": 23, "g": 4 },
+    { "s": 2023, "c": 713, "p": 0 },
+    { "s": 2024, "c": 713, "p": 0 },
+    { "s": 2024, "c": 109210, "p": 13, "g": 3 }
+  ]
+}

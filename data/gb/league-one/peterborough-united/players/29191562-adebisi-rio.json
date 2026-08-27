@@ -1,0 +1,49 @@
+{
+  "id": 29191562,
+  "first_name": "Rio",
+  "last_name": "Adébísí",
+  "birth_date": "2000-09-27",
+  "country_id": 765,
+  "club_id": 696,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 75
+  },
+  "current_ability": 96,
+  "potential_ability": 105,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 641, "p": 0 },
+    { "s": 2018, "c": 641, "p": 0 },
+    { "s": 2018, "c": 672, "p": 5, "g": 1 },
+    { "s": 2019, "c": 641, "p": 2 },
+    { "s": 2020, "c": 641, "p": 15 },
+    { "s": 2021, "c": 641, "p": 22 },
+    { "s": 2022, "c": 641, "p": 32, "g": 2 },
+    { "s": 2023, "c": 641, "p": 46, "g": 4 },
+    { "s": 2024, "c": 696, "p": 1 }
+  ]
+}

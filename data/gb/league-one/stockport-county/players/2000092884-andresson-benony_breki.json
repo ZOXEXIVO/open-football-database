@@ -1,0 +1,34 @@
+{
+  "id": 2000092884,
+  "first_name": "Benoný Breki",
+  "last_name": "Andrésson",
+  "birth_date": "2005-08-03",
+  "country_id": 774,
+  "club_id": 720,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 99,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 130000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1069, "p": 0 },
+    { "s": 2021, "c": 1111, "p": 0 },
+    { "s": 2022, "c": 1111, "p": 0 },
+    { "s": 2023, "c": 1076, "p": 25, "g": 9 },
+    { "s": 2024, "c": 720, "p": 11, "g": 4 },
+    { "s": 2024, "c": 1076, "p": 26, "g": 21 }
+  ]
+}

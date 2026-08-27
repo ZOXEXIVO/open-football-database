@@ -1,0 +1,38 @@
+{
+  "id": 2000503723,
+  "first_name": "Divine",
+  "last_name": "Okwara",
+  "birth_date": "2009-01-07",
+  "country_id": 765,
+  "club_id": 719,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 0,
+  "potential_ability": 0,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

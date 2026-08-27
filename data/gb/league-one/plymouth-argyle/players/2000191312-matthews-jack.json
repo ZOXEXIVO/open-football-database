@@ -1,0 +1,37 @@
+{
+  "id": 2000191312,
+  "first_name": "Jack",
+  "last_name": "Matthews",
+  "birth_date": "2006-05-13",
+  "country_id": 765,
+  "club_id": 697,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 57,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 23400,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 697, "p": 0 },
+    { "s": 2023, "c": 697, "p": 0 },
+    { "s": 2024, "c": 697, "p": 0 },
+    { "s": 2024, "c": 5103671, "p": 29 },
+    { "s": 2024, "c": 90069952, "p": 4, "g": 1 }
+  ]
+}

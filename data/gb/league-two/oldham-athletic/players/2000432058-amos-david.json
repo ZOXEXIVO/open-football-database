@@ -1,0 +1,29 @@
+{
+  "id": 2000432058,
+  "first_name": "David",
+  "last_name": "Amos",
+  "birth_date": "2008-08-31",
+  "country_id": 765,
+  "club_id": 694,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 0,
+  "potential_ability": -45,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 694, "p": 0 }
+  ]
+}

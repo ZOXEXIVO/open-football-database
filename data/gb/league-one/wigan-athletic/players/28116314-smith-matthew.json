@@ -1,0 +1,43 @@
+{
+  "id": 28116314,
+  "first_name": "Matthew",
+  "last_name": "Smith",
+  "birth_date": "2000-10-05",
+  "country_id": 765,
+  "club_id": 737,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 103,
+  "potential_ability": 125,
+  "contract": {
+    "salary": 182000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 602, "p": 0 },
+    { "s": 2018, "c": 602, "p": 0 },
+    { "s": 2019, "c": 602, "p": 0 },
+    { "s": 2020, "c": 602, "p": 0 },
+    { "s": 2020, "c": 628, "p": 8 },
+    { "s": 2020, "c": 725, "p": 24, "g": 2 },
+    { "s": 2021, "c": 602, "p": 0 },
+    { "s": 2021, "c": 646, "p": 43 },
+    { "s": 2022, "c": 602, "p": 0 },
+    { "s": 2023, "c": 737, "p": 28, "g": 1 },
+    { "s": 2024, "c": 737, "p": 19, "g": 1 }
+  ]
+}

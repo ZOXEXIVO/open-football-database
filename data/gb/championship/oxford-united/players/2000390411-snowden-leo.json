@@ -1,0 +1,29 @@
+{
+  "id": 2000390411,
+  "first_name": "Leo",
+  "last_name": "Snowden",
+  "birth_date": "2008-05-19",
+  "country_id": 765,
+  "club_id": 695,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 56,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 28600,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 695, "p": 0 }
+  ]
+}

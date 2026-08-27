@@ -1,0 +1,37 @@
+{
+  "id": 2000128615,
+  "first_name": "Tom",
+  "last_name": "Wilson-Brown",
+  "birth_date": "2004-10-05",
+  "country_id": 765,
+  "club_id": 673,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 89,
+  "potential_ability": 130,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 673, "p": 0 },
+    { "s": 2022, "c": 673, "p": 0 },
+    { "s": 2023, "c": 673, "p": 0 },
+    { "s": 2024, "c": 673, "p": 0 },
+    { "s": 2024, "c": 1580, "p": 0 }
+  ]
+}

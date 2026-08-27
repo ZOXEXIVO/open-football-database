@@ -1,0 +1,57 @@
+{
+  "id": 694,
+  "name": "Oldham Athletic",
+  "location": {
+    "city_id": 3668
+  },
+  "finance": {
+    "balance": 190500
+  },
+  "teams": [
+    {
+      "id": 694,
+      "name": "Oldham Athletic",
+      "slug": "oldham-athletic",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 90700137,
+      "name": "Oldham Athletic",
+      "slug": "oldham-athletic-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 90700138,
+      "name": "Oldham Athletic",
+      "slug": "oldham-athletic-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0055a5",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Basic",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 6073
+}

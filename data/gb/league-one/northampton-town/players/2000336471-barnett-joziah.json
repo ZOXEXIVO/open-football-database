@@ -1,0 +1,46 @@
+{
+  "id": 2000336471,
+  "first_name": "Joziah",
+  "last_name": "Barnett",
+  "birth_date": "2008-08-31",
+  "country_id": 765,
+  "club_id": 689,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 57,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 689, "p": 0 },
+    { "s": 2024, "c": 5103745, "p": 2 }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 29236814,
+  "first_name": "Loick",
+  "last_name": "Ayina",
+  "birth_date": "2003-04-20",
+  "country_id": 49,
+  "club_id": 5103842,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 110,
+  "contract": {
+    "salary": 78000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 664, "p": 0 },
+    { "s": 2020, "c": 664, "p": 0 },
+    { "s": 2021, "c": 615, "p": 4 },
+    { "s": 2021, "c": 664, "p": 0 },
+    { "s": 2022, "c": 664, "p": 0 },
+    { "s": 2022, "c": 1556, "p": 12 },
+    { "s": 2023, "c": 664, "p": 2 },
+    { "s": 2023, "c": 1593, "p": 12 },
+    { "s": 2024, "c": 664, "p": 0 }
+  ]
+}

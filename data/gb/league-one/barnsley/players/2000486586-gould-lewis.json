@@ -1,0 +1,47 @@
+{
+  "id": 2000486586,
+  "first_name": "Lewis",
+  "last_name": "Gould",
+  "birth_date": "2006-05-06",
+  "country_id": 765,
+  "club_id": 606,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 8325035, "p": 3 },
+    { "s": 2023, "c": 8325035, "p": 24, "g": 4 },
+    { "s": 2024, "c": 8325035, "p": 37, "g": 15 }
+  ]
+}

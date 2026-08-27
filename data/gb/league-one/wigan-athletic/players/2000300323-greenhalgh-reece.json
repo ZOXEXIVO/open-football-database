@@ -1,0 +1,34 @@
+{
+  "id": 2000300323,
+  "first_name": "Reece",
+  "last_name": "Greenhalgh",
+  "birth_date": "2007-08-31",
+  "country_id": 765,
+  "club_id": 737,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 49,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 20800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 737, "p": 0 },
+    { "s": 2024, "c": 737, "p": 0 }
+  ]
+}

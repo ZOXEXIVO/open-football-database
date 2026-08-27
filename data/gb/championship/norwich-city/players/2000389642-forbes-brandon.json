@@ -1,0 +1,35 @@
+{
+  "id": 2000389642,
+  "first_name": "Brandon",
+  "last_name": "Forbes",
+  "birth_date": "2006-06-15",
+  "country_id": 793,
+  "club_id": 691,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 1556, "p": 0 },
+    { "s": 2024, "c": 691, "p": 0 },
+    { "s": 2024, "c": 1556, "p": 0 }
+  ]
+}

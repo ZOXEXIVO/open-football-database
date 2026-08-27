@@ -1,0 +1,31 @@
+{
+  "id": 2000199184,
+  "first_name": "Billy",
+  "last_name": "Blacker",
+  "birth_date": "2006-05-25",
+  "country_id": 765,
+  "club_id": 708,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 33800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 708, "p": 0 },
+    { "s": 2023, "c": 708, "p": 0 },
+    { "s": 2024, "c": 708, "p": 1 }
+  ]
+}

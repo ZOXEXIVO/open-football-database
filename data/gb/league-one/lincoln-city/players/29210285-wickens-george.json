@@ -1,0 +1,38 @@
+{
+  "id": 29210285,
+  "first_name": "George",
+  "last_name": "Wickens",
+  "birth_date": "2001-11-08",
+  "country_id": 765,
+  "club_id": 675,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 130,
+  "contract": {
+    "salary": 130000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 654, "p": 0 },
+    { "s": 2018, "c": 654, "p": 0 },
+    { "s": 2019, "c": 654, "p": 0 },
+    { "s": 2020, "c": 654, "p": 0 },
+    { "s": 2021, "c": 654, "p": 0 },
+    { "s": 2021, "c": 5100217, "p": 40 },
+    { "s": 2022, "c": 654, "p": 0 },
+    { "s": 2023, "c": 654, "p": 0 },
+    { "s": 2023, "c": 1593, "p": 13 },
+    { "s": 2024, "c": 675, "p": 36 }
+  ]
+}

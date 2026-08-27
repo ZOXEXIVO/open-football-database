@@ -1,0 +1,47 @@
+{
+  "id": 29192174,
+  "first_name": "Conor",
+  "last_name": "Grant",
+  "birth_date": "2001-07-23",
+  "country_id": 789,
+  "club_id": 693,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 91,
+  "potential_ability": 120,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 596, "p": 0 },
+    { "s": 2017, "c": 709, "p": 0 },
+    { "s": 2018, "c": 709, "p": 0 },
+    { "s": 2019, "c": 709, "p": 0 },
+    { "s": 2020, "c": 703, "p": 20, "g": 1 },
+    { "s": 2020, "c": 709, "p": 0 },
+    { "s": 2021, "c": 703, "p": 33, "g": 4 },
+    { "s": 2022, "c": 151027, "p": 29, "g": 1 },
+    { "s": 2023, "c": 606, "p": 12, "g": 1 },
+    { "s": 2023, "c": 151027, "p": 11 },
+    { "s": 2024, "c": 693, "p": 32, "g": 4 }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 2000027335,
+  "first_name": "Seb",
+  "last_name": "Palmer-Houlden",
+  "birth_date": "2004-05-12",
+  "country_id": 765,
+  "club_id": 656,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 120,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 619, "p": 0 },
+    { "s": 2021, "c": 619, "p": 0 },
+    { "s": 2022, "c": 619, "p": 0 },
+    { "s": 2022, "c": 743, "p": 3 },
+    { "s": 2022, "c": 5103663, "p": 5 },
+    { "s": 2023, "c": 581, "p": 34, "g": 7 },
+    { "s": 2023, "c": 619, "p": 0 },
+    { "s": 2024, "c": 619, "p": 0 },
+    { "s": 2024, "c": 1555, "p": 33, "g": 5 }
+  ]
+}

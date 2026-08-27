@@ -1,0 +1,38 @@
+{
+  "id": 28118145,
+  "first_name": "Zeno",
+  "last_name": "Ibsen Rossi",
+  "birth_date": "2000-10-28",
+  "country_id": 765,
+  "club_id": 624,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 130,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 600, "p": 0 },
+    { "s": 2018, "c": 600, "p": 0 },
+    { "s": 2019, "c": 600, "p": 0 },
+    { "s": 2020, "c": 600, "p": 0 },
+    { "s": 2020, "c": 1580, "p": 14 },
+    { "s": 2021, "c": 600, "p": 4 },
+    { "s": 2021, "c": 1555, "p": 3 },
+    { "s": 2022, "c": 624, "p": 6 },
+    { "s": 2023, "c": 624, "p": 11 },
+    { "s": 2024, "c": 624, "p": 15 }
+  ]
+}

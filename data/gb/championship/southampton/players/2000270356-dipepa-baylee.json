@@ -1,0 +1,31 @@
+{
+  "id": 2000270356,
+  "first_name": "Baylee",
+  "last_name": "Dipepa",
+  "birth_date": "2007-01-12",
+  "country_id": 765,
+  "club_id": 713,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": -75,
+  "contract": {
+    "salary": 130000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 698, "p": 22, "g": 3 },
+    { "s": 2024, "c": 698, "p": 3 },
+    { "s": 2024, "c": 713, "p": 0 }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000190631,
+  "first_name": "Alan",
+  "last_name": "Domeracki",
+  "birth_date": "2006-10-23",
+  "country_id": 793,
+  "club_id": 691,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 20
+  },
+  "current_ability": 68,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 46800,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1556, "p": 0 },
+    { "s": 2023, "c": 1556, "p": 0 },
+    { "s": 2024, "c": 1556, "p": 0 }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 2000515640,
+  "first_name": "Joel",
+  "last_name": "Mensah",
+  "birth_date": "2009-08-31",
+  "country_id": 765,
+  "club_id": 674,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 0,
+  "potential_ability": 0,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

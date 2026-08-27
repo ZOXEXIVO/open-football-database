@@ -1,0 +1,32 @@
+{
+  "id": 2000210544,
+  "first_name": "Nathan",
+  "last_name": "Lowe",
+  "birth_date": "2005-09-18",
+  "country_id": 765,
+  "club_id": 721,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 721, "p": 1 },
+    { "s": 2023, "c": 721, "p": 13, "g": 1 },
+    { "s": 2024, "c": 721, "p": 10, "g": 1 },
+    { "s": 2024, "c": 731, "p": 22, "g": 15 }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000227101,
+  "first_name": "Anthony",
+  "last_name": "Núñez",
+  "birth_date": "2005-10-14",
+  "country_id": 142527,
+  "club_id": 681,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 44,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 23400,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 693, "p": 0 },
+    { "s": 2023, "c": 681, "p": 0 },
+    { "s": 2024, "c": 681, "p": 0 },
+    { "s": 2024, "c": 5100104, "p": 4 }
+  ]
+}

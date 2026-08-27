@@ -1,0 +1,48 @@
+{
+  "id": 29235857,
+  "first_name": "Cian",
+  "last_name": "Hayes",
+  "birth_date": "2003-06-21",
+  "country_id": 789,
+  "club_id": 696,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 103,
+  "potential_ability": 125,
+  "contract": {
+    "salary": 93600,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 5103834, "p": 0 },
+    { "s": 2020, "c": 5103834, "p": 0 },
+    { "s": 2021, "c": 5103834, "p": 24, "g": 1 },
+    { "s": 2021, "c": 8611092, "p": 4, "g": 2 },
+    { "s": 2022, "c": 5103834, "p": 34, "g": 1 },
+    { "s": 2023, "c": 703, "p": 24, "g": 7 },
+    { "s": 2023, "c": 5103834, "p": 5 },
+    { "s": 2024, "c": 696, "p": 34, "g": 3 }
+  ]
+}

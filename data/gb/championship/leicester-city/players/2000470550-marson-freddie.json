@@ -1,0 +1,27 @@
+{
+  "id": 2000470550,
+  "first_name": "Freddie",
+  "last_name": "Marson",
+  "birth_date": "2009-08-31",
+  "country_id": 765,
+  "club_id": 673,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 681, "p": 0 },
+    { "s": 2023, "c": 673, "p": 0 },
+    { "s": 2024, "c": 673, "p": 0 }
+  ]
+}

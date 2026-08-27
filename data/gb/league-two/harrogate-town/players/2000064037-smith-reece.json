@@ -1,0 +1,50 @@
+{
+  "id": 2000064037,
+  "first_name": "Reece",
+  "last_name": "Smith",
+  "birth_date": "2002-04-28",
+  "country_id": 765,
+  "club_id": 5100047,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 81,
+  "potential_ability": 100,
+  "contract": {
+    "salary": 78000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 5100192, "p": 0 },
+    { "s": 2020, "c": 5100192, "p": 6, "g": 1 },
+    { "s": 2021, "c": 5100192, "p": 31, "g": 1 },
+    { "s": 2022, "c": 5100192, "p": 38, "g": 5 },
+    { "s": 2023, "c": 5100192, "p": 40, "g": 11 },
+    { "s": 2024, "c": 5100192, "p": 43, "g": 6 }
+  ]
+}

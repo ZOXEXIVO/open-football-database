@@ -1,0 +1,38 @@
+{
+  "id": 29236202,
+  "first_name": "George",
+  "last_name": "Cooper",
+  "birth_date": "2002-10-25",
+  "country_id": 765,
+  "club_id": 681,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 77,
+  "potential_ability": 102,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 681, "p": 0 },
+    { "s": 2020, "c": 681, "p": 0 },
+    { "s": 2021, "c": 668, "p": 24, "g": 2 },
+    { "s": 2021, "c": 681, "p": 0 },
+    { "s": 2022, "c": 668, "p": 38, "g": 3 },
+    { "s": 2022, "c": 681, "p": 0 },
+    { "s": 2023, "c": 681, "p": 2 },
+    { "s": 2024, "c": 669, "p": 0 },
+    { "s": 2024, "c": 681, "p": 0 },
+    { "s": 2025, "c": 1300922, "p": 13, "g": 1 }
+  ]
+}

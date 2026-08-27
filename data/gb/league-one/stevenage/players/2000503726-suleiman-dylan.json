@@ -1,0 +1,38 @@
+{
+  "id": 2000503726,
+  "first_name": "Dylan",
+  "last_name": "Suleiman",
+  "birth_date": "2008-09-28",
+  "country_id": 765,
+  "club_id": 719,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 0,
+  "potential_ability": 0,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

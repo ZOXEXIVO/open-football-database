@@ -1,0 +1,57 @@
+{
+  "id": 689,
+  "name": "Northampton Town",
+  "location": {
+    "city_id": 3643
+  },
+  "finance": {
+    "balance": 30480
+  },
+  "teams": [
+    {
+      "id": 689,
+      "name": "Northampton Town",
+      "slug": "northampton-town",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 90700087,
+      "name": "Northampton Town",
+      "slug": "northampton-town-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 90700088,
+      "name": "Northampton Town",
+      "slug": "northampton-town-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#8b1f41",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 6568
+}

@@ -1,0 +1,38 @@
+{
+  "id": 28120046,
+  "first_name": "Taylor",
+  "last_name": "Harwood-Bellis",
+  "birth_date": "2002-01-30",
+  "country_id": 765,
+  "club_id": 713,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 128,
+  "potential_ability": 150,
+  "contract": {
+    "salary": 1560000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 679, "p": 0 },
+    { "s": 2019, "c": 679, "p": 0 },
+    { "s": 2020, "c": 612, "p": 19 },
+    { "s": 2020, "c": 679, "p": 0 },
+    { "s": 2021, "c": 256, "p": 16 },
+    { "s": 2021, "c": 721, "p": 22 },
+    { "s": 2022, "c": 622, "p": 32, "g": 1 },
+    { "s": 2023, "c": 679, "p": 0 },
+    { "s": 2023, "c": 713, "p": 40, "g": 2 },
+    { "s": 2024, "c": 713, "p": 34, "g": 1 }
+  ]
+}

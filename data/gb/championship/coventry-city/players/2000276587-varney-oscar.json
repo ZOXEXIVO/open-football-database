@@ -1,0 +1,26 @@
+{
+  "id": 2000276587,
+  "first_name": "Oscar",
+  "last_name": "Varney",
+  "birth_date": "2006-10-01",
+  "country_id": 765,
+  "club_id": 639,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 654, "p": 0 },
+    { "s": 2024, "c": 654, "p": 0 }
+  ]
+}

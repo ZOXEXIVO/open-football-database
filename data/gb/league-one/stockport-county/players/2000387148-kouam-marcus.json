@@ -1,0 +1,26 @@
+{
+  "id": 2000387148,
+  "first_name": "Marcus",
+  "last_name": "Kouam",
+  "birth_date": "2007-08-31",
+  "country_id": 11,
+  "club_id": 720,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 720, "p": 0 },
+    { "s": 2024, "c": 5103697, "p": 5 }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000144852,
+  "first_name": "Declan",
+  "last_name": "Skura",
+  "birth_date": "2002-04-09",
+  "country_id": 765,
+  "club_id": 742,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": 105,
+  "contract": {
+    "salary": 33800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 29060716, "p": 5 },
+    { "s": 2021, "c": 670, "p": 12, "g": 1 },
+    { "s": 2022, "c": 670, "p": 16 },
+    { "s": 2022, "c": 742, "p": 0 },
+    { "s": 2023, "c": 742, "p": 0 },
+    { "s": 2023, "c": 5100157, "p": 17 },
+    { "s": 2024, "c": 742, "p": 8 }
+  ]
+}

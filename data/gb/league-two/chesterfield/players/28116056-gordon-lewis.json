@@ -1,0 +1,41 @@
+{
+  "id": 28116056,
+  "first_name": "Lewis",
+  "last_name": "Gordon",
+  "birth_date": "2001-02-12",
+  "country_id": 765,
+  "club_id": 634,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 70
+  },
+  "current_ability": 96,
+  "potential_ability": 100,
+  "contract": {
+    "salary": 130000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 732, "p": 0 },
+    { "s": 2018, "c": 732, "p": 0 },
+    { "s": 2019, "c": 716, "p": 7 },
+    { "s": 2019, "c": 732, "p": 0 },
+    { "s": 2020, "c": 617, "p": 0 },
+    { "s": 2021, "c": 617, "p": 0 },
+    { "s": 2022, "c": 620, "p": 39 },
+    { "s": 2023, "c": 620, "p": 22 },
+    { "s": 2024, "c": 634, "p": 33 }
+  ]
+}

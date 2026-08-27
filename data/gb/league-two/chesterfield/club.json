@@ -1,0 +1,57 @@
+{
+  "id": 634,
+  "name": "Chesterfield",
+  "location": {
+    "city_id": 3658
+  },
+  "finance": {
+    "balance": 1
+  },
+  "teams": [
+    {
+      "id": 634,
+      "name": "Chesterfield",
+      "slug": "chesterfield",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 90700117,
+      "name": "Chesterfield",
+      "slug": "chesterfield-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 90700118,
+      "name": "Chesterfield",
+      "slug": "chesterfield-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0057b8",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Adequate",
+    "youth": "Adequate",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 8550
+}

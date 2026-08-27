@@ -1,0 +1,57 @@
+{
+  "id": 607,
+  "name": "Barrow AFC",
+  "location": {
+    "city_id": 3653
+  },
+  "finance": {
+    "balance": 406400
+  },
+  "teams": [
+    {
+      "id": 607,
+      "name": "Barrow AFC",
+      "slug": "barrow-afc",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 90700107,
+      "name": "Barrow AFC",
+      "slug": "barrow-afc-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 90700108,
+      "name": "Barrow AFC",
+      "slug": "barrow-afc-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#005baa",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Adequate",
+    "youth": "Poor",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 3381
+}

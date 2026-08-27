@@ -1,0 +1,37 @@
+{
+  "id": 2000364113,
+  "first_name": "Harlan",
+  "last_name": "Perry",
+  "birth_date": "2007-11-28",
+  "country_id": 801,
+  "club_id": 724,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 724, "p": 0 }
+  ]
+}

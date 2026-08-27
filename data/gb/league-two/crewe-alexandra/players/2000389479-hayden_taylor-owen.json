@@ -1,0 +1,29 @@
+{
+  "id": 2000389479,
+  "first_name": "Owen",
+  "last_name": "Hayden-Taylor",
+  "birth_date": "2007-08-26",
+  "country_id": 765,
+  "club_id": 641,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 641, "p": 0 }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2000168143,
+  "first_name": "Ali",
+  "last_name": "Ahmed",
+  "birth_date": "2000-10-10",
+  "country_id": 364,
+  "club_id": 691,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 121,
+  "potential_ability": 126,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 4400014, "p": 2 },
+    { "s": 2022, "c": 72043493, "p": 15 },
+    { "s": 2023, "c": 4400014, "p": 22, "g": 2 },
+    { "s": 2024, "c": 4400014, "p": 22, "g": 1 },
+    { "s": 2025, "c": 4400014, "p": 22 }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 31042061,
+  "first_name": "Isaiah",
+  "last_name": "Jones",
+  "birth_date": "1999-06-26",
+  "country_id": 374,
+  "club_id": 677,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 137,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 5100227, "p": 0 },
+    { "s": 2017, "c": 5100227, "p": 26, "g": 1 },
+    { "s": 2018, "c": 5100227, "p": 29, "g": 9 },
+    { "s": 2019, "c": 685, "p": 0 },
+    { "s": 2019, "c": 1596, "p": 0 },
+    { "s": 2020, "c": 685, "p": 0 },
+    { "s": 2020, "c": 1590, "p": 11, "g": 1 },
+    { "s": 2021, "c": 685, "p": 42, "g": 1 },
+    { "s": 2022, "c": 685, "p": 34, "g": 3 },
+    { "s": 2023, "c": 685, "p": 35, "g": 8 },
+    { "s": 2024, "c": 677, "p": 17, "g": 2 },
+    { "s": 2024, "c": 685, "p": 21 }
+  ]
+}

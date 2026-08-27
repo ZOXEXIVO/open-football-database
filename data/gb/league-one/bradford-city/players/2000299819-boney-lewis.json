@@ -1,0 +1,34 @@
+{
+  "id": 2000299819,
+  "first_name": "Lewis",
+  "last_name": "Boney",
+  "birth_date": "2007-02-23",
+  "country_id": 765,
+  "club_id": 616,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 62,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 18200,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 616, "p": 0 },
+    { "s": 2024, "c": 616, "p": 0 }
+  ]
+}

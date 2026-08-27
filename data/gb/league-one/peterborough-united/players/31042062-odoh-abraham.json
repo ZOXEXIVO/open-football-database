@@ -1,0 +1,54 @@
+{
+  "id": 31042062,
+  "first_name": "Abraham",
+  "last_name": "Odoh",
+  "birth_date": "2000-06-25",
+  "country_id": 765,
+  "club_id": 696,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 110,
+  "contract": {
+    "salary": 182000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 29173246, "p": 0 },
+    { "s": 2017, "c": 29173246, "p": 0 },
+    { "s": 2018, "c": 628, "p": 0 },
+    { "s": 2018, "c": 5100227, "p": 11 },
+    { "s": 2019, "c": 628, "p": 0 },
+    { "s": 2020, "c": 703, "p": 2 },
+    { "s": 2021, "c": 703, "p": 32, "g": 3 },
+    { "s": 2022, "c": 703, "p": 45, "g": 1 },
+    { "s": 2023, "c": 5100047, "p": 42, "g": 9 },
+    { "s": 2024, "c": 696, "p": 38, "g": 5 }
+  ]
+}

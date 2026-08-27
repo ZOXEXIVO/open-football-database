@@ -1,0 +1,56 @@
+{
+  "id": 29199843,
+  "first_name": "Siriki",
+  "last_name": "Dembélé",
+  "birth_date": "1996-09-07",
+  "country_id": 793,
+  "club_id": 695,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 134,
+  "contract": {
+    "salary": 702000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 1542, "p": 0 },
+    { "s": 2017, "c": 658, "p": 36, "g": 4 },
+    { "s": 2018, "c": 696, "p": 38, "g": 5 },
+    { "s": 2019, "c": 696, "p": 25, "g": 5 },
+    { "s": 2020, "c": 696, "p": 42, "g": 11 },
+    { "s": 2021, "c": 600, "p": 13, "g": 2 },
+    { "s": 2021, "c": 696, "p": 24, "g": 5 },
+    { "s": 2022, "c": 600, "p": 6 },
+    { "s": 2022, "c": 824, "p": 12 },
+    { "s": 2023, "c": 609, "p": 33, "g": 6 },
+    { "s": 2024, "c": 609, "p": 1 },
+    { "s": 2024, "c": 695, "p": 25, "g": 2 }
+  ]
+}

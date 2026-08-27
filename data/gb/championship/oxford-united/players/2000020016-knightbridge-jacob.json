@@ -1,0 +1,35 @@
+{
+  "id": 2000020016,
+  "first_name": "Jacob",
+  "last_name": "Knightbridge",
+  "birth_date": "2004-01-25",
+  "country_id": 765,
+  "club_id": 695,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 61,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 735, "p": 0 },
+    { "s": 2021, "c": 735, "p": 0 },
+    { "s": 2022, "c": 735, "p": 0 },
+    { "s": 2022, "c": 5100159, "p": 38 },
+    { "s": 2023, "c": 735, "p": 0 },
+    { "s": 2024, "c": 695, "p": 0 },
+    { "s": 2024, "c": 134732, "p": 2 }
+  ]
+}

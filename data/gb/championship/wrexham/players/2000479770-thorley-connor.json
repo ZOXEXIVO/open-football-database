@@ -1,0 +1,29 @@
+{
+  "id": 2000479770,
+  "first_name": "Connor",
+  "last_name": "Thorley",
+  "birth_date": "2008-09-26",
+  "country_id": 801,
+  "club_id": 741,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 50,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 680, "p": 0 }
+  ]
+}

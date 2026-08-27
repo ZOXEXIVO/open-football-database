@@ -1,0 +1,33 @@
+{
+  "id": 2000249101,
+  "first_name": "Redman",
+  "last_name": "Evans",
+  "birth_date": "2005-10-01",
+  "country_id": 765,
+  "club_id": 725,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 725, "p": 0 },
+    { "s": 2023, "c": 725, "p": 1 },
+    { "s": 2024, "c": 725, "p": 0 },
+    { "s": 2024, "c": 5103652, "p": 6 },
+    { "s": 2024, "c": 5103673, "p": 15 }
+  ]
+}

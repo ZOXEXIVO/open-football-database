@@ -1,0 +1,32 @@
+{
+  "id": 2000273240,
+  "first_name": "Adama",
+  "last_name": "Sidibeh",
+  "birth_date": "1998-06-25",
+  "country_id": 20,
+  "club_id": 720,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 130,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 1596, "p": 15, "g": 5 },
+    { "s": 2023, "c": 29232819, "p": 25, "g": 13 },
+    { "s": 2024, "c": 1596, "p": 31, "g": 3 },
+    { "s": 2025, "c": 1596, "p": 19, "g": 6 }
+  ]
+}

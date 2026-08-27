@@ -1,0 +1,57 @@
+{
+  "id": 5103834,
+  "name": "Fleetwood Town",
+  "location": {
+    "city_id": 3662
+  },
+  "finance": {
+    "balance": 138430
+  },
+  "teams": [
+    {
+      "id": 5103834,
+      "name": "Fleetwood Town",
+      "slug": "fleetwood-town",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 90700125,
+      "name": "Fleetwood Town",
+      "slug": "fleetwood-town-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 90700126,
+      "name": "Fleetwood Town",
+      "slug": "fleetwood-town-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e4002b",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 3131
+}

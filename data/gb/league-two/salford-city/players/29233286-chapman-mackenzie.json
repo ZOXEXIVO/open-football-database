@@ -1,0 +1,38 @@
+{
+  "id": 29233286,
+  "first_name": "Mackenzie",
+  "last_name": "Chapman",
+  "birth_date": "2002-09-13",
+  "country_id": 765,
+  "club_id": 5103842,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 52,
+  "potential_ability": 80,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 694, "p": 0 },
+    { "s": 2020, "c": 694, "p": 1 },
+    { "s": 2021, "c": 695, "p": 0 },
+    { "s": 2021, "c": 5103640, "p": 0 },
+    { "s": 2022, "c": 614, "p": 0 },
+    { "s": 2022, "c": 104653, "p": 5 },
+    { "s": 2022, "c": 5103831, "p": 13 },
+    { "s": 2022, "c": 5103900, "p": 1 },
+    { "s": 2023, "c": 613, "p": 0 },
+    { "s": 2024, "c": 613, "p": 0 }
+  ]
+}

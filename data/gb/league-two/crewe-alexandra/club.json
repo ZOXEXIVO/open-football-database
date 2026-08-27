@@ -1,0 +1,57 @@
+{
+  "id": 641,
+  "name": "Crewe Alexandra",
+  "location": {
+    "city_id": 3661
+  },
+  "finance": {
+    "balance": 160020
+  },
+  "teams": [
+    {
+      "id": 641,
+      "name": "Crewe Alexandra",
+      "slug": "crewe-alexandra",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 90700123,
+      "name": "Crewe Alexandra",
+      "slug": "crewe-alexandra-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 90700124,
+      "name": "Crewe Alexandra",
+      "slug": "crewe-alexandra-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e4002b",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 5397
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000284409,
+  "first_name": "Jordan",
+  "last_name": "Hodkin",
+  "birth_date": "2007-01-20",
+  "country_id": 765,
+  "club_id": 641,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 61,
+  "potential_ability": -45,
+  "contract": {
+    "salary": 15600,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 641, "p": 0 },
+    { "s": 2024, "c": 641, "p": 0 },
+    { "s": 2024, "c": 8601338, "p": 6 },
+    { "s": 2024, "c": 29173143, "p": 5 }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 29233147,
+  "first_name": "Ollie",
+  "last_name": "O'Neill",
+  "birth_date": "2003-01-08",
+  "country_id": 789,
+  "club_id": 674,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 132,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 654, "p": 0 },
+    { "s": 2020, "c": 654, "p": 0 },
+    { "s": 2021, "c": 654, "p": 0 },
+    { "s": 2022, "c": 591, "p": 19, "g": 1 },
+    { "s": 2022, "c": 654, "p": 0 },
+    { "s": 2023, "c": 654, "p": 0 },
+    { "s": 2023, "c": 674, "p": 17, "g": 5 },
+    { "s": 2024, "c": 674, "p": 26, "g": 2 }
+  ]
+}

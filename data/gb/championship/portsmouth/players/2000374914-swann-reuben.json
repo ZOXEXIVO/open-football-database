@@ -1,0 +1,34 @@
+{
+  "id": 2000374914,
+  "first_name": "Reuben",
+  "last_name": "Swann",
+  "birth_date": "2006-01-26",
+  "country_id": 765,
+  "club_id": 699,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 41600,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 699, "p": 0 },
+    { "s": 2024, "c": 5100132, "p": 31, "g": 3 }
+  ]
+}

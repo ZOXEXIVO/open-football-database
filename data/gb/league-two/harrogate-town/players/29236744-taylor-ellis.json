@@ -1,0 +1,51 @@
+{
+  "id": 29236744,
+  "first_name": "Ellis",
+  "last_name": "Taylor",
+  "birth_date": "2003-04-14",
+  "country_id": 765,
+  "club_id": 5100047,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 75
+  },
+  "current_ability": 82,
+  "potential_ability": 102,
+  "contract": {
+    "salary": 78000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 722, "p": 0 },
+    { "s": 2020, "c": 722, "p": 0 },
+    { "s": 2021, "c": 722, "p": 0 },
+    { "s": 2022, "c": 661, "p": 4 },
+    { "s": 2022, "c": 722, "p": 0 },
+    { "s": 2023, "c": 722, "p": 0 },
+    { "s": 2024, "c": 5100047, "p": 36, "g": 7 }
+  ]
+}

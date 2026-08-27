@@ -1,0 +1,37 @@
+{
+  "id": 2000388664,
+  "first_name": "Will",
+  "last_name": "Lawrence",
+  "birth_date": "2007-12-03",
+  "country_id": 765,
+  "club_id": 673,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 26000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 673, "p": 0 }
+  ]
+}

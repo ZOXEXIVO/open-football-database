@@ -1,0 +1,34 @@
+{
+  "id": 2000272657,
+  "first_name": "Andre",
+  "last_name": "Changunda",
+  "birth_date": "2007-06-13",
+  "country_id": 765,
+  "club_id": 696,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 58,
+  "potential_ability": -45,
+  "contract": {
+    "salary": 20800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 696, "p": 0 },
+    { "s": 2024, "c": 696, "p": 1 }
+  ]
+}

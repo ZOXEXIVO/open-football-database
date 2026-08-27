@@ -1,0 +1,38 @@
+{
+  "id": 2000109016,
+  "first_name": "Cathal",
+  "last_name": "Heffernan",
+  "birth_date": "2005-04-27",
+  "country_id": 789,
+  "club_id": 5100047,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 590, "p": 1 },
+    { "s": 2021, "c": 1099, "p": 0 },
+    { "s": 2022, "c": 1099, "p": 0 },
+    { "s": 2023, "c": 688, "p": 0 },
+    { "s": 2024, "c": 688, "p": 0 },
+    { "s": 2025, "c": 688, "p": 0 }
+  ]
+}

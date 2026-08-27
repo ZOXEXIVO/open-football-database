@@ -1,0 +1,38 @@
+{
+  "id": 29170995,
+  "first_name": "Michael",
+  "last_name": "Cooper",
+  "birth_date": "1999-10-08",
+  "country_id": 765,
+  "club_id": 708,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 126,
+  "potential_ability": 132,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 697, "p": 0 },
+    { "s": 2017, "c": 697, "p": 1 },
+    { "s": 2018, "c": 697, "p": 1 },
+    { "s": 2019, "c": 697, "p": 0 },
+    { "s": 2020, "c": 697, "p": 46 },
+    { "s": 2021, "c": 697, "p": 46 },
+    { "s": 2022, "c": 697, "p": 29 },
+    { "s": 2023, "c": 697, "p": 19 },
+    { "s": 2024, "c": 697, "p": 0 },
+    { "s": 2024, "c": 708, "p": 43 }
+  ]
+}

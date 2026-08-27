@@ -1,0 +1,38 @@
+{
+  "id": 29240152,
+  "first_name": "Euan",
+  "last_name": "Williams",
+  "birth_date": "2003-01-15",
+  "country_id": 785,
+  "club_id": 656,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 87,
+  "potential_ability": 99,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 628, "p": 0 },
+    { "s": 2020, "c": 628, "p": 0 },
+    { "s": 2021, "c": 628, "p": 0 },
+    { "s": 2022, "c": 628, "p": 0 },
+    { "s": 2023, "c": 628, "p": 0 },
+    { "s": 2024, "c": 656, "p": 10 }
+  ]
+}

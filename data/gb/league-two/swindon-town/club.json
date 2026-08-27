@@ -1,0 +1,57 @@
+{
+  "id": 725,
+  "name": "Swindon Town",
+  "location": {
+    "city_id": 3671
+  },
+  "finance": {
+    "balance": 368300
+  },
+  "teams": [
+    {
+      "id": 725,
+      "name": "Swindon Town",
+      "slug": "swindon-town",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 90700143,
+      "name": "Swindon Town",
+      "slug": "swindon-town-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 90700144,
+      "name": "Swindon Town",
+      "slug": "swindon-town-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d2232a",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 7229
+}

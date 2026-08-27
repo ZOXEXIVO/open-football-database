@@ -1,0 +1,31 @@
+{
+  "id": 2000409473,
+  "first_name": "Rohat",
+  "last_name": "Matyar",
+  "birth_date": "2005-05-12",
+  "country_id": 765,
+  "club_id": 605,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": 0,
+  "contract": {
+    "salary": 20800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 605, "p": 0 },
+    { "s": 2024, "c": 8325071, "p": 1 },
+    { "s": 2024, "c": 8325159, "p": 5 }
+  ]
+}

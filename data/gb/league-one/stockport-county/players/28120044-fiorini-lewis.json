@@ -1,0 +1,43 @@
+{
+  "id": 28120044,
+  "first_name": "Lewis",
+  "last_name": "Fiorini",
+  "birth_date": "2002-05-17",
+  "country_id": 793,
+  "club_id": 720,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 99,
+  "potential_ability": 137,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 679, "p": 0 },
+    { "s": 2019, "c": 679, "p": 0 },
+    { "s": 2020, "c": 679, "p": 0 },
+    { "s": 2020, "c": 1024, "p": 32, "g": 5 },
+    { "s": 2021, "c": 675, "p": 39, "g": 6 },
+    { "s": 2021, "c": 679, "p": 0 },
+    { "s": 2022, "c": 613, "p": 13, "g": 1 },
+    { "s": 2023, "c": 628, "p": 5 },
+    { "s": 2023, "c": 679, "p": 0 },
+    { "s": 2024, "c": 720, "p": 11 },
+    { "s": 2024, "c": 1556, "p": 4 }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2000189636,
+  "first_name": "Gabe",
+  "last_name": "Forsyth",
+  "birth_date": "2006-08-04",
+  "country_id": 793,
+  "club_id": 691,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 102,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1572, "p": 0 },
+    { "s": 2022, "c": 1572, "p": 2 },
+    { "s": 2023, "c": 691, "p": 0 },
+    { "s": 2024, "c": 691, "p": 5 }
+  ]
+}

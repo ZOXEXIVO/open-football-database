@@ -1,0 +1,32 @@
+{
+  "id": 2000227966,
+  "first_name": "Jacob",
+  "last_name": "Lara",
+  "birth_date": "2005-10-01",
+  "country_id": 765,
+  "club_id": 5103842,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 51,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 20800,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 718, "p": 1 },
+    { "s": 2022, "c": 5103842, "p": 0 },
+    { "s": 2023, "c": 4002013, "p": 6 },
+    { "s": 2024, "c": 5103842, "p": 0 }
+  ]
+}

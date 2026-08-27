@@ -1,0 +1,25 @@
+{
+  "id": 2000389480,
+  "first_name": "Isaac",
+  "last_name": "Irwin",
+  "birth_date": "2008-06-10",
+  "country_id": 765,
+  "club_id": 641,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 641, "p": 0 }
+  ]
+}

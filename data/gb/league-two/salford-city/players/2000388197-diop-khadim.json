@@ -1,0 +1,29 @@
+{
+  "id": 2000388197,
+  "first_name": "Khadim",
+  "last_name": "Diop",
+  "birth_date": "2008-08-31",
+  "country_id": 796,
+  "club_id": 5103842,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 30,
+  "potential_ability": -4,
+  "contract": {
+    "salary": 15860,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 5103842, "p": 0 }
+  ]
+}

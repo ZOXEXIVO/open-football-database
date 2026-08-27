@@ -1,0 +1,42 @@
+{
+  "id": 2000044222,
+  "first_name": "Ivan",
+  "last_name": "Varfolomeev",
+  "birth_date": "2004-03-24",
+  "country_id": 800,
+  "club_id": 675,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 107,
+  "potential_ability": 139,
+  "contract": {
+    "salary": 150800,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 1887, "p": 0 },
+    { "s": 2018, "c": 1887, "p": 0 },
+    { "s": 2019, "c": 1887, "p": 0 },
+    { "s": 2020, "c": 1887, "p": 0 },
+    { "s": 2020, "c": 71045065, "p": 2 },
+    { "s": 2021, "c": 71045065, "p": 0 },
+    { "s": 2022, "c": 475, "p": 14 },
+    { "s": 2023, "c": 475, "p": 24, "g": 1 },
+    { "s": 2024, "c": 475, "p": 21, "g": 1 },
+    { "s": 2024, "c": 136265, "p": 7 }
+  ]
+}

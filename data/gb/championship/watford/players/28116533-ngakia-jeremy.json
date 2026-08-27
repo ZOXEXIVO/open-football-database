@@ -1,0 +1,40 @@
+{
+  "id": 28116533,
+  "first_name": "Jeremy",
+  "last_name": "Ngakia",
+  "birth_date": "2000-09-07",
+  "country_id": 765,
+  "club_id": 732,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 135,
+  "contract": {
+    "salary": 442000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 735, "p": 0 },
+    { "s": 2018, "c": 735, "p": 0 },
+    { "s": 2019, "c": 735, "p": 5 },
+    { "s": 2020, "c": 732, "p": 25 },
+    { "s": 2021, "c": 732, "p": 16 },
+    { "s": 2022, "c": 732, "p": 14 },
+    { "s": 2023, "c": 732, "p": 14 },
+    { "s": 2024, "c": 732, "p": 29, "g": 1 }
+  ]
+}
