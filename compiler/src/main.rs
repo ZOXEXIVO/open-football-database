@@ -6,6 +6,7 @@
 //!   data/countries.json
 //!   data/national_competitions.json
 //!   data/domestic_cups.json   (optional — domestic club cups, keyed by country slug)
+//!   data/history_clubs.json   (optional — id -> name for clubs only `history` reaches)
 //!   data/{country_code}/names.json
 //!   data/{country_code}/{league_slug}/league.json
 //!   data/{country_code}/{league_slug}/{club_slug}/club.json
@@ -21,6 +22,7 @@
 //!     "leagues":    [ { ...league.json fields..., "country_code": "mt" }, ... ],
 //!     "clubs":      [ { ...club.json fields...,   "country_code": "mt",
 //!                       "teams": [ { ..., "league_id": 120 } ] }, ... ],
+//!     "history_clubs": [ { "id": 920, "name": "FC Schalke 04" }, ... ],
 //!     "names":      [ { ...names.json fields...,  "country_code": "mt" }, ... ],
 //!     "players":    [ { ...player fields... }, ... ]
 //!   }
@@ -93,6 +95,7 @@ struct Counts {
     countries: usize,
     national_competitions: usize,
     domestic_cups: usize,
+    history_clubs: usize,
     leagues: usize,
     clubs: usize,
     names: usize,
@@ -114,6 +117,12 @@ fn main() -> Result<()> {
     // file is absent the runtime generator falls back to a "{Country} Cup"
     // for every active country, so an older data tree still compiles.
     let domestic_cups = read_optional_top_level_array(&args.data_dir, "domestic_cups.json")?;
+    // Names for the clubs a player's `history` passes through that this tree
+    // does not model — about a third of all history rows, because careers span
+    // the whole football world. Optional: without it those rows simply render
+    // with an empty club, which is what they did before. Regenerate with
+    // `tools/fmf/history-clubs.js` after importing players.
+    let history_clubs = read_optional_top_level_array(&args.data_dir, "history_clubs.json")?;
 
     let mut leagues: Vec<Value> = Vec::new();
     let mut clubs: Vec<Value> = Vec::new();
@@ -254,9 +263,10 @@ fn main() -> Result<()> {
     // regardless of directory ordering.
     apply_satellites(&mut clubs, &mut players, satellites)?;
 
-    // Cross-check every `history[].club_id` against the loaded club set.
-    // Unknown ids still compile (the hydrator tolerates them by rendering empty
-    // club/league cells) but almost always indicate a typo in scraper output.
+    // Cross-check every `history[].club_id` against the loaded club set plus
+    // the `history_clubs` name table. A club in neither renders with no name at
+    // all, which is the only case worth warning about — an id that is merely
+    // unmodelled is normal and covers about a third of all history rows.
     // Sub-team ids count as known too: a spell at a satellite club (e.g.
     // Spartak Moscow 2) is referenced by the satellite's own id, which after
     // folding survives only as a teams[] entry on the parent club.
@@ -275,6 +285,12 @@ fn main() -> Result<()> {
                 )
         })
         .collect();
+    let named_club_ids: HashSet<u64> = history_clubs
+        .iter()
+        .filter_map(|c| c.get("id").and_then(|v| v.as_u64()))
+        .collect();
+
+    let mut named_refs = 0usize;
     let mut unknown_refs: Vec<(u64, u64)> = Vec::new();
     for p in &players {
         let Some(pid) = p.get("id").and_then(|v| v.as_u64()) else {
@@ -285,17 +301,30 @@ fn main() -> Result<()> {
         };
         for item in history {
             if let Some(cid) = item.get("c").and_then(|v| v.as_u64()) {
-                if !known_club_ids.contains(&cid) {
+                if known_club_ids.contains(&cid) {
+                    continue;
+                }
+                if named_club_ids.contains(&cid) {
+                    named_refs += 1;
+                } else {
                     unknown_refs.push((pid, cid));
                 }
             }
         }
     }
+    if named_refs > 0 {
+        let clubs_named = named_club_ids.len();
+        println!("{named_refs} history entries name an unmodelled club from history_clubs ({clubs_named} clubs)");
+    }
     if !unknown_refs.is_empty() {
+        let distinct: HashSet<u64> = unknown_refs.iter().map(|(_, cid)| *cid).collect();
         eprintln!(
-            "warning: {} history entr{} reference unknown club_id:",
+            "warning: {} history entr{} reference a club that is neither modelled nor named \
+             in history_clubs.json ({} club{}); re-run tools/fmf/history-clubs.js:",
             unknown_refs.len(),
             if unknown_refs.len() == 1 { "y" } else { "ies" },
+            distinct.len(),
+            if distinct.len() == 1 { "" } else { "s" },
         );
         for (pid, cid) in unknown_refs.iter().take(20) {
             eprintln!("  player {pid} -> club_id {cid}");
@@ -310,6 +339,7 @@ fn main() -> Result<()> {
         countries: countries.len(),
         national_competitions: national_competitions.len(),
         domestic_cups: domestic_cups.len(),
+        history_clubs: history_clubs.len(),
         leagues: leagues.len(),
         clubs: clubs.len(),
         names: names.len(),
@@ -326,6 +356,7 @@ fn main() -> Result<()> {
         Value::Array(national_competitions),
     );
     root.insert("domestic_cups".into(), Value::Array(domestic_cups));
+    root.insert("history_clubs".into(), Value::Array(history_clubs));
     root.insert("leagues".into(), Value::Array(leagues));
     root.insert("clubs".into(), Value::Array(clubs));
     root.insert("names".into(), Value::Array(names));
@@ -353,7 +384,7 @@ fn main() -> Result<()> {
     let compressed_size = fs::metadata(&args.out_file)?.len();
     println!(
         "wrote {}: v{} — {} continents, {} countries, {} national_competitions, \
-         {} domestic_cups, {} leagues, {} clubs, {} names, {} players \
+         {} domestic_cups, {} history_clubs, {} leagues, {} clubs, {} names, {} players \
          ({:.2} MB uncompressed, {:.2} MB gzipped)",
         args.out_file.display(),
         OUTPUT_VERSION,
@@ -361,6 +392,7 @@ fn main() -> Result<()> {
         counts.countries,
         counts.national_competitions,
         counts.domestic_cups,
+        counts.history_clubs,
         counts.leagues,
         counts.clubs,
         counts.names,

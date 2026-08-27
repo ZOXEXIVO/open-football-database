@@ -5,7 +5,7 @@
     "city_id": 3618
   },
   "finance": {
-    "balance": 3810000
+    "balance": 2540000
   },
   "teams": [
     {
@@ -14,9 +14,9 @@
       "slug": "mk-dons",
       "team_type": "Main",
       "reputation": {
-        "home": 4600,
-        "national": 4600,
-        "world": 4600
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
       }
     },
     {
@@ -25,9 +25,9 @@
       "slug": "mk-dons-u20",
       "team_type": "U20",
       "reputation": {
-        "home": 1380,
-        "national": 1380,
-        "world": 1380
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
       }
     },
     {
@@ -36,9 +36,9 @@
       "slug": "mk-dons-u18",
       "team_type": "U18",
       "reputation": {
-        "home": 920,
-        "national": 920,
-        "world": 920
+        "home": 880,
+        "national": 880,
+        "world": 880
       }
     }
   ],

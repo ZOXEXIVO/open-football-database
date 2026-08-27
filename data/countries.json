@@ -1038,6 +1038,26 @@
     }
   },
   {
+    "id": 380,
+    "code": "cw",
+    "slug": "curaçao",
+    "name": "Curaçao",
+    "continent_id": 2,
+    "reputation": 2500,
+    "settings": {
+      "pricing": {
+        "price_level": 1
+      }
+    },
+    "background_color": "#002b7f",
+    "foreground_color": "#f9e814",
+    "skin_colors": {
+      "white": 8,
+      "black": 45,
+      "metis": 47
+    }
+  },
+  {
     "id": 762,
     "code": "cy",
     "slug": "cyprus",
@@ -1658,6 +1678,26 @@
     }
   },
   {
+    "id": 22,
+    "code": "gn",
+    "slug": "guinea",
+    "name": "Guinea",
+    "continent_id": 0,
+    "reputation": 4000,
+    "settings": {
+      "pricing": {
+        "price_level": 1
+      }
+    },
+    "background_color": "#009460",
+    "foreground_color": "#fcd116",
+    "skin_colors": {
+      "white": 2,
+      "black": 88,
+      "metis": 10
+    }
+  },
+  {
     "id": 23,
     "code": "gw",
     "slug": "guinea-bissau",
@@ -2075,6 +2115,26 @@
       "white": 15,
       "black": 1,
       "metis": 84
+    }
+  },
+  {
+    "id": 217945,
+    "code": "xk",
+    "slug": "kosovo",
+    "name": "Kosovo",
+    "continent_id": 1,
+    "reputation": 3800,
+    "settings": {
+      "pricing": {
+        "price_level": 1
+      }
+    },
+    "background_color": "#244aa5",
+    "foreground_color": "#d0a650",
+    "skin_colors": {
+      "white": 92,
+      "black": 2,
+      "metis": 6
     }
   },
   {
@@ -3178,6 +3238,26 @@
     }
   },
   {
+    "id": 789,
+    "code": "ei",
+    "slug": "republic of ireland",
+    "name": "Republic of Ireland",
+    "continent_id": 1,
+    "reputation": 5500,
+    "settings": {
+      "pricing": {
+        "price_level": 1
+      }
+    },
+    "background_color": "#169b62",
+    "foreground_color": "#ffffff",
+    "skin_colors": {
+      "white": 92,
+      "black": 2,
+      "metis": 6
+    }
+  },
+  {
     "id": 917510,
     "code": "re",
     "slug": "réunion",
@@ -3798,6 +3878,26 @@
     }
   },
   {
+    "id": 137,
+    "code": "sy",
+    "slug": "syria",
+    "name": "Syria",
+    "continent_id": 4,
+    "reputation": 3000,
+    "settings": {
+      "pricing": {
+        "price_level": 1
+      }
+    },
+    "background_color": "#ce1126",
+    "foreground_color": "#ffffff",
+    "skin_colors": {
+      "white": 25,
+      "black": 3,
+      "metis": 72
+    }
+  },
+  {
     "id": 1441,
     "code": "th",
     "slug": "tahiti",
@@ -4251,6 +4351,26 @@
     },
     "background_color": "#da251d",
     "foreground_color": "#ffff00",
+    "skin_colors": {
+      "white": 92,
+      "black": 2,
+      "metis": 6
+    }
+  },
+  {
+    "id": 801,
+    "code": "wa",
+    "slug": "wales",
+    "name": "Wales",
+    "continent_id": 1,
+    "reputation": 5800,
+    "settings": {
+      "pricing": {
+        "price_level": 0.6
+      }
+    },
+    "background_color": "#c8102e",
+    "foreground_color": "#ffffff",
     "skin_colors": {
       "white": 92,
       "black": 2,
