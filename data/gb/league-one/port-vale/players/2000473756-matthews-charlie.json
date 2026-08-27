@@ -1,26 +1,22 @@
 {
-  "id": 2000473766,
-  "first_name": "Stiven",
-  "last_name": "Rua",
-  "birth_date": "1900-01-01",
+  "id": 2000473756,
+  "first_name": "Charlie",
+  "last_name": "Matthews",
+  "birth_date": "2006-01-01",
   "country_id": 765,
   "club_id": 698,
   "positions": [
     {
-      "code": "DM",
-      "level": 20
-    },
-    {
-      "code": "MC",
+      "code": "DC",
       "level": 20
     }
   ],
   "foots": {
-    "left": 40,
+    "left": 5,
     "right": 100
   },
-  "current_ability": 0,
-  "potential_ability": 0,
+  "current_ability": 34,
+  "potential_ability": 102,
   "contract": {
     "salary": 15860,
     "expiration": "2027-06-30",

@@ -1,17 +1,25 @@
 {
-  "id": 2000473760,
-  "first_name": "Stiven",
-  "last_name": "Rua",
-  "birth_date": "1900-01-01",
+  "id": 2000473763,
+  "first_name": "Theo",
+  "last_name": "Wilshaw",
+  "birth_date": "2005-01-01",
   "country_id": 765,
   "club_id": 698,
   "positions": [
     {
-      "code": "MC",
+      "code": "ML",
       "level": 20
     },
     {
-      "code": "AMC",
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
       "level": 20
     }
   ],
@@ -19,8 +27,8 @@
     "left": 40,
     "right": 100
   },
-  "current_ability": 0,
-  "potential_ability": 0,
+  "current_ability": 32,
+  "potential_ability": 94,
   "contract": {
     "salary": 15860,
     "expiration": "2027-06-30",

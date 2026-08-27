@@ -1,21 +1,13 @@
 {
-  "id": 2000473757,
-  "first_name": "Stiven",
-  "last_name": "Rua",
-  "birth_date": "1900-01-01",
+  "id": 2000473764,
+  "first_name": "Tom",
+  "last_name": "Scragg",
+  "birth_date": "2005-01-01",
   "country_id": 765,
   "club_id": 698,
   "positions": [
     {
-      "code": "DR",
-      "level": 20
-    },
-    {
-      "code": "DM",
-      "level": 20
-    },
-    {
-      "code": "MC",
+      "code": "ST",
       "level": 20
     }
   ],
@@ -23,8 +15,8 @@
     "left": 40,
     "right": 100
   },
-  "current_ability": 0,
-  "potential_ability": 0,
+  "current_ability": 30,
+  "potential_ability": 90,
   "contract": {
     "salary": 15860,
     "expiration": "2027-06-30",

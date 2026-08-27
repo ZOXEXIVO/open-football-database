@@ -1,25 +1,21 @@
 {
-  "id": 2000473763,
-  "first_name": "Stiven",
-  "last_name": "Rua",
-  "birth_date": "1900-01-01",
+  "id": 2000473757,
+  "first_name": "Jack",
+  "last_name": "Hodgkiss",
+  "birth_date": "2006-01-01",
   "country_id": 765,
   "club_id": 698,
   "positions": [
     {
-      "code": "ML",
+      "code": "DR",
       "level": 20
     },
     {
-      "code": "MR",
+      "code": "DM",
       "level": 20
     },
     {
-      "code": "AML",
-      "level": 20
-    },
-    {
-      "code": "AMR",
+      "code": "MC",
       "level": 20
     }
   ],
@@ -27,8 +23,8 @@
     "left": 40,
     "right": 100
   },
-  "current_ability": 0,
-  "potential_ability": 0,
+  "current_ability": 30,
+  "potential_ability": 90,
   "contract": {
     "salary": 15860,
     "expiration": "2027-06-30",
