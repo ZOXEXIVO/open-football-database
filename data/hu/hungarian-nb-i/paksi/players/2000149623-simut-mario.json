@@ -1,0 +1,45 @@
+{
+  "id": 2000149623,
+  "first_name": "Mario",
+  "last_name": "Simuţ",
+  "birth_date": "2003-09-23",
+  "country_id": 773,
+  "club_id": 7521327,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 112,
+  "value": 239000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1056, "p": 6 },
+    { "s": 2022, "c": 1056, "p": 28, "g": 3 },
+    { "s": 2023, "c": 1056, "p": 16, "g": 1 },
+    { "s": 2023, "c": 1062, "p": 6 },
+    { "s": 2023, "c": 38013525, "p": 6, "g": 1 },
+    { "s": 2024, "c": 1062, "p": 27 },
+    { "s": 2025, "c": 1062, "p": 21, "g": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "955524"
+  }
+}
