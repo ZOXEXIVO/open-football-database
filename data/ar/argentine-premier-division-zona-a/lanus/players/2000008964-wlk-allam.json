@@ -1,0 +1,36 @@
+{
+  "id": 2000008964,
+  "first_name": "Allam",
+  "last_name": "Wlk",
+  "birth_date": "2003-03-01",
+  "country_id": 1655,
+  "club_id": 90,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 120,
+  "value": 503000,
+  "contract": {    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 102924, "p": 0 },
+    { "s": 2023, "c": 102924, "p": 4 },
+    { "s": 2023, "c": 51008732, "p": 13, "g": 2 },
+    { "s": 2024, "c": 51008732, "p": 19, "g": 6 },
+    { "s": 2025, "c": 102356, "p": 11, "g": 1 },
+    { "s": 2025, "c": 5280352, "p": 14, "g": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1065388"
+  }
+}

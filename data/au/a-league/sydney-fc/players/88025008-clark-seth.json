@@ -1,0 +1,47 @@
+{
+  "id": 88025008,
+  "first_name": "Seth",
+  "last_name": "Clark",
+  "birth_date": "2000-09-22",
+  "country_id": 1438,
+  "club_id": 1300490,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 72,
+  "potential_ability": 86,
+  "value": 0,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 130036, "p": 8 },
+    { "s": 2018, "c": 130036, "p": 16, "g": 2 },
+    { "s": 2020, "c": 130036, "p": 6 },
+    { "s": 2025, "c": 1300490, "p": 30, "g": 5 }
+  ],
+  "ids": {
+    "transfermarkt.com": "539836"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 2000162467,
+  "first_name": "Artem",
+  "last_name": "Varganov",
+  "birth_date": "2004-08-06",
+  "country_id": 791,
+  "club_id": 17041311,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -5,
+  "value": 61000,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 58113425, "p": 19 },
+    { "s": 2022, "c": 58113425, "p": 16, "g": 1 },
+    { "s": 2022, "c": 58151454, "p": 1 },
+    { "s": 2023, "c": 58145944, "p": 0 },
+    { "s": 2024, "c": 356, "p": 2 },
+    { "s": 2024, "c": 2000305277, "p": 18, "g": 1 },
+    { "s": 2025, "c": 356, "p": 6 },
+    { "s": 2025, "c": 58148224, "p": 10 }
+  ],
+  "ids": {
+    "transfermarkt.com": "817548"
+  }
+}

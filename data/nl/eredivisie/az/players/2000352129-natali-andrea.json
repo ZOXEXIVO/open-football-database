@@ -1,0 +1,35 @@
+{
+  "id": 2000352129,
+  "first_name": "Andrea",
+  "last_name": "Natali",
+  "birth_date": "2008-01-28",
+  "country_id": 776,
+  "club_id": 991,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": -8,
+  "value": 2000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 1708, "p": 0 },
+    { "s": 2024, "c": 901, "p": 0 },
+    { "s": 2025, "c": 901, "p": 0 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1058353"
+  }
+}

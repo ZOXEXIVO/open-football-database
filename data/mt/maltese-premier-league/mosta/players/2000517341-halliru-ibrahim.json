@@ -1,0 +1,35 @@
+{
+  "id": 2000517341,
+  "first_name": "Ibrahim",
+  "last_name": "Halliru",
+  "birth_date": "2007-01-30",
+  "country_id": 38,
+  "club_id": 133179,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 46,
+  "potential_ability": -45,
+  "value": 17000,
+  "contract": {    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 133179, "p": 0 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1498782"
+  }
+}

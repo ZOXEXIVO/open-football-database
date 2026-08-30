@@ -1,0 +1,39 @@
+{
+  "id": 2000208657,
+  "first_name": "Emmanuel",
+  "last_name": "Addai",
+  "birth_date": "2001-08-01",
+  "country_id": 21,
+  "club_id": 280,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 85
+  },
+  "current_ability": 116,
+  "potential_ability": 126,
+  "value": 566000,
+  "history": [
+    { "s": 2025, "c": 127787, "p": 29, "g": 5 }
+  ],
+  "ids": {
+    "transfermarkt.com": "944367"
+  }
+}

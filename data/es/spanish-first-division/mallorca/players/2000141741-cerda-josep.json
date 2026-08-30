@@ -1,0 +1,52 @@
+{
+  "id": 2000141741,
+  "first_name": "Josep",
+  "last_name": "Cerdà",
+  "birth_date": "2003-02-04",
+  "country_id": 796,
+  "club_id": 1726,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 118,
+  "value": 344000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 814668, "p": 0 },
+    { "s": 2019, "c": 1708, "p": 0 },
+    { "s": 2020, "c": 1708, "p": 0 },
+    { "s": 2021, "c": 1708, "p": 0 },
+    { "s": 2022, "c": 67128589, "p": 23, "g": 2 },
+    { "s": 2023, "c": 4212307, "p": 23, "g": 1 },
+    { "s": 2024, "c": 1709, "p": 33, "g": 6 },
+    { "s": 2025, "c": 1709, "p": 23, "g": 10 }
+  ],
+  "ids": {
+    "transfermarkt.com": "692210"
+  }
+}

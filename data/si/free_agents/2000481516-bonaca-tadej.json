@@ -1,0 +1,28 @@
+{
+  "id": 2000481516,
+  "first_name": "Tadej",
+  "last_name": "Bonaca",
+  "birth_date": "2006-09-04",
+  "country_id": 795,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "value": 113000,
+  "history": [
+    { "s": 2022, "c": 1632, "p": 0 },
+    { "s": 2023, "c": 1631, "p": 9 },
+    { "s": 2024, "c": 1632, "p": 0 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1298716"
+  }
+}

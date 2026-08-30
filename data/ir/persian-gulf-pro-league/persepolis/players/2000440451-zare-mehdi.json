@@ -1,0 +1,37 @@
+{
+  "id": 2000440451,
+  "first_name": "Mehdi",
+  "last_name": "Zare",
+  "birth_date": "2003-01-25",
+  "country_id": 114,
+  "club_id": 102860,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 120,
+  "value": 870000,
+  "contract": {    "expiration": "2029-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "1107993"
+  },
+  "history": [
+    { "s": 2019, "c": 2000152504, "p": 0 },
+    { "s": 2020, "c": 2000152504, "p": 0 },
+    { "s": 2021, "c": 2000152504, "p": 0 },
+    { "s": 2022, "c": 102856, "p": 0 },
+    { "s": 2023, "c": 23379611, "p": 15, "g": 2 },
+    { "s": 2024, "c": 23023168, "p": 23 },
+    { "s": 2025, "c": 58137861, "p": 9 }
+  ]
+}

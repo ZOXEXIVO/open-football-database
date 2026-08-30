@@ -1,0 +1,43 @@
+{
+  "id": 2000196120,
+  "first_name": "Monsef",
+  "last_name": "Bakrar",
+  "birth_date": "2001-01-13",
+  "country_id": 5,
+  "club_id": 106756,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 124,
+  "value": 2000000,
+  "contract": {    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 662735, "p": 31, "g": 8 },
+    { "s": 2023, "c": 72041885, "p": 10, "g": 3 },
+    { "s": 2024, "c": 72041885, "p": 28, "g": 4 },
+    { "s": 2025, "c": 432, "p": 29, "g": 10 },
+    { "s": 2025, "c": 72041885, "p": 21, "g": 2 }
+  ],
+  "ids": {
+    "transfermarkt.com": "854382"
+  }
+}

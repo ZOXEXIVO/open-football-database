@@ -1,0 +1,38 @@
+{
+  "id": 2000289426,
+  "first_name": "Ahmed",
+  "last_name": "Adebayo",
+  "birth_date": "2002-06-18",
+  "country_id": 38,
+  "club_id": 521105,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 106,
+  "value": 5000,
+  "contract": {    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 8632134, "p": 0 },
+    { "s": 2020, "c": 526, "p": 0 },
+    { "s": 2021, "c": 526, "p": 0 },
+    { "s": 2023, "c": 5220196, "p": 15, "g": 7 },
+    { "s": 2024, "c": 5220196, "p": 28, "g": 15 },
+    { "s": 2025, "c": 1250, "p": 15, "g": 5 },
+    { "s": 2025, "c": 1397, "p": 7 },
+    { "s": 2025, "c": 5220196, "p": 19, "g": 11 }
+  ],
+  "ids": {
+    "transfermarkt.com": "747491"
+  }
+}

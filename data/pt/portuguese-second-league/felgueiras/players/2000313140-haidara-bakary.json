@@ -1,0 +1,35 @@
+{
+  "id": 2000313140,
+  "first_name": "Bakary",
+  "last_name": "Haïdara",
+  "birth_date": "2005-06-01",
+  "country_id": 24,
+  "club_id": 2384,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": -7,
+  "value": 1000000,
+  "contract": {
+    "salary": 33696,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 289, "p": 5 },
+    { "s": 2024, "c": 289, "p": 0 },
+    { "s": 2024, "c": 2000369087, "p": 8 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1186012"
+  }
+}

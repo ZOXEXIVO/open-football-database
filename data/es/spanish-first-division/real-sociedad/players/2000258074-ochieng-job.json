@@ -1,0 +1,51 @@
+{
+  "id": 2000258074,
+  "first_name": "Job",
+  "last_name": "Ochieng",
+  "birth_date": "2003-01-17",
+  "country_id": 25,
+  "club_id": 1742,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 118,
+  "value": 37000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1503260, "p": 8 },
+    { "s": 2023, "c": 1743, "p": 19 },
+    { "s": 2024, "c": 1743, "p": 21, "g": 1 },
+    { "s": 2025, "c": 1742, "p": 2 },
+    { "s": 2025, "c": 1743, "p": 25, "g": 9 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1105810"
+  }
+}

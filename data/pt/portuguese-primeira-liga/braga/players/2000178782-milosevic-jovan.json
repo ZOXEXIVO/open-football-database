@@ -1,0 +1,42 @@
+{
+  "id": 2000178782,
+  "first_name": "Jovan",
+  "last_name": "Milošević",
+  "birth_date": "2005-07-31",
+  "country_id": 802,
+  "club_id": 1488,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": -75,
+  "value": 2000000,
+  "contract": {
+    "salary": 1040000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "943795"
+  },
+  "history": [
+    { "s": 2019, "c": 1301381, "p": 0 },
+    { "s": 2020, "c": 1957, "p": 0 },
+    { "s": 2021, "c": 1957, "p": 0 },
+    { "s": 2022, "c": 1957, "p": 18, "g": 3 },
+    { "s": 2023, "c": 960, "p": 5 },
+    { "s": 2023, "c": 1853, "p": 11, "g": 3 },
+    { "s": 2024, "c": 1853, "p": 5, "g": 1 },
+    { "s": 2024, "c": 1952, "p": 5, "g": 3 },
+    { "s": 2025, "c": 948, "p": 13, "g": 3 },
+    { "s": 2025, "c": 1952, "p": 17, "g": 12 }
+  ]
+}

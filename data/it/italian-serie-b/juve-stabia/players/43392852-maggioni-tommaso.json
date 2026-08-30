@@ -1,0 +1,53 @@
+{
+  "id": 43392852,
+  "first_name": "Tommaso",
+  "last_name": "Maggioni",
+  "birth_date": "2001-08-22",
+  "country_id": 776,
+  "club_id": 1138,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 126,
+  "value": 674000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 1167, "p": 0 },
+    { "s": 2017, "c": 1167, "p": 0 },
+    { "s": 2018, "c": 1167, "p": 0 },
+    { "s": 2019, "c": 43124377, "p": 9 },
+    { "s": 2020, "c": 2185, "p": 18 },
+    { "s": 2021, "c": 1147, "p": 8 },
+    { "s": 2021, "c": 831197, "p": 6 },
+    { "s": 2022, "c": 1138, "p": 36, "g": 2 },
+    { "s": 2023, "c": 700198, "p": 14, "g": 2 },
+    { "s": 2024, "c": 700198, "p": 28, "g": 3 },
+    { "s": 2025, "c": 700198, "p": 30 }
+  ],
+  "ids": {
+    "transfermarkt.com": "497693"
+  }
+}

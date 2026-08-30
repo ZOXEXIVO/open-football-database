@@ -1,0 +1,37 @@
+{
+  "id": 2000296183,
+  "first_name": "Redouane",
+  "last_name": "Mennioui",
+  "birth_date": "1999-07-24",
+  "country_id": 34,
+  "club_id": 135424,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 76,
+  "value": 5000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 4212590, "p": 0 },
+    { "s": 2021, "c": 4212590, "p": 0 },
+    { "s": 2022, "c": 1688, "p": 0 },
+    { "s": 2023, "c": 7448009, "p": 12, "g": 5 },
+    { "s": 2024, "c": 4212156, "p": 3 },
+    { "s": 2024, "c": 7448009, "p": 12, "g": 2 },
+    { "s": 2025, "c": 131258, "p": 24 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1133028"
+  }
+}

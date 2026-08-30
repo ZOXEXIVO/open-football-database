@@ -1,0 +1,56 @@
+{
+  "id": 2000112949,
+  "first_name": "Baltasar",
+  "last_name": "Rodríguez",
+  "birth_date": "2003-07-09",
+  "country_id": 1649,
+  "club_id": 85,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 136,
+  "value": 7000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 93, "p": 23, "g": 5 },
+    { "s": 2024, "c": 93, "p": 24, "g": 1 },
+    { "s": 2025, "c": 93, "p": 3 },
+    { "s": 2025, "c": 72052048, "p": 14, "g": 3 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1015246"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 2000116131,
+  "first_name": "Roberth",
+  "last_name": "Patiño",
+  "birth_date": "2005-05-08",
+  "country_id": 1658,
+  "club_id": 76003517,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 88,
+  "potential_ability": -55,
+  "value": 52000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 86049075, "p": 7, "g": 1 },
+    { "s": 2024, "c": 86049075, "p": 0 },
+    { "s": 2025, "c": 421, "p": 0 },
+    { "s": 2025, "c": 86049075, "p": 9, "g": 7 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1172495"
+  }
+}

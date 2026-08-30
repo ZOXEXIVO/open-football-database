@@ -1,0 +1,38 @@
+{
+  "id": 2000231413,
+  "first_name": "Omar",
+  "last_name": "Fayed",
+  "birth_date": "2003-07-04",
+  "country_id": 16,
+  "club_id": 2199,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 130,
+  "value": 2000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "1036405"
+  },
+  "history": [
+    { "s": 2021, "c": 5370001, "p": 1 },
+    { "s": 2022, "c": 5370001, "p": 25 },
+    { "s": 2023, "c": 1870, "p": 0 },
+    { "s": 2023, "c": 6400020, "p": 18 },
+    { "s": 2024, "c": 298, "p": 12 },
+    { "s": 2025, "c": 729500, "p": 8 }
+  ]
+}

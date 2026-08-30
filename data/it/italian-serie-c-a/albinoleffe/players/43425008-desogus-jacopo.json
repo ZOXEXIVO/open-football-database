@@ -1,0 +1,54 @@
+{
+  "id": 43425008,
+  "first_name": "Jacopo",
+  "last_name": "Desogus",
+  "birth_date": "2002-10-01",
+  "country_id": 776,
+  "club_id": 1142,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 118,
+  "value": 449000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 1114, "p": 0 },
+    { "s": 2018, "c": 1114, "p": 0 },
+    { "s": 2019, "c": 1114, "p": 0 },
+    { "s": 2020, "c": 1114, "p": 0 },
+    { "s": 2021, "c": 1114, "p": 0 },
+    { "s": 2022, "c": 1114, "p": 1 },
+    { "s": 2022, "c": 1158, "p": 21, "g": 1 },
+    { "s": 2023, "c": 1114, "p": 0 },
+    { "s": 2023, "c": 108985, "p": 11, "g": 1 },
+    { "s": 2024, "c": 2195, "p": 23, "g": 1 },
+    { "s": 2025, "c": 2195, "p": 8 },
+    { "s": 2025, "c": 2217, "p": 17, "g": 5 }
+  ],
+  "ids": {
+    "transfermarkt.com": "610878"
+  }
+}

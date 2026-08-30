@@ -1,0 +1,48 @@
+{
+  "id": 43425272,
+  "first_name": "Angelo",
+  "last_name": "Guida",
+  "birth_date": "2002-08-24",
+  "country_id": 776,
+  "club_id": 3804379,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 98,
+  "value": 86000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 1166, "p": 0 },
+    { "s": 2018, "c": 1166, "p": 0 },
+    { "s": 2019, "c": 1166, "p": 0 },
+    { "s": 2020, "c": 1166, "p": 0 },
+    { "s": 2021, "c": 1166, "p": 0 },
+    { "s": 2022, "c": 2191, "p": 21, "g": 3 },
+    { "s": 2023, "c": 832138, "p": 13, "g": 1 },
+    { "s": 2023, "c": 43210768, "p": 9, "g": 1 },
+    { "s": 2024, "c": 832156, "p": 31, "g": 10 },
+    { "s": 2025, "c": 707648, "p": 15 }
+  ],
+  "ids": {
+    "transfermarkt.com": "651206"
+  }
+}

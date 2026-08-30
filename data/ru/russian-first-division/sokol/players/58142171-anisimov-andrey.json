@@ -1,0 +1,45 @@
+{
+  "id": 58142171,
+  "first_name": "Andrey",
+  "last_name": "Anisimov",
+  "birth_date": "2000-01-17",
+  "country_id": 791,
+  "club_id": 130511,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 88,
+  "potential_ability": 96,
+  "value": 67000,
+  "contract": {    "expiration": "2026-06-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 1301108, "p": 0 },
+    { "s": 2018, "c": 1301108, "p": 0 },
+    { "s": 2019, "c": 495359, "p": 1 },
+    { "s": 2019, "c": 1301108, "p": 0 },
+    { "s": 2019, "c": 58148228, "p": 9 },
+    { "s": 2020, "c": 58148228, "p": 26 },
+    { "s": 2021, "c": 58148228, "p": 27 },
+    { "s": 2022, "c": 130561, "p": 14 },
+    { "s": 2023, "c": 130515, "p": 20 },
+    { "s": 2024, "c": 58064627, "p": 29, "g": 3 },
+    { "s": 2025, "c": 130561, "p": 26 }
+  ],
+  "ids": {
+    "transfermarkt.com": "493562"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2000292240,
+  "first_name": "Simone",
+  "last_name": "Ascione",
+  "birth_date": "2005-04-13",
+  "country_id": 776,
+  "club_id": 2231,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": -6,
+  "value": 264000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 43460736, "p": 0 },
+    { "s": 2023, "c": 834850, "p": 31, "g": 4 },
+    { "s": 2024, "c": 1131, "p": 3 },
+    { "s": 2024, "c": 1179, "p": 0 },
+    { "s": 2025, "c": 2229, "p": 10 },
+    { "s": 2025, "c": 2231, "p": 8 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1176438"
+  }
+}

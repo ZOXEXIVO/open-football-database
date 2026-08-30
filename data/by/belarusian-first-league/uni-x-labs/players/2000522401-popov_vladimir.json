@@ -1,0 +1,33 @@
+{
+  "id": 2000522401,
+  "first_name": "Vladimir",
+  "last_name": "Popov",
+  "birth_date": "2005-09-02",
+  "country_id": 791,
+  "club_id": 2000431962,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -55,
+  "value": 29000,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2000180246, "p": 18, "g": 13 },
+    { "s": 2025, "c": 130551, "p": 31, "g": 2 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1428252"
+  }
+}

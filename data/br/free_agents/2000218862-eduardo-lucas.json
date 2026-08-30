@@ -1,0 +1,32 @@
+{
+  "id": 2000218862,
+  "first_name": "Lucas",
+  "last_name": "Eduardo",
+  "birth_date": "2004-01-13",
+  "country_id": 1651,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116,
+  "value": 4000,
+  "history": [
+    { "s": 2025, "c": 339, "p": 0 },
+    { "s": 2025, "c": 107208, "p": 6 },
+    { "s": 2025, "c": 318915, "p": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1083971"
+  }
+}

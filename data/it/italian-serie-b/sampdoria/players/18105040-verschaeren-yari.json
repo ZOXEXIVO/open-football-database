@@ -1,0 +1,46 @@
+{
+  "id": 18105040,
+  "first_name": "Yari",
+  "last_name": "Verschaeren",
+  "birth_date": "2001-07-12",
+  "country_id": 757,
+  "club_id": 1167,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 136,
+  "value": 5000000,
+  "contract": {
+    "salary": 861796,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 256, "p": 0 },
+    { "s": 2018, "c": 256, "p": 21, "g": 2 },
+    { "s": 2019, "c": 256, "p": 21, "g": 2 },
+    { "s": 2020, "c": 256, "p": 22, "g": 6 },
+    { "s": 2021, "c": 256, "p": 36, "g": 7 },
+    { "s": 2022, "c": 256, "p": 28, "g": 2 },
+    { "s": 2023, "c": 256, "p": 19, "g": 1 },
+    { "s": 2023, "c": 2000173150, "p": 1 },
+    { "s": 2024, "c": 256, "p": 34, "g": 4 },
+    { "s": 2025, "c": 256, "p": 19 }
+  ],
+  "ids": {
+    "transfermarkt.com": "502302"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2000398586,
+  "first_name": "Ahmed",
+  "last_name": "Abdin",
+  "birth_date": "2006-05-01",
+  "country_id": 16,
+  "club_id": 18021101,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": -65,
+  "value": 136000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2029-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 106756, "p": 2 },
+    { "s": 2024, "c": 13183943, "p": 3 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1237440"
+  }
+}

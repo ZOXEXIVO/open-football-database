@@ -1,0 +1,39 @@
+{
+  "id": 2000197170,
+  "first_name": "Gabriel",
+  "last_name": "Monjes",
+  "birth_date": "2004-12-02",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 86,
+  "potential_ability": -6,
+  "value": 137000,
+  "history": [
+    { "s": 2022, "c": 86047464, "p": 4 },
+    { "s": 2023, "c": 86047464, "p": 1 },
+    { "s": 2024, "c": 86047464, "p": 3 },
+    { "s": 2025, "c": 109192, "p": 8, "g": 1 },
+    { "s": 2025, "c": 86047464, "p": 0 },
+    { "s": 2025, "c": 2000455065, "p": 12, "g": 5 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1012333"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2000172802,
+  "first_name": "Arseniy",
+  "last_name": "Zhukovskiy",
+  "birth_date": "2005-04-10",
+  "country_id": 758,
+  "club_id": 17026902,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": -5,
+  "value": 32000,
+  "contract": {
+    "salary": 1924,
+    "expiration": "2026-09-02",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2000015950, "p": 29, "g": 5 },
+    { "s": 2025, "c": 485682, "p": 18, "g": 3 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1178055"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 19250019,
+  "first_name": "Alan",
+  "last_name": "Cardoso",
+  "birth_date": "1998-01-05",
+  "country_id": 1651,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 102,
+  "potential_ability": 118,
+  "value": 54000,
+  "history": [
+    { "s": 2016, "c": 339, "p": 9 },
+    { "s": 2017, "c": 339, "p": 4 },
+    { "s": 2020, "c": 900678, "p": 13 },
+    { "s": 2021, "c": 331, "p": 0 },
+    { "s": 2022, "c": 308628, "p": 8 },
+    { "s": 2025, "c": 116144, "p": 18 },
+    { "s": 2025, "c": 301323, "p": 10 }
+  ],
+  "ids": {
+    "transfermarkt.com": "323869"
+  }
+}

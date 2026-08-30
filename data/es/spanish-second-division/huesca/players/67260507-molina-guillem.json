@@ -1,0 +1,45 @@
+{
+  "id": 67260507,
+  "first_name": "Guillem",
+  "last_name": "Molina",
+  "birth_date": "2000-01-01",
+  "country_id": 796,
+  "club_id": 4212294,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 112,
+  "value": 728998,
+  "contract": {
+    "salary": 83148,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1776, "p": 17 },
+    { "s": 2019, "c": 1776, "p": 15, "g": 1 },
+    { "s": 2020, "c": 1775, "p": 2 },
+    { "s": 2020, "c": 1776, "p": 15, "g": 1 },
+    { "s": 2021, "c": 1675, "p": 26, "g": 1 },
+    { "s": 2022, "c": 1675, "p": 32, "g": 1 },
+    { "s": 2023, "c": 4200564, "p": 34, "g": 1 },
+    { "s": 2024, "c": 4212168, "p": 34, "g": 2 },
+    { "s": 2025, "c": 2000263090, "p": 7 }
+  ],
+  "ids": {
+    "transfermarkt.com": "602156"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 2000227977,
+  "first_name": "Héctor",
+  "last_name": "Fort",
+  "birth_date": "2006-08-02",
+  "country_id": 796,
+  "club_id": 1742,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 130,
+  "potential_ability": -85,
+  "value": 36000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "937955"
+  },
+  "history": [
+    { "s": 2021, "c": 1708, "p": 0 },
+    { "s": 2022, "c": 1708, "p": 0 },
+    { "s": 2023, "c": 1668, "p": 13, "g": 1 },
+    { "s": 2023, "c": 1708, "p": 10 },
+    { "s": 2024, "c": 1668, "p": 1 },
+    { "s": 2024, "c": 1708, "p": 17 },
+    { "s": 2025, "c": 1707, "p": 14, "g": 2 }
+  ]
+}

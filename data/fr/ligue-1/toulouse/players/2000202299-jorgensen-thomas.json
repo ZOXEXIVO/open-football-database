@@ -1,0 +1,37 @@
+{
+  "id": 2000202299,
+  "first_name": "Thomas",
+  "last_name": "Jørgensen",
+  "birth_date": "2005-09-30",
+  "country_id": 764,
+  "club_id": 886,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 124,
+  "potential_ability": 146,
+  "value": 6000000,
+  "contract": {    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 505, "p": 0 },
+    { "s": 2022, "c": 505, "p": 0 },
+    { "s": 2023, "c": 505, "p": 0 },
+    { "s": 2023, "c": 524, "p": 15 },
+    { "s": 2024, "c": 505, "p": 0 },
+    { "s": 2024, "c": 569, "p": 27, "g": 3 },
+    { "s": 2025, "c": 569, "p": 21, "g": 3 }
+  ],
+  "ids": {
+    "transfermarkt.com": "953004"
+  }
+}

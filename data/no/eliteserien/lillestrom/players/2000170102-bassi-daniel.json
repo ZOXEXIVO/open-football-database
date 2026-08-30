@@ -1,0 +1,51 @@
+{
+  "id": 2000170102,
+  "first_name": "Daniel",
+  "last_name": "Bassi",
+  "birth_date": "2004-10-31",
+  "country_id": 786,
+  "club_id": 1341,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 136,
+  "value": 5000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 103278, "p": 5 },
+    { "s": 2022, "c": 103278, "p": 17, "g": 7 },
+    { "s": 2023, "c": 1293, "p": 10 },
+    { "s": 2023, "c": 1410, "p": 8, "g": 1 },
+    { "s": 2023, "c": 103278, "p": 2 },
+    { "s": 2024, "c": 1293, "p": 0 },
+    { "s": 2025, "c": 1293, "p": 14, "g": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1015245"
+  }
+}

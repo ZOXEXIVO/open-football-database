@@ -1,0 +1,41 @@
+{
+  "id": 2000183591,
+  "first_name": "Ibragim",
+  "last_name": "Umarov",
+  "birth_date": "2004-01-01",
+  "country_id": 791,
+  "club_id": 2000177517,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 106,
+  "value": 118000,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1520, "p": 0 },
+    { "s": 2022, "c": 8066991, "p": 12, "g": 1 },
+    { "s": 2023, "c": 8066991, "p": 17, "g": 3 },
+    { "s": 2023, "c": 58126756, "p": 13, "g": 3 },
+    { "s": 2024, "c": 58126756, "p": 25, "g": 3 },
+    { "s": 2025, "c": 130515, "p": 28, "g": 2 }
+  ],
+  "ids": {
+    "transfermarkt.com": "817380"
+  }
+}

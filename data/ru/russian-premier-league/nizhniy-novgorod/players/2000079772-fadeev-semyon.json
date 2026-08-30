@@ -1,0 +1,37 @@
+{
+  "id": 2000079772,
+  "first_name": "Semyon",
+  "last_name": "Fadeev",
+  "birth_date": "2004-08-23",
+  "country_id": 791,
+  "club_id": 58145944,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "value": 329000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 1529, "p": 0 },
+    { "s": 2021, "c": 1529, "p": 0 },
+    { "s": 2022, "c": 1529, "p": 0 },
+    { "s": 2023, "c": 1529, "p": 0 },
+    { "s": 2024, "c": 58098003, "p": 27 },
+    { "s": 2025, "c": 58098003, "p": 13 },
+    { "s": 2025, "c": 58117053, "p": 34 }
+  ],
+  "ids": {
+    "transfermarkt.com": "649305"
+  }
+}

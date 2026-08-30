@@ -1,0 +1,38 @@
+{
+  "id": 2000130652,
+  "first_name": "Artem",
+  "last_name": "Yamangulov",
+  "birth_date": "2003-04-10",
+  "country_id": 791,
+  "club_id": 58153555,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": 90,
+  "value": 49000,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 58145347, "p": 0 },
+    { "s": 2022, "c": 8071691, "p": 4 },
+    { "s": 2022, "c": 58145348, "p": 9, "g": 1 },
+    { "s": 2023, "c": 130524, "p": 16, "g": 1 },
+    { "s": 2023, "c": 58145348, "p": 10, "g": 2 },
+    { "s": 2024, "c": 130524, "p": 12 },
+    { "s": 2025, "c": 130524, "p": 19, "g": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "708305"
+  }
+}

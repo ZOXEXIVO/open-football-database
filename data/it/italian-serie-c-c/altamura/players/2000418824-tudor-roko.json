@@ -1,0 +1,36 @@
+{
+  "id": 2000418824,
+  "first_name": "Roko",
+  "last_name": "Tudor",
+  "birth_date": "2006-05-29",
+  "country_id": 761,
+  "club_id": 43267658,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -5,
+  "value": 23000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "history": [
+    { "s": 2020, "c": 445, "p": 0 },
+    { "s": 2021, "c": 433, "p": 0 },
+    { "s": 2022, "c": 433, "p": 0 },
+    { "s": 2023, "c": 433, "p": 0 },
+    { "s": 2024, "c": 433, "p": 0 },
+    { "s": 2025, "c": 661027, "p": 18, "g": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1301014"
+  }
+}

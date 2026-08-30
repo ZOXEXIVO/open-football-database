@@ -1,0 +1,47 @@
+{
+  "id": 13136620,
+  "first_name": "Ibrahim",
+  "last_name": "Alhassan",
+  "birth_date": "1996-01-01",
+  "country_id": 38,
+  "club_id": 59071370,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 106,
+  "value": 498749,
+  "contract": {
+    "salary": 78000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 5340763, "p": 5, "g": 2 },
+    { "s": 2016, "c": 23017476, "p": 16, "g": 12 },
+    { "s": 2017, "c": 152, "p": 20, "g": 1 },
+    { "s": 2018, "c": 2433, "p": 12, "g": 1 },
+    { "s": 2019, "c": 2433, "p": 16 },
+    { "s": 2020, "c": 2433, "p": 21 },
+    { "s": 2021, "c": 2433, "p": 22, "g": 1 },
+    { "s": 2022, "c": 298, "p": 16, "g": 1 },
+    { "s": 2023, "c": 298, "p": 25 },
+    { "s": 2024, "c": 1471, "p": 0 },
+    { "s": 2024, "c": 2406, "p": 17 }
+  ],
+  "ids": {
+    "transfermarkt.com": "364295"
+  }
+}

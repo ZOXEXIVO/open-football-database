@@ -1,0 +1,47 @@
+{
+  "id": 2000031066,
+  "first_name": "Malik",
+  "last_name": "Sellouki",
+  "birth_date": "2000-03-21",
+  "country_id": 769,
+  "club_id": 2383,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 108,
+  "potential_ability": 118,
+  "value": 648000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "811430"
+  },
+  "history": [
+    { "s": 2017, "c": 825, "p": 0 },
+    { "s": 2018, "c": 825, "p": 1 },
+    { "s": 2019, "c": 825, "p": 13 },
+    { "s": 2020, "c": 862, "p": 4, "g": 1 },
+    { "s": 2021, "c": 1629, "p": 16 },
+    { "s": 2022, "c": 986, "p": 11, "g": 2 },
+    { "s": 2023, "c": 986, "p": 18, "g": 5 },
+    { "s": 2024, "c": 2062, "p": 33, "g": 11 },
+    { "s": 2025, "c": 2062, "p": 29, "g": 4 }
+  ]
+}

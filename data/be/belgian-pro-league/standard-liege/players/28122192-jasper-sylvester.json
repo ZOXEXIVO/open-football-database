@@ -1,0 +1,46 @@
+{
+  "id": 28122192,
+  "first_name": "Sylvester",
+  "last_name": "Jasper",
+  "birth_date": "2001-09-13",
+  "country_id": 760,
+  "club_id": 250,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 126,
+  "value": 1000000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 654, "p": 0 },
+    { "s": 2019, "c": 654, "p": 2 },
+    { "s": 2020, "c": 654, "p": 0 },
+    { "s": 2021, "c": 636, "p": 18, "g": 2 },
+    { "s": 2021, "c": 654, "p": 0 },
+    { "s": 2021, "c": 1575, "p": 13 },
+    { "s": 2022, "c": 620, "p": 6 },
+    { "s": 2022, "c": 654, "p": 0 },
+    { "s": 2023, "c": 2438, "p": 24, "g": 2 },
+    { "s": 2024, "c": 2438, "p": 1 },
+    { "s": 2024, "c": 1300885, "p": 19 },
+    { "s": 2025, "c": 62159794, "p": 27, "g": 6 }
+  ],
+  "ids": {
+    "transfermarkt.com": "502074"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2000230873,
+  "first_name": "Domi",
+  "last_name": "Jaurès Massoumou",
+  "birth_date": "2003-06-04",
+  "country_id": 49,
+  "club_id": 59006806,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 120,
+  "value": 538000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 59001469, "p": 33, "g": 9 }
+  ],
+  "ids": {
+    "transfermarkt.com": "934596"
+  }
+}

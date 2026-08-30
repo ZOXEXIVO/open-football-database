@@ -1,0 +1,38 @@
+{
+  "id": 2000464037,
+  "first_name": "Mohammed",
+  "last_name": "Al-Saedi",
+  "birth_date": "2005-11-17",
+  "country_id": 133,
+  "club_id": 7920352,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -45,
+  "value": 41000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 7920354, "p": 0 },
+    { "s": 2023, "c": 7920356, "p": 0 },
+    { "s": 2024, "c": 7920356, "p": 1 },
+    { "s": 2025, "c": 7920356, "p": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1369904"
+  }
+}

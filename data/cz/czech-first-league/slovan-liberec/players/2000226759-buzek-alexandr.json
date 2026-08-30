@@ -1,0 +1,44 @@
+{
+  "id": 2000226759,
+  "first_name": "Alexandr",
+  "last_name": "Bužek",
+  "birth_date": "2004-08-02",
+  "country_id": 763,
+  "club_id": 475,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": -6,
+  "value": 535000,
+  "contract": {
+    "salary": 42224,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 467, "p": 0 },
+    { "s": 2022, "c": 136279, "p": 11, "g": 1 },
+    { "s": 2023, "c": 467, "p": 27, "g": 1 },
+    { "s": 2023, "c": 136279, "p": 4 },
+    { "s": 2024, "c": 136207, "p": 9 },
+    { "s": 2024, "c": 1300307, "p": 12 },
+    { "s": 2025, "c": 1300307, "p": 13, "g": 1 },
+    { "s": 2025, "c": 25016903, "p": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "928023"
+  }
+}

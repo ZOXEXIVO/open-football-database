@@ -1,0 +1,42 @@
+{
+  "id": 14217538,
+  "first_name": "Mateo",
+  "last_name": "Pellegrino",
+  "birth_date": "2001-10-22",
+  "country_id": 1649,
+  "club_id": 1129,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 134,
+  "potential_ability": 146,
+  "value": 9000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "856530"
+  },
+  "history": [
+    { "s": 2021, "c": 98, "p": 7 },
+    { "s": 2022, "c": 85, "p": 5 },
+    { "s": 2022, "c": 98, "p": 2 },
+    { "s": 2023, "c": 85, "p": 9 },
+    { "s": 2023, "c": 92, "p": 10 },
+    { "s": 2024, "c": 92, "p": 38, "g": 15 },
+    { "s": 2024, "c": 98, "p": 1 },
+    { "s": 2024, "c": 1156, "p": 13, "g": 3 },
+    { "s": 2025, "c": 98, "p": 1 },
+    { "s": 2025, "c": 1156, "p": 37, "g": 9 }
+  ]
+}

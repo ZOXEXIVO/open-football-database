@@ -1,0 +1,51 @@
+{
+  "id": 43486874,
+  "first_name": "Kaly",
+  "last_name": "Sène",
+  "birth_date": "2001-05-28",
+  "country_id": 41,
+  "club_id": 1847,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 130,
+  "value": 5000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1139, "p": 0 },
+    { "s": 2019, "c": 1139, "p": 0 },
+    { "s": 2020, "c": 460, "p": 10, "g": 1 },
+    { "s": 2020, "c": 1849, "p": 0 },
+    { "s": 2021, "c": 1849, "p": 5 },
+    { "s": 2021, "c": 1855, "p": 26, "g": 10 },
+    { "s": 2021, "c": 5723683, "p": 4, "g": 2 },
+    { "s": 2022, "c": 1849, "p": 5 },
+    { "s": 2023, "c": 1856, "p": 36, "g": 12 },
+    { "s": 2024, "c": 1856, "p": 35, "g": 7 },
+    { "s": 2025, "c": 1856, "p": 3, "g": 3 }
+  ],
+  "ids": {
+    "transfermarkt.com": "625816"
+  }
+}

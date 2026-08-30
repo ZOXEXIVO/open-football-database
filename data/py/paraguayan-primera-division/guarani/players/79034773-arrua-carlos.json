@@ -1,0 +1,41 @@
+{
+  "id": 79034773,
+  "first_name": "Carlos",
+  "last_name": "Arrúa",
+  "birth_date": "1997-07-30",
+  "country_id": 1655,
+  "club_id": 106071,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 124,
+  "value": 352000,
+  "contract": {    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 5280337, "p": 10 },
+    { "s": 2020, "c": 5280337, "p": 14, "g": 5 },
+    { "s": 2021, "c": 5280337, "p": 34, "g": 8 },
+    { "s": 2022, "c": 5280337, "p": 35, "g": 2 },
+    { "s": 2023, "c": 102462, "p": 20 },
+    { "s": 2024, "c": 102924, "p": 30, "g": 5 },
+    { "s": 2025, "c": 5280337, "p": 32, "g": 7 }
+  ],
+  "ids": {
+    "transfermarkt.com": "660894"
+  }
+}

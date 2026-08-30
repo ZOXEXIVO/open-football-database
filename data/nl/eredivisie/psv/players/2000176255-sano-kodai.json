@@ -1,0 +1,48 @@
+{
+  "id": 2000176255,
+  "first_name": "Kodai",
+  "last_name": "Sano",
+  "birth_date": "2003-09-25",
+  "country_id": 116,
+  "club_id": 1028,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 128,
+  "potential_ability": 148,
+  "value": 18000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "957544"
+  },
+  "history": [
+    { "s": 2022, "c": 786547, "p": 28, "g": 3 },
+    { "s": 2023, "c": 1025, "p": 24, "g": 4 },
+    { "s": 2024, "c": 1025, "p": 25, "g": 2 },
+    { "s": 2025, "c": 1025, "p": 34, "g": 3 }
+  ]
+}

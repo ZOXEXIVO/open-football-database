@@ -1,0 +1,41 @@
+{
+  "id": 38064140,
+  "first_name": "Márk",
+  "last_name": "Csinger",
+  "birth_date": "2003-05-31",
+  "country_id": 773,
+  "club_id": 1007,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 120,
+  "value": 310000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 2220, "p": 0 },
+    { "s": 2020, "c": 2220, "p": 0 },
+    { "s": 2021, "c": 2220, "p": 0 },
+    { "s": 2022, "c": 1054, "p": 10 },
+    { "s": 2022, "c": 1614, "p": 0 },
+    { "s": 2023, "c": 1614, "p": 24, "g": 1 },
+    { "s": 2024, "c": 1614, "p": 10 }
+  ],
+  "ids": {
+    "transfermarkt.com": "705121"
+  }
+}

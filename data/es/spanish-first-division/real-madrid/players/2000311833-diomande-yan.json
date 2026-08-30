@@ -1,0 +1,47 @@
+{
+  "id": 2000311833,
+  "first_name": "Yan",
+  "last_name": "Diomandé",
+  "birth_date": "2006-11-14",
+  "country_id": 24,
+  "club_id": 1736,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 148,
+  "potential_ability": -9,
+  "value": 89000000,
+  "contract": {
+    "salary": 2132000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "1390649"
+  },
+  "history": [
+    { "s": 2024, "c": 1678, "p": 10, "g": 2 },
+    { "s": 2024, "c": 4212227, "p": 2 },
+    { "s": 2025, "c": 91013388, "p": 33, "g": 12 }
+  ]
+}

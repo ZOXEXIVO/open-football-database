@@ -1,0 +1,46 @@
+{
+  "id": 28120039,
+  "first_name": "Alpha",
+  "last_name": "Diounkou",
+  "birth_date": "2001-10-10",
+  "country_id": 41,
+  "club_id": 1637,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 124,
+  "value": 197000,
+  "contract": {    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 1726, "p": 0 },
+    { "s": 2017, "c": 679, "p": 0 },
+    { "s": 2018, "c": 679, "p": 0 },
+    { "s": 2019, "c": 679, "p": 0 },
+    { "s": 2020, "c": 679, "p": 0 },
+    { "s": 2021, "c": 1668, "p": 16 },
+    { "s": 2021, "c": 1714, "p": 0 },
+    { "s": 2021, "c": 67070379, "p": 13 },
+    { "s": 2022, "c": 1668, "p": 21 },
+    { "s": 2023, "c": 448, "p": 31 },
+    { "s": 2024, "c": 460, "p": 30 },
+    { "s": 2025, "c": 460, "p": 25 }
+  ],
+  "ids": {
+    "transfermarkt.com": "554175"
+  }
+}

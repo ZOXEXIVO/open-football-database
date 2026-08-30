@@ -1,0 +1,65 @@
+{
+  "id": 45101198,
+  "first_name": "Hirokazu",
+  "last_name": "Ishihara",
+  "birth_date": "1999-02-26",
+  "country_id": 116,
+  "club_id": 107313,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 128,
+  "potential_ability": 134,
+  "value": 1000000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2026-01-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2014, "c": 1184, "p": 0 },
+    { "s": 2015, "c": 1184, "p": 0 },
+    { "s": 2016, "c": 1184, "p": 0 },
+    { "s": 2017, "c": 1184, "p": 10 },
+    { "s": 2018, "c": 1184, "p": 7 },
+    { "s": 2019, "c": 1183, "p": 37 },
+    { "s": 2020, "c": 1184, "p": 29 },
+    { "s": 2021, "c": 1184, "p": 37 },
+    { "s": 2022, "c": 1184, "p": 30 },
+    { "s": 2023, "c": 1184, "p": 26 },
+    { "s": 2023, "c": 1195, "p": 0 },
+    { "s": 2024, "c": 1195, "p": 30, "g": 1 },
+    { "s": 2025, "c": 1195, "p": 30, "g": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "444314"
+  }
+}

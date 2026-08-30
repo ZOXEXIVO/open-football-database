@@ -1,0 +1,39 @@
+{
+  "id": 17041022,
+  "first_name": "Gleb",
+  "last_name": "Yakushevich",
+  "birth_date": "2002-07-31",
+  "country_id": 758,
+  "club_id": 1300111,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 106,
+  "value": 163000,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 17000059, "p": 8 },
+    { "s": 2022, "c": 17000059, "p": 9 },
+    { "s": 2023, "c": 130510, "p": 5 },
+    { "s": 2023, "c": 17000059, "p": 27 },
+    { "s": 2024, "c": 130510, "p": 13 },
+    { "s": 2025, "c": 130510, "p": 0 },
+    { "s": 2025, "c": 8067987, "p": 11 },
+    { "s": 2025, "c": 17040498, "p": 5 }
+  ],
+  "ids": {
+    "transfermarkt.com": "716543"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2000401741,
+  "first_name": "Amr",
+  "last_name": "Gomaa",
+  "birth_date": "1999-08-19",
+  "country_id": 16,
+  "club_id": 5370007,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": -6,
+  "value": 10000,
+  "contract": {    "expiration": "2028-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 13153607, "p": 3, "g": 3 },
+    { "s": 2025, "c": 529014, "p": 7 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1307538"
+  }
+}

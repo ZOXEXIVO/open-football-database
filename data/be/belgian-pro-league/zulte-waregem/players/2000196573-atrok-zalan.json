@@ -1,0 +1,42 @@
+{
+  "id": 2000196573,
+  "first_name": "Zalán",
+  "last_name": "Átrok",
+  "birth_date": "2005-12-06",
+  "country_id": 773,
+  "club_id": 299,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -6,
+  "value": 272000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 38013513, "p": 1 },
+    { "s": 2022, "c": 1059, "p": 11 },
+    { "s": 2022, "c": 38013513, "p": 13, "g": 3 },
+    { "s": 2023, "c": 1059, "p": 6 },
+    { "s": 2024, "c": 1059, "p": 0 },
+    { "s": 2024, "c": 38004848, "p": 14, "g": 1 },
+    { "s": 2024, "c": 38013513, "p": 8, "g": 2 },
+    { "s": 2025, "c": 1060, "p": 30, "g": 6 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1085270"
+  }
+}

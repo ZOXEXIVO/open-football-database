@@ -1,0 +1,48 @@
+{
+  "id": 19363227,
+  "first_name": "Gustavo",
+  "last_name": "Maia",
+  "birth_date": "2001-01-22",
+  "country_id": 1651,
+  "club_id": 301151,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 110,
+  "value": 19000,
+  "contract": {    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 337, "p": 0 },
+    { "s": 2020, "c": 1668, "p": 8 },
+    { "s": 2021, "c": 326, "p": 8, "g": 1 },
+    { "s": 2022, "c": 326, "p": 1 },
+    { "s": 2022, "c": 1776, "p": 12, "g": 1 },
+    { "s": 2023, "c": 107236, "p": 5 },
+    { "s": 2024, "c": 328, "p": 18, "g": 6 },
+    { "s": 2024, "c": 107236, "p": 0 },
+    { "s": 2025, "c": 320, "p": 1 },
+    { "s": 2025, "c": 337, "p": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "752560"
+  }
+}

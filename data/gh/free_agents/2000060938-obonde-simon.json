@@ -1,0 +1,34 @@
+{
+  "id": 2000060938,
+  "first_name": "Simon",
+  "last_name": "Obonde",
+  "birth_date": "2001-05-10",
+  "country_id": 21,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": 80,
+  "value": 9000,
+  "history": [
+    { "s": 2020, "c": 2000025263, "p": 20 },
+    { "s": 2021, "c": 2000025263, "p": 11, "g": 1 },
+    { "s": 2022, "c": 59144815, "p": 35 },
+    { "s": 2024, "c": 59001468, "p": 10 },
+    { "s": 2025, "c": 59001468, "p": 21 }
+  ],
+  "ids": {
+    "transfermarkt.com": "828273"
+  }
+}

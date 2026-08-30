@@ -1,0 +1,42 @@
+{
+  "id": 78099289,
+  "first_name": "Axel",
+  "last_name": "Prado",
+  "birth_date": "2002-11-17",
+  "country_id": 1657,
+  "club_id": 8825223,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 96,
+  "potential_ability": 110,
+  "value": 74000,
+  "contract": {    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 130848, "p": 0 },
+    { "s": 2019, "c": 130848, "p": 0 },
+    { "s": 2020, "c": 130848, "p": 3 },
+    { "s": 2021, "c": 130848, "p": 17 },
+    { "s": 2022, "c": 1920, "p": 19 },
+    { "s": 2023, "c": 130848, "p": 20, "g": 1 },
+    { "s": 2024, "c": 8825223, "p": 19 },
+    { "s": 2025, "c": 130848, "p": 4 }
+  ],
+  "ids": {
+    "transfermarkt.com": "657752"
+  }
+}

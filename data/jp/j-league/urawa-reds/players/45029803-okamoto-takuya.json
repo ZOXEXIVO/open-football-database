@@ -1,0 +1,32 @@
+{
+  "id": 45029803,
+  "first_name": "Takuya",
+  "last_name": "Okamoto",
+  "birth_date": "1992-01-01",
+  "country_id": 116,
+  "club_id": 1195,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 116,
+  "ids": {
+    "transfermarkt.com": "129692"
+  },
+  "loan": {
+    "to_club_id": 1184,
+    "expiration": "2026-06-30",
+    "wage_contribution_pct": 100
+  }
+}

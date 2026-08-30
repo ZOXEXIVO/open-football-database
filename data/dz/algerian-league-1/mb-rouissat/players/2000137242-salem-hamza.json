@@ -1,0 +1,35 @@
+{
+  "id": 2000137242,
+  "first_name": "Hamza",
+  "last_name": "Salem",
+  "birth_date": "1998-01-10",
+  "country_id": 5,
+  "club_id": 13194266,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 100,
+  "value": 30000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01"
+  },
+  "history": [
+    { "s": 2019, "c": 7601653, "p": 6 },
+    { "s": 2020, "c": 7601653, "p": 28, "g": 2 },
+    { "s": 2021, "c": 7601653, "p": 27 },
+    { "s": 2022, "c": 5340079, "p": 22, "g": 1 },
+    { "s": 2023, "c": 7601653, "p": 15 },
+    { "s": 2025, "c": 8628594, "p": 9 }
+  ],
+  "ids": {
+    "transfermarkt.com": "698241"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 2000271603,
+  "first_name": "Joel",
+  "last_name": "Canchimbo",
+  "birth_date": "2005-08-12",
+  "country_id": 1653,
+  "club_id": 5261738,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": -75,
+  "value": 522000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 5261738, "p": 0 },
+    { "s": 2023, "c": 5261738, "p": 17, "g": 2 },
+    { "s": 2024, "c": 419, "p": 4 },
+    { "s": 2024, "c": 5261738, "p": 13, "g": 3 },
+    { "s": 2025, "c": 419, "p": 11, "g": 3 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1166097"
+  }
+}

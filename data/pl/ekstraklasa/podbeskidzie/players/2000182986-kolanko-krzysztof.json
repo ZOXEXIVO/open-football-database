@@ -1,0 +1,48 @@
+{
+  "id": 2000182986,
+  "first_name": "Krzysztof",
+  "last_name": "Kolanko",
+  "birth_date": "2006-08-03",
+  "country_id": 787,
+  "club_id": 714200,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -65,
+  "value": 196000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 96069357, "p": 1 },
+    { "s": 2022, "c": 1452, "p": 4 },
+    { "s": 2022, "c": 96069357, "p": 13, "g": 2 },
+    { "s": 2023, "c": 96069357, "p": 19 },
+    { "s": 2024, "c": 96069349, "p": 21, "g": 1 },
+    { "s": 2025, "c": 714200, "p": 28, "g": 2 }
+  ],
+  "ids": {
+    "transfermarkt.com": "991460"
+  }
+}

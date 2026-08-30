@@ -1,0 +1,44 @@
+{
+  "id": 2000114577,
+  "first_name": "Marko",
+  "last_name": "Podoliak",
+  "birth_date": "2004-05-04",
+  "country_id": 800,
+  "club_id": 2000190107,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 82,
+  "potential_ability": 110,
+  "value": 919000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 1885, "p": 0 },
+    { "s": 2020, "c": 1885, "p": 0 },
+    { "s": 2021, "c": 1885, "p": 0 },
+    { "s": 2022, "c": 5101462, "p": 13, "g": 6 },
+    { "s": 2022, "c": 96136430, "p": 4 },
+    { "s": 2025, "c": 71016825, "p": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "935106"
+  }
+}

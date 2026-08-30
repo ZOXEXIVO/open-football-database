@@ -1,0 +1,51 @@
+{
+  "id": 14185869,
+  "first_name": "Facundo",
+  "last_name": "Medina",
+  "birth_date": "1999-05-28",
+  "country_id": 1649,
+  "club_id": 901,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 144,
+  "potential_ability": 150,
+  "value": 17000000,
+  "contract": {
+    "salary": 1404000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "474800"
+  },
+  "history": [
+    { "s": 2016, "c": 94, "p": 0 },
+    { "s": 2017, "c": 94, "p": 0 },
+    { "s": 2017, "c": 102489, "p": 0 },
+    { "s": 2018, "c": 102489, "p": 16 },
+    { "s": 2019, "c": 102489, "p": 17, "g": 1 },
+    { "s": 2020, "c": 871, "p": 24, "g": 2 },
+    { "s": 2021, "c": 871, "p": 31, "g": 1 },
+    { "s": 2022, "c": 871, "p": 32, "g": 2 },
+    { "s": 2023, "c": 871, "p": 31, "g": 1 },
+    { "s": 2024, "c": 871, "p": 29 },
+    { "s": 2025, "c": 866, "p": 17 }
+  ]
+}

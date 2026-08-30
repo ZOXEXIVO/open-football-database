@@ -1,0 +1,28 @@
+{
+  "id": 2000362813,
+  "first_name": "John",
+  "last_name": "Otieno",
+  "birth_date": "2000-11-08",
+  "country_id": 25,
+  "club_id": 5340910,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 86,
+  "value": 66000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "1173224"
+  }
+}

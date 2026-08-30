@@ -1,0 +1,37 @@
+{
+  "id": 58141777,
+  "first_name": "Nikolay",
+  "last_name": "Prisyazhnenko",
+  "birth_date": "2002-10-26",
+  "country_id": 791,
+  "club_id": 1301104,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": 96,
+  "value": 132000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 1301106, "p": 0 },
+    { "s": 2018, "c": 1301106, "p": 0 },
+    { "s": 2020, "c": 1301106, "p": 0 },
+    { "s": 2021, "c": 8066991, "p": 2 },
+    { "s": 2022, "c": 1301106, "p": 0 },
+    { "s": 2023, "c": 58126751, "p": 36 },
+    { "s": 2024, "c": 130550, "p": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "402700"
+  }
+}

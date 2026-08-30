@@ -1,0 +1,38 @@
+{
+  "id": 2000259397,
+  "first_name": "Jan",
+  "last_name": "Bürger",
+  "birth_date": "2007-01-10",
+  "country_id": 771,
+  "club_id": 1012,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": -75,
+  "value": 840000,
+  "contract": {
+    "salary": 34424,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 961, "p": 0 },
+    { "s": 2025, "c": 961, "p": 7 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1009440"
+  }
+}

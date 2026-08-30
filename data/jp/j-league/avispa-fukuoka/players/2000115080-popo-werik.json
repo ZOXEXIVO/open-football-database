@@ -1,0 +1,38 @@
+{
+  "id": 2000115080,
+  "first_name": "Werik",
+  "last_name": "Popo",
+  "birth_date": "2001-10-17",
+  "country_id": 1651,
+  "club_id": 1183,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 126,
+  "value": 600000,
+  "contract": {    "expiration": "2027-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 311028, "p": 3 },
+    { "s": 2022, "c": 317, "p": 8, "g": 3 },
+    { "s": 2022, "c": 311028, "p": 14, "g": 5 },
+    { "s": 2023, "c": 106813, "p": 7 },
+    { "s": 2024, "c": 320, "p": 1 },
+    { "s": 2024, "c": 327, "p": 5 },
+    { "s": 2025, "c": 320, "p": 7, "g": 1 },
+    { "s": 2025, "c": 786547, "p": 12 }
+  ],
+  "ids": {
+    "transfermarkt.com": "902507"
+  }
+}

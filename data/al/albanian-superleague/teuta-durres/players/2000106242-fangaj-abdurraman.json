@@ -1,0 +1,48 @@
+{
+  "id": 2000106242,
+  "first_name": "Abdurraman",
+  "last_name": "Fangaj",
+  "birth_date": "1997-10-12",
+  "country_id": 752,
+  "club_id": 71,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 94,
+  "value": 41000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 11006875, "p": 14 },
+    { "s": 2016, "c": 68, "p": 12 },
+    { "s": 2017, "c": 68, "p": 33 },
+    { "s": 2018, "c": 68, "p": 28, "g": 3 },
+    { "s": 2019, "c": 68, "p": 29 },
+    { "s": 2020, "c": 72, "p": 0 },
+    { "s": 2021, "c": 72, "p": 19 },
+    { "s": 2022, "c": 8350953, "p": 38 },
+    { "s": 2023, "c": 8350953, "p": 45 },
+    { "s": 2024, "c": 8350953, "p": 44, "g": 1 },
+    { "s": 2025, "c": 8350953, "p": 30 }
+  ],
+  "ids": {
+    "transfermarkt.com": "408741",
+    "sortitoutsi": "2000106242"
+  }
+}

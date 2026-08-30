@@ -1,0 +1,54 @@
+{
+  "id": 2000079824,
+  "first_name": "Lenar",
+  "last_name": "Fattakhov",
+  "birth_date": "2003-05-12",
+  "country_id": 791,
+  "club_id": 8064339,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 94,
+  "value": 16000,
+  "contract": {    "expiration": "2026-06-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "708184"
+  },
+  "history": [
+    { "s": 2020, "c": 130509, "p": 0 },
+    { "s": 2021, "c": 130509, "p": 4 },
+    { "s": 2022, "c": 130509, "p": 6 },
+    { "s": 2023, "c": 130509, "p": 0 },
+    { "s": 2023, "c": 58148224, "p": 21 },
+    { "s": 2024, "c": 8064339, "p": 7 },
+    { "s": 2025, "c": 476286, "p": 13, "g": 2 },
+    { "s": 2025, "c": 8064339, "p": 16, "g": 2 }
+  ]
+}

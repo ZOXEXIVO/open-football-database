@@ -1,0 +1,39 @@
+{
+  "id": 2000096162,
+  "first_name": "Franco",
+  "last_name": "Cáceres",
+  "birth_date": "2000-01-06",
+  "country_id": 1649,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 110,
+  "potential_ability": 120,
+  "value": 162000,
+  "history": [
+    { "s": 2021, "c": 82, "p": 0 },
+    { "s": 2022, "c": 102486, "p": 8 },
+    { "s": 2023, "c": 102486, "p": 25, "g": 5 },
+    { "s": 2024, "c": 86, "p": 6, "g": 1 },
+    { "s": 2024, "c": 14018428, "p": 0 },
+    { "s": 2025, "c": 108531, "p": 28, "g": 3 }
+  ],
+  "ids": {
+    "transfermarkt.com": "911995"
+  }
+}

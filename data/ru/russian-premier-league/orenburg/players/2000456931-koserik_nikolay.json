@@ -1,0 +1,35 @@
+{
+  "id": 2000456931,
+  "first_name": "Nikolay",
+  "last_name": "Koserik",
+  "birth_date": "2007-05-28",
+  "country_id": 791,
+  "club_id": 58127493,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "value": 310000,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 58127493, "p": 0 },
+    { "s": 2025, "c": 476286, "p": 8 },
+    { "s": 2025, "c": 58127493, "p": 2 },
+    { "s": 2025, "c": 58135242, "p": 9 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1128666"
+  }
+}

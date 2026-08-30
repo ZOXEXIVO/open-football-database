@@ -1,0 +1,45 @@
+{
+  "id": 58147638,
+  "first_name": "Vladislav",
+  "last_name": "Tyurin",
+  "birth_date": "2000-04-18",
+  "country_id": 791,
+  "club_id": 130497,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 78,
+  "potential_ability": 90,
+  "value": 62000,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 130501, "p": 0 },
+    { "s": 2018, "c": 130501, "p": 0 },
+    { "s": 2019, "c": 1523, "p": 1 },
+    { "s": 2020, "c": 1523, "p": 4 },
+    { "s": 2020, "c": 58137496, "p": 17, "g": 2 },
+    { "s": 2021, "c": 1519, "p": 24, "g": 6 },
+    { "s": 2022, "c": 1519, "p": 12, "g": 1 },
+    { "s": 2023, "c": 58155660, "p": 36, "g": 7 },
+    { "s": 2024, "c": 1527, "p": 22 },
+    { "s": 2025, "c": 477540, "p": 17 }
+  ],
+  "ids": {
+    "transfermarkt.com": "623375"
+  }
+}

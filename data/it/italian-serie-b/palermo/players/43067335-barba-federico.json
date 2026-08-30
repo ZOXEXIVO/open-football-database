@@ -1,0 +1,37 @@
+{
+  "id": 43067335,
+  "first_name": "Federico",
+  "last_name": "Barba",
+  "birth_date": "1993-09-01",
+  "country_id": 776,
+  "club_id": 2194,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 124,
+  "potential_ability": 132,
+  "value": 46000,
+  "ids": {
+    "transfermarkt.com": "165873"
+  },
+  "history": [
+    { "s": 2014, "c": 1126, "p": 18, "g": 2 },
+    { "s": 2015, "c": 960, "p": 2, "g": 1 },
+    { "s": 2015, "c": 1126, "p": 10 },
+    { "s": 2016, "c": 1126, "p": 11 },
+    { "s": 2019, "c": 1747, "p": 5 },
+    { "s": 2024, "c": 1123, "p": 7 },
+    { "s": 2025, "c": 116140, "p": 28, "g": 5 }
+  ]
+}

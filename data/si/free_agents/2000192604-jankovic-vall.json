@@ -1,0 +1,34 @@
+{
+  "id": 2000192604,
+  "first_name": "Vall",
+  "last_name": "Janković",
+  "birth_date": "2004-03-29",
+  "country_id": 795,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 90,
+  "potential_ability": 114,
+  "value": 308000,
+  "history": [
+    { "s": 2020, "c": 7580709, "p": 0 },
+    { "s": 2021, "c": 1639, "p": 0 },
+    { "s": 2022, "c": 1639, "p": 1 },
+    { "s": 2023, "c": 1639, "p": 4 },
+    { "s": 2024, "c": 7580943, "p": 21, "g": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1030762"
+  }
+}

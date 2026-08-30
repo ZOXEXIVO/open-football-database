@@ -1,0 +1,36 @@
+{
+  "id": 2000206835,
+  "first_name": "Markiian",
+  "last_name": "Bakus",
+  "birth_date": "2006-01-20",
+  "country_id": 800,
+  "club_id": 71100095,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -6,
+  "value": 251000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 71029941, "p": 0 },
+    { "s": 2020, "c": 71029941, "p": 0 },
+    { "s": 2021, "c": 71045065, "p": 0 },
+    { "s": 2022, "c": 71045065, "p": 0 },
+    { "s": 2023, "c": 2000154673, "p": 4 },
+    { "s": 2024, "c": 2000154673, "p": 6 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1074047"
+  }
+}

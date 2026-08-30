@@ -1,0 +1,44 @@
+{
+  "id": 76063338,
+  "first_name": "Juan",
+  "last_name": "Diego Ceballos",
+  "birth_date": "1998-12-31",
+  "country_id": 1653,
+  "club_id": 309348,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 108,
+  "potential_ability": 114,
+  "value": 513000,
+  "contract": {    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 309348, "p": 0 },
+    { "s": 2018, "c": 309348, "p": 0 },
+    { "s": 2019, "c": 309348, "p": 14 },
+    { "s": 2020, "c": 309348, "p": 5 },
+    { "s": 2021, "c": 309348, "p": 38, "g": 2 },
+    { "s": 2022, "c": 309348, "p": 36, "g": 5 },
+    { "s": 2023, "c": 309345, "p": 4 },
+    { "s": 2023, "c": 309348, "p": 20, "g": 3 },
+    { "s": 2024, "c": 5261741, "p": 31, "g": 1 },
+    { "s": 2025, "c": 309346, "p": 40, "g": 4 }
+  ],
+  "ids": {
+    "transfermarkt.com": "653400"
+  }
+}

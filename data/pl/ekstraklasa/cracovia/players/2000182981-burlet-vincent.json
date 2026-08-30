@@ -1,0 +1,44 @@
+{
+  "id": 2000182981,
+  "first_name": "Vincent",
+  "last_name": "Burlet",
+  "birth_date": "2005-09-23",
+  "country_id": 757,
+  "club_id": 129583,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 96,
+  "potential_ability": -75,
+  "value": 1000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 278, "p": 0 },
+    { "s": 2021, "c": 920, "p": 0 },
+    { "s": 2022, "c": 858, "p": 0 },
+    { "s": 2022, "c": 48038838, "p": 21 },
+    { "s": 2023, "c": 858, "p": 0 },
+    { "s": 2023, "c": 48038838, "p": 20 },
+    { "s": 2024, "c": 857, "p": 23 },
+    { "s": 2025, "c": 858, "p": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "920939"
+  }
+}

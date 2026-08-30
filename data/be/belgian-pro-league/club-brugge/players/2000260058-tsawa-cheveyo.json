@@ -1,0 +1,39 @@
+{
+  "id": 2000260058,
+  "first_name": "Cheveyo",
+  "last_name": "Tsawa",
+  "birth_date": "2006-12-09",
+  "country_id": 798,
+  "club_id": 186,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": -8,
+  "value": 8000000,
+  "contract": {    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 1854, "p": 6 },
+    { "s": 2023, "c": 98000664, "p": 7 },
+    { "s": 2024, "c": 1854, "p": 16, "g": 3 },
+    { "s": 2024, "c": 98000664, "p": 8 },
+    { "s": 2025, "c": 1854, "p": 34, "g": 2 }
+  ],
+  "ids": {
+    "transfermarkt.com": "794749"
+  }
+}

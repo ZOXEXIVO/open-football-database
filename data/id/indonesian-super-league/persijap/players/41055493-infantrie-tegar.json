@@ -1,0 +1,42 @@
+{
+  "id": 41055493,
+  "first_name": "Tegar",
+  "last_name": "Infantrie",
+  "birth_date": "1999-05-08",
+  "country_id": 113,
+  "club_id": 5622745,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 82,
+  "value": 27000,
+  "contract": {    "expiration": "2026-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 135497, "p": 0 },
+    { "s": 2019, "c": 135497, "p": 16 },
+    { "s": 2020, "c": 135497, "p": 0 },
+    { "s": 2021, "c": 135497, "p": 0 },
+    { "s": 2021, "c": 2000185227, "p": 3 },
+    { "s": 2022, "c": 41060486, "p": 30 },
+    { "s": 2023, "c": 7742801, "p": 4 },
+    { "s": 2024, "c": 135531, "p": 17 }
+  ],
+  "ids": {
+    "transfermarkt.com": "559308"
+  }
+}

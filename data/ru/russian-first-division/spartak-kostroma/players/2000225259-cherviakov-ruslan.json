@@ -1,0 +1,46 @@
+{
+  "id": 2000225259,
+  "first_name": "Ruslan",
+  "last_name": "Cherviakov",
+  "birth_date": "2005-02-18",
+  "country_id": 791,
+  "club_id": 477455,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -65,
+  "value": 653000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 1895, "p": 0 },
+    { "s": 2020, "c": 71076802, "p": 0 },
+    { "s": 2021, "c": 71076802, "p": 0 },
+    { "s": 2022, "c": 1481, "p": 0 },
+    { "s": 2023, "c": 130498, "p": 19, "g": 1 },
+    { "s": 2024, "c": 130498, "p": 24, "g": 3 },
+    { "s": 2025, "c": 130498, "p": 7 },
+    { "s": 2025, "c": 58117053, "p": 23, "g": 2 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1068318"
+  }
+}

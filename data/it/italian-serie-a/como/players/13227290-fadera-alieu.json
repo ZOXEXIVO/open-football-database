@@ -1,0 +1,50 @@
+{
+  "id": 13227290,
+  "first_name": "Alieu",
+  "last_name": "Fadera",
+  "birth_date": "2001-11-03",
+  "country_id": 20,
+  "club_id": 1123,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 128,
+  "potential_ability": 146,
+  "value": 9000000,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1114,
+    "expiration": "2027-06-30",
+    "salary": 728000,
+    "wage_contribution_pct": 100
+  },
+  "ids": {
+    "transfermarkt.com": "749552"
+  },
+  "history": [
+    { "s": 2019, "c": 63011669, "p": 3, "g": 1 },
+    { "s": 2020, "c": 63011669, "p": 31, "g": 5 },
+    { "s": 2021, "c": 299, "p": 18 },
+    { "s": 2022, "c": 299, "p": 33, "g": 8 },
+    { "s": 2023, "c": 258, "p": 25, "g": 3 },
+    { "s": 2024, "c": 258, "p": 2 },
+    { "s": 2024, "c": 1123, "p": 28, "g": 1 },
+    { "s": 2025, "c": 3800256, "p": 28, "g": 2 }
+  ]
+}

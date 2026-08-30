@@ -1,0 +1,48 @@
+{
+  "id": 88024019,
+  "first_name": "Sakaraia",
+  "last_name": "Naisua",
+  "birth_date": "1993-03-09",
+  "country_id": 1437,
+  "club_id": 130061,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 58,
+  "potential_ability": 62,
+  "value": 0,
+  "contract": {    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "history": [
+    { "s": 2015, "c": 130061, "p": 0 },
+    { "s": 2017, "c": 130061, "p": 4 },
+    { "s": 2018, "c": 130061, "p": 10 },
+    { "s": 2019, "c": 130055, "p": 3 },
+    { "s": 2020, "c": 130058, "p": 12, "g": 4 },
+    { "s": 2021, "c": 130058, "p": 12, "g": 6 },
+    { "s": 2022, "c": 130057, "p": 4 },
+    { "s": 2022, "c": 130058, "p": 9, "g": 3 },
+    { "s": 2023, "c": 130057, "p": 14, "g": 3 },
+    { "s": 2025, "c": 130057, "p": 10, "g": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "262248"
+  }
+}

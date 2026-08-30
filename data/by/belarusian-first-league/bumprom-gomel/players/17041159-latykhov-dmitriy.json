@@ -1,0 +1,36 @@
+{
+  "id": 17041159,
+  "first_name": "Dmitriy",
+  "last_name": "Latykhov",
+  "birth_date": "2003-03-25",
+  "country_id": 758,
+  "club_id": 17037713,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": 94,
+  "value": 15000,
+  "contract": {    "expiration": "2026-12-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 303, "p": 10, "g": 2 },
+    { "s": 2022, "c": 303, "p": 13 },
+    { "s": 2023, "c": 7485067, "p": 25, "g": 1 },
+    { "s": 2024, "c": 7485067, "p": 1 },
+    { "s": 2024, "c": 58126843, "p": 9, "g": 3 },
+    { "s": 2025, "c": 58126843, "p": 15, "g": 5 }
+  ],
+  "ids": {
+    "transfermarkt.com": "720969"
+  }
+}

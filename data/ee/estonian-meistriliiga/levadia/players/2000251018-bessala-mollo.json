@@ -1,0 +1,41 @@
+{
+  "id": 2000251018,
+  "first_name": "Mollo",
+  "last_name": "Bessala",
+  "birth_date": "2003-10-10",
+  "country_id": 11,
+  "club_id": 121267,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 120,
+  "value": 2000000,
+  "contract": {    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "1115074"
+  },
+  "history": [
+    { "s": 2023, "c": 47081043, "p": 36, "g": 13 },
+    { "s": 2023, "c": 71016825, "p": 12 },
+    { "s": 2024, "c": 71016825, "p": 25, "g": 1 }
+  ]
+}

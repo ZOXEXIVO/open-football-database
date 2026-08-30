@@ -1,0 +1,53 @@
+{
+  "id": 43316809,
+  "first_name": "Sherif",
+  "last_name": "Kallaku",
+  "birth_date": "1998-03-01",
+  "country_id": 752,
+  "club_id": 71,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 112,
+  "value": 143000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 1125, "p": 0 },
+    { "s": 2017, "c": 68, "p": 27, "g": 1 },
+    { "s": 2018, "c": 71, "p": 33, "g": 7 },
+    { "s": 2019, "c": 71, "p": 32, "g": 14 },
+    { "s": 2020, "c": 129859, "p": 26, "g": 2 },
+    { "s": 2021, "c": 69, "p": 17, "g": 1 },
+    { "s": 2021, "c": 71, "p": 15, "g": 1 },
+    { "s": 2022, "c": 61, "p": 16, "g": 2 },
+    { "s": 2022, "c": 71, "p": 25, "g": 8 },
+    { "s": 2023, "c": 57110237, "p": 26, "g": 4 },
+    { "s": 2024, "c": 57110237, "p": 28 },
+    { "s": 2025, "c": 72, "p": 35, "g": 5 }
+  ],
+  "ids": {
+    "transfermarkt.com": "466815",
+    "sortitoutsi": "43316809"
+  }
+}

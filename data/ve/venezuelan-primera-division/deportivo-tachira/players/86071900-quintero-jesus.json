@@ -1,0 +1,47 @@
+{
+  "id": 86071900,
+  "first_name": "Jesús",
+  "last_name": "Quintero",
+  "birth_date": "2001-02-01",
+  "country_id": 1658,
+  "club_id": 120998,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 126,
+  "value": 118000,
+  "contract": {    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 86000032, "p": 0 },
+    { "s": 2019, "c": 120998, "p": 0 },
+    { "s": 2019, "c": 86000032, "p": 14 },
+    { "s": 2020, "c": 120998, "p": 3 },
+    { "s": 2021, "c": 120998, "p": 20 },
+    { "s": 2022, "c": 120998, "p": 12 },
+    { "s": 2023, "c": 120998, "p": 2 },
+    { "s": 2023, "c": 130800, "p": 13 },
+    { "s": 2024, "c": 120998, "p": 4 },
+    { "s": 2024, "c": 130800, "p": 4 },
+    { "s": 2025, "c": 109188, "p": 9, "g": 1 },
+    { "s": 2025, "c": 120998, "p": 4 }
+  ],
+  "ids": {
+    "transfermarkt.com": "633987"
+  },
+  "loan": {
+    "to_club_id": 130800,
+    "expiration": "2027-12-31",
+    "wage_contribution_pct": 100
+  }
+}

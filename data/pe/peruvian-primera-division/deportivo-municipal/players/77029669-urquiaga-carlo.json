@@ -1,0 +1,32 @@
+{
+  "id": 77029669,
+  "first_name": "Carlo",
+  "last_name": "Urquiaga",
+  "birth_date": "1994-01-01",
+  "country_id": 1656,
+  "club_id": 1446,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 102,
+  "ids": {
+    "transfermarkt.com": "227793"
+  },
+  "loan": {
+    "to_club_id": 1705,
+    "expiration": "2026-06-30",
+    "wage_contribution_pct": 100
+  }
+}

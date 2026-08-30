@@ -1,0 +1,35 @@
+{
+  "id": 2000333072,
+  "first_name": "Sergey",
+  "last_name": "Mokrousov",
+  "birth_date": "2006-01-01",
+  "country_id": 791,
+  "club_id": 130498,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 85,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -55,
+  "value": 45820,
+  "contract": {
+    "salary": 7384,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 1301104, "p": 0 },
+    { "s": 2024, "c": 58002983, "p": 0 },
+    { "s": 2025, "c": 58002983, "p": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "919351"
+  }
+}

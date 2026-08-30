@@ -1,0 +1,35 @@
+{
+  "id": 2000096052,
+  "first_name": "Ştefan",
+  "last_name": "Bană",
+  "birth_date": "2004-10-29",
+  "country_id": 790,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 96,
+  "potential_ability": 120,
+  "value": 408000,
+  "history": [
+    { "s": 2020, "c": 57117617, "p": 3, "g": 1 },
+    { "s": 2021, "c": 57117617, "p": 19, "g": 2 },
+    { "s": 2022, "c": 57117617, "p": 24, "g": 3 },
+    { "s": 2023, "c": 57111101, "p": 3, "g": 1 },
+    { "s": 2023, "c": 57117617, "p": 16, "g": 7 },
+    { "s": 2024, "c": 57111101, "p": 23, "g": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "963964"
+  }
+}

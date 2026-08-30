@@ -1,0 +1,40 @@
+{
+  "id": 2000304969,
+  "first_name": "Olatoundji",
+  "last_name": "Tessilimi",
+  "birth_date": "2004-11-02",
+  "country_id": 7,
+  "club_id": 5640780,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -6,
+  "value": 190000,
+  "contract": {    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 33064668, "p": 8, "g": 3 },
+    { "s": 2023, "c": 2000266290, "p": 13, "g": 15 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1111932"
+  }
+}

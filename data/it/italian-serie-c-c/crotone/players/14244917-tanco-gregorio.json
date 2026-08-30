@@ -1,0 +1,41 @@
+{
+  "id": 14244917,
+  "first_name": "Gregorio",
+  "last_name": "Tanco",
+  "birth_date": "1999-10-18",
+  "country_id": 1649,
+  "club_id": 707654,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 112,
+  "value": 91000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 86, "p": 0 },
+    { "s": 2018, "c": 80, "p": 0 },
+    { "s": 2019, "c": 80, "p": 0 },
+    { "s": 2020, "c": 80, "p": 0 },
+    { "s": 2021, "c": 80, "p": 3 },
+    { "s": 2022, "c": 80, "p": 20, "g": 2 },
+    { "s": 2023, "c": 80, "p": 0 },
+    { "s": 2023, "c": 1173, "p": 5 },
+    { "s": 2024, "c": 116309, "p": 5 },
+    { "s": 2024, "c": 831197, "p": 16 },
+    { "s": 2025, "c": 2205, "p": 22, "g": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "872170"
+  }
+}

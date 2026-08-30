@@ -1,0 +1,62 @@
+{
+  "id": 83174775,
+  "first_name": "João",
+  "last_name": "Mário",
+  "birth_date": "2000-01-03",
+  "country_id": 788,
+  "club_id": 1139,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 85,
+    "right": 100
+  },
+  "current_ability": 138,
+  "potential_ability": 148,
+  "value": 9000000,
+  "contract": {
+    "expiration": "2030-06-30",
+    "salary": 3172000,
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 1478, "p": 0 },
+    { "s": 2017, "c": 1478, "p": 0 },
+    { "s": 2018, "c": 55000308, "p": 18, "g": 4 },
+    { "s": 2019, "c": 1478, "p": 2 },
+    { "s": 2019, "c": 55000308, "p": 18 },
+    { "s": 2020, "c": 1478, "p": 14, "g": 2 },
+    { "s": 2020, "c": 55000308, "p": 4, "g": 1 },
+    { "s": 2021, "c": 1478, "p": 28 },
+    { "s": 2022, "c": 1478, "p": 18, "g": 1 },
+    { "s": 2023, "c": 1478, "p": 27, "g": 2 },
+    { "s": 2024, "c": 1478, "p": 27 },
+    { "s": 2025, "c": 1111, "p": 10, "g": 1 },
+    { "s": 2025, "c": 1139, "p": 10 }
+  ],
+  "ids": {
+    "transfermarkt.com": "537602"
+  },
+  "loan": {
+    "to_club_id": 1129,
+    "expiration": "2030-06-30",
+    "wage_contribution_pct": 100
+  }
+}

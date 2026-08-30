@@ -1,0 +1,31 @@
+{
+  "id": 2000403038,
+  "first_name": "Mattia",
+  "last_name": "Rossetti",
+  "birth_date": "2007-11-28",
+  "country_id": 776,
+  "club_id": 831114,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -5,
+  "value": 35000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2218, "p": 0 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1187425"
+  }
+}

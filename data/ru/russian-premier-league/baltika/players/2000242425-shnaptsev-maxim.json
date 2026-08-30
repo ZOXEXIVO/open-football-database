@@ -1,0 +1,38 @@
+{
+  "id": 2000242425,
+  "first_name": "Maxim",
+  "last_name": "Shnaptsev",
+  "birth_date": "2004-04-19",
+  "country_id": 791,
+  "club_id": 1301106,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": -65,
+  "value": 637000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "637552"
+  },
+  "history": [
+    { "s": 2022, "c": 1525, "p": 0 },
+    { "s": 2023, "c": 58145944, "p": 12 },
+    { "s": 2024, "c": 58145944, "p": 9 },
+    { "s": 2025, "c": 58145944, "p": 23 }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 2000205547,
+  "first_name": "Abdoul",
+  "last_name": "Ouattara",
+  "birth_date": "2005-10-22",
+  "country_id": 24,
+  "club_id": 667,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": -75,
+  "value": 4000000,
+  "contract": {    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "991487"
+  },
+  "history": [
+    { "s": 2022, "c": 872, "p": 0 },
+    { "s": 2022, "c": 49034756, "p": 3 },
+    { "s": 2023, "c": 872, "p": 0 },
+    { "s": 2023, "c": 49034756, "p": 9, "g": 2 },
+    { "s": 2024, "c": 872, "p": 17, "g": 1 },
+    { "s": 2024, "c": 49034756, "p": 4, "g": 1 },
+    { "s": 2025, "c": 872, "p": 28, "g": 2 }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 2000043291,
+  "first_name": "Ayobami",
+  "last_name": "Junior",
+  "birth_date": "1998-12-24",
+  "country_id": 38,
+  "club_id": 12031159,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 92,
+  "value": 84000,
+  "contract": {
+    "salary": 2496,
+    "expiration": "2026-08-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 5410008, "p": 10 },
+    { "s": 2021, "c": 5410008, "p": 19, "g": 1 },
+    { "s": 2022, "c": 5410008, "p": 11 },
+    { "s": 2023, "c": 120286, "p": 34 },
+    { "s": 2025, "c": 120286, "p": 34, "g": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "893093"
+  }
+}
