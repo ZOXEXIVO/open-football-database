@@ -1,0 +1,259 @@
+{
+  "id": 784,
+  "code": "nl",
+  "slug": "netherlands",
+  "name": "Netherlands",
+  "continent_id": 1,
+  "reputation": 8200,
+  "settings": {
+    "pricing": {
+      "price_level": 0.85
+    }
+  },
+  "background_color": "#ff6600",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 78,
+    "black": 8,
+    "metis": 14
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "be",
+        "weight": 30
+      },
+      {
+        "country": "de",
+        "weight": 14
+      },
+      {
+        "country": "cw",
+        "weight": 11
+      },
+      {
+        "country": "ma",
+        "weight": 9
+      },
+      {
+        "country": "dk",
+        "weight": 7
+      },
+      {
+        "country": "fr",
+        "weight": 7
+      },
+      {
+        "country": "no",
+        "weight": 6
+      },
+      {
+        "country": "sr",
+        "weight": 6
+      },
+      {
+        "country": "se",
+        "weight": 5
+      },
+      {
+        "country": "gb",
+        "weight": 4
+      },
+      {
+        "country": "tr",
+        "weight": 3
+      },
+      {
+        "country": "rs",
+        "weight": 3
+      },
+      {
+        "country": "us",
+        "weight": 3
+      },
+      {
+        "country": "es",
+        "weight": 3
+      },
+      {
+        "country": "id",
+        "weight": 2
+      },
+      {
+        "country": "br",
+        "weight": 2
+      },
+      {
+        "country": "pl",
+        "weight": 2
+      },
+      {
+        "country": "is",
+        "weight": 2
+      },
+      {
+        "country": "gr",
+        "weight": 2
+      },
+      {
+        "country": "pt",
+        "weight": 2
+      },
+      {
+        "country": "au",
+        "weight": 2
+      },
+      {
+        "country": "cz",
+        "weight": 2
+      },
+      {
+        "country": "hr",
+        "weight": 2
+      },
+      {
+        "country": "at",
+        "weight": 1
+      },
+      {
+        "country": "jp",
+        "weight": 1
+      },
+      {
+        "country": "il",
+        "weight": 1
+      },
+      {
+        "country": "ar",
+        "weight": 1
+      },
+      {
+        "country": "fi",
+        "weight": 1
+      },
+      {
+        "country": "ng",
+        "weight": 1
+      },
+      {
+        "country": "it",
+        "weight": 1
+      },
+      {
+        "country": "hu",
+        "weight": 1
+      },
+      {
+        "country": "ba",
+        "weight": 1
+      },
+      {
+        "country": "gh",
+        "weight": 1
+      },
+      {
+        "country": "mx",
+        "weight": 1
+      },
+      {
+        "country": "aw",
+        "weight": 1
+      },
+      {
+        "country": "ca",
+        "weight": 1
+      },
+      {
+        "country": "ei",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "be",
+        "weight": 30
+      },
+      {
+        "country": "de",
+        "weight": 25
+      },
+      {
+        "country": "gb",
+        "weight": 20
+      },
+      {
+        "country": "it",
+        "weight": 15
+      },
+      {
+        "country": "tr",
+        "weight": 15
+      },
+      {
+        "country": "es",
+        "weight": 13
+      },
+      {
+        "country": "pt",
+        "weight": 10
+      },
+      {
+        "country": "us",
+        "weight": 10
+      },
+      {
+        "country": "dk",
+        "weight": 8
+      },
+      {
+        "country": "gr",
+        "weight": 8
+      },
+      {
+        "country": "sa",
+        "weight": 8,
+        "kind": "money"
+      },
+      {
+        "country": "fr",
+        "weight": 3
+      },
+      {
+        "country": "id",
+        "weight": 2
+      },
+      {
+        "country": "cy",
+        "weight": 2
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "ma",
+        "share": 0.1
+      },
+      {
+        "country": "sr",
+        "share": 0.06
+      },
+      {
+        "country": "tr",
+        "share": 0.05
+      },
+      {
+        "country": "cw",
+        "share": 0.03
+      },
+      {
+        "country": "id",
+        "share": 0.02
+      },
+      {
+        "country": "gh",
+        "share": 0.02
+      }
+    ],
+    "foreign_share": 0.307
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": 795,
+  "code": "si",
+  "slug": "slovenia",
+  "name": "Slovenia",
+  "continent_id": 1,
+  "reputation": 4800,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#005da7",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 92,
+    "black": 2,
+    "metis": 6
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "hr",
+        "weight": 30
+      },
+      {
+        "country": "rs",
+        "weight": 4
+      },
+      {
+        "country": "ba",
+        "weight": 3
+      },
+      {
+        "country": "fr",
+        "weight": 2
+      },
+      {
+        "country": "ng",
+        "weight": 1
+      },
+      {
+        "country": "at",
+        "weight": 1
+      },
+      {
+        "country": "al",
+        "weight": 1
+      },
+      {
+        "country": "lt",
+        "weight": 1
+      },
+      {
+        "country": "gh",
+        "weight": 1
+      },
+      {
+        "country": "pt",
+        "weight": 1
+      },
+      {
+        "country": "it",
+        "weight": 1
+      },
+      {
+        "country": "mk",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "at",
+        "weight": 30
+      },
+      {
+        "country": "de",
+        "weight": 30
+      },
+      {
+        "country": "it",
+        "weight": 30
+      },
+      {
+        "country": "hr",
+        "weight": 23
+      },
+      {
+        "country": "tr",
+        "weight": 19
+      },
+      {
+        "country": "gr",
+        "weight": 15
+      },
+      {
+        "country": "cy",
+        "weight": 11
+      },
+      {
+        "country": "hu",
+        "weight": 11
+      },
+      {
+        "country": "ru",
+        "weight": 11
+      },
+      {
+        "country": "pl",
+        "weight": 5
+      },
+      {
+        "country": "sk",
+        "weight": 4
+      },
+      {
+        "country": "gb",
+        "weight": 3
+      },
+      {
+        "country": "cz",
+        "weight": 2
+      },
+      {
+        "country": "bg",
+        "weight": 2
+      },
+      {
+        "country": "pt",
+        "weight": 1
+      },
+      {
+        "country": "rs",
+        "weight": 1
+      },
+      {
+        "country": "us",
+        "weight": 1
+      },
+      {
+        "country": "nl",
+        "weight": 1
+      },
+      {
+        "country": "be",
+        "weight": 1
+      },
+      {
+        "country": "ch",
+        "weight": 1
+      },
+      {
+        "country": "ae",
+        "weight": 1
+      },
+      {
+        "country": "ar",
+        "weight": 1
+      },
+      {
+        "country": "es",
+        "weight": 1
+      },
+      {
+        "country": "ua",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.423
+  }
+}

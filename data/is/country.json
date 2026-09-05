@@ -1,0 +1,169 @@
+{
+  "id": 774,
+  "code": "is",
+  "slug": "iceland",
+  "name": "Iceland",
+  "continent_id": 1,
+  "reputation": 5000,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#003897",
+  "foreground_color": "#d72828",
+  "skin_colors": {
+    "white": 92,
+    "black": 2,
+    "metis": 6
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "dk",
+        "weight": 30
+      },
+      {
+        "country": "se",
+        "weight": 30
+      },
+      {
+        "country": "hr",
+        "weight": 19
+      },
+      {
+        "country": "rs",
+        "weight": 19
+      },
+      {
+        "country": "uy",
+        "weight": 9
+      },
+      {
+        "country": "no",
+        "weight": 6
+      },
+      {
+        "country": "es",
+        "weight": 5
+      },
+      {
+        "country": "pl",
+        "weight": 5
+      },
+      {
+        "country": "sl",
+        "weight": 5
+      },
+      {
+        "country": "fo",
+        "weight": 4
+      },
+      {
+        "country": "gb",
+        "weight": 3
+      },
+      {
+        "country": "us",
+        "weight": 3
+      },
+      {
+        "country": "ar",
+        "weight": 2
+      },
+      {
+        "country": "de",
+        "weight": 2
+      },
+      {
+        "country": "gm",
+        "weight": 2
+      },
+      {
+        "country": "gq",
+        "weight": 2
+      },
+      {
+        "country": "lv",
+        "weight": 2
+      },
+      {
+        "country": "sr",
+        "weight": 2
+      },
+      {
+        "country": "ug",
+        "weight": 2
+      },
+      {
+        "country": "gh",
+        "weight": 1
+      },
+      {
+        "country": "ma",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "dk",
+        "weight": 30
+      },
+      {
+        "country": "no",
+        "weight": 30
+      },
+      {
+        "country": "se",
+        "weight": 27
+      },
+      {
+        "country": "gb",
+        "weight": 18
+      },
+      {
+        "country": "it",
+        "weight": 12
+      },
+      {
+        "country": "de",
+        "weight": 12
+      },
+      {
+        "country": "nl",
+        "weight": 12
+      },
+      {
+        "country": "be",
+        "weight": 9
+      },
+      {
+        "country": "pl",
+        "weight": 9
+      },
+      {
+        "country": "gr",
+        "weight": 3
+      },
+      {
+        "country": "hr",
+        "weight": 1
+      },
+      {
+        "country": "es",
+        "weight": 1
+      },
+      {
+        "country": "fr",
+        "weight": 1
+      },
+      {
+        "country": "us",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.104
+  }
+}

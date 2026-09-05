@@ -1,0 +1,314 @@
+{
+  "id": 775,
+  "code": "il",
+  "slug": "israel",
+  "name": "Israel",
+  "continent_id": 4,
+  "reputation": 4800,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#0038b8",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 45,
+    "black": 5,
+    "metis": 50
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "br",
+        "weight": 30
+      },
+      {
+        "country": "gh",
+        "weight": 18
+      },
+      {
+        "country": "ng",
+        "weight": 18
+      },
+      {
+        "country": "ci",
+        "weight": 14
+      },
+      {
+        "country": "rs",
+        "weight": 11
+      },
+      {
+        "country": "pt",
+        "weight": 9
+      },
+      {
+        "country": "ar",
+        "weight": 4
+      },
+      {
+        "country": "fr",
+        "weight": 4
+      },
+      {
+        "country": "ge",
+        "weight": 4
+      },
+      {
+        "country": "us",
+        "weight": 3
+      },
+      {
+        "country": "ua",
+        "weight": 3
+      },
+      {
+        "country": "ml",
+        "weight": 3
+      },
+      {
+        "country": "ru",
+        "weight": 3
+      },
+      {
+        "country": "cv",
+        "weight": 2
+      },
+      {
+        "country": "hr",
+        "weight": 2
+      },
+      {
+        "country": "cg",
+        "weight": 2
+      },
+      {
+        "country": "ro",
+        "weight": 2
+      },
+      {
+        "country": "sn",
+        "weight": 2
+      },
+      {
+        "country": "ao",
+        "weight": 2
+      },
+      {
+        "country": "bg",
+        "weight": 2
+      },
+      {
+        "country": "co",
+        "weight": 2
+      },
+      {
+        "country": "cw",
+        "weight": 2
+      },
+      {
+        "country": "jm",
+        "weight": 2
+      },
+      {
+        "country": "gn",
+        "weight": 1
+      },
+      {
+        "country": "nl",
+        "weight": 1
+      },
+      {
+        "country": "pa",
+        "weight": 1
+      },
+      {
+        "country": "be",
+        "weight": 1
+      },
+      {
+        "country": "cm",
+        "weight": 1
+      },
+      {
+        "country": "md",
+        "weight": 1
+      },
+      {
+        "country": "mg",
+        "weight": 1
+      },
+      {
+        "country": "ve",
+        "weight": 1
+      },
+      {
+        "country": "bf",
+        "weight": 1
+      },
+      {
+        "country": "gp",
+        "weight": 1
+      },
+      {
+        "country": "lt",
+        "weight": 1
+      },
+      {
+        "country": "pe",
+        "weight": 1
+      },
+      {
+        "country": "se",
+        "weight": 1
+      },
+      {
+        "country": "sl",
+        "weight": 1
+      },
+      {
+        "country": "sr",
+        "weight": 1
+      },
+      {
+        "country": "al",
+        "weight": 1
+      },
+      {
+        "country": "am",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "cy",
+        "weight": 30
+      },
+      {
+        "country": "gr",
+        "weight": 30
+      },
+      {
+        "country": "us",
+        "weight": 30
+      },
+      {
+        "country": "be",
+        "weight": 25
+      },
+      {
+        "country": "de",
+        "weight": 25
+      },
+      {
+        "country": "it",
+        "weight": 20
+      },
+      {
+        "country": "nl",
+        "weight": 20
+      },
+      {
+        "country": "es",
+        "weight": 15
+      },
+      {
+        "country": "gb",
+        "weight": 15
+      },
+      {
+        "country": "pt",
+        "weight": 15
+      },
+      {
+        "country": "ru",
+        "weight": 15
+      },
+      {
+        "country": "tr",
+        "weight": 15
+      },
+      {
+        "country": "ua",
+        "weight": 14
+      },
+      {
+        "country": "ro",
+        "weight": 11
+      },
+      {
+        "country": "ir",
+        "weight": 9
+      },
+      {
+        "country": "rs",
+        "weight": 9
+      },
+      {
+        "country": "hu",
+        "weight": 8
+      },
+      {
+        "country": "at",
+        "weight": 6
+      },
+      {
+        "country": "ae",
+        "weight": 3
+      },
+      {
+        "country": "az",
+        "weight": 3
+      },
+      {
+        "country": "jp",
+        "weight": 3
+      },
+      {
+        "country": "ar",
+        "weight": 2
+      },
+      {
+        "country": "cz",
+        "weight": 2
+      },
+      {
+        "country": "mx",
+        "weight": 2
+      },
+      {
+        "country": "bg",
+        "weight": 1
+      },
+      {
+        "country": "pl",
+        "weight": 1
+      },
+      {
+        "country": "ch",
+        "weight": 1
+      },
+      {
+        "country": "kz",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "ru",
+        "share": 0.06
+      },
+      {
+        "country": "ar",
+        "share": 0.02
+      },
+      {
+        "country": "fr",
+        "share": 0.02
+      }
+    ],
+    "foreign_share": 0.171
+  }
+}

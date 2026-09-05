@@ -1,0 +1,217 @@
+{
+  "id": 5,
+  "code": "dz",
+  "slug": "algeria",
+  "name": "Algeria",
+  "continent_id": 0,
+  "reputation": 5300,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#006233",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 20,
+    "black": 8,
+    "metis": 72
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ci",
+        "weight": 30
+      },
+      {
+        "country": "fr",
+        "weight": 20
+      },
+      {
+        "country": "cm",
+        "weight": 18
+      },
+      {
+        "country": "ml",
+        "weight": 18
+      },
+      {
+        "country": "cg",
+        "weight": 15
+      },
+      {
+        "country": "ng",
+        "weight": 15
+      },
+      {
+        "country": "gh",
+        "weight": 12
+      },
+      {
+        "country": "gn",
+        "weight": 12
+      },
+      {
+        "country": "sn",
+        "weight": 12
+      },
+      {
+        "country": "ma",
+        "weight": 9
+      },
+      {
+        "country": "tn",
+        "weight": 9
+      },
+      {
+        "country": "br",
+        "weight": 6
+      },
+      {
+        "country": "cd",
+        "weight": 4
+      },
+      {
+        "country": "ga",
+        "weight": 3
+      },
+      {
+        "country": "ao",
+        "weight": 1
+      },
+      {
+        "country": "bf",
+        "weight": 1
+      },
+      {
+        "country": "bw",
+        "weight": 1
+      },
+      {
+        "country": "gm",
+        "weight": 1
+      },
+      {
+        "country": "lr",
+        "weight": 1
+      },
+      {
+        "country": "ne",
+        "weight": 1
+      },
+      {
+        "country": "rw",
+        "weight": 1
+      },
+      {
+        "country": "se",
+        "weight": 1
+      },
+      {
+        "country": "tz",
+        "weight": 1
+      },
+      {
+        "country": "mg",
+        "weight": 1
+      },
+      {
+        "country": "mr",
+        "weight": 1
+      },
+      {
+        "country": "td",
+        "weight": 1
+      },
+      {
+        "country": "tg",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "fr",
+        "weight": 30
+      },
+      {
+        "country": "sa",
+        "weight": 12,
+        "kind": "money"
+      },
+      {
+        "country": "qa",
+        "weight": 9,
+        "kind": "money"
+      },
+      {
+        "country": "ae",
+        "weight": 8,
+        "kind": "money"
+      },
+      {
+        "country": "be",
+        "weight": 8
+      },
+      {
+        "country": "tr",
+        "weight": 8
+      },
+      {
+        "country": "es",
+        "weight": 6
+      },
+      {
+        "country": "it",
+        "weight": 6
+      },
+      {
+        "country": "pt",
+        "weight": 6
+      },
+      {
+        "country": "de",
+        "weight": 5
+      },
+      {
+        "country": "eg",
+        "weight": 5
+      },
+      {
+        "country": "gr",
+        "weight": 5
+      },
+      {
+        "country": "tn",
+        "weight": 5
+      },
+      {
+        "country": "gb",
+        "weight": 3
+      },
+      {
+        "country": "ma",
+        "weight": 2
+      },
+      {
+        "country": "ru",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "fr",
+        "share": 0.3
+      },
+      {
+        "country": "es",
+        "share": 0.02
+      },
+      {
+        "country": "it",
+        "share": 0.02
+      }
+    ],
+    "foreign_share": 0.14
+  }
+}

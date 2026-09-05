@@ -1,0 +1,126 @@
+{
+  "id": 1435,
+  "code": "au",
+  "slug": "australia",
+  "name": "Australia",
+  "continent_id": 5,
+  "reputation": 5500,
+  "settings": {
+    "pricing": {
+      "price_level": 0.45
+    }
+  },
+  "background_color": "#00612d",
+  "foreground_color": "#ffcd00",
+  "skin_colors": {
+    "white": 72,
+    "black": 5,
+    "metis": 23
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "nz",
+        "weight": 30
+      },
+      {
+        "country": "jp",
+        "weight": 3
+      },
+      {
+        "country": "gb",
+        "weight": 2
+      },
+      {
+        "country": "gr",
+        "weight": 1
+      },
+      {
+        "country": "es",
+        "weight": 1
+      },
+      {
+        "country": "mt",
+        "weight": 1
+      },
+      {
+        "country": "br",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "gb",
+        "weight": 30
+      },
+      {
+        "country": "de",
+        "weight": 18
+      },
+      {
+        "country": "jp",
+        "weight": 18
+      },
+      {
+        "country": "kr",
+        "weight": 15
+      },
+      {
+        "country": "nl",
+        "weight": 15
+      },
+      {
+        "country": "us",
+        "weight": 15
+      },
+      {
+        "country": "sc",
+        "weight": 12
+      },
+      {
+        "country": "be",
+        "weight": 9
+      },
+      {
+        "country": "dk",
+        "weight": 9
+      },
+      {
+        "country": "th",
+        "weight": 9
+      },
+      {
+        "country": "it",
+        "weight": 3
+      },
+      {
+        "country": "hr",
+        "weight": 1
+      },
+      {
+        "country": "no",
+        "weight": 1
+      },
+      {
+        "country": "pt",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "gr",
+        "share": 0.03
+      },
+      {
+        "country": "hr",
+        "share": 0.03
+      },
+      {
+        "country": "it",
+        "share": 0.02
+      }
+    ],
+    "foreign_share": 0.308
+  }
+}

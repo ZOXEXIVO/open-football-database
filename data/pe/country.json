@@ -1,0 +1,137 @@
+{
+  "id": 1656,
+  "code": "pe",
+  "slug": "peru",
+  "name": "Peru",
+  "continent_id": 3,
+  "reputation": 5400,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#d91023",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 15,
+    "black": 5,
+    "metis": 80
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ar",
+        "weight": 30
+      },
+      {
+        "country": "uy",
+        "weight": 5
+      },
+      {
+        "country": "co",
+        "weight": 4
+      },
+      {
+        "country": "ec",
+        "weight": 3
+      },
+      {
+        "country": "py",
+        "weight": 2
+      },
+      {
+        "country": "br",
+        "weight": 1
+      },
+      {
+        "country": "cl",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "ar",
+        "weight": 30
+      },
+      {
+        "country": "br",
+        "weight": 26
+      },
+      {
+        "country": "mx",
+        "weight": 23
+      },
+      {
+        "country": "cl",
+        "weight": 19
+      },
+      {
+        "country": "co",
+        "weight": 15
+      },
+      {
+        "country": "es",
+        "weight": 15
+      },
+      {
+        "country": "pt",
+        "weight": 11
+      },
+      {
+        "country": "us",
+        "weight": 11
+      },
+      {
+        "country": "it",
+        "weight": 8
+      },
+      {
+        "country": "uy",
+        "weight": 7
+      },
+      {
+        "country": "ve",
+        "weight": 2
+      },
+      {
+        "country": "de",
+        "weight": 2
+      },
+      {
+        "country": "gb",
+        "weight": 2
+      },
+      {
+        "country": "dk",
+        "weight": 1
+      },
+      {
+        "country": "gr",
+        "weight": 1
+      },
+      {
+        "country": "cz",
+        "weight": 1
+      },
+      {
+        "country": "il",
+        "weight": 1
+      },
+      {
+        "country": "sa",
+        "weight": 1
+      },
+      {
+        "country": "ae",
+        "weight": 1
+      },
+      {
+        "country": "ru",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.152
+  }
+}

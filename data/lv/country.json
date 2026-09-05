@@ -1,0 +1,205 @@
+{
+  "id": 777,
+  "code": "lv",
+  "slug": "latvia",
+  "name": "Latvia",
+  "continent_id": 1,
+  "reputation": 3800,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#9e3039",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 92,
+    "black": 2,
+    "metis": 6
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ng",
+        "weight": 30
+      },
+      {
+        "country": "ua",
+        "weight": 16
+      },
+      {
+        "country": "sn",
+        "weight": 11
+      },
+      {
+        "country": "gh",
+        "weight": 10
+      },
+      {
+        "country": "ge",
+        "weight": 9
+      },
+      {
+        "country": "nl",
+        "weight": 9
+      },
+      {
+        "country": "sl",
+        "weight": 6
+      },
+      {
+        "country": "ci",
+        "weight": 5
+      },
+      {
+        "country": "ru",
+        "weight": 4
+      },
+      {
+        "country": "br",
+        "weight": 3
+      },
+      {
+        "country": "cg",
+        "weight": 3
+      },
+      {
+        "country": "cm",
+        "weight": 3
+      },
+      {
+        "country": "it",
+        "weight": 3
+      },
+      {
+        "country": "jp",
+        "weight": 3
+      },
+      {
+        "country": "me",
+        "weight": 3
+      },
+      {
+        "country": "gn",
+        "weight": 2
+      },
+      {
+        "country": "hr",
+        "weight": 2
+      },
+      {
+        "country": "pt",
+        "weight": 2
+      },
+      {
+        "country": "rs",
+        "weight": 2
+      },
+      {
+        "country": "ar",
+        "weight": 1
+      },
+      {
+        "country": "by",
+        "weight": 1
+      },
+      {
+        "country": "ke",
+        "weight": 1
+      },
+      {
+        "country": "kg",
+        "weight": 1
+      },
+      {
+        "country": "lu",
+        "weight": 1
+      },
+      {
+        "country": "ml",
+        "weight": 1
+      },
+      {
+        "country": "mr",
+        "weight": 1
+      },
+      {
+        "country": "md",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "it",
+        "weight": 30
+      },
+      {
+        "country": "lt",
+        "weight": 30
+      },
+      {
+        "country": "ru",
+        "weight": 23
+      },
+      {
+        "country": "pl",
+        "weight": 19
+      },
+      {
+        "country": "ee",
+        "weight": 15
+      },
+      {
+        "country": "cy",
+        "weight": 11
+      },
+      {
+        "country": "de",
+        "weight": 11
+      },
+      {
+        "country": "kz",
+        "weight": 11
+      },
+      {
+        "country": "cz",
+        "weight": 4
+      },
+      {
+        "country": "gb",
+        "weight": 3
+      },
+      {
+        "country": "ge",
+        "weight": 1
+      },
+      {
+        "country": "si",
+        "weight": 1
+      },
+      {
+        "country": "ch",
+        "weight": 1
+      },
+      {
+        "country": "fi",
+        "weight": 1
+      },
+      {
+        "country": "hr",
+        "weight": 1
+      },
+      {
+        "country": "is",
+        "weight": 1
+      },
+      {
+        "country": "nl",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.353
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "id": 38,
+  "code": "ng",
+  "slug": "nigeria",
+  "name": "Nigeria",
+  "continent_id": 0,
+  "reputation": 5800,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#008751",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 2,
+    "black": 88,
+    "metis": 10
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "gh",
+        "weight": 30
+      },
+      {
+        "country": "bj",
+        "weight": 15
+      },
+      {
+        "country": "cm",
+        "weight": 15
+      },
+      {
+        "country": "tg",
+        "weight": 12
+      },
+      {
+        "country": "ci",
+        "weight": 8
+      },
+      {
+        "country": "ne",
+        "weight": 8
+      },
+      {
+        "country": "br",
+        "weight": 5
+      },
+      {
+        "country": "cd",
+        "weight": 5
+      },
+      {
+        "country": "gn",
+        "weight": 5
+      },
+      {
+        "country": "lr",
+        "weight": 5
+      },
+      {
+        "country": "ml",
+        "weight": 5
+      },
+      {
+        "country": "sl",
+        "weight": 5
+      },
+      {
+        "country": "sn",
+        "weight": 5
+      },
+      {
+        "country": "cf",
+        "weight": 3
+      },
+      {
+        "country": "py",
+        "weight": 3
+      },
+      {
+        "country": "ke",
+        "weight": 1
+      },
+      {
+        "country": "uy",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "tr",
+        "weight": 30
+      },
+      {
+        "country": "gb",
+        "weight": 25
+      },
+      {
+        "country": "cz",
+        "weight": 22
+      },
+      {
+        "country": "be",
+        "weight": 18
+      },
+      {
+        "country": "pt",
+        "weight": 18
+      },
+      {
+        "country": "no",
+        "weight": 15
+      },
+      {
+        "country": "dk",
+        "weight": 13
+      },
+      {
+        "country": "it",
+        "weight": 13
+      },
+      {
+        "country": "nl",
+        "weight": 13
+      },
+      {
+        "country": "ru",
+        "weight": 13
+      },
+      {
+        "country": "sa",
+        "weight": 13,
+        "kind": "money"
+      },
+      {
+        "country": "ae",
+        "weight": 10,
+        "kind": "money"
+      },
+      {
+        "country": "cy",
+        "weight": 10
+      },
+      {
+        "country": "de",
+        "weight": 10
+      },
+      {
+        "country": "es",
+        "weight": 10
+      },
+      {
+        "country": "fr",
+        "weight": 10
+      },
+      {
+        "country": "gr",
+        "weight": 10
+      },
+      {
+        "country": "se",
+        "weight": 10
+      },
+      {
+        "country": "ua",
+        "weight": 10
+      },
+      {
+        "country": "us",
+        "weight": 10
+      },
+      {
+        "country": "za",
+        "weight": 10
+      },
+      {
+        "country": "rs",
+        "weight": 8
+      },
+      {
+        "country": "eg",
+        "weight": 7
+      },
+      {
+        "country": "hr",
+        "weight": 7
+      },
+      {
+        "country": "al",
+        "weight": 6
+      },
+      {
+        "country": "mt",
+        "weight": 5
+      },
+      {
+        "country": "sk",
+        "weight": 5
+      },
+      {
+        "country": "am",
+        "weight": 4
+      },
+      {
+        "country": "bg",
+        "weight": 4
+      },
+      {
+        "country": "il",
+        "weight": 3
+      },
+      {
+        "country": "ro",
+        "weight": 2
+      },
+      {
+        "country": "by",
+        "weight": 2
+      },
+      {
+        "country": "hu",
+        "weight": 2
+      },
+      {
+        "country": "fi",
+        "weight": 2
+      },
+      {
+        "country": "lv",
+        "weight": 1
+      },
+      {
+        "country": "si",
+        "weight": 1
+      },
+      {
+        "country": "az",
+        "weight": 1
+      },
+      {
+        "country": "dz",
+        "weight": 1
+      },
+      {
+        "country": "ar",
+        "weight": 1
+      },
+      {
+        "country": "at",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "gb",
+        "share": 0.05
+      },
+      {
+        "country": "us",
+        "share": 0.02
+      }
+    ],
+    "foreign_share": 0.05
+  }
+}

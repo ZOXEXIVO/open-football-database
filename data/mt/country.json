@@ -1,0 +1,101 @@
+{
+  "id": 782,
+  "code": "mt",
+  "slug": "malta",
+  "name": "Malta",
+  "continent_id": 1,
+  "reputation": 3000,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#cf142b",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 92,
+    "black": 2,
+    "metis": 6
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "br",
+        "weight": 30
+      },
+      {
+        "country": "ng",
+        "weight": 5
+      },
+      {
+        "country": "ar",
+        "weight": 3
+      },
+      {
+        "country": "hr",
+        "weight": 2
+      },
+      {
+        "country": "it",
+        "weight": 2
+      },
+      {
+        "country": "rs",
+        "weight": 1
+      },
+      {
+        "country": "gh",
+        "weight": 1
+      },
+      {
+        "country": "pt",
+        "weight": 1
+      },
+      {
+        "country": "co",
+        "weight": 1
+      },
+      {
+        "country": "es",
+        "weight": 1
+      },
+      {
+        "country": "fr",
+        "weight": 1
+      },
+      {
+        "country": "ba",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "it",
+        "weight": 30
+      },
+      {
+        "country": "gb",
+        "weight": 19
+      },
+      {
+        "country": "cy",
+        "weight": 11
+      },
+      {
+        "country": "au",
+        "weight": 7
+      },
+      {
+        "country": "ch",
+        "weight": 1
+      },
+      {
+        "country": "rs",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.55
+  }
+}

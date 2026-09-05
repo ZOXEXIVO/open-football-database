@@ -1,0 +1,85 @@
+{
+  "id": 1655,
+  "code": "py",
+  "slug": "paraguay",
+  "name": "Paraguay",
+  "continent_id": 3,
+  "reputation": 6200,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#da121a",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 20,
+    "black": 5,
+    "metis": 75
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ar",
+        "weight": 30
+      },
+      {
+        "country": "uy",
+        "weight": 5
+      },
+      {
+        "country": "co",
+        "weight": 1
+      },
+      {
+        "country": "br",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "ar",
+        "weight": 30
+      },
+      {
+        "country": "br",
+        "weight": 20
+      },
+      {
+        "country": "mx",
+        "weight": 12
+      },
+      {
+        "country": "es",
+        "weight": 10
+      },
+      {
+        "country": "cl",
+        "weight": 8
+      },
+      {
+        "country": "co",
+        "weight": 6
+      },
+      {
+        "country": "it",
+        "weight": 6
+      },
+      {
+        "country": "pt",
+        "weight": 6
+      },
+      {
+        "country": "us",
+        "weight": 6
+      },
+      {
+        "country": "gb",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.137
+  }
+}

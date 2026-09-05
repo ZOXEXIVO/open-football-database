@@ -1,0 +1,171 @@
+{
+  "id": 1649,
+  "code": "ar",
+  "slug": "argentina",
+  "name": "Argentina",
+  "continent_id": 3,
+  "reputation": 8700,
+  "settings": {
+    "pricing": {
+      "price_level": 0.5
+    }
+  },
+  "background_color": "#75aadb",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 75,
+    "black": 3,
+    "metis": 22
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "uy",
+        "weight": 30
+      },
+      {
+        "country": "co",
+        "weight": 24
+      },
+      {
+        "country": "py",
+        "weight": 18
+      },
+      {
+        "country": "cl",
+        "weight": 10
+      },
+      {
+        "country": "br",
+        "weight": 7
+      },
+      {
+        "country": "pe",
+        "weight": 6
+      },
+      {
+        "country": "ve",
+        "weight": 6
+      },
+      {
+        "country": "ec",
+        "weight": 5
+      },
+      {
+        "country": "bo",
+        "weight": 1
+      },
+      {
+        "country": "es",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "es",
+        "weight": 30
+      },
+      {
+        "country": "uy",
+        "weight": 30
+      },
+      {
+        "country": "it",
+        "weight": 24
+      },
+      {
+        "country": "mx",
+        "weight": 24
+      },
+      {
+        "country": "br",
+        "weight": 20
+      },
+      {
+        "country": "us",
+        "weight": 16
+      },
+      {
+        "country": "gb",
+        "weight": 10
+      },
+      {
+        "country": "py",
+        "weight": 10
+      },
+      {
+        "country": "fr",
+        "weight": 8
+      },
+      {
+        "country": "pt",
+        "weight": 8
+      },
+      {
+        "country": "cl",
+        "weight": 6
+      },
+      {
+        "country": "ru",
+        "weight": 6
+      },
+      {
+        "country": "sa",
+        "weight": 6,
+        "kind": "money"
+      },
+      {
+        "country": "tr",
+        "weight": 6
+      },
+      {
+        "country": "pe",
+        "weight": 6
+      },
+      {
+        "country": "gr",
+        "weight": 5
+      },
+      {
+        "country": "co",
+        "weight": 5
+      },
+      {
+        "country": "ve",
+        "weight": 2
+      },
+      {
+        "country": "cy",
+        "weight": 1
+      },
+      {
+        "country": "mt",
+        "weight": 1
+      },
+      {
+        "country": "bg",
+        "weight": 1
+      },
+      {
+        "country": "id",
+        "weight": 1
+      },
+      {
+        "country": "ae",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "it",
+        "share": 0.03
+      },
+      {
+        "country": "es",
+        "share": 0.02
+      }
+    ],
+    "foreign_share": 0.12
+  }
+}

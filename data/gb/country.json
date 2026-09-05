@@ -1,0 +1,248 @@
+{
+  "id": 765,
+  "code": "gb",
+  "slug": "england",
+  "name": "England",
+  "continent_id": 1,
+  "reputation": 8500,
+  "settings": {
+    "pricing": {
+      "price_level": 1.5
+    }
+  },
+  "background_color": "#ffffff",
+  "foreground_color": "#cf081f",
+  "skin_colors": {
+    "white": 78,
+    "black": 10,
+    "metis": 12
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "wa",
+        "weight": 30
+      },
+      {
+        "country": "ei",
+        "weight": 21
+      },
+      {
+        "country": "sc",
+        "weight": 14
+      },
+      {
+        "country": "ie",
+        "weight": 7
+      },
+      {
+        "country": "fr",
+        "weight": 5
+      },
+      {
+        "country": "nl",
+        "weight": 3
+      },
+      {
+        "country": "br",
+        "weight": 3
+      },
+      {
+        "country": "es",
+        "weight": 3
+      },
+      {
+        "country": "pt",
+        "weight": 3
+      },
+      {
+        "country": "au",
+        "weight": 3
+      },
+      {
+        "country": "ng",
+        "weight": 2
+      },
+      {
+        "country": "dk",
+        "weight": 2
+      },
+      {
+        "country": "de",
+        "weight": 2
+      },
+      {
+        "country": "us",
+        "weight": 2
+      },
+      {
+        "country": "it",
+        "weight": 1
+      },
+      {
+        "country": "jm",
+        "weight": 1
+      },
+      {
+        "country": "be",
+        "weight": 1
+      },
+      {
+        "country": "se",
+        "weight": 1
+      },
+      {
+        "country": "ar",
+        "weight": 1
+      },
+      {
+        "country": "gh",
+        "weight": 1
+      },
+      {
+        "country": "no",
+        "weight": 1
+      },
+      {
+        "country": "pl",
+        "weight": 1
+      },
+      {
+        "country": "jp",
+        "weight": 1
+      },
+      {
+        "country": "ca",
+        "weight": 1
+      },
+      {
+        "country": "nz",
+        "weight": 1
+      },
+      {
+        "country": "rs",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "sc",
+        "weight": 30
+      },
+      {
+        "country": "wa",
+        "weight": 20
+      },
+      {
+        "country": "ei",
+        "weight": 15
+      },
+      {
+        "country": "de",
+        "weight": 13
+      },
+      {
+        "country": "es",
+        "weight": 13
+      },
+      {
+        "country": "it",
+        "weight": 13
+      },
+      {
+        "country": "us",
+        "weight": 13
+      },
+      {
+        "country": "be",
+        "weight": 10
+      },
+      {
+        "country": "nl",
+        "weight": 10
+      },
+      {
+        "country": "fr",
+        "weight": 8
+      },
+      {
+        "country": "pt",
+        "weight": 8
+      },
+      {
+        "country": "sa",
+        "weight": 8,
+        "kind": "money"
+      },
+      {
+        "country": "tr",
+        "weight": 8
+      },
+      {
+        "country": "cy",
+        "weight": 6
+      },
+      {
+        "country": "ae",
+        "weight": 5,
+        "kind": "money"
+      },
+      {
+        "country": "au",
+        "weight": 5
+      },
+      {
+        "country": "dk",
+        "weight": 3
+      },
+      {
+        "country": "sk",
+        "weight": 3
+      },
+      {
+        "country": "gr",
+        "weight": 2
+      },
+      {
+        "country": "fi",
+        "weight": 2
+      },
+      {
+        "country": "ch",
+        "weight": 1
+      },
+      {
+        "country": "se",
+        "weight": 1
+      },
+      {
+        "country": "al",
+        "weight": 1
+      },
+      {
+        "country": "is",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "ei",
+        "share": 0.06
+      },
+      {
+        "country": "jm",
+        "share": 0.03
+      },
+      {
+        "country": "ng",
+        "share": 0.03
+      },
+      {
+        "country": "gh",
+        "share": 0.02
+      }
+    ],
+    "foreign_share": 0.457
+  }
+}

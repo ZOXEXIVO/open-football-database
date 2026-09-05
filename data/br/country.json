@@ -1,0 +1,161 @@
+{
+  "id": 1651,
+  "code": "br",
+  "slug": "brazil",
+  "name": "Brazil",
+  "continent_id": 3,
+  "reputation": 9200,
+  "settings": {
+    "pricing": {
+      "price_level": 0.6
+    }
+  },
+  "background_color": "#ffdf00",
+  "foreground_color": "#0f5602",
+  "skin_colors": {
+    "white": 30,
+    "black": 25,
+    "metis": 45
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ar",
+        "weight": 30
+      },
+      {
+        "country": "uy",
+        "weight": 15
+      },
+      {
+        "country": "co",
+        "weight": 12
+      },
+      {
+        "country": "py",
+        "weight": 10
+      },
+      {
+        "country": "cl",
+        "weight": 8
+      },
+      {
+        "country": "ve",
+        "weight": 6
+      },
+      {
+        "country": "ec",
+        "weight": 5
+      },
+      {
+        "country": "pe",
+        "weight": 4
+      },
+      {
+        "country": "pt",
+        "weight": 3
+      },
+      {
+        "country": "bo",
+        "weight": 2
+      }
+    ],
+    "export": [
+      {
+        "country": "pt",
+        "weight": 30
+      },
+      {
+        "country": "es",
+        "weight": 10
+      },
+      {
+        "country": "jp",
+        "weight": 10
+      },
+      {
+        "country": "sa",
+        "weight": 10,
+        "kind": "money"
+      },
+      {
+        "country": "tr",
+        "weight": 10
+      },
+      {
+        "country": "it",
+        "weight": 8
+      },
+      {
+        "country": "gb",
+        "weight": 7
+      },
+      {
+        "country": "mx",
+        "weight": 7
+      },
+      {
+        "country": "ru",
+        "weight": 7
+      },
+      {
+        "country": "fr",
+        "weight": 6
+      },
+      {
+        "country": "us",
+        "weight": 6
+      },
+      {
+        "country": "ae",
+        "weight": 5,
+        "kind": "money"
+      },
+      {
+        "country": "be",
+        "weight": 5
+      },
+      {
+        "country": "ua",
+        "weight": 5
+      },
+      {
+        "country": "cn",
+        "weight": 4,
+        "kind": "money"
+      },
+      {
+        "country": "kr",
+        "weight": 4
+      },
+      {
+        "country": "qa",
+        "weight": 4,
+        "kind": "money"
+      },
+      {
+        "country": "id",
+        "weight": 3
+      },
+      {
+        "country": "ch",
+        "weight": 2
+      },
+      {
+        "country": "mt",
+        "weight": 2
+      },
+      {
+        "country": "bg",
+        "weight": 1
+      },
+      {
+        "country": "cy",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.07
+  }
+}

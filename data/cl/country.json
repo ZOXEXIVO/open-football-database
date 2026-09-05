@@ -1,0 +1,101 @@
+{
+  "id": 1652,
+  "code": "cl",
+  "slug": "chile",
+  "name": "Chile",
+  "continent_id": 3,
+  "reputation": 7100,
+  "settings": {
+    "pricing": {
+      "price_level": 0.35
+    }
+  },
+  "background_color": "#d52b1e",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 55,
+    "black": 3,
+    "metis": 42
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ar",
+        "weight": 30
+      },
+      {
+        "country": "uy",
+        "weight": 5
+      },
+      {
+        "country": "ve",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "ar",
+        "weight": 30
+      },
+      {
+        "country": "br",
+        "weight": 24
+      },
+      {
+        "country": "mx",
+        "weight": 21
+      },
+      {
+        "country": "es",
+        "weight": 18
+      },
+      {
+        "country": "it",
+        "weight": 12
+      },
+      {
+        "country": "us",
+        "weight": 12
+      },
+      {
+        "country": "co",
+        "weight": 9
+      },
+      {
+        "country": "pt",
+        "weight": 9
+      },
+      {
+        "country": "tr",
+        "weight": 6
+      },
+      {
+        "country": "gb",
+        "weight": 6
+      },
+      {
+        "country": "ru",
+        "weight": 2
+      },
+      {
+        "country": "uy",
+        "weight": 2
+      },
+      {
+        "country": "pe",
+        "weight": 1
+      },
+      {
+        "country": "fr",
+        "weight": 1
+      },
+      {
+        "country": "gr",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.161
+  }
+}

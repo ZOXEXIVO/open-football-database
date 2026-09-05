@@ -1,0 +1,106 @@
+{
+  "id": 1657,
+  "code": "uy",
+  "slug": "uruguay",
+  "name": "Uruguay",
+  "continent_id": 3,
+  "reputation": 8000,
+  "settings": {
+    "pricing": {
+      "price_level": 0.35
+    }
+  },
+  "background_color": "#5cbfeb",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 75,
+    "black": 5,
+    "metis": 20
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ar",
+        "weight": 30
+      },
+      {
+        "country": "br",
+        "weight": 2
+      },
+      {
+        "country": "co",
+        "weight": 2
+      }
+    ],
+    "export": [
+      {
+        "country": "ar",
+        "weight": 30
+      },
+      {
+        "country": "br",
+        "weight": 20
+      },
+      {
+        "country": "es",
+        "weight": 18
+      },
+      {
+        "country": "it",
+        "weight": 16
+      },
+      {
+        "country": "mx",
+        "weight": 14
+      },
+      {
+        "country": "pt",
+        "weight": 10
+      },
+      {
+        "country": "us",
+        "weight": 8
+      },
+      {
+        "country": "cl",
+        "weight": 6
+      },
+      {
+        "country": "gb",
+        "weight": 6
+      },
+      {
+        "country": "ru",
+        "weight": 6
+      },
+      {
+        "country": "tr",
+        "weight": 6
+      },
+      {
+        "country": "co",
+        "weight": 2
+      },
+      {
+        "country": "py",
+        "weight": 2
+      },
+      {
+        "country": "pe",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "it",
+        "share": 0.03
+      },
+      {
+        "country": "es",
+        "share": 0.02
+      }
+    ],
+    "foreign_share": 0.106
+  }
+}

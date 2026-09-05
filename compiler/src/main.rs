@@ -7,6 +7,7 @@
 //!   data/national_competitions.json
 //!   data/domestic_cups.json   (optional — domestic club cups, keyed by country slug)
 //!   data/history_clubs.json   (optional — id -> name for clubs only `history` reaches)
+//!   data/{country_code}/country.json  (optional — the country card + transfer priors)
 //!   data/{country_code}/names.json
 //!   data/{country_code}/{league_slug}/league.json
 //!   data/{country_code}/{league_slug}/{club_slug}/club.json
@@ -18,6 +19,8 @@
 //!     "version": "0.01",
 //!     "continents": [ ... ],
 //!     "countries":  [ ... ],
+//!     "country_transfers": [ { "code": "tr", "import": [...], "export": [...],
+//!                              "diaspora": [...], "foreign_share": 0.58 }, ... ],
 //!     "national_competitions": [ ... ],
 //!     "leagues":    [ { ...league.json fields..., "country_code": "mt" }, ... ],
 //!     "clubs":      [ { ...club.json fields...,   "country_code": "mt",
@@ -93,6 +96,8 @@ fn print_help() {
 struct Counts {
     continents: usize,
     countries: usize,
+    country_cards: usize,
+    country_transfers: usize,
     national_competitions: usize,
     domestic_cups: usize,
     history_clubs: usize,
@@ -136,6 +141,25 @@ fn main() -> Result<()> {
 
     let mut country_entries: Vec<_> = read_sorted_dir(&args.data_dir)?;
     country_entries.retain(|p| p.is_dir());
+
+    // Per-directory country cards. `data/{cc}/country.json` carries the whole
+    // `countries.json` row plus the transfer-market priors, and wins field by
+    // field over the master list — the same relationship leagues and clubs
+    // already have with their own directories. The priors are then lifted out
+    // into their own table, keyed by code, so the country rows stay the flat
+    // records every other loader expects.
+    let mut countries = countries;
+    let mut country_cards: Vec<(String, Value)> = Vec::new();
+    for country_dir in &country_entries {
+        let code = dir_name(country_dir)?.to_string();
+        let card_path = country_dir.join("country.json");
+        if card_path.is_file() {
+            country_cards.push((code, read_json(&card_path)?));
+        }
+    }
+    let country_card_count = country_cards.len();
+    apply_country_cards(&mut countries, country_cards)?;
+    let country_transfers = extract_country_transfers(&mut countries)?;
 
     for country_dir in country_entries {
         let country_code = dir_name(&country_dir)?.to_string();
@@ -337,6 +361,8 @@ fn main() -> Result<()> {
     let counts = Counts {
         continents: continents.len(),
         countries: countries.len(),
+        country_cards: country_card_count,
+        country_transfers: country_transfers.len(),
         national_competitions: national_competitions.len(),
         domestic_cups: domestic_cups.len(),
         history_clubs: history_clubs.len(),
@@ -354,6 +380,10 @@ fn main() -> Result<()> {
     root.insert(
         "national_competitions".into(),
         Value::Array(national_competitions),
+    );
+    root.insert(
+        "country_transfers".into(),
+        Value::Array(country_transfers),
     );
     root.insert("domestic_cups".into(), Value::Array(domestic_cups));
     root.insert("history_clubs".into(), Value::Array(history_clubs));
@@ -384,13 +414,16 @@ fn main() -> Result<()> {
     let compressed_size = fs::metadata(&args.out_file)?.len();
     println!(
         "wrote {}: v{} — {} continents, {} countries, {} national_competitions, \
-         {} domestic_cups, {} history_clubs, {} leagues, {} clubs, {} names, {} players \
+         {} country cards / {} transfer profiles, {} domestic_cups, {} history_clubs, \
+         {} leagues, {} clubs, {} names, {} players \
          ({:.2} MB uncompressed, {:.2} MB gzipped)",
         args.out_file.display(),
         OUTPUT_VERSION,
         counts.continents,
         counts.countries,
         counts.national_competitions,
+        counts.country_cards,
+        counts.country_transfers,
         counts.domestic_cups,
         counts.history_clubs,
         counts.leagues,
@@ -402,6 +435,171 @@ fn main() -> Result<()> {
     );
 
     Ok(())
+}
+
+/// Merge each `data/{cc}/country.json` over its `countries.json` row, field by
+/// field. A card names the country it belongs to by `code`, and the directory
+/// name has to agree — a card filed under the wrong directory would silently
+/// rewrite a different country's reputation.
+fn apply_country_cards(countries: &mut [Value], cards: Vec<(String, Value)>) -> Result<()> {
+    for (dir_code, card) in cards {
+        let obj = card
+            .as_object()
+            .with_context(|| format!("data/{dir_code}/country.json must be a JSON object"))?;
+        let card_code = obj
+            .get("code")
+            .and_then(|v| v.as_str())
+            .with_context(|| format!("data/{dir_code}/country.json has no `code`"))?
+            .to_ascii_lowercase();
+        if card_code != dir_code {
+            anyhow::bail!(
+                "data/{dir_code}/country.json declares code `{card_code}` — \
+                 the card and its directory must name the same country"
+            );
+        }
+        let row = countries
+            .iter_mut()
+            .find(|row| {
+                row.get("code")
+                    .and_then(|v| v.as_str())
+                    .map(|c| c.eq_ignore_ascii_case(&card_code))
+                    .unwrap_or(false)
+            })
+            .with_context(|| format!("data/{dir_code}/country.json has no countries.json row"))?;
+        let Some(row_obj) = row.as_object_mut() else {
+            continue;
+        };
+        for (key, value) in obj {
+            row_obj.insert(key.clone(), value.clone());
+        }
+    }
+    Ok(())
+}
+
+/// Lift every `transfers` block off the country rows into its own table keyed
+/// by code, validating it on the way out. The country rows go back to being
+/// the flat records the rest of the pipeline expects, and the runtime attaches
+/// the profile by code the way it already attaches the domestic cup by slug.
+///
+/// Validation is deliberately split: a malformed block (a weight that is not a
+/// number, a share outside 0..1) FAILS the build, because it would silently
+/// distort every corridor that reads it; a merely one-sided corridor (X exports
+/// to Y, Y does not import from X) only warns, because asymmetry is the whole
+/// point of the model and a genuinely one-way flow is common.
+fn extract_country_transfers(countries: &mut [Value]) -> Result<Vec<Value>> {
+    let known_codes: HashSet<String> = countries
+        .iter()
+        .filter_map(|row| row.get("code").and_then(|v| v.as_str()))
+        .map(|c| c.to_ascii_lowercase())
+        .collect();
+
+    let mut table: Vec<Value> = Vec::new();
+    let mut import_pairs: HashSet<(String, String)> = HashSet::new();
+    let mut export_pairs: HashSet<(String, String)> = HashSet::new();
+
+    for row in countries.iter_mut() {
+        let Some(row_obj) = row.as_object_mut() else {
+            continue;
+        };
+        let code = row_obj
+            .get("code")
+            .and_then(|v| v.as_str())
+            .unwrap_or_default()
+            .to_ascii_lowercase();
+        let Some(transfers) = row_obj.remove("transfers") else {
+            continue;
+        };
+        let block = transfers
+            .as_object()
+            .with_context(|| format!("country {code}: `transfers` must be an object"))?;
+
+        let mut entry = Map::new();
+        entry.insert("code".into(), Value::String(code.clone()));
+        if let Some(source) = block.get("source") {
+            entry.insert("source".into(), source.clone());
+        }
+
+        for list in ["import", "export"] {
+            let rows = block
+                .get(list)
+                .and_then(|v| v.as_array())
+                .cloned()
+                .unwrap_or_default();
+            for item in &rows {
+                let other = item
+                    .get("country")
+                    .and_then(|v| v.as_str())
+                    .with_context(|| format!("country {code}: {list} entry has no `country`"))?
+                    .to_ascii_lowercase();
+                if !known_codes.contains(&other) {
+                    anyhow::bail!("country {code}: {list} names unknown country `{other}`");
+                }
+                let weight = item
+                    .get("weight")
+                    .and_then(|v| v.as_f64())
+                    .with_context(|| format!("country {code}: {list} `{other}` has no weight"))?;
+                if weight <= 0.0 {
+                    anyhow::bail!("country {code}: {list} `{other}` weight must be > 0");
+                }
+                match list {
+                    "import" => import_pairs.insert((code.clone(), other)),
+                    _ => export_pairs.insert((code.clone(), other)),
+                };
+            }
+            entry.insert(list.into(), Value::Array(rows));
+        }
+
+        let diaspora = block
+            .get("diaspora")
+            .and_then(|v| v.as_array())
+            .cloned()
+            .unwrap_or_default();
+        for item in &diaspora {
+            let other = item
+                .get("country")
+                .and_then(|v| v.as_str())
+                .with_context(|| format!("country {code}: diaspora entry has no `country`"))?
+                .to_ascii_lowercase();
+            if !known_codes.contains(&other) {
+                anyhow::bail!("country {code}: diaspora names unknown country `{other}`");
+            }
+            let share = item
+                .get("share")
+                .and_then(|v| v.as_f64())
+                .with_context(|| format!("country {code}: diaspora `{other}` has no share"))?;
+            if !(0.0..=1.0).contains(&share) {
+                anyhow::bail!("country {code}: diaspora `{other}` share must be in 0..1");
+            }
+        }
+        entry.insert("diaspora".into(), Value::Array(diaspora));
+
+        if let Some(share) = block.get("foreign_share") {
+            let value = share
+                .as_f64()
+                .with_context(|| format!("country {code}: foreign_share must be a number"))?;
+            if !(0.0..=1.0).contains(&value) {
+                anyhow::bail!("country {code}: foreign_share must be in 0..1");
+            }
+            entry.insert("foreign_share".into(), share.clone());
+        }
+
+        table.push(Value::Object(entry));
+    }
+
+    // One-sided corridors: `export[X] contains Y` with no matching
+    // `import[Y] contains X`. Reported, never fatal.
+    let one_sided = export_pairs
+        .iter()
+        .filter(|(from, to)| !import_pairs.contains(&(to.clone(), from.clone())))
+        .count();
+    if one_sided > 0 {
+        println!(
+            "{one_sided} export corridors have no matching import entry on the \
+             destination card (expected for money corridors and unmodelled leagues)"
+        );
+    }
+
+    Ok(table)
 }
 
 fn read_sorted_dir(dir: &Path) -> Result<Vec<PathBuf>> {

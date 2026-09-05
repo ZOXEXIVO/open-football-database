@@ -1,0 +1,248 @@
+{
+  "id": 21,
+  "code": "gh",
+  "slug": "ghana",
+  "name": "Ghana",
+  "continent_id": 0,
+  "reputation": 5500,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#006b3f",
+  "foreground_color": "#fcd116",
+  "skin_colors": {
+    "white": 2,
+    "black": 88,
+    "metis": 10
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ng",
+        "weight": 30
+      },
+      {
+        "country": "ci",
+        "weight": 20
+      },
+      {
+        "country": "bf",
+        "weight": 15
+      },
+      {
+        "country": "tg",
+        "weight": 13
+      },
+      {
+        "country": "bj",
+        "weight": 10
+      },
+      {
+        "country": "ne",
+        "weight": 10
+      },
+      {
+        "country": "gn",
+        "weight": 8
+      },
+      {
+        "country": "lr",
+        "weight": 8
+      },
+      {
+        "country": "ml",
+        "weight": 8
+      },
+      {
+        "country": "cg",
+        "weight": 7
+      },
+      {
+        "country": "cm",
+        "weight": 7
+      },
+      {
+        "country": "ug",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "tr",
+        "weight": 30
+      },
+      {
+        "country": "gb",
+        "weight": 26
+      },
+      {
+        "country": "dk",
+        "weight": 23
+      },
+      {
+        "country": "no",
+        "weight": 23
+      },
+      {
+        "country": "pt",
+        "weight": 23
+      },
+      {
+        "country": "be",
+        "weight": 19
+      },
+      {
+        "country": "it",
+        "weight": 19
+      },
+      {
+        "country": "se",
+        "weight": 19
+      },
+      {
+        "country": "de",
+        "weight": 15
+      },
+      {
+        "country": "es",
+        "weight": 15
+      },
+      {
+        "country": "fr",
+        "weight": 15
+      },
+      {
+        "country": "rs",
+        "weight": 15
+      },
+      {
+        "country": "za",
+        "weight": 15
+      },
+      {
+        "country": "ae",
+        "weight": 11,
+        "kind": "money"
+      },
+      {
+        "country": "eg",
+        "weight": 11
+      },
+      {
+        "country": "sa",
+        "weight": 11,
+        "kind": "money"
+      },
+      {
+        "country": "us",
+        "weight": 10
+      },
+      {
+        "country": "fi",
+        "weight": 7
+      },
+      {
+        "country": "il",
+        "weight": 7
+      },
+      {
+        "country": "cy",
+        "weight": 5
+      },
+      {
+        "country": "at",
+        "weight": 4
+      },
+      {
+        "country": "ge",
+        "weight": 3
+      },
+      {
+        "country": "mt",
+        "weight": 3
+      },
+      {
+        "country": "am",
+        "weight": 3
+      },
+      {
+        "country": "sk",
+        "weight": 3
+      },
+      {
+        "country": "al",
+        "weight": 2
+      },
+      {
+        "country": "ke",
+        "weight": 2
+      },
+      {
+        "country": "ng",
+        "weight": 2
+      },
+      {
+        "country": "ua",
+        "weight": 2
+      },
+      {
+        "country": "cz",
+        "weight": 2
+      },
+      {
+        "country": "gr",
+        "weight": 2
+      },
+      {
+        "country": "nl",
+        "weight": 2
+      },
+      {
+        "country": "si",
+        "weight": 2
+      },
+      {
+        "country": "ch",
+        "weight": 2
+      },
+      {
+        "country": "hu",
+        "weight": 1
+      },
+      {
+        "country": "az",
+        "weight": 1
+      },
+      {
+        "country": "bg",
+        "weight": 1
+      },
+      {
+        "country": "br",
+        "weight": 1
+      },
+      {
+        "country": "dz",
+        "weight": 1
+      },
+      {
+        "country": "lv",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "gb",
+        "share": 0.04
+      },
+      {
+        "country": "de",
+        "share": 0.03
+      }
+    ],
+    "foreign_share": 0.06
+  }
+}

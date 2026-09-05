@@ -1,0 +1,242 @@
+{
+  "id": 34,
+  "code": "ma",
+  "slug": "morocco",
+  "name": "Morocco",
+  "continent_id": 0,
+  "reputation": 5400,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#c1272d",
+  "foreground_color": "#006233",
+  "skin_colors": {
+    "white": 20,
+    "black": 8,
+    "metis": 72
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ml",
+        "weight": 30
+      },
+      {
+        "country": "sn",
+        "weight": 30
+      },
+      {
+        "country": "ci",
+        "weight": 23
+      },
+      {
+        "country": "br",
+        "weight": 19
+      },
+      {
+        "country": "gn",
+        "weight": 19
+      },
+      {
+        "country": "cm",
+        "weight": 15
+      },
+      {
+        "country": "ng",
+        "weight": 15
+      },
+      {
+        "country": "cd",
+        "weight": 11
+      },
+      {
+        "country": "cg",
+        "weight": 11
+      },
+      {
+        "country": "dz",
+        "weight": 11
+      },
+      {
+        "country": "fr",
+        "weight": 11
+      },
+      {
+        "country": "gh",
+        "weight": 11
+      },
+      {
+        "country": "tn",
+        "weight": 11
+      },
+      {
+        "country": "mr",
+        "weight": 4
+      },
+      {
+        "country": "nl",
+        "weight": 3
+      },
+      {
+        "country": "bw",
+        "weight": 2
+      },
+      {
+        "country": "be",
+        "weight": 2
+      },
+      {
+        "country": "bo",
+        "weight": 1
+      },
+      {
+        "country": "es",
+        "weight": 1
+      },
+      {
+        "country": "pt",
+        "weight": 1
+      },
+      {
+        "country": "za",
+        "weight": 1
+      },
+      {
+        "country": "rw",
+        "weight": 1
+      },
+      {
+        "country": "tg",
+        "weight": 1
+      },
+      {
+        "country": "ao",
+        "weight": 1
+      },
+      {
+        "country": "bj",
+        "weight": 1
+      },
+      {
+        "country": "gp",
+        "weight": 1
+      },
+      {
+        "country": "it",
+        "weight": 1
+      },
+      {
+        "country": "jo",
+        "weight": 1
+      },
+      {
+        "country": "tz",
+        "weight": 1
+      },
+      {
+        "country": "us",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "fr",
+        "weight": 30
+      },
+      {
+        "country": "es",
+        "weight": 20
+      },
+      {
+        "country": "be",
+        "weight": 16
+      },
+      {
+        "country": "nl",
+        "weight": 16
+      },
+      {
+        "country": "sa",
+        "weight": 16,
+        "kind": "money"
+      },
+      {
+        "country": "ae",
+        "weight": 12,
+        "kind": "money"
+      },
+      {
+        "country": "qa",
+        "weight": 12,
+        "kind": "money"
+      },
+      {
+        "country": "it",
+        "weight": 10
+      },
+      {
+        "country": "tr",
+        "weight": 10
+      },
+      {
+        "country": "de",
+        "weight": 8
+      },
+      {
+        "country": "gb",
+        "weight": 8
+      },
+      {
+        "country": "pt",
+        "weight": 8
+      },
+      {
+        "country": "eg",
+        "weight": 6
+      },
+      {
+        "country": "kw",
+        "weight": 6,
+        "kind": "money"
+      },
+      {
+        "country": "gr",
+        "weight": 1
+      },
+      {
+        "country": "ru",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "fr",
+        "share": 0.2
+      },
+      {
+        "country": "nl",
+        "share": 0.15
+      },
+      {
+        "country": "be",
+        "share": 0.12
+      },
+      {
+        "country": "es",
+        "share": 0.08
+      },
+      {
+        "country": "it",
+        "share": 0.04
+      },
+      {
+        "country": "de",
+        "share": 0.03
+      }
+    ],
+    "foreign_share": 0.3
+  }
+}

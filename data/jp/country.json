@@ -1,0 +1,185 @@
+{
+  "id": 116,
+  "code": "jp",
+  "slug": "japan",
+  "name": "Japan",
+  "continent_id": 4,
+  "reputation": 6500,
+  "settings": {
+    "pricing": {
+      "price_level": 0.55
+    }
+  },
+  "background_color": "#002395",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 15,
+    "black": 1,
+    "metis": 84
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "br",
+        "weight": 30
+      },
+      {
+        "country": "kr",
+        "weight": 8
+      },
+      {
+        "country": "au",
+        "weight": 3
+      },
+      {
+        "country": "ar",
+        "weight": 3
+      },
+      {
+        "country": "es",
+        "weight": 2
+      },
+      {
+        "country": "th",
+        "weight": 2
+      },
+      {
+        "country": "co",
+        "weight": 1
+      },
+      {
+        "country": "de",
+        "weight": 1
+      },
+      {
+        "country": "gb",
+        "weight": 1
+      },
+      {
+        "country": "hr",
+        "weight": 1
+      },
+      {
+        "country": "ng",
+        "weight": 1
+      },
+      {
+        "country": "nl",
+        "weight": 1
+      },
+      {
+        "country": "pt",
+        "weight": 1
+      },
+      {
+        "country": "rs",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "de",
+        "weight": 30
+      },
+      {
+        "country": "be",
+        "weight": 23
+      },
+      {
+        "country": "nl",
+        "weight": 12
+      },
+      {
+        "country": "gb",
+        "weight": 9
+      },
+      {
+        "country": "es",
+        "weight": 8
+      },
+      {
+        "country": "id",
+        "weight": 7
+      },
+      {
+        "country": "at",
+        "weight": 6
+      },
+      {
+        "country": "fr",
+        "weight": 6
+      },
+      {
+        "country": "pt",
+        "weight": 6
+      },
+      {
+        "country": "au",
+        "weight": 5
+      },
+      {
+        "country": "it",
+        "weight": 5
+      },
+      {
+        "country": "kr",
+        "weight": 5
+      },
+      {
+        "country": "th",
+        "weight": 5
+      },
+      {
+        "country": "us",
+        "weight": 5
+      },
+      {
+        "country": "pl",
+        "weight": 3
+      },
+      {
+        "country": "se",
+        "weight": 2
+      },
+      {
+        "country": "ch",
+        "weight": 2
+      },
+      {
+        "country": "dk",
+        "weight": 2
+      },
+      {
+        "country": "am",
+        "weight": 1
+      },
+      {
+        "country": "uz",
+        "weight": 1
+      },
+      {
+        "country": "hr",
+        "weight": 1
+      },
+      {
+        "country": "lt",
+        "weight": 1
+      },
+      {
+        "country": "ae",
+        "weight": 1
+      },
+      {
+        "country": "fi",
+        "weight": 1
+      },
+      {
+        "country": "rs",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.15
+  }
+}

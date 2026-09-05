@@ -1,0 +1,176 @@
+{
+  "id": 114,
+  "code": "ir",
+  "slug": "iran",
+  "name": "Iran",
+  "continent_id": 4,
+  "reputation": 5500,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#ffffff",
+  "foreground_color": "#239f40",
+  "skin_colors": {
+    "white": 25,
+    "black": 3,
+    "metis": 72
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "uz",
+        "weight": 30
+      },
+      {
+        "country": "hr",
+        "weight": 21
+      },
+      {
+        "country": "il",
+        "weight": 14
+      },
+      {
+        "country": "es",
+        "weight": 8
+      },
+      {
+        "country": "fr",
+        "weight": 8
+      },
+      {
+        "country": "br",
+        "weight": 6
+      },
+      {
+        "country": "al",
+        "weight": 4
+      },
+      {
+        "country": "ar",
+        "weight": 4
+      },
+      {
+        "country": "ge",
+        "weight": 4
+      },
+      {
+        "country": "pt",
+        "weight": 4
+      },
+      {
+        "country": "cg",
+        "weight": 3
+      },
+      {
+        "country": "gr",
+        "weight": 3
+      },
+      {
+        "country": "ht",
+        "weight": 3
+      },
+      {
+        "country": "hu",
+        "weight": 3
+      },
+      {
+        "country": "me",
+        "weight": 3
+      },
+      {
+        "country": "se",
+        "weight": 3
+      },
+      {
+        "country": "tj",
+        "weight": 3
+      },
+      {
+        "country": "gh",
+        "weight": 1
+      },
+      {
+        "country": "ma",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "qa",
+        "weight": 30,
+        "kind": "money"
+      },
+      {
+        "country": "ae",
+        "weight": 24,
+        "kind": "money"
+      },
+      {
+        "country": "tr",
+        "weight": 24
+      },
+      {
+        "country": "be",
+        "weight": 15
+      },
+      {
+        "country": "kw",
+        "weight": 15,
+        "kind": "money"
+      },
+      {
+        "country": "pt",
+        "weight": 15
+      },
+      {
+        "country": "nl",
+        "weight": 12
+      },
+      {
+        "country": "de",
+        "weight": 9
+      },
+      {
+        "country": "gr",
+        "weight": 9
+      },
+      {
+        "country": "hr",
+        "weight": 9
+      },
+      {
+        "country": "ru",
+        "weight": 9
+      },
+      {
+        "country": "uz",
+        "weight": 7
+      },
+      {
+        "country": "pl",
+        "weight": 5
+      },
+      {
+        "country": "jp",
+        "weight": 3
+      },
+      {
+        "country": "by",
+        "weight": 2
+      },
+      {
+        "country": "ua",
+        "weight": 2
+      },
+      {
+        "country": "gb",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.1
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "id": 762,
+  "code": "cy",
+  "slug": "cyprus",
+  "name": "Cyprus",
+  "continent_id": 1,
+  "reputation": 4200,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#003f87",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 75,
+    "black": 3,
+    "metis": 22
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "br",
+        "weight": 30
+      },
+      {
+        "country": "gr",
+        "weight": 28
+      },
+      {
+        "country": "pt",
+        "weight": 22
+      },
+      {
+        "country": "es",
+        "weight": 20
+      },
+      {
+        "country": "rs",
+        "weight": 10
+      },
+      {
+        "country": "ar",
+        "weight": 9
+      },
+      {
+        "country": "nl",
+        "weight": 7
+      },
+      {
+        "country": "ng",
+        "weight": 7
+      },
+      {
+        "country": "hr",
+        "weight": 6
+      },
+      {
+        "country": "gh",
+        "weight": 6
+      },
+      {
+        "country": "fr",
+        "weight": 5
+      },
+      {
+        "country": "gb",
+        "weight": 4
+      },
+      {
+        "country": "se",
+        "weight": 4
+      },
+      {
+        "country": "si",
+        "weight": 4
+      },
+      {
+        "country": "ua",
+        "weight": 3
+      },
+      {
+        "country": "hu",
+        "weight": 3
+      },
+      {
+        "country": "cm",
+        "weight": 2
+      },
+      {
+        "country": "sn",
+        "weight": 2
+      },
+      {
+        "country": "ba",
+        "weight": 2
+      },
+      {
+        "country": "ro",
+        "weight": 2
+      },
+      {
+        "country": "cv",
+        "weight": 2
+      },
+      {
+        "country": "de",
+        "weight": 2
+      },
+      {
+        "country": "il",
+        "weight": 2
+      },
+      {
+        "country": "mk",
+        "weight": 2
+      },
+      {
+        "country": "ga",
+        "weight": 2
+      },
+      {
+        "country": "gw",
+        "weight": 2
+      },
+      {
+        "country": "at",
+        "weight": 1
+      },
+      {
+        "country": "it",
+        "weight": 1
+      },
+      {
+        "country": "no",
+        "weight": 1
+      },
+      {
+        "country": "pl",
+        "weight": 1
+      },
+      {
+        "country": "ao",
+        "weight": 1
+      },
+      {
+        "country": "cz",
+        "weight": 1
+      },
+      {
+        "country": "lb",
+        "weight": 1
+      },
+      {
+        "country": "ge",
+        "weight": 1
+      },
+      {
+        "country": "ma",
+        "weight": 1
+      },
+      {
+        "country": "ve",
+        "weight": 1
+      },
+      {
+        "country": "be",
+        "weight": 1
+      },
+      {
+        "country": "me",
+        "weight": 1
+      },
+      {
+        "country": "ru",
+        "weight": 1
+      },
+      {
+        "country": "sk",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "gr",
+        "weight": 30
+      },
+      {
+        "country": "pt",
+        "weight": 10
+      },
+      {
+        "country": "gb",
+        "weight": 8
+      },
+      {
+        "country": "de",
+        "weight": 5
+      },
+      {
+        "country": "it",
+        "weight": 5
+      },
+      {
+        "country": "pl",
+        "weight": 4
+      },
+      {
+        "country": "tr",
+        "weight": 3
+      },
+      {
+        "country": "bg",
+        "weight": 3
+      },
+      {
+        "country": "nl",
+        "weight": 3
+      },
+      {
+        "country": "be",
+        "weight": 2
+      },
+      {
+        "country": "rs",
+        "weight": 2
+      },
+      {
+        "country": "ge",
+        "weight": 1
+      },
+      {
+        "country": "no",
+        "weight": 1
+      },
+      {
+        "country": "es",
+        "weight": 1
+      },
+      {
+        "country": "il",
+        "weight": 1
+      },
+      {
+        "country": "se",
+        "weight": 1
+      },
+      {
+        "country": "sk",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.62
+  }
+}

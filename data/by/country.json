@@ -1,0 +1,98 @@
+{
+  "id": 758,
+  "code": "by",
+  "slug": "belarus",
+  "name": "Belarus",
+  "continent_id": 1,
+  "reputation": 4000,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#c8313e",
+  "foreground_color": "#4aa657",
+  "skin_colors": {
+    "white": 92,
+    "black": 2,
+    "metis": 6
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ru",
+        "weight": 30
+      },
+      {
+        "country": "ng",
+        "weight": 1
+      },
+      {
+        "country": "ua",
+        "weight": 1
+      },
+      {
+        "country": "cm",
+        "weight": 1
+      },
+      {
+        "country": "rs",
+        "weight": 1
+      },
+      {
+        "country": "kg",
+        "weight": 1
+      },
+      {
+        "country": "ci",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "ru",
+        "weight": 30
+      },
+      {
+        "country": "kz",
+        "weight": 7
+      },
+      {
+        "country": "pl",
+        "weight": 6
+      },
+      {
+        "country": "lt",
+        "weight": 4
+      },
+      {
+        "country": "lv",
+        "weight": 4
+      },
+      {
+        "country": "tr",
+        "weight": 4
+      },
+      {
+        "country": "uz",
+        "weight": 4
+      },
+      {
+        "country": "hu",
+        "weight": 2
+      },
+      {
+        "country": "bg",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "ru",
+        "share": 0.04
+      }
+    ],
+    "foreign_share": 0.129
+  }
+}

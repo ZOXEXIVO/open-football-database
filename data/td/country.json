@@ -1,0 +1,126 @@
+{
+  "id": 14,
+  "code": "td",
+  "slug": "chad",
+  "name": "Chad",
+  "continent_id": 0,
+  "reputation": 1500,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#002664",
+  "foreground_color": "#fecb00",
+  "skin_colors": {
+    "white": 2,
+    "black": 88,
+    "metis": 10
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "cm",
+        "weight": 30
+      },
+      {
+        "country": "ma",
+        "weight": 30
+      },
+      {
+        "country": "cf",
+        "weight": 24
+      },
+      {
+        "country": "ne",
+        "weight": 15
+      },
+      {
+        "country": "sd",
+        "weight": 12
+      },
+      {
+        "country": "ng",
+        "weight": 9
+      },
+      {
+        "country": "be",
+        "weight": 6
+      }
+    ],
+    "export": [
+      {
+        "country": "cm",
+        "weight": 30
+      },
+      {
+        "country": "fr",
+        "weight": 24
+      },
+      {
+        "country": "ma",
+        "weight": 12
+      },
+      {
+        "country": "tn",
+        "weight": 12
+      },
+      {
+        "country": "be",
+        "weight": 9
+      },
+      {
+        "country": "dz",
+        "weight": 9
+      },
+      {
+        "country": "ae",
+        "weight": 9
+      },
+      {
+        "country": "am",
+        "weight": 9
+      },
+      {
+        "country": "gr",
+        "weight": 9
+      },
+      {
+        "country": "za",
+        "weight": 9
+      },
+      {
+        "country": "sa",
+        "weight": 6
+      },
+      {
+        "country": "co",
+        "weight": 1
+      },
+      {
+        "country": "id",
+        "weight": 1
+      },
+      {
+        "country": "it",
+        "weight": 1
+      },
+      {
+        "country": "ua",
+        "weight": 1
+      },
+      {
+        "country": "uy",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "fr",
+        "share": 0.1
+      }
+    ],
+    "foreign_share": 0.08
+  }
+}

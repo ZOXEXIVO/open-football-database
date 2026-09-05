@@ -1,0 +1,182 @@
+{
+  "id": 144,
+  "code": "uz",
+  "slug": "uzbekistan",
+  "name": "Uzbekistan",
+  "continent_id": 4,
+  "reputation": 3500,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#1eb53a",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 30,
+    "black": 2,
+    "metis": 68
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "rs",
+        "weight": 30
+      },
+      {
+        "country": "ge",
+        "weight": 20
+      },
+      {
+        "country": "me",
+        "weight": 10
+      },
+      {
+        "country": "ru",
+        "weight": 6
+      },
+      {
+        "country": "br",
+        "weight": 4
+      },
+      {
+        "country": "ng",
+        "weight": 4
+      },
+      {
+        "country": "ua",
+        "weight": 4
+      },
+      {
+        "country": "by",
+        "weight": 2
+      },
+      {
+        "country": "jp",
+        "weight": 2
+      },
+      {
+        "country": "mk",
+        "weight": 2
+      },
+      {
+        "country": "iq",
+        "weight": 1
+      },
+      {
+        "country": "ir",
+        "weight": 1
+      },
+      {
+        "country": "it",
+        "weight": 1
+      },
+      {
+        "country": "tj",
+        "weight": 1
+      },
+      {
+        "country": "ba",
+        "weight": 1
+      },
+      {
+        "country": "gh",
+        "weight": 1
+      },
+      {
+        "country": "bg",
+        "weight": 1
+      },
+      {
+        "country": "hr",
+        "weight": 1
+      },
+      {
+        "country": "kg",
+        "weight": 1
+      },
+      {
+        "country": "lr",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "ir",
+        "weight": 30
+      },
+      {
+        "country": "ru",
+        "weight": 30
+      },
+      {
+        "country": "kz",
+        "weight": 16
+      },
+      {
+        "country": "ae",
+        "weight": 10,
+        "kind": "money"
+      },
+      {
+        "country": "kr",
+        "weight": 10
+      },
+      {
+        "country": "sa",
+        "weight": 8,
+        "kind": "money"
+      },
+      {
+        "country": "cn",
+        "weight": 6,
+        "kind": "money"
+      },
+      {
+        "country": "kg",
+        "weight": 6
+      },
+      {
+        "country": "qa",
+        "weight": 6,
+        "kind": "money"
+      },
+      {
+        "country": "tr",
+        "weight": 6
+      },
+      {
+        "country": "by",
+        "weight": 4
+      },
+      {
+        "country": "ge",
+        "weight": 4
+      },
+      {
+        "country": "id",
+        "weight": 4
+      },
+      {
+        "country": "pl",
+        "weight": 4
+      },
+      {
+        "country": "gb",
+        "weight": 3
+      },
+      {
+        "country": "az",
+        "weight": 2
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "ru",
+        "share": 0.04
+      }
+    ],
+    "foreign_share": 0.136
+  }
+}

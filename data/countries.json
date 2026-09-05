@@ -17,6 +17,38 @@
       "white": 8,
       "black": 12,
       "metis": 80
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "id",
+          "weight": 30
+        },
+        {
+          "country": "lt",
+          "weight": 30
+        },
+        {
+          "country": "fi",
+          "weight": 4
+        },
+        {
+          "country": "ge",
+          "weight": 4
+        },
+        {
+          "country": "pl",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -97,6 +129,18 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "es",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -117,6 +161,42 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "pt",
+          "weight": 30
+        },
+        {
+          "country": "ru",
+          "weight": 1
+        },
+        {
+          "country": "fr",
+          "weight": 1
+        },
+        {
+          "country": "gb",
+          "weight": 1
+        },
+        {
+          "country": "br",
+          "weight": 1
+        },
+        {
+          "country": "cy",
+          "weight": 1
+        },
+        {
+          "country": "it",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -157,6 +237,22 @@
       "white": 10,
       "black": 55,
       "metis": 35
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "us",
+          "weight": 8
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -217,6 +313,18 @@
       "white": 10,
       "black": 55,
       "metis": 35
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "nl",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -317,6 +425,22 @@
       "white": 25,
       "black": 3,
       "metis": 72
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "cz",
+          "weight": 30
+        },
+        {
+          "country": "id",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -337,6 +461,18 @@
       "white": 8,
       "black": 12,
       "metis": 80
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -357,6 +493,38 @@
       "white": 10,
       "black": 55,
       "metis": 35
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "hr",
+          "weight": 30
+        },
+        {
+          "country": "at",
+          "weight": 4
+        },
+        {
+          "country": "ge",
+          "weight": 4
+        },
+        {
+          "country": "hu",
+          "weight": 4
+        },
+        {
+          "country": "pl",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -437,6 +605,94 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "ng",
+          "weight": 11
+        },
+        {
+          "country": "az",
+          "weight": 8
+        },
+        {
+          "country": "bg",
+          "weight": 8
+        },
+        {
+          "country": "de",
+          "weight": 7
+        },
+        {
+          "country": "tr",
+          "weight": 7
+        },
+        {
+          "country": "gb",
+          "weight": 6
+        },
+        {
+          "country": "pt",
+          "weight": 6
+        },
+        {
+          "country": "ro",
+          "weight": 6
+        },
+        {
+          "country": "ae",
+          "weight": 5
+        },
+        {
+          "country": "ch",
+          "weight": 3
+        },
+        {
+          "country": "eg",
+          "weight": 3
+        },
+        {
+          "country": "am",
+          "weight": 2
+        },
+        {
+          "country": "it",
+          "weight": 2
+        },
+        {
+          "country": "ma",
+          "weight": 2
+        },
+        {
+          "country": "se",
+          "weight": 2
+        },
+        {
+          "country": "cz",
+          "weight": 2
+        },
+        {
+          "country": "ge",
+          "weight": 2
+        },
+        {
+          "country": "sa",
+          "weight": 2
+        },
+        {
+          "country": "cy",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -457,6 +713,18 @@
       "white": 10,
       "black": 55,
       "metis": 35
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -497,6 +765,58 @@
       "white": 12,
       "black": 3,
       "metis": 85
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "ar",
+          "weight": 30
+        },
+        {
+          "country": "br",
+          "weight": 8
+        },
+        {
+          "country": "bg",
+          "weight": 2
+        },
+        {
+          "country": "ma",
+          "weight": 2
+        },
+        {
+          "country": "ru",
+          "weight": 2
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        },
+        {
+          "country": "pe",
+          "weight": 1
+        },
+        {
+          "country": "ua",
+          "weight": 1
+        },
+        {
+          "country": "us",
+          "weight": 1
+        },
+        {
+          "country": "uy",
+          "weight": 1
+        },
+        {
+          "country": "sa",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -517,6 +837,115 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "authored",
+      "import": [],
+      "export": [
+        {
+          "country": "hr",
+          "weight": 30
+        },
+        {
+          "country": "de",
+          "weight": 20
+        },
+        {
+          "country": "rs",
+          "weight": 20
+        },
+        {
+          "country": "at",
+          "weight": 18
+        },
+        {
+          "country": "it",
+          "weight": 15
+        },
+        {
+          "country": "tr",
+          "weight": 15
+        },
+        {
+          "country": "ch",
+          "weight": 13
+        },
+        {
+          "country": "gr",
+          "weight": 10
+        },
+        {
+          "country": "si",
+          "weight": 10
+        },
+        {
+          "country": "cy",
+          "weight": 8
+        },
+        {
+          "country": "hu",
+          "weight": 8
+        },
+        {
+          "country": "ru",
+          "weight": 8
+        },
+        {
+          "country": "pl",
+          "weight": 3
+        },
+        {
+          "country": "gb",
+          "weight": 3
+        },
+        {
+          "country": "se",
+          "weight": 2
+        },
+        {
+          "country": "pt",
+          "weight": 2
+        },
+        {
+          "country": "be",
+          "weight": 2
+        },
+        {
+          "country": "cz",
+          "weight": 2
+        },
+        {
+          "country": "ro",
+          "weight": 2
+        },
+        {
+          "country": "sk",
+          "weight": 2
+        }
+      ],
+      "diaspora": [
+        {
+          "country": "de",
+          "share": 0.06
+        },
+        {
+          "country": "at",
+          "share": 0.05
+        },
+        {
+          "country": "ch",
+          "share": 0.04
+        },
+        {
+          "country": "se",
+          "share": 0.04
+        },
+        {
+          "country": "hr",
+          "share": 0.04
+        }
+      ],
+      "foreign_share": 0.15
     }
   },
   {
@@ -537,6 +966,58 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "ma",
+          "weight": 30
+        },
+        {
+          "country": "dz",
+          "weight": 7
+        },
+        {
+          "country": "hr",
+          "weight": 7
+        },
+        {
+          "country": "id",
+          "weight": 7
+        },
+        {
+          "country": "pt",
+          "weight": 7
+        },
+        {
+          "country": "ae",
+          "weight": 1
+        },
+        {
+          "country": "au",
+          "weight": 1
+        },
+        {
+          "country": "es",
+          "weight": 1
+        },
+        {
+          "country": "gb",
+          "weight": 1
+        },
+        {
+          "country": "ng",
+          "weight": 1
+        },
+        {
+          "country": "za",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -637,6 +1118,94 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "it",
+          "weight": 19
+        },
+        {
+          "country": "gb",
+          "weight": 11
+        },
+        {
+          "country": "pt",
+          "weight": 9
+        },
+        {
+          "country": "at",
+          "weight": 6
+        },
+        {
+          "country": "nl",
+          "weight": 6
+        },
+        {
+          "country": "de",
+          "weight": 5
+        },
+        {
+          "country": "dk",
+          "weight": 5
+        },
+        {
+          "country": "az",
+          "weight": 4
+        },
+        {
+          "country": "sk",
+          "weight": 4
+        },
+        {
+          "country": "us",
+          "weight": 4
+        },
+        {
+          "country": "be",
+          "weight": 3
+        },
+        {
+          "country": "am",
+          "weight": 2
+        },
+        {
+          "country": "by",
+          "weight": 2
+        },
+        {
+          "country": "fi",
+          "weight": 2
+        },
+        {
+          "country": "hr",
+          "weight": 2
+        },
+        {
+          "country": "il",
+          "weight": 2
+        },
+        {
+          "country": "ae",
+          "weight": 1
+        },
+        {
+          "country": "cy",
+          "weight": 1
+        },
+        {
+          "country": "cz",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -657,6 +1226,58 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "id",
+          "weight": 30
+        },
+        {
+          "country": "no",
+          "weight": 30
+        },
+        {
+          "country": "tr",
+          "weight": 15
+        },
+        {
+          "country": "az",
+          "weight": 11
+        },
+        {
+          "country": "cz",
+          "weight": 11
+        },
+        {
+          "country": "eg",
+          "weight": 11
+        },
+        {
+          "country": "fr",
+          "weight": 11
+        },
+        {
+          "country": "ke",
+          "weight": 7
+        },
+        {
+          "country": "be",
+          "weight": 1
+        },
+        {
+          "country": "pt",
+          "weight": 1
+        },
+        {
+          "country": "ru",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -717,6 +1338,46 @@
       "white": 65,
       "black": 10,
       "metis": 25
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "us",
+          "weight": 30
+        },
+        {
+          "country": "gb",
+          "weight": 7
+        },
+        {
+          "country": "it",
+          "weight": 4
+        },
+        {
+          "country": "fr",
+          "weight": 2
+        },
+        {
+          "country": "pt",
+          "weight": 1
+        },
+        {
+          "country": "hr",
+          "weight": 1
+        },
+        {
+          "country": "es",
+          "weight": 1
+        },
+        {
+          "country": "nl",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -737,6 +1398,78 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "pt",
+          "weight": 30
+        },
+        {
+          "country": "fr",
+          "weight": 3
+        },
+        {
+          "country": "tr",
+          "weight": 3
+        },
+        {
+          "country": "bg",
+          "weight": 2
+        },
+        {
+          "country": "cy",
+          "weight": 2
+        },
+        {
+          "country": "sa",
+          "weight": 1
+        },
+        {
+          "country": "nl",
+          "weight": 1
+        },
+        {
+          "country": "gb",
+          "weight": 1
+        },
+        {
+          "country": "il",
+          "weight": 1
+        },
+        {
+          "country": "es",
+          "weight": 1
+        },
+        {
+          "country": "mt",
+          "weight": 1
+        },
+        {
+          "country": "ro",
+          "weight": 1
+        },
+        {
+          "country": "ru",
+          "weight": 1
+        },
+        {
+          "country": "it",
+          "weight": 1
+        },
+        {
+          "country": "ua",
+          "weight": 1
+        },
+        {
+          "country": "us",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -757,6 +1490,22 @@
       "white": 10,
       "black": 55,
       "metis": 35
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "hr",
+          "weight": 30
+        },
+        {
+          "country": "ir",
+          "weight": 6
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -777,6 +1526,58 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "cm",
+          "weight": 7
+        },
+        {
+          "country": "bg",
+          "weight": 2
+        },
+        {
+          "country": "rs",
+          "weight": 2
+        },
+        {
+          "country": "be",
+          "weight": 2
+        },
+        {
+          "country": "sk",
+          "weight": 2
+        },
+        {
+          "country": "by",
+          "weight": 1
+        },
+        {
+          "country": "hu",
+          "weight": 1
+        },
+        {
+          "country": "ng",
+          "weight": 1
+        },
+        {
+          "country": "es",
+          "weight": 1
+        },
+        {
+          "country": "ua",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -837,6 +1638,38 @@
       "white": 15,
       "black": 1,
       "metis": 84
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "at",
+          "weight": 7
+        },
+        {
+          "country": "hr",
+          "weight": 7
+        },
+        {
+          "country": "nz",
+          "weight": 7
+        },
+        {
+          "country": "pt",
+          "weight": 4
+        },
+        {
+          "country": "rs",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -857,6 +1690,18 @@
       "white": 15,
       "black": 1,
       "metis": 84
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "se",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -897,6 +1742,50 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "bg",
+          "weight": 2
+        },
+        {
+          "country": "gb",
+          "weight": 2
+        },
+        {
+          "country": "sa",
+          "weight": 2
+        },
+        {
+          "country": "pt",
+          "weight": 1
+        },
+        {
+          "country": "am",
+          "weight": 1
+        },
+        {
+          "country": "ae",
+          "weight": 1
+        },
+        {
+          "country": "cy",
+          "weight": 1
+        },
+        {
+          "country": "de",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -917,9 +1806,99 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "ma",
+          "weight": 17
+        },
+        {
+          "country": "tr",
+          "weight": 12
+        },
+        {
+          "country": "dz",
+          "weight": 9
+        },
+        {
+          "country": "gb",
+          "weight": 7
+        },
+        {
+          "country": "sa",
+          "weight": 6
+        },
+        {
+          "country": "ke",
+          "weight": 6
+        },
+        {
+          "country": "il",
+          "weight": 4
+        },
+        {
+          "country": "ua",
+          "weight": 4
+        },
+        {
+          "country": "id",
+          "weight": 3
+        },
+        {
+          "country": "ge",
+          "weight": 2
+        },
+        {
+          "country": "mt",
+          "weight": 2
+        },
+        {
+          "country": "al",
+          "weight": 2
+        },
+        {
+          "country": "be",
+          "weight": 2
+        },
+        {
+          "country": "bg",
+          "weight": 2
+        },
+        {
+          "country": "ae",
+          "weight": 1
+        },
+        {
+          "country": "cy",
+          "weight": 1
+        },
+        {
+          "country": "lv",
+          "weight": 1
+        },
+        {
+          "country": "ru",
+          "weight": 1
+        },
+        {
+          "country": "am",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
-  { "id": 53, "code": "cd",
+  {
+    "id": 53,
+    "code": "cd",
     "slug": "congo dr",
     "name": "Congo DR",
     "continent_id": 1,
@@ -935,6 +1914,94 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "gb",
+          "weight": 24
+        },
+        {
+          "country": "be",
+          "weight": 21
+        },
+        {
+          "country": "tr",
+          "weight": 7
+        },
+        {
+          "country": "ke",
+          "weight": 5
+        },
+        {
+          "country": "ch",
+          "weight": 4
+        },
+        {
+          "country": "pt",
+          "weight": 4
+        },
+        {
+          "country": "de",
+          "weight": 3
+        },
+        {
+          "country": "es",
+          "weight": 3
+        },
+        {
+          "country": "sa",
+          "weight": 3
+        },
+        {
+          "country": "ae",
+          "weight": 2
+        },
+        {
+          "country": "ma",
+          "weight": 2
+        },
+        {
+          "country": "gr",
+          "weight": 2
+        },
+        {
+          "country": "za",
+          "weight": 2
+        },
+        {
+          "country": "nl",
+          "weight": 2
+        },
+        {
+          "country": "it",
+          "weight": 2
+        },
+        {
+          "country": "dz",
+          "weight": 1
+        },
+        {
+          "country": "ro",
+          "weight": 1
+        },
+        {
+          "country": "at",
+          "weight": 1
+        },
+        {
+          "country": "cy",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -975,6 +2042,94 @@
       "white": 12,
       "black": 5,
       "metis": 83
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "us",
+          "weight": 30
+        },
+        {
+          "country": "pt",
+          "weight": 18
+        },
+        {
+          "country": "al",
+          "weight": 8
+        },
+        {
+          "country": "mt",
+          "weight": 6
+        },
+        {
+          "country": "mx",
+          "weight": 6
+        },
+        {
+          "country": "ru",
+          "weight": 6
+        },
+        {
+          "country": "ar",
+          "weight": 3
+        },
+        {
+          "country": "fr",
+          "weight": 3
+        },
+        {
+          "country": "gr",
+          "weight": 3
+        },
+        {
+          "country": "au",
+          "weight": 2
+        },
+        {
+          "country": "dk",
+          "weight": 2
+        },
+        {
+          "country": "ge",
+          "weight": 2
+        },
+        {
+          "country": "ro",
+          "weight": 2
+        },
+        {
+          "country": "ua",
+          "weight": 2
+        },
+        {
+          "country": "cz",
+          "weight": 1
+        },
+        {
+          "country": "gb",
+          "weight": 1
+        },
+        {
+          "country": "id",
+          "weight": 1
+        },
+        {
+          "country": "uy",
+          "weight": 1
+        },
+        {
+          "country": "es",
+          "weight": 1
+        },
+        {
+          "country": "nl",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -995,6 +2150,94 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "it",
+          "weight": 14
+        },
+        {
+          "country": "pt",
+          "weight": 12
+        },
+        {
+          "country": "gb",
+          "weight": 9
+        },
+        {
+          "country": "be",
+          "weight": 6
+        },
+        {
+          "country": "tr",
+          "weight": 5
+        },
+        {
+          "country": "se",
+          "weight": 3
+        },
+        {
+          "country": "il",
+          "weight": 3
+        },
+        {
+          "country": "ae",
+          "weight": 3
+        },
+        {
+          "country": "rs",
+          "weight": 3
+        },
+        {
+          "country": "am",
+          "weight": 3
+        },
+        {
+          "country": "dz",
+          "weight": 2
+        },
+        {
+          "country": "es",
+          "weight": 2
+        },
+        {
+          "country": "sa",
+          "weight": 2
+        },
+        {
+          "country": "eg",
+          "weight": 2
+        },
+        {
+          "country": "at",
+          "weight": 2
+        },
+        {
+          "country": "dk",
+          "weight": 2
+        },
+        {
+          "country": "us",
+          "weight": 2
+        },
+        {
+          "country": "bg",
+          "weight": 2
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1035,6 +2278,38 @@
       "white": 30,
       "black": 30,
       "metis": 40
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "it",
+          "weight": 30
+        },
+        {
+          "country": "pt",
+          "weight": 23
+        },
+        {
+          "country": "gb",
+          "weight": 16
+        },
+        {
+          "country": "es",
+          "weight": 2
+        },
+        {
+          "country": "cy",
+          "weight": 1
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1055,6 +2330,34 @@
       "white": 8,
       "black": 45,
       "metis": 47
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "nl",
+          "weight": 30
+        },
+        {
+          "country": "gb",
+          "weight": 2
+        },
+        {
+          "country": "tr",
+          "weight": 1
+        },
+        {
+          "country": "be",
+          "weight": 1
+        },
+        {
+          "country": "il",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1175,6 +2478,94 @@
       "white": 15,
       "black": 25,
       "metis": 60
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "es",
+          "weight": 30
+        },
+        {
+          "country": "pt",
+          "weight": 19
+        },
+        {
+          "country": "us",
+          "weight": 19
+        },
+        {
+          "country": "gb",
+          "weight": 9
+        },
+        {
+          "country": "it",
+          "weight": 9
+        },
+        {
+          "country": "al",
+          "weight": 7
+        },
+        {
+          "country": "az",
+          "weight": 7
+        },
+        {
+          "country": "bg",
+          "weight": 7
+        },
+        {
+          "country": "ru",
+          "weight": 7
+        },
+        {
+          "country": "uy",
+          "weight": 7
+        },
+        {
+          "country": "jp",
+          "weight": 4
+        },
+        {
+          "country": "pl",
+          "weight": 4
+        },
+        {
+          "country": "fr",
+          "weight": 2
+        },
+        {
+          "country": "ae",
+          "weight": 1
+        },
+        {
+          "country": "ch",
+          "weight": 1
+        },
+        {
+          "country": "de",
+          "weight": 1
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        },
+        {
+          "country": "hu",
+          "weight": 1
+        },
+        {
+          "country": "il",
+          "weight": 1
+        },
+        {
+          "country": "nl",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1195,6 +2586,94 @@
       "white": 15,
       "black": 12,
       "metis": 73
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "br",
+          "weight": 30
+        },
+        {
+          "country": "mx",
+          "weight": 23
+        },
+        {
+          "country": "us",
+          "weight": 15
+        },
+        {
+          "country": "ar",
+          "weight": 12
+        },
+        {
+          "country": "pe",
+          "weight": 12
+        },
+        {
+          "country": "gb",
+          "weight": 12
+        },
+        {
+          "country": "it",
+          "weight": 5
+        },
+        {
+          "country": "co",
+          "weight": 3
+        },
+        {
+          "country": "es",
+          "weight": 3
+        },
+        {
+          "country": "pt",
+          "weight": 3
+        },
+        {
+          "country": "gr",
+          "weight": 2
+        },
+        {
+          "country": "be",
+          "weight": 2
+        },
+        {
+          "country": "fr",
+          "weight": 2
+        },
+        {
+          "country": "ve",
+          "weight": 2
+        },
+        {
+          "country": "ua",
+          "weight": 2
+        },
+        {
+          "country": "de",
+          "weight": 2
+        },
+        {
+          "country": "ru",
+          "weight": 1
+        },
+        {
+          "country": "cl",
+          "weight": 1
+        },
+        {
+          "country": "cz",
+          "weight": 1
+        },
+        {
+          "country": "si",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1235,6 +2714,34 @@
       "white": 12,
       "black": 5,
       "metis": 83
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "us",
+          "weight": 30
+        },
+        {
+          "country": "ar",
+          "weight": 13
+        },
+        {
+          "country": "co",
+          "weight": 8
+        },
+        {
+          "country": "ru",
+          "weight": 6
+        },
+        {
+          "country": "be",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1275,6 +2782,90 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "es",
+          "weight": 30
+        },
+        {
+          "country": "it",
+          "weight": 30
+        },
+        {
+          "country": "pt",
+          "weight": 14
+        },
+        {
+          "country": "cz",
+          "weight": 12
+        },
+        {
+          "country": "dk",
+          "weight": 5
+        },
+        {
+          "country": "ee",
+          "weight": 5
+        },
+        {
+          "country": "id",
+          "weight": 5
+        },
+        {
+          "country": "is",
+          "weight": 5
+        },
+        {
+          "country": "mx",
+          "weight": 5
+        },
+        {
+          "country": "al",
+          "weight": 3
+        },
+        {
+          "country": "sa",
+          "weight": 3
+        },
+        {
+          "country": "fr",
+          "weight": 2
+        },
+        {
+          "country": "gb",
+          "weight": 2
+        },
+        {
+          "country": "ma",
+          "weight": 2
+        },
+        {
+          "country": "no",
+          "weight": 2
+        },
+        {
+          "country": "be",
+          "weight": 1
+        },
+        {
+          "country": "ch",
+          "weight": 1
+        },
+        {
+          "country": "de",
+          "weight": 1
+        },
+        {
+          "country": "ro",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1295,6 +2886,22 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "ae",
+          "weight": 19
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1335,6 +2942,26 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "it",
+          "weight": 30
+        },
+        {
+          "country": "fr",
+          "weight": 7
+        },
+        {
+          "country": "za",
+          "weight": 7
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1355,6 +2982,46 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "dk",
+          "weight": 30
+        },
+        {
+          "country": "is",
+          "weight": 30
+        },
+        {
+          "country": "gb",
+          "weight": 18
+        },
+        {
+          "country": "si",
+          "weight": 13
+        },
+        {
+          "country": "at",
+          "weight": 8
+        },
+        {
+          "country": "it",
+          "weight": 8
+        },
+        {
+          "country": "no",
+          "weight": 8
+        },
+        {
+          "country": "fi",
+          "weight": 2
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1435,6 +3102,18 @@
       "white": 30,
       "black": 15,
       "metis": 55
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1455,6 +3134,94 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "hr",
+          "weight": 30
+        },
+        {
+          "country": "rs",
+          "weight": 16
+        },
+        {
+          "country": "al",
+          "weight": 10
+        },
+        {
+          "country": "it",
+          "weight": 7
+        },
+        {
+          "country": "tr",
+          "weight": 6
+        },
+        {
+          "country": "cz",
+          "weight": 6
+        },
+        {
+          "country": "cy",
+          "weight": 3
+        },
+        {
+          "country": "bg",
+          "weight": 3
+        },
+        {
+          "country": "si",
+          "weight": 3
+        },
+        {
+          "country": "id",
+          "weight": 2
+        },
+        {
+          "country": "kz",
+          "weight": 2
+        },
+        {
+          "country": "ua",
+          "weight": 2
+        },
+        {
+          "country": "dk",
+          "weight": 2
+        },
+        {
+          "country": "se",
+          "weight": 2
+        },
+        {
+          "country": "uz",
+          "weight": 2
+        },
+        {
+          "country": "hu",
+          "weight": 1
+        },
+        {
+          "country": "ru",
+          "weight": 1
+        },
+        {
+          "country": "be",
+          "weight": 1
+        },
+        {
+          "country": "ch",
+          "weight": 1
+        },
+        {
+          "country": "es",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1475,6 +3242,74 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "tr",
+          "weight": 22
+        },
+        {
+          "country": "cy",
+          "weight": 16
+        },
+        {
+          "country": "it",
+          "weight": 10
+        },
+        {
+          "country": "gb",
+          "weight": 7
+        },
+        {
+          "country": "dz",
+          "weight": 6
+        },
+        {
+          "country": "ae",
+          "weight": 2
+        },
+        {
+          "country": "es",
+          "weight": 2
+        },
+        {
+          "country": "mt",
+          "weight": 2
+        },
+        {
+          "country": "pt",
+          "weight": 2
+        },
+        {
+          "country": "sa",
+          "weight": 2
+        },
+        {
+          "country": "si",
+          "weight": 2
+        },
+        {
+          "country": "us",
+          "weight": 2
+        },
+        {
+          "country": "eg",
+          "weight": 2
+        },
+        {
+          "country": "al",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1495,6 +3330,94 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "it",
+          "weight": 30
+        },
+        {
+          "country": "gb",
+          "weight": 12
+        },
+        {
+          "country": "tr",
+          "weight": 9
+        },
+        {
+          "country": "sk",
+          "weight": 8
+        },
+        {
+          "country": "ee",
+          "weight": 7
+        },
+        {
+          "country": "cz",
+          "weight": 6
+        },
+        {
+          "country": "ua",
+          "weight": 4
+        },
+        {
+          "country": "dk",
+          "weight": 4
+        },
+        {
+          "country": "fi",
+          "weight": 3
+        },
+        {
+          "country": "sa",
+          "weight": 3
+        },
+        {
+          "country": "se",
+          "weight": 3
+        },
+        {
+          "country": "pt",
+          "weight": 2
+        },
+        {
+          "country": "hr",
+          "weight": 2
+        },
+        {
+          "country": "gr",
+          "weight": 2
+        },
+        {
+          "country": "al",
+          "weight": 1
+        },
+        {
+          "country": "bg",
+          "weight": 1
+        },
+        {
+          "country": "ae",
+          "weight": 1
+        },
+        {
+          "country": "ch",
+          "weight": 1
+        },
+        {
+          "country": "de",
+          "weight": 1
+        },
+        {
+          "country": "no",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1575,6 +3498,18 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1615,6 +3550,18 @@
       "white": 10,
       "black": 55,
       "metis": 35
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1635,6 +3582,54 @@
       "white": 10,
       "black": 55,
       "metis": 35
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "be",
+          "weight": 4
+        },
+        {
+          "country": "ch",
+          "weight": 4
+        },
+        {
+          "country": "il",
+          "weight": 4
+        },
+        {
+          "country": "am",
+          "weight": 3
+        },
+        {
+          "country": "es",
+          "weight": 3
+        },
+        {
+          "country": "gb",
+          "weight": 3
+        },
+        {
+          "country": "ma",
+          "weight": 3
+        },
+        {
+          "country": "az",
+          "weight": 2
+        },
+        {
+          "country": "ua",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1675,6 +3670,38 @@
       "white": 12,
       "black": 5,
       "metis": 83
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "us",
+          "weight": 30
+        },
+        {
+          "country": "ar",
+          "weight": 13
+        },
+        {
+          "country": "co",
+          "weight": 5
+        },
+        {
+          "country": "gb",
+          "weight": 5
+        },
+        {
+          "country": "br",
+          "weight": 3
+        },
+        {
+          "country": "il",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1695,6 +3722,94 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "it",
+          "weight": 14
+        },
+        {
+          "country": "es",
+          "weight": 5
+        },
+        {
+          "country": "be",
+          "weight": 4
+        },
+        {
+          "country": "ch",
+          "weight": 3
+        },
+        {
+          "country": "sa",
+          "weight": 2
+        },
+        {
+          "country": "cz",
+          "weight": 2
+        },
+        {
+          "country": "ru",
+          "weight": 1
+        },
+        {
+          "country": "dz",
+          "weight": 1
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        },
+        {
+          "country": "bg",
+          "weight": 1
+        },
+        {
+          "country": "nl",
+          "weight": 1
+        },
+        {
+          "country": "am",
+          "weight": 1
+        },
+        {
+          "country": "cy",
+          "weight": 1
+        },
+        {
+          "country": "de",
+          "weight": 1
+        },
+        {
+          "country": "gh",
+          "weight": 1
+        },
+        {
+          "country": "se",
+          "weight": 1
+        },
+        {
+          "country": "dk",
+          "weight": 1
+        },
+        {
+          "country": "eg",
+          "weight": 1
+        },
+        {
+          "country": "gb",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1715,6 +3830,38 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "pt",
+          "weight": 30
+        },
+        {
+          "country": "bg",
+          "weight": 1
+        },
+        {
+          "country": "it",
+          "weight": 1
+        },
+        {
+          "country": "tr",
+          "weight": 1
+        },
+        {
+          "country": "cy",
+          "weight": 1
+        },
+        {
+          "country": "fr",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1735,6 +3882,22 @@
       "white": 10,
       "black": 30,
       "metis": 60
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "us",
+          "weight": 3
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1755,6 +3918,66 @@
       "white": 3,
       "black": 85,
       "metis": 12
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "us",
+          "weight": 29
+        },
+        {
+          "country": "pt",
+          "weight": 8
+        },
+        {
+          "country": "be",
+          "weight": 7
+        },
+        {
+          "country": "ch",
+          "weight": 5
+        },
+        {
+          "country": "gb",
+          "weight": 4
+        },
+        {
+          "country": "ar",
+          "weight": 3
+        },
+        {
+          "country": "it",
+          "weight": 2
+        },
+        {
+          "country": "am",
+          "weight": 1
+        },
+        {
+          "country": "cl",
+          "weight": 1
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        },
+        {
+          "country": "ir",
+          "weight": 1
+        },
+        {
+          "country": "cy",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1775,6 +3998,58 @@
       "white": 12,
       "black": 5,
       "metis": 83
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "us",
+          "weight": 30
+        },
+        {
+          "country": "pt",
+          "weight": 11
+        },
+        {
+          "country": "mx",
+          "weight": 3
+        },
+        {
+          "country": "pl",
+          "weight": 3
+        },
+        {
+          "country": "fi",
+          "weight": 2
+        },
+        {
+          "country": "gr",
+          "weight": 2
+        },
+        {
+          "country": "ru",
+          "weight": 2
+        },
+        {
+          "country": "sa",
+          "weight": 2
+        },
+        {
+          "country": "uy",
+          "weight": 2
+        },
+        {
+          "country": "ve",
+          "weight": 2
+        },
+        {
+          "country": "es",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1855,6 +4130,18 @@
       "white": 8,
       "black": 12,
       "metis": 80
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "pt",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1915,6 +4202,74 @@
       "white": 25,
       "black": 3,
       "metis": 72
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "se",
+          "weight": 30
+        },
+        {
+          "country": "dk",
+          "weight": 11
+        },
+        {
+          "country": "nl",
+          "weight": 11
+        },
+        {
+          "country": "gb",
+          "weight": 8
+        },
+        {
+          "country": "sa",
+          "weight": 8
+        },
+        {
+          "country": "ae",
+          "weight": 7
+        },
+        {
+          "country": "pl",
+          "weight": 7
+        },
+        {
+          "country": "uz",
+          "weight": 7
+        },
+        {
+          "country": "it",
+          "weight": 6
+        },
+        {
+          "country": "no",
+          "weight": 5
+        },
+        {
+          "country": "au",
+          "weight": 2
+        },
+        {
+          "country": "cz",
+          "weight": 2
+        },
+        {
+          "country": "id",
+          "weight": 2
+        },
+        {
+          "country": "cy",
+          "weight": 2
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -1975,6 +4330,26 @@
       "white": 3,
       "black": 75,
       "metis": 22
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "us",
+          "weight": 5
+        },
+        {
+          "country": "rs",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2015,6 +4390,54 @@
       "white": 25,
       "black": 3,
       "metis": 72
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "sa",
+          "weight": 30
+        },
+        {
+          "country": "ae",
+          "weight": 11
+        },
+        {
+          "country": "gb",
+          "weight": 11
+        },
+        {
+          "country": "hr",
+          "weight": 11
+        },
+        {
+          "country": "ma",
+          "weight": 11
+        },
+        {
+          "country": "eg",
+          "weight": 7
+        },
+        {
+          "country": "be",
+          "weight": 1
+        },
+        {
+          "country": "cy",
+          "weight": 1
+        },
+        {
+          "country": "dk",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2115,6 +4538,94 @@
       "white": 15,
       "black": 1,
       "metis": 84
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "jp",
+          "weight": 26
+        },
+        {
+          "country": "de",
+          "weight": 11
+        },
+        {
+          "country": "us",
+          "weight": 10
+        },
+        {
+          "country": "pt",
+          "weight": 8
+        },
+        {
+          "country": "dk",
+          "weight": 4
+        },
+        {
+          "country": "tr",
+          "weight": 4
+        },
+        {
+          "country": "es",
+          "weight": 3
+        },
+        {
+          "country": "ae",
+          "weight": 2
+        },
+        {
+          "country": "at",
+          "weight": 2
+        },
+        {
+          "country": "id",
+          "weight": 2
+        },
+        {
+          "country": "mt",
+          "weight": 2
+        },
+        {
+          "country": "rs",
+          "weight": 2
+        },
+        {
+          "country": "it",
+          "weight": 2
+        },
+        {
+          "country": "ch",
+          "weight": 1
+        },
+        {
+          "country": "nl",
+          "weight": 1
+        },
+        {
+          "country": "ar",
+          "weight": 1
+        },
+        {
+          "country": "br",
+          "weight": 1
+        },
+        {
+          "country": "pl",
+          "weight": 1
+        },
+        {
+          "country": "au",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2135,6 +4646,18 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2175,6 +4698,42 @@
       "white": 30,
       "black": 2,
       "metis": 68
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "by",
+          "weight": 30
+        },
+        {
+          "country": "ru",
+          "weight": 28
+        },
+        {
+          "country": "ae",
+          "weight": 3
+        },
+        {
+          "country": "id",
+          "weight": 3
+        },
+        {
+          "country": "uz",
+          "weight": 3
+        },
+        {
+          "country": "lv",
+          "weight": 2
+        },
+        {
+          "country": "tr",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2235,6 +4794,66 @@
       "white": 25,
       "black": 3,
       "metis": 72
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "cy",
+          "weight": 30
+        },
+        {
+          "country": "au",
+          "weight": 6
+        },
+        {
+          "country": "gb",
+          "weight": 6
+        },
+        {
+          "country": "id",
+          "weight": 6
+        },
+        {
+          "country": "nl",
+          "weight": 6
+        },
+        {
+          "country": "fr",
+          "weight": 4
+        },
+        {
+          "country": "pt",
+          "weight": 4
+        },
+        {
+          "country": "co",
+          "weight": 1
+        },
+        {
+          "country": "dk",
+          "weight": 1
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        },
+        {
+          "country": "hr",
+          "weight": 1
+        },
+        {
+          "country": "mx",
+          "weight": 1
+        },
+        {
+          "country": "no",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2255,6 +4874,18 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "za",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2275,6 +4906,94 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "cz",
+          "weight": 30
+        },
+        {
+          "country": "ng",
+          "weight": 27
+        },
+        {
+          "country": "sa",
+          "weight": 23
+        },
+        {
+          "country": "se",
+          "weight": 20
+        },
+        {
+          "country": "cm",
+          "weight": 9
+        },
+        {
+          "country": "no",
+          "weight": 7
+        },
+        {
+          "country": "by",
+          "weight": 5
+        },
+        {
+          "country": "dz",
+          "weight": 5
+        },
+        {
+          "country": "gb",
+          "weight": 5
+        },
+        {
+          "country": "gh",
+          "weight": 5
+        },
+        {
+          "country": "id",
+          "weight": 5
+        },
+        {
+          "country": "nl",
+          "weight": 5
+        },
+        {
+          "country": "ro",
+          "weight": 5
+        },
+        {
+          "country": "rs",
+          "weight": 5
+        },
+        {
+          "country": "uz",
+          "weight": 5
+        },
+        {
+          "country": "si",
+          "weight": 2
+        },
+        {
+          "country": "az",
+          "weight": 1
+        },
+        {
+          "country": "fi",
+          "weight": 1
+        },
+        {
+          "country": "hr",
+          "weight": 1
+        },
+        {
+          "country": "il",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2295,6 +5014,38 @@
       "white": 20,
       "black": 8,
       "metis": 72
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "de",
+          "weight": 30
+        },
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "it",
+          "weight": 30
+        },
+        {
+          "country": "pt",
+          "weight": 4
+        },
+        {
+          "country": "tr",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2315,6 +5066,18 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "ch",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2355,6 +5118,66 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "pt",
+          "weight": 16
+        },
+        {
+          "country": "de",
+          "weight": 13
+        },
+        {
+          "country": "it",
+          "weight": 8
+        },
+        {
+          "country": "be",
+          "weight": 5
+        },
+        {
+          "country": "al",
+          "weight": 1
+        },
+        {
+          "country": "az",
+          "weight": 1
+        },
+        {
+          "country": "id",
+          "weight": 1
+        },
+        {
+          "country": "nl",
+          "weight": 1
+        },
+        {
+          "country": "ru",
+          "weight": 1
+        },
+        {
+          "country": "sa",
+          "weight": 1
+        },
+        {
+          "country": "lv",
+          "weight": 1
+        },
+        {
+          "country": "se",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2395,6 +5218,66 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "be",
+          "weight": 4
+        },
+        {
+          "country": "si",
+          "weight": 4
+        },
+        {
+          "country": "il",
+          "weight": 3
+        },
+        {
+          "country": "bg",
+          "weight": 2
+        },
+        {
+          "country": "ch",
+          "weight": 2
+        },
+        {
+          "country": "at",
+          "weight": 1
+        },
+        {
+          "country": "it",
+          "weight": 1
+        },
+        {
+          "country": "rs",
+          "weight": 1
+        },
+        {
+          "country": "dk",
+          "weight": 1
+        },
+        {
+          "country": "dz",
+          "weight": 1
+        },
+        {
+          "country": "hr",
+          "weight": 1
+        },
+        {
+          "country": "id",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2415,6 +5298,26 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "ro",
+          "weight": 30
+        },
+        {
+          "country": "za",
+          "weight": 19
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2435,6 +5338,18 @@
       "white": 8,
       "black": 2,
       "metis": 90
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "pt",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2515,6 +5430,42 @@
       "white": 10,
       "black": 55,
       "metis": 35
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "es",
+          "weight": 5
+        },
+        {
+          "country": "gb",
+          "weight": 3
+        },
+        {
+          "country": "bg",
+          "weight": 2
+        },
+        {
+          "country": "ch",
+          "weight": 1
+        },
+        {
+          "country": "lt",
+          "weight": 1
+        },
+        {
+          "country": "tr",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2535,6 +5486,66 @@
       "white": 20,
       "black": 8,
       "metis": 72
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "ma",
+          "weight": 23
+        },
+        {
+          "country": "it",
+          "weight": 10
+        },
+        {
+          "country": "pt",
+          "weight": 10
+        },
+        {
+          "country": "hr",
+          "weight": 4
+        },
+        {
+          "country": "bg",
+          "weight": 3
+        },
+        {
+          "country": "es",
+          "weight": 3
+        },
+        {
+          "country": "gr",
+          "weight": 3
+        },
+        {
+          "country": "pl",
+          "weight": 3
+        },
+        {
+          "country": "dz",
+          "weight": 2
+        },
+        {
+          "country": "lv",
+          "weight": 2
+        },
+        {
+          "country": "no",
+          "weight": 2
+        },
+        {
+          "country": "ua",
+          "weight": 2
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2555,6 +5566,34 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "gr",
+          "weight": 30
+        },
+        {
+          "country": "pt",
+          "weight": 30
+        },
+        {
+          "country": "fr",
+          "weight": 4
+        },
+        {
+          "country": "pl",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2575,6 +5614,18 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2635,6 +5686,82 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "it",
+          "weight": 30
+        },
+        {
+          "country": "ro",
+          "weight": 5
+        },
+        {
+          "country": "ua",
+          "weight": 4
+        },
+        {
+          "country": "fr",
+          "weight": 2
+        },
+        {
+          "country": "cy",
+          "weight": 2
+        },
+        {
+          "country": "kz",
+          "weight": 2
+        },
+        {
+          "country": "ru",
+          "weight": 2
+        },
+        {
+          "country": "pt",
+          "weight": 1
+        },
+        {
+          "country": "by",
+          "weight": 1
+        },
+        {
+          "country": "ge",
+          "weight": 1
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        },
+        {
+          "country": "il",
+          "weight": 1
+        },
+        {
+          "country": "al",
+          "weight": 1
+        },
+        {
+          "country": "at",
+          "weight": 1
+        },
+        {
+          "country": "dk",
+          "weight": 1
+        },
+        {
+          "country": "hr",
+          "weight": 1
+        },
+        {
+          "country": "sa",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2655,6 +5782,22 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "it",
+          "weight": 30
+        },
+        {
+          "country": "fr",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2695,6 +5838,94 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "rs",
+          "weight": 30
+        },
+        {
+          "country": "it",
+          "weight": 6
+        },
+        {
+          "country": "ru",
+          "weight": 5
+        },
+        {
+          "country": "uz",
+          "weight": 5
+        },
+        {
+          "country": "hr",
+          "weight": 4
+        },
+        {
+          "country": "id",
+          "weight": 4
+        },
+        {
+          "country": "gr",
+          "weight": 4
+        },
+        {
+          "country": "se",
+          "weight": 2
+        },
+        {
+          "country": "kz",
+          "weight": 2
+        },
+        {
+          "country": "bg",
+          "weight": 2
+        },
+        {
+          "country": "sk",
+          "weight": 1
+        },
+        {
+          "country": "es",
+          "weight": 1
+        },
+        {
+          "country": "cy",
+          "weight": 1
+        },
+        {
+          "country": "gb",
+          "weight": 1
+        },
+        {
+          "country": "az",
+          "weight": 1
+        },
+        {
+          "country": "si",
+          "weight": 1
+        },
+        {
+          "country": "be",
+          "weight": 1
+        },
+        {
+          "country": "pl",
+          "weight": 1
+        },
+        {
+          "country": "fr",
+          "weight": 1
+        },
+        {
+          "country": "nl",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2715,6 +5946,18 @@
       "white": 40,
       "black": 20,
       "metis": 40
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2755,6 +5998,46 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "pt",
+          "weight": 30
+        },
+        {
+          "country": "az",
+          "weight": 3
+        },
+        {
+          "country": "am",
+          "weight": 1
+        },
+        {
+          "country": "bg",
+          "weight": 1
+        },
+        {
+          "country": "gb",
+          "weight": 1
+        },
+        {
+          "country": "za",
+          "weight": 1
+        },
+        {
+          "country": "ma",
+          "weight": 1
+        },
+        {
+          "country": "sa",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2795,6 +6078,22 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "za",
+          "weight": 30
+        },
+        {
+          "country": "gb",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2815,6 +6114,18 @@
       "white": 8,
       "black": 12,
       "metis": 80
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "se",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2855,6 +6166,26 @@
       "white": 5,
       "black": 15,
       "metis": 80
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "sa",
+          "weight": 30
+        },
+        {
+          "country": "de",
+          "weight": 4
+        },
+        {
+          "country": "fr",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2895,6 +6226,34 @@
       "white": 12,
       "black": 5,
       "metis": 83
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fi",
+          "weight": 30
+        },
+        {
+          "country": "cy",
+          "weight": 4
+        },
+        {
+          "country": "es",
+          "weight": 4
+        },
+        {
+          "country": "py",
+          "weight": 4
+        },
+        {
+          "country": "ve",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2915,6 +6274,94 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "ng",
+          "weight": 30
+        },
+        {
+          "country": "by",
+          "weight": 15
+        },
+        {
+          "country": "ae",
+          "weight": 11
+        },
+        {
+          "country": "al",
+          "weight": 11
+        },
+        {
+          "country": "az",
+          "weight": 11
+        },
+        {
+          "country": "dz",
+          "weight": 11
+        },
+        {
+          "country": "id",
+          "weight": 11
+        },
+        {
+          "country": "il",
+          "weight": 11
+        },
+        {
+          "country": "kz",
+          "weight": 11
+        },
+        {
+          "country": "lt",
+          "weight": 11
+        },
+        {
+          "country": "ru",
+          "weight": 11
+        },
+        {
+          "country": "it",
+          "weight": 7
+        },
+        {
+          "country": "ma",
+          "weight": 7
+        },
+        {
+          "country": "rs",
+          "weight": 7
+        },
+        {
+          "country": "sa",
+          "weight": 7
+        },
+        {
+          "country": "fi",
+          "weight": 4
+        },
+        {
+          "country": "ua",
+          "weight": 4
+        },
+        {
+          "country": "bg",
+          "weight": 1
+        },
+        {
+          "country": "es",
+          "weight": 1
+        },
+        {
+          "country": "se",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -2955,6 +6402,18 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3015,6 +6474,22 @@
       "white": 25,
       "black": 3,
       "metis": 72
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "ae",
+          "weight": 30
+        },
+        {
+          "country": "it",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3035,6 +6510,34 @@
       "white": 8,
       "black": 12,
       "metis": 80
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "ae",
+          "weight": 5
+        },
+        {
+          "country": "az",
+          "weight": 5
+        },
+        {
+          "country": "nz",
+          "weight": 5
+        },
+        {
+          "country": "pt",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3055,6 +6558,50 @@
       "white": 25,
       "black": 3,
       "metis": 72
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "eg",
+          "weight": 30
+        },
+        {
+          "country": "cl",
+          "weight": 4
+        },
+        {
+          "country": "se",
+          "weight": 3
+        },
+        {
+          "country": "de",
+          "weight": 1
+        },
+        {
+          "country": "il",
+          "weight": 1
+        },
+        {
+          "country": "pe",
+          "weight": 1
+        },
+        {
+          "country": "py",
+          "weight": 1
+        },
+        {
+          "country": "ro",
+          "weight": 1
+        },
+        {
+          "country": "us",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3075,6 +6622,94 @@
       "white": 12,
       "black": 5,
       "metis": 83
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "us",
+          "weight": 30
+        },
+        {
+          "country": "ua",
+          "weight": 22
+        },
+        {
+          "country": "ve",
+          "weight": 19
+        },
+        {
+          "country": "co",
+          "weight": 11
+        },
+        {
+          "country": "br",
+          "weight": 9
+        },
+        {
+          "country": "uy",
+          "weight": 8
+        },
+        {
+          "country": "pe",
+          "weight": 7
+        },
+        {
+          "country": "es",
+          "weight": 5
+        },
+        {
+          "country": "il",
+          "weight": 5
+        },
+        {
+          "country": "mx",
+          "weight": 5
+        },
+        {
+          "country": "ru",
+          "weight": 5
+        },
+        {
+          "country": "sk",
+          "weight": 5
+        },
+        {
+          "country": "cl",
+          "weight": 4
+        },
+        {
+          "country": "ar",
+          "weight": 2
+        },
+        {
+          "country": "gb",
+          "weight": 2
+        },
+        {
+          "country": "rs",
+          "weight": 2
+        },
+        {
+          "country": "tr",
+          "weight": 2
+        },
+        {
+          "country": "mt",
+          "weight": 2
+        },
+        {
+          "country": "pt",
+          "weight": 2
+        },
+        {
+          "country": "be",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3155,6 +6790,30 @@
       "white": 8,
       "black": 2,
       "metis": 90
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "hr",
+          "weight": 30
+        },
+        {
+          "country": "be",
+          "weight": 11
+        },
+        {
+          "country": "gb",
+          "weight": 11
+        },
+        {
+          "country": "no",
+          "weight": 11
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3215,6 +6874,38 @@
       "white": 40,
       "black": 15,
       "metis": 45
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "ar",
+          "weight": 30
+        },
+        {
+          "country": "it",
+          "weight": 18
+        },
+        {
+          "country": "pt",
+          "weight": 13
+        },
+        {
+          "country": "hr",
+          "weight": 8
+        },
+        {
+          "country": "es",
+          "weight": 2
+        },
+        {
+          "country": "us",
+          "weight": 2
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3235,6 +6926,18 @@
       "white": 25,
       "black": 3,
       "metis": 72
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "es",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3255,6 +6958,18 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3335,6 +7050,74 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "be",
+          "weight": 30
+        },
+        {
+          "country": "ma",
+          "weight": 23
+        },
+        {
+          "country": "ua",
+          "weight": 23
+        },
+        {
+          "country": "az",
+          "weight": 16
+        },
+        {
+          "country": "cy",
+          "weight": 16
+        },
+        {
+          "country": "dz",
+          "weight": 16
+        },
+        {
+          "country": "gb",
+          "weight": 16
+        },
+        {
+          "country": "gr",
+          "weight": 16
+        },
+        {
+          "country": "ke",
+          "weight": 16
+        },
+        {
+          "country": "za",
+          "weight": 16
+        },
+        {
+          "country": "dk",
+          "weight": 11
+        },
+        {
+          "country": "sa",
+          "weight": 11
+        },
+        {
+          "country": "eg",
+          "weight": 2
+        },
+        {
+          "country": "es",
+          "weight": 2
+        },
+        {
+          "country": "fr",
+          "weight": 2
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3355,6 +7138,22 @@
       "white": 40,
       "black": 20,
       "metis": 40
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gr",
+          "weight": 30
+        },
+        {
+          "country": "fr",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3375,6 +7174,18 @@
       "white": 5,
       "black": 15,
       "metis": 80
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "nz",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3395,6 +7206,22 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "it",
+          "weight": 30
+        },
+        {
+          "country": "mt",
+          "weight": 2
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3415,6 +7242,22 @@
       "white": 40,
       "black": 20,
       "metis": 40
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "pt",
+          "weight": 30
+        },
+        {
+          "country": "fi",
+          "weight": 2
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3455,6 +7298,18 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3475,6 +7330,86 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "it",
+          "weight": 20
+        },
+        {
+          "country": "es",
+          "weight": 4
+        },
+        {
+          "country": "pt",
+          "weight": 4
+        },
+        {
+          "country": "gb",
+          "weight": 4
+        },
+        {
+          "country": "ae",
+          "weight": 3
+        },
+        {
+          "country": "be",
+          "weight": 3
+        },
+        {
+          "country": "ma",
+          "weight": 3
+        },
+        {
+          "country": "sa",
+          "weight": 3
+        },
+        {
+          "country": "dk",
+          "weight": 2
+        },
+        {
+          "country": "tr",
+          "weight": 2
+        },
+        {
+          "country": "cz",
+          "weight": 1
+        },
+        {
+          "country": "rs",
+          "weight": 1
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        },
+        {
+          "country": "us",
+          "weight": 1
+        },
+        {
+          "country": "cy",
+          "weight": 1
+        },
+        {
+          "country": "ch",
+          "weight": 1
+        },
+        {
+          "country": "ua",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3515,6 +7450,18 @@
       "white": 20,
       "black": 3,
       "metis": 77
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3535,6 +7482,58 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "is",
+          "weight": 1
+        },
+        {
+          "country": "lv",
+          "weight": 1
+        },
+        {
+          "country": "us",
+          "weight": 1
+        },
+        {
+          "country": "il",
+          "weight": 1
+        },
+        {
+          "country": "am",
+          "weight": 1
+        },
+        {
+          "country": "fr",
+          "weight": 1
+        },
+        {
+          "country": "ng",
+          "weight": 1
+        },
+        {
+          "country": "no",
+          "weight": 1
+        },
+        {
+          "country": "pt",
+          "weight": 1
+        },
+        {
+          "country": "ua",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3555,6 +7554,26 @@
       "white": 8,
       "black": 2,
       "metis": 90
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "pt",
+          "weight": 30
+        },
+        {
+          "country": "gb",
+          "weight": 5
+        },
+        {
+          "country": "id",
+          "weight": 5
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3615,6 +7634,18 @@
       "white": 3,
       "black": 60,
       "metis": 37
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fj",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3635,6 +7666,34 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "mt",
+          "weight": 30
+        },
+        {
+          "country": "rs",
+          "weight": 30
+        },
+        {
+          "country": "se",
+          "weight": 30
+        },
+        {
+          "country": "ke",
+          "weight": 19
+        },
+        {
+          "country": "nz",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3675,6 +7734,66 @@
       "white": 20,
       "black": 8,
       "metis": 72
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "ke",
+          "weight": 30
+        },
+        {
+          "country": "ae",
+          "weight": 12
+        },
+        {
+          "country": "mt",
+          "weight": 12
+        },
+        {
+          "country": "fr",
+          "weight": 10
+        },
+        {
+          "country": "au",
+          "weight": 8
+        },
+        {
+          "country": "us",
+          "weight": 4
+        },
+        {
+          "country": "sa",
+          "weight": 3
+        },
+        {
+          "country": "at",
+          "weight": 1
+        },
+        {
+          "country": "dk",
+          "weight": 1
+        },
+        {
+          "country": "dz",
+          "weight": 1
+        },
+        {
+          "country": "id",
+          "weight": 1
+        },
+        {
+          "country": "pt",
+          "weight": 1
+        },
+        {
+          "country": "uz",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3715,6 +7834,22 @@
       "white": 8,
       "black": 12,
       "metis": 80
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "it",
+          "weight": 30
+        },
+        {
+          "country": "ke",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3735,6 +7870,22 @@
       "white": 10,
       "black": 55,
       "metis": 35
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "mt",
+          "weight": 2
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3755,6 +7906,22 @@
       "white": 10,
       "black": 55,
       "metis": 35
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "us",
+          "weight": 2
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3775,6 +7942,26 @@
       "white": 10,
       "black": 55,
       "metis": 35
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "id",
+          "weight": 30
+        },
+        {
+          "country": "us",
+          "weight": 30
+        },
+        {
+          "country": "fi",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3795,6 +7982,66 @@
       "white": 20,
       "black": 8,
       "metis": 72
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "ke",
+          "weight": 30
+        },
+        {
+          "country": "ae",
+          "weight": 12
+        },
+        {
+          "country": "mt",
+          "weight": 12
+        },
+        {
+          "country": "fr",
+          "weight": 10
+        },
+        {
+          "country": "au",
+          "weight": 8
+        },
+        {
+          "country": "us",
+          "weight": 4
+        },
+        {
+          "country": "sa",
+          "weight": 3
+        },
+        {
+          "country": "at",
+          "weight": 1
+        },
+        {
+          "country": "dk",
+          "weight": 1
+        },
+        {
+          "country": "dz",
+          "weight": 1
+        },
+        {
+          "country": "id",
+          "weight": 1
+        },
+        {
+          "country": "pt",
+          "weight": 1
+        },
+        {
+          "country": "uz",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3815,6 +8062,58 @@
       "white": 10,
       "black": 30,
       "metis": 60
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "nl",
+          "weight": 30
+        },
+        {
+          "country": "gb",
+          "weight": 3
+        },
+        {
+          "country": "tr",
+          "weight": 2
+        },
+        {
+          "country": "cy",
+          "weight": 1
+        },
+        {
+          "country": "de",
+          "weight": 1
+        },
+        {
+          "country": "dk",
+          "weight": 1
+        },
+        {
+          "country": "be",
+          "weight": 1
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        },
+        {
+          "country": "hu",
+          "weight": 1
+        },
+        {
+          "country": "it",
+          "weight": 1
+        },
+        {
+          "country": "il",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3835,6 +8134,18 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "za",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3895,6 +8206,70 @@
       "white": 25,
       "black": 3,
       "metis": 72
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "ae",
+          "weight": 30
+        },
+        {
+          "country": "ar",
+          "weight": 21
+        },
+        {
+          "country": "sa",
+          "weight": 12
+        },
+        {
+          "country": "se",
+          "weight": 10
+        },
+        {
+          "country": "us",
+          "weight": 2
+        },
+        {
+          "country": "be",
+          "weight": 1
+        },
+        {
+          "country": "br",
+          "weight": 1
+        },
+        {
+          "country": "dk",
+          "weight": 1
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        },
+        {
+          "country": "no",
+          "weight": 1
+        },
+        {
+          "country": "sk",
+          "weight": 1
+        },
+        {
+          "country": "fi",
+          "weight": 1
+        },
+        {
+          "country": "id",
+          "weight": 1
+        },
+        {
+          "country": "nl",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3915,6 +8290,30 @@
       "white": 50,
       "black": 10,
       "metis": 40
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "jp",
+          "weight": 8
+        },
+        {
+          "country": "es",
+          "weight": 2
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3935,6 +8334,50 @@
       "white": 30,
       "black": 2,
       "metis": 68
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "ru",
+          "weight": 30
+        },
+        {
+          "country": "id",
+          "weight": 18
+        },
+        {
+          "country": "uz",
+          "weight": 18
+        },
+        {
+          "country": "ge",
+          "weight": 11
+        },
+        {
+          "country": "bg",
+          "weight": 8
+        },
+        {
+          "country": "by",
+          "weight": 8
+        },
+        {
+          "country": "ir",
+          "weight": 8
+        },
+        {
+          "country": "ua",
+          "weight": 8
+        },
+        {
+          "country": "kz",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3955,6 +8398,66 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "ke",
+          "weight": 30
+        },
+        {
+          "country": "se",
+          "weight": 21
+        },
+        {
+          "country": "dk",
+          "weight": 9
+        },
+        {
+          "country": "dz",
+          "weight": 9
+        },
+        {
+          "country": "fr",
+          "weight": 9
+        },
+        {
+          "country": "ma",
+          "weight": 9
+        },
+        {
+          "country": "mt",
+          "weight": 9
+        },
+        {
+          "country": "eg",
+          "weight": 6
+        },
+        {
+          "country": "be",
+          "weight": 3
+        },
+        {
+          "country": "au",
+          "weight": 1
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        },
+        {
+          "country": "tr",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3975,6 +8478,30 @@
       "white": 8,
       "black": 2,
       "metis": 90
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "jp",
+          "weight": 8
+        },
+        {
+          "country": "es",
+          "weight": 2
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -3995,6 +8522,34 @@
       "white": 30,
       "black": 2,
       "metis": 68
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "au",
+          "weight": 30
+        },
+        {
+          "country": "ru",
+          "weight": 30
+        },
+        {
+          "country": "id",
+          "weight": 19
+        },
+        {
+          "country": "tr",
+          "weight": 19
+        },
+        {
+          "country": "es",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -4015,6 +8570,94 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "it",
+          "weight": 30
+        },
+        {
+          "country": "be",
+          "weight": 23
+        },
+        {
+          "country": "fr",
+          "weight": 13
+        },
+        {
+          "country": "ae",
+          "weight": 11
+        },
+        {
+          "country": "de",
+          "weight": 11
+        },
+        {
+          "country": "jp",
+          "weight": 8
+        },
+        {
+          "country": "sk",
+          "weight": 8
+        },
+        {
+          "country": "cz",
+          "weight": 7
+        },
+        {
+          "country": "sa",
+          "weight": 5
+        },
+        {
+          "country": "ma",
+          "weight": 4
+        },
+        {
+          "country": "at",
+          "weight": 3
+        },
+        {
+          "country": "ee",
+          "weight": 3
+        },
+        {
+          "country": "es",
+          "weight": 3
+        },
+        {
+          "country": "lt",
+          "weight": 3
+        },
+        {
+          "country": "si",
+          "weight": 3
+        },
+        {
+          "country": "us",
+          "weight": 3
+        },
+        {
+          "country": "az",
+          "weight": 2
+        },
+        {
+          "country": "cm",
+          "weight": 2
+        },
+        {
+          "country": "dk",
+          "weight": 2
+        },
+        {
+          "country": "dz",
+          "weight": 2
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -4055,6 +8698,42 @@
       "white": 8,
       "black": 45,
       "metis": 47
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "us",
+          "weight": 30
+        },
+        {
+          "country": "gb",
+          "weight": 16
+        },
+        {
+          "country": "fi",
+          "weight": 2
+        },
+        {
+          "country": "ru",
+          "weight": 2
+        },
+        {
+          "country": "am",
+          "weight": 1
+        },
+        {
+          "country": "cz",
+          "weight": 1
+        },
+        {
+          "country": "nl",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -4075,6 +8754,78 @@
       "white": 20,
       "black": 8,
       "metis": 72
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "fr",
+          "weight": 30
+        },
+        {
+          "country": "eg",
+          "weight": 8
+        },
+        {
+          "country": "it",
+          "weight": 4
+        },
+        {
+          "country": "sa",
+          "weight": 4
+        },
+        {
+          "country": "gb",
+          "weight": 3
+        },
+        {
+          "country": "de",
+          "weight": 2
+        },
+        {
+          "country": "pt",
+          "weight": 2
+        },
+        {
+          "country": "ma",
+          "weight": 1
+        },
+        {
+          "country": "se",
+          "weight": 1
+        },
+        {
+          "country": "tr",
+          "weight": 1
+        },
+        {
+          "country": "ae",
+          "weight": 1
+        },
+        {
+          "country": "bg",
+          "weight": 1
+        },
+        {
+          "country": "rs",
+          "weight": 1
+        },
+        {
+          "country": "dz",
+          "weight": 1
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        },
+        {
+          "country": "us",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -4115,6 +8866,34 @@
       "white": 30,
       "black": 2,
       "metis": 68
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "au",
+          "weight": 30
+        },
+        {
+          "country": "ru",
+          "weight": 30
+        },
+        {
+          "country": "id",
+          "weight": 19
+        },
+        {
+          "country": "tr",
+          "weight": 19
+        },
+        {
+          "country": "es",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -4175,6 +8954,58 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "ke",
+          "weight": 30
+        },
+        {
+          "country": "eg",
+          "weight": 2
+        },
+        {
+          "country": "gb",
+          "weight": 2
+        },
+        {
+          "country": "za",
+          "weight": 2
+        },
+        {
+          "country": "cz",
+          "weight": 2
+        },
+        {
+          "country": "dk",
+          "weight": 2
+        },
+        {
+          "country": "is",
+          "weight": 1
+        },
+        {
+          "country": "ro",
+          "weight": 1
+        },
+        {
+          "country": "us",
+          "weight": 1
+        },
+        {
+          "country": "fi",
+          "weight": 1
+        },
+        {
+          "country": "ua",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -4315,6 +9146,26 @@
       "white": 3,
       "black": 60,
       "metis": 37
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "au",
+          "weight": 30
+        },
+        {
+          "country": "fj",
+          "weight": 30
+        },
+        {
+          "country": "nz",
+          "weight": 4
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -4355,6 +9206,18 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "pl",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -4375,6 +9238,18 @@
       "white": 92,
       "black": 2,
       "metis": 6
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -4415,6 +9290,22 @@
       "white": 25,
       "black": 3,
       "metis": 72
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "ae",
+          "weight": 30
+        },
+        {
+          "country": "sa",
+          "weight": 13
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -4435,6 +9326,94 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "it",
+          "weight": 30
+        },
+        {
+          "country": "cz",
+          "weight": 16
+        },
+        {
+          "country": "ge",
+          "weight": 16
+        },
+        {
+          "country": "am",
+          "weight": 6
+        },
+        {
+          "country": "dk",
+          "weight": 6
+        },
+        {
+          "country": "es",
+          "weight": 6
+        },
+        {
+          "country": "gb",
+          "weight": 6
+        },
+        {
+          "country": "sa",
+          "weight": 6
+        },
+        {
+          "country": "at",
+          "weight": 4
+        },
+        {
+          "country": "by",
+          "weight": 4
+        },
+        {
+          "country": "eg",
+          "weight": 4
+        },
+        {
+          "country": "fi",
+          "weight": 4
+        },
+        {
+          "country": "gr",
+          "weight": 4
+        },
+        {
+          "country": "il",
+          "weight": 4
+        },
+        {
+          "country": "ru",
+          "weight": 4
+        },
+        {
+          "country": "be",
+          "weight": 1
+        },
+        {
+          "country": "ch",
+          "weight": 1
+        },
+        {
+          "country": "rs",
+          "weight": 1
+        },
+        {
+          "country": "se",
+          "weight": 1
+        },
+        {
+          "country": "ua",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -4455,6 +9434,66 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "ke",
+          "weight": 30
+        },
+        {
+          "country": "se",
+          "weight": 21
+        },
+        {
+          "country": "dk",
+          "weight": 9
+        },
+        {
+          "country": "dz",
+          "weight": 9
+        },
+        {
+          "country": "fr",
+          "weight": 9
+        },
+        {
+          "country": "ma",
+          "weight": 9
+        },
+        {
+          "country": "mt",
+          "weight": 9
+        },
+        {
+          "country": "eg",
+          "weight": 6
+        },
+        {
+          "country": "be",
+          "weight": 3
+        },
+        {
+          "country": "au",
+          "weight": 1
+        },
+        {
+          "country": "gr",
+          "weight": 1
+        },
+        {
+          "country": "tr",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   },
   {
@@ -4475,6 +9514,46 @@
       "white": 2,
       "black": 88,
       "metis": 10
+    },
+    "transfers": {
+      "source": "derived",
+      "import": [],
+      "export": [
+        {
+          "country": "gb",
+          "weight": 30
+        },
+        {
+          "country": "za",
+          "weight": 8
+        },
+        {
+          "country": "gr",
+          "weight": 2
+        },
+        {
+          "country": "be",
+          "weight": 1
+        },
+        {
+          "country": "fr",
+          "weight": 1
+        },
+        {
+          "country": "dk",
+          "weight": 1
+        },
+        {
+          "country": "it",
+          "weight": 1
+        },
+        {
+          "country": "us",
+          "weight": 1
+        }
+      ],
+      "diaspora": [],
+      "foreign_share": 0.15
     }
   }
 ]

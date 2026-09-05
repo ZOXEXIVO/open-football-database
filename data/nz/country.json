@@ -1,0 +1,105 @@
+{
+  "id": 1438,
+  "code": "nz",
+  "slug": "new zealand",
+  "name": "New Zealand",
+  "continent_id": 5,
+  "reputation": 3500,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#ffffff",
+  "foreground_color": "#000000",
+  "skin_colors": {
+    "white": 65,
+    "black": 5,
+    "metis": 30
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "fj",
+        "weight": 30
+      },
+      {
+        "country": "cn",
+        "weight": 21
+      },
+      {
+        "country": "es",
+        "weight": 21
+      },
+      {
+        "country": "pk",
+        "weight": 21
+      },
+      {
+        "country": "rs",
+        "weight": 21
+      },
+      {
+        "country": "uy",
+        "weight": 21
+      },
+      {
+        "country": "ws",
+        "weight": 21
+      },
+      {
+        "country": "za",
+        "weight": 21
+      },
+      {
+        "country": "be",
+        "weight": 14
+      },
+      {
+        "country": "eg",
+        "weight": 14
+      },
+      {
+        "country": "ei",
+        "weight": 14
+      },
+      {
+        "country": "so",
+        "weight": 3
+      },
+      {
+        "country": "vu",
+        "weight": 3
+      }
+    ],
+    "export": [
+      {
+        "country": "au",
+        "weight": 30
+      },
+      {
+        "country": "gb",
+        "weight": 9
+      },
+      {
+        "country": "us",
+        "weight": 6
+      },
+      {
+        "country": "de",
+        "weight": 5
+      },
+      {
+        "country": "jp",
+        "weight": 5
+      },
+      {
+        "country": "sc",
+        "weight": 5
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.314
+  }
+}

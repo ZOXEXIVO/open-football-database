@@ -1,0 +1,182 @@
+{
+  "id": 752,
+  "code": "al",
+  "slug": "albania",
+  "name": "Albania",
+  "continent_id": 1,
+  "reputation": 4200,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#e41e20",
+  "foreground_color": "#000000",
+  "skin_colors": {
+    "white": 92,
+    "black": 2,
+    "metis": 6
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ng",
+        "weight": 30
+      },
+      {
+        "country": "br",
+        "weight": 15
+      },
+      {
+        "country": "mk",
+        "weight": 10
+      },
+      {
+        "country": "gh",
+        "weight": 6
+      },
+      {
+        "country": "cm",
+        "weight": 5
+      },
+      {
+        "country": "ci",
+        "weight": 5
+      },
+      {
+        "country": "pt",
+        "weight": 4
+      },
+      {
+        "country": "be",
+        "weight": 3
+      },
+      {
+        "country": "sn",
+        "weight": 3
+      },
+      {
+        "country": "gr",
+        "weight": 2
+      },
+      {
+        "country": "cr",
+        "weight": 2
+      },
+      {
+        "country": "gm",
+        "weight": 2
+      },
+      {
+        "country": "az",
+        "weight": 1
+      },
+      {
+        "country": "es",
+        "weight": 1
+      },
+      {
+        "country": "gb",
+        "weight": 1
+      },
+      {
+        "country": "ba",
+        "weight": 1
+      },
+      {
+        "country": "cg",
+        "weight": 1
+      },
+      {
+        "country": "rs",
+        "weight": 1
+      },
+      {
+        "country": "ar",
+        "weight": 1
+      },
+      {
+        "country": "hr",
+        "weight": 1
+      },
+      {
+        "country": "py",
+        "weight": 1
+      },
+      {
+        "country": "ve",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "it",
+        "weight": 30
+      },
+      {
+        "country": "gr",
+        "weight": 16
+      },
+      {
+        "country": "ch",
+        "weight": 12
+      },
+      {
+        "country": "de",
+        "weight": 10
+      },
+      {
+        "country": "tr",
+        "weight": 10
+      },
+      {
+        "country": "xk",
+        "weight": 8
+      },
+      {
+        "country": "at",
+        "weight": 6
+      },
+      {
+        "country": "be",
+        "weight": 6
+      },
+      {
+        "country": "cy",
+        "weight": 6
+      },
+      {
+        "country": "hr",
+        "weight": 6
+      },
+      {
+        "country": "gb",
+        "weight": 2
+      },
+      {
+        "country": "ru",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "it",
+        "share": 0.08
+      },
+      {
+        "country": "gr",
+        "share": 0.06
+      },
+      {
+        "country": "ch",
+        "share": 0.05
+      },
+      {
+        "country": "de",
+        "share": 0.03
+      }
+    ],
+    "foreign_share": 0.363
+  }
+}

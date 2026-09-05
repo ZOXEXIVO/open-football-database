@@ -1,0 +1,238 @@
+{
+  "id": 798,
+  "code": "ch",
+  "slug": "switzerland",
+  "name": "Switzerland",
+  "continent_id": 1,
+  "reputation": 6800,
+  "settings": {
+    "pricing": {
+      "price_level": 0.75
+    }
+  },
+  "background_color": "#ff0000",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 85,
+    "black": 4,
+    "metis": 11
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "de",
+        "weight": 30
+      },
+      {
+        "country": "li",
+        "weight": 27
+      },
+      {
+        "country": "rs",
+        "weight": 24
+      },
+      {
+        "country": "it",
+        "weight": 13
+      },
+      {
+        "country": "fr",
+        "weight": 12
+      },
+      {
+        "country": "br",
+        "weight": 6
+      },
+      {
+        "country": "al",
+        "weight": 5
+      },
+      {
+        "country": "at",
+        "weight": 5
+      },
+      {
+        "country": "pt",
+        "weight": 4
+      },
+      {
+        "country": "se",
+        "weight": 3
+      },
+      {
+        "country": "es",
+        "weight": 3
+      },
+      {
+        "country": "hr",
+        "weight": 2
+      },
+      {
+        "country": "ar",
+        "weight": 2
+      },
+      {
+        "country": "cd",
+        "weight": 2
+      },
+      {
+        "country": "gn",
+        "weight": 2
+      },
+      {
+        "country": "sn",
+        "weight": 2
+      },
+      {
+        "country": "gh",
+        "weight": 2
+      },
+      {
+        "country": "ba",
+        "weight": 2
+      },
+      {
+        "country": "nl",
+        "weight": 2
+      },
+      {
+        "country": "co",
+        "weight": 2
+      },
+      {
+        "country": "jp",
+        "weight": 2
+      },
+      {
+        "country": "ci",
+        "weight": 1
+      },
+      {
+        "country": "ng",
+        "weight": 1
+      },
+      {
+        "country": "ca",
+        "weight": 1
+      },
+      {
+        "country": "uy",
+        "weight": 1
+      },
+      {
+        "country": "gb",
+        "weight": 1
+      },
+      {
+        "country": "ht",
+        "weight": 1
+      },
+      {
+        "country": "hu",
+        "weight": 1
+      },
+      {
+        "country": "ml",
+        "weight": 1
+      },
+      {
+        "country": "si",
+        "weight": 1
+      },
+      {
+        "country": "gm",
+        "weight": 1
+      },
+      {
+        "country": "ma",
+        "weight": 1
+      },
+      {
+        "country": "dz",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "de",
+        "weight": 30
+      },
+      {
+        "country": "it",
+        "weight": 17
+      },
+      {
+        "country": "fr",
+        "weight": 13
+      },
+      {
+        "country": "at",
+        "weight": 11
+      },
+      {
+        "country": "gb",
+        "weight": 9
+      },
+      {
+        "country": "tr",
+        "weight": 9
+      },
+      {
+        "country": "es",
+        "weight": 6
+      },
+      {
+        "country": "gr",
+        "weight": 6
+      },
+      {
+        "country": "be",
+        "weight": 3
+      },
+      {
+        "country": "us",
+        "weight": 3
+      },
+      {
+        "country": "hr",
+        "weight": 2
+      },
+      {
+        "country": "pt",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "xk",
+        "share": 0.08
+      },
+      {
+        "country": "al",
+        "share": 0.06
+      },
+      {
+        "country": "rs",
+        "share": 0.04
+      },
+      {
+        "country": "it",
+        "share": 0.04
+      },
+      {
+        "country": "pt",
+        "share": 0.04
+      },
+      {
+        "country": "ba",
+        "share": 0.03
+      },
+      {
+        "country": "mk",
+        "share": 0.02
+      }
+    ],
+    "foreign_share": 0.589
+  }
+}

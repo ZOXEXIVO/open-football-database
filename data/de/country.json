@@ -1,0 +1,288 @@
+{
+  "id": 771,
+  "code": "de",
+  "slug": "germany",
+  "name": "Germany",
+  "continent_id": 1,
+  "reputation": 9100,
+  "settings": {
+    "pricing": {
+      "price_level": 1.15
+    }
+  },
+  "background_color": "#ffffff",
+  "foreground_color": "#000000",
+  "skin_colors": {
+    "white": 85,
+    "black": 5,
+    "metis": 10
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "fr",
+        "weight": 30
+      },
+      {
+        "country": "at",
+        "weight": 20
+      },
+      {
+        "country": "jp",
+        "weight": 9
+      },
+      {
+        "country": "hr",
+        "weight": 9
+      },
+      {
+        "country": "dk",
+        "weight": 8
+      },
+      {
+        "country": "ch",
+        "weight": 8
+      },
+      {
+        "country": "be",
+        "weight": 8
+      },
+      {
+        "country": "nl",
+        "weight": 7
+      },
+      {
+        "country": "rs",
+        "weight": 7
+      },
+      {
+        "country": "br",
+        "weight": 6
+      },
+      {
+        "country": "us",
+        "weight": 6
+      },
+      {
+        "country": "tr",
+        "weight": 6
+      },
+      {
+        "country": "es",
+        "weight": 5
+      },
+      {
+        "country": "pl",
+        "weight": 5
+      },
+      {
+        "country": "pt",
+        "weight": 4
+      },
+      {
+        "country": "ng",
+        "weight": 4
+      },
+      {
+        "country": "no",
+        "weight": 3
+      },
+      {
+        "country": "gb",
+        "weight": 3
+      },
+      {
+        "country": "se",
+        "weight": 3
+      },
+      {
+        "country": "cz",
+        "weight": 2
+      },
+      {
+        "country": "it",
+        "weight": 2
+      },
+      {
+        "country": "ba",
+        "weight": 2
+      },
+      {
+        "country": "ar",
+        "weight": 2
+      },
+      {
+        "country": "dz",
+        "weight": 2
+      },
+      {
+        "country": "ma",
+        "weight": 2
+      },
+      {
+        "country": "au",
+        "weight": 1
+      },
+      {
+        "country": "gh",
+        "weight": 1
+      },
+      {
+        "country": "hu",
+        "weight": 1
+      },
+      {
+        "country": "kr",
+        "weight": 1
+      },
+      {
+        "country": "fi",
+        "weight": 1
+      },
+      {
+        "country": "gr",
+        "weight": 1
+      },
+      {
+        "country": "lu",
+        "weight": 1
+      },
+      {
+        "country": "ci",
+        "weight": 1
+      },
+      {
+        "country": "cd",
+        "weight": 1
+      },
+      {
+        "country": "ua",
+        "weight": 1
+      },
+      {
+        "country": "tn",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "at",
+        "weight": 30
+      },
+      {
+        "country": "ch",
+        "weight": 25
+      },
+      {
+        "country": "gb",
+        "weight": 20
+      },
+      {
+        "country": "it",
+        "weight": 15
+      },
+      {
+        "country": "nl",
+        "weight": 15
+      },
+      {
+        "country": "tr",
+        "weight": 15
+      },
+      {
+        "country": "es",
+        "weight": 13
+      },
+      {
+        "country": "be",
+        "weight": 10
+      },
+      {
+        "country": "us",
+        "weight": 10
+      },
+      {
+        "country": "pl",
+        "weight": 8
+      },
+      {
+        "country": "sa",
+        "weight": 8,
+        "kind": "money"
+      },
+      {
+        "country": "dk",
+        "weight": 5
+      },
+      {
+        "country": "ae",
+        "weight": 5,
+        "kind": "money"
+      },
+      {
+        "country": "pt",
+        "weight": 4
+      },
+      {
+        "country": "fr",
+        "weight": 3
+      },
+      {
+        "country": "bg",
+        "weight": 1
+      },
+      {
+        "country": "cy",
+        "weight": 1
+      },
+      {
+        "country": "gr",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "tr",
+        "share": 0.09
+      },
+      {
+        "country": "pl",
+        "share": 0.04
+      },
+      {
+        "country": "rs",
+        "share": 0.03
+      },
+      {
+        "country": "hr",
+        "share": 0.03
+      },
+      {
+        "country": "ba",
+        "share": 0.03
+      },
+      {
+        "country": "ru",
+        "share": 0.02
+      },
+      {
+        "country": "gh",
+        "share": 0.02
+      },
+      {
+        "country": "ng",
+        "share": 0.02
+      },
+      {
+        "country": "al",
+        "share": 0.02
+      },
+      {
+        "country": "gr",
+        "share": 0.02
+      }
+    ],
+    "foreign_share": 0.555
+  }
+}

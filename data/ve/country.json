@@ -1,0 +1,145 @@
+{
+  "id": 1658,
+  "code": "ve",
+  "slug": "venezuela",
+  "name": "Venezuela",
+  "continent_id": 3,
+  "reputation": 5000,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#8b2332",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 25,
+    "black": 12,
+    "metis": 63
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ar",
+        "weight": 30
+      },
+      {
+        "country": "co",
+        "weight": 16
+      },
+      {
+        "country": "uy",
+        "weight": 4
+      },
+      {
+        "country": "pa",
+        "weight": 2
+      },
+      {
+        "country": "ec",
+        "weight": 1
+      },
+      {
+        "country": "pe",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "co",
+        "weight": 30
+      },
+      {
+        "country": "ar",
+        "weight": 26
+      },
+      {
+        "country": "br",
+        "weight": 23
+      },
+      {
+        "country": "es",
+        "weight": 19
+      },
+      {
+        "country": "mx",
+        "weight": 19
+      },
+      {
+        "country": "pt",
+        "weight": 15
+      },
+      {
+        "country": "us",
+        "weight": 15
+      },
+      {
+        "country": "cl",
+        "weight": 11
+      },
+      {
+        "country": "it",
+        "weight": 11
+      },
+      {
+        "country": "ru",
+        "weight": 11
+      },
+      {
+        "country": "ua",
+        "weight": 6
+      },
+      {
+        "country": "uy",
+        "weight": 3
+      },
+      {
+        "country": "sa",
+        "weight": 2
+      },
+      {
+        "country": "am",
+        "weight": 2
+      },
+      {
+        "country": "cy",
+        "weight": 2
+      },
+      {
+        "country": "gr",
+        "weight": 2
+      },
+      {
+        "country": "bg",
+        "weight": 1
+      },
+      {
+        "country": "gb",
+        "weight": 1
+      },
+      {
+        "country": "ae",
+        "weight": 1
+      },
+      {
+        "country": "py",
+        "weight": 1
+      },
+      {
+        "country": "az",
+        "weight": 1
+      },
+      {
+        "country": "ch",
+        "weight": 1
+      },
+      {
+        "country": "il",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.112
+  }
+}

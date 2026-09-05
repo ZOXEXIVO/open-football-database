@@ -1,0 +1,217 @@
+{
+  "id": 25,
+  "code": "ke",
+  "slug": "kenya",
+  "name": "Kenya",
+  "continent_id": 0,
+  "reputation": 2500,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#006600",
+  "foreground_color": "#bb0000",
+  "skin_colors": {
+    "white": 2,
+    "black": 88,
+    "metis": 10
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ug",
+        "weight": 30
+      },
+      {
+        "country": "tz",
+        "weight": 16
+      },
+      {
+        "country": "cd",
+        "weight": 14
+      },
+      {
+        "country": "rw",
+        "weight": 10
+      },
+      {
+        "country": "bi",
+        "weight": 8
+      },
+      {
+        "country": "gh",
+        "weight": 8
+      },
+      {
+        "country": "ng",
+        "weight": 8
+      },
+      {
+        "country": "sd",
+        "weight": 6
+      },
+      {
+        "country": "cg",
+        "weight": 4
+      },
+      {
+        "country": "cm",
+        "weight": 3
+      },
+      {
+        "country": "bf",
+        "weight": 1
+      },
+      {
+        "country": "ci",
+        "weight": 1
+      },
+      {
+        "country": "lk",
+        "weight": 1
+      },
+      {
+        "country": "sn",
+        "weight": 1
+      },
+      {
+        "country": "so",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "tz",
+        "weight": 30
+      },
+      {
+        "country": "es",
+        "weight": 27
+      },
+      {
+        "country": "za",
+        "weight": 23
+      },
+      {
+        "country": "gb",
+        "weight": 19
+      },
+      {
+        "country": "se",
+        "weight": 15
+      },
+      {
+        "country": "be",
+        "weight": 11
+      },
+      {
+        "country": "eg",
+        "weight": 11
+      },
+      {
+        "country": "fi",
+        "weight": 11
+      },
+      {
+        "country": "pl",
+        "weight": 11
+      },
+      {
+        "country": "sk",
+        "weight": 8
+      },
+      {
+        "country": "ae",
+        "weight": 6
+      },
+      {
+        "country": "am",
+        "weight": 6
+      },
+      {
+        "country": "cz",
+        "weight": 6
+      },
+      {
+        "country": "dk",
+        "weight": 6
+      },
+      {
+        "country": "at",
+        "weight": 5
+      },
+      {
+        "country": "by",
+        "weight": 5
+      },
+      {
+        "country": "it",
+        "weight": 5
+      },
+      {
+        "country": "ge",
+        "weight": 3
+      },
+      {
+        "country": "lv",
+        "weight": 3
+      },
+      {
+        "country": "nl",
+        "weight": 3
+      },
+      {
+        "country": "al",
+        "weight": 2
+      },
+      {
+        "country": "de",
+        "weight": 2
+      },
+      {
+        "country": "ma",
+        "weight": 2
+      },
+      {
+        "country": "ng",
+        "weight": 2
+      },
+      {
+        "country": "rs",
+        "weight": 2
+      },
+      {
+        "country": "sa",
+        "weight": 2
+      },
+      {
+        "country": "au",
+        "weight": 1
+      },
+      {
+        "country": "bg",
+        "weight": 1
+      },
+      {
+        "country": "cl",
+        "weight": 1
+      },
+      {
+        "country": "cy",
+        "weight": 1
+      },
+      {
+        "country": "gr",
+        "weight": 1
+      },
+      {
+        "country": "pt",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.12
+  }
+}

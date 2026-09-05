@@ -1,0 +1,224 @@
+{
+  "id": 11,
+  "code": "cm",
+  "slug": "cameroon",
+  "name": "Cameroon",
+  "continent_id": 0,
+  "reputation": 5600,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#007a5e",
+  "foreground_color": "#fcd116",
+  "skin_colors": {
+    "white": 2,
+    "black": 88,
+    "metis": 10
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "cf",
+        "weight": 30
+      },
+      {
+        "country": "td",
+        "weight": 24
+      },
+      {
+        "country": "ng",
+        "weight": 21
+      },
+      {
+        "country": "cg",
+        "weight": 18
+      },
+      {
+        "country": "ga",
+        "weight": 15
+      },
+      {
+        "country": "gq",
+        "weight": 12
+      },
+      {
+        "country": "lr",
+        "weight": 9
+      },
+      {
+        "country": "ci",
+        "weight": 9
+      },
+      {
+        "country": "gh",
+        "weight": 9
+      },
+      {
+        "country": "tg",
+        "weight": 3
+      },
+      {
+        "country": "co",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "fr",
+        "weight": 30
+      },
+      {
+        "country": "be",
+        "weight": 14
+      },
+      {
+        "country": "tr",
+        "weight": 12
+      },
+      {
+        "country": "de",
+        "weight": 10
+      },
+      {
+        "country": "es",
+        "weight": 10
+      },
+      {
+        "country": "it",
+        "weight": 10
+      },
+      {
+        "country": "ch",
+        "weight": 8
+      },
+      {
+        "country": "gb",
+        "weight": 8
+      },
+      {
+        "country": "pt",
+        "weight": 8
+      },
+      {
+        "country": "ae",
+        "weight": 6,
+        "kind": "money"
+      },
+      {
+        "country": "dz",
+        "weight": 6
+      },
+      {
+        "country": "ma",
+        "weight": 6
+      },
+      {
+        "country": "ru",
+        "weight": 6
+      },
+      {
+        "country": "sa",
+        "weight": 6,
+        "kind": "money"
+      },
+      {
+        "country": "us",
+        "weight": 4
+      },
+      {
+        "country": "by",
+        "weight": 3
+      },
+      {
+        "country": "al",
+        "weight": 2
+      },
+      {
+        "country": "cy",
+        "weight": 2
+      },
+      {
+        "country": "am",
+        "weight": 2
+      },
+      {
+        "country": "cz",
+        "weight": 2
+      },
+      {
+        "country": "gr",
+        "weight": 2
+      },
+      {
+        "country": "no",
+        "weight": 1
+      },
+      {
+        "country": "ng",
+        "weight": 1
+      },
+      {
+        "country": "ro",
+        "weight": 1
+      },
+      {
+        "country": "bg",
+        "weight": 1
+      },
+      {
+        "country": "hr",
+        "weight": 1
+      },
+      {
+        "country": "ml",
+        "weight": 1
+      },
+      {
+        "country": "rs",
+        "weight": 1
+      },
+      {
+        "country": "ke",
+        "weight": 1
+      },
+      {
+        "country": "se",
+        "weight": 1
+      },
+      {
+        "country": "at",
+        "weight": 1
+      },
+      {
+        "country": "fi",
+        "weight": 1
+      },
+      {
+        "country": "mt",
+        "weight": 1
+      },
+      {
+        "country": "pl",
+        "weight": 1
+      },
+      {
+        "country": "sk",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "fr",
+        "share": 0.08
+      },
+      {
+        "country": "be",
+        "share": 0.02
+      }
+    ],
+    "foreign_share": 0.06
+  }
+}

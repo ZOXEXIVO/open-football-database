@@ -1,0 +1,226 @@
+{
+  "id": 16,
+  "code": "eg",
+  "slug": "egypt",
+  "name": "Egypt",
+  "continent_id": 0,
+  "reputation": 5600,
+  "settings": {
+    "pricing": {
+      "price_level": 0.35
+    }
+  },
+  "background_color": "#ce1126",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 20,
+    "black": 8,
+    "metis": 72
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ng",
+        "weight": 30
+      },
+      {
+        "country": "gh",
+        "weight": 24
+      },
+      {
+        "country": "br",
+        "weight": 18
+      },
+      {
+        "country": "ma",
+        "weight": 18
+      },
+      {
+        "country": "ci",
+        "weight": 15
+      },
+      {
+        "country": "ml",
+        "weight": 15
+      },
+      {
+        "country": "sn",
+        "weight": 15
+      },
+      {
+        "country": "tn",
+        "weight": 15
+      },
+      {
+        "country": "cd",
+        "weight": 12
+      },
+      {
+        "country": "cm",
+        "weight": 12
+      },
+      {
+        "country": "ps",
+        "weight": 9
+      },
+      {
+        "country": "ar",
+        "weight": 9
+      },
+      {
+        "country": "dz",
+        "weight": 9
+      },
+      {
+        "country": "ly",
+        "weight": 9
+      },
+      {
+        "country": "pt",
+        "weight": 9
+      },
+      {
+        "country": "sd",
+        "weight": 9
+      },
+      {
+        "country": "ao",
+        "weight": 1
+      },
+      {
+        "country": "ug",
+        "weight": 1
+      },
+      {
+        "country": "gn",
+        "weight": 1
+      },
+      {
+        "country": "nl",
+        "weight": 1
+      },
+      {
+        "country": "bj",
+        "weight": 1
+      },
+      {
+        "country": "fr",
+        "weight": 1
+      },
+      {
+        "country": "ke",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "sa",
+        "weight": 30,
+        "kind": "money"
+      },
+      {
+        "country": "ae",
+        "weight": 15,
+        "kind": "money"
+      },
+      {
+        "country": "kw",
+        "weight": 9,
+        "kind": "money"
+      },
+      {
+        "country": "qa",
+        "weight": 9,
+        "kind": "money"
+      },
+      {
+        "country": "it",
+        "weight": 8
+      },
+      {
+        "country": "nl",
+        "weight": 8
+      },
+      {
+        "country": "gb",
+        "weight": 8
+      },
+      {
+        "country": "be",
+        "weight": 5
+      },
+      {
+        "country": "ch",
+        "weight": 5
+      },
+      {
+        "country": "fr",
+        "weight": 5
+      },
+      {
+        "country": "gr",
+        "weight": 5
+      },
+      {
+        "country": "om",
+        "weight": 5,
+        "kind": "money"
+      },
+      {
+        "country": "pt",
+        "weight": 5
+      },
+      {
+        "country": "tr",
+        "weight": 5
+      },
+      {
+        "country": "us",
+        "weight": 5
+      },
+      {
+        "country": "dk",
+        "weight": 3
+      },
+      {
+        "country": "cy",
+        "weight": 2
+      },
+      {
+        "country": "cz",
+        "weight": 2
+      },
+      {
+        "country": "ru",
+        "weight": 2
+      },
+      {
+        "country": "bg",
+        "weight": 1
+      },
+      {
+        "country": "es",
+        "weight": 1
+      },
+      {
+        "country": "nz",
+        "weight": 1
+      },
+      {
+        "country": "de",
+        "weight": 1
+      },
+      {
+        "country": "fi",
+        "weight": 1
+      },
+      {
+        "country": "rs",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.2
+  }
+}

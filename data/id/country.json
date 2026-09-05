@@ -1,0 +1,142 @@
+{
+  "id": 113,
+  "code": "id",
+  "slug": "indonesia",
+  "name": "Indonesia",
+  "continent_id": 4,
+  "reputation": 3000,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#ce1126",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 8,
+    "black": 2,
+    "metis": 90
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "br",
+        "weight": 30
+      },
+      {
+        "country": "nl",
+        "weight": 15
+      },
+      {
+        "country": "jp",
+        "weight": 9
+      },
+      {
+        "country": "kr",
+        "weight": 8
+      },
+      {
+        "country": "ar",
+        "weight": 6
+      },
+      {
+        "country": "es",
+        "weight": 6
+      },
+      {
+        "country": "th",
+        "weight": 6
+      },
+      {
+        "country": "au",
+        "weight": 5
+      },
+      {
+        "country": "ng",
+        "weight": 5
+      },
+      {
+        "country": "pt",
+        "weight": 5
+      },
+      {
+        "country": "rs",
+        "weight": 5
+      },
+      {
+        "country": "me",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "nl",
+        "weight": 30
+      },
+      {
+        "country": "th",
+        "weight": 25
+      },
+      {
+        "country": "my",
+        "weight": 20
+      },
+      {
+        "country": "jp",
+        "weight": 15
+      },
+      {
+        "country": "be",
+        "weight": 10
+      },
+      {
+        "country": "kr",
+        "weight": 10
+      },
+      {
+        "country": "gb",
+        "weight": 6
+      },
+      {
+        "country": "it",
+        "weight": 4
+      },
+      {
+        "country": "sk",
+        "weight": 2
+      },
+      {
+        "country": "au",
+        "weight": 1
+      },
+      {
+        "country": "us",
+        "weight": 1
+      },
+      {
+        "country": "de",
+        "weight": 1
+      },
+      {
+        "country": "fr",
+        "weight": 1
+      },
+      {
+        "country": "br",
+        "weight": 1
+      },
+      {
+        "country": "uy",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "nl",
+        "share": 0.1
+      }
+    ],
+    "foreign_share": 0.3
+  }
+}

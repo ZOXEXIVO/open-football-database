@@ -1,0 +1,169 @@
+{
+  "id": 794,
+  "code": "sk",
+  "slug": "slovakia",
+  "name": "Slovakia",
+  "continent_id": 1,
+  "reputation": 5000,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#0b4ea2",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 92,
+    "black": 2,
+    "metis": 6
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "cz",
+        "weight": 30
+      },
+      {
+        "country": "ng",
+        "weight": 10
+      },
+      {
+        "country": "ge",
+        "weight": 6
+      },
+      {
+        "country": "hr",
+        "weight": 6
+      },
+      {
+        "country": "ua",
+        "weight": 6
+      },
+      {
+        "country": "gm",
+        "weight": 4
+      },
+      {
+        "country": "rs",
+        "weight": 4
+      },
+      {
+        "country": "si",
+        "weight": 4
+      },
+      {
+        "country": "gh",
+        "weight": 3
+      },
+      {
+        "country": "gr",
+        "weight": 2
+      },
+      {
+        "country": "ee",
+        "weight": 2
+      },
+      {
+        "country": "ba",
+        "weight": 2
+      },
+      {
+        "country": "gb",
+        "weight": 2
+      },
+      {
+        "country": "hu",
+        "weight": 2
+      },
+      {
+        "country": "sn",
+        "weight": 2
+      },
+      {
+        "country": "br",
+        "weight": 1
+      },
+      {
+        "country": "es",
+        "weight": 1
+      },
+      {
+        "country": "at",
+        "weight": 1
+      },
+      {
+        "country": "nl",
+        "weight": 1
+      },
+      {
+        "country": "me",
+        "weight": 1
+      },
+      {
+        "country": "ci",
+        "weight": 1
+      },
+      {
+        "country": "am",
+        "weight": 1
+      },
+      {
+        "country": "pl",
+        "weight": 1
+      },
+      {
+        "country": "bf",
+        "weight": 1
+      },
+      {
+        "country": "tg",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "cz",
+        "weight": 30
+      },
+      {
+        "country": "de",
+        "weight": 12
+      },
+      {
+        "country": "at",
+        "weight": 9
+      },
+      {
+        "country": "hu",
+        "weight": 8
+      },
+      {
+        "country": "it",
+        "weight": 6
+      },
+      {
+        "country": "pl",
+        "weight": 6
+      },
+      {
+        "country": "cy",
+        "weight": 5
+      },
+      {
+        "country": "gr",
+        "weight": 5
+      },
+      {
+        "country": "tr",
+        "weight": 5
+      },
+      {
+        "country": "gb",
+        "weight": 2
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.461
+  }
+}

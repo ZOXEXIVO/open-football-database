@@ -1,0 +1,248 @@
+{
+  "id": 791,
+  "code": "ru",
+  "slug": "russia",
+  "name": "Russia",
+  "continent_id": 1,
+  "reputation": 7000,
+  "settings": {
+    "pricing": {
+      "price_level": 0.7
+    }
+  },
+  "background_color": "#d52b1e",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 92,
+    "black": 2,
+    "metis": 6
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "br",
+        "weight": 30
+      },
+      {
+        "country": "rs",
+        "weight": 16
+      },
+      {
+        "country": "ar",
+        "weight": 11
+      },
+      {
+        "country": "co",
+        "weight": 10
+      },
+      {
+        "country": "am",
+        "weight": 8
+      },
+      {
+        "country": "by",
+        "weight": 7
+      },
+      {
+        "country": "kz",
+        "weight": 7
+      },
+      {
+        "country": "ng",
+        "weight": 7
+      },
+      {
+        "country": "ba",
+        "weight": 5
+      },
+      {
+        "country": "ec",
+        "weight": 5
+      },
+      {
+        "country": "hr",
+        "weight": 5
+      },
+      {
+        "country": "ci",
+        "weight": 4
+      },
+      {
+        "country": "ir",
+        "weight": 4
+      },
+      {
+        "country": "py",
+        "weight": 4
+      },
+      {
+        "country": "si",
+        "weight": 4
+      },
+      {
+        "country": "sn",
+        "weight": 4
+      },
+      {
+        "country": "uy",
+        "weight": 4
+      },
+      {
+        "country": "uz",
+        "weight": 4
+      },
+      {
+        "country": "ge",
+        "weight": 3
+      },
+      {
+        "country": "me",
+        "weight": 2
+      },
+      {
+        "country": "al",
+        "weight": 2
+      },
+      {
+        "country": "ua",
+        "weight": 2
+      },
+      {
+        "country": "fr",
+        "weight": 1
+      },
+      {
+        "country": "es",
+        "weight": 1
+      },
+      {
+        "country": "ma",
+        "weight": 1
+      },
+      {
+        "country": "ml",
+        "weight": 1
+      },
+      {
+        "country": "ao",
+        "weight": 1
+      },
+      {
+        "country": "kg",
+        "weight": 1
+      },
+      {
+        "country": "az",
+        "weight": 1
+      },
+      {
+        "country": "pt",
+        "weight": 1
+      },
+      {
+        "country": "cl",
+        "weight": 1
+      },
+      {
+        "country": "bg",
+        "weight": 1
+      },
+      {
+        "country": "cm",
+        "weight": 1
+      },
+      {
+        "country": "dz",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "tr",
+        "weight": 30
+      },
+      {
+        "country": "kz",
+        "weight": 8
+      },
+      {
+        "country": "rs",
+        "weight": 8
+      },
+      {
+        "country": "by",
+        "weight": 6
+      },
+      {
+        "country": "cy",
+        "weight": 6
+      },
+      {
+        "country": "am",
+        "weight": 6
+      },
+      {
+        "country": "ae",
+        "weight": 4,
+        "kind": "money"
+      },
+      {
+        "country": "es",
+        "weight": 3
+      },
+      {
+        "country": "gr",
+        "weight": 3
+      },
+      {
+        "country": "hu",
+        "weight": 3
+      },
+      {
+        "country": "it",
+        "weight": 3
+      },
+      {
+        "country": "pt",
+        "weight": 3
+      },
+      {
+        "country": "sa",
+        "weight": 3,
+        "kind": "money"
+      },
+      {
+        "country": "uz",
+        "weight": 3
+      },
+      {
+        "country": "ge",
+        "weight": 1
+      },
+      {
+        "country": "ee",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "kz",
+        "share": 0.03
+      },
+      {
+        "country": "by",
+        "share": 0.02
+      },
+      {
+        "country": "de",
+        "share": 0.02
+      },
+      {
+        "country": "il",
+        "share": 0.01
+      }
+    ],
+    "foreign_share": 0.35
+  }
+}

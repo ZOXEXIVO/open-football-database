@@ -1,0 +1,214 @@
+{
+  "id": 119,
+  "code": "kz",
+  "slug": "kazakhstan",
+  "name": "Kazakhstan",
+  "continent_id": 4,
+  "reputation": 3800,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#00abc9",
+  "foreground_color": "#fec50c",
+  "skin_colors": {
+    "white": 30,
+    "black": 2,
+    "metis": 68
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ru",
+        "weight": 30
+      },
+      {
+        "country": "br",
+        "weight": 12
+      },
+      {
+        "country": "rs",
+        "weight": 12
+      },
+      {
+        "country": "by",
+        "weight": 9
+      },
+      {
+        "country": "ua",
+        "weight": 9
+      },
+      {
+        "country": "hr",
+        "weight": 8
+      },
+      {
+        "country": "uz",
+        "weight": 8
+      },
+      {
+        "country": "ba",
+        "weight": 6
+      },
+      {
+        "country": "ge",
+        "weight": 6
+      },
+      {
+        "country": "ng",
+        "weight": 6
+      },
+      {
+        "country": "me",
+        "weight": 5
+      },
+      {
+        "country": "am",
+        "weight": 5
+      },
+      {
+        "country": "ar",
+        "weight": 5
+      },
+      {
+        "country": "bg",
+        "weight": 5
+      },
+      {
+        "country": "co",
+        "weight": 5
+      },
+      {
+        "country": "gh",
+        "weight": 5
+      },
+      {
+        "country": "mk",
+        "weight": 5
+      },
+      {
+        "country": "pt",
+        "weight": 5
+      },
+      {
+        "country": "si",
+        "weight": 5
+      },
+      {
+        "country": "fr",
+        "weight": 3
+      },
+      {
+        "country": "ro",
+        "weight": 3
+      },
+      {
+        "country": "md",
+        "weight": 2
+      },
+      {
+        "country": "es",
+        "weight": 1
+      },
+      {
+        "country": "fi",
+        "weight": 1
+      },
+      {
+        "country": "lt",
+        "weight": 1
+      },
+      {
+        "country": "al",
+        "weight": 1
+      },
+      {
+        "country": "de",
+        "weight": 1
+      },
+      {
+        "country": "ne",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "ru",
+        "weight": 30
+      },
+      {
+        "country": "uz",
+        "weight": 6
+      },
+      {
+        "country": "tr",
+        "weight": 5
+      },
+      {
+        "country": "by",
+        "weight": 4
+      },
+      {
+        "country": "cz",
+        "weight": 3
+      },
+      {
+        "country": "kg",
+        "weight": 3
+      },
+      {
+        "country": "pl",
+        "weight": 3
+      },
+      {
+        "country": "rs",
+        "weight": 3
+      },
+      {
+        "country": "cy",
+        "weight": 2
+      },
+      {
+        "country": "gr",
+        "weight": 2
+      },
+      {
+        "country": "hr",
+        "weight": 2
+      },
+      {
+        "country": "hu",
+        "weight": 2
+      },
+      {
+        "country": "pt",
+        "weight": 2
+      },
+      {
+        "country": "be",
+        "weight": 2
+      },
+      {
+        "country": "gb",
+        "weight": 1
+      },
+      {
+        "country": "sk",
+        "weight": 1
+      },
+      {
+        "country": "il",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "ru",
+        "share": 0.05
+      }
+    ],
+    "foreign_share": 0.3
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1437,
+  "code": "fj",
+  "slug": "fiji",
+  "name": "Fiji",
+  "continent_id": 5,
+  "reputation": 1500,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#68bfe5",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 3,
+    "black": 60,
+    "metis": 37
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "sb",
+        "weight": 30
+      },
+      {
+        "country": "cl",
+        "weight": 1
+      },
+      {
+        "country": "ng",
+        "weight": 1
+      },
+      {
+        "country": "vu",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "nz",
+        "weight": 30
+      },
+      {
+        "country": "au",
+        "weight": 24
+      },
+      {
+        "country": "gb",
+        "weight": 21
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.06
+  }
+}

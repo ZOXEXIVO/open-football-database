@@ -1,0 +1,225 @@
+{
+  "id": 764,
+  "code": "dk",
+  "slug": "denmark",
+  "name": "Denmark",
+  "continent_id": 1,
+  "reputation": 6400,
+  "settings": {
+    "pricing": {
+      "price_level": 0.6
+    }
+  },
+  "background_color": "#c60c30",
+  "foreground_color": "#ffffff",
+  "skin_colors": {
+    "white": 87,
+    "black": 4,
+    "metis": 9
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "no",
+        "weight": 30
+      },
+      {
+        "country": "se",
+        "weight": 25
+      },
+      {
+        "country": "is",
+        "weight": 23
+      },
+      {
+        "country": "gh",
+        "weight": 13
+      },
+      {
+        "country": "ng",
+        "weight": 9
+      },
+      {
+        "country": "de",
+        "weight": 9
+      },
+      {
+        "country": "sn",
+        "weight": 6
+      },
+      {
+        "country": "au",
+        "weight": 4
+      },
+      {
+        "country": "nl",
+        "weight": 4
+      },
+      {
+        "country": "ml",
+        "weight": 3
+      },
+      {
+        "country": "ci",
+        "weight": 3
+      },
+      {
+        "country": "fi",
+        "weight": 3
+      },
+      {
+        "country": "fr",
+        "weight": 3
+      },
+      {
+        "country": "br",
+        "weight": 3
+      },
+      {
+        "country": "hr",
+        "weight": 3
+      },
+      {
+        "country": "us",
+        "weight": 3
+      },
+      {
+        "country": "pt",
+        "weight": 2
+      },
+      {
+        "country": "gb",
+        "weight": 2
+      },
+      {
+        "country": "gm",
+        "weight": 2
+      },
+      {
+        "country": "ba",
+        "weight": 2
+      },
+      {
+        "country": "jp",
+        "weight": 1
+      },
+      {
+        "country": "rs",
+        "weight": 1
+      },
+      {
+        "country": "pl",
+        "weight": 1
+      },
+      {
+        "country": "iq",
+        "weight": 1
+      },
+      {
+        "country": "kr",
+        "weight": 1
+      },
+      {
+        "country": "mk",
+        "weight": 1
+      },
+      {
+        "country": "be",
+        "weight": 1
+      },
+      {
+        "country": "bf",
+        "weight": 1
+      },
+      {
+        "country": "sr",
+        "weight": 1
+      },
+      {
+        "country": "za",
+        "weight": 1
+      },
+      {
+        "country": "cz",
+        "weight": 1
+      },
+      {
+        "country": "hu",
+        "weight": 1
+      },
+      {
+        "country": "uy",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "de",
+        "weight": 30
+      },
+      {
+        "country": "gb",
+        "weight": 25
+      },
+      {
+        "country": "nl",
+        "weight": 20
+      },
+      {
+        "country": "se",
+        "weight": 15
+      },
+      {
+        "country": "no",
+        "weight": 13
+      },
+      {
+        "country": "be",
+        "weight": 10
+      },
+      {
+        "country": "it",
+        "weight": 10
+      },
+      {
+        "country": "tr",
+        "weight": 10
+      },
+      {
+        "country": "pl",
+        "weight": 8
+      },
+      {
+        "country": "us",
+        "weight": 8
+      },
+      {
+        "country": "fr",
+        "weight": 4
+      },
+      {
+        "country": "pt",
+        "weight": 2
+      },
+      {
+        "country": "is",
+        "weight": 2
+      },
+      {
+        "country": "es",
+        "weight": 1
+      },
+      {
+        "country": "at",
+        "weight": 1
+      },
+      {
+        "country": "cz",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.304
+  }
+}

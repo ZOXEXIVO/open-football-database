@@ -1,0 +1,155 @@
+{
+  "id": 31,
+  "code": "ml",
+  "slug": "mali",
+  "name": "Mali",
+  "continent_id": 0,
+  "reputation": 3500,
+  "settings": {
+    "pricing": {
+      "price_level": 1
+    }
+  },
+  "background_color": "#14b53a",
+  "foreground_color": "#fcd116",
+  "skin_colors": {
+    "white": 2,
+    "black": 88,
+    "metis": 10
+  },
+  "transfers": {
+    "source": "authored",
+    "import": [
+      {
+        "country": "ci",
+        "weight": 30
+      },
+      {
+        "country": "gn",
+        "weight": 21
+      },
+      {
+        "country": "bf",
+        "weight": 18
+      },
+      {
+        "country": "sn",
+        "weight": 15
+      },
+      {
+        "country": "cm",
+        "weight": 12
+      },
+      {
+        "country": "ne",
+        "weight": 12
+      },
+      {
+        "country": "gh",
+        "weight": 9
+      },
+      {
+        "country": "tg",
+        "weight": 9
+      }
+    ],
+    "export": [
+      {
+        "country": "fr",
+        "weight": 30
+      },
+      {
+        "country": "be",
+        "weight": 12
+      },
+      {
+        "country": "ma",
+        "weight": 9
+      },
+      {
+        "country": "pt",
+        "weight": 8
+      },
+      {
+        "country": "tn",
+        "weight": 8
+      },
+      {
+        "country": "es",
+        "weight": 6
+      },
+      {
+        "country": "it",
+        "weight": 6
+      },
+      {
+        "country": "tr",
+        "weight": 6
+      },
+      {
+        "country": "de",
+        "weight": 5
+      },
+      {
+        "country": "dz",
+        "weight": 5
+      },
+      {
+        "country": "eg",
+        "weight": 5
+      },
+      {
+        "country": "gb",
+        "weight": 5
+      },
+      {
+        "country": "sa",
+        "weight": 5,
+        "kind": "money"
+      },
+      {
+        "country": "ae",
+        "weight": 3
+      },
+      {
+        "country": "dk",
+        "weight": 2
+      },
+      {
+        "country": "at",
+        "weight": 2
+      },
+      {
+        "country": "ru",
+        "weight": 1
+      },
+      {
+        "country": "rs",
+        "weight": 1
+      },
+      {
+        "country": "us",
+        "weight": 1
+      },
+      {
+        "country": "am",
+        "weight": 1
+      },
+      {
+        "country": "il",
+        "weight": 1
+      }
+    ],
+    "diaspora": [
+      {
+        "country": "fr",
+        "share": 0.14
+      },
+      {
+        "country": "es",
+        "share": 0.02
+      }
+    ],
+    "foreign_share": 0.12
+  }
+}
