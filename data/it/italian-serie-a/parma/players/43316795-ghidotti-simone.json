@@ -1,0 +1,40 @@
+{
+  "id": 43316795,
+  "first_name": "Simone",
+  "last_name": "Ghidotti",
+  "birth_date": "2000-03-19",
+  "country_id": 776,
+  "club_id": 1156,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 126,
+  "value": 486000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 1129, "p": 0 },
+    { "s": 2017, "c": 1129, "p": 0 },
+    { "s": 2018, "c": 1129, "p": 0 },
+    { "s": 2019, "c": 43124315, "p": 21 },
+    { "s": 2020, "c": 43124315, "p": 35 },
+    { "s": 2021, "c": 108985, "p": 35 },
+    { "s": 2022, "c": 1123, "p": 18 },
+    { "s": 2023, "c": 1108, "p": 38 },
+    { "s": 2024, "c": 1167, "p": 9 },
+    { "s": 2025, "c": 1167, "p": 20 }
+  ],
+  "ids": {
+    "transfermarkt.com": "357983"
+  }
+}

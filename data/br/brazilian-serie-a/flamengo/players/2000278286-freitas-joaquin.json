@@ -1,0 +1,33 @@
+{
+  "id": 2000278286,
+  "first_name": "Joaquín",
+  "last_name": "Freitas",
+  "birth_date": "2006-12-02",
+  "country_id": 1649,
+  "club_id": 322,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": -7,
+  "value": 8000000,
+  "contract": {    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 952691, "p": 5 },
+    { "s": 2024, "c": 94, "p": 0 },
+    { "s": 2025, "c": 94, "p": 1 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1324003"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2000167848,
+  "first_name": "Austin",
+  "last_name": "Onyemaechi",
+  "birth_date": "2000-12-10",
+  "country_id": 38,
+  "club_id": 8632213,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 90,
+  "value": 62000,
+  "contract": {
+    "salary": 1196,
+    "expiration": "2027-08-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 5340761, "p": 8, "g": 1 },
+    { "s": 2023, "c": 5340761, "p": 5, "g": 2 },
+    { "s": 2024, "c": 5340749, "p": 10, "g": 1 },
+    { "s": 2025, "c": 120286, "p": 6 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1101738"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000043387,
+  "first_name": "Denis",
+  "last_name": "Khvostovich",
+  "birth_date": "2001-07-20",
+  "country_id": 758,
+  "club_id": 130881,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": 86,
+  "value": 7000,
+  "history": [
+    { "s": 2020, "c": 2000015949, "p": 19, "g": 1 },
+    { "s": 2021, "c": 2000015949, "p": 13, "g": 1 },
+    { "s": 2023, "c": 2000015950, "p": 28, "g": 1 },
+    { "s": 2024, "c": 2000015950, "p": 31, "g": 3 },
+    { "s": 2025, "c": 2000015950, "p": 31, "g": 2 }
+  ],
+  "ids": {
+    "transfermarkt.com": "881727"
+  }
+}

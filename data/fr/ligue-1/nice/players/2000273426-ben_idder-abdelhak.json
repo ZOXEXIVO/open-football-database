@@ -1,0 +1,32 @@
+{
+  "id": 2000273426,
+  "first_name": "Abdelhak",
+  "last_name": "Ben Idder",
+  "birth_date": "2006-11-10",
+  "country_id": 5,
+  "club_id": 862,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "value": 33000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 8628594, "p": 0 },
+    { "s": 2025, "c": 8628594, "p": 22 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1134096"
+  }
+}

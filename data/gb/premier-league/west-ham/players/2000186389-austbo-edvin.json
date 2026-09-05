@@ -1,0 +1,46 @@
+{
+  "id": 2000186389,
+  "first_name": "Edvin",
+  "last_name": "Austbø",
+  "birth_date": "2005-05-01",
+  "country_id": 786,
+  "club_id": 735,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 122,
+  "potential_ability": -8,
+  "value": 6000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 1422, "p": 0 },
+    { "s": 2021, "c": 103282, "p": 3 },
+    { "s": 2022, "c": 1422, "p": 7, "g": 1 },
+    { "s": 2022, "c": 103282, "p": 19, "g": 7 },
+    { "s": 2023, "c": 1422, "p": 7 },
+    { "s": 2023, "c": 103282, "p": 10, "g": 1 },
+    { "s": 2023, "c": 109106, "p": 9, "g": 1 },
+    { "s": 2024, "c": 1422, "p": 9, "g": 2 },
+    { "s": 2024, "c": 103282, "p": 7, "g": 5 },
+    { "s": 2025, "c": 1422, "p": 27, "g": 6 }
+  ],
+  "ids": {
+    "transfermarkt.com": "980787"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000080789,
+  "first_name": "Khaled",
+  "last_name": "Al-Dossari",
+  "birth_date": "1998-10-18",
+  "country_id": 133,
+  "club_id": 950376,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": 80,
+  "value": 19000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "history": [
+    { "s": 1981, "c": 109043, "p": 0 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1423976"
+  }
+}

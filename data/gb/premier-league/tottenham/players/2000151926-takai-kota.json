@@ -1,0 +1,45 @@
+{
+  "id": 2000151926,
+  "first_name": "Kota",
+  "last_name": "Takai",
+  "birth_date": "2004-09-04",
+  "country_id": 116,
+  "club_id": 728,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 122,
+  "potential_ability": -8,
+  "value": 17000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 278,
+    "expiration": "2027-06-30",
+    "salary": 1300000,
+    "wage_contribution_pct": 100
+  },
+  "ids": {
+    "transfermarkt.com": "671108"
+  },
+  "history": [
+    { "s": 2020, "c": 107296, "p": 0 },
+    { "s": 2021, "c": 107296, "p": 0 },
+    { "s": 2022, "c": 107296, "p": 0 },
+    { "s": 2023, "c": 107296, "p": 14 },
+    { "s": 2024, "c": 107296, "p": 24, "g": 2 },
+    { "s": 2025, "c": 908, "p": 8 },
+    { "s": 2025, "c": 107296, "p": 22, "g": 2 }
+  ]
+}

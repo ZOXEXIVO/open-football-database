@@ -1,0 +1,53 @@
+{
+  "id": 42101552,
+  "first_name": "Roy",
+  "last_name": "Revivo",
+  "birth_date": "2003-05-22",
+  "country_id": 775,
+  "club_id": 1707,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 122,
+  "potential_ability": 136,
+  "value": 2000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1097, "p": 0 },
+    { "s": 2019, "c": 1097, "p": 0 },
+    { "s": 2020, "c": 1097, "p": 0 },
+    { "s": 2021, "c": 1097, "p": 0 },
+    { "s": 2022, "c": 1097, "p": 0 },
+    { "s": 2022, "c": 1300671, "p": 16 },
+    { "s": 2023, "c": 1097, "p": 29, "g": 2 },
+    { "s": 2024, "c": 1097, "p": 25, "g": 2 },
+    { "s": 2025, "c": 1097, "p": 31, "g": 2 }
+  ],
+  "ids": {
+    "transfermarkt.com": "919538"
+  }
+}

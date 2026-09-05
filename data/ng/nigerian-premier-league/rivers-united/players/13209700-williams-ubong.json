@@ -1,0 +1,54 @@
+{
+  "id": 13209700,
+  "first_name": "Ubong",
+  "last_name": "Williams",
+  "birth_date": "2000-03-10",
+  "country_id": 38,
+  "club_id": 13185587,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 82,
+  "potential_ability": 100,
+  "value": 36000,
+  "contract": {
+    "salary": 1404,
+    "expiration": "2026-07-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 13145304, "p": 14 },
+    { "s": 2019, "c": 13145304, "p": 18 },
+    { "s": 2019, "c": 23017476, "p": 5 },
+    { "s": 2020, "c": 2000003354, "p": 18 },
+    { "s": 2021, "c": 5340758, "p": 10 },
+    { "s": 2021, "c": 2000003354, "p": 2 },
+    { "s": 2022, "c": 120286, "p": 1 },
+    { "s": 2023, "c": 13188906, "p": 6 },
+    { "s": 2024, "c": 23017476, "p": 18 },
+    { "s": 2025, "c": 8632634, "p": 29 }
+  ],
+  "ids": {
+    "transfermarkt.com": "709286"
+  }
+}

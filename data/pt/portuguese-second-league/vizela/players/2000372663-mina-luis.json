@@ -1,0 +1,41 @@
+{
+  "id": 2000372663,
+  "first_name": "Luis",
+  "last_name": "Mina",
+  "birth_date": "2004-12-13",
+  "country_id": 1653,
+  "club_id": 2403,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": -65,
+  "value": 560000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2000040594, "p": 0 },
+    { "s": 2022, "c": 2000107714, "p": 0 },
+    { "s": 2023, "c": 417, "p": 0 },
+    { "s": 2024, "c": 417, "p": 0 },
+    { "s": 2024, "c": 109189, "p": 18, "g": 1 },
+    { "s": 2025, "c": 109189, "p": 13, "g": 1 },
+    { "s": 2025, "c": 2000359306, "p": 2 }
+  ],
+  "ids": {
+    "transfermarkt.com": "1286427"
+  }
+}
