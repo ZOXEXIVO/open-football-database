@@ -21,31 +21,31 @@
     "source": "authored",
     "import": [
       {
-        "country": "dk",
-        "weight": 30
-      },
-      {
         "country": "se",
         "weight": 30
       },
       {
-        "country": "hr",
-        "weight": 19
+        "country": "dk",
+        "weight": 23
       },
       {
         "country": "rs",
         "weight": 19
       },
       {
+        "country": "hr",
+        "weight": 19
+      },
+      {
         "country": "uy",
-        "weight": 9
+        "weight": 10
       },
       {
         "country": "no",
         "weight": 6
       },
       {
-        "country": "es",
+        "country": "sl",
         "weight": 5
       },
       {
@@ -53,7 +53,7 @@
         "weight": 5
       },
       {
-        "country": "sl",
+        "country": "es",
         "weight": 5
       },
       {
@@ -62,22 +62,10 @@
       },
       {
         "country": "gb",
-        "weight": 3
+        "weight": 2
       },
       {
         "country": "us",
-        "weight": 3
-      },
-      {
-        "country": "ar",
-        "weight": 2
-      },
-      {
-        "country": "de",
-        "weight": 2
-      },
-      {
-        "country": "gm",
         "weight": 2
       },
       {
@@ -85,24 +73,8 @@
         "weight": 2
       },
       {
-        "country": "lv",
+        "country": "gm",
         "weight": 2
-      },
-      {
-        "country": "sr",
-        "weight": 2
-      },
-      {
-        "country": "ug",
-        "weight": 2
-      },
-      {
-        "country": "gh",
-        "weight": 1
-      },
-      {
-        "country": "ma",
-        "weight": 1
       }
     ],
     "export": [
@@ -123,15 +95,15 @@
         "weight": 18
       },
       {
-        "country": "it",
-        "weight": 12
-      },
-      {
         "country": "de",
         "weight": 12
       },
       {
         "country": "nl",
+        "weight": 12
+      },
+      {
+        "country": "it",
         "weight": 12
       },
       {
@@ -144,18 +116,18 @@
       },
       {
         "country": "gr",
-        "weight": 3
+        "weight": 4
       },
       {
         "country": "hr",
         "weight": 1
       },
       {
-        "country": "es",
+        "country": "fr",
         "weight": 1
       },
       {
-        "country": "fr",
+        "country": "es",
         "weight": 1
       },
       {

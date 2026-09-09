@@ -26,15 +26,15 @@
       },
       {
         "country": "jp",
-        "weight": 20
+        "weight": 18
       },
       {
         "country": "ma",
-        "weight": 19
+        "weight": 17
       },
       {
         "country": "sn",
-        "weight": 10
+        "weight": 9
       },
       {
         "country": "ci",
@@ -42,62 +42,54 @@
       },
       {
         "country": "dk",
-        "weight": 9
-      },
-      {
-        "country": "ng",
-        "weight": 9
-      },
-      {
-        "country": "rs",
-        "weight": 9
-      },
-      {
-        "country": "cd",
-        "weight": 9
+        "weight": 8
       },
       {
         "country": "nl",
-        "weight": 9
+        "weight": 8
+      },
+      {
+        "country": "cd",
+        "weight": 8
       },
       {
         "country": "tr",
         "weight": 7
       },
       {
+        "country": "ng",
+        "weight": 7
+      },
+      {
+        "country": "rs",
+        "weight": 6
+      },
+      {
         "country": "de",
-        "weight": 5
+        "weight": 6
       },
       {
         "country": "es",
         "weight": 5
       },
       {
-        "country": "cm",
-        "weight": 4
-      },
-      {
         "country": "se",
         "weight": 4
       },
       {
-        "country": "no",
+        "country": "cm",
         "weight": 4
       },
       {
-        "country": "hr",
-        "weight": 4
+        "country": "ch",
+        "weight": 3
       },
       {
         "country": "gb",
         "weight": 3
       },
       {
-        "country": "pt",
-        "weight": 3
-      },
-      {
-        "country": "ch",
+        "country": "no",
         "weight": 3
       },
       {
@@ -105,15 +97,19 @@
         "weight": 3
       },
       {
-        "country": "ua",
+        "country": "pt",
         "weight": 3
       },
       {
-        "country": "gh",
+        "country": "gn",
         "weight": 2
       },
       {
-        "country": "gn",
+        "country": "ua",
+        "weight": 2
+      },
+      {
+        "country": "hr",
         "weight": 2
       },
       {
@@ -121,27 +117,15 @@
         "weight": 2
       },
       {
-        "country": "ml",
-        "weight": 2
-      },
-      {
-        "country": "ar",
-        "weight": 2
-      },
-      {
-        "country": "ba",
-        "weight": 2
-      },
-      {
-        "country": "dz",
-        "weight": 2
-      },
-      {
         "country": "al",
         "weight": 2
       },
       {
-        "country": "it",
+        "country": "gh",
+        "weight": 2
+      },
+      {
+        "country": "ml",
         "weight": 2
       },
       {
@@ -149,15 +133,11 @@
         "weight": 2
       },
       {
-        "country": "sk",
+        "country": "dz",
         "weight": 1
       },
       {
-        "country": "br",
-        "weight": 1
-      },
-      {
-        "country": "hu",
+        "country": "ba",
         "weight": 1
       },
       {
@@ -165,7 +145,23 @@
         "weight": 1
       },
       {
-        "country": "co",
+        "country": "hu",
+        "weight": 1
+      },
+      {
+        "country": "ar",
+        "weight": 1
+      },
+      {
+        "country": "sk",
+        "weight": 1
+      },
+      {
+        "country": "it",
+        "weight": 1
+      },
+      {
+        "country": "cw",
         "weight": 1
       },
       {
@@ -173,11 +169,15 @@
         "weight": 1
       },
       {
-        "country": "il",
+        "country": "sc",
         "weight": 1
       },
       {
         "country": "za",
+        "weight": 1
+      },
+      {
+        "country": "fi",
         "weight": 1
       }
     ],
@@ -233,6 +233,10 @@
       },
       {
         "country": "pl",
+        "weight": 1
+      },
+      {
+        "country": "ae",
         "weight": 1
       }
     ],

@@ -62,7 +62,7 @@
       },
       {
         "country": "ps",
-        "weight": 9
+        "weight": 10
       },
       {
         "country": "ar",
@@ -86,7 +86,7 @@
       },
       {
         "country": "ao",
-        "weight": 1
+        "weight": 2
       },
       {
         "country": "ug",
@@ -101,15 +101,11 @@
         "weight": 1
       },
       {
-        "country": "bj",
-        "weight": 1
-      },
-      {
         "country": "fr",
         "weight": 1
       },
       {
-        "country": "ke",
+        "country": "bj",
         "weight": 1
       }
     ],
@@ -125,6 +121,10 @@
         "kind": "money"
       },
       {
+        "country": "nl",
+        "weight": 9
+      },
+      {
         "country": "kw",
         "weight": 9,
         "kind": "money"
@@ -136,10 +136,6 @@
       },
       {
         "country": "it",
-        "weight": 8
-      },
-      {
-        "country": "nl",
         "weight": 8
       },
       {
@@ -184,39 +180,11 @@
         "weight": 3
       },
       {
-        "country": "cy",
-        "weight": 2
-      },
-      {
         "country": "cz",
         "weight": 2
       },
       {
-        "country": "ru",
-        "weight": 2
-      },
-      {
-        "country": "bg",
-        "weight": 1
-      },
-      {
         "country": "es",
-        "weight": 1
-      },
-      {
-        "country": "nz",
-        "weight": 1
-      },
-      {
-        "country": "de",
-        "weight": 1
-      },
-      {
-        "country": "fi",
-        "weight": 1
-      },
-      {
-        "country": "rs",
         "weight": 1
       }
     ],

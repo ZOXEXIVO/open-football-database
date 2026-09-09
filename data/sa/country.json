@@ -116,15 +116,15 @@
         "kind": "money"
       },
       {
+        "country": "ml",
+        "weight": 3
+      },
+      {
         "country": "gh",
-        "weight": 2
+        "weight": 3
       },
       {
         "country": "rs",
-        "weight": 2
-      },
-      {
-        "country": "ml",
         "weight": 2
       },
       {
@@ -136,11 +136,11 @@
         "weight": 1
       },
       {
-        "country": "sy",
+        "country": "gm",
         "weight": 1
       },
       {
-        "country": "gm",
+        "country": "sy",
         "weight": 1
       },
       {
@@ -160,11 +160,11 @@
         "weight": 1
       },
       {
-        "country": "cv",
+        "country": "sk",
         "weight": 1
       },
       {
-        "country": "sk",
+        "country": "cv",
         "weight": 1
       },
       {
@@ -172,11 +172,19 @@
         "weight": 1
       },
       {
+        "country": "lr",
+        "weight": 1
+      },
+      {
         "country": "be",
         "weight": 1
       },
       {
-        "country": "lr",
+        "country": "iq",
+        "weight": 1
+      },
+      {
+        "country": "al",
         "weight": 1
       }
     ],
@@ -186,24 +194,12 @@
         "weight": 30
       },
       {
-        "country": "es",
-        "weight": 30
-      },
-      {
         "country": "qa",
         "weight": 30
       },
       {
         "country": "be",
-        "weight": 21
-      },
-      {
-        "country": "fr",
-        "weight": 21
-      },
-      {
-        "country": "pt",
-        "weight": 21
+        "weight": 28
       },
       {
         "country": "kw",
@@ -211,47 +207,31 @@
       },
       {
         "country": "se",
-        "weight": 14
+        "weight": 17
+      },
+      {
+        "country": "es",
+        "weight": 10
+      },
+      {
+        "country": "it",
+        "weight": 9
       },
       {
         "country": "al",
         "weight": 8
       },
       {
-        "country": "gb",
-        "weight": 8
-      },
-      {
-        "country": "it",
-        "weight": 8
+        "country": "pt",
+        "weight": 7
       },
       {
         "country": "nl",
-        "weight": 8
+        "weight": 6
       },
       {
-        "country": "am",
-        "weight": 3
-      },
-      {
-        "country": "br",
-        "weight": 3
-      },
-      {
-        "country": "cz",
-        "weight": 3
-      },
-      {
-        "country": "de",
-        "weight": 3
-      },
-      {
-        "country": "gr",
-        "weight": 3
-      },
-      {
-        "country": "hr",
-        "weight": 3
+        "country": "gb",
+        "weight": 4
       }
     ],
     "diaspora": [],

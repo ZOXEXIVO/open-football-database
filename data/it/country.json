@@ -30,23 +30,23 @@
       },
       {
         "country": "ar",
-        "weight": 21
-      },
-      {
-        "country": "br",
-        "weight": 15
+        "weight": 18
       },
       {
         "country": "ro",
         "weight": 14
       },
       {
-        "country": "hr",
-        "weight": 11
+        "country": "br",
+        "weight": 12
       },
       {
         "country": "es",
-        "weight": 11
+        "weight": 10
+      },
+      {
+        "country": "hr",
+        "weight": 9
       },
       {
         "country": "sn",
@@ -54,7 +54,7 @@
       },
       {
         "country": "rs",
-        "weight": 8
+        "weight": 7
       },
       {
         "country": "nl",
@@ -65,16 +65,16 @@
         "weight": 6
       },
       {
+        "country": "ng",
+        "weight": 6
+      },
+      {
         "country": "pl",
         "weight": 6
       },
       {
         "country": "pt",
-        "weight": 6
-      },
-      {
-        "country": "ng",
-        "weight": 6
+        "weight": 5
       },
       {
         "country": "dk",
@@ -85,11 +85,11 @@
         "weight": 5
       },
       {
-        "country": "se",
+        "country": "ch",
         "weight": 5
       },
       {
-        "country": "ch",
+        "country": "se",
         "weight": 5
       },
       {
@@ -97,15 +97,7 @@
         "weight": 4
       },
       {
-        "country": "uy",
-        "weight": 4
-      },
-      {
         "country": "bg",
-        "weight": 3
-      },
-      {
-        "country": "ci",
         "weight": 3
       },
       {
@@ -113,11 +105,15 @@
         "weight": 3
       },
       {
+        "country": "ci",
+        "weight": 3
+      },
+      {
         "country": "de",
         "weight": 3
       },
       {
-        "country": "lt",
+        "country": "uy",
         "weight": 2
       },
       {
@@ -125,7 +121,15 @@
         "weight": 2
       },
       {
+        "country": "lt",
+        "weight": 2
+      },
+      {
         "country": "gm",
+        "weight": 2
+      },
+      {
+        "country": "lv",
         "weight": 2
       },
       {
@@ -137,16 +141,8 @@
         "weight": 2
       },
       {
-        "country": "lv",
-        "weight": 2
-      },
-      {
         "country": "no",
         "weight": 2
-      },
-      {
-        "country": "co",
-        "weight": 1
       },
       {
         "country": "ca",
@@ -161,6 +157,14 @@
         "weight": 1
       },
       {
+        "country": "co",
+        "weight": 1
+      },
+      {
+        "country": "us",
+        "weight": 1
+      },
+      {
         "country": "is",
         "weight": 1
       },
@@ -169,15 +173,11 @@
         "weight": 1
       },
       {
-        "country": "us",
+        "country": "ua",
         "weight": 1
       },
       {
         "country": "at",
-        "weight": 1
-      },
-      {
-        "country": "ba",
         "weight": 1
       }
     ],
@@ -225,11 +225,11 @@
         "kind": "money"
       },
       {
-        "country": "ar",
+        "country": "mt",
         "weight": 2
       },
       {
-        "country": "mt",
+        "country": "ar",
         "weight": 2
       },
       {
@@ -238,14 +238,10 @@
       },
       {
         "country": "hr",
-        "weight": 2
-      },
-      {
-        "country": "nl",
         "weight": 1
       },
       {
-        "country": "be",
+        "country": "nl",
         "weight": 1
       },
       {
@@ -253,11 +249,15 @@
         "weight": 1
       },
       {
+        "country": "cy",
+        "weight": 1
+      },
+      {
         "country": "br",
         "weight": 1
       },
       {
-        "country": "cy",
+        "country": "be",
         "weight": 1
       },
       {

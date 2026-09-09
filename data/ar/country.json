@@ -59,6 +59,10 @@
       {
         "country": "es",
         "weight": 1
+      },
+      {
+        "country": "it",
+        "weight": 1
       }
     ],
     "export": [
@@ -92,7 +96,7 @@
       },
       {
         "country": "py",
-        "weight": 10
+        "weight": 9
       },
       {
         "country": "fr",
@@ -129,15 +133,11 @@
       },
       {
         "country": "co",
-        "weight": 5
+        "weight": 4
       },
       {
         "country": "ve",
         "weight": 2
-      },
-      {
-        "country": "cy",
-        "weight": 1
       },
       {
         "country": "mt",
@@ -149,6 +149,10 @@
       },
       {
         "country": "id",
+        "weight": 1
+      },
+      {
+        "country": "cy",
         "weight": 1
       },
       {

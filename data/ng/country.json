@@ -75,18 +75,6 @@
       {
         "country": "cf",
         "weight": 3
-      },
-      {
-        "country": "py",
-        "weight": 3
-      },
-      {
-        "country": "ke",
-        "weight": 1
-      },
-      {
-        "country": "uy",
-        "weight": 1
       }
     ],
     "export": [
@@ -95,12 +83,12 @@
         "weight": 30
       },
       {
-        "country": "gb",
-        "weight": 25
+        "country": "cz",
+        "weight": 26
       },
       {
-        "country": "cz",
-        "weight": 22
+        "country": "gb",
+        "weight": 25
       },
       {
         "country": "be",
@@ -178,35 +166,35 @@
       },
       {
         "country": "rs",
+        "weight": 9
+      },
+      {
+        "country": "hr",
         "weight": 8
       },
       {
         "country": "eg",
-        "weight": 7
-      },
-      {
-        "country": "hr",
-        "weight": 7
+        "weight": 8
       },
       {
         "country": "al",
-        "weight": 6
+        "weight": 7
       },
       {
         "country": "mt",
+        "weight": 6
+      },
+      {
+        "country": "am",
+        "weight": 5
+      },
+      {
+        "country": "bg",
         "weight": 5
       },
       {
         "country": "sk",
         "weight": 5
-      },
-      {
-        "country": "am",
-        "weight": 4
-      },
-      {
-        "country": "bg",
-        "weight": 4
       },
       {
         "country": "il",
@@ -229,7 +217,11 @@
         "weight": 2
       },
       {
-        "country": "lv",
+        "country": "az",
+        "weight": 2
+      },
+      {
+        "country": "dz",
         "weight": 1
       },
       {
@@ -237,19 +229,15 @@
         "weight": 1
       },
       {
-        "country": "az",
+        "country": "lv",
         "weight": 1
       },
       {
-        "country": "dz",
+        "country": "pl",
         "weight": 1
       },
       {
         "country": "ar",
-        "weight": 1
-      },
-      {
-        "country": "at",
         "weight": 1
       }
     ],

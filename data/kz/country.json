@@ -49,6 +49,10 @@
         "weight": 8
       },
       {
+        "country": "me",
+        "weight": 7
+      },
+      {
         "country": "ba",
         "weight": 6
       },
@@ -59,10 +63,6 @@
       {
         "country": "ng",
         "weight": 6
-      },
-      {
-        "country": "me",
-        "weight": 5
       },
       {
         "country": "am",
@@ -98,7 +98,7 @@
       },
       {
         "country": "fr",
-        "weight": 3
+        "weight": 4
       },
       {
         "country": "ro",
@@ -110,11 +110,7 @@
       },
       {
         "country": "es",
-        "weight": 1
-      },
-      {
-        "country": "fi",
-        "weight": 1
+        "weight": 2
       },
       {
         "country": "lt",
@@ -122,14 +118,6 @@
       },
       {
         "country": "al",
-        "weight": 1
-      },
-      {
-        "country": "de",
-        "weight": 1
-      },
-      {
-        "country": "ne",
         "weight": 1
       }
     ],
@@ -189,18 +177,6 @@
       {
         "country": "be",
         "weight": 2
-      },
-      {
-        "country": "gb",
-        "weight": 1
-      },
-      {
-        "country": "sk",
-        "weight": 1
-      },
-      {
-        "country": "il",
-        "weight": 1
       }
     ],
     "diaspora": [

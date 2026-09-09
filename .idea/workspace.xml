@@ -29,13 +29,7 @@
     </cargoProject>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="505cb019-09e5-4271-844a-a130a66a0df7" name="Changes" comment="Improve transfers">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compiler/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/compiler/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/countries.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/countries.json" afterDir="false" />
-    </list>
+    <list default="true" id="505cb019-09e5-4271-844a-a130a66a0df7" name="Changes" comment="Improve countries" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -487,7 +481,8 @@
     <MESSAGE value="Fix ca/pa" />
     <MESSAGE value="Transfers" />
     <MESSAGE value="Improve transfers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improve transfers" />
+    <MESSAGE value="Improve countries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improve countries" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
