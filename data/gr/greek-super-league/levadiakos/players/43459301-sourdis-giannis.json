@@ -5,6 +5,13 @@
   "birth_date": "2001-09-29",
   "country_id": 772,
   "club_id": 979,
+  "attrs": {
+    "person": {"ada": 9, "pre": 9},
+    "player": {
+      "physical": {"jum": 15, "agi": 12},
+      "goalkeeping": {"aer": 13, "ref": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

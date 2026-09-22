@@ -4,6 +4,12 @@
   "last_name": "Contrera",
   "birth_date": "2005-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 12},
+      "physical": {"str": 11}
+    }
+  },
   "positions": [
     {
       "code": "ST",

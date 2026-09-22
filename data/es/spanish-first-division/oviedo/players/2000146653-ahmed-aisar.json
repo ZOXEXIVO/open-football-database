@@ -5,6 +5,12 @@
   "birth_date": "2001-06-19",
   "country_id": 796,
   "club_id": 1741,
+  "attrs": {
+    "player": {
+      "mental": {"wor": 16},
+      "physical": {"jum": 6, "agi": 14}
+    }
+  },
   "positions": [
     {
       "code": "DR",

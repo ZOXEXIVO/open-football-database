@@ -5,6 +5,15 @@
   "birth_date": "1998-11-03",
   "country_id": 791,
   "club_id": 130500,
+  "attrs": {
+    "person": {"tem": 9},
+    "player": {
+      "technical": {"dri": 6, "hea": 13, "tck": 8},
+      "mental": {"pos": 7, "wor": 13, "ldr": 12, "bra": 12, "agg": 11, "cnt": 10},
+      "physical": {"acc": 10, "str": 10, "jum": 11, "agi": 8},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -5,6 +5,15 @@
   "birth_date": "1998-04-27",
   "country_id": 1649,
   "club_id": 14031205,
+  "attrs": {
+    "person": {"ada": 15, "loy": 12},
+    "player": {
+      "technical": {"dri": 10, "mar": 10, "pen": 11, "tck": 11, "tec": 11},
+      "mental": {"otb": 9, "vis": 9, "fla": 8, "tea": 11, "wor": 11, "det": 13, "cmp": 11},
+      "physical": {"acc": 12, "str": 9, "pac": 13, "jum": 5},
+      "hidden": {"dir": 10, "cns": 8}
+    }
+  },
   "positions": [
     {
       "code": "DR",

@@ -4,6 +4,14 @@
   "last_name": "Routek",
   "birth_date": "1996-01-01",
   "country_id": 763,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 5, "dri": 5, "hea": 10, "lon": 3, "mar": 13, "pas": 7, "tck": 14, "fir": 8, "tec": 9, "cor": 2, "lth": 12, "fre": 3},
+      "mental": {"otb": 8, "vis": 3, "ant": 8, "dec": 7, "pos": 14, "fla": 5, "tea": 10, "wor": 12, "bra": 7, "agg": 7, "cmp": 8, "cnt": 7},
+      "physical": {"acc": 10, "str": 14, "sta": 8, "pac": 10, "jum": 14, "bal": 14, "agi": 10, "nat": 7},
+      "hidden": {"cns": 10, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "DC",

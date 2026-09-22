@@ -5,6 +5,13 @@
   "birth_date": "2008-03-26",
   "country_id": 761,
   "club_id": 440,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 11},
+      "physical": {"jum": 17},
+      "goalkeeping": {"aer": 13, "kic": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

@@ -5,6 +5,13 @@
   "birth_date": "1996-11-12",
   "country_id": 38,
   "club_id": 529014,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 15},
+      "physical": {"pac": 15, "jum": 11},
+      "hidden": {"cns": 17}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

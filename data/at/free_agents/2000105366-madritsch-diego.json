@@ -4,6 +4,14 @@
   "last_name": "Madritsch",
   "birth_date": "2005-08-02",
   "country_id": 755,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 10, "fin": 9, "hea": 9, "lon": 8, "mar": 8, "pas": 10, "tck": 9, "fir": 10, "tec": 10, "cor": 8, "lth": 8},
+      "mental": {"otb": 12, "vis": 9, "ant": 10, "dec": 9, "pos": 7, "tea": 10, "wor": 11, "ldr": 6, "bra": 11, "agg": 6, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 12, "str": 8, "sta": 11, "pac": 14, "jum": 8, "bal": 8, "agi": 13, "nat": 11},
+      "hidden": {"cns": 10, "imp": 6, "inj": 9, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "MC",

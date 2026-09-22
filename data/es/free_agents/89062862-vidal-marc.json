@@ -4,6 +4,16 @@
   "last_name": "Vidal",
   "birth_date": "2000-02-14",
   "country_id": 796,
+  "attrs": {
+    "person": {"ada": 10, "amb": 9, "loy": 9, "pre": 8, "pro": 10, "spo": 10, "tem": 10, "con": 7},
+    "player": {
+      "technical": {"hea": 7, "pas": 12, "fir": 9, "tec": 11},
+      "mental": {"otb": 2, "vis": 12, "ant": 8, "dec": 11, "pos": 11, "fla": 7, "tea": 11, "wor": 10, "ldr": 9, "bra": 11, "agg": 9, "det": 12, "cmp": 8, "cnt": 11},
+      "physical": {"acc": 8, "str": 12, "sta": 12, "pac": 10, "jum": 11, "bal": 12, "agi": 13, "nat": 14},
+      "goalkeeping": {"han": 13, "aer": 13, "cmd": 14, "com": 13, "kic": 14, "thr": 12, "one": 14, "ref": 15, "ecc": 8, "rus": 12, "pun": 9},
+      "hidden": {"dir": 8, "cns": 12, "imp": 12, "inj": 6}
+    }
+  },
   "positions": [
     {
       "code": "GK",

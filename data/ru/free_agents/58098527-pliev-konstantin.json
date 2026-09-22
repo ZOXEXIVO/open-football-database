@@ -4,6 +4,14 @@
   "last_name": "Pliev",
   "birth_date": "1996-10-26",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 6, "dri": 7, "fin": 5, "hea": 13, "lon": 7, "mar": 11, "pas": 12, "pen": 9, "tck": 13, "fir": 9, "tec": 8, "cor": 7, "lth": 11, "fre": 7},
+      "mental": {"otb": 7, "vis": 6, "ant": 14, "dec": 13, "pos": 13, "fla": 6, "tea": 13, "wor": 15, "ldr": 12, "bra": 13, "agg": 11, "cmp": 11, "cnt": 14},
+      "physical": {"acc": 12, "str": 10, "sta": 13, "pac": 12, "jum": 11, "bal": 13, "agi": 12, "nat": 14},
+      "hidden": {"cns": 14, "imp": 12, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DC",

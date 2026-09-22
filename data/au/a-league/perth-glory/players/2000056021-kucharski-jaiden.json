@@ -5,6 +5,13 @@
   "birth_date": "2002-06-25",
   "country_id": 1435,
   "club_id": 123001,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 12},
+      "mental": {"vis": 12, "fla": 13},
+      "physical": {"str": 11}
+    }
+  },
   "positions": [
     {
       "code": "MC",

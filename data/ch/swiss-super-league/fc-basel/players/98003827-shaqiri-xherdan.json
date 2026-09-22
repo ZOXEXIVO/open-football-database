@@ -5,6 +5,15 @@
   "birth_date": "1991-10-10",
   "country_id": 798,
   "club_id": 1849,
+  "attrs": {
+    "person": {"ada": 14, "amb": 16, "loy": 14, "pre": 13, "pro": 13, "spo": 10, "tem": 10, "con": 12},
+    "player": {
+      "technical": {"cro": 9, "dri": 1, "lon": 1, "pen": 1},
+      "mental": {"ldr": 1, "bra": 7, "cmp": 1},
+      "physical": {"acc": 7, "str": 1, "jum": 7},
+      "goalkeeping": {"han": 1, "aer": 19, "com": 20, "one": 1}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

@@ -5,6 +5,15 @@
   "birth_date": "2006-01-19",
   "country_id": 769,
   "club_id": 886,
+  "attrs": {
+    "person": {"ada": 13},
+    "player": {
+      "technical": {"dri": 10, "hea": 10, "pas": 10, "tck": 9, "fir": 11, "cor": 11, "fre": 11},
+      "mental": {"otb": 10, "vis": 10, "pos": 11, "fla": 13, "wor": 9, "agg": 11, "det": 13},
+      "physical": {"acc": 11, "sta": 10, "jum": 10},
+      "hidden": {"cns": 11, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

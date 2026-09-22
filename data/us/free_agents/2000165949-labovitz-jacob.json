@@ -4,6 +4,13 @@
   "last_name": "Labovitz",
   "birth_date": "1998-01-01",
   "country_id": 390,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 12, "hea": 12},
+      "mental": {"otb": 11, "dec": 8},
+      "physical": {"str": 12, "sta": 11, "jum": 12, "bal": 11}
+    }
+  },
   "positions": [
     {
       "code": "ST",

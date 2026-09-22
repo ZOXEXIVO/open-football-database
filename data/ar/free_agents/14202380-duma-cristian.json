@@ -4,6 +4,14 @@
   "last_name": "Duma",
   "birth_date": "1996-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 13, "hea": 13},
+      "mental": {"det": 8},
+      "physical": {"str": 14, "jum": 12},
+      "hidden": {"cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "ST",

@@ -5,6 +5,14 @@
   "birth_date": "2001-07-10",
   "country_id": 784,
   "club_id": 1000,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 11, "pas": 9, "tec": 8},
+      "mental": {"ant": 11, "pos": 11, "tea": 12, "wor": 9, "ldr": 8, "agg": 8, "det": 8, "cmp": 11},
+      "physical": {"str": 9, "sta": 12, "jum": 12, "bal": 10, "agi": 11},
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "DR",

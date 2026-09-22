@@ -4,6 +4,13 @@
   "last_name": "Ibarra",
   "birth_date": "2000-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"amb": 9, "pro": 9},
+    "player": {
+      "mental": {"dec": 9, "det": 9, "cnt": 9},
+      "physical": {"acc": 12, "str": 13, "sta": 12, "pac": 12, "jum": 10, "bal": 10, "agi": 11, "nat": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

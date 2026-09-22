@@ -4,6 +4,15 @@
   "last_name": "Haring",
   "birth_date": "1993-01-01",
   "country_id": 755,
+  "attrs": {
+    "person": {"ada": 14, "amb": 11, "loy": 9, "pre": 10, "pro": 11, "spo": 12, "tem": 12, "con": 5},
+    "player": {
+      "technical": {"cro": 8, "dri": 7, "fin": 8, "hea": 13, "lon": 5, "mar": 12, "pas": 12, "pen": 6, "tck": 13, "fir": 11, "tec": 12, "cor": 5, "lth": 7, "fre": 5},
+      "mental": {"otb": 8, "vis": 12, "ant": 12, "dec": 12, "pos": 13, "fla": 6, "tea": 14, "wor": 14, "ldr": 11, "bra": 13, "agg": 14, "det": 14, "cmp": 11, "cnt": 13},
+      "physical": {"acc": 8, "str": 12, "sta": 11, "pac": 9, "jum": 14, "bal": 11, "agi": 9, "nat": 13},
+      "hidden": {"dir": 14, "cns": 11, "imp": 12, "inj": 13, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "DC",

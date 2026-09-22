@@ -4,6 +4,13 @@
   "last_name": "Dzestelov",
   "birth_date": "2009-01-22",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 6, "fin": 7, "hea": 3, "lon": 5, "fir": 11, "tec": 11, "fre": 7},
+      "mental": {"otb": 8, "vis": 9, "dec": 6, "wor": 9, "bra": 7},
+      "physical": {"acc": 11, "str": 6, "sta": 3, "pac": 9, "jum": 6}
+    }
+  },
   "positions": [
     {
       "code": "MC",

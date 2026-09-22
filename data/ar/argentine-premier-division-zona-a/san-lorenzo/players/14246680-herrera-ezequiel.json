@@ -5,6 +5,14 @@
   "birth_date": "2003-01-22",
   "country_id": 1649,
   "club_id": 96,
+  "attrs": {
+    "person": {"con": 7},
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 8, "mar": 12, "tck": 13, "fir": 11, "tec": 10},
+      "mental": {"otb": 11, "dec": 12, "pos": 11, "tea": 14, "wor": 15},
+      "physical": {"acc": 13, "str": 11, "pac": 13, "jum": 10, "bal": 10, "agi": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

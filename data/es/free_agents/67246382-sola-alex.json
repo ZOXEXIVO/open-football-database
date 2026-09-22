@@ -4,6 +4,15 @@
   "last_name": "Sola",
   "birth_date": "1999-06-09",
   "country_id": 796,
+  "attrs": {
+    "person": {"ada": 14, "amb": 13, "loy": 14, "pre": 9, "pro": 15, "spo": 12, "tem": 10, "con": 6},
+    "player": {
+      "technical": {"cro": 11, "dri": 13, "fin": 9, "hea": 8, "lon": 9, "mar": 12, "pas": 10, "tck": 11, "fir": 10, "tec": 12, "cor": 10},
+      "mental": {"otb": 14, "vis": 11, "ant": 13, "dec": 10, "pos": 10, "fla": 11, "tea": 13, "wor": 14, "bra": 13, "agg": 13, "det": 13, "cmp": 10, "cnt": 13},
+      "physical": {"acc": 14, "str": 10, "sta": 14, "pac": 14, "jum": 9, "bal": 10, "agi": 14, "nat": 11},
+      "hidden": {"dir": 9, "cns": 10, "ver": 16}
+    }
+  },
   "positions": [
     {
       "code": "DR",

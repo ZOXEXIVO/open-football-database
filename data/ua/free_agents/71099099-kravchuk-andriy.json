@@ -4,6 +4,14 @@
   "last_name": "Kravchuk",
   "birth_date": "1999-02-26",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "dri": 8, "fin": 8, "hea": 11, "lon": 8, "mar": 8, "pas": 12, "pen": 11, "tck": 9, "fir": 12, "tec": 12, "cor": 11, "lth": 10, "fre": 11},
+      "mental": {"otb": 12, "vis": 11, "ant": 11, "dec": 11, "pos": 5, "fla": 13, "tea": 12, "wor": 11, "ldr": 5, "bra": 12, "agg": 8, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 10, "str": 8, "sta": 12, "pac": 11, "jum": 11, "bal": 11, "agi": 10, "nat": 11},
+      "hidden": {"dir": 8, "cns": 10, "imp": 13, "inj": 8, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "MC",

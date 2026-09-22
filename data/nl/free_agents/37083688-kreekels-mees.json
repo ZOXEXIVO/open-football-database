@@ -4,6 +4,14 @@
   "last_name": "Kreekels",
   "birth_date": "2001-11-01",
   "country_id": 784,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 7, "fin": 5, "hea": 12, "mar": 11, "tck": 12, "fir": 9, "tec": 11},
+      "mental": {"otb": 9, "vis": 8, "ant": 9, "dec": 10, "pos": 12, "fla": 7, "tea": 14, "wor": 13, "ldr": 11, "bra": 9, "agg": 12, "det": 10, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 12, "str": 11, "sta": 12, "pac": 11, "jum": 12, "bal": 13, "agi": 10, "nat": 12},
+      "hidden": {"dir": 11, "cns": 10, "inj": 7}
+    }
+  },
   "positions": [
     {
       "code": "DL",

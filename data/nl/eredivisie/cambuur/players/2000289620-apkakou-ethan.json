@@ -5,6 +5,13 @@
   "birth_date": "2006-10-15",
   "country_id": 769,
   "club_id": 994,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 10},
+      "mental": {"otb": 11, "tea": 12, "ldr": 7},
+      "physical": {"str": 15, "sta": 13, "jum": 11, "bal": 15, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

@@ -5,6 +5,13 @@
   "birth_date": "2008-02-04",
   "country_id": 1657,
   "club_id": 78027478,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 13, "fir": 15, "tec": 14},
+      "mental": {"fla": 14},
+      "physical": {"acc": 15, "str": 3, "jum": 3, "bal": 5, "agi": 14}
+    }
+  },
   "positions": [
     {
       "code": "AML",

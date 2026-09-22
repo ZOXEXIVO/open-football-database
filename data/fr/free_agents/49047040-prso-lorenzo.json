@@ -4,6 +4,14 @@
   "last_name": "Prso",
   "birth_date": "2001-01-01",
   "country_id": 769,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 12, "mar": 13, "pas": 12, "tck": 12, "tec": 8},
+      "mental": {"ant": 12, "dec": 10, "pos": 12, "tea": 13, "ldr": 13, "bra": 13, "agg": 12, "cnt": 12},
+      "physical": {"acc": 10, "str": 9, "sta": 11, "pac": 9, "jum": 7, "bal": 13, "agi": 10},
+      "hidden": {"dir": 13}
+    }
+  },
   "positions": [
     {
       "code": "DC",

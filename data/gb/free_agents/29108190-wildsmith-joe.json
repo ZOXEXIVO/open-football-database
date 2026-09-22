@@ -4,6 +4,16 @@
   "last_name": "Wildsmith",
   "birth_date": "1995-12-28",
   "country_id": 765,
+  "attrs": {
+    "person": {"ada": 11, "amb": 11, "loy": 12, "pre": 11, "pro": 13, "spo": 11, "tem": 12, "con": 5},
+    "player": {
+      "technical": {"pas": 8, "fir": 10},
+      "mental": {"dec": 9, "pos": 13, "ldr": 12, "bra": 13, "det": 13, "cmp": 9, "cnt": 12},
+      "physical": {"acc": 12, "str": 12, "sta": 14, "pac": 11, "jum": 13, "bal": 10, "agi": 14, "nat": 15},
+      "goalkeeping": {"han": 12, "aer": 11, "cmd": 13, "com": 9, "kic": 13, "thr": 8, "one": 12, "ref": 14, "ecc": 4, "rus": 6, "pun": 1},
+      "hidden": {"cns": 9, "imp": 12, "inj": 4}
+    }
+  },
   "positions": [
     {
       "code": "GK",

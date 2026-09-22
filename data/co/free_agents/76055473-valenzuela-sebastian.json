@@ -4,6 +4,14 @@
   "last_name": "Valenzuela",
   "birth_date": "1999-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"amb": 9, "loy": 13, "pre": 11, "pro": 10, "spo": 9, "tem": 11},
+    "player": {
+      "technical": {"dri": 12, "fin": 11, "hea": 9, "pas": 10, "fir": 10, "tec": 12},
+      "mental": {"dec": 10, "det": 10, "cnt": 10},
+      "physical": {"acc": 12, "str": 8, "sta": 11, "pac": 12, "bal": 10, "agi": 11, "nat": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

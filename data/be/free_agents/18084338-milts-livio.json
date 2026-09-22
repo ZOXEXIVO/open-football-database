@@ -4,6 +4,14 @@
   "last_name": "Milts",
   "birth_date": "1997-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "fin": 9, "hea": 11, "mar": 6, "pas": 12, "tck": 6, "fir": 11, "tec": 11},
+      "mental": {"otb": 12, "vis": 12, "ant": 11, "dec": 11, "pos": 6, "tea": 11, "wor": 11, "bra": 10, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 11, "str": 12, "sta": 14, "pac": 11, "jum": 11, "bal": 13, "agi": 10},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "MC",

@@ -4,6 +4,13 @@
   "last_name": "Björnsson",
   "birth_date": "1995-03-29",
   "country_id": 774,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 4, "lon": 5, "fir": 7},
+      "mental": {"wor": 15, "bra": 12, "agg": 13},
+      "physical": {"acc": 9, "bal": 5, "agi": 6}
+    }
+  },
   "positions": [
     {
       "code": "MC",

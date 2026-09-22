@@ -5,6 +5,14 @@
   "birth_date": "1996-10-23",
   "country_id": 113,
   "club_id": 116145,
+  "attrs": {
+    "person": {"loy": 17},
+    "player": {
+      "technical": {"cro": 9, "dri": 9, "fin": 8, "lon": 8, "mar": 6, "pas": 9, "fir": 11, "tec": 11, "lth": 5},
+      "mental": {"otb": 10, "ant": 11, "dec": 11, "fla": 10, "tea": 9, "det": 14},
+      "physical": {"acc": 9, "str": 9, "sta": 12, "pac": 10, "agi": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

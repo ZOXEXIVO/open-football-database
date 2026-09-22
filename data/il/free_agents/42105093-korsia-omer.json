@@ -4,6 +4,13 @@
   "last_name": "Korsia",
   "birth_date": "2002-10-07",
   "country_id": 775,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 10, "mar": 10, "tck": 9},
+      "mental": {"ant": 11, "pos": 10},
+      "physical": {"str": 10, "jum": 10, "bal": 7}
+    }
+  },
   "positions": [
     {
       "code": "DC",

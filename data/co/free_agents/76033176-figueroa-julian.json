@@ -4,6 +4,15 @@
   "last_name": "Figueroa",
   "birth_date": "1993-01-29",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 11, "amb": 10, "loy": 11, "pre": 11, "pro": 12, "spo": 10, "tem": 12, "con": 9},
+    "player": {
+      "technical": {"cro": 8, "dri": 8, "fin": 5, "hea": 12, "lon": 7, "mar": 11, "pas": 10, "pen": 5, "tck": 12, "fir": 10, "tec": 11, "cor": 6, "lth": 10, "fre": 4},
+      "mental": {"otb": 8, "vis": 8, "ant": 12, "dec": 10, "pos": 12, "fla": 7, "tea": 12, "wor": 13, "ldr": 10, "bra": 13, "agg": 14, "det": 11, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 12, "str": 13, "sta": 12, "pac": 13, "jum": 9, "bal": 11, "agi": 11, "nat": 12},
+      "hidden": {"dir": 8, "imp": 10, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DL",

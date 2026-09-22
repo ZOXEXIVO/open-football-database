@@ -4,6 +4,14 @@
   "last_name": "Pavlica",
   "birth_date": "2003-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"amb": 13, "pro": 9, "spo": 9, "tem": 10},
+    "player": {
+      "technical": {"dri": 9, "fin": 11, "hea": 10, "fir": 10, "tec": 9},
+      "mental": {"otb": 11, "ant": 10, "dec": 10, "det": 13, "cmp": 12},
+      "physical": {"acc": 11, "str": 13, "sta": 13, "pac": 11, "bal": 13, "agi": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

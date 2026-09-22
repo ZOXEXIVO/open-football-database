@@ -5,6 +5,14 @@
   "birth_date": "2005-02-01",
   "country_id": 758,
   "club_id": 5410568,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 11, "tck": 8},
+      "mental": {"ldr": 13},
+      "physical": {"str": 8},
+      "hidden": {"cns": 7}
+    }
+  },
   "positions": [
     {
       "code": "DM",

@@ -4,6 +4,14 @@
   "last_name": "Popović",
   "birth_date": "1998-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"pro": 12, "spo": 12, "tem": 12},
+    "player": {
+      "technical": {"mar": 9, "tck": 12},
+      "mental": {"dec": 10, "pos": 12, "cnt": 10},
+      "physical": {"acc": 11, "str": 9, "sta": 11, "pac": 11}
+    }
+  },
   "positions": [
     {
       "code": "DL",

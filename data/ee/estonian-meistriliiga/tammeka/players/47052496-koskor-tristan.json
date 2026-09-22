@@ -5,6 +5,13 @@
   "birth_date": "1995-11-28",
   "country_id": 766,
   "club_id": 5220196,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "fin": 9, "hea": 11, "tec": 8},
+      "mental": {"tea": 11},
+      "physical": {"str": 11, "jum": 13}
+    }
+  },
   "positions": [
     {
       "code": "AML",

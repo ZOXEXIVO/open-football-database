@@ -5,6 +5,14 @@
   "birth_date": "2004-05-28",
   "country_id": 791,
   "club_id": 130561,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 13, "hea": 7, "lon": 7, "mar": 5, "fir": 10, "tec": 11},
+      "mental": {"otb": 12, "ant": 9, "dec": 10, "fla": 12, "tea": 8, "wor": 9, "cmp": 9, "cnt": 9},
+      "physical": {"str": 8, "sta": 9, "jum": 8, "bal": 9, "agi": 12},
+      "hidden": {"cns": 15}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

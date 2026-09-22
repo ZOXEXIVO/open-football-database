@@ -4,6 +4,13 @@
   "last_name": "Gavrić",
   "birth_date": "2003-01-01",
   "country_id": 795,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 9, "fin": 8, "hea": 13, "mar": 11, "pas": 12, "tck": 12, "fir": 10, "tec": 9, "cor": 7},
+      "mental": {"dec": 11, "pos": 12},
+      "physical": {"str": 14, "sta": 11, "jum": 15}
+    }
+  },
   "positions": [
     {
       "code": "DM",

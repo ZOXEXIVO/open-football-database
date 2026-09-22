@@ -4,6 +4,15 @@
   "last_name": "Vannoye",
   "birth_date": "1998-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"amb": 8, "loy": 13, "pro": 13, "con": 7},
+    "player": {
+      "technical": {"hea": 12, "mar": 12, "pas": 11, "tck": 11, "tec": 8},
+      "mental": {"otb": 11, "ant": 12, "dec": 9, "pos": 10, "tea": 13, "wor": 12, "ldr": 10, "bra": 11, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 12, "str": 12, "pac": 12, "jum": 12, "agi": 11},
+      "hidden": {"cns": 11, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "DC",

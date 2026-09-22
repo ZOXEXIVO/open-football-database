@@ -4,6 +4,14 @@
   "last_name": "Mora",
   "birth_date": "1991-01-01",
   "country_id": 379,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 13, "dri": 15, "fin": 11, "hea": 8, "lon": 11, "mar": 9, "pas": 11, "tck": 9, "fir": 11, "tec": 11, "cor": 12, "lth": 10, "fre": 10},
+      "mental": {"otb": 12, "vis": 11, "ant": 12, "dec": 13, "pos": 12, "fla": 14, "tea": 10, "wor": 7, "ldr": 11, "bra": 11, "agg": 10, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 9, "str": 11, "sta": 9, "pac": 8, "jum": 7, "bal": 10, "agi": 12},
+      "hidden": {"dir": 10, "cns": 8, "inj": 14, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "MC",

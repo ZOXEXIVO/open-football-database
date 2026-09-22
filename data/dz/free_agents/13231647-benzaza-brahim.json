@@ -4,6 +4,14 @@
   "last_name": "Benzaza",
   "birth_date": "1997-04-08",
   "country_id": 5,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 13, "fin": 8, "lon": 11, "pas": 12, "fir": 11, "tec": 12, "cor": 11, "lth": 8, "fre": 9},
+      "mental": {"otb": 11, "vis": 11, "ant": 12, "dec": 11, "pos": 9, "fla": 14, "tea": 12, "wor": 13, "cmp": 11},
+      "physical": {"acc": 13, "str": 7, "sta": 12, "pac": 13, "jum": 7, "bal": 10, "agi": 13},
+      "hidden": {"ver": 16}
+    }
+  },
   "positions": [
     {
       "code": "DM",

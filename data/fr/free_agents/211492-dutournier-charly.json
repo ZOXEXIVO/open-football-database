@@ -4,6 +4,15 @@
   "last_name": "Dutournier",
   "birth_date": "1994-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"pro": 13},
+    "player": {
+      "technical": {"fin": 10, "hea": 13, "fir": 12},
+      "mental": {"otb": 12, "ant": 10, "dec": 9, "pos": 13},
+      "physical": {"acc": 12, "str": 12, "sta": 11, "pac": 12, "jum": 13, "bal": 12, "agi": 10, "nat": 13},
+      "hidden": {"cns": 11, "ver": 5}
+    }
+  },
   "positions": [
     {
       "code": "ST",

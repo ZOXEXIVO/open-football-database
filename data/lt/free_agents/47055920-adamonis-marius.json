@@ -4,6 +4,16 @@
   "last_name": "Adamonis",
   "birth_date": "1997-05-13",
   "country_id": 779,
+  "attrs": {
+    "person": {"ada": 14, "amb": 13, "loy": 12, "pre": 11, "pro": 14, "spo": 12, "tem": 15, "con": 3},
+    "player": {
+      "technical": {"hea": 10, "pas": 10, "fir": 8, "tec": 11},
+      "mental": {"otb": 6, "vis": 12, "ant": 9, "dec": 11, "pos": 12, "fla": 1, "tea": 11, "wor": 11, "ldr": 11, "bra": 11, "agg": 4, "det": 13, "cmp": 9, "cnt": 11},
+      "physical": {"acc": 11, "str": 12, "sta": 14, "pac": 11, "jum": 14, "bal": 11, "agi": 12, "nat": 14},
+      "goalkeeping": {"han": 12, "aer": 12, "cmd": 12, "com": 11, "kic": 13, "thr": 12, "one": 11, "ref": 13, "ecc": 6, "rus": 11, "pun": 12},
+      "hidden": {"dir": 9, "cns": 12, "imp": 9, "inj": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

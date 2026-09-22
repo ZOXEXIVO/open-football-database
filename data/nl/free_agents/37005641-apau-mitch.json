@@ -4,6 +4,15 @@
   "last_name": "Apau",
   "birth_date": "1990-01-01",
   "country_id": 784,
+  "attrs": {
+    "person": {"ada": 13, "pro": 12, "spo": 11, "tem": 11},
+    "player": {
+      "technical": {"cro": 13, "dri": 6, "fin": 3, "hea": 8, "lon": 7, "mar": 12, "pas": 12, "pen": 6, "tck": 11, "fir": 12, "tec": 9, "cor": 11, "fre": 6},
+      "mental": {"otb": 10, "vis": 8, "ant": 11, "dec": 10, "pos": 12, "fla": 8, "tea": 12, "wor": 13, "ldr": 15, "bra": 14, "agg": 12, "det": 12, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 8, "str": 12, "sta": 10, "pac": 8, "jum": 10, "bal": 13, "agi": 10, "nat": 11},
+      "hidden": {"cns": 12, "imp": 14, "inj": 4}
+    }
+  },
   "positions": [
     {
       "code": "DR",

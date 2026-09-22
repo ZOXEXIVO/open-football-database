@@ -4,6 +4,15 @@
   "last_name": "Barišić",
   "birth_date": "1992-11-10",
   "country_id": 761,
+  "attrs": {
+    "person": {"ada": 12, "amb": 15, "loy": 10, "pre": 8, "pro": 12, "spo": 15, "tem": 14, "con": 13},
+    "player": {
+      "technical": {"cro": 17, "dri": 10, "fin": 12, "hea": 8, "lon": 14, "mar": 11, "pas": 13, "pen": 15, "tck": 13, "fir": 10, "tec": 12, "cor": 17, "lth": 13, "fre": 17},
+      "mental": {"otb": 13, "vis": 13, "ant": 12, "dec": 10, "pos": 13, "fla": 8, "tea": 12, "wor": 10, "ldr": 10, "bra": 6, "agg": 8, "det": 7, "cmp": 13, "cnt": 8},
+      "physical": {"acc": 12, "str": 12, "sta": 11, "pac": 12, "jum": 12, "bal": 11, "agi": 12, "nat": 9},
+      "hidden": {"dir": 9, "cns": 10, "imp": 7, "inj": 15, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DL",

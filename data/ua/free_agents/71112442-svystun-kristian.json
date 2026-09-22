@@ -4,6 +4,12 @@
   "last_name": "Svystun",
   "birth_date": "2003-09-02",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "mental": {"ldr": 13, "det": 15, "cnt": 11},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

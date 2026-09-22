@@ -4,6 +4,11 @@
   "last_name": "Caculović",
   "birth_date": "1995-01-01",
   "country_id": 755,
+  "attrs": {
+    "player": {
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

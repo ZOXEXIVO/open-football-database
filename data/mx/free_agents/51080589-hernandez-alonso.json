@@ -4,6 +4,12 @@
   "last_name": "Hernández",
   "birth_date": "1998-01-01",
   "country_id": 379,
+  "attrs": {
+    "player": {
+      "physical": {"str": 15, "jum": 9},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "ST",

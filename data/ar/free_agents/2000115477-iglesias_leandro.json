@@ -4,6 +4,14 @@
   "last_name": "Iglesias",
   "birth_date": "2001-01-17",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 12, "fin": 11, "hea": 9, "lon": 11, "mar": 7, "pas": 12, "pen": 9, "tck": 7, "fir": 13, "tec": 12, "cor": 11, "lth": 5, "fre": 10},
+      "mental": {"otb": 12, "vis": 13, "ant": 10, "dec": 12, "pos": 12, "fla": 12, "tea": 12, "wor": 13, "ldr": 8, "bra": 12, "agg": 11, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 11, "str": 10, "sta": 11, "pac": 11, "jum": 11, "bal": 12, "agi": 13, "nat": 12},
+      "hidden": {"dir": 7, "cns": 11, "imp": 11, "inj": 9, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "MC",

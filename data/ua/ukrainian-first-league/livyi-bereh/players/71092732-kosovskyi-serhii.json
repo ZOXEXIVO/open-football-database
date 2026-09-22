@@ -5,6 +5,14 @@
   "birth_date": "1998-05-19",
   "country_id": 800,
   "club_id": 2000032124,
+  "attrs": {
+    "person": {"amb": 8, "loy": 15, "pre": 17, "pro": 15, "spo": 11},
+    "player": {
+      "technical": {"dri": 11, "fin": 7, "pas": 12, "fir": 12},
+      "mental": {"dec": 10},
+      "physical": {"acc": 9, "str": 9, "jum": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

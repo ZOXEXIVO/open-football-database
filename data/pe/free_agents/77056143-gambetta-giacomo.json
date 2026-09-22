@@ -4,6 +4,11 @@
   "last_name": "Gambetta",
   "birth_date": "1998-01-01",
   "country_id": 1656,
+  "attrs": {
+    "player": {
+      "goalkeeping": {"han": 12, "aer": 12, "cmd": 9, "com": 10, "kic": 9, "thr": 9, "one": 12, "ref": 13, "ecc": 7, "rus": 10, "pun": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

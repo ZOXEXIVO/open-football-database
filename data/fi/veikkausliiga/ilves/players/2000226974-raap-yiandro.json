@@ -5,6 +5,12 @@
   "birth_date": "2006-07-25",
   "country_id": 784,
   "club_id": 510307,
+  "attrs": {
+    "player": {
+      "mental": {"tea": 12, "wor": 13, "ldr": 5, "det": 12},
+      "hidden": {"inj": 11, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

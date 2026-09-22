@@ -4,6 +4,12 @@
   "last_name": "Ochrana",
   "birth_date": "1995-01-01",
   "country_id": 755,
+  "attrs": {
+    "player": {
+      "physical": {"jum": 14},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

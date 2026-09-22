@@ -4,6 +4,14 @@
   "last_name": "Bustos",
   "birth_date": "2000-01-01",
   "country_id": 1652,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 14, "fin": 8, "hea": 3, "lon": 7, "mar": 3, "pas": 10, "pen": 6, "tck": 3, "fir": 11, "tec": 12, "cor": 9, "lth": 4, "fre": 7},
+      "mental": {"otb": 13, "vis": 10, "ant": 10, "dec": 9, "pos": 5, "fla": 13, "tea": 11, "wor": 10, "ldr": 7, "bra": 10, "agg": 6, "cmp": 7, "cnt": 8},
+      "physical": {"acc": 13, "str": 6, "sta": 13, "pac": 13, "jum": 5, "bal": 9, "agi": 12, "nat": 12},
+      "hidden": {"dir": 6, "inj": 7, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

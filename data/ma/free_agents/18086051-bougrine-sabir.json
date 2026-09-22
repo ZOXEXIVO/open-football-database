@@ -4,6 +4,15 @@
   "last_name": "Bougrine",
   "birth_date": "1996-07-10",
   "country_id": 34,
+  "attrs": {
+    "person": {"amb": 14, "pre": 10, "pro": 10, "tem": 7},
+    "player": {
+      "technical": {"cro": 14, "dri": 13, "fin": 8, "hea": 6, "lon": 10, "mar": 6, "pas": 14, "pen": 9, "tck": 7, "fir": 15, "tec": 15, "cor": 15, "lth": 6, "fre": 13},
+      "mental": {"otb": 11, "vis": 14, "ant": 13, "dec": 11, "pos": 9, "fla": 15, "tea": 12, "wor": 11, "ldr": 8, "bra": 14, "agg": 8, "det": 9, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 13, "str": 7, "sta": 11, "pac": 12, "jum": 11, "bal": 12, "agi": 14, "nat": 11},
+      "hidden": {"cns": 11, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "MC",

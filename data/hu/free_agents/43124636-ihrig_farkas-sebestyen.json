@@ -4,6 +4,15 @@
   "last_name": "Ihrig-Farkas",
   "birth_date": "1994-01-28",
   "country_id": 773,
+  "attrs": {
+    "person": {"amb": 8, "pro": 11},
+    "player": {
+      "technical": {"cro": 10, "dri": 14, "fin": 11, "hea": 9, "lon": 10, "mar": 7, "pas": 11, "pen": 8, "tck": 7, "fir": 13, "tec": 14, "cor": 10, "fre": 8},
+      "mental": {"otb": 11, "vis": 12, "ant": 8, "dec": 10, "pos": 8, "fla": 12, "tea": 8, "wor": 9, "ldr": 10, "bra": 8, "agg": 7, "det": 9, "cmp": 11, "cnt": 8},
+      "physical": {"acc": 9, "str": 10, "sta": 11, "pac": 10, "jum": 14, "bal": 12, "agi": 11, "nat": 10},
+      "hidden": {"dir": 7, "cns": 10, "imp": 10, "inj": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

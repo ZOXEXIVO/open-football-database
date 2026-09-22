@@ -5,6 +5,12 @@
   "birth_date": "2000-03-21",
   "country_id": 114,
   "club_id": 23159427,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 12, "pas": 14, "tec": 14},
+      "mental": {"vis": 13, "ant": 12, "ldr": 14}
+    }
+  },
   "positions": [
     {
       "code": "MC",

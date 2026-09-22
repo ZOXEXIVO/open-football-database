@@ -4,6 +4,12 @@
   "last_name": "Shevchuk",
   "birth_date": "2004-05-19",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "physical": {"jum": 8},
+      "hidden": {"ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DL",

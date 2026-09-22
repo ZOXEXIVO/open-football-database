@@ -4,6 +4,14 @@
   "last_name": "Kazakov",
   "birth_date": "1999-02-06",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"pen": 11},
+      "mental": {"cmp": 10},
+      "physical": {"str": 7, "sta": 10, "jum": 9},
+      "hidden": {"cns": 13}
+    }
+  },
   "positions": [
     {
       "code": "DM",

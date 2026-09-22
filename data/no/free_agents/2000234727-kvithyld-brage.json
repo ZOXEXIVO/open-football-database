@@ -4,6 +4,15 @@
   "last_name": "Kvithyld",
   "birth_date": "2004-01-01",
   "country_id": 786,
+  "attrs": {
+    "person": {"pro": 14},
+    "player": {
+      "technical": {"cro": 7, "fin": 4, "hea": 12, "mar": 11, "tck": 10, "fir": 9, "tec": 9, "cor": 3, "fre": 4},
+      "mental": {"vis": 10, "dec": 13, "pos": 12, "fla": 6, "agg": 12, "det": 13},
+      "physical": {"acc": 10, "str": 13, "sta": 8, "pac": 10, "jum": 13, "bal": 9, "agi": 7, "nat": 10},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "DL",

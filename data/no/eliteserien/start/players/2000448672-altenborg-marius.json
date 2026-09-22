@@ -5,6 +5,14 @@
   "birth_date": "2009-01-01",
   "country_id": 786,
   "club_id": 1397,
+  "attrs": {
+    "person": {"amb": 13, "pro": 14},
+    "player": {
+      "technical": {"hea": 4, "pas": 12, "fir": 7},
+      "mental": {"vis": 11, "dec": 9, "wor": 12, "bra": 12, "cmp": 6, "cnt": 5},
+      "physical": {"acc": 10, "str": 4, "sta": 6, "pac": 8, "bal": 10, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "MC",

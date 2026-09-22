@@ -5,6 +5,15 @@
   "birth_date": "2000-08-14",
   "country_id": 1649,
   "club_id": 951312,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 7, "tec": 12},
+      "mental": {"ldr": 5},
+      "physical": {"acc": 12, "str": 9, "agi": 12, "nat": 12},
+      "goalkeeping": {"han": 13, "aer": 14, "cmd": 10, "com": 5, "kic": 10, "thr": 6, "one": 13, "ref": 12, "ecc": 3, "rus": 11, "pun": 3},
+      "hidden": {"inj": 4}
+    }
+  },
   "positions": [
     {
       "code": "GK",

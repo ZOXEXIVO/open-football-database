@@ -4,6 +4,15 @@
   "last_name": "Landu",
   "birth_date": "2000-01-01",
   "country_id": 784,
+  "attrs": {
+    "person": {"amb": 12, "loy": 8, "pre": 9},
+    "player": {
+      "technical": {"cro": 9, "dri": 14, "fin": 9, "hea": 7, "lon": 8, "mar": 5, "pas": 10, "pen": 14, "tck": 5, "fir": 9, "tec": 13, "cor": 11, "lth": 6, "fre": 9},
+      "mental": {"vis": 6, "ant": 11, "dec": 9, "pos": 5, "fla": 12, "tea": 10, "wor": 10, "ldr": 5, "bra": 13, "agg": 11, "det": 10, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 15, "str": 9, "sta": 8, "pac": 14, "jum": 9, "bal": 9, "agi": 13, "nat": 8},
+      "hidden": {"cns": 8, "inj": 8, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

@@ -5,6 +5,12 @@
   "birth_date": "2006-11-14",
   "country_id": 761,
   "club_id": 126302,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 8},
+      "physical": {"acc": 9, "pac": 7}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

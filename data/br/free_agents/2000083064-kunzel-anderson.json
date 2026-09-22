@@ -4,6 +4,14 @@
   "last_name": "Künzel",
   "birth_date": "1990-01-01",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 7, "fin": 10, "hea": 8, "lon": 9, "mar": 11, "pas": 11, "pen": 12, "tck": 12, "fir": 11, "tec": 10, "fre": 8},
+      "mental": {"otb": 12, "vis": 11, "ant": 10, "tea": 13, "bra": 13, "agg": 10, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 11, "str": 8, "pac": 10, "jum": 8, "bal": 8, "agi": 12},
+      "hidden": {"dir": 10, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DM",

@@ -4,6 +4,12 @@
   "last_name": "Ayvazov",
   "birth_date": "1996-06-08",
   "country_id": 754,
+  "attrs": {
+    "person": {"amb": 11, "loy": 12, "pro": 13},
+    "player": {
+      "mental": {"det": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

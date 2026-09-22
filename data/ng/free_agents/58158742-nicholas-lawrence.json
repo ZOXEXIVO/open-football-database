@@ -4,6 +4,14 @@
   "last_name": "Nicholas",
   "birth_date": "2001-01-01",
   "country_id": 38,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 6, "dri": 9, "fin": 8, "hea": 10, "lon": 7, "mar": 10, "pas": 13, "tck": 12, "fir": 12, "tec": 12, "cor": 7, "lth": 12, "fre": 7},
+      "mental": {"otb": 9, "vis": 11, "ant": 10, "dec": 10, "pos": 9, "tea": 12, "wor": 14, "ldr": 10, "bra": 12, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 13, "str": 10, "sta": 14, "pac": 12, "jum": 13, "bal": 13, "agi": 13},
+      "hidden": {"dir": 14, "cns": 8, "imp": 11}
+    }
+  },
   "positions": [
     {
       "code": "DM",

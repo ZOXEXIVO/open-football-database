@@ -4,6 +4,15 @@
   "last_name": "Bol",
   "birth_date": "2003-01-08",
   "country_id": 800,
+  "attrs": {
+    "person": {"ada": 2, "amb": 1, "loy": 6, "pre": 3, "pro": 6, "spo": 8, "tem": 3, "con": 6},
+    "player": {
+      "technical": {"cro": 6, "dri": 9, "fin": 5, "hea": 12, "lon": 7, "mar": 11, "pas": 14, "pen": 5, "tck": 12, "fir": 12, "tec": 12, "cor": 6, "lth": 5, "fre": 6},
+      "mental": {"otb": 9, "vis": 14, "ant": 11, "dec": 11, "pos": 11, "fla": 10, "tea": 14, "wor": 13, "ldr": 11, "bra": 9, "agg": 11, "det": 4, "cmp": 14, "cnt": 8},
+      "physical": {"acc": 13, "str": 10, "sta": 14, "pac": 13, "jum": 13, "bal": 13, "agi": 11, "nat": 13},
+      "hidden": {"cns": 2, "imp": 4}
+    }
+  },
   "positions": [
     {
       "code": "DC",

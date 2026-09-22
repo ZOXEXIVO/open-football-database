@@ -4,6 +4,15 @@
   "last_name": "Đapo",
   "birth_date": "2002-09-17",
   "country_id": 795,
+  "attrs": {
+    "person": {"amb": 13, "pro": 11, "spo": 13, "tem": 12},
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 8, "hea": 9, "mar": 10, "pas": 8, "tck": 13, "fir": 10, "tec": 12, "cor": 10},
+      "mental": {"otb": 11, "vis": 11, "ant": 13, "dec": 10, "pos": 11, "tea": 11, "wor": 14, "bra": 10, "det": 13, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 11, "str": 10, "sta": 14, "pac": 12, "jum": 12, "bal": 10, "agi": 11, "nat": 11},
+      "hidden": {"cns": 13}
+    }
+  },
   "positions": [
     {
       "code": "DL",

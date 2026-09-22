@@ -5,6 +5,13 @@
   "birth_date": "1997-06-09",
   "country_id": 1651,
   "club_id": 62031842,
+  "attrs": {
+    "player": {
+      "technical": {"mar": 12, "tck": 12},
+      "mental": {"tea": 13, "wor": 13},
+      "physical": {"str": 13, "sta": 13, "bal": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

@@ -4,6 +4,12 @@
   "last_name": "Norenkov",
   "birth_date": "1996-07-25",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 10, "pas": 8},
+      "physical": {"acc": 12, "str": 12, "sta": 14, "pac": 11, "jum": 12, "bal": 14, "agi": 10, "nat": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

@@ -4,6 +4,13 @@
   "last_name": "Cartés",
   "birth_date": "1998-01-01",
   "country_id": 1657,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 13},
+      "physical": {"jum": 10},
+      "goalkeeping": {"han": 10, "aer": 9, "cmd": 8, "kic": 13, "one": 11, "ref": 11, "ecc": 5}
+    }
+  },
   "positions": [
     {
       "code": "GK",

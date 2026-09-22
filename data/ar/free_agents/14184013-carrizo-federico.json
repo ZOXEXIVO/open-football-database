@@ -4,6 +4,13 @@
   "last_name": "Carrizo",
   "birth_date": "1997-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 10, "fin": 6, "hea": 11, "mar": 13, "pas": 12, "tck": 12, "fir": 13},
+      "mental": {"vis": 11, "ant": 12, "dec": 9, "pos": 12, "tea": 8, "wor": 12, "ldr": 7, "cmp": 12, "cnt": 13},
+      "physical": {"acc": 11, "str": 8, "sta": 12, "pac": 11, "jum": 6, "bal": 12, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "DM",

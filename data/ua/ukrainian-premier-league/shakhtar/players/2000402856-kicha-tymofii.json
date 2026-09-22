@@ -5,6 +5,11 @@
   "birth_date": "2008-03-08",
   "country_id": 800,
   "club_id": 1895,
+  "attrs": {
+    "player": {
+      "goalkeeping": {"aer": 18}
+    }
+  },
   "positions": [
     {
       "code": "GK",

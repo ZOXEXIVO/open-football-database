@@ -4,6 +4,15 @@
   "last_name": "Negru",
   "birth_date": "1999-04-17",
   "country_id": 790,
+  "attrs": {
+    "person": {"ada": 5},
+    "player": {
+      "technical": {"cro": 12, "dri": 9, "fin": 6, "hea": 7, "lon": 9, "mar": 12, "pas": 12, "pen": 5, "tck": 13, "fir": 10, "tec": 10, "cor": 7, "lth": 15, "fre": 6},
+      "mental": {"otb": 9, "vis": 9, "ant": 10, "dec": 10, "pos": 11, "fla": 12, "tea": 13, "wor": 13, "ldr": 12, "bra": 13, "agg": 8, "det": 14, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 14, "str": 6, "sta": 11, "pac": 13, "jum": 6, "bal": 10, "agi": 14, "nat": 12},
+      "hidden": {"dir": 6, "cns": 12, "imp": 12, "inj": 2, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DR",

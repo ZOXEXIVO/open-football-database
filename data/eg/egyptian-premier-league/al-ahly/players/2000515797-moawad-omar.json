@@ -5,6 +5,14 @@
   "birth_date": "2006-10-14",
   "country_id": 16,
   "club_id": 106756,
+  "attrs": {
+    "person": {"amb": 13},
+    "player": {
+      "technical": {"cro": 12, "dri": 11, "pas": 6},
+      "mental": {"det": 14},
+      "physical": {"acc": 13, "pac": 13}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

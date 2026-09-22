@@ -4,6 +4,15 @@
   "last_name": "Hafidi",
   "birth_date": "1992-01-30",
   "country_id": 34,
+  "attrs": {
+    "person": {"ada": 8, "amb": 10, "loy": 10, "pre": 5, "pro": 10, "spo": 16, "tem": 16, "con": 13},
+    "player": {
+      "technical": {"cro": 13, "dri": 12, "fin": 12, "hea": 4, "lon": 13, "mar": 6, "pas": 13, "pen": 13, "tck": 6, "fir": 12, "tec": 14, "cor": 11, "lth": 4, "fre": 11},
+      "mental": {"otb": 12, "vis": 12, "ant": 10, "dec": 11, "pos": 6, "fla": 14, "tea": 12, "wor": 9, "ldr": 12, "bra": 9, "agg": 8, "det": 7, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 11, "str": 6, "sta": 11, "pac": 11, "jum": 5, "bal": 11, "agi": 15, "nat": 11},
+      "hidden": {"dir": 7, "cns": 7, "imp": 12, "inj": 15, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

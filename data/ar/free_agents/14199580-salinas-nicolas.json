@@ -4,6 +4,15 @@
   "last_name": "Salinas",
   "birth_date": "1996-01-01",
   "country_id": 1649,
+  "attrs": {
+    "person": {"amb": 12, "loy": 9, "pre": 13, "pro": 12, "spo": 14, "tem": 11},
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 5, "hea": 9, "lon": 11, "mar": 13, "pas": 10, "pen": 11, "tck": 12, "fir": 10, "tec": 11, "cor": 6, "lth": 12, "fre": 6},
+      "mental": {"otb": 11, "vis": 7, "ant": 11, "dec": 10, "pos": 13, "fla": 9, "tea": 12, "wor": 14, "bra": 9, "agg": 14, "det": 8, "cmp": 9, "cnt": 12},
+      "physical": {"acc": 13, "str": 8, "sta": 14, "pac": 14, "jum": 9, "bal": 9, "agi": 12, "nat": 13},
+      "hidden": {"dir": 6, "cns": 11, "imp": 9, "inj": 7, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "DR",

@@ -5,6 +5,12 @@
   "birth_date": "2008-08-26",
   "country_id": 784,
   "club_id": 992,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 12},
+      "physical": {"str": 12, "pac": 14}
+    }
+  },
   "positions": [
     {
       "code": "DR",

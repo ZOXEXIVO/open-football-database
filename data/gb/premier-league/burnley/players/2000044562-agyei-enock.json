@@ -5,6 +5,13 @@
   "birth_date": "2005-01-13",
   "country_id": 757,
   "club_id": 622,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 8, "hea": 7, "lon": 8, "mar": 8, "tck": 8, "fir": 11, "tec": 14, "cor": 5, "lth": 6},
+      "mental": {"dec": 11, "ldr": 7, "cmp": 8},
+      "physical": {"acc": 14, "str": 8, "sta": 8, "pac": 14, "jum": 8, "bal": 8, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

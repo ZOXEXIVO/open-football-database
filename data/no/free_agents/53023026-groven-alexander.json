@@ -4,6 +4,15 @@
   "last_name": "Groven",
   "birth_date": "1992-01-01",
   "country_id": 786,
+  "attrs": {
+    "person": {"ada": 12, "amb": 11, "loy": 18, "pre": 12, "pro": 15, "spo": 7, "tem": 4, "con": 8},
+    "player": {
+      "technical": {"cro": 13, "dri": 11, "fin": 10, "hea": 7, "lon": 11, "mar": 12, "pas": 11, "pen": 4, "tck": 13, "fir": 11, "tec": 11, "cor": 12, "lth": 19, "fre": 8},
+      "mental": {"otb": 11, "vis": 12, "ant": 5, "dec": 10, "pos": 11, "fla": 11, "tea": 12, "wor": 11, "ldr": 11, "bra": 10, "agg": 9, "det": 8, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 10, "str": 10, "sta": 12, "pac": 10, "jum": 11, "bal": 12, "agi": 10, "nat": 11},
+      "hidden": {"dir": 8, "cns": 6, "imp": 11, "inj": 3, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DR",

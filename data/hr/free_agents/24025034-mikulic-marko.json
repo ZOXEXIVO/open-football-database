@@ -4,6 +4,13 @@
   "last_name": "Mikulić",
   "birth_date": "1994-01-01",
   "country_id": 761,
+  "attrs": {
+    "player": {
+      "mental": {"ant": 10, "dec": 9, "bra": 10, "cnt": 9},
+      "physical": {"str": 14, "jum": 12, "bal": 13, "agi": 12, "nat": 11},
+      "goalkeeping": {"aer": 11, "cmd": 11, "com": 11, "kic": 11, "ref": 11, "rus": 9}
+    }
+  },
   "positions": [
     {
       "code": "GK",

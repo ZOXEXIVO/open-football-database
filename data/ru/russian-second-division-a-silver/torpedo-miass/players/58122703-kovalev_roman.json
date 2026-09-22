@@ -5,6 +5,12 @@
   "birth_date": "1991-09-27",
   "country_id": 791,
   "club_id": 130551,
+  "attrs": {
+    "player": {
+      "physical": {"acc": 8, "str": 15, "sta": 8, "pac": 7, "jum": 15, "agi": 8},
+      "goalkeeping": {"aer": 13, "cmd": 8, "thr": 15, "one": 8, "ref": 10}
+    }
+  },
   "positions": [
     {
       "code": "GK",

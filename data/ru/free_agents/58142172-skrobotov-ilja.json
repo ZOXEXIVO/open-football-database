@@ -4,6 +4,14 @@
   "last_name": "Skrobotov",
   "birth_date": "2000-07-06",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 5, "dri": 6, "hea": 12, "mar": 10, "pas": 10, "tck": 11, "fre": 5},
+      "mental": {"otb": 8, "vis": 9, "ant": 8, "dec": 10, "pos": 10, "ldr": 12, "cmp": 8, "cnt": 11},
+      "physical": {"acc": 8, "str": 14, "sta": 9, "pac": 10, "jum": 15, "bal": 8, "agi": 7},
+      "hidden": {"cns": 13}
+    }
+  },
   "positions": [
     {
       "code": "DC",

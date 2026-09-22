@@ -4,6 +4,15 @@
   "last_name": "El Khayati",
   "birth_date": "1989-01-01",
   "country_id": 34,
+  "attrs": {
+    "person": {"ada": 12, "amb": 12, "loy": 10, "pre": 9, "pro": 13, "spo": 12, "tem": 10, "con": 8},
+    "player": {
+      "technical": {"cro": 11, "dri": 14, "fin": 11, "hea": 6, "lon": 12, "mar": 3, "pas": 12, "pen": 14, "tck": 4, "fir": 14, "tec": 13, "cor": 8, "lth": 7, "fre": 14},
+      "mental": {"otb": 13, "vis": 14, "ant": 13, "dec": 11, "pos": 5, "fla": 15, "tea": 9, "wor": 12, "ldr": 12, "bra": 8, "agg": 5, "det": 13, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 8, "str": 7, "sta": 7, "pac": 8, "jum": 9, "bal": 11, "agi": 10, "nat": 6},
+      "hidden": {"dir": 10, "cns": 10, "imp": 8, "inj": 12, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "MC",

@@ -5,6 +5,12 @@
   "birth_date": "2008-11-27",
   "country_id": 764,
   "club_id": 502,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 7, "lon": 10, "pen": 10, "cor": 9, "lth": 6, "fre": 8},
+      "physical": {"sta": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

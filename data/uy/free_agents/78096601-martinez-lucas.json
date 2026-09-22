@@ -4,6 +4,14 @@
   "last_name": "Martínez",
   "birth_date": "1998-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 10, "amb": 4},
+    "player": {
+      "technical": {"dri": 13, "fin": 10, "fir": 11, "tec": 14},
+      "mental": {"vis": 8, "dec": 9, "fla": 14},
+      "physical": {"acc": 12, "pac": 10, "jum": 7, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "AML",

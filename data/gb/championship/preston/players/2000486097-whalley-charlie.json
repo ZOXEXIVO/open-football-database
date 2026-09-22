@@ -5,6 +5,11 @@
   "birth_date": "2008-12-07",
   "country_id": 765,
   "club_id": 700,
+  "attrs": {
+    "player": {
+      "physical": {"jum": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

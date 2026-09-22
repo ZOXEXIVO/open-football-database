@@ -5,6 +5,13 @@
   "birth_date": "1996-01-26",
   "country_id": 782,
   "club_id": 133179,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "mar": 7, "pas": 9, "fir": 6, "tec": 7},
+      "mental": {"ant": 8, "dec": 7, "pos": 10, "fla": 5, "det": 13, "cnt": 8},
+      "physical": {"acc": 10, "sta": 14, "pac": 10, "jum": 11, "nat": 13}
+    }
+  },
   "positions": [
     {
       "code": "DL",

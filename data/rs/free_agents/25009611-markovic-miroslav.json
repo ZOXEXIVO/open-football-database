@@ -4,6 +4,15 @@
   "last_name": "Marković",
   "birth_date": "1989-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 11, "amb": 12, "loy": 14, "pre": 7, "pro": 10, "spo": 6, "tem": 7, "con": 8},
+    "player": {
+      "technical": {"cro": 10, "dri": 7, "fin": 11, "hea": 8, "lon": 12, "mar": 8, "pas": 12, "pen": 13, "tck": 8, "fir": 12, "tec": 13, "cor": 10, "lth": 9, "fre": 9},
+      "mental": {"otb": 12, "vis": 9, "ant": 10, "dec": 9, "pos": 7, "fla": 14, "tea": 9, "wor": 10, "ldr": 8, "bra": 10, "agg": 12, "det": 12, "cmp": 11, "cnt": 7},
+      "physical": {"acc": 11, "str": 12, "sta": 10, "pac": 11, "jum": 12, "bal": 10, "agi": 10, "nat": 12},
+      "hidden": {"dir": 12, "cns": 9, "imp": 6, "inj": 10, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "ST",

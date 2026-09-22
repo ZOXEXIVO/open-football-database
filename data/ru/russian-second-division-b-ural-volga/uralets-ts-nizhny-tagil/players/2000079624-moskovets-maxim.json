@@ -5,6 +5,13 @@
   "birth_date": "2003-01-01",
   "country_id": 791,
   "club_id": 130552,
+  "attrs": {
+    "player": {
+      "mental": {"ant": 11, "pos": 11},
+      "goalkeeping": {"cmd": 6, "com": 8, "ref": 12, "rus": 10},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

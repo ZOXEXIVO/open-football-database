@@ -4,6 +4,15 @@
   "last_name": "Guevara",
   "birth_date": "1992-05-04",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 13, "amb": 12, "loy": 13, "pre": 10, "pro": 13, "spo": 12, "tem": 10, "con": 8},
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 7, "hea": 14, "lon": 8, "mar": 12, "pas": 12, "pen": 13, "tck": 12, "fir": 12, "tec": 13, "cor": 9, "lth": 2, "fre": 9},
+      "mental": {"otb": 12, "vis": 10, "ant": 13, "dec": 13, "pos": 13, "fla": 9, "tea": 12, "wor": 13, "ldr": 15, "bra": 13, "agg": 12, "det": 12, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 10, "str": 14, "sta": 12, "pac": 10, "jum": 16, "bal": 15, "agi": 11, "nat": 13},
+      "hidden": {"dir": 6, "cns": 12, "imp": 13, "inj": 6, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

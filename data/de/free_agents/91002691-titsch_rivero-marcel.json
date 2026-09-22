@@ -4,6 +4,15 @@
   "last_name": "Titsch Rivero",
   "birth_date": "1989-01-01",
   "country_id": 771,
+  "attrs": {
+    "person": {"ada": 6, "amb": 10, "loy": 15, "pre": 12, "pro": 13, "spo": 9, "tem": 10, "con": 5},
+    "player": {
+      "technical": {"cro": 9, "dri": 10, "fin": 8, "hea": 11, "lon": 12, "mar": 7, "pas": 12, "pen": 8, "tck": 12, "fir": 12, "tec": 12, "cor": 7, "lth": 7, "fre": 7},
+      "mental": {"otb": 10, "vis": 11, "ant": 12, "dec": 10, "pos": 12, "fla": 9, "tea": 12, "wor": 12, "ldr": 7, "bra": 12, "agg": 11, "det": 10, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 10, "str": 12, "sta": 11, "pac": 10, "jum": 9, "bal": 11, "agi": 10, "nat": 11},
+      "hidden": {"dir": 8, "cns": 15, "imp": 13, "inj": 6, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DM",

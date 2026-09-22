@@ -5,6 +5,13 @@
   "birth_date": "2007-08-24",
   "country_id": 794,
   "club_id": 250,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 12, "hea": 9, "lon": 8, "pas": 12, "tck": 10, "lth": 7},
+      "mental": {"otb": 11, "vis": 11, "ant": 11, "pos": 10, "ldr": 8, "cmp": 8},
+      "hidden": {"dir": 6}
+    }
+  },
   "positions": [
     {
       "code": "DM",

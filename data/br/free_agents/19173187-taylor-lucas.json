@@ -4,6 +4,15 @@
   "last_name": "Taylor",
   "birth_date": "1995-04-10",
   "country_id": 1651,
+  "attrs": {
+    "person": {"ada": 12, "amb": 11, "pre": 10, "spo": 13, "tem": 14},
+    "player": {
+      "technical": {"cro": 12, "dri": 13, "fin": 8, "hea": 6, "lon": 7, "mar": 11, "pas": 12, "pen": 9, "tck": 11, "fir": 11, "tec": 13, "cor": 7, "lth": 15, "fre": 7},
+      "mental": {"otb": 12, "vis": 10, "ant": 12, "dec": 10, "pos": 11, "fla": 6, "tea": 12, "wor": 12, "ldr": 10, "bra": 11, "agg": 13, "det": 11, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 13, "str": 11, "sta": 14, "pac": 14, "jum": 8, "bal": 7, "agi": 12, "nat": 14},
+      "hidden": {"dir": 11, "cns": 9, "imp": 12, "inj": 7, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DR",

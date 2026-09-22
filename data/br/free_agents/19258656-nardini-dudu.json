@@ -4,6 +4,15 @@
   "last_name": "Nardini",
   "birth_date": "1997-01-01",
   "country_id": 1651,
+  "attrs": {
+    "person": {"ada": 12},
+    "player": {
+      "technical": {"cro": 6, "dri": 9, "fin": 7, "hea": 10, "lon": 10, "mar": 10, "pas": 12, "pen": 8, "tck": 11, "fir": 9, "tec": 9, "cor": 5, "lth": 8, "fre": 8},
+      "mental": {"otb": 7, "vis": 9, "ant": 10, "dec": 9, "pos": 12, "fla": 8, "tea": 12, "wor": 7, "ldr": 10, "bra": 9, "agg": 9, "det": 10, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 8, "str": 12, "sta": 12, "pac": 9, "jum": 12, "bal": 12, "agi": 9, "nat": 12},
+      "hidden": {"dir": 8, "cns": 10, "imp": 10, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DM",

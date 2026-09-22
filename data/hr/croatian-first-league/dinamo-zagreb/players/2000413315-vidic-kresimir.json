@@ -5,6 +5,13 @@
   "birth_date": "2008-06-21",
   "country_id": 761,
   "club_id": 432,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 12},
+      "mental": {"vis": 11},
+      "physical": {"str": 7, "jum": 8}
+    }
+  },
   "positions": [
     {
       "code": "DM",

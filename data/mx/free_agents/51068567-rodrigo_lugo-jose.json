@@ -4,6 +4,14 @@
   "last_name": "Rodrigo Lugo",
   "birth_date": "1997-01-01",
   "country_id": 379,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 11, "fin": 7, "hea": 6, "lon": 8, "mar": 11, "pas": 12, "pen": 8, "tck": 11, "fir": 10, "tec": 12, "cor": 7, "lth": 7, "fre": 8},
+      "mental": {"otb": 10, "vis": 10, "ant": 10, "dec": 10, "pos": 10, "fla": 11, "tea": 12, "wor": 12, "ldr": 10, "bra": 11, "agg": 11, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 11, "str": 8, "sta": 12, "pac": 12, "jum": 8, "bal": 10, "agi": 10, "nat": 12},
+      "hidden": {"dir": 6, "cns": 10, "imp": 8, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "MC",

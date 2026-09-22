@@ -5,6 +5,14 @@
   "birth_date": "2002-01-05",
   "country_id": 787,
   "club_id": 1300881,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 7, "tck": 6, "fir": 8, "tec": 8},
+      "mental": {"ant": 10, "dec": 7, "tea": 9, "agg": 8, "cnt": 9},
+      "physical": {"acc": 11, "sta": 11, "pac": 12},
+      "hidden": {"dir": 8}
+    }
+  },
   "positions": [
     {
       "code": "ML",

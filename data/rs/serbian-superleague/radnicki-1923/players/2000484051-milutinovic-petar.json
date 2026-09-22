@@ -5,6 +5,14 @@
   "birth_date": "2006-12-23",
   "country_id": 802,
   "club_id": 120779,
+  "attrs": {
+    "person": {"ada": 9, "amb": 14, "loy": 7, "pro": 9, "spo": 8, "tem": 8},
+    "player": {
+      "technical": {"mar": 10, "tck": 10},
+      "mental": {"det": 12},
+      "physical": {"acc": 8, "str": 10, "pac": 8}
+    }
+  },
   "positions": [
     {
       "code": "DC",

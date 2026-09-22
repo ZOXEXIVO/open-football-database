@@ -4,6 +4,15 @@
   "last_name": "Libert",
   "birth_date": "1997-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"amb": 12, "loy": 12, "pre": 11, "spo": 14},
+    "player": {
+      "technical": {"cro": 8, "dri": 8, "fin": 8, "hea": 12, "mar": 12, "pas": 11, "tck": 11, "fir": 10, "tec": 10, "cor": 8, "fre": 11},
+      "mental": {"otb": 12, "vis": 12, "ant": 12, "dec": 11, "tea": 11, "wor": 11, "ldr": 12, "bra": 11, "cmp": 11, "cnt": 13},
+      "physical": {"acc": 12, "str": 10, "sta": 11, "pac": 12, "jum": 10, "bal": 11, "agi": 10},
+      "hidden": {"cns": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

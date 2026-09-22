@@ -4,6 +4,15 @@
   "last_name": "Zhevnerov",
   "birth_date": "1987-11-01",
   "country_id": 758,
+  "attrs": {
+    "person": {"ada": 11, "amb": 8, "loy": 9, "pre": 12, "pro": 8, "spo": 10, "tem": 8, "con": 10},
+    "player": {
+      "technical": {"cro": 2, "dri": 4, "fin": 4, "hea": 12, "lon": 11, "mar": 12, "pas": 10, "pen": 4, "tck": 13, "fir": 12, "tec": 6, "cor": 2, "lth": 12, "fre": 2},
+      "mental": {"otb": 6, "vis": 6, "ant": 8, "dec": 11, "pos": 12, "fla": 10, "tea": 10, "wor": 8, "ldr": 12, "bra": 10, "agg": 14, "det": 11, "cmp": 10, "cnt": 8},
+      "physical": {"acc": 8, "str": 13, "sta": 6, "pac": 7, "jum": 14, "bal": 14, "agi": 12, "nat": 12},
+      "hidden": {"dir": 16, "cns": 14, "imp": 13, "inj": 5, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DC",

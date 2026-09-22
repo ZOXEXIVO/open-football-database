@@ -4,6 +4,14 @@
   "last_name": "Schuurman",
   "birth_date": "1998-01-01",
   "country_id": 784,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 11},
+      "mental": {"pos": 11, "tea": 13, "wor": 13, "ldr": 7},
+      "physical": {"sta": 12, "bal": 11, "agi": 11},
+      "hidden": {"cns": 11, "imp": 11}
+    }
+  },
   "positions": [
     {
       "code": "DM",

@@ -4,6 +4,13 @@
   "last_name": "Biek",
   "birth_date": "1997-01-01",
   "country_id": 771,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 13},
+      "mental": {"dec": 8},
+      "physical": {"str": 14, "jum": 14, "bal": 9}
+    }
+  },
   "positions": [
     {
       "code": "DC",

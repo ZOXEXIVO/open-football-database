@@ -4,6 +4,14 @@
   "last_name": "Demarteau",
   "birth_date": "1999-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 13, "dri": 11, "hea": 9, "mar": 8, "pas": 10, "fir": 11, "tec": 11},
+      "mental": {"vis": 8, "tea": 11, "wor": 10, "ldr": 15, "bra": 11, "det": 13, "cnt": 10},
+      "physical": {"acc": 13, "str": 7, "sta": 7, "pac": 13, "jum": 7, "bal": 7},
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "DL",

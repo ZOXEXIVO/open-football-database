@@ -4,6 +4,16 @@
   "last_name": "Caillard",
   "birth_date": "1994-05-12",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 13, "amb": 13, "loy": 12, "pre": 13, "pro": 13, "spo": 15, "tem": 10, "con": 5},
+    "player": {
+      "technical": {"hea": 10, "pas": 7, "fir": 7, "tec": 6},
+      "mental": {"otb": 5, "vis": 6, "ant": 12, "dec": 11, "pos": 11, "fla": 6, "tea": 8, "wor": 6, "ldr": 9, "bra": 13, "agg": 13, "det": 14, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 10, "str": 14, "sta": 11, "pac": 9, "jum": 15, "bal": 14, "agi": 14, "nat": 13},
+      "goalkeeping": {"han": 13, "aer": 13, "cmd": 12, "com": 13, "kic": 12, "thr": 13, "one": 13, "ref": 14, "ecc": 6, "rus": 13, "pun": 14},
+      "hidden": {"dir": 11, "cns": 11, "imp": 13, "inj": 10, "ver": 1}
+    }
+  },
   "positions": [
     {
       "code": "GK",

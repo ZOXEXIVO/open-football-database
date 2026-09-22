@@ -4,6 +4,15 @@
   "last_name": "Andrade",
   "birth_date": "1994-02-15",
   "country_id": 1651,
+  "attrs": {
+    "person": {"amb": 12, "loy": 8, "pre": 11, "pro": 10, "spo": 10, "tem": 10, "con": 12},
+    "player": {
+      "technical": {"cro": 12, "dri": 11, "fin": 9, "hea": 10, "lon": 10, "mar": 9, "pas": 12, "pen": 11, "tck": 10, "fir": 10, "tec": 13, "cor": 12, "lth": 6, "fre": 9},
+      "mental": {"otb": 13, "vis": 12, "ant": 11, "dec": 11, "pos": 11, "fla": 10, "tea": 14, "wor": 12, "ldr": 8, "bra": 7, "agg": 7, "det": 11, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 12, "str": 10, "sta": 12, "pac": 11, "jum": 9, "bal": 9, "agi": 10, "nat": 9},
+      "hidden": {"dir": 5, "cns": 13, "imp": 12, "inj": 15, "ver": 16}
+    }
+  },
   "positions": [
     {
       "code": "DL",

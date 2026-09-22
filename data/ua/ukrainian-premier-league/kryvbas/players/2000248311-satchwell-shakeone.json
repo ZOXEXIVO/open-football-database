@@ -5,6 +5,14 @@
   "birth_date": "2004-04-23",
   "country_id": 377,
   "club_id": 2000028043,
+  "attrs": {
+    "person": {"ada": 12},
+    "player": {
+      "technical": {"dri": 10, "fin": 9, "lon": 12, "pen": 7, "tec": 9, "cor": 8, "fre": 8},
+      "mental": {"dec": 8},
+      "physical": {"acc": 13, "pac": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

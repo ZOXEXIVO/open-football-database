@@ -5,6 +5,15 @@
   "birth_date": "1997-01-30",
   "country_id": 116,
   "club_id": 2000090667,
+  "attrs": {
+    "person": {"ada": 13, "amb": 11, "tem": 15},
+    "player": {
+      "technical": {"dri": 11, "pas": 8},
+      "mental": {"vis": 7, "fla": 11},
+      "physical": {"sta": 10, "pac": 15, "jum": 5, "agi": 13},
+      "hidden": {"cns": 8}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

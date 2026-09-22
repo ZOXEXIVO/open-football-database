@@ -4,6 +4,15 @@
   "last_name": "Wichmann",
   "birth_date": "1991-01-01",
   "country_id": 764,
+  "attrs": {
+    "person": {"ada": 12, "amb": 11, "loy": 14, "pre": 13, "pro": 11, "spo": 15, "tem": 10, "con": 5},
+    "player": {
+      "technical": {"cro": 13, "dri": 9, "fin": 11, "hea": 7, "lon": 12, "mar": 9, "pas": 13, "pen": 14, "tck": 10, "fir": 12, "tec": 10, "cor": 12, "lth": 7, "fre": 10},
+      "mental": {"otb": 11, "vis": 14, "ant": 12, "dec": 11, "pos": 10, "fla": 11, "tea": 13, "wor": 10, "ldr": 14, "bra": 11, "agg": 9, "det": 13, "cmp": 13, "cnt": 13},
+      "physical": {"acc": 9, "str": 10, "sta": 12, "pac": 8, "jum": 10, "bal": 10, "agi": 10, "nat": 14},
+      "hidden": {"dir": 7, "cns": 14, "imp": 13, "inj": 3, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

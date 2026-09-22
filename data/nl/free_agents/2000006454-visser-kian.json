@@ -4,6 +4,13 @@
   "last_name": "Visser",
   "birth_date": "2001-12-05",
   "country_id": 784,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 16, "mar": 4, "tck": 4, "tec": 11},
+      "mental": {"vis": 8, "pos": 3, "tea": 6, "wor": 16, "det": 18},
+      "physical": {"jum": 17}
+    }
+  },
   "positions": [
     {
       "code": "ST",

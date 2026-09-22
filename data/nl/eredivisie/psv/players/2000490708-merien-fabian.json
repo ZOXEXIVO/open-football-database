@@ -5,6 +5,12 @@
   "birth_date": "2008-09-26",
   "country_id": 784,
   "club_id": 1028,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 13, "pas": 11},
+      "physical": {"str": 11, "sta": 11, "jum": 13, "bal": 15, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

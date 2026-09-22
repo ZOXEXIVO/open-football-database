@@ -4,6 +4,15 @@
   "last_name": "Kreuzer",
   "birth_date": "1993-01-01",
   "country_id": 771,
+  "attrs": {
+    "person": {"ada": 8, "amb": 10, "loy": 15, "pre": 13, "pro": 14, "spo": 10, "tem": 11, "con": 6},
+    "player": {
+      "technical": {"cro": 13, "dri": 10, "fin": 6, "hea": 8, "lon": 9, "mar": 10, "pas": 12, "pen": 13, "tck": 13, "fir": 10, "tec": 11, "cor": 14, "lth": 13, "fre": 13},
+      "mental": {"otb": 12, "vis": 12, "ant": 10, "dec": 9, "pos": 10, "fla": 11, "tea": 13, "wor": 14, "ldr": 8, "bra": 13, "agg": 12, "det": 13, "cmp": 12, "cnt": 10},
+      "physical": {"acc": 12, "str": 9, "sta": 13, "pac": 12, "jum": 10, "bal": 10, "agi": 13, "nat": 15},
+      "hidden": {"dir": 8, "cns": 11, "imp": 13, "inj": 5, "ver": 16}
+    }
+  },
   "positions": [
     {
       "code": "DR",

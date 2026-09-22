@@ -4,6 +4,15 @@
   "last_name": "Emsis",
   "birth_date": "1998-04-01",
   "country_id": 777,
+  "attrs": {
+    "person": {"ada": 12},
+    "player": {
+      "technical": {"cro": 5, "dri": 11, "fin": 12, "hea": 13, "lon": 4, "mar": 5, "pas": 9, "pen": 12, "tck": 6, "fir": 11, "tec": 9, "cor": 3, "lth": 5, "fre": 4},
+      "mental": {"otb": 11, "vis": 6, "ant": 11, "dec": 8, "pos": 7, "fla": 6, "tea": 8, "wor": 11, "ldr": 8, "bra": 10, "agg": 8, "det": 11, "cmp": 7, "cnt": 11},
+      "physical": {"acc": 10, "str": 10, "sta": 13, "pac": 11, "jum": 13, "bal": 11, "agi": 10, "nat": 9},
+      "hidden": {"cns": 11, "inj": 5}
+    }
+  },
   "positions": [
     {
       "code": "ST",

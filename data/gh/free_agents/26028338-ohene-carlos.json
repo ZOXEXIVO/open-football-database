@@ -4,6 +4,15 @@
   "last_name": "Ohene",
   "birth_date": "1993-07-21",
   "country_id": 21,
+  "attrs": {
+    "person": {"ada": 14, "amb": 11, "loy": 12, "pre": 12, "pro": 13, "spo": 9, "tem": 9, "con": 3},
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 8, "hea": 9, "lon": 8, "mar": 11, "pas": 12, "pen": 8, "tck": 12, "fir": 10, "tec": 12, "cor": 7, "lth": 8, "fre": 11},
+      "mental": {"otb": 11, "vis": 11, "ant": 12, "dec": 10, "pos": 11, "fla": 8, "tea": 17, "wor": 14, "ldr": 10, "bra": 15, "agg": 16, "det": 14, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 13, "str": 8, "sta": 11, "pac": 10, "jum": 8, "bal": 12, "agi": 14, "nat": 13},
+      "hidden": {"dir": 7, "cns": 11, "imp": 13, "inj": 12, "ver": 5}
+    }
+  },
   "positions": [
     {
       "code": "DM",

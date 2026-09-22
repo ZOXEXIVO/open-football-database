@@ -4,6 +4,14 @@
   "last_name": "Eduardo",
   "birth_date": "2004-01-13",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 10, "fin": 9, "hea": 8, "lon": 9, "mar": 10, "pas": 13, "tck": 10, "fir": 12, "tec": 12, "lth": 7},
+      "mental": {"otb": 12, "vis": 12, "ant": 10, "dec": 11, "pos": 12, "fla": 7, "tea": 14, "wor": 11, "ldr": 9, "bra": 11, "agg": 9, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 11, "str": 8, "sta": 10, "pac": 11, "jum": 7, "bal": 10, "agi": 12, "nat": 12},
+      "hidden": {"dir": 9}
+    }
+  },
   "positions": [
     {
       "code": "DM",

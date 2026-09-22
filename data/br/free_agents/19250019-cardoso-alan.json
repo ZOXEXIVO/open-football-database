@@ -4,6 +4,14 @@
   "last_name": "Cardoso",
   "birth_date": "1998-01-05",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 13, "fin": 10, "hea": 8, "lon": 10, "mar": 9, "pas": 11, "pen": 12, "tck": 9, "fir": 9, "tec": 13, "cor": 10, "lth": 8, "fre": 12},
+      "mental": {"otb": 13, "vis": 13, "ant": 11, "dec": 9, "pos": 8, "fla": 13, "tea": 12, "wor": 12, "ldr": 10, "bra": 11, "agg": 10, "cmp": 9, "cnt": 10},
+      "physical": {"acc": 14, "str": 8, "sta": 13, "pac": 14, "jum": 8, "bal": 8, "agi": 13, "nat": 13},
+      "hidden": {"cns": 12, "imp": 10, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "DL",

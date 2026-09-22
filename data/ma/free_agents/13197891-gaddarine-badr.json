@@ -4,6 +4,15 @@
   "last_name": "Gaddarine",
   "birth_date": "1997-10-20",
   "country_id": 34,
+  "attrs": {
+    "person": {"loy": 15},
+    "player": {
+      "technical": {"dri": 6, "hea": 7, "mar": 9, "pas": 14, "tck": 14, "fir": 13, "tec": 14, "fre": 13},
+      "mental": {"vis": 13, "ant": 12, "dec": 13, "pos": 9, "wor": 13, "bra": 12, "agg": 13},
+      "physical": {"acc": 11, "str": 10, "pac": 9, "jum": 9},
+      "hidden": {"imp": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

@@ -4,6 +4,14 @@
   "last_name": "Živković",
   "birth_date": "1999-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"pro": 11, "spo": 12, "tem": 12},
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fir": 11, "tec": 11},
+      "mental": {"dec": 11},
+      "physical": {"acc": 11, "pac": 11, "agi": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

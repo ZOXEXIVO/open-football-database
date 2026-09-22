@@ -5,6 +5,13 @@
   "birth_date": "2003-12-21",
   "country_id": 38,
   "club_id": 1632,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "fin": 11, "tec": 10},
+      "mental": {"otb": 10, "ant": 11, "dec": 10, "fla": 13, "tea": 10, "wor": 11, "cmp": 12},
+      "physical": {"acc": 12, "sta": 11, "pac": 12}
+    }
+  },
   "positions": [
     {
       "code": "AML",

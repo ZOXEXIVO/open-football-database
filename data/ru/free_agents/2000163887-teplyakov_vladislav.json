@@ -4,6 +4,14 @@
   "last_name": "Teplyakov",
   "birth_date": "2004-07-23",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"lth": 8},
+      "mental": {"otb": 14, "pos": 6, "tea": 13, "bra": 11},
+      "physical": {"sta": 12},
+      "hidden": {"cns": 13, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

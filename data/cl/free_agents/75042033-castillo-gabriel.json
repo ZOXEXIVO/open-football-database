@@ -4,6 +4,14 @@
   "last_name": "Castillo",
   "birth_date": "1997-01-01",
   "country_id": 1652,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 6, "dri": 8, "fin": 6, "hea": 9, "lon": 8, "mar": 10, "pas": 9, "pen": 10, "tck": 13, "fir": 10, "tec": 8, "cor": 10, "lth": 3, "fre": 7},
+      "mental": {"otb": 7, "vis": 8, "ant": 11, "dec": 12, "pos": 13, "fla": 8, "tea": 11, "wor": 13, "ldr": 7, "bra": 15, "agg": 15, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 10, "str": 14, "sta": 13, "pac": 9, "jum": 10, "bal": 12, "agi": 10, "nat": 11},
+      "hidden": {"dir": 11, "cns": 9, "imp": 10, "inj": 10, "ver": 5}
+    }
+  },
   "positions": [
     {
       "code": "DM",

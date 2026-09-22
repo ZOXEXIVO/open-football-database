@@ -4,6 +4,15 @@
   "last_name": "Terziev",
   "birth_date": "1994-01-01",
   "country_id": 760,
+  "attrs": {
+    "person": {"amb": 13, "loy": 12, "pre": 14, "pro": 12, "spo": 12, "tem": 10, "con": 6},
+    "player": {
+      "technical": {"cro": 7, "dri": 7, "fin": 6, "hea": 9, "lon": 8, "mar": 12, "pas": 7, "tck": 11, "fir": 10, "tec": 8, "cor": 5, "lth": 7, "fre": 6},
+      "mental": {"otb": 9, "vis": 7, "ant": 10, "dec": 10, "pos": 11, "fla": 7, "tea": 13, "wor": 15, "ldr": 13, "bra": 16, "agg": 12, "det": 12, "cmp": 8, "cnt": 9},
+      "physical": {"acc": 10, "str": 12, "sta": 11, "pac": 10, "jum": 12, "bal": 12, "agi": 11, "nat": 12},
+      "hidden": {"dir": 11, "cns": 13, "imp": 12, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DC",

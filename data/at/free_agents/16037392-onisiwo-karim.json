@@ -4,6 +4,15 @@
   "last_name": "Onisiwo",
   "birth_date": "1992-03-17",
   "country_id": 755,
+  "attrs": {
+    "person": {"ada": 9, "amb": 13, "loy": 16, "pre": 11, "pro": 13, "spo": 12, "tem": 10, "con": 12},
+    "player": {
+      "technical": {"cro": 9, "dri": 13, "fin": 12, "hea": 13, "lon": 9, "mar": 7, "pas": 11, "pen": 12, "tck": 8, "fir": 11, "tec": 12, "cor": 6, "lth": 6, "fre": 8},
+      "mental": {"otb": 12, "vis": 11, "ant": 12, "dec": 12, "pos": 6, "fla": 14, "tea": 16, "wor": 16, "ldr": 15, "bra": 13, "agg": 16, "det": 18, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 12, "str": 15, "sta": 12, "pac": 14, "jum": 14, "bal": 15, "agi": 12, "nat": 13},
+      "hidden": {"dir": 13, "cns": 10, "imp": 13, "inj": 13, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

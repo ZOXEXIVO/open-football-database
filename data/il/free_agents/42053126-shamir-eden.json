@@ -4,6 +4,15 @@
   "last_name": "Shamir",
   "birth_date": "1995-06-25",
   "country_id": 775,
+  "attrs": {
+    "person": {"ada": 9, "amb": 14, "loy": 8, "pre": 8, "pro": 12, "spo": 12, "tem": 13, "con": 4},
+    "player": {
+      "technical": {"cro": 5, "dri": 10, "fin": 10, "hea": 14, "lon": 8, "mar": 12, "pas": 12, "pen": 12, "tck": 11, "fir": 11, "tec": 11, "cor": 7, "lth": 6, "fre": 8},
+      "mental": {"otb": 11, "vis": 11, "ant": 11, "dec": 12, "pos": 13, "fla": 6, "tea": 15, "wor": 14, "ldr": 13, "bra": 11, "agg": 14, "det": 14, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 10, "str": 12, "sta": 12, "pac": 11, "jum": 13, "bal": 13, "agi": 10, "nat": 13},
+      "hidden": {"dir": 7, "cns": 8, "imp": 10, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DM",

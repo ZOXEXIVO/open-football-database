@@ -4,6 +4,15 @@
   "last_name": "Radinović",
   "birth_date": "1993-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 10, "amb": 10, "loy": 12, "pre": 10, "pro": 11, "spo": 11, "tem": 10, "con": 9},
+    "player": {
+      "technical": {"dri": 11, "fin": 11, "lon": 13, "mar": 9, "pas": 12, "tck": 9, "fir": 12, "tec": 11, "lth": 8, "fre": 8},
+      "mental": {"vis": 12, "ant": 12, "dec": 11, "pos": 13, "tea": 12, "wor": 12, "ldr": 10, "bra": 9, "agg": 8, "det": 10, "cmp": 12, "cnt": 9},
+      "physical": {"acc": 12, "str": 8, "sta": 12, "pac": 12, "bal": 8, "agi": 11, "nat": 9},
+      "hidden": {"dir": 7, "cns": 9, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DM",

@@ -4,6 +4,14 @@
   "last_name": "Yevdokymov",
   "birth_date": "1995-12-07",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 10, "pas": 13},
+      "mental": {"vis": 12, "dec": 11, "tea": 12, "wor": 13, "ldr": 11, "det": 10},
+      "physical": {"str": 7, "jum": 8},
+      "hidden": {"dir": 16}
+    }
+  },
   "positions": [
     {
       "code": "DM",

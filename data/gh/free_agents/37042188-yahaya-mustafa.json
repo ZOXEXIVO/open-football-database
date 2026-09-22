@@ -4,6 +4,15 @@
   "last_name": "Yahaya",
   "birth_date": "1994-01-01",
   "country_id": 21,
+  "attrs": {
+    "person": {"ada": 7, "amb": 13},
+    "player": {
+      "technical": {"cro": 9, "dri": 7, "fin": 8, "hea": 11, "mar": 11, "pas": 8, "tck": 15, "fir": 7, "tec": 10, "fre": 10},
+      "mental": {"otb": 7, "vis": 11, "ant": 8, "dec": 8, "pos": 12, "fla": 11, "tea": 12, "wor": 14, "bra": 6, "agg": 12, "det": 11, "cmp": 7, "cnt": 10},
+      "physical": {"acc": 11, "str": 10, "sta": 13, "pac": 9, "jum": 10, "agi": 12, "nat": 13},
+      "hidden": {"dir": 12, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DC",

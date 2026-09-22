@@ -4,6 +4,15 @@
   "last_name": "Bass",
   "birth_date": "2001-08-09",
   "country_id": 379,
+  "attrs": {
+    "person": {"amb": 11, "tem": 10},
+    "player": {
+      "technical": {"cro": 9, "hea": 11, "lon": 10, "mar": 11, "pas": 10, "pen": 11, "tck": 10, "fir": 10, "tec": 8, "lth": 9, "fre": 11},
+      "mental": {"otb": 10, "vis": 10, "ant": 10, "dec": 10, "pos": 11, "tea": 11, "wor": 10, "ldr": 11, "bra": 8, "agg": 7, "det": 10, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 10, "str": 10, "pac": 10, "jum": 9, "bal": 10, "agi": 9},
+      "hidden": {"dir": 8, "cns": 9, "imp": 9, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "MC",

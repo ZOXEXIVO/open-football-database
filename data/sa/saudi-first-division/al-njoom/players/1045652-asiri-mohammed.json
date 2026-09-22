@@ -5,6 +5,11 @@
   "birth_date": "1992-10-18",
   "country_id": 133,
   "club_id": 23002919,
+  "attrs": {
+    "player": {
+      "goalkeeping": {"han": 10, "aer": 8, "cmd": 12, "com": 7, "kic": 5, "thr": 11, "one": 12, "ref": 13}
+    }
+  },
   "positions": [
     {
       "code": "GK",

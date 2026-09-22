@@ -4,6 +4,12 @@
   "last_name": "Monges",
   "birth_date": "1997-01-01",
   "country_id": 1655,
+  "attrs": {
+    "player": {
+      "technical": {"tec": 7},
+      "physical": {"acc": 9, "str": 14, "pac": 9, "jum": 14, "bal": 13, "agi": 7}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -5,6 +5,13 @@
   "birth_date": "2002-07-02",
   "country_id": 800,
   "club_id": 2000032124,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "tck": 7},
+      "physical": {"acc": 12, "str": 12, "pac": 14, "bal": 16, "agi": 11},
+      "hidden": {"ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "MC",

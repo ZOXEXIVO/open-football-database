@@ -4,6 +4,15 @@
   "last_name": "Donachie",
   "birth_date": "1993-05-14",
   "country_id": 1435,
+  "attrs": {
+    "person": {"ada": 7, "pre": 13},
+    "player": {
+      "technical": {"cro": 4, "dri": 5, "hea": 13, "lon": 3, "mar": 13, "pas": 9, "tck": 12, "fir": 6, "tec": 11, "cor": 4, "fre": 3},
+      "mental": {"otb": 7, "vis": 9, "ant": 11, "dec": 9, "pos": 13, "fla": 3, "tea": 11, "wor": 12, "ldr": 6, "bra": 11, "agg": 6, "det": 12, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 8, "str": 12, "sta": 13, "pac": 12, "jum": 15, "bal": 12, "agi": 8, "nat": 13},
+      "hidden": {"dir": 6, "cns": 6, "imp": 8, "inj": 7, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DC",

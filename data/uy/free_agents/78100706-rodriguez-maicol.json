@@ -4,6 +4,15 @@
   "last_name": "Rodríguez",
   "birth_date": "2000-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"amb": 3},
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 9, "mar": 9, "pas": 11, "tck": 8, "fir": 12, "tec": 13},
+      "mental": {"otb": 8, "vis": 9, "ant": 8, "dec": 8, "pos": 7, "fla": 11, "tea": 8, "wor": 10, "ldr": 9, "bra": 10, "det": 7, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 12, "str": 8, "sta": 10, "pac": 12, "jum": 7, "bal": 10, "agi": 12, "nat": 10},
+      "hidden": {"cns": 8, "imp": 8, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "MC",

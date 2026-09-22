@@ -4,6 +4,15 @@
   "last_name": "Rebić",
   "birth_date": "1993-09-21",
   "country_id": 761,
+  "attrs": {
+    "person": {"ada": 10, "amb": 8, "loy": 11, "pre": 14, "pro": 11, "spo": 7, "tem": 9, "con": 11},
+    "player": {
+      "technical": {"cro": 11, "dri": 13, "fin": 12, "hea": 12, "lon": 12, "mar": 5, "pas": 12, "pen": 10, "tck": 8, "fir": 13, "tec": 13, "cor": 7, "lth": 7, "fre": 7},
+      "mental": {"otb": 13, "vis": 14, "ant": 13, "dec": 12, "pos": 9, "fla": 12, "tea": 13, "wor": 13, "ldr": 9, "bra": 15, "agg": 15, "det": 12, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 12, "str": 14, "sta": 12, "pac": 13, "jum": 12, "bal": 13, "agi": 11, "nat": 13},
+      "hidden": {"dir": 15, "cns": 11, "imp": 13, "inj": 12, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "AML",

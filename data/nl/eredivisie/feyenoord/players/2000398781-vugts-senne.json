@@ -5,6 +5,13 @@
   "birth_date": "2007-07-25",
   "country_id": 784,
   "club_id": 1001,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 11, "lon": 12, "pen": 14, "fir": 9, "tec": 13},
+      "mental": {"otb": 9, "ant": 9},
+      "physical": {"bal": 13}
+    }
+  },
   "positions": [
     {
       "code": "MC",

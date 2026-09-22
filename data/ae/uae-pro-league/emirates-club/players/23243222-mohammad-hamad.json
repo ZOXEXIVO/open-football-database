@@ -5,6 +5,15 @@
   "birth_date": "1995-07-15",
   "country_id": 143,
   "club_id": 135435,
+  "attrs": {
+    "person": {"tem": 11},
+    "player": {
+      "technical": {"mar": 10, "tck": 11},
+      "mental": {"ant": 11, "bra": 11, "agg": 15},
+      "physical": {"str": 7, "jum": 6},
+      "hidden": {"dir": 15}
+    }
+  },
   "positions": [
     {
       "code": "DM",

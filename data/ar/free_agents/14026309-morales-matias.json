@@ -4,6 +4,14 @@
   "last_name": "Morales",
   "birth_date": "1991-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 14, "dri": 10, "fin": 9, "hea": 10, "lon": 12, "mar": 8, "pas": 10, "pen": 7, "tck": 8, "fir": 9, "tec": 13, "cor": 12, "lth": 6, "fre": 8},
+      "mental": {"otb": 13, "vis": 12, "ant": 11, "dec": 11, "pos": 10, "fla": 10, "tea": 11, "wor": 11, "ldr": 6, "bra": 10, "agg": 7, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 11, "str": 11, "sta": 11, "pac": 11, "jum": 11, "bal": 11, "agi": 11, "nat": 10},
+      "hidden": {"cns": 10, "imp": 8, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "MC",

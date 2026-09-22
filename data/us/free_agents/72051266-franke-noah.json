@@ -4,6 +4,12 @@
   "last_name": "Franke",
   "birth_date": "1995-01-01",
   "country_id": 390,
+  "attrs": {
+    "player": {
+      "mental": {"wor": 13},
+      "physical": {"str": 7, "sta": 13, "jum": 7, "bal": 11}
+    }
+  },
   "positions": [
     {
       "code": "DR",

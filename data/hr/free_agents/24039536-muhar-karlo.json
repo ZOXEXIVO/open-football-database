@@ -4,6 +4,15 @@
   "last_name": "Muhar",
   "birth_date": "1996-01-17",
   "country_id": 761,
+  "attrs": {
+    "person": {"ada": 10, "amb": 12, "loy": 13, "pre": 11, "pro": 13, "spo": 11, "tem": 11, "con": 5},
+    "player": {
+      "technical": {"cro": 9, "dri": 11, "fin": 12, "hea": 13, "lon": 12, "mar": 12, "pas": 13, "pen": 11, "tck": 13, "fir": 12, "tec": 12, "cor": 8, "lth": 7, "fre": 9},
+      "mental": {"otb": 13, "vis": 12, "ant": 13, "dec": 12, "pos": 12, "fla": 11, "tea": 13, "wor": 14, "ldr": 13, "bra": 15, "agg": 16, "det": 13, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 12, "str": 15, "sta": 14, "pac": 12, "jum": 14, "bal": 15, "agi": 12, "nat": 14},
+      "hidden": {"dir": 13, "cns": 15, "imp": 9, "inj": 7, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

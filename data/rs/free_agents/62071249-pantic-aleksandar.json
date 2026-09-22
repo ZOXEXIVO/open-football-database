@@ -4,6 +4,15 @@
   "last_name": "Pantić",
   "birth_date": "1992-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 10, "amb": 10, "loy": 11, "pre": 10, "pro": 10, "spo": 10, "tem": 10, "con": 9},
+    "player": {
+      "technical": {"cro": 11, "dri": 10, "fin": 4, "hea": 12, "lon": 8, "mar": 11, "pas": 11, "tck": 13, "fir": 12, "tec": 12, "cor": 11, "lth": 8, "fre": 8},
+      "mental": {"otb": 11, "vis": 12, "ant": 11, "dec": 11, "pos": 11, "fla": 9, "tea": 11, "wor": 12, "ldr": 10, "bra": 13, "agg": 9, "det": 10, "cmp": 12, "cnt": 10},
+      "physical": {"acc": 11, "str": 11, "sta": 11, "pac": 11, "jum": 13, "bal": 10, "agi": 10, "nat": 9},
+      "hidden": {"dir": 14, "cns": 12, "imp": 12, "inj": 13, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DR",

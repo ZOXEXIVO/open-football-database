@@ -4,6 +4,14 @@
   "last_name": "Abakarov",
   "birth_date": "2000-10-09",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 11, "fin": 12, "lon": 11, "pen": 11, "tec": 12},
+      "mental": {"dec": 7, "cmp": 15},
+      "physical": {"str": 9, "jum": 9, "agi": 12},
+      "hidden": {"cns": 14}
+    }
+  },
   "positions": [
     {
       "code": "MC",

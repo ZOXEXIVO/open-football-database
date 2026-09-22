@@ -4,6 +4,15 @@
   "last_name": "Halloran",
   "birth_date": "1992-06-14",
   "country_id": 1435,
+  "attrs": {
+    "person": {"ada": 10, "amb": 13, "loy": 9, "pre": 14, "pro": 13, "spo": 10, "tem": 10, "con": 5},
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "fin": 9, "hea": 8, "lon": 9, "mar": 6, "pas": 11, "pen": 8, "tck": 7, "fir": 12, "tec": 13, "cor": 11, "lth": 9, "fre": 10},
+      "mental": {"otb": 12, "vis": 10, "ant": 10, "dec": 10, "pos": 9, "fla": 11, "tea": 13, "wor": 13, "ldr": 6, "bra": 9, "agg": 8, "det": 15, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 11, "str": 7, "sta": 11, "pac": 12, "jum": 9, "bal": 9, "agi": 12, "nat": 13},
+      "hidden": {"dir": 7, "cns": 10, "imp": 9, "inj": 10, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "MR",

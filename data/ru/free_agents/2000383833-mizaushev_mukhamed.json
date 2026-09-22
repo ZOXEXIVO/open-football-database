@@ -4,6 +4,13 @@
   "last_name": "Mizaushev",
   "birth_date": "2003-01-03",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 6, "dri": 8, "fin": 5, "hea": 5, "mar": 4, "pas": 7, "tck": 5, "fir": 8, "tec": 8},
+      "mental": {"otb": 8, "vis": 7, "ant": 6, "dec": 8, "pos": 6, "fla": 8, "tea": 7, "wor": 7, "bra": 7, "cmp": 7, "cnt": 6},
+      "physical": {"acc": 11, "str": 10, "pac": 11, "jum": 11, "bal": 8, "agi": 9}
+    }
+  },
   "positions": [
     {
       "code": "MR",

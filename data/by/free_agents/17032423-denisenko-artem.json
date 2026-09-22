@@ -4,6 +4,16 @@
   "last_name": "Denisenko",
   "birth_date": "1999-04-12",
   "country_id": 758,
+  "attrs": {
+    "person": {"ada": 8, "amb": 7, "loy": 7, "pre": 12, "pro": 12, "spo": 12, "tem": 10, "con": 8},
+    "player": {
+      "technical": {"hea": 6, "pas": 6, "fir": 10, "tec": 10},
+      "mental": {"vis": 6, "ant": 12, "dec": 9, "pos": 12, "tea": 10, "wor": 12, "ldr": 12, "bra": 12, "det": 9, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 6, "str": 13, "sta": 8, "pac": 6, "jum": 14, "bal": 8, "agi": 13, "nat": 10},
+      "goalkeeping": {"han": 7, "aer": 10, "cmd": 14, "com": 15, "kic": 7, "thr": 13, "one": 7, "ref": 8, "ecc": 15, "rus": 14, "pun": 6},
+      "hidden": {"cns": 10, "inj": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

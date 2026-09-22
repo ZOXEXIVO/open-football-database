@@ -5,6 +5,11 @@
   "birth_date": "2004-02-10",
   "country_id": 115,
   "club_id": 123001,
+  "attrs": {
+    "player": {
+      "mental": {"vis": 8}
+    }
+  },
   "positions": [
     {
       "code": "DR",

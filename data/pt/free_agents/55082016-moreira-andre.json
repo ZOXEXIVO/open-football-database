@@ -4,6 +4,16 @@
   "last_name": "Moreira",
   "birth_date": "1995-12-02",
   "country_id": 788,
+  "attrs": {
+    "person": {"ada": 11, "amb": 14, "loy": 8, "pre": 10, "pro": 13, "spo": 12, "tem": 6, "con": 6},
+    "player": {
+      "technical": {"hea": 7, "pas": 11, "fir": 9, "tec": 9},
+      "mental": {"otb": 2, "vis": 8, "ant": 13, "dec": 11, "pos": 12, "fla": 2, "tea": 13, "wor": 10, "ldr": 12, "bra": 13, "agg": 12, "det": 13, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 8, "str": 14, "sta": 10, "pac": 10, "jum": 17, "bal": 9, "agi": 13, "nat": 12},
+      "goalkeeping": {"han": 12, "aer": 14, "cmd": 11, "com": 12, "kic": 12, "thr": 11, "one": 14, "ref": 15, "ecc": 10, "rus": 15, "pun": 14},
+      "hidden": {"dir": 2, "cns": 10, "imp": 11, "inj": 5}
+    }
+  },
   "positions": [
     {
       "code": "GK",

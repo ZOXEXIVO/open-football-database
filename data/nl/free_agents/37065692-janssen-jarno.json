@@ -4,6 +4,14 @@
   "last_name": "Janssen",
   "birth_date": "2000-01-01",
   "country_id": 784,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 5},
+      "mental": {"tea": 12, "wor": 15},
+      "physical": {"str": 12, "bal": 13},
+      "hidden": {"inj": 17}
+    }
+  },
   "positions": [
     {
       "code": "DL",

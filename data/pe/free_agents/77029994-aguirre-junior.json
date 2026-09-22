@@ -4,6 +4,15 @@
   "last_name": "Aguirre",
   "birth_date": "1992-01-01",
   "country_id": 1656,
+  "attrs": {
+    "person": {"ada": 9, "amb": 8, "loy": 7, "pre": 8, "pro": 8, "spo": 9, "tem": 7, "con": 8},
+    "player": {
+      "technical": {"cro": 10, "dri": 15, "fin": 7, "hea": 10, "lon": 13, "mar": 9, "pas": 14, "pen": 14, "tck": 9, "fir": 12, "tec": 13, "cor": 14, "lth": 8, "fre": 12},
+      "mental": {"otb": 13, "vis": 14, "ant": 10, "dec": 12, "pos": 7, "fla": 14, "tea": 8, "wor": 10, "ldr": 6, "bra": 7, "agg": 7, "det": 8, "cmp": 9, "cnt": 12},
+      "physical": {"acc": 14, "str": 7, "sta": 12, "pac": 14, "jum": 5, "bal": 8, "agi": 12, "nat": 11},
+      "hidden": {"dir": 6, "cns": 13, "imp": 12, "inj": 8, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

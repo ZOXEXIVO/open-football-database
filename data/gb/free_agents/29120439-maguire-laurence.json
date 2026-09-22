@@ -4,6 +4,15 @@
   "last_name": "Maguire",
   "birth_date": "1997-02-08",
   "country_id": 765,
+  "attrs": {
+    "person": {"ada": 5, "amb": 7, "loy": 10, "pre": 10, "pro": 10, "spo": 10, "tem": 12, "con": 6},
+    "player": {
+      "technical": {"cro": 9, "dri": 9, "fin": 7, "hea": 13, "lon": 6, "mar": 12, "pas": 11, "pen": 4, "tck": 12, "fir": 9, "tec": 10, "cor": 2, "lth": 10, "fre": 5},
+      "mental": {"otb": 6, "vis": 10, "ant": 10, "dec": 10, "pos": 12, "fla": 4, "tea": 13, "wor": 13, "ldr": 12, "bra": 13, "agg": 9, "det": 10, "cmp": 12, "cnt": 10},
+      "physical": {"acc": 8, "str": 13, "sta": 12, "pac": 8, "jum": 14, "bal": 11, "agi": 8, "nat": 13},
+      "hidden": {"dir": 7, "cns": 12, "imp": 9, "inj": 6, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -4,6 +4,15 @@
   "last_name": "Zahedi",
   "birth_date": "1995-08-18",
   "country_id": 114,
+  "attrs": {
+    "person": {"ada": 12, "amb": 11, "loy": 9, "pre": 12, "pro": 10, "spo": 9, "tem": 15, "con": 7},
+    "player": {
+      "technical": {"cro": 7, "dri": 12, "fin": 13, "hea": 13, "lon": 12, "mar": 7, "pas": 10, "pen": 15, "tck": 11, "fir": 13, "tec": 11, "cor": 7, "lth": 3, "fre": 5},
+      "mental": {"otb": 13, "vis": 8, "ant": 12, "dec": 11, "pos": 7, "fla": 9, "tea": 12, "wor": 12, "ldr": 10, "bra": 11, "agg": 10, "det": 13, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 12, "str": 15, "sta": 12, "pac": 13, "jum": 14, "bal": 14, "agi": 9, "nat": 12},
+      "hidden": {"dir": 10, "cns": 10, "imp": 11, "inj": 9, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

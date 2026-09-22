@@ -4,6 +4,15 @@
   "last_name": "Lopes",
   "birth_date": "1989-01-04",
   "country_id": 788,
+  "attrs": {
+    "person": {"ada": 12, "amb": 12, "loy": 13, "pre": 13, "pro": 14, "spo": 10, "tem": 13, "con": 7},
+    "player": {
+      "technical": {"cro": 13, "dri": 8, "fin": 12, "hea": 10, "lon": 11, "mar": 12, "pas": 12, "pen": 9, "tck": 12, "fir": 13, "tec": 10, "cor": 10, "lth": 13, "fre": 7},
+      "mental": {"otb": 11, "vis": 8, "ant": 12, "dec": 13, "pos": 10, "fla": 12, "tea": 13, "wor": 13, "ldr": 14, "bra": 13, "agg": 14, "det": 13, "cmp": 11, "cnt": 13},
+      "physical": {"acc": 11, "str": 10, "sta": 13, "pac": 11, "jum": 11, "bal": 11, "agi": 12, "nat": 14},
+      "hidden": {"dir": 10, "cns": 14, "imp": 14, "inj": 9, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

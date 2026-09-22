@@ -4,6 +4,12 @@
   "last_name": "Gorbunov",
   "birth_date": "2009-03-11",
   "country_id": 791,
+  "attrs": {
+    "person": {"tem": 15},
+    "player": {
+      "mental": {"ldr": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

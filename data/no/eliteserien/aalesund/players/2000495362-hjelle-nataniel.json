@@ -5,6 +5,13 @@
   "birth_date": "2008-04-18",
   "country_id": 786,
   "club_id": 1289,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 9},
+      "mental": {"vis": 8, "dec": 9, "tea": 9, "cmp": 8},
+      "physical": {"acc": 11, "str": 7, "pac": 9, "jum": 6, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

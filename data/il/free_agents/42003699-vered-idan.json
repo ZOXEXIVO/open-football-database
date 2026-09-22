@@ -4,6 +4,15 @@
   "last_name": "Vered",
   "birth_date": "1989-05-25",
   "country_id": 775,
+  "attrs": {
+    "person": {"ada": 12, "amb": 12, "loy": 10, "pre": 12, "pro": 11, "spo": 9, "tem": 9, "con": 8},
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 9, "hea": 7, "lon": 10, "mar": 8, "pas": 10, "pen": 5, "tck": 8, "fir": 11, "tec": 11, "cor": 9, "lth": 4, "fre": 7},
+      "mental": {"otb": 10, "vis": 10, "ant": 11, "dec": 11, "pos": 7, "fla": 11, "tea": 13, "wor": 15, "ldr": 13, "bra": 12, "agg": 10, "det": 11, "cmp": 11, "cnt": 9},
+      "physical": {"acc": 10, "str": 8, "sta": 10, "pac": 10, "jum": 7, "bal": 11, "agi": 9, "nat": 12},
+      "hidden": {"dir": 9, "cns": 10, "imp": 12, "inj": 11, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "MR",

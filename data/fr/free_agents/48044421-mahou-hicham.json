@@ -4,6 +4,15 @@
   "last_name": "Mahou",
   "birth_date": "1999-07-02",
   "country_id": 769,
+  "attrs": {
+    "person": {"amb": 12, "pro": 12},
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 9, "hea": 9, "lon": 12, "mar": 6, "pas": 12, "pen": 12, "tck": 6, "fir": 10, "tec": 12, "cor": 10, "lth": 6, "fre": 10},
+      "mental": {"otb": 12, "vis": 8, "ant": 10, "dec": 11, "pos": 7, "fla": 14, "tea": 11, "wor": 13, "ldr": 8, "bra": 13, "agg": 12, "det": 14, "cmp": 11, "cnt": 9},
+      "physical": {"acc": 15, "str": 10, "sta": 12, "pac": 15, "jum": 8, "bal": 12, "agi": 13, "nat": 13},
+      "hidden": {"dir": 9, "cns": 11, "imp": 9, "inj": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

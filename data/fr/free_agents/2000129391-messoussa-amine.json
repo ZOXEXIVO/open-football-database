@@ -4,6 +4,14 @@
   "last_name": "Messoussa",
   "birth_date": "2004-10-12",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 15, "pro": 15},
+    "player": {
+      "mental": {"det": 11},
+      "physical": {"jum": 10},
+      "hidden": {"cns": 11, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "ST",

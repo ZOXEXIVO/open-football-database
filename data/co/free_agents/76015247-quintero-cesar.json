@@ -4,6 +4,15 @@
   "last_name": "Quintero",
   "birth_date": "1988-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 11, "amb": 10, "loy": 13, "pre": 10, "pro": 11, "spo": 12, "tem": 10, "con": 9},
+    "player": {
+      "technical": {"cro": 13, "dri": 12, "fin": 10, "hea": 8, "lon": 11, "mar": 10, "pas": 11, "tck": 12, "fir": 10, "tec": 13, "cor": 14, "lth": 12, "fre": 12},
+      "mental": {"otb": 13, "vis": 12, "ant": 10, "dec": 11, "pos": 10, "fla": 13, "tea": 12, "wor": 12, "ldr": 12, "bra": 12, "agg": 11, "det": 12, "cmp": 13, "cnt": 11},
+      "physical": {"acc": 10, "str": 12, "sta": 12, "pac": 10, "jum": 8, "bal": 12, "agi": 12, "nat": 12},
+      "hidden": {"dir": 9, "cns": 13, "imp": 11, "inj": 13, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DM",

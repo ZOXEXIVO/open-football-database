@@ -5,6 +5,14 @@
   "birth_date": "2008-07-08",
   "country_id": 787,
   "club_id": 1010,
+  "attrs": {
+    "person": {"ada": 12},
+    "player": {
+      "technical": {"dri": 9, "hea": 12, "mar": 12, "pas": 11, "lth": 6},
+      "mental": {"ant": 11, "tea": 13, "wor": 13, "ldr": 16, "cmp": 13},
+      "physical": {"jum": 16}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -4,6 +4,13 @@
   "last_name": "Lucky",
   "birth_date": "2005-02-24",
   "country_id": 38,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "fin": 9, "hea": 7, "mar": 10, "tck": 9, "fir": 11, "tec": 11},
+      "mental": {"otb": 11, "ant": 10, "fla": 12, "wor": 9, "bra": 10, "agg": 12},
+      "physical": {"acc": 13, "str": 11, "pac": 12, "jum": 7, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

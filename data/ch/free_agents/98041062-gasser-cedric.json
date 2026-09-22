@@ -4,6 +4,12 @@
   "last_name": "Gasser",
   "birth_date": "1998-02-16",
   "country_id": 798,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 13, "tck": 12},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

@@ -5,6 +5,13 @@
   "birth_date": "1999-01-02",
   "country_id": 113,
   "club_id": 116140,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 10, "fre": 1},
+      "physical": {"acc": 13, "pac": 12},
+      "hidden": {"dir": 6}
+    }
+  },
   "positions": [
     {
       "code": "ML",

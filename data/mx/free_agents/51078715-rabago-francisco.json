@@ -4,6 +4,14 @@
   "last_name": "Rabago",
   "birth_date": "2000-01-01",
   "country_id": 379,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 10, "fin": 8, "hea": 11, "lon": 9, "mar": 12, "pas": 12, "pen": 9, "tck": 12, "fir": 12, "tec": 11, "cor": 9, "lth": 10, "fre": 8},
+      "mental": {"otb": 11, "vis": 11, "ant": 11, "dec": 10, "pos": 11, "fla": 7, "tea": 9, "wor": 11, "ldr": 12, "bra": 13, "agg": 10, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 13, "str": 7, "sta": 12, "pac": 9, "bal": 9, "agi": 10, "nat": 8},
+      "hidden": {"dir": 9, "cns": 11, "imp": 9, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DL",

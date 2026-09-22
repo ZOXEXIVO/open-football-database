@@ -5,6 +5,13 @@
   "birth_date": "2006-03-13",
   "country_id": 1651,
   "club_id": 316,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "mar": 10, "pas": 11, "fir": 10, "tec": 10},
+      "mental": {"otb": 12, "vis": 10, "ant": 11, "pos": 10, "tea": 11, "bra": 10, "cmp": 10},
+      "physical": {"acc": 12, "str": 5, "pac": 11, "jum": 5, "agi": 12, "nat": 12}
+    }
+  },
   "positions": [
     {
       "code": "MC",

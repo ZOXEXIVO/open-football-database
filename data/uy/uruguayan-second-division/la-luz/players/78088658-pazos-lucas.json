@@ -5,6 +5,14 @@
   "birth_date": "1998-01-01",
   "country_id": 1657,
   "club_id": 5512782,
+  "attrs": {
+    "person": {"amb": 5, "pro": 5},
+    "player": {
+      "technical": {"dri": 10, "fin": 11, "fir": 12, "tec": 11, "cor": 11},
+      "mental": {"dec": 9, "fla": 9},
+      "physical": {"acc": 13, "str": 11, "sta": 9, "pac": 11, "jum": 8, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

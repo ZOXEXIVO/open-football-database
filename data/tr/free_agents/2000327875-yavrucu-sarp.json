@@ -4,6 +4,12 @@
   "last_name": "Yavrucu",
   "birth_date": "2005-03-17",
   "country_id": 799,
+  "attrs": {
+    "player": {
+      "mental": {"dec": 6},
+      "physical": {"str": 7, "jum": 8}
+    }
+  },
   "positions": [
     {
       "code": "ST",

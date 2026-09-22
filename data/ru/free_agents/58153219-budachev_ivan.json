@@ -4,6 +4,15 @@
   "last_name": "Budachev",
   "birth_date": "2001-07-20",
   "country_id": 791,
+  "attrs": {
+    "person": {"loy": 12, "pre": 10, "pro": 14, "spo": 17, "tem": 17, "con": 3},
+    "player": {
+      "mental": {"dec": 9, "pos": 12, "det": 12, "cnt": 11},
+      "physical": {"acc": 10, "str": 13, "pac": 10, "jum": 15, "bal": 10, "agi": 11},
+      "goalkeeping": {"han": 7, "aer": 13, "cmd": 9, "com": 14, "kic": 8, "thr": 9, "one": 9, "ref": 14, "ecc": 13, "rus": 10, "pun": 12},
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "GK",

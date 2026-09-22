@@ -5,6 +5,12 @@
   "birth_date": "2001-11-29",
   "country_id": 758,
   "club_id": 7483392,
+  "attrs": {
+    "player": {
+      "physical": {"str": 8, "jum": 13, "agi": 12},
+      "hidden": {"cns": 4}
+    }
+  },
   "positions": [
     {
       "code": "GK",

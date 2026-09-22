@@ -4,6 +4,15 @@
   "last_name": "Kapustyanskiy",
   "birth_date": "2004-10-30",
   "country_id": 791,
+  "attrs": {
+    "person": {"ada": 12},
+    "player": {
+      "technical": {"cro": 9, "dri": 12, "fin": 7, "hea": 3, "lon": 7, "mar": 3, "pas": 8, "tck": 4, "fir": 11, "tec": 12, "cor": 10},
+      "mental": {"otb": 9, "vis": 6, "ant": 8, "dec": 8, "pos": 7, "fla": 10, "tea": 8, "wor": 9, "bra": 7, "agg": 6, "det": 11, "cmp": 9, "cnt": 8},
+      "physical": {"acc": 12, "str": 9, "pac": 11, "jum": 7, "bal": 9, "agi": 12},
+      "hidden": {"cns": 11, "inj": 13}
+    }
+  },
   "positions": [
     {
       "code": "AML",

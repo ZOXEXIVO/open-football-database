@@ -4,6 +4,15 @@
   "last_name": "Kozak",
   "birth_date": "1997-05-23",
   "country_id": 787,
+  "attrs": {
+    "person": {"amb": 15, "loy": 2, "pro": 8, "spo": 7, "tem": 17, "con": 16},
+    "player": {
+      "technical": {"cro": 12, "dri": 11, "fin": 8, "hea": 5, "lon": 12, "mar": 7, "pas": 10, "pen": 8, "tck": 8, "fir": 10, "tec": 10, "cor": 10, "lth": 6, "fre": 7},
+      "mental": {"otb": 12, "vis": 11, "ant": 12, "dec": 11, "pos": 6, "fla": 13, "tea": 10, "wor": 13, "ldr": 5, "bra": 12, "agg": 7, "det": 13, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 14, "str": 12, "sta": 12, "pac": 14, "jum": 7, "bal": 8, "agi": 12, "nat": 11},
+      "hidden": {"dir": 6, "cns": 9, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "MR",

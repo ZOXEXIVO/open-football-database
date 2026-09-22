@@ -4,6 +4,14 @@
   "last_name": "Fernández",
   "birth_date": "1991-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"loy": 5},
+    "player": {
+      "technical": {"fir": 7},
+      "physical": {"jum": 11},
+      "goalkeeping": {"han": 9, "aer": 9, "kic": 11, "thr": 12, "ecc": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

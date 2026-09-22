@@ -4,6 +4,15 @@
   "last_name": "Alseth",
   "birth_date": "1994-01-01",
   "country_id": 786,
+  "attrs": {
+    "person": {"ada": 10, "amb": 4, "loy": 15, "pre": 14, "pro": 12, "spo": 14, "tem": 15, "con": 4},
+    "player": {
+      "technical": {"cro": 11, "dri": 10, "fin": 7, "hea": 10, "lon": 10, "mar": 10, "pas": 11, "pen": 7, "tck": 10, "fir": 9, "tec": 8, "cor": 11, "lth": 7, "fre": 10},
+      "mental": {"otb": 9, "vis": 13, "ant": 11, "dec": 10, "pos": 10, "fla": 7, "tea": 11, "wor": 13, "ldr": 12, "bra": 13, "agg": 10, "cmp": 12, "cnt": 8},
+      "physical": {"acc": 9, "str": 11, "sta": 12, "pac": 10, "jum": 12, "bal": 9, "agi": 8, "nat": 12},
+      "hidden": {"dir": 10, "cns": 9, "imp": 11, "inj": 3, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "DR",

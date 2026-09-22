@@ -4,6 +4,15 @@
   "last_name": "Guessoum",
   "birth_date": "1999-02-05",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 14, "amb": 11, "loy": 14, "pre": 9, "pro": 14, "spo": 12, "tem": 11, "con": 10},
+    "player": {
+      "technical": {"cro": 9, "dri": 12, "fin": 6, "hea": 10, "lon": 9, "mar": 12, "pas": 10, "pen": 8, "tck": 14, "fir": 11, "tec": 10, "cor": 9, "lth": 11, "fre": 5},
+      "mental": {"otb": 11, "vis": 10, "ant": 14, "dec": 12, "pos": 13, "fla": 7, "tea": 12, "wor": 13, "ldr": 8, "bra": 11, "agg": 12, "det": 9, "cmp": 13, "cnt": 8},
+      "physical": {"acc": 12, "str": 11, "sta": 13, "pac": 12, "jum": 8, "bal": 12, "agi": 12, "nat": 13},
+      "hidden": {"dir": 12, "cns": 11, "imp": 12, "inj": 7, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DR",

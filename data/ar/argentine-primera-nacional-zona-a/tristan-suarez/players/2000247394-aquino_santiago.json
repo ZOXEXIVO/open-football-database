@@ -5,6 +5,12 @@
   "birth_date": "2004-12-31",
   "country_id": 1649,
   "club_id": 3101520,
+  "attrs": {
+    "player": {
+      "technical": {"fir": 12, "cor": 11, "fre": 11},
+      "hidden": {"ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

@@ -4,6 +4,15 @@
   "last_name": "Osei-Berkoe",
   "birth_date": "1998-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"amb": 12, "pre": 11, "pro": 12, "tem": 12},
+    "player": {
+      "technical": {"cro": 8, "dri": 14, "fin": 7, "hea": 5, "lon": 7, "mar": 5, "pas": 10, "tck": 5, "fir": 14, "tec": 14, "cor": 7, "lth": 6, "fre": 7},
+      "mental": {"otb": 9, "vis": 13, "ant": 8, "dec": 7, "pos": 7, "fla": 14, "tea": 12, "wor": 12, "bra": 14, "det": 14, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 13, "str": 7, "sta": 5, "pac": 14, "bal": 7, "agi": 12},
+      "hidden": {"cns": 8}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

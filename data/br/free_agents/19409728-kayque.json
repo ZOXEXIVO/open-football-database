@@ -4,6 +4,14 @@
   "last_name": "",
   "birth_date": "2000-07-12",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "technical": {"lon": 11, "mar": 11, "pas": 12, "tck": 11, "fir": 11, "tec": 11},
+      "mental": {"vis": 11, "ant": 11, "dec": 11, "tea": 11, "wor": 13, "ldr": 11, "bra": 11, "agg": 12, "cmp": 11},
+      "physical": {"acc": 13, "str": 8, "sta": 12, "pac": 9, "jum": 9, "bal": 15, "agi": 14, "nat": 12},
+      "hidden": {"dir": 12, "cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

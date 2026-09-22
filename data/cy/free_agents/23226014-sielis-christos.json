@@ -4,6 +4,15 @@
   "last_name": "Sielis",
   "birth_date": "2000-02-02",
   "country_id": 762,
+  "attrs": {
+    "person": {"ada": 13, "amb": 12, "loy": 10, "pre": 12, "pro": 13, "spo": 10, "tem": 12, "con": 5},
+    "player": {
+      "technical": {"cro": 7, "dri": 8, "fin": 6, "hea": 12, "lon": 5, "mar": 13, "pas": 9, "pen": 5, "tck": 12, "fir": 11, "tec": 7, "cor": 3, "lth": 7, "fre": 7},
+      "mental": {"otb": 6, "vis": 6, "ant": 12, "dec": 12, "pos": 12, "fla": 5, "tea": 12, "wor": 13, "ldr": 7, "bra": 13, "agg": 15, "det": 15, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 12, "str": 13, "sta": 13, "pac": 12, "jum": 12, "bal": 10, "agi": 12, "nat": 12},
+      "hidden": {"dir": 8, "cns": 12, "imp": 13, "inj": 5, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DR",

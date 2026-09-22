@@ -4,6 +4,14 @@
   "last_name": "Ávila",
   "birth_date": "1997-01-01",
   "country_id": 1652,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 10, "fin": 6, "hea": 5, "lon": 8, "mar": 7, "pas": 11, "pen": 5, "tck": 8, "fir": 11, "tec": 11, "cor": 7, "lth": 8},
+      "mental": {"otb": 9, "vis": 9, "ant": 13, "dec": 12, "pos": 10, "fla": 11, "tea": 12, "wor": 13, "bra": 12, "agg": 11, "cmp": 8, "cnt": 11},
+      "physical": {"acc": 13, "str": 7, "sta": 11, "pac": 11, "jum": 5, "bal": 11, "agi": 12, "nat": 11},
+      "hidden": {"dir": 10, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "MC",

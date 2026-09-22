@@ -5,6 +5,12 @@
   "birth_date": "2000-06-27",
   "country_id": 5,
   "club_id": 529013,
+  "attrs": {
+    "player": {
+      "mental": {"ldr": 12},
+      "physical": {"jum": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

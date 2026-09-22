@@ -5,6 +5,12 @@
   "birth_date": "2004-11-04",
   "country_id": 791,
   "club_id": 1521,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10},
+      "physical": {"agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "DL",

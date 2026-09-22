@@ -4,6 +4,13 @@
   "last_name": "Doka",
   "birth_date": "1997-06-26",
   "country_id": 752,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "dri": 7, "fin": 8, "hea": 9, "lon": 11, "mar": 10, "tck": 12, "fir": 10, "tec": 8},
+      "mental": {"dec": 9, "fla": 8, "wor": 15, "bra": 15, "agg": 14, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 14, "str": 12, "sta": 13, "pac": 13, "jum": 9, "bal": 12, "agi": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

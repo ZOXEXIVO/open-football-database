@@ -5,6 +5,12 @@
   "birth_date": "1999-06-02",
   "country_id": 143,
   "club_id": 135432,
+  "attrs": {
+    "player": {
+      "mental": {"bra": 11, "agg": 12},
+      "physical": {"str": 12, "jum": 13}
+    }
+  },
   "positions": [
     {
       "code": "MR",

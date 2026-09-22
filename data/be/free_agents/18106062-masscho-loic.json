@@ -4,6 +4,13 @@
   "last_name": "Masscho",
   "birth_date": "2001-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "mental": {"ldr": 12},
+      "physical": {"acc": 11, "str": 12, "sta": 10, "pac": 11, "bal": 14},
+      "hidden": {"inj": 8}
+    }
+  },
   "positions": [
     {
       "code": "DR",

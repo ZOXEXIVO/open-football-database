@@ -4,6 +4,15 @@
   "last_name": "Zinchenko",
   "birth_date": "1996-12-15",
   "country_id": 800,
+  "attrs": {
+    "person": {"ada": 18, "amb": 15, "loy": 13, "pre": 13, "pro": 15, "spo": 14, "tem": 15, "con": 6},
+    "player": {
+      "technical": {"cro": 13, "dri": 14, "fin": 10, "hea": 12, "lon": 13, "mar": 11, "pas": 15, "pen": 9, "tck": 13, "fir": 15, "tec": 15, "cor": 12, "lth": 9, "fre": 13},
+      "mental": {"otb": 16, "vis": 15, "ant": 14, "dec": 14, "pos": 11, "fla": 13, "tea": 16, "wor": 16, "ldr": 13, "bra": 12, "agg": 13, "det": 15, "cmp": 15, "cnt": 12},
+      "physical": {"acc": 13, "str": 10, "sta": 14, "pac": 13, "jum": 10, "bal": 14, "agi": 13, "nat": 12},
+      "hidden": {"dir": 12, "cns": 13, "imp": 13, "inj": 13, "ver": 18}
+    }
+  },
   "positions": [
     {
       "code": "DL",

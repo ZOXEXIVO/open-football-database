@@ -4,6 +4,13 @@
   "last_name": "Geurts",
   "birth_date": "1994-01-01",
   "country_id": 771,
+  "attrs": {
+    "person": {"ada": 6, "amb": 11, "loy": 11, "pre": 11, "pro": 13, "spo": 13, "tem": 13, "con": 6},
+    "player": {
+      "mental": {"det": 10},
+      "physical": {"jum": 9}
+    }
+  },
   "positions": [
     {
       "code": "ML",

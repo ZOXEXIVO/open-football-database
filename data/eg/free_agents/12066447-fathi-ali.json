@@ -4,6 +4,15 @@
   "last_name": "Fathi",
   "birth_date": "1992-01-01",
   "country_id": 16,
+  "attrs": {
+    "person": {"ada": 7, "amb": 12, "loy": 10, "pre": 10, "pro": 1, "spo": 12, "tem": 10, "con": 6},
+    "player": {
+      "technical": {"cro": 12, "dri": 10, "fin": 7, "hea": 13, "lon": 13, "mar": 9, "pas": 11, "pen": 9, "tck": 14, "fir": 10, "tec": 6, "cor": 7, "lth": 12, "fre": 8},
+      "mental": {"otb": 11, "vis": 10, "ant": 7, "dec": 8, "pos": 11, "fla": 5, "tea": 11, "wor": 15, "ldr": 7, "bra": 11, "agg": 12, "det": 11, "cmp": 6, "cnt": 6},
+      "physical": {"acc": 12, "str": 13, "sta": 12, "pac": 14, "jum": 12, "bal": 12, "agi": 12, "nat": 14},
+      "hidden": {"dir": 7, "cns": 8, "imp": 11, "inj": 8, "ver": 5}
+    }
+  },
   "positions": [
     {
       "code": "DL",

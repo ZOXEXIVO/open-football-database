@@ -4,6 +4,15 @@
   "last_name": "Kuzyaev",
   "birth_date": "1993-01-15",
   "country_id": 791,
+  "attrs": {
+    "person": {"amb": 13, "loy": 10, "pre": 13, "pro": 16, "spo": 13, "tem": 14, "con": 5},
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 12, "hea": 9, "lon": 12, "mar": 12, "pas": 14, "pen": 13, "tck": 13, "fir": 12, "tec": 13, "cor": 11, "lth": 10, "fre": 10},
+      "mental": {"otb": 13, "vis": 12, "ant": 14, "dec": 13, "pos": 13, "fla": 10, "tea": 15, "wor": 13, "ldr": 10, "bra": 14, "agg": 11, "det": 10, "cmp": 13, "cnt": 16},
+      "physical": {"acc": 12, "str": 9, "sta": 13, "pac": 14, "jum": 10, "bal": 11, "agi": 12, "nat": 13},
+      "hidden": {"dir": 8, "cns": 13, "imp": 13, "inj": 10, "ver": 16}
+    }
+  },
   "positions": [
     {
       "code": "DM",

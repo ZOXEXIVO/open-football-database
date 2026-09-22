@@ -5,6 +5,12 @@
   "birth_date": "2005-08-31",
   "country_id": 765,
   "club_id": 708,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 11, "pen": 12},
+      "mental": {"cmp": 10}
+    }
+  },
   "positions": [
     {
       "code": "AML",

@@ -5,6 +5,14 @@
   "birth_date": "2009-06-09",
   "country_id": 765,
   "club_id": 642,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 13, "mar": 7, "tck": 6, "tec": 11},
+      "mental": {"dec": 8, "pos": 7, "wor": 9, "cmp": 11, "cnt": 9},
+      "physical": {"acc": 13, "str": 8, "pac": 12, "agi": 11},
+      "hidden": {"ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "MR",

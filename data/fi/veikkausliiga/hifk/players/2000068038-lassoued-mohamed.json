@@ -5,6 +5,15 @@
   "birth_date": "2003-04-25",
   "country_id": 768,
   "club_id": 129129,
+  "attrs": {
+    "person": {"spo": 5, "tem": 5, "con": 14},
+    "player": {
+      "technical": {"dri": 10, "fin": 6, "hea": 12, "lon": 7, "fir": 6, "tec": 7, "fre": 8},
+      "mental": {"fla": 12, "agg": 12},
+      "physical": {"acc": 10, "str": 9, "sta": 8, "pac": 10, "jum": 12, "bal": 10, "agi": 9},
+      "hidden": {"dir": 12}
+    }
+  },
   "positions": [
     {
       "code": "MR",

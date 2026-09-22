@@ -4,6 +4,15 @@
   "last_name": "Vecchia",
   "birth_date": "1995-01-23",
   "country_id": 797,
+  "attrs": {
+    "person": {"ada": 16, "amb": 10, "loy": 11, "pre": 13, "pro": 13, "spo": 13, "tem": 13, "con": 10},
+    "player": {
+      "technical": {"cro": 13, "dri": 12, "fin": 12, "hea": 8, "lon": 14, "mar": 6, "pas": 13, "pen": 13, "tck": 7, "fir": 13, "tec": 14, "cor": 13, "lth": 7, "fre": 13},
+      "mental": {"otb": 12, "vis": 12, "ant": 13, "dec": 12, "pos": 10, "fla": 14, "tea": 10, "wor": 8, "ldr": 8, "bra": 9, "agg": 8, "det": 10, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 10, "str": 12, "sta": 9, "pac": 11, "jum": 10, "bal": 13, "agi": 10, "nat": 9},
+      "hidden": {"dir": 6, "cns": 11, "imp": 11, "inj": 18, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

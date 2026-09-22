@@ -4,6 +4,15 @@
   "last_name": "Nicolini",
   "birth_date": "1988-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 6, "amb": 8, "loy": 12, "pre": 7, "pro": 12, "spo": 14, "tem": 12, "con": 5},
+    "player": {
+      "technical": {"cro": 15, "dri": 9, "fin": 9, "hea": 9, "lon": 11, "mar": 11, "pas": 14, "pen": 13, "tck": 9, "fir": 12, "tec": 13, "cor": 15, "fre": 13},
+      "mental": {"otb": 12, "vis": 13, "ant": 12, "dec": 13, "pos": 12, "fla": 11, "tea": 13, "wor": 9, "ldr": 11, "bra": 9, "agg": 13, "det": 11, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 8, "str": 9, "sta": 9, "pac": 9, "jum": 8, "bal": 11, "agi": 9, "nat": 10},
+      "hidden": {"dir": 8, "cns": 8, "imp": 9, "inj": 12, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DM",

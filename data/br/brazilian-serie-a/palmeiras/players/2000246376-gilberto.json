@@ -5,6 +5,14 @@
   "birth_date": "2005-03-27",
   "country_id": 1651,
   "club_id": 329,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "dri": 13, "hea": 5, "tec": 13, "cor": 11},
+      "mental": {"otb": 12, "vis": 12, "ldr": 10},
+      "physical": {"acc": 14, "str": 8, "pac": 13, "jum": 3, "bal": 15, "agi": 16},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "DR",

@@ -4,6 +4,13 @@
   "last_name": "Vadovskyi",
   "birth_date": "2003-08-12",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "mental": {"tea": 10, "wor": 9},
+      "physical": {"jum": 9},
+      "hidden": {"ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

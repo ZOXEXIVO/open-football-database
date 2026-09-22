@@ -5,6 +5,11 @@
   "birth_date": "2001-08-03",
   "country_id": 21,
   "club_id": 5340913,
+  "attrs": {
+    "player": {
+      "physical": {"str": 6, "jum": 12}
+    }
+  },
   "positions": [
     {
       "code": "AML",

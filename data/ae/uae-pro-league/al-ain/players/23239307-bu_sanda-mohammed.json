@@ -5,6 +5,14 @@
   "birth_date": "1995-06-20",
   "country_id": 143,
   "club_id": 950376,
+  "attrs": {
+    "person": {"ada": 5, "amb": 9, "loy": 16, "pro": 11},
+    "player": {
+      "mental": {"ant": 10, "pos": 11, "tea": 13, "ldr": 11, "bra": 12, "cmp": 9, "cnt": 10},
+      "physical": {"str": 12, "jum": 11, "agi": 11},
+      "goalkeeping": {"han": 12, "aer": 9, "cmd": 10, "kic": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

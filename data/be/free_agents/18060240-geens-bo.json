@@ -4,6 +4,16 @@
   "last_name": "Geens",
   "birth_date": "1995-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"amb": 14, "pro": 14},
+    "player": {
+      "technical": {"cro": 7, "dri": 8, "fin": 7, "hea": 5, "pas": 10, "fir": 9, "tec": 10, "cor": 7},
+      "mental": {"vis": 8, "ant": 10, "dec": 9, "pos": 10, "tea": 7, "wor": 10, "ldr": 12, "bra": 13, "det": 11, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 12, "str": 9, "sta": 7, "pac": 11, "jum": 10, "bal": 10, "agi": 12},
+      "goalkeeping": {"han": 9, "aer": 10, "cmd": 10, "com": 10, "kic": 11, "one": 11, "ref": 13, "rus": 10, "pun": 12},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

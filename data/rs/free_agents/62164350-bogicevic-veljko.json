@@ -4,6 +4,14 @@
   "last_name": "Bogićević",
   "birth_date": "1999-01-01",
   "country_id": 802,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 11, "pas": 11, "fir": 12, "tec": 11},
+      "mental": {"vis": 13, "dec": 10, "pos": 10, "tea": 10, "wor": 12, "bra": 11, "cmp": 12},
+      "physical": {"acc": 12, "str": 11, "sta": 10, "pac": 12, "bal": 10, "agi": 10},
+      "hidden": {"cns": 15}
+    }
+  },
   "positions": [
     {
       "code": "MC",

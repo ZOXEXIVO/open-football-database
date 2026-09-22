@@ -4,6 +4,15 @@
   "last_name": "Santos",
   "birth_date": "1988-01-01",
   "country_id": 1651,
+  "attrs": {
+    "person": {"ada": 8, "amb": 15, "loy": 8, "pre": 12, "pro": 6, "spo": 7, "tem": 12, "con": 16},
+    "player": {
+      "technical": {"cro": 12, "dri": 11, "fin": 9, "hea": 9, "lon": 9, "mar": 10, "pas": 10, "pen": 10, "tck": 10, "fir": 11, "tec": 11, "cor": 12, "lth": 11, "fre": 11},
+      "mental": {"otb": 9, "vis": 11, "ant": 10, "dec": 11, "pos": 9, "fla": 12, "tea": 9, "wor": 11, "ldr": 10, "bra": 12, "agg": 14, "det": 12, "cmp": 12, "cnt": 10},
+      "physical": {"acc": 12, "str": 13, "sta": 12, "pac": 12, "jum": 6, "bal": 9, "agi": 11, "nat": 7},
+      "hidden": {"dir": 14, "cns": 10, "imp": 12, "inj": 16, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

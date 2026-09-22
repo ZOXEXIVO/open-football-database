@@ -4,6 +4,16 @@
   "last_name": "Cañete",
   "birth_date": "1995-01-01",
   "country_id": 1652,
+  "attrs": {
+    "person": {"amb": 12, "tem": 8, "con": 8},
+    "player": {
+      "technical": {"pas": 6, "fir": 6, "tec": 6},
+      "mental": {"ant": 13, "dec": 10, "pos": 11, "tea": 13, "wor": 12, "bra": 13, "agg": 15, "det": 14, "cmp": 9, "cnt": 10},
+      "physical": {"acc": 9, "str": 12, "bal": 11, "agi": 12},
+      "goalkeeping": {"han": 11, "aer": 12, "cmd": 11, "com": 13, "kic": 9, "thr": 11, "one": 11, "ref": 12, "ecc": 15},
+      "hidden": {"dir": 12, "cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

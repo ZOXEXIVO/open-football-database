@@ -4,6 +4,15 @@
   "last_name": "Ádám",
   "birth_date": "1994-11-06",
   "country_id": 773,
+  "attrs": {
+    "person": {"ada": 10, "amb": 10, "loy": 8, "pre": 11, "pro": 11, "spo": 12, "tem": 10, "con": 6},
+    "player": {
+      "technical": {"cro": 8, "dri": 11, "fin": 13, "hea": 16, "lon": 13, "mar": 9, "pas": 11, "pen": 16, "tck": 8, "fir": 13, "tec": 14, "cor": 6, "lth": 4, "fre": 9},
+      "mental": {"otb": 11, "vis": 13, "ant": 12, "dec": 13, "pos": 12, "fla": 8, "tea": 13, "wor": 12, "ldr": 12, "bra": 12, "agg": 11, "det": 11, "cmp": 14, "cnt": 13},
+      "physical": {"acc": 7, "str": 18, "sta": 12, "pac": 8, "jum": 15, "bal": 13, "agi": 8, "nat": 11},
+      "hidden": {"dir": 9, "cns": 10, "imp": 8, "inj": 8, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "ST",

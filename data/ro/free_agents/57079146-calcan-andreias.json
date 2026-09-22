@@ -4,6 +4,15 @@
   "last_name": "Calcan",
   "birth_date": "1994-04-09",
   "country_id": 790,
+  "attrs": {
+    "person": {"ada": 10, "amb": 11, "loy": 5, "pre": 10, "pro": 8, "spo": 6, "tem": 5, "con": 12},
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "fin": 10, "hea": 8, "lon": 11, "mar": 6, "pas": 12, "pen": 12, "tck": 6, "fir": 13, "tec": 13, "cor": 11, "lth": 2, "fre": 12},
+      "mental": {"otb": 11, "vis": 12, "ant": 11, "dec": 10, "pos": 9, "fla": 13, "tea": 9, "wor": 11, "ldr": 7, "bra": 9, "agg": 11, "det": 10, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 12, "str": 11, "sta": 10, "pac": 12, "jum": 7, "bal": 12, "agi": 12, "nat": 10},
+      "hidden": {"dir": 7, "cns": 9, "imp": 10, "inj": 2, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "AML",

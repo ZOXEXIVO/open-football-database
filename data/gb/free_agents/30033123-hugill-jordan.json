@@ -4,6 +4,15 @@
   "last_name": "Hugill",
   "birth_date": "1992-06-04",
   "country_id": 765,
+  "attrs": {
+    "person": {"ada": 12, "amb": 6, "loy": 11, "pre": 6, "pro": 12, "spo": 9, "tem": 9, "con": 9},
+    "player": {
+      "technical": {"cro": 7, "dri": 11, "fin": 11, "hea": 13, "lon": 11, "mar": 8, "pas": 11, "pen": 13, "tck": 8, "fir": 11, "tec": 10, "cor": 5, "lth": 5, "fre": 6},
+      "mental": {"otb": 13, "vis": 8, "ant": 12, "dec": 11, "pos": 7, "fla": 10, "tea": 9, "wor": 10, "ldr": 12, "bra": 14, "agg": 14, "det": 8, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 8, "str": 14, "sta": 12, "pac": 9, "jum": 13, "bal": 12, "agi": 9, "nat": 12},
+      "hidden": {"dir": 13, "cns": 8, "imp": 12, "inj": 12, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "ST",

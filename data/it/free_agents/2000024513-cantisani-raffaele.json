@@ -4,6 +4,14 @@
   "last_name": "Cantisani",
   "birth_date": "2004-05-12",
   "country_id": 776,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 9, "fin": 10, "hea": 8, "lon": 7, "mar": 8, "pas": 11, "pen": 8, "tck": 8, "fir": 10, "tec": 10, "cor": 6, "lth": 5, "fre": 7},
+      "mental": {"otb": 12, "vis": 10, "ant": 11, "dec": 11, "pos": 12, "fla": 7, "tea": 11, "wor": 11, "ldr": 8, "bra": 7, "agg": 8, "det": 13, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 12, "str": 10, "sta": 11, "pac": 13, "jum": 11, "bal": 13, "agi": 11, "nat": 13},
+      "hidden": {"dir": 5, "cns": 12, "imp": 12}
+    }
+  },
   "positions": [
     {
       "code": "MR",

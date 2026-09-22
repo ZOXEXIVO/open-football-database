@@ -4,6 +4,14 @@
   "last_name": "Džumhur",
   "birth_date": "2000-08-21",
   "country_id": 795,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 10, "tec": 11, "cor": 10},
+      "mental": {"otb": 9, "ant": 11, "dec": 10, "pos": 8, "wor": 9, "cmp": 11},
+      "physical": {"acc": 12, "str": 9, "sta": 10, "pac": 12, "agi": 12},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

@@ -4,6 +4,15 @@
   "last_name": "Ferrahi",
   "birth_date": "1996-01-24",
   "country_id": 5,
+  "attrs": {
+    "person": {"amb": 10, "loy": 16},
+    "player": {
+      "technical": {"pas": 5, "fir": 5},
+      "mental": {"vis": 6, "det": 11},
+      "physical": {"str": 7, "jum": 8, "agi": 13},
+      "goalkeeping": {"aer": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

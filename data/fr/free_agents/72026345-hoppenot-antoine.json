@@ -4,6 +4,16 @@
   "last_name": "Hoppenot",
   "birth_date": "1990-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 8, "amb": 8, "loy": 10, "pre": 9, "pro": 7, "spo": 6, "tem": 6, "con": 8},
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 10, "hea": 6, "lon": 7, "mar": 6, "pas": 12, "pen": 9, "tck": 6, "fir": 10, "tec": 11, "cor": 10, "lth": 7, "fre": 8},
+      "mental": {"otb": 11, "vis": 12, "ant": 11, "dec": 10, "pos": 8, "fla": 10, "tea": 11, "wor": 13, "ldr": 8, "bra": 11, "agg": 15, "det": 11, "cmp": 8, "cnt": 9},
+      "physical": {"acc": 13, "str": 7, "sta": 12, "pac": 13, "jum": 7, "bal": 13, "agi": 12, "nat": 13},
+      "goalkeeping": {"han": 1, "aer": 1, "cmd": 1, "com": 1, "kic": 5, "thr": 1, "one": 1, "ref": 1, "ecc": 1, "rus": 1, "pun": 1},
+      "hidden": {"dir": 13, "cns": 9, "imp": 9, "inj": 5, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

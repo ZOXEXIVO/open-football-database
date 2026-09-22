@@ -4,6 +4,16 @@
   "last_name": "",
   "birth_date": "1987-01-01",
   "country_id": 1651,
+  "attrs": {
+    "person": {"pro": 12, "spo": 6},
+    "player": {
+      "technical": {"cro": 8, "dri": 10, "fin": 9, "hea": 6, "lon": 10, "mar": 14, "pas": 10, "pen": 9, "tck": 11, "fir": 10, "tec": 10, "cor": 3, "lth": 7, "fre": 9},
+      "mental": {"otb": 10, "vis": 9, "ant": 10, "dec": 9, "pos": 10, "fla": 6, "tea": 14, "wor": 14, "ldr": 10, "bra": 14, "agg": 15, "det": 13, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 13, "str": 8, "sta": 12, "pac": 12, "jum": 4, "bal": 14, "agi": 13, "nat": 13},
+      "goalkeeping": {"han": 11, "kic": 11, "ref": 11, "ecc": 4, "rus": 12},
+      "hidden": {"dir": 14, "cns": 11, "imp": 10, "inj": 7}
+    }
+  },
   "positions": [
     {
       "code": "DM",

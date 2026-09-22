@@ -4,6 +4,12 @@
   "last_name": "Bento",
   "birth_date": "2001-01-01",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "physical": {"agi": 12},
+      "goalkeeping": {"thr": 12, "rus": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

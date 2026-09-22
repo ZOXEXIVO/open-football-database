@@ -4,6 +4,15 @@
   "last_name": "Ávila",
   "birth_date": "1991-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 11, "amb": 10, "loy": 11, "pre": 10, "pro": 11, "spo": 10, "tem": 10, "con": 9},
+    "player": {
+      "technical": {"cro": 5, "dri": 5, "fin": 6, "hea": 14, "lon": 9, "mar": 12, "pas": 9, "tck": 12, "fir": 8, "tec": 10, "cor": 4, "lth": 6, "fre": 11},
+      "mental": {"otb": 8, "vis": 9, "ant": 12, "dec": 12, "pos": 12, "fla": 7, "tea": 12, "wor": 12, "ldr": 10, "bra": 13, "agg": 10, "det": 12, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 10, "str": 13, "sta": 13, "pac": 10, "jum": 15, "bal": 12, "agi": 11, "nat": 11},
+      "hidden": {"dir": 8, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

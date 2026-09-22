@@ -5,6 +5,13 @@
   "birth_date": "2003-11-30",
   "country_id": 379,
   "club_id": 106029,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 11},
+      "physical": {"str": 9, "jum": 8},
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "ST",

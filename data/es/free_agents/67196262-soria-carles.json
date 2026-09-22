@@ -4,6 +4,15 @@
   "last_name": "Soria",
   "birth_date": "1996-10-08",
   "country_id": 796,
+  "attrs": {
+    "person": {"ada": 13, "amb": 12, "loy": 15, "pre": 13, "pro": 14, "spo": 13, "tem": 14, "con": 6},
+    "player": {
+      "technical": {"cro": 12, "dri": 11, "fin": 9, "hea": 9, "lon": 8, "mar": 10, "pas": 13, "pen": 6, "tck": 10, "fir": 13, "tec": 13, "cor": 11, "lth": 11, "fre": 10},
+      "mental": {"otb": 11, "vis": 13, "ant": 12, "dec": 13, "pos": 11, "fla": 12, "tea": 13, "wor": 13, "ldr": 8, "bra": 12, "agg": 12, "det": 10, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 13, "str": 12, "sta": 13, "pac": 13, "jum": 5, "bal": 13, "agi": 12, "nat": 13},
+      "hidden": {"dir": 5, "cns": 13, "imp": 13, "inj": 6, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

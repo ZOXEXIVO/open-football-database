@@ -4,6 +4,15 @@
   "last_name": "Haas",
   "birth_date": "1996-01-01",
   "country_id": 755,
+  "attrs": {
+    "person": {"ada": 7, "amb": 7, "loy": 10, "pre": 7, "pro": 10, "spo": 8, "tem": 7, "con": 8},
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 7, "hea": 11, "lon": 7, "mar": 10, "pas": 11, "pen": 7, "tck": 12, "fir": 11, "tec": 11, "cor": 11, "lth": 12, "fre": 10},
+      "mental": {"otb": 11, "vis": 9, "ant": 9, "dec": 9, "pos": 10, "fla": 6, "tea": 12, "wor": 14, "ldr": 7, "bra": 12, "agg": 17, "det": 13, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 13, "str": 11, "sta": 13, "pac": 13, "jum": 10, "bal": 11, "agi": 12, "nat": 11},
+      "hidden": {"dir": 9, "cns": 10, "imp": 8, "inj": 12, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DL",

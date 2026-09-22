@@ -4,6 +4,15 @@
   "last_name": "Sierra-Cappelleti",
   "birth_date": "2001-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"pro": 15},
+    "player": {
+      "technical": {"dri": 12, "fin": 6, "hea": 11, "lon": 12, "pas": 12, "tck": 7, "fir": 13, "tec": 16},
+      "mental": {"otb": 10, "vis": 12, "ant": 13, "dec": 14, "pos": 8, "fla": 13, "tea": 13, "wor": 14, "ldr": 7, "det": 14, "cmp": 12, "cnt": 13},
+      "physical": {"acc": 11, "str": 7, "sta": 11, "pac": 11, "jum": 15, "bal": 10, "agi": 12, "nat": 13},
+      "hidden": {"cns": 13, "inj": 5}
+    }
+  },
   "positions": [
     {
       "code": "DM",

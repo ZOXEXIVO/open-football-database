@@ -5,6 +5,14 @@
   "birth_date": "2009-04-09",
   "country_id": 765,
   "club_id": 650,
+  "attrs": {
+    "person": {"pre": 10},
+    "player": {
+      "technical": {"pas": 12, "tec": 11},
+      "mental": {"pos": 13},
+      "goalkeeping": {"han": 10, "aer": 12, "cmd": 11, "com": 9, "kic": 11, "pun": 14}
+    }
+  },
   "positions": [
     {
       "code": "GK",

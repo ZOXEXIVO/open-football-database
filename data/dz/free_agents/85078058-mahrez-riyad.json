@@ -4,6 +4,15 @@
   "last_name": "Mahrez",
   "birth_date": "1991-02-21",
   "country_id": 5,
+  "attrs": {
+    "person": {"ada": 11, "amb": 15, "loy": 12, "pre": 9, "pro": 15, "spo": 9, "tem": 15, "con": 8},
+    "player": {
+      "technical": {"cro": 16, "dri": 17, "fin": 15, "hea": 7, "lon": 14, "mar": 5, "pas": 17, "pen": 13, "tck": 6, "fir": 20, "tec": 19, "cor": 15, "lth": 4, "fre": 14},
+      "mental": {"otb": 14, "vis": 16, "ant": 14, "dec": 15, "pos": 6, "fla": 17, "tea": 12, "wor": 10, "ldr": 13, "bra": 7, "agg": 6, "det": 11, "cmp": 17, "cnt": 12},
+      "physical": {"acc": 12, "str": 9, "sta": 11, "pac": 11, "jum": 10, "bal": 15, "agi": 14, "nat": 15},
+      "hidden": {"dir": 7, "cns": 13, "imp": 13, "inj": 6, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "MR",

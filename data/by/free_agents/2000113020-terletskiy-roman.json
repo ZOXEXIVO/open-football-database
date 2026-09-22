@@ -4,6 +4,14 @@
   "last_name": "Terletskiy",
   "birth_date": "2004-06-19",
   "country_id": 758,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 4, "dri": 12, "fin": 6, "hea": 6, "lon": 12, "mar": 8, "pas": 6, "pen": 12, "tck": 8, "fir": 12, "tec": 12, "cor": 10, "lth": 8, "fre": 6},
+      "mental": {"otb": 12, "vis": 6, "ant": 8, "dec": 8, "pos": 6, "fla": 8, "tea": 12, "wor": 10, "ldr": 8, "bra": 8, "agg": 8, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 12, "str": 6, "sta": 9, "pac": 12, "jum": 6, "bal": 6, "agi": 12, "nat": 12},
+      "hidden": {"dir": 8, "cns": 6, "imp": 8, "inj": 6, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "MC",

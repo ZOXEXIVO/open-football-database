@@ -5,6 +5,12 @@
   "birth_date": "2007-10-08",
   "country_id": 784,
   "club_id": 1025,
+  "attrs": {
+    "player": {
+      "physical": {"jum": 15},
+      "goalkeeping": {"aer": 15}
+    }
+  },
   "positions": [
     {
       "code": "GK",

@@ -5,6 +5,11 @@
   "birth_date": "2001-02-09",
   "country_id": 777,
   "club_id": 8403700,
+  "attrs": {
+    "player": {
+      "goalkeeping": {"han": 10, "aer": 10, "cmd": 11, "com": 7, "kic": 8, "thr": 8, "one": 8, "ref": 7, "ecc": 7, "rus": 10, "pun": 10}
+    }
+  },
   "positions": [
     {
       "code": "GK",

@@ -4,6 +4,15 @@
   "last_name": "Lozano",
   "birth_date": "1993-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 13, "amb": 12, "loy": 13, "pre": 11, "pro": 12, "spo": 10, "tem": 11, "con": 8},
+    "player": {
+      "technical": {"cro": 6, "dri": 4, "fin": 5, "hea": 12, "lon": 8, "mar": 12, "pas": 9, "tck": 12, "fir": 8, "tec": 11, "lth": 9},
+      "mental": {"otb": 7, "vis": 10, "ant": 12, "dec": 10, "pos": 10, "fla": 8, "tea": 9, "wor": 11, "ldr": 9, "bra": 12, "agg": 14, "det": 11, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 11, "str": 13, "sta": 12, "pac": 11, "jum": 12, "bal": 12, "agi": 12, "nat": 13},
+      "hidden": {"dir": 11, "imp": 10, "inj": 12, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

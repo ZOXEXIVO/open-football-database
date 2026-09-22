@@ -5,6 +5,13 @@
   "birth_date": "2000-02-09",
   "country_id": 763,
   "club_id": 477,
+  "attrs": {
+    "player": {
+      "technical": {"fir": 13},
+      "mental": {"ant": 11},
+      "physical": {"acc": 13, "str": 12, "sta": 11, "pac": 13, "jum": 9, "bal": 12, "agi": 9}
+    }
+  },
   "positions": [
     {
       "code": "DM",

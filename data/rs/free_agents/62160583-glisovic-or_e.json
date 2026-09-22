@@ -4,6 +4,12 @@
   "last_name": "Glišović",
   "birth_date": "1995-01-01",
   "country_id": 802,
+  "attrs": {
+    "player": {
+      "technical": {"mar": 11, "tck": 11},
+      "mental": {"dec": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

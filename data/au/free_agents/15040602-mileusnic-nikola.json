@@ -4,6 +4,15 @@
   "last_name": "Mileusnic",
   "birth_date": "1993-07-17",
   "country_id": 1435,
+  "attrs": {
+    "person": {"ada": 8, "amb": 10, "pre": 10, "pro": 12, "con": 3},
+    "player": {
+      "technical": {"cro": 9, "dri": 12, "fin": 10, "hea": 4, "lon": 11, "mar": 6, "pas": 10, "pen": 11, "tck": 4, "fir": 12, "tec": 11, "cor": 10},
+      "mental": {"otb": 9, "vis": 9, "ant": 10, "dec": 10, "pos": 8, "fla": 11, "tea": 7, "wor": 11, "ldr": 7, "agg": 8, "det": 13, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 13, "str": 5, "sta": 8, "pac": 13, "jum": 9, "bal": 8, "agi": 12, "nat": 9},
+      "hidden": {"cns": 7, "inj": 14, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "MR",

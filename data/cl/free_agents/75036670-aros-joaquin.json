@@ -4,6 +4,14 @@
   "last_name": "Aros",
   "birth_date": "1996-01-01",
   "country_id": 1652,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 9, "fin": 4, "hea": 12, "lon": 6, "mar": 9, "pas": 12, "pen": 8, "tck": 12, "fir": 11, "tec": 9, "cor": 7, "lth": 11, "fre": 5},
+      "mental": {"otb": 7, "vis": 11, "ant": 12, "dec": 10, "pos": 11, "fla": 7, "tea": 10, "wor": 13, "bra": 12, "agg": 11, "det": 11, "cmp": 13, "cnt": 8},
+      "physical": {"acc": 11, "str": 11, "sta": 12, "pac": 13, "jum": 12, "bal": 10, "agi": 11, "nat": 12},
+      "hidden": {"dir": 12, "cns": 10, "inj": 4, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DR",

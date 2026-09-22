@@ -5,6 +5,14 @@
   "birth_date": "1993-01-07",
   "country_id": 761,
   "club_id": 5410639,
+  "attrs": {
+    "person": {"ada": 11, "pro": 13, "spo": 12, "tem": 10},
+    "player": {
+      "technical": {"fin": 10, "mar": 2, "pen": 14, "fir": 12, "tec": 11, "fre": 11},
+      "mental": {"otb": 12, "vis": 11, "dec": 11, "pos": 4, "tea": 12, "ldr": 13, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 14, "str": 6, "pac": 13, "jum": 7, "agi": 14}
+    }
+  },
   "positions": [
     {
       "code": "DM",

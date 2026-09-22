@@ -4,6 +4,11 @@
   "last_name": "Antonenko",
   "birth_date": "2002-07-02",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

@@ -5,6 +5,13 @@
   "birth_date": "1998-02-10",
   "country_id": 34,
   "club_id": 106054,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 12, "mar": 13, "tck": 10},
+      "mental": {"ant": 14, "dec": 13, "tea": 13, "bra": 13, "agg": 12, "cmp": 14, "cnt": 14},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

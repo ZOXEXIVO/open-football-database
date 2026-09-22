@@ -5,6 +5,11 @@
   "birth_date": "2006-01-28",
   "country_id": 21,
   "club_id": 2000033684,
+  "attrs": {
+    "player": {
+      "physical": {"str": 11, "nat": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

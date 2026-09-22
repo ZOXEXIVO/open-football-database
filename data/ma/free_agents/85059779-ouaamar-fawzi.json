@@ -4,6 +4,15 @@
   "last_name": "Ouaamar",
   "birth_date": "1993-01-01",
   "country_id": 34,
+  "attrs": {
+    "person": {"amb": 11, "loy": 12, "pre": 11, "pro": 11, "spo": 11, "tem": 12, "con": 8},
+    "player": {
+      "technical": {"cro": 10, "dri": 13, "fin": 8, "hea": 6, "lon": 11, "mar": 2, "pas": 12, "pen": 10, "tck": 3, "fir": 12, "tec": 13, "cor": 10, "lth": 6, "fre": 11},
+      "mental": {"otb": 11, "vis": 12, "ant": 10, "dec": 10, "pos": 4, "fla": 13, "tea": 8, "wor": 12, "ldr": 12, "bra": 7, "agg": 10, "det": 12, "cmp": 7, "cnt": 10},
+      "physical": {"acc": 13, "str": 9, "sta": 14, "pac": 13, "jum": 8, "bal": 9, "agi": 12, "nat": 13},
+      "hidden": {"dir": 10, "cns": 10, "imp": 14, "inj": 11, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "MC",

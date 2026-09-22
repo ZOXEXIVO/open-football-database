@@ -4,6 +4,14 @@
   "last_name": "Muñoz",
   "birth_date": "1997-01-01",
   "country_id": 796,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 9, "hea": 9, "lon": 7, "mar": 5, "pas": 10, "pen": 10, "tck": 8, "fir": 11, "tec": 12, "cor": 10, "lth": 8, "fre": 8},
+      "mental": {"otb": 10, "vis": 7, "ant": 6, "dec": 8, "pos": 5, "fla": 13, "tea": 11, "wor": 17, "ldr": 4, "bra": 11, "agg": 12, "cmp": 9, "cnt": 8},
+      "physical": {"acc": 12, "str": 5, "sta": 7, "pac": 12, "jum": 8, "bal": 10, "agi": 12, "nat": 11},
+      "hidden": {"dir": 8, "cns": 13, "imp": 14, "inj": 9, "ver": 16}
+    }
+  },
   "positions": [
     {
       "code": "MR",

@@ -4,6 +4,15 @@
   "last_name": "Grabež",
   "birth_date": "1991-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 12, "amb": 14, "loy": 12, "pre": 13, "pro": 11, "spo": 14, "tem": 13, "con": 5},
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 8, "hea": 10, "mar": 10, "pas": 13, "pen": 10, "tck": 12, "fir": 12, "tec": 11, "cor": 11, "lth": 10},
+      "mental": {"otb": 10, "vis": 12, "ant": 12, "dec": 10, "pos": 12, "fla": 8, "tea": 14, "wor": 14, "ldr": 10, "bra": 10, "agg": 13, "det": 12, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 11, "str": 7, "sta": 7, "pac": 10, "jum": 10, "bal": 9, "agi": 10, "nat": 9},
+      "hidden": {"dir": 7, "cns": 12, "imp": 9, "inj": 14, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "DL",

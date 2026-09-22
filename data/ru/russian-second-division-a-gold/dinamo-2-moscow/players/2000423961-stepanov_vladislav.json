@@ -5,6 +5,14 @@
   "birth_date": "2008-08-09",
   "country_id": 791,
   "club_id": 479504,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 14},
+      "mental": {"cmp": 13},
+      "physical": {"str": 6, "jum": 6},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

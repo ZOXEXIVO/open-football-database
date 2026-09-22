@@ -5,6 +5,13 @@
   "birth_date": "2001-10-26",
   "country_id": 24,
   "club_id": 8350953,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 10, "pas": 9, "tec": 11},
+      "mental": {"dec": 9},
+      "physical": {"acc": 13, "str": 10, "pac": 12, "jum": 11}
+    }
+  },
   "positions": [
     {
       "code": "ST",

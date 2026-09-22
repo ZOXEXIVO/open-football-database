@@ -5,6 +5,13 @@
   "birth_date": "2002-02-25",
   "country_id": 774,
   "club_id": 1072,
+  "attrs": {
+    "person": {"amb": 18},
+    "player": {
+      "technical": {"fir": 16, "cor": 10},
+      "mental": {"det": 15}
+    }
+  },
   "positions": [
     {
       "code": "DR",

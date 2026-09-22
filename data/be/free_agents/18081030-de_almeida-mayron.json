@@ -4,6 +4,15 @@
   "last_name": "de Almeida",
   "birth_date": "1995-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"amb": 12, "loy": 16, "pro": 10, "con": 8},
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 12, "hea": 9},
+      "mental": {"otb": 12, "vis": 11, "dec": 11, "ldr": 14, "det": 10},
+      "physical": {"acc": 10, "sta": 11, "pac": 10, "jum": 10},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "AML",

@@ -4,6 +4,13 @@
   "last_name": "Restrepo",
   "birth_date": "2000-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"amb": 10, "pro": 9},
+    "player": {
+      "mental": {"dec": 10, "det": 10, "cnt": 10},
+      "physical": {"acc": 12, "str": 9, "sta": 11, "pac": 12, "bal": 10, "agi": 11, "nat": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

@@ -4,6 +4,15 @@
   "last_name": "Díaz",
   "birth_date": "1998-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"amb": 4},
+    "player": {
+      "technical": {"cro": 10, "dri": 10, "fir": 13, "tec": 14, "cor": 13},
+      "mental": {"dec": 8, "fla": 14, "cmp": 7, "cnt": 7},
+      "physical": {"acc": 13, "str": 8, "pac": 10, "jum": 8, "agi": 11},
+      "hidden": {"cns": 6, "inj": 17, "ver": 16}
+    }
+  },
   "positions": [
     {
       "code": "DR",

@@ -5,6 +5,14 @@
   "birth_date": "1998-03-10",
   "country_id": 38,
   "club_id": 484478,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 8, "mar": 4},
+      "mental": {"pos": 4},
+      "physical": {"acc": 12, "pac": 12, "jum": 7, "agi": 11},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

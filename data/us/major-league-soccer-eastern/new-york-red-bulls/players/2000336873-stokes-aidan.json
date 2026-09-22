@@ -5,6 +5,13 @@
   "birth_date": "2008-01-14",
   "country_id": 390,
   "club_id": 72000160,
+  "attrs": {
+    "person": {"amb": 14, "loy": 5},
+    "player": {
+      "physical": {"str": 6, "jum": 11},
+      "goalkeeping": {"aer": 9, "ref": 10, "rus": 5}
+    }
+  },
   "positions": [
     {
       "code": "GK",

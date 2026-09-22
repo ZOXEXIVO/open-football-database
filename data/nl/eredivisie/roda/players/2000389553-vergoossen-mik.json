@@ -5,6 +5,12 @@
   "birth_date": "2006-01-15",
   "country_id": 784,
   "club_id": 1033,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 10},
+      "physical": {"acc": 9, "pac": 9}
+    }
+  },
   "positions": [
     {
       "code": "DC",

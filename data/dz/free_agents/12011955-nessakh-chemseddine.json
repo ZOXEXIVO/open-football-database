@@ -4,6 +4,14 @@
   "last_name": "Nessakh",
   "birth_date": "1988-01-01",
   "country_id": 5,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 10, "fin": 7, "hea": 10, "lon": 6, "mar": 10, "pas": 11, "pen": 11, "tck": 12, "fir": 12, "tec": 12, "cor": 9, "lth": 8, "fre": 8},
+      "mental": {"otb": 11, "vis": 10, "ant": 13, "dec": 11, "pos": 12, "fla": 9, "tea": 13, "wor": 10, "ldr": 14, "bra": 10, "agg": 12, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 12, "str": 9, "sta": 11, "pac": 12, "jum": 9, "bal": 9, "agi": 11, "nat": 14},
+      "hidden": {"dir": 6, "cns": 14, "imp": 10, "inj": 8, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DL",

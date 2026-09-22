@@ -4,6 +4,15 @@
   "last_name": "Babit",
   "birth_date": "1993-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"amb": 10},
+    "player": {
+      "technical": {"dri": 12, "fin": 10, "fir": 12, "tec": 14},
+      "mental": {"vis": 9, "dec": 9, "pos": 7, "tea": 10, "bra": 11, "agg": 7, "det": 10, "cmp": 10, "cnt": 8},
+      "physical": {"acc": 12, "str": 10, "sta": 11, "pac": 11, "jum": 7},
+      "hidden": {"ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

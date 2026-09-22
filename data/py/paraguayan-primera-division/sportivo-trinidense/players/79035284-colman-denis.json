@@ -5,6 +5,11 @@
   "birth_date": "2003-03-22",
   "country_id": 1655,
   "club_id": 5280215,
+  "attrs": {
+    "player": {
+      "physical": {"acc": 13, "str": 7, "sta": 7, "pac": 11, "jum": 7, "bal": 8, "agi": 13}
+    }
+  },
   "positions": [
     {
       "code": "MC",

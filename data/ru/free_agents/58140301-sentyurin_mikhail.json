@@ -4,6 +4,15 @@
   "last_name": "Sentyurin",
   "birth_date": "2001-07-20",
   "country_id": 791,
+  "attrs": {
+    "person": {"pro": 5, "spo": 5},
+    "player": {
+      "technical": {"cro": 7, "dri": 10, "fin": 7, "hea": 7, "lon": 7, "mar": 9, "pas": 9, "pen": 11, "tck": 8, "fir": 10, "tec": 10, "cor": 8, "fre": 8},
+      "mental": {"otb": 9, "vis": 10, "ant": 9, "dec": 8, "pos": 9, "fla": 13, "tea": 11, "wor": 11, "bra": 10, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 11, "str": 5, "sta": 11, "pac": 10, "jum": 7, "bal": 8, "agi": 11},
+      "hidden": {"cns": 13, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "DL",

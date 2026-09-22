@@ -4,6 +4,15 @@
   "last_name": "Mata",
   "birth_date": "1988-10-24",
   "country_id": 796,
+  "attrs": {
+    "person": {"ada": 12, "amb": 13, "loy": 12, "pre": 14, "pro": 16, "spo": 10, "tem": 11, "con": 6},
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 15, "hea": 14, "lon": 12, "mar": 6, "pas": 12, "pen": 14, "tck": 8, "fir": 11, "tec": 13, "cor": 9, "lth": 8, "fre": 9},
+      "mental": {"otb": 14, "vis": 12, "ant": 14, "dec": 13, "pos": 7, "fla": 11, "tea": 13, "wor": 13, "ldr": 11, "bra": 13, "agg": 12, "det": 15, "cmp": 13, "cnt": 13},
+      "physical": {"acc": 9, "str": 13, "sta": 10, "pac": 10, "jum": 12, "bal": 13, "agi": 9, "nat": 12},
+      "hidden": {"dir": 12, "cns": 12, "imp": 12, "inj": 11}
+    }
+  },
   "positions": [
     {
       "code": "ST",

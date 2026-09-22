@@ -4,6 +4,15 @@
   "last_name": "Rácz",
   "birth_date": "1995-11-20",
   "country_id": 773,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 11},
+      "mental": {"ant": 9, "dec": 11, "pos": 12, "ldr": 7, "bra": 11, "cnt": 11},
+      "physical": {"acc": 9, "str": 11, "pac": 9, "jum": 12, "agi": 13},
+      "goalkeeping": {"han": 12, "aer": 12, "cmd": 11, "com": 11, "kic": 10, "thr": 11, "one": 11, "ref": 12, "ecc": 8, "rus": 13},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

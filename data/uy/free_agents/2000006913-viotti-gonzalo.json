@@ -4,6 +4,14 @@
   "last_name": "Viotti",
   "birth_date": "2000-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 12, "amb": 2},
+    "player": {
+      "technical": {"fin": 12},
+      "mental": {"dec": 8},
+      "physical": {"acc": 11, "pac": 11, "jum": 11, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

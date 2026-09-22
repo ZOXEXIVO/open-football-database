@@ -5,6 +5,13 @@
   "birth_date": "2008-11-28",
   "country_id": 768,
   "club_id": 129179,
+  "attrs": {
+    "player": {
+      "mental": {"ant": 10, "agg": 8, "cmp": 11, "cnt": 11},
+      "physical": {"str": 7, "sta": 8, "bal": 7, "agi": 12, "nat": 12},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "MC",

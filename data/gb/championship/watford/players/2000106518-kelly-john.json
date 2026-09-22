@@ -5,6 +5,15 @@
   "birth_date": "2005-03-14",
   "country_id": 765,
   "club_id": 732,
+  "attrs": {
+    "person": {"pro": 15, "con": 1},
+    "player": {
+      "technical": {"fin": 12},
+      "mental": {"ant": 10, "dec": 10, "wor": 12, "cmp": 12, "cnt": 10},
+      "physical": {"str": 13, "bal": 13},
+      "hidden": {"inj": 12}
+    }
+  },
   "positions": [
     {
       "code": "ST",

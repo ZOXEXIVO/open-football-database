@@ -5,6 +5,13 @@
   "birth_date": "1999-03-04",
   "country_id": 800,
   "club_id": 2000190107,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 5},
+      "mental": {"vis": 6},
+      "goalkeeping": {"thr": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

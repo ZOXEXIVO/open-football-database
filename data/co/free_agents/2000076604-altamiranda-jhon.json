@@ -4,6 +4,13 @@
   "last_name": "Altamiranda",
   "birth_date": "2000-05-19",
   "country_id": 1653,
+  "attrs": {
+    "person": {"amb": 9, "pro": 9},
+    "player": {
+      "mental": {"dec": 9, "det": 10, "cnt": 9},
+      "physical": {"acc": 12, "str": 10, "sta": 11, "pac": 12, "jum": 11, "bal": 10, "agi": 11, "nat": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

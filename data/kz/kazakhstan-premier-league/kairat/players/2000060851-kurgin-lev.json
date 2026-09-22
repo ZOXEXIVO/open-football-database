@@ -5,6 +5,13 @@
   "birth_date": "2002-06-06",
   "country_id": 119,
   "club_id": 484442,
+  "attrs": {
+    "person": {"loy": 15},
+    "player": {
+      "technical": {"cor": 11},
+      "physical": {"str": 9, "jum": 10}
+    }
+  },
   "positions": [
     {
       "code": "DL",

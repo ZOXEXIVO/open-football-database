@@ -5,6 +5,14 @@
   "birth_date": "2005-09-28",
   "country_id": 765,
   "club_id": 664,
+  "attrs": {
+    "person": {"ada": 12, "pro": 11},
+    "player": {
+      "technical": {"dri": 8, "tck": 8, "fir": 9},
+      "mental": {"pos": 8, "cnt": 8},
+      "physical": {"acc": 11, "str": 8, "sta": 9, "pac": 12, "bal": 8, "agi": 9}
+    }
+  },
   "positions": [
     {
       "code": "DR",

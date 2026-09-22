@@ -5,6 +5,15 @@
   "birth_date": "1997-07-20",
   "country_id": 1651,
   "club_id": 8832366,
+  "attrs": {
+    "person": {"spo": 7},
+    "player": {
+      "technical": {"pas": 8, "pen": 10, "fir": 8, "tec": 8},
+      "mental": {"dec": 10, "pos": 10, "ldr": 10, "cmp": 8},
+      "physical": {"acc": 11, "str": 10, "jum": 18, "agi": 13},
+      "goalkeeping": {"aer": 11, "kic": 8, "rus": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

@@ -5,6 +5,13 @@
   "birth_date": "2002-09-20",
   "country_id": 21,
   "club_id": 616875,
+  "attrs": {
+    "person": {"amb": 14},
+    "player": {
+      "mental": {"det": 15},
+      "physical": {"jum": 12}
+    }
+  },
   "positions": [
     {
       "code": "AML",

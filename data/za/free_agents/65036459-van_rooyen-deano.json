@@ -4,6 +4,13 @@
   "last_name": "Van Rooyen",
   "birth_date": "1996-11-24",
   "country_id": 45,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 8, "hea": 7, "lon": 5, "mar": 12, "pas": 12, "pen": 6, "tck": 11, "fir": 12, "tec": 10, "cor": 9, "lth": 10, "fre": 5},
+      "physical": {"jum": 8},
+      "hidden": {"cns": 13, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DR",

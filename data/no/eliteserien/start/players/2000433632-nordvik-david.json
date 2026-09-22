@@ -5,6 +5,12 @@
   "birth_date": "2008-07-10",
   "country_id": 786,
   "club_id": 1397,
+  "attrs": {
+    "person": {"con": 12},
+    "player": {
+      "mental": {"agg": 4}
+    }
+  },
   "positions": [
     {
       "code": "MC",

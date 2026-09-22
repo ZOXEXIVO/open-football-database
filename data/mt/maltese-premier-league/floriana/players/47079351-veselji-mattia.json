@@ -5,6 +5,13 @@
   "birth_date": "2002-03-14",
   "country_id": 782,
   "club_id": 1241,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 10},
+      "mental": {"otb": 11, "cmp": 10},
+      "physical": {"acc": 10, "pac": 10}
+    }
+  },
   "positions": [
     {
       "code": "AML",

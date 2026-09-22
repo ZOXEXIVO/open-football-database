@@ -5,6 +5,12 @@
   "birth_date": "1996-09-19",
   "country_id": 1655,
   "club_id": 5280216,
+  "attrs": {
+    "player": {
+      "technical": {"tec": 12},
+      "physical": {"acc": 13, "str": 8, "sta": 10, "pac": 11, "jum": 8, "bal": 7, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

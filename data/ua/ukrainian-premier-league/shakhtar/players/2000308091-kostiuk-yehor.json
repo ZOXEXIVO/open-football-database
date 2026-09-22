@@ -5,6 +5,12 @@
   "birth_date": "2008-06-01",
   "country_id": 800,
   "club_id": 1895,
+  "attrs": {
+    "player": {
+      "mental": {"bra": 16},
+      "physical": {"jum": 14}
+    }
+  },
   "positions": [
     {
       "code": "DC",

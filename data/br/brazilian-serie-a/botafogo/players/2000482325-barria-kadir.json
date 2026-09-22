@@ -5,6 +5,13 @@
   "birth_date": "2007-07-18",
   "country_id": 382,
   "club_id": 316,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "fin": 13, "hea": 9, "mar": 9, "pas": 10, "tck": 9, "fir": 10, "tec": 10},
+      "mental": {"otb": 12, "dec": 10, "pos": 9, "fla": 9, "tea": 12, "wor": 13, "det": 11, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 11, "str": 13, "sta": 12, "pac": 11, "jum": 10, "bal": 11, "agi": 11, "nat": 12}
+    }
+  },
   "positions": [
     {
       "code": "ST",

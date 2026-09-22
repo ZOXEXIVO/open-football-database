@@ -4,6 +4,13 @@
   "last_name": "Segun",
   "birth_date": "2007-09-05",
   "country_id": 38,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 6, "dri": 8, "hea": 8, "mar": 11, "pas": 14, "tck": 13, "fir": 10, "tec": 9, "cor": 2, "lth": 7},
+      "mental": {"otb": 4, "vis": 9, "ant": 8, "dec": 5, "pos": 9, "fla": 7, "tea": 11, "wor": 11, "ldr": 5, "bra": 15, "agg": 15, "det": 12, "cmp": 9, "cnt": 8},
+      "physical": {"acc": 11, "str": 7, "sta": 9, "pac": 13, "jum": 10, "bal": 8, "agi": 12, "nat": 8}
+    }
+  },
   "positions": [
     {
       "code": "DC",

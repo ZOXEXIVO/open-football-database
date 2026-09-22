@@ -5,6 +5,15 @@
   "birth_date": "2006-01-02",
   "country_id": 764,
   "club_id": 483,
+  "attrs": {
+    "person": {"pro": 4, "con": 15},
+    "player": {
+      "technical": {"cro": 7, "dri": 12, "pas": 8, "fir": 10, "tec": 12},
+      "mental": {"ant": 8, "dec": 7, "cmp": 8},
+      "physical": {"acc": 14, "sta": 6, "pac": 13, "jum": 9, "agi": 12},
+      "hidden": {"inj": 15}
+    }
+  },
   "positions": [
     {
       "code": "MC",

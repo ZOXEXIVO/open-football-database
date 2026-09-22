@@ -4,6 +4,15 @@
   "last_name": "Šuver",
   "birth_date": "1999-09-23",
   "country_id": 761,
+  "attrs": {
+    "person": {"ada": 6, "amb": 13, "loy": 13, "pre": 13, "pro": 13, "spo": 13, "tem": 13, "con": 6},
+    "player": {
+      "technical": {"hea": 13, "mar": 11, "tck": 12},
+      "mental": {"det": 13},
+      "physical": {"str": 12, "jum": 13},
+      "hidden": {"cns": 10, "imp": 8}
+    }
+  },
   "positions": [
     {
       "code": "DR",

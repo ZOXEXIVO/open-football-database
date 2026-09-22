@@ -4,6 +4,14 @@
   "last_name": "Cáceres",
   "birth_date": "2000-01-06",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "fin": 11, "hea": 8, "lon": 11, "mar": 10, "pas": 12, "pen": 7, "tck": 10, "fir": 13, "tec": 13, "cor": 12, "fre": 12},
+      "mental": {"otb": 12, "vis": 13, "ant": 12, "dec": 11, "pos": 11, "fla": 14, "tea": 13, "wor": 14, "ldr": 10, "bra": 10, "agg": 12, "cnt": 12},
+      "physical": {"acc": 12, "str": 10, "sta": 12, "pac": 12, "jum": 7, "bal": 11, "agi": 13, "nat": 9},
+      "hidden": {"dir": 8, "cns": 12, "imp": 14, "inj": 6, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

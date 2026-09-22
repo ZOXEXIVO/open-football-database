@@ -4,6 +4,15 @@
   "last_name": "Akinbule",
   "birth_date": "1996-10-27",
   "country_id": 38,
+  "attrs": {
+    "person": {"amb": 13, "loy": 8, "pre": 10, "pro": 8, "spo": 3, "tem": 6, "con": 14},
+    "player": {
+      "technical": {"cro": 7, "dri": 11, "fin": 11, "hea": 10, "lon": 14, "mar": 3, "pas": 5, "pen": 8, "tck": 4, "fir": 7, "tec": 10, "cor": 5, "lth": 3, "fre": 3},
+      "mental": {"otb": 10, "vis": 8, "ant": 9, "dec": 7, "pos": 4, "fla": 10, "tea": 7, "wor": 13, "ldr": 6, "bra": 11, "agg": 10, "det": 10, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 14, "str": 13, "sta": 12, "pac": 13, "jum": 13, "bal": 9, "agi": 12, "nat": 14},
+      "hidden": {"dir": 6, "cns": 8, "imp": 7, "inj": 4, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

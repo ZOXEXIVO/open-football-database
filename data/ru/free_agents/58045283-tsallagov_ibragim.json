@@ -4,6 +4,15 @@
   "last_name": "Tsallagov",
   "birth_date": "1990-12-12",
   "country_id": 791,
+  "attrs": {
+    "person": {"amb": 10, "loy": 18, "pre": 8, "pro": 16, "spo": 16, "tem": 10, "con": 5},
+    "player": {
+      "technical": {"cro": 9, "dri": 9, "fin": 8, "hea": 12, "lon": 11, "mar": 11, "pas": 12, "pen": 12, "tck": 13, "fir": 10, "tec": 10, "cor": 10, "lth": 10, "fre": 9},
+      "mental": {"otb": 10, "vis": 9, "ant": 13, "dec": 11, "pos": 12, "fla": 11, "tea": 9, "wor": 11, "ldr": 14, "bra": 13, "agg": 8, "det": 15, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 10, "str": 10, "sta": 10, "pac": 11, "jum": 8, "bal": 10, "agi": 10, "nat": 15},
+      "hidden": {"cns": 12, "imp": 17, "inj": 6, "ver": 17}
+    }
+  },
   "positions": [
     {
       "code": "DM",

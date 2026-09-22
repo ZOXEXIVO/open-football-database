@@ -4,6 +4,14 @@
   "last_name": "Umbría",
   "birth_date": "1998-08-21",
   "country_id": 1658,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 9, "mar": 8, "tck": 9, "fir": 10, "tec": 10, "lth": 12},
+      "mental": {"otb": 8, "pos": 9},
+      "physical": {"acc": 13, "str": 10, "sta": 11, "pac": 12, "jum": 9, "bal": 12, "agi": 12, "nat": 10},
+      "hidden": {"inj": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

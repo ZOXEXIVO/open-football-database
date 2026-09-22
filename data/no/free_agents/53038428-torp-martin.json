@@ -4,6 +4,15 @@
   "last_name": "Torp",
   "birth_date": "1992-01-01",
   "country_id": 786,
+  "attrs": {
+    "person": {"ada": 12, "amb": 9, "loy": 12, "pre": 9, "pro": 13, "spo": 14, "tem": 14, "con": 6},
+    "player": {
+      "technical": {"cro": 9, "dri": 9, "fin": 10, "hea": 8, "lon": 9, "mar": 10, "pas": 11, "pen": 18, "tck": 9, "fir": 10, "tec": 10, "cor": 9, "lth": 5, "fre": 8},
+      "mental": {"otb": 10, "vis": 14, "ant": 10, "dec": 14, "pos": 12, "fla": 6, "tea": 9, "wor": 13, "ldr": 9, "bra": 9, "agg": 7, "det": 12, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 8, "str": 9, "sta": 13, "pac": 8, "jum": 11, "bal": 9, "agi": 9, "nat": 11},
+      "hidden": {"dir": 10, "cns": 10, "imp": 9, "inj": 10, "ver": 17}
+    }
+  },
   "positions": [
     {
       "code": "MC",

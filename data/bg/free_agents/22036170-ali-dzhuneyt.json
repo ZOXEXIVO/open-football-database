@@ -4,6 +4,15 @@
   "last_name": "Ali",
   "birth_date": "1994-09-05",
   "country_id": 760,
+  "attrs": {
+    "person": {"ada": 13, "amb": 11, "loy": 13, "pro": 7, "con": 12},
+    "player": {
+      "technical": {"cro": 10, "dri": 8, "fin": 7, "hea": 10, "lon": 6, "mar": 9, "pas": 11, "tck": 11, "fir": 9, "tec": 8, "cor": 10, "lth": 8, "fre": 9},
+      "mental": {"otb": 9, "vis": 8, "ant": 9, "dec": 9, "pos": 10, "fla": 7, "tea": 12, "wor": 11, "ldr": 6, "bra": 12, "agg": 6, "det": 8, "cmp": 10, "cnt": 8},
+      "physical": {"acc": 14, "str": 7, "sta": 11, "pac": 12, "jum": 8, "bal": 11, "agi": 14, "nat": 10},
+      "hidden": {"dir": 10, "cns": 11, "imp": 9, "inj": 9}
+    }
+  },
   "positions": [
     {
       "code": "DR",

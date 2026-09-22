@@ -5,6 +5,13 @@
   "birth_date": "2009-02-22",
   "country_id": 760,
   "club_id": 22003969,
+  "attrs": {
+    "player": {
+      "technical": {"lth": 11},
+      "mental": {"otb": 10, "tea": 12, "wor": 12, "bra": 13, "agg": 14},
+      "physical": {"acc": 12, "sta": 9, "pac": 11, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

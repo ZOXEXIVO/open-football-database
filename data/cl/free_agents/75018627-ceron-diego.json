@@ -4,6 +4,14 @@
   "last_name": "Cerón",
   "birth_date": "1991-01-01",
   "country_id": 1652,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 6, "dri": 8, "fin": 5, "hea": 12, "lon": 5, "mar": 12, "pas": 9, "pen": 6, "tck": 12, "fir": 9, "tec": 9, "cor": 4, "lth": 7, "fre": 5},
+      "mental": {"otb": 7, "vis": 8, "ant": 11, "dec": 9, "pos": 13, "fla": 7, "tea": 12, "wor": 13, "ldr": 10, "bra": 13, "agg": 14, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 9, "str": 12, "sta": 11, "pac": 10, "jum": 12, "bal": 12, "agi": 8, "nat": 13},
+      "hidden": {"dir": 13, "cns": 13, "imp": 10, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -4,6 +4,14 @@
   "last_name": "Cassaert",
   "birth_date": "2000-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "fin": 5, "hea": 10, "lon": 8, "mar": 13, "pas": 11, "pen": 6, "tck": 13, "fir": 8, "tec": 10, "cor": 5, "lth": 6, "fre": 7},
+      "mental": {"ant": 12, "dec": 13, "pos": 12, "tea": 12, "wor": 12, "ldr": 14},
+      "physical": {"acc": 12, "str": 12, "pac": 11, "jum": 12, "bal": 13, "agi": 10, "nat": 11},
+      "hidden": {"imp": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -4,6 +4,16 @@
   "last_name": "Luis Gamonal",
   "birth_date": "1989-01-01",
   "country_id": 1652,
+  "attrs": {
+    "person": {"amb": 9},
+    "player": {
+      "technical": {"pas": 7, "fir": 5, "tec": 6},
+      "mental": {"ant": 10, "dec": 10, "pos": 10, "tea": 10, "wor": 13, "ldr": 13, "bra": 12, "det": 12, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 7, "str": 11, "agi": 10},
+      "goalkeeping": {"han": 10, "aer": 10, "cmd": 11, "com": 11, "kic": 9, "thr": 7, "one": 12, "ref": 12, "ecc": 13, "pun": 12},
+      "hidden": {"cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "GK",

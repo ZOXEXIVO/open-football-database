@@ -4,6 +4,15 @@
   "last_name": "Eskin",
   "birth_date": "2004-10-13",
   "country_id": 799,
+  "attrs": {
+    "person": {"amb": 12, "pre": 10, "pro": 12, "spo": 8, "tem": 10, "con": 8},
+    "player": {
+      "technical": {"cro": 10, "dri": 9, "fin": 7, "hea": 7, "lon": 8, "mar": 7, "pas": 11, "pen": 7, "tck": 8, "fir": 11, "tec": 12, "cor": 6, "lth": 7, "fre": 6},
+      "mental": {"otb": 9, "vis": 10, "ant": 9, "dec": 7, "pos": 7, "fla": 8, "tea": 12, "wor": 13, "ldr": 5, "bra": 9, "agg": 10, "det": 13, "cmp": 7, "cnt": 9},
+      "physical": {"acc": 13, "str": 5, "sta": 10, "pac": 11, "jum": 6, "bal": 9, "agi": 12, "nat": 8},
+      "hidden": {"ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "DM",

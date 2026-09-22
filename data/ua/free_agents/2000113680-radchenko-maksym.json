@@ -4,6 +4,12 @@
   "last_name": "Radchenko",
   "birth_date": "2004-04-04",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "fir": 11, "tec": 11, "cor": 11},
+      "mental": {"tea": 11, "ldr": 11}
+    }
+  },
   "positions": [
     {
       "code": "DM",

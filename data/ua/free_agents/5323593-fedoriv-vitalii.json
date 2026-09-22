@@ -4,6 +4,15 @@
   "last_name": "Fedoriv",
   "birth_date": "1987-10-21",
   "country_id": 800,
+  "attrs": {
+    "person": {"ada": 14, "amb": 16, "loy": 14, "pre": 16, "pro": 13, "spo": 14, "tem": 16, "con": 11},
+    "player": {
+      "technical": {"cro": 10, "dri": 8, "fin": 5, "hea": 12, "lon": 8, "mar": 12, "pas": 11, "pen": 2, "tck": 12, "fir": 8, "tec": 10, "cor": 9, "lth": 9, "fre": 5},
+      "mental": {"otb": 5, "vis": 11, "ant": 11, "dec": 11, "pos": 12, "fla": 10, "tea": 13, "wor": 14, "ldr": 15, "bra": 14, "agg": 15, "det": 13, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 7, "str": 12, "sta": 8, "pac": 8, "jum": 11, "bal": 10, "agi": 6, "nat": 12},
+      "hidden": {"dir": 5, "cns": 10, "imp": 11, "inj": 13, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DL",

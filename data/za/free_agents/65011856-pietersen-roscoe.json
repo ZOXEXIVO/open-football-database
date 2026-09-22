@@ -4,6 +4,14 @@
   "last_name": "Pietersen",
   "birth_date": "1989-01-01",
   "country_id": 45,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 6, "dri": 8, "fin": 5, "hea": 13, "lon": 3, "mar": 13, "pas": 12, "pen": 6, "tck": 12, "fir": 10, "tec": 12, "cor": 6, "lth": 9, "fre": 8},
+      "mental": {"otb": 8, "vis": 6, "ant": 9, "dec": 13, "pos": 13, "fla": 7, "tea": 13, "wor": 12, "ldr": 13, "bra": 13, "agg": 14, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 13, "str": 11, "sta": 12, "pac": 12, "jum": 10, "bal": 7, "agi": 11, "nat": 11},
+      "hidden": {"dir": 8, "cns": 8, "imp": 7, "inj": 13, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DC",

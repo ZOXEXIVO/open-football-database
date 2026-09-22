@@ -4,6 +4,15 @@
   "last_name": "Taján",
   "birth_date": "1991-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 10, "amb": 5, "loy": 11, "pre": 8, "pro": 9, "spo": 10, "tem": 12, "con": 9},
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 7, "hea": 7, "lon": 8, "mar": 7, "pas": 11, "tck": 6, "fir": 10, "tec": 11},
+      "mental": {"otb": 10, "ant": 10, "dec": 8, "pos": 7, "fla": 11, "tea": 8, "wor": 12, "bra": 9, "det": 8, "cmp": 5, "cnt": 10},
+      "physical": {"acc": 14, "str": 7, "sta": 10, "pac": 12, "jum": 8, "bal": 8, "agi": 13},
+      "hidden": {"cns": 5}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

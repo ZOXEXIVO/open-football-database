@@ -4,6 +4,14 @@
   "last_name": "Nieland",
   "birth_date": "1999-01-01",
   "country_id": 771,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 8, "fin": 13, "hea": 11, "lon": 9, "mar": 7, "pas": 8, "pen": 13, "tck": 6, "fir": 10, "tec": 9, "cor": 5, "lth": 8, "fre": 8},
+      "mental": {"otb": 11, "vis": 8, "ant": 10, "dec": 10, "pos": 7, "fla": 7, "tea": 10, "wor": 12, "ldr": 6, "bra": 12, "agg": 11, "cmp": 11, "cnt": 7},
+      "physical": {"acc": 10, "str": 12, "sta": 11, "pac": 13, "jum": 12, "bal": 11, "agi": 9, "nat": 13},
+      "hidden": {"dir": 6, "cns": 14, "imp": 13, "inj": 5, "ver": 5}
+    }
+  },
   "positions": [
     {
       "code": "AML",

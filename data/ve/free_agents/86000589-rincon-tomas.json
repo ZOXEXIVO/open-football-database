@@ -4,6 +4,15 @@
   "last_name": "Rincón",
   "birth_date": "1988-01-13",
   "country_id": 1658,
+  "attrs": {
+    "person": {"ada": 18, "amb": 13, "loy": 15, "pre": 12, "pro": 17, "spo": 10, "tem": 15, "con": 6},
+    "player": {
+      "technical": {"cro": 6, "dri": 10, "fin": 10, "hea": 13, "lon": 9, "mar": 15, "pas": 12, "pen": 6, "tck": 15, "fir": 12, "tec": 13, "cor": 4, "lth": 4, "fre": 4},
+      "mental": {"otb": 12, "vis": 9, "ant": 15, "dec": 13, "pos": 16, "fla": 5, "tea": 15, "wor": 16, "ldr": 13, "bra": 18, "agg": 19, "det": 19, "cmp": 11, "cnt": 13},
+      "physical": {"acc": 10, "str": 15, "sta": 13, "pac": 11, "jum": 10, "bal": 15, "agi": 9, "nat": 16},
+      "hidden": {"dir": 12, "cns": 15, "imp": 15, "inj": 6, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DM",

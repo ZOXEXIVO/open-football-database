@@ -5,6 +5,13 @@
   "birth_date": "2006-12-04",
   "country_id": 390,
   "club_id": 135450,
+  "attrs": {
+    "person": {"ada": 12, "amb": 14, "loy": 11, "pre": 12, "pro": 12, "spo": 13, "tem": 7, "con": 8},
+    "player": {
+      "mental": {"det": 15},
+      "physical": {"str": 6, "jum": 7}
+    }
+  },
   "positions": [
     {
       "code": "MC",

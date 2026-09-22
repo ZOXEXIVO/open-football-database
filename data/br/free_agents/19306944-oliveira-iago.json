@@ -4,6 +4,15 @@
   "last_name": "Oliveira",
   "birth_date": "2000-03-01",
   "country_id": 1651,
+  "attrs": {
+    "person": {"ada": 9, "amb": 15, "loy": 10, "pre": 11, "pro": 14, "spo": 14, "tem": 9, "con": 8},
+    "player": {
+      "technical": {"cro": 13, "dri": 14, "fin": 11, "hea": 10, "lon": 13, "mar": 7, "pas": 14, "tck": 7, "fir": 13, "tec": 14, "cor": 9, "fre": 11},
+      "mental": {"otb": 14, "vis": 14, "ant": 13, "dec": 13, "pos": 6, "fla": 14, "tea": 9, "wor": 13, "ldr": 11, "bra": 6, "agg": 10, "det": 14, "cmp": 9, "cnt": 12},
+      "physical": {"acc": 10, "str": 9, "sta": 11, "pac": 10, "jum": 7, "bal": 5, "agi": 8, "nat": 12},
+      "hidden": {"dir": 5, "cns": 13, "imp": 10, "inj": 5, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DM",

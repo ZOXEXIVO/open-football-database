@@ -4,6 +4,13 @@
   "last_name": "Guerra",
   "birth_date": "1996-01-01",
   "country_id": 1658,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 9, "fin": 10, "hea": 13, "pas": 8, "tck": 6, "fir": 10, "tec": 10},
+      "mental": {"otb": 10, "vis": 9, "ant": 11, "pos": 6, "fla": 5, "tea": 13, "wor": 14, "ldr": 8, "bra": 12, "agg": 15, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 12, "str": 10, "pac": 12, "jum": 12, "bal": 11, "agi": 10}
+    }
+  },
   "positions": [
     {
       "code": "ST",

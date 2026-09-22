@@ -4,6 +4,14 @@
   "last_name": "Troncoso",
   "birth_date": "2000-01-01",
   "country_id": 1652,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 9, "fin": 6, "hea": 11, "lon": 8, "mar": 11, "pas": 11, "pen": 8, "tck": 11, "fir": 11, "tec": 9, "cor": 8, "lth": 6, "fre": 7},
+      "mental": {"otb": 9, "vis": 9, "ant": 12, "dec": 12, "pos": 10, "fla": 8, "tea": 10, "wor": 10, "ldr": 7, "bra": 9, "agg": 10, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 12, "str": 9, "sta": 12, "pac": 11, "jum": 7, "bal": 10, "agi": 12, "nat": 12},
+      "hidden": {"dir": 7, "cns": 7, "inj": 11, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

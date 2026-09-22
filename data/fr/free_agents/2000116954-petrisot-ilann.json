@@ -4,6 +4,13 @@
   "last_name": "Petrisot",
   "birth_date": "2004-09-14",
   "country_id": 769,
+  "attrs": {
+    "player": {
+      "technical": {"cor": 11},
+      "mental": {"vis": 10},
+      "physical": {"acc": 11, "pac": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

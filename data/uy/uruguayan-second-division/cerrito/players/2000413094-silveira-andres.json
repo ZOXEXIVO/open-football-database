@@ -5,6 +5,12 @@
   "birth_date": "1998-01-01",
   "country_id": 1657,
   "club_id": 5512780,
+  "attrs": {
+    "player": {
+      "mental": {"pos": 10, "tea": 13, "wor": 12},
+      "physical": {"jum": 8}
+    }
+  },
   "positions": [
     {
       "code": "MR",

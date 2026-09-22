@@ -4,6 +4,14 @@
   "last_name": "Eccleston",
   "birth_date": "2003-11-11",
   "country_id": 765,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 9, "hea": 7, "mar": 8, "pas": 8, "tck": 10, "fir": 8, "tec": 8},
+      "mental": {"otb": 9, "vis": 7, "ant": 10, "dec": 10, "pos": 11, "fla": 7, "tea": 12, "wor": 13, "bra": 10, "agg": 8, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 15, "str": 9, "sta": 10, "pac": 15, "jum": 10, "bal": 10, "agi": 9},
+      "hidden": {"ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DR",

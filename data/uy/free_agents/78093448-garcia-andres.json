@@ -4,6 +4,15 @@
   "last_name": "García",
   "birth_date": "1995-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"amb": 8},
+    "player": {
+      "technical": {"dri": 10, "fin": 10, "hea": 12, "lon": 11, "mar": 8, "tck": 7, "fir": 11, "tec": 9},
+      "mental": {"otb": 11, "vis": 12, "ant": 10, "dec": 11, "fla": 9, "wor": 13, "bra": 13, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 9, "str": 11, "sta": 10, "pac": 10, "jum": 16, "bal": 12, "agi": 9},
+      "hidden": {"cns": 8}
+    }
+  },
   "positions": [
     {
       "code": "ST",

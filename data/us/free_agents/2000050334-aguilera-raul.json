@@ -4,6 +4,13 @@
   "last_name": "Aguilera",
   "birth_date": "1999-01-01",
   "country_id": 390,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 10, "fin": 6, "hea": 10, "lon": 6, "mar": 10, "pas": 13, "tck": 11, "fir": 10, "tec": 11, "cor": 8, "fre": 8},
+      "mental": {"otb": 10, "vis": 8, "ant": 9, "dec": 9, "pos": 10, "wor": 14, "bra": 12, "cmp": 8, "cnt": 11},
+      "physical": {"acc": 12, "str": 10, "sta": 15, "pac": 11, "jum": 10, "bal": 11, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

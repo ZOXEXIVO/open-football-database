@@ -5,6 +5,13 @@
   "birth_date": "2008-01-25",
   "country_id": 48,
   "club_id": 1780,
+  "attrs": {
+    "person": {"amb": 12, "con": 2},
+    "player": {
+      "mental": {"det": 13},
+      "hidden": {"cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "AML",

@@ -4,6 +4,15 @@
   "last_name": "Butko",
   "birth_date": "1991-01-13",
   "country_id": 800,
+  "attrs": {
+    "person": {"ada": 14, "amb": 9, "loy": 13, "pre": 11, "pro": 14, "spo": 14, "tem": 12, "con": 12},
+    "player": {
+      "technical": {"cro": 12, "dri": 11, "fin": 9, "hea": 9, "lon": 10, "mar": 12, "pas": 11, "pen": 11, "tck": 10, "fir": 10, "tec": 10, "cor": 8, "lth": 12, "fre": 9},
+      "mental": {"otb": 7, "vis": 11, "ant": 10, "dec": 10, "pos": 13, "fla": 6, "tea": 13, "wor": 14, "ldr": 15, "bra": 11, "agg": 11, "det": 11, "cmp": 9, "cnt": 11},
+      "physical": {"acc": 12, "str": 11, "sta": 14, "pac": 12, "jum": 10, "bal": 11, "agi": 10, "nat": 14},
+      "hidden": {"dir": 9, "cns": 13, "imp": 12, "inj": 6, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DR",

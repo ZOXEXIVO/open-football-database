@@ -4,6 +4,14 @@
   "last_name": "van Ooijen",
   "birth_date": "1992-01-01",
   "country_id": 784,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 12, "fin": 8, "hea": 10, "lon": 11, "mar": 9, "pas": 12, "pen": 11, "tck": 11, "fir": 10, "tec": 11, "fre": 11},
+      "mental": {"otb": 11, "vis": 12, "ant": 9, "dec": 12, "pos": 10, "fla": 9, "tea": 13, "wor": 12, "ldr": 11, "bra": 12, "agg": 11, "cmp": 9, "cnt": 11},
+      "physical": {"acc": 9, "str": 10, "sta": 9, "pac": 9, "jum": 10, "bal": 14, "agi": 9, "nat": 12},
+      "hidden": {"dir": 7, "cns": 12, "imp": 11, "inj": 8, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "MC",

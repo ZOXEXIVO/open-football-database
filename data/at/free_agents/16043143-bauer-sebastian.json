@@ -4,6 +4,15 @@
   "last_name": "Bauer",
   "birth_date": "1992-01-01",
   "country_id": 755,
+  "attrs": {
+    "person": {"amb": 13},
+    "player": {
+      "technical": {"cro": 7, "dri": 6, "fin": 5, "hea": 12, "lon": 9, "mar": 12, "pas": 8, "pen": 7, "tck": 12, "fir": 11, "tec": 8, "cor": 4, "lth": 7, "fre": 7},
+      "mental": {"otb": 6, "vis": 11, "ant": 10, "dec": 10, "pos": 14, "fla": 7, "tea": 12, "wor": 13, "ldr": 11, "bra": 12, "agg": 9, "det": 14, "cmp": 12, "cnt": 10},
+      "physical": {"acc": 12, "str": 12, "sta": 12, "pac": 12, "jum": 11, "bal": 12, "agi": 10, "nat": 12},
+      "hidden": {"dir": 6, "cns": 12, "imp": 11, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DC",

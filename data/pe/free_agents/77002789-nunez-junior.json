@@ -4,6 +4,12 @@
   "last_name": "Núñez",
   "birth_date": "1989-01-01",
   "country_id": 1656,
+  "attrs": {
+    "person": {"ada": 9, "amb": 10, "loy": 12, "pre": 9, "pro": 9, "spo": 10, "tem": 12, "con": 8},
+    "player": {
+      "mental": {"det": 7}
+    }
+  },
   "positions": [
     {
       "code": "DM",

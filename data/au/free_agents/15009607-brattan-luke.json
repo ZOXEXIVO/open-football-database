@@ -4,6 +4,15 @@
   "last_name": "Brattan",
   "birth_date": "1990-03-08",
   "country_id": 1435,
+  "attrs": {
+    "person": {"ada": 6, "amb": 15, "loy": 7, "con": 10},
+    "player": {
+      "technical": {"cro": 8, "dri": 9, "fin": 5, "hea": 6, "lon": 8, "mar": 11, "pas": 14, "pen": 5, "tck": 13, "fir": 11, "tec": 13, "cor": 11, "lth": 4, "fre": 11},
+      "mental": {"otb": 10, "vis": 13, "ant": 12, "dec": 13, "pos": 15, "fla": 6, "tea": 14, "wor": 14, "ldr": 15, "bra": 13, "agg": 13, "cmp": 15, "cnt": 11},
+      "physical": {"acc": 9, "str": 10, "sta": 14, "pac": 8, "jum": 8, "bal": 9, "agi": 12, "nat": 16},
+      "hidden": {"dir": 5, "cns": 15, "imp": 7, "inj": 5, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DM",

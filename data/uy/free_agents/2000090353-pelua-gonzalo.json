@@ -4,6 +4,15 @@
   "last_name": "Pelúa",
   "birth_date": "2003-06-05",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 12, "amb": 8, "loy": 6},
+    "player": {
+      "technical": {"mar": 11, "tec": 13, "cor": 13, "fre": 13},
+      "mental": {"ant": 10, "pos": 11},
+      "physical": {"str": 8, "jum": 11, "nat": 14},
+      "hidden": {"ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "DC",

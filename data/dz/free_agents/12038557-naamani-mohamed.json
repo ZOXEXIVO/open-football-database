@@ -4,6 +4,13 @@
   "last_name": "Naâmani",
   "birth_date": "1990-01-01",
   "country_id": 5,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 5, "fin": 7, "hea": 15, "tec": 9},
+      "mental": {"otb": 5, "pos": 10, "fla": 3, "ldr": 10, "bra": 15, "agg": 14},
+      "physical": {"acc": 8, "str": 13, "sta": 10, "pac": 10, "jum": 19, "bal": 14, "agi": 7, "nat": 13}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -5,6 +5,13 @@
   "birth_date": "2005-04-07",
   "country_id": 800,
   "club_id": 1301293,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "fin": 9, "fir": 8, "tec": 10},
+      "physical": {"acc": 10, "pac": 12, "jum": 10, "bal": 11, "agi": 9},
+      "hidden": {"ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "MR",

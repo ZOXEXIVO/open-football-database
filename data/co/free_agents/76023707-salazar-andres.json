@@ -4,6 +4,15 @@
   "last_name": "Salazar",
   "birth_date": "1993-11-18",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 10, "amb": 10, "loy": 10, "pre": 11, "pro": 10, "spo": 10, "tem": 9, "con": 8},
+    "player": {
+      "mental": {"otb": 8, "vis": 8, "ant": 11, "dec": 11, "pos": 11, "tea": 12, "wor": 12, "ldr": 13, "bra": 10, "agg": 8, "det": 11, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 11, "str": 12, "sta": 10, "pac": 11, "jum": 13, "bal": 12, "agi": 11, "nat": 10},
+      "goalkeeping": {"han": 9, "aer": 10, "cmd": 11, "com": 8, "kic": 8, "thr": 9, "one": 9, "ref": 11, "ecc": 11, "rus": 9, "pun": 10},
+      "hidden": {"dir": 7}
+    }
+  },
   "positions": [
     {
       "code": "GK",

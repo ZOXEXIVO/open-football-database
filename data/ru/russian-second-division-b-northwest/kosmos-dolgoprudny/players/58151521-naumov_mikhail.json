@@ -5,6 +5,13 @@
   "birth_date": "2001-03-18",
   "country_id": 791,
   "club_id": 8068066,
+  "attrs": {
+    "player": {
+      "mental": {"tea": 11},
+      "physical": {"str": 8, "jum": 8, "bal": 7},
+      "hidden": {"cns": 15}
+    }
+  },
   "positions": [
     {
       "code": "MR",

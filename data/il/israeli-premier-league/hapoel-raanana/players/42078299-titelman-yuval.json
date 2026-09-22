@@ -5,6 +5,13 @@
   "birth_date": "1997-02-16",
   "country_id": 775,
   "club_id": 7860424,
+  "attrs": {
+    "person": {"loy": 14, "pro": 11},
+    "player": {
+      "technical": {"tec": 12},
+      "mental": {"vis": 11, "ant": 12}
+    }
+  },
   "positions": [
     {
       "code": "MC",

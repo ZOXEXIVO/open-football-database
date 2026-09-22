@@ -4,6 +4,14 @@
   "last_name": "Hollman",
   "birth_date": "2004-06-19",
   "country_id": 1435,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 4, "dri": 11, "fin": 5, "hea": 6, "lon": 3, "mar": 12, "pas": 12, "pen": 3, "tck": 11, "fir": 11, "tec": 9, "cor": 1, "lth": 2, "fre": 2},
+      "mental": {"otb": 10, "vis": 10, "ant": 10, "dec": 9, "pos": 12, "fla": 2, "tea": 13, "wor": 14, "ldr": 4, "bra": 7, "agg": 12, "det": 11, "cmp": 8, "cnt": 13},
+      "physical": {"acc": 11, "str": 9, "sta": 13, "pac": 11, "jum": 5, "bal": 10, "agi": 12, "nat": 13},
+      "hidden": {"dir": 6, "cns": 14, "inj": 3, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DM",

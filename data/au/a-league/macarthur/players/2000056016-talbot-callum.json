@@ -5,6 +5,13 @@
   "birth_date": "2001-02-26",
   "country_id": 1435,
   "club_id": 15086550,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11},
+      "mental": {"otb": 11},
+      "physical": {"acc": 12, "pac": 12, "jum": 8, "agi": 10}
+    }
+  },
   "positions": [
     {
       "code": "DR",

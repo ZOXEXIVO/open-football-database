@@ -5,6 +5,12 @@
   "birth_date": "1988-05-04",
   "country_id": 114,
   "club_id": 5512198,
+  "attrs": {
+    "person": {"con": 17},
+    "player": {
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

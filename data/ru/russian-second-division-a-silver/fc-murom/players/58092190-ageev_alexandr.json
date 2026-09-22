@@ -5,6 +5,15 @@
   "birth_date": "1996-05-22",
   "country_id": 791,
   "club_id": 58126751,
+  "attrs": {
+    "person": {"tem": 8},
+    "player": {
+      "technical": {"dri": 11, "pas": 12, "tck": 7, "lth": 5},
+      "mental": {"otb": 11},
+      "physical": {"acc": 11, "str": 4, "pac": 12, "jum": 4, "bal": 10, "agi": 13},
+      "hidden": {"cns": 14}
+    }
+  },
   "positions": [
     {
       "code": "DM",

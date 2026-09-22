@@ -4,6 +4,15 @@
   "last_name": "Cañozales",
   "birth_date": "1999-04-22",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 13, "amb": 12, "loy": 10, "pre": 13, "pro": 12, "spo": 13, "tem": 11, "con": 8},
+    "player": {
+      "technical": {"cro": 11, "dri": 13, "fin": 12, "hea": 10, "lon": 9, "mar": 5, "pas": 12, "pen": 8, "tck": 7, "fir": 11, "tec": 12, "cor": 6, "lth": 8, "fre": 5},
+      "mental": {"otb": 12, "vis": 9, "ant": 11, "dec": 9, "pos": 8, "fla": 13, "tea": 11, "wor": 13, "ldr": 6, "bra": 11, "agg": 10, "det": 8, "cmp": 13, "cnt": 11},
+      "physical": {"acc": 13, "str": 9, "sta": 12, "pac": 12, "jum": 13, "bal": 9, "agi": 13, "nat": 12},
+      "hidden": {"dir": 5, "cns": 11, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

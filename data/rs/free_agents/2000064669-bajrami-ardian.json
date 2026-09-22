@@ -4,6 +4,12 @@
   "last_name": "Bajrami",
   "birth_date": "2004-03-08",
   "country_id": 802,
+  "attrs": {
+    "person": {"amb": 14, "loy": 10, "pre": 10, "pro": 12, "con": 13},
+    "player": {
+      "mental": {"det": 14}
+    }
+  },
   "positions": [
     {
       "code": "GK",

@@ -5,6 +5,13 @@
   "birth_date": "2000-01-13",
   "country_id": 34,
   "club_id": 5380013,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "dri": 13, "pas": 12, "tec": 13},
+      "mental": {"otb": 13, "vis": 12, "fla": 12},
+      "physical": {"acc": 15, "pac": 13, "agi": 14}
+    }
+  },
   "positions": [
     {
       "code": "ML",

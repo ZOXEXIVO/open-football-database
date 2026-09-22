@@ -4,6 +4,15 @@
   "last_name": "Dixon-Bonner",
   "birth_date": "2001-01-01",
   "country_id": 765,
+  "attrs": {
+    "person": {"ada": 12, "amb": 12, "loy": 12, "pre": 11, "pro": 11, "spo": 11, "tem": 11, "con": 8},
+    "player": {
+      "technical": {"cro": 9, "dri": 12, "fin": 10, "hea": 8, "lon": 10, "mar": 8, "pas": 12, "tck": 9, "fir": 12, "tec": 12, "cor": 10, "lth": 5, "fre": 11},
+      "mental": {"otb": 12, "vis": 11, "ant": 9, "dec": 8, "pos": 8, "fla": 8, "tea": 11, "wor": 12, "ldr": 12, "bra": 12, "agg": 8, "det": 14, "cmp": 12, "cnt": 7},
+      "physical": {"acc": 12, "str": 11, "sta": 11, "pac": 12, "jum": 11, "bal": 9, "agi": 11, "nat": 14},
+      "hidden": {"dir": 8, "cns": 10, "imp": 10, "inj": 8, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DM",

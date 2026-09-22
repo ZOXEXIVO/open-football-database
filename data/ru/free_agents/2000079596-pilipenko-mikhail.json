@@ -4,6 +4,14 @@
   "last_name": "Pilipenko",
   "birth_date": "2003-04-22",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 4, "dri": 10, "fin": 8, "hea": 6, "lon": 10, "mar": 6, "pas": 10, "pen": 4, "tck": 10, "fir": 8, "tec": 10, "cor": 4, "lth": 4, "fre": 4},
+      "mental": {"otb": 12, "vis": 10, "ant": 10, "dec": 10, "pos": 8, "fla": 8, "tea": 8, "wor": 8, "ldr": 8, "bra": 8, "agg": 8, "cmp": 9, "cnt": 8},
+      "physical": {"acc": 10, "str": 10, "sta": 8, "pac": 11, "jum": 9, "bal": 8, "agi": 12, "nat": 12},
+      "hidden": {"dir": 8, "cns": 15, "imp": 8, "inj": 8, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "MC",

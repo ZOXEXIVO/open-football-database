@@ -4,6 +4,15 @@
   "last_name": "Malinov",
   "birth_date": "1994-03-30",
   "country_id": 760,
+  "attrs": {
+    "person": {"amb": 13, "loy": 13, "pre": 9, "pro": 13, "spo": 4, "tem": 7, "con": 11},
+    "player": {
+      "technical": {"cro": 9, "dri": 11, "fin": 9, "hea": 5, "lon": 11, "mar": 10, "pas": 11, "pen": 10, "tck": 13, "fir": 11, "tec": 10, "cor": 11, "lth": 5, "fre": 12},
+      "mental": {"otb": 11, "vis": 11, "ant": 12, "dec": 9, "pos": 12, "fla": 7, "tea": 18, "wor": 18, "ldr": 13, "bra": 18, "agg": 18, "det": 18, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 13, "str": 7, "sta": 13, "pac": 10, "jum": 5, "bal": 10, "agi": 13, "nat": 18},
+      "hidden": {"dir": 13, "cns": 16, "imp": 15, "inj": 8, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

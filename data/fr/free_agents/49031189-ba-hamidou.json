@@ -4,6 +4,15 @@
   "last_name": "Ba",
   "birth_date": "1991-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"amb": 10, "loy": 12},
+    "player": {
+      "technical": {"cro": 5, "dri": 7, "hea": 14, "lon": 5, "mar": 11, "pas": 7, "pen": 6, "tck": 11, "fir": 8, "tec": 7, "cor": 4, "fre": 4},
+      "mental": {"otb": 5, "vis": 6, "ant": 10, "dec": 9, "pos": 11, "tea": 11, "wor": 13, "ldr": 7, "bra": 13, "agg": 12, "det": 12, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 9, "str": 16, "sta": 13, "pac": 9, "jum": 18, "bal": 14, "agi": 8, "nat": 13},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

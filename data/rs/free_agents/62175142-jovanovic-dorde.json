@@ -4,6 +4,15 @@
   "last_name": "Jovanović",
   "birth_date": "1999-02-15",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 13, "amb": 12, "loy": 11, "pre": 13, "pro": 12, "spo": 12, "tem": 12, "con": 9},
+    "player": {
+      "technical": {"cro": 8, "dri": 10, "fin": 14, "hea": 14, "lon": 10, "mar": 5, "pas": 10, "pen": 12, "tck": 5, "fir": 14, "tec": 11, "cor": 6, "lth": 5, "fre": 9},
+      "mental": {"otb": 13, "vis": 10, "ant": 13, "dec": 11, "pos": 5, "fla": 10, "tea": 11, "wor": 11, "ldr": 9, "bra": 14, "agg": 10, "det": 12, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 13, "str": 13, "sta": 12, "pac": 13, "jum": 14, "bal": 13, "agi": 12, "nat": 10},
+      "hidden": {"dir": 9, "cns": 12, "imp": 12, "inj": 12, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "ST",

@@ -4,6 +4,13 @@
   "last_name": "Fernández",
   "birth_date": "1998-01-01",
   "country_id": 1652,
+  "attrs": {
+    "player": {
+      "mental": {"det": 10},
+      "goalkeeping": {"ecc": 14},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

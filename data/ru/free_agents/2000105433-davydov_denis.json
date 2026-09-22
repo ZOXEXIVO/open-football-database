@@ -4,6 +4,12 @@
   "last_name": "Davydov",
   "birth_date": "2004-04-04",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "physical": {"acc": 8, "str": 14, "jum": 15, "agi": 8},
+      "goalkeeping": {"han": 7, "aer": 13, "cmd": 6, "com": 6, "kic": 11, "thr": 11, "one": 8, "ref": 10, "ecc": 11, "rus": 8, "pun": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

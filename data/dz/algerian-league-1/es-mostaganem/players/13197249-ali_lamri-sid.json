@@ -5,6 +5,13 @@
   "birth_date": "1991-04-03",
   "country_id": 5,
   "club_id": 7600120,
+  "attrs": {
+    "player": {
+      "mental": {"ldr": 10},
+      "physical": {"str": 7, "sta": 11, "jum": 7, "nat": 14},
+      "hidden": {"ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "DM",

@@ -4,6 +4,13 @@
   "last_name": "Perrault",
   "birth_date": "1996-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 14, "pen": 12},
+      "mental": {"ant": 11, "pos": 12},
+      "physical": {"jum": 12}
+    }
+  },
   "positions": [
     {
       "code": "ST",

@@ -4,6 +4,14 @@
   "last_name": "Borges",
   "birth_date": "2000-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 5, "amb": 5},
+    "player": {
+      "technical": {"cro": 13, "mar": 11},
+      "mental": {"otb": 12, "pos": 12},
+      "physical": {"acc": 12, "pac": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

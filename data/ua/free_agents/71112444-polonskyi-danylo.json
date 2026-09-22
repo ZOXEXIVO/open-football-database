@@ -4,6 +4,12 @@
   "last_name": "Polonskyi",
   "birth_date": "2001-11-14",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 4, "dri": 10, "hea": 6, "pas": 9, "fir": 11, "cor": 4},
+      "physical": {"str": 10, "jum": 11}
+    }
+  },
   "positions": [
     {
       "code": "AML",

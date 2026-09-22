@@ -4,6 +4,14 @@
   "last_name": "Ratti",
   "birth_date": "1994-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"amb": 5},
+    "player": {
+      "technical": {"mar": 13, "pas": 10, "tck": 11, "fir": 10, "tec": 11},
+      "mental": {"vis": 8, "dec": 10, "pos": 10, "fla": 8, "tea": 14, "wor": 13, "ldr": 12, "bra": 13, "agg": 13, "det": 12},
+      "physical": {"acc": 11, "str": 12, "sta": 10, "pac": 9, "jum": 9, "bal": 13, "agi": 11, "nat": 9}
+    }
+  },
   "positions": [
     {
       "code": "DM",

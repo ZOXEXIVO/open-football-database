@@ -4,6 +4,11 @@
   "last_name": "Villegas",
   "birth_date": "2001-07-07",
   "country_id": 379,
+  "attrs": {
+    "player": {
+      "goalkeeping": {"han": 11, "aer": 10, "cmd": 9, "com": 10, "kic": 11, "thr": 9, "one": 9, "ref": 10, "ecc": 7, "rus": 9, "pun": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

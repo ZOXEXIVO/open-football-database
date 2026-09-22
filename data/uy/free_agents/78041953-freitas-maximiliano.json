@@ -4,6 +4,15 @@
   "last_name": "Freitas",
   "birth_date": "1991-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 5, "amb": 8, "loy": 9, "pre": 9, "pro": 11, "spo": 14, "tem": 13, "con": 7},
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 11, "hea": 12, "lon": 11, "mar": 9, "pas": 10, "pen": 13, "fir": 12, "tec": 12, "cor": 11, "lth": 15, "fre": 12},
+      "mental": {"otb": 11, "vis": 10, "ant": 11, "dec": 11, "pos": 8, "fla": 11, "tea": 12, "wor": 14, "ldr": 10, "bra": 12, "agg": 8, "det": 10, "cmp": 8, "cnt": 13},
+      "physical": {"acc": 11, "str": 12, "sta": 9, "pac": 10, "jum": 9, "bal": 13, "agi": 11},
+      "hidden": {"dir": 6, "cns": 10, "imp": 9, "inj": 7, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "ST",

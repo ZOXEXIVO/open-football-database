@@ -4,6 +4,14 @@
   "last_name": "Varbanov",
   "birth_date": "2000-09-27",
   "country_id": 760,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 8, "fin": 5, "hea": 10, "lon": 6, "mar": 8, "pas": 10, "tck": 11, "fir": 9, "tec": 8, "cor": 7, "lth": 13},
+      "mental": {"otb": 11, "vis": 9, "ant": 11, "dec": 9, "pos": 9, "fla": 6, "tea": 13, "wor": 13, "ldr": 9, "bra": 13, "agg": 12, "cmp": 8, "cnt": 9},
+      "physical": {"acc": 11, "str": 8, "sta": 12, "pac": 12, "jum": 13, "bal": 9, "agi": 11, "nat": 13},
+      "hidden": {"cns": 10, "inj": 8}
+    }
+  },
   "positions": [
     {
       "code": "DL",

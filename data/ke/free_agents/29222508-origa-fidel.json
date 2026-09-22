@@ -4,6 +4,11 @@
   "last_name": "Origa",
   "birth_date": "2000-12-12",
   "country_id": 25,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 10}
+    }
+  },
   "positions": [
     {
       "code": "DR",

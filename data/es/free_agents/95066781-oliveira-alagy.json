@@ -4,6 +4,13 @@
   "last_name": "Oliveira",
   "birth_date": "1998-12-14",
   "country_id": 796,
+  "attrs": {
+    "player": {
+      "technical": {"fir": 9, "cor": 9},
+      "mental": {"agg": 8},
+      "physical": {"str": 12, "sta": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

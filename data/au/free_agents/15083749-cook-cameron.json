@@ -4,6 +4,13 @@
   "last_name": "Cook",
   "birth_date": "2001-08-16",
   "country_id": 1435,
+  "attrs": {
+    "player": {
+      "mental": {"ant": 7, "dec": 11, "pos": 13, "bra": 7},
+      "physical": {"sta": 12, "jum": 14, "bal": 8},
+      "goalkeeping": {"aer": 12, "cmd": 9, "kic": 10, "one": 11, "ref": 13, "ecc": 3}
+    }
+  },
   "positions": [
     {
       "code": "GK",

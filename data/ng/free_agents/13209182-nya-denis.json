@@ -4,6 +4,14 @@
   "last_name": "Nya",
   "birth_date": "1996-01-01",
   "country_id": 38,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 12, "tec": 11},
+      "mental": {"vis": 11},
+      "physical": {"str": 13},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

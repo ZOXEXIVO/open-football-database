@@ -4,6 +4,15 @@
   "last_name": "Magomedov",
   "birth_date": "1998-01-01",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 10, "pen": 9},
+      "mental": {"cmp": 10},
+      "physical": {"str": 11, "jum": 11},
+      "goalkeeping": {"aer": 9, "ecc": 13},
+      "hidden": {"cns": 15}
+    }
+  },
   "positions": [
     {
       "code": "GK",

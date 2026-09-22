@@ -4,6 +4,15 @@
   "last_name": "Ilić",
   "birth_date": "1992-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 12, "amb": 13, "loy": 11, "pre": 12, "pro": 13, "spo": 12, "tem": 12, "con": 8},
+    "player": {
+      "technical": {"cro": 7, "dri": 7, "fin": 7, "hea": 13, "lon": 10, "mar": 12, "pas": 10, "pen": 9, "tck": 11, "fir": 12, "tec": 8, "cor": 7, "lth": 8, "fre": 6},
+      "mental": {"otb": 13, "vis": 12, "ant": 11, "dec": 11, "pos": 12, "fla": 9, "tea": 12, "wor": 10, "ldr": 13, "bra": 11, "agg": 12, "det": 12, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 11, "str": 12, "sta": 12, "pac": 11, "jum": 14, "bal": 12, "agi": 11, "nat": 13},
+      "hidden": {"dir": 10, "cns": 14, "imp": 13, "inj": 9, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

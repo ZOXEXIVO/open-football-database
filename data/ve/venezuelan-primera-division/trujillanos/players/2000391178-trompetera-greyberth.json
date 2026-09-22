@@ -5,6 +5,12 @@
   "birth_date": "2004-01-01",
   "country_id": 1658,
   "club_id": 5300364,
+  "attrs": {
+    "player": {
+      "physical": {"sta": 15, "jum": 8, "nat": 15},
+      "hidden": {"ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "DR",

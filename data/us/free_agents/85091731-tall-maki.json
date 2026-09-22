@@ -4,6 +4,15 @@
   "last_name": "Tall",
   "birth_date": "1995-01-01",
   "country_id": 390,
+  "attrs": {
+    "person": {"ada": 12, "amb": 10, "loy": 10, "pro": 8},
+    "player": {
+      "technical": {"cro": 9, "dri": 12, "fin": 11, "hea": 7, "lon": 10, "mar": 3, "pas": 9, "pen": 12, "tck": 3, "fir": 12, "tec": 13, "cor": 7, "lth": 5, "fre": 6},
+      "mental": {"otb": 12, "vis": 8, "ant": 10, "dec": 8, "pos": 4, "fla": 12, "tea": 11, "wor": 10, "ldr": 5, "bra": 12, "agg": 7, "det": 10, "cmp": 11, "cnt": 9},
+      "physical": {"acc": 14, "str": 13, "sta": 12, "pac": 15, "jum": 7, "bal": 12, "agi": 15, "nat": 14},
+      "hidden": {"dir": 7, "cns": 11, "inj": 9}
+    }
+  },
   "positions": [
     {
       "code": "ST",

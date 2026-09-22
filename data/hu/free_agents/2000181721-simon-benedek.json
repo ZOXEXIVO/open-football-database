@@ -4,6 +4,14 @@
   "last_name": "Simon",
   "birth_date": "2006-05-15",
   "country_id": 773,
+  "attrs": {
+    "person": {"pro": 11},
+    "player": {
+      "technical": {"fin": 11, "hea": 10, "lon": 9, "mar": 5, "pas": 8, "tck": 5, "fir": 11, "tec": 10},
+      "mental": {"otb": 9, "ant": 10, "dec": 8, "pos": 10, "fla": 10, "tea": 11, "wor": 12, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 10, "str": 10, "sta": 8, "pac": 10, "jum": 11, "bal": 10, "agi": 9}
+    }
+  },
   "positions": [
     {
       "code": "ST",

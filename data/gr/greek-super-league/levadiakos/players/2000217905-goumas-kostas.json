@@ -5,6 +5,15 @@
   "birth_date": "2005-03-12",
   "country_id": 772,
   "club_id": 979,
+  "attrs": {
+    "person": {"spo": 9, "tem": 8},
+    "player": {
+      "technical": {"dri": 10, "lon": 12, "fir": 11, "tec": 11},
+      "mental": {"otb": 12, "ant": 12, "fla": 12, "wor": 13, "agg": 13, "det": 15, "cnt": 7},
+      "physical": {"str": 6, "sta": 12, "pac": 11, "jum": 7, "agi": 12, "nat": 13},
+      "hidden": {"dir": 12, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "MC",

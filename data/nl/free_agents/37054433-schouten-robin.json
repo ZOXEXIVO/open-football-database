@@ -4,6 +4,15 @@
   "last_name": "Schouten",
   "birth_date": "1998-02-25",
   "country_id": 784,
+  "attrs": {
+    "person": {"ada": 9, "amb": 13, "loy": 11, "pre": 13, "pro": 15, "spo": 12, "tem": 11, "con": 5},
+    "player": {
+      "technical": {"cro": 12, "dri": 10, "fin": 7, "hea": 9, "lon": 7, "mar": 12, "pas": 12, "pen": 6, "tck": 13, "fir": 10, "tec": 11, "cor": 7, "lth": 12, "fre": 6},
+      "mental": {"otb": 14, "vis": 8, "ant": 11, "dec": 10, "pos": 8, "fla": 11, "tea": 11, "wor": 12, "ldr": 8, "bra": 9, "agg": 9, "det": 13, "cmp": 9, "cnt": 11},
+      "physical": {"acc": 14, "str": 11, "sta": 13, "pac": 14, "jum": 12, "bal": 11, "agi": 10, "nat": 11},
+      "hidden": {"dir": 6, "cns": 11, "imp": 7, "inj": 7, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

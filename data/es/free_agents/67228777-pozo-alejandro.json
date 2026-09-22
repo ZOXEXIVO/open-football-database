@@ -4,6 +4,15 @@
   "last_name": "Pozo",
   "birth_date": "1999-02-22",
   "country_id": 796,
+  "attrs": {
+    "person": {"ada": 13, "amb": 12, "loy": 12, "pre": 11, "pro": 12, "spo": 10, "tem": 6, "con": 6},
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "fin": 10, "hea": 3, "lon": 10, "mar": 10, "pas": 11, "pen": 11, "tck": 11, "fir": 11, "tec": 12, "cor": 10, "lth": 5, "fre": 9},
+      "mental": {"otb": 13, "vis": 9, "ant": 11, "dec": 10, "pos": 11, "fla": 13, "tea": 11, "wor": 13, "ldr": 9, "bra": 11, "agg": 10, "det": 15, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 15, "str": 8, "sta": 14, "pac": 14, "jum": 7, "bal": 14, "agi": 14, "nat": 13},
+      "hidden": {"dir": 9, "cns": 11, "imp": 10, "inj": 10, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "DR",

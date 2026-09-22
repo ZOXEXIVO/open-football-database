@@ -4,6 +4,12 @@
   "last_name": "Ali Hamadi",
   "birth_date": "2003-11-13",
   "country_id": 5,
+  "attrs": {
+    "player": {
+      "mental": {"wor": 11},
+      "physical": {"acc": 12, "str": 6, "sta": 9, "pac": 12, "jum": 6}
+    }
+  },
   "positions": [
     {
       "code": "ML",

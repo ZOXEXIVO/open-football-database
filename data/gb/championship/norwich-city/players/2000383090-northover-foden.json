@@ -5,6 +5,15 @@
   "birth_date": "2008-08-28",
   "country_id": 765,
   "club_id": 691,
+  "attrs": {
+    "person": {"ada": 11, "amb": 12, "loy": 11, "pre": 11, "pro": 12, "spo": 13, "tem": 10, "con": 4},
+    "player": {
+      "technical": {"cro": 8, "dri": 11, "fin": 7, "hea": 4, "lon": 5, "mar": 5, "pas": 11, "pen": 5, "tck": 4, "fir": 10, "tec": 11, "cor": 6, "lth": 4, "fre": 8},
+      "mental": {"otb": 10, "vis": 10, "ant": 5, "dec": 8, "pos": 9, "fla": 11, "tea": 10, "wor": 10, "ldr": 4, "bra": 7, "agg": 7, "det": 11, "cmp": 11, "cnt": 7},
+      "physical": {"acc": 11, "str": 5, "sta": 9, "pac": 11, "jum": 5, "bal": 11, "agi": 10, "nat": 13},
+      "hidden": {"dir": 4, "inj": 4, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

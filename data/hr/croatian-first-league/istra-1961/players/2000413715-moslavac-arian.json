@@ -5,6 +5,14 @@
   "birth_date": "2006-10-27",
   "country_id": 761,
   "club_id": 662735,
+  "attrs": {
+    "person": {"loy": 13, "pro": 12, "spo": 10, "tem": 10},
+    "player": {
+      "technical": {"dri": 8, "fin": 6, "lon": 7, "mar": 8, "tck": 10, "fir": 10, "tec": 9, "lth": 6},
+      "mental": {"otb": 7, "fla": 8, "tea": 13, "wor": 11, "ldr": 11, "bra": 12, "agg": 11, "det": 13},
+      "physical": {"str": 11, "sta": 10, "pac": 8, "jum": 11}
+    }
+  },
   "positions": [
     {
       "code": "DM",

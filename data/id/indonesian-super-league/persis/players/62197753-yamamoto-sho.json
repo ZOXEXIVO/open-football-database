@@ -5,6 +5,13 @@
   "birth_date": "1996-11-12",
   "country_id": 116,
   "club_id": 5622862,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 11},
+      "mental": {"otb": 10, "vis": 10, "dec": 12, "fla": 12, "wor": 10, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 11, "pac": 11}
+    }
+  },
   "positions": [
     {
       "code": "AML",

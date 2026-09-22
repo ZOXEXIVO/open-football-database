@@ -4,6 +4,13 @@
   "last_name": "Atencio",
   "birth_date": "1999-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"tec": 13},
+      "mental": {"fla": 14, "cnt": 6},
+      "physical": {"acc": 13, "pac": 10}
+    }
+  },
   "positions": [
     {
       "code": "AML",

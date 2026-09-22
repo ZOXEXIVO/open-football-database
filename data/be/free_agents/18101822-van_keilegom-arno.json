@@ -4,6 +4,14 @@
   "last_name": "Van Keilegom",
   "birth_date": "1999-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "dri": 11, "fin": 9, "hea": 5, "lon": 9, "mar": 8, "pas": 12, "tck": 6, "fir": 11, "tec": 11, "cor": 14, "lth": 5, "fre": 7},
+      "mental": {"otb": 11, "vis": 11, "ant": 11, "dec": 10, "pos": 8, "fla": 12, "tea": 12, "wor": 13, "ldr": 10, "bra": 9, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 11, "str": 8, "sta": 12, "pac": 12, "jum": 7, "bal": 11, "agi": 10, "nat": 11},
+      "hidden": {"cns": 10, "inj": 11, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "MC",

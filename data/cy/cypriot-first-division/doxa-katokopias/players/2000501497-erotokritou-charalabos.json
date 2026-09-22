@@ -5,6 +5,13 @@
   "birth_date": "2005-09-01",
   "country_id": 762,
   "club_id": 138180,
+  "attrs": {
+    "person": {"con": 4},
+    "player": {
+      "technical": {"hea": 14, "mar": 13, "tck": 12},
+      "physical": {"str": 13, "jum": 14}
+    }
+  },
   "positions": [
     {
       "code": "DC",

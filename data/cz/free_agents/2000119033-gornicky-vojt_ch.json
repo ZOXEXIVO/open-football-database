@@ -4,6 +4,15 @@
   "last_name": "Gornický",
   "birth_date": "2003-01-01",
   "country_id": 763,
+  "attrs": {
+    "person": {"ada": 12, "amb": 13, "spo": 15},
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 10, "lon": 9, "pas": 10, "tec": 11, "fre": 9},
+      "mental": {"ant": 7, "dec": 8},
+      "physical": {"acc": 14, "str": 10, "sta": 14, "pac": 13, "jum": 9, "agi": 7, "nat": 10},
+      "hidden": {"ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "MC",

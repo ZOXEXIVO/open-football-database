@@ -4,6 +4,15 @@
   "last_name": "Ondřejka",
   "birth_date": "1988-01-01",
   "country_id": 763,
+  "attrs": {
+    "person": {"ada": 8, "amb": 8, "loy": 10, "pre": 6, "pro": 10, "spo": 10, "tem": 10, "con": 10},
+    "player": {
+      "technical": {"cro": 8, "dri": 10, "fin": 14, "hea": 14, "lon": 10, "mar": 7, "pas": 13, "pen": 14, "tck": 8, "fir": 12, "tec": 11, "cor": 9, "lth": 8, "fre": 11},
+      "mental": {"otb": 14, "vis": 4, "ant": 12, "dec": 10, "pos": 8, "fla": 13, "tea": 12, "wor": 13, "ldr": 4, "bra": 8, "agg": 8, "det": 8, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 8, "str": 10, "sta": 12, "pac": 14, "jum": 9, "bal": 8, "agi": 14, "nat": 11},
+      "hidden": {"dir": 7, "cns": 12, "imp": 6, "inj": 13, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

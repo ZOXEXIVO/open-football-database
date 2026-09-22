@@ -5,6 +5,14 @@
   "birth_date": "1990-09-27",
   "country_id": 133,
   "club_id": 7920351,
+  "attrs": {
+    "person": {"loy": 9, "pro": 12},
+    "player": {
+      "technical": {"mar": 13, "tck": 14},
+      "mental": {"ant": 11, "ldr": 14, "bra": 18, "agg": 16},
+      "physical": {"jum": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

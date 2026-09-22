@@ -5,6 +5,12 @@
   "birth_date": "2006-02-04",
   "country_id": 1435,
   "club_id": 8457492,
+  "attrs": {
+    "player": {
+      "physical": {"sta": 13, "nat": 14},
+      "hidden": {"ver": 18}
+    }
+  },
   "positions": [
     {
       "code": "DL",

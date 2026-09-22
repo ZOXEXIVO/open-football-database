@@ -4,6 +4,14 @@
   "last_name": "De La Hoz",
   "birth_date": "1998-07-15",
   "country_id": 1658,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 8, "hea": 12, "mar": 11, "pas": 9, "tck": 12, "fir": 11, "tec": 11},
+      "mental": {"otb": 8, "vis": 10, "ant": 12, "dec": 12, "pos": 12, "fla": 8, "tea": 13, "wor": 12, "bra": 11, "agg": 12, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 13, "str": 11, "sta": 14, "pac": 12, "jum": 7, "bal": 12, "agi": 12, "nat": 16},
+      "hidden": {"cns": 13, "inj": 4, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "DR",

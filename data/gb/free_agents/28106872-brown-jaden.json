@@ -4,6 +4,9 @@
   "last_name": "Brown",
   "birth_date": "1999-01-01",
   "country_id": 765,
+  "attrs": {
+    "person": {"ada": 10, "amb": 15, "loy": 10, "pre": 8, "pro": 11, "spo": 9, "tem": 11, "con": 16}
+  },
   "positions": [
     {
       "code": "DL",

@@ -4,6 +4,13 @@
   "last_name": "Barraco",
   "birth_date": "2003-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"mar": 11, "pas": 11},
+      "mental": {"otb": 12},
+      "physical": {"acc": 11, "pac": 12, "jum": 11}
+    }
+  },
   "positions": [
     {
       "code": "DL",

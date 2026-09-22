@@ -4,6 +4,15 @@
   "last_name": "Dzyuba",
   "birth_date": "1988-08-22",
   "country_id": 791,
+  "attrs": {
+    "person": {"ada": 9, "amb": 15, "loy": 12, "pre": 13, "pro": 15, "spo": 10, "tem": 13, "con": 17},
+    "player": {
+      "technical": {"cro": 9, "dri": 10, "fin": 15, "hea": 16, "lon": 9, "mar": 7, "pas": 12, "pen": 15, "tck": 6, "fir": 13, "tec": 12, "cor": 7, "lth": 9, "fre": 8},
+      "mental": {"otb": 13, "vis": 14, "ant": 14, "dec": 16, "pos": 12, "fla": 11, "tea": 12, "wor": 8, "ldr": 15, "bra": 17, "agg": 14, "det": 13, "cmp": 15, "cnt": 13},
+      "physical": {"acc": 5, "str": 18, "sta": 10, "pac": 8, "jum": 16, "bal": 13, "agi": 7, "nat": 12},
+      "hidden": {"dir": 13, "cns": 15, "imp": 17, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "ST",

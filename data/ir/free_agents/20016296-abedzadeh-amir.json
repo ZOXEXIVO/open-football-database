@@ -4,6 +4,16 @@
   "last_name": "Abedzadeh",
   "birth_date": "1993-04-26",
   "country_id": 114,
+  "attrs": {
+    "person": {"ada": 13, "amb": 11, "loy": 13, "pre": 16, "pro": 16, "spo": 6, "tem": 10, "con": 6},
+    "player": {
+      "technical": {"hea": 7, "pas": 12, "fir": 11, "tec": 11},
+      "mental": {"vis": 8, "ant": 12, "dec": 10, "pos": 12, "fla": 1, "tea": 12, "wor": 13, "ldr": 10, "bra": 13, "agg": 13, "det": 13, "cmp": 9, "cnt": 12},
+      "physical": {"acc": 10, "str": 13, "sta": 11, "pac": 9, "jum": 11, "bal": 12, "agi": 12, "nat": 13},
+      "goalkeeping": {"han": 11, "aer": 13, "cmd": 11, "com": 10, "kic": 14, "thr": 9, "one": 15, "ref": 16, "ecc": 15, "rus": 16, "pun": 10},
+      "hidden": {"dir": 12, "cns": 7, "imp": 13, "inj": 4}
+    }
+  },
   "positions": [
     {
       "code": "GK",

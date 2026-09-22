@@ -4,6 +4,16 @@
   "last_name": "Komar",
   "birth_date": "2003-07-26",
   "country_id": 787,
+  "attrs": {
+    "person": {"pro": 8, "con": 14},
+    "player": {
+      "technical": {"hea": 7, "pas": 8, "fir": 7, "tec": 7},
+      "mental": {"vis": 8, "ant": 11, "dec": 10, "pos": 10, "tea": 10, "wor": 8, "ldr": 6, "bra": 14, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 8, "str": 14, "sta": 11, "pac": 9, "jum": 14, "agi": 13},
+      "goalkeeping": {"han": 12, "aer": 11, "cmd": 12, "com": 11, "kic": 10, "thr": 11, "one": 11, "ref": 13, "ecc": 13, "rus": 12, "pun": 13},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

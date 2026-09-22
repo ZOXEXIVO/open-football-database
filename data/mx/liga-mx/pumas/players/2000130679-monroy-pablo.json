@@ -5,6 +5,14 @@
   "birth_date": "2002-07-22",
   "country_id": 379,
   "club_id": 1260,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "fin": 4, "mar": 13, "pas": 12},
+      "mental": {"ant": 12, "pos": 12, "ldr": 12, "cnt": 11},
+      "physical": {"acc": 13, "str": 9, "jum": 7, "bal": 13},
+      "hidden": {"cns": 14, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

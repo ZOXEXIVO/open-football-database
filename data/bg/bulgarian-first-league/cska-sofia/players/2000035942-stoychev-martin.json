@@ -5,6 +5,15 @@
   "birth_date": "2003-10-17",
   "country_id": 760,
   "club_id": 22069955,
+  "attrs": {
+    "person": {"amb": 14, "pro": 14, "con": 6},
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 7, "hea": 8, "lon": 7, "mar": 9, "pas": 10, "tck": 12, "tec": 11, "lth": 12, "fre": 9},
+      "mental": {"otb": 10, "vis": 9, "ant": 9, "dec": 8, "pos": 10, "fla": 8, "tea": 13, "wor": 12, "ldr": 8, "bra": 13, "agg": 11, "det": 14, "cmp": 9, "cnt": 10},
+      "physical": {"acc": 13, "str": 8, "sta": 12, "pac": 11, "jum": 7, "bal": 12, "agi": 11, "nat": 13},
+      "hidden": {"dir": 8, "cns": 9, "inj": 8, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

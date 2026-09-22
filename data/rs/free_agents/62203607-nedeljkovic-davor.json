@@ -4,6 +4,15 @@
   "last_name": "Nedeljković",
   "birth_date": "1996-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 11, "amb": 11, "loy": 15, "pre": 9, "pro": 12, "spo": 11, "tem": 12},
+    "player": {
+      "technical": {"cro": 12, "dri": 10, "fin": 11, "hea": 9, "lon": 14, "mar": 10, "pas": 13, "tck": 11, "fir": 12, "tec": 11, "cor": 11, "fre": 9},
+      "mental": {"otb": 11, "vis": 13, "ant": 10, "dec": 10, "pos": 12, "fla": 12, "tea": 11, "wor": 13, "ldr": 10, "bra": 10, "agg": 11, "det": 12, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 13, "str": 11, "sta": 12, "pac": 12, "jum": 10, "bal": 9, "agi": 13, "nat": 13},
+      "hidden": {"dir": 12, "cns": 13, "imp": 12, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "DM",

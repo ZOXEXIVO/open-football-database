@@ -4,6 +4,12 @@
   "last_name": "Tomache",
   "birth_date": "2004-02-07",
   "country_id": 790,
+  "attrs": {
+    "player": {
+      "mental": {"ant": 7, "dec": 8, "bra": 9},
+      "goalkeeping": {"han": 9, "aer": 9, "cmd": 8, "com": 6, "kic": 9, "thr": 8, "one": 8, "ref": 9, "ecc": 8, "rus": 10, "pun": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

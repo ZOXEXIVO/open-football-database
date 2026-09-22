@@ -4,6 +4,14 @@
   "last_name": "Vicencio",
   "birth_date": "1992-01-01",
   "country_id": 1652,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 7, "fin": 5, "hea": 12, "lon": 6, "mar": 13, "pas": 9, "pen": 5, "tck": 12, "fir": 9, "tec": 8, "cor": 5, "lth": 10, "fre": 5},
+      "mental": {"otb": 7, "vis": 7, "ant": 11, "dec": 9, "pos": 12, "fla": 8, "tea": 12, "wor": 14, "ldr": 12, "bra": 14, "agg": 16, "det": 10, "cmp": 9, "cnt": 10},
+      "physical": {"acc": 11, "str": 11, "sta": 11, "pac": 9, "jum": 11, "bal": 13, "agi": 10, "nat": 11},
+      "hidden": {"dir": 17, "cns": 9, "imp": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

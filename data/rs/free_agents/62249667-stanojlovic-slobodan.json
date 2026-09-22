@@ -4,6 +4,15 @@
   "last_name": "Stanojlović",
   "birth_date": "2001-12-28",
   "country_id": 802,
+  "attrs": {
+    "person": {"pro": 12, "spo": 12, "tem": 12},
+    "player": {
+      "technical": {"cro": 11, "dri": 9, "fin": 12, "lon": 11, "tec": 9, "cor": 11},
+      "mental": {"otb": 9, "vis": 9, "ant": 10, "dec": 11, "fla": 8, "bra": 10, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 13, "str": 10, "sta": 10, "pac": 13, "bal": 10, "agi": 10},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

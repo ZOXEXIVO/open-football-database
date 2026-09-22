@@ -4,6 +4,14 @@
   "last_name": "Vargas",
   "birth_date": "2001-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 5, "amb": 5},
+    "player": {
+      "technical": {"fin": 9, "hea": 13, "fir": 9, "tec": 10},
+      "mental": {"otb": 9, "fla": 9, "tea": 8, "wor": 12, "bra": 10, "cmp": 7},
+      "physical": {"str": 13, "pac": 12, "jum": 13, "bal": 11, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "ST",

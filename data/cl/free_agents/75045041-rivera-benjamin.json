@@ -4,6 +4,15 @@
   "last_name": "Rivera",
   "birth_date": "1999-01-01",
   "country_id": 1652,
+  "attrs": {
+    "person": {"loy": 11, "con": 6},
+    "player": {
+      "technical": {"cro": 9, "dri": 8, "fin": 6, "hea": 10, "lon": 7, "mar": 13, "pas": 12, "pen": 5, "tck": 12, "fir": 10, "tec": 9, "cor": 8, "lth": 7, "fre": 6},
+      "mental": {"otb": 9, "vis": 12, "ant": 11, "dec": 11, "pos": 12, "fla": 10, "tea": 13, "wor": 12, "ldr": 9, "bra": 13, "agg": 14, "det": 11, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 9, "str": 12, "sta": 12, "pac": 9, "jum": 12, "bal": 12, "agi": 9, "nat": 13},
+      "hidden": {"dir": 14, "cns": 11, "imp": 11, "inj": 10, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DM",

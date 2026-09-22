@@ -4,6 +4,15 @@
   "last_name": "Caufriez",
   "birth_date": "1997-02-16",
   "country_id": 757,
+  "attrs": {
+    "person": {"ada": 12, "amb": 11, "loy": 11, "pre": 11, "pro": 15, "spo": 12, "tem": 11, "con": 10},
+    "player": {
+      "technical": {"cro": 10, "dri": 10, "fin": 6, "hea": 13, "lon": 8, "mar": 13, "pas": 11, "pen": 10, "tck": 14, "fir": 10, "tec": 9, "cor": 8, "lth": 8, "fre": 8},
+      "mental": {"otb": 9, "vis": 10, "ant": 13, "dec": 13, "pos": 13, "fla": 11, "tea": 15, "wor": 13, "ldr": 14, "bra": 16, "agg": 17, "det": 14, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 12, "str": 15, "sta": 12, "pac": 11, "jum": 14, "bal": 13, "agi": 11, "nat": 15},
+      "hidden": {"dir": 13, "cns": 11, "imp": 13, "inj": 12, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DR",

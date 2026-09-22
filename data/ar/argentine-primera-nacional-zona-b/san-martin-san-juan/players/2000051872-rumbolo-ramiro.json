@@ -5,6 +5,12 @@
   "birth_date": "2003-11-12",
   "country_id": 1649,
   "club_id": 108546,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 11, "fin": 10, "hea": 5, "mar": 4, "pas": 12, "fir": 11, "tec": 12},
+      "physical": {"acc": 11, "str": 10, "sta": 10, "pac": 12, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

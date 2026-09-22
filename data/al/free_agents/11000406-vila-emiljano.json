@@ -4,6 +4,15 @@
   "last_name": "Vila",
   "birth_date": "1988-03-12",
   "country_id": 752,
+  "attrs": {
+    "person": {"ada": 9, "amb": 12, "loy": 14, "pre": 12, "pro": 15, "spo": 7, "tem": 8, "con": 8},
+    "player": {
+      "technical": {"cro": 12, "dri": 10, "fin": 11, "hea": 10, "lon": 13, "mar": 9, "pas": 10, "pen": 9, "tck": 8, "fir": 11, "tec": 11, "cor": 9, "lth": 8, "fre": 9},
+      "mental": {"otb": 13, "vis": 10, "ant": 12, "dec": 8, "pos": 8, "fla": 12, "tea": 10, "wor": 13, "ldr": 10, "bra": 10, "agg": 13, "det": 15, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 11, "str": 12, "sta": 11, "pac": 11, "jum": 10, "bal": 12, "agi": 11, "nat": 14},
+      "hidden": {"dir": 12, "cns": 11, "imp": 12, "inj": 7, "ver": 16}
+    }
+  },
   "positions": [
     {
       "code": "MC",

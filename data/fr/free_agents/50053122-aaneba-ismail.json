@@ -4,6 +4,15 @@
   "last_name": "Aaneba",
   "birth_date": "1999-05-29",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 10, "amb": 13, "loy": 12, "pre": 13, "pro": 13, "spo": 14, "tem": 10, "con": 8},
+    "player": {
+      "technical": {"cro": 9, "dri": 7, "fin": 6, "hea": 13, "lon": 6, "mar": 13, "pas": 11, "pen": 6, "tck": 12, "fir": 11, "tec": 12, "cor": 5, "lth": 11, "fre": 5},
+      "mental": {"otb": 10, "vis": 11, "ant": 13, "dec": 12, "pos": 12, "fla": 7, "tea": 13, "wor": 13, "ldr": 8, "bra": 15, "agg": 13, "det": 13, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 10, "str": 13, "sta": 12, "pac": 10, "jum": 13, "bal": 14, "agi": 10, "nat": 14},
+      "hidden": {"dir": 7, "cns": 13, "imp": 13, "inj": 6, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

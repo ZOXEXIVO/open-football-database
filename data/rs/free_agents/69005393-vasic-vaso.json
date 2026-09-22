@@ -4,6 +4,16 @@
   "last_name": "Vasić",
   "birth_date": "1990-04-26",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 9, "amb": 12, "loy": 15, "pre": 8, "pro": 13, "spo": 10, "tem": 12, "con": 6},
+    "player": {
+      "technical": {"pas": 10, "fir": 9, "tec": 8},
+      "mental": {"vis": 7, "ant": 8, "dec": 11, "pos": 12, "fla": 4, "tea": 12, "wor": 12, "ldr": 7, "bra": 14, "agg": 8, "det": 12, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 10, "str": 13, "sta": 10, "pac": 9, "jum": 12, "bal": 13, "agi": 11, "nat": 11},
+      "goalkeeping": {"han": 13, "aer": 11, "cmd": 13, "com": 12, "kic": 13, "thr": 11, "one": 13, "ref": 13, "ecc": 6, "rus": 11, "pun": 13},
+      "hidden": {"cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "GK",

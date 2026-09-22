@@ -5,6 +5,15 @@
   "birth_date": "2000-05-09",
   "country_id": 752,
   "club_id": 63,
+  "attrs": {
+    "person": {"ada": 14, "pro": 14},
+    "player": {
+      "technical": {"cro": 7, "pas": 7, "tck": 8, "tec": 8},
+      "mental": {"vis": 8, "dec": 11, "pos": 10, "tea": 12, "wor": 13, "det": 16, "cnt": 9},
+      "physical": {"acc": 10, "sta": 14, "pac": 9, "jum": 9, "nat": 14},
+      "hidden": {"cns": 12, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "DR",

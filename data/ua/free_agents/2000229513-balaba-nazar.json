@@ -4,6 +4,14 @@
   "last_name": "Balaba",
   "birth_date": "2005-05-10",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 13, "mar": 13, "pas": 7, "tck": 12, "tec": 6},
+      "mental": {"dec": 8, "pos": 10, "ldr": 11, "bra": 16, "agg": 12, "cnt": 7},
+      "physical": {"acc": 8, "str": 14, "sta": 10, "pac": 9, "jum": 12, "agi": 8},
+      "hidden": {"inj": 13}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -4,6 +4,15 @@
   "last_name": "Lambot",
   "birth_date": "1987-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"ada": 11, "pre": 11, "pro": 12, "tem": 8},
+    "player": {
+      "technical": {"cro": 6, "dri": 9, "fin": 8, "hea": 13, "lon": 8, "mar": 12, "pas": 9, "pen": 7, "tck": 11, "fir": 9, "tec": 8, "cor": 5, "lth": 7, "fre": 8},
+      "mental": {"otb": 8, "vis": 8, "ant": 11, "dec": 11, "pos": 12, "fla": 4, "tea": 11, "wor": 10, "ldr": 14, "bra": 11, "agg": 6, "det": 14, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 8, "str": 14, "sta": 13, "pac": 8, "jum": 13, "bal": 12, "agi": 7, "nat": 13},
+      "hidden": {"dir": 7, "cns": 15, "imp": 13, "inj": 14, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

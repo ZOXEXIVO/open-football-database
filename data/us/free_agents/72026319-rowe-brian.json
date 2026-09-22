@@ -4,6 +4,16 @@
   "last_name": "Rowe",
   "birth_date": "1988-01-01",
   "country_id": 390,
+  "attrs": {
+    "person": {"ada": 10, "amb": 9, "loy": 14, "pre": 13, "pro": 14, "spo": 13, "tem": 15, "con": 12},
+    "player": {
+      "technical": {"hea": 5, "pas": 6, "fir": 7, "tec": 8},
+      "mental": {"otb": 2, "vis": 8, "ant": 13, "dec": 12, "pos": 13, "fla": 7, "tea": 11, "wor": 12, "ldr": 9, "bra": 14, "agg": 12, "det": 12, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 7, "str": 12, "sta": 10, "pac": 8, "jum": 13, "bal": 13, "agi": 11, "nat": 10},
+      "goalkeeping": {"han": 12, "aer": 13, "cmd": 13, "com": 13, "kic": 12, "thr": 12, "one": 13, "ref": 12, "ecc": 3, "rus": 10, "pun": 14},
+      "hidden": {"dir": 5, "cns": 7, "imp": 10, "inj": 10}
+    }
+  },
   "positions": [
     {
       "code": "GK",

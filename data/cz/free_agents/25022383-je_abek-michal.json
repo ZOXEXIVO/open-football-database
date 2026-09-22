@@ -4,6 +4,15 @@
   "last_name": "Jeřábek",
   "birth_date": "1993-01-01",
   "country_id": 763,
+  "attrs": {
+    "person": {"ada": 11, "amb": 13, "loy": 10, "pre": 9, "pro": 12, "spo": 12, "tem": 11, "con": 12},
+    "player": {
+      "technical": {"cro": 5, "dri": 9, "fin": 9, "hea": 14, "lon": 6, "mar": 13, "pas": 9, "pen": 8, "tck": 13, "fir": 9, "tec": 10, "cor": 4, "lth": 12, "fre": 6},
+      "mental": {"otb": 8, "vis": 7, "ant": 10, "dec": 10, "pos": 9, "fla": 13, "tea": 8, "wor": 7, "ldr": 9, "bra": 14, "agg": 13, "det": 12, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 10, "str": 14, "sta": 12, "pac": 11, "jum": 14, "bal": 12, "agi": 11, "nat": 11},
+      "hidden": {"dir": 12, "cns": 13, "imp": 11, "inj": 12, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "DC",

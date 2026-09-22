@@ -5,6 +5,14 @@
   "birth_date": "1993-01-13",
   "country_id": 1438,
   "club_id": 1300491,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 8, "lth": 13},
+      "mental": {"otb": 11, "vis": 10, "wor": 13},
+      "physical": {"acc": 13, "str": 8, "sta": 10, "pac": 12, "jum": 11, "agi": 12},
+      "hidden": {"cns": 14}
+    }
+  },
   "positions": [
     {
       "code": "DR",

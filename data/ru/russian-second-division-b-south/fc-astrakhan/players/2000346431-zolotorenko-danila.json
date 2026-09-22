@@ -5,6 +5,13 @@
   "birth_date": "2005-01-01",
   "country_id": 791,
   "club_id": 58035168,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 10, "tck": 6, "cor": 8},
+      "mental": {"otb": 10, "pos": 8, "wor": 10},
+      "physical": {"acc": 10, "sta": 6, "pac": 10, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "WBR",

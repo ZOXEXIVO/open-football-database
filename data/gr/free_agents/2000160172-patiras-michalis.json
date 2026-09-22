@@ -4,6 +4,14 @@
   "last_name": "Patiras",
   "birth_date": "2004-05-13",
   "country_id": 772,
+  "attrs": {
+    "person": {"amb": 13},
+    "player": {
+      "technical": {"cro": 11, "dri": 13, "fin": 10, "fir": 12, "tec": 12},
+      "mental": {"dec": 9, "fla": 12},
+      "physical": {"str": 7, "pac": 11, "jum": 8, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "MR",

@@ -4,6 +4,11 @@
   "last_name": "Pablo Vásquez",
   "birth_date": "2000-01-01",
   "country_id": 1653,
+  "attrs": {
+    "player": {
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "GK",

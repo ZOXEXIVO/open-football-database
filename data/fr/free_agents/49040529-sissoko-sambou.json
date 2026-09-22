@@ -4,6 +4,15 @@
   "last_name": "Sissoko",
   "birth_date": "1999-04-27",
   "country_id": 769,
+  "attrs": {
+    "person": {"amb": 12, "loy": 13, "pro": 13},
+    "player": {
+      "technical": {"cro": 8, "dri": 9, "fin": 8, "hea": 9, "lon": 10, "mar": 12, "pas": 8, "tck": 14, "fir": 10, "tec": 8, "cor": 9, "lth": 8},
+      "mental": {"otb": 13, "vis": 8, "ant": 13, "dec": 11, "pos": 13, "tea": 14, "wor": 13, "ldr": 11, "bra": 12, "cmp": 13, "cnt": 8},
+      "physical": {"acc": 13, "str": 9, "sta": 13, "pac": 12, "jum": 9, "bal": 12, "agi": 12, "nat": 15},
+      "hidden": {"cns": 10, "inj": 5, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

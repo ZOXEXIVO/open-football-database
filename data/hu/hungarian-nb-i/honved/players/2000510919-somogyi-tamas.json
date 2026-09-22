@@ -5,6 +5,13 @@
   "birth_date": "2009-08-19",
   "country_id": 773,
   "club_id": 1059,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 11, "hea": 8, "mar": 4, "pen": 11, "tck": 4, "tec": 10},
+      "mental": {"cmp": 9},
+      "physical": {"acc": 11, "str": 6, "sta": 8, "pac": 11, "jum": 11, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

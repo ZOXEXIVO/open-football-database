@@ -4,6 +4,14 @@
   "last_name": "Khatir",
   "birth_date": "1997-01-01",
   "country_id": 769,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 11, "pas": 11},
+      "mental": {"wor": 13},
+      "physical": {"acc": 12, "sta": 13, "pac": 13, "jum": 13},
+      "hidden": {"cns": 12, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DL",

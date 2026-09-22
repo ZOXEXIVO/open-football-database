@@ -4,6 +4,13 @@
   "last_name": "Vanmarsenille",
   "birth_date": "2002-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 14, "tec": 14},
+      "mental": {"pos": 7, "bra": 12},
+      "goalkeeping": {"han": 12, "aer": 7, "cmd": 8, "com": 8, "kic": 12, "thr": 5, "one": 14, "ref": 14, "rus": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

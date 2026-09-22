@@ -5,6 +5,14 @@
   "birth_date": "1999-07-27",
   "country_id": 800,
   "club_id": 71046355,
+  "attrs": {
+    "person": {"pro": 18},
+    "player": {
+      "mental": {"wor": 16},
+      "physical": {"sta": 17},
+      "hidden": {"inj": 3, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

@@ -4,6 +4,15 @@
   "last_name": "Palacio",
   "birth_date": "2001-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"amb": 10, "pro": 10},
+    "player": {
+      "technical": {"cro": 12, "dri": 11, "fin": 9, "hea": 7, "lon": 8, "mar": 3, "pas": 11, "tck": 3, "fir": 10, "tec": 12, "lth": 4},
+      "mental": {"otb": 13, "vis": 11, "ant": 10, "dec": 10, "pos": 9, "tea": 10, "wor": 12, "ldr": 8, "bra": 12, "agg": 9, "det": 10, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 12, "str": 10, "sta": 12, "pac": 12, "jum": 12, "bal": 10, "agi": 11, "nat": 11},
+      "hidden": {"cns": 12, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "ML",

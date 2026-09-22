@@ -4,6 +4,15 @@
   "last_name": "Gugganig",
   "birth_date": "1995-02-14",
   "country_id": 755,
+  "attrs": {
+    "person": {"ada": 10, "amb": 14, "loy": 12, "pre": 15, "pro": 15, "spo": 14, "tem": 18, "con": 6},
+    "player": {
+      "technical": {"cro": 9, "dri": 7, "fin": 6, "hea": 13, "lon": 11, "mar": 11, "pas": 12, "pen": 9, "tck": 13, "fir": 10, "tec": 11, "cor": 11, "lth": 8, "fre": 11},
+      "mental": {"otb": 7, "vis": 12, "ant": 13, "dec": 11, "pos": 12, "fla": 8, "tea": 15, "wor": 11, "ldr": 12, "bra": 12, "agg": 8, "det": 11, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 9, "str": 15, "sta": 13, "pac": 11, "jum": 15, "bal": 14, "agi": 8, "nat": 14},
+      "hidden": {"dir": 8, "cns": 10, "imp": 14, "inj": 3, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -4,6 +4,14 @@
   "last_name": "Ramadan",
   "birth_date": "1998-07-10",
   "country_id": 760,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 11, "hea": 7, "lon": 10, "mar": 9, "pas": 11, "tck": 9, "fir": 11, "tec": 11, "cor": 11, "lth": 7, "fre": 12},
+      "mental": {"otb": 12, "vis": 11, "ant": 11, "dec": 10, "pos": 11, "fla": 13, "tea": 13, "wor": 13, "ldr": 12, "bra": 11, "agg": 8, "det": 12, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 11, "str": 10, "sta": 11, "pac": 9, "jum": 7, "bal": 12, "agi": 12, "nat": 11},
+      "hidden": {"cns": 12, "inj": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

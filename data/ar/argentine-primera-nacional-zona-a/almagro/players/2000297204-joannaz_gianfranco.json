@@ -5,6 +5,12 @@
   "birth_date": "2004-03-23",
   "country_id": 1649,
   "club_id": 108514,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "hea": 12, "pas": 7},
+      "physical": {"acc": 12, "pac": 11, "jum": 10}
+    }
+  },
   "positions": [
     {
       "code": "DR",

@@ -5,6 +5,13 @@
   "birth_date": "2003-04-22",
   "country_id": 1435,
   "club_id": 15035999,
+  "attrs": {
+    "player": {
+      "technical": {"mar": 11, "tck": 13},
+      "mental": {"agg": 15},
+      "physical": {"str": 10, "jum": 13}
+    }
+  },
   "positions": [
     {
       "code": "DC",

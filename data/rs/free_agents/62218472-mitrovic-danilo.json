@@ -4,6 +4,15 @@
   "last_name": "Mitrović",
   "birth_date": "2001-03-23",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 13, "amb": 12, "loy": 12, "pre": 9, "pro": 11, "spo": 13, "tem": 12, "con": 11},
+    "player": {
+      "technical": {"cro": 7, "dri": 7, "fin": 7, "hea": 11, "lon": 10, "mar": 13, "pas": 9, "pen": 7, "tck": 12, "fir": 12, "tec": 9, "cor": 7, "lth": 11, "fre": 9},
+      "mental": {"otb": 7, "vis": 11, "ant": 12, "dec": 10, "pos": 13, "fla": 6, "tea": 13, "wor": 12, "ldr": 7, "bra": 14, "agg": 5, "det": 12, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 13, "str": 13, "sta": 12, "pac": 13, "jum": 10, "bal": 13, "agi": 13, "nat": 13},
+      "hidden": {"dir": 6, "cns": 11, "imp": 7, "inj": 8, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DR",

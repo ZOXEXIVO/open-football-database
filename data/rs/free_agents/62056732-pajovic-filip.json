@@ -4,6 +4,16 @@
   "last_name": "Pajović",
   "birth_date": "1993-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 10, "amb": 10, "loy": 12, "pre": 9, "pro": 11, "spo": 11, "tem": 10, "con": 9},
+    "player": {
+      "technical": {"dri": 3, "fin": 2, "hea": 2, "lon": 6, "mar": 6, "pas": 11, "tck": 7, "tec": 4, "lth": 8, "fre": 6},
+      "mental": {"vis": 4, "ant": 11, "dec": 9, "pos": 12, "tea": 11, "wor": 9, "ldr": 11, "bra": 11, "agg": 9, "det": 10, "cmp": 9, "cnt": 11},
+      "physical": {"acc": 11, "str": 11, "sta": 10, "pac": 9, "jum": 13, "bal": 8, "agi": 13, "nat": 11},
+      "goalkeeping": {"han": 12, "aer": 13, "cmd": 11, "com": 8, "kic": 11, "thr": 12, "one": 12, "ref": 12, "ecc": 10, "rus": 9, "pun": 11},
+      "hidden": {"dir": 8, "cns": 7, "imp": 11, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "GK",

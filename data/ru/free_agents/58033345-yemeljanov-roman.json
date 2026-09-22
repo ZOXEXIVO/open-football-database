@@ -4,6 +4,15 @@
   "last_name": "Yemeljanov",
   "birth_date": "1992-05-08",
   "country_id": 791,
+  "attrs": {
+    "person": {"loy": 13, "pro": 13, "tem": 11},
+    "player": {
+      "technical": {"cro": 7, "dri": 7, "fin": 6, "hea": 13, "lon": 10, "mar": 11, "pas": 11, "pen": 13, "tck": 10, "fir": 8, "tec": 9, "cor": 7, "lth": 8, "fre": 7},
+      "mental": {"otb": 8, "vis": 7, "ant": 12, "dec": 12, "pos": 11, "fla": 9, "tea": 9, "wor": 13, "ldr": 11, "bra": 10, "agg": 12, "det": 12, "cmp": 13, "cnt": 10},
+      "physical": {"acc": 7, "str": 13, "sta": 9, "pac": 9, "jum": 13, "bal": 10, "agi": 7, "nat": 10},
+      "hidden": {"dir": 13, "cns": 13, "inj": 14, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

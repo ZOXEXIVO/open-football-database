@@ -4,6 +4,16 @@
   "last_name": "Rodríguez",
   "birth_date": "1989-09-20",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 11, "amb": 8, "loy": 12, "pre": 11, "pro": 11, "spo": 14, "tem": 13, "con": 5},
+    "player": {
+      "technical": {"pas": 13, "fir": 12, "tec": 11},
+      "mental": {"otb": 5, "vis": 8, "ant": 13, "dec": 10, "pos": 12, "fla": 10, "tea": 12, "wor": 13, "ldr": 14, "bra": 14, "agg": 13, "det": 14, "cmp": 12, "cnt": 9},
+      "physical": {"acc": 10, "str": 12, "sta": 12, "pac": 12, "jum": 15, "bal": 9, "agi": 13, "nat": 13},
+      "goalkeeping": {"han": 12, "aer": 12, "cmd": 12, "com": 12, "kic": 15, "thr": 14, "one": 12, "ref": 13, "ecc": 5, "rus": 11, "pun": 12},
+      "hidden": {"dir": 5, "cns": 10, "imp": 13, "inj": 7}
+    }
+  },
   "positions": [
     {
       "code": "GK",

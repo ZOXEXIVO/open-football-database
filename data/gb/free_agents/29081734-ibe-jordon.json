@@ -4,6 +4,15 @@
   "last_name": "Ibe",
   "birth_date": "1995-12-08",
   "country_id": 765,
+  "attrs": {
+    "person": {"ada": 13, "amb": 7, "loy": 10, "pre": 6, "pro": 6, "spo": 13, "tem": 10, "con": 15},
+    "player": {
+      "technical": {"cro": 11, "dri": 13, "fin": 9, "hea": 6, "lon": 9, "mar": 6, "pas": 11, "pen": 8, "tck": 7, "fir": 12, "tec": 14, "cor": 9, "lth": 3, "fre": 5},
+      "mental": {"otb": 12, "vis": 13, "ant": 10, "dec": 8, "pos": 6, "fla": 14, "tea": 7, "wor": 6, "ldr": 4, "bra": 5, "agg": 9, "det": 7, "cmp": 12, "cnt": 9},
+      "physical": {"acc": 11, "str": 9, "sta": 7, "pac": 10, "jum": 8, "bal": 10, "agi": 9, "nat": 5},
+      "hidden": {"dir": 4, "cns": 6, "imp": 8, "inj": 20, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

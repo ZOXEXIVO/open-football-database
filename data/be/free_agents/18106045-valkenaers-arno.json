@@ -4,6 +4,14 @@
   "last_name": "Valkenaers",
   "birth_date": "2000-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 9, "fir": 9, "tec": 9},
+      "mental": {"tea": 10, "bra": 12},
+      "goalkeeping": {"ref": 13},
+      "hidden": {"cns": 15}
+    }
+  },
   "positions": [
     {
       "code": "GK",

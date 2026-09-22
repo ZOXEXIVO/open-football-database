@@ -5,6 +5,12 @@
   "birth_date": "2005-12-05",
   "country_id": 769,
   "club_id": 884,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 12},
+      "physical": {"jum": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

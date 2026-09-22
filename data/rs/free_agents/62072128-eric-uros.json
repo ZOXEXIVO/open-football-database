@@ -4,6 +4,15 @@
   "last_name": "Đerić",
   "birth_date": "1992-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 9, "amb": 11, "loy": 9, "pre": 12, "pro": 10, "spo": 10, "tem": 9, "con": 14},
+    "player": {
+      "technical": {"cro": 5, "dri": 8, "fin": 11, "hea": 13, "lon": 12, "mar": 5, "pas": 9, "pen": 12, "tck": 3, "fir": 10, "tec": 11, "cor": 3, "lth": 7, "fre": 10},
+      "mental": {"otb": 12, "vis": 11, "ant": 11, "dec": 10, "pos": 6, "fla": 8, "tea": 9, "wor": 8, "ldr": 5, "bra": 12, "agg": 10, "det": 11, "cmp": 13, "cnt": 11},
+      "physical": {"acc": 11, "str": 15, "sta": 6, "pac": 11, "jum": 16, "bal": 16, "agi": 11, "nat": 12},
+      "hidden": {"dir": 10, "cns": 13, "imp": 12, "inj": 9, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "ST",

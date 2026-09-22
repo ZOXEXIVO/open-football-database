@@ -4,6 +4,13 @@
   "last_name": "Stella",
   "birth_date": "2000-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"amb": 4},
+    "player": {
+      "technical": {"fin": 11},
+      "physical": {"jum": 7}
+    }
+  },
   "positions": [
     {
       "code": "MC",

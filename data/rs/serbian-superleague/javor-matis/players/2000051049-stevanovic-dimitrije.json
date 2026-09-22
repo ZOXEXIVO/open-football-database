@@ -5,6 +5,12 @@
   "birth_date": "2004-08-27",
   "country_id": 802,
   "club_id": 5742987,
+  "attrs": {
+    "player": {
+      "mental": {"dec": 10, "bra": 10, "cnt": 11},
+      "goalkeeping": {"han": 12, "aer": 11, "cmd": 12, "com": 11, "thr": 10, "one": 13, "ref": 12, "pun": 10}
+    }
+  },
   "positions": [
     {
       "code": "GK",

@@ -4,6 +4,13 @@
   "last_name": "Maasland",
   "birth_date": "2005-02-19",
   "country_id": 784,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "hea": 12, "mar": 5, "tck": 6, "fir": 11, "cor": 14},
+      "mental": {"pos": 5, "fla": 12, "ldr": 5, "bra": 10},
+      "physical": {"acc": 13, "str": 7, "pac": 12, "jum": 12, "bal": 10, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

@@ -5,6 +5,14 @@
   "birth_date": "2007-10-15",
   "country_id": 765,
   "club_id": 628,
+  "attrs": {
+    "person": {"tem": 7},
+    "player": {
+      "technical": {"cro": 8, "dri": 8, "fin": 8, "tck": 6, "fir": 8, "tec": 8},
+      "mental": {"otb": 8, "ant": 6, "dec": 6, "fla": 8, "tea": 12, "wor": 12, "bra": 9, "agg": 12, "cmp": 8},
+      "physical": {"acc": 12, "str": 12, "sta": 10, "pac": 13, "jum": 11, "bal": 9, "agi": 10}
+    }
+  },
   "positions": [
     {
       "code": "AML",

@@ -4,6 +4,13 @@
   "last_name": "Földi",
   "birth_date": "2004-06-27",
   "country_id": 773,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 12, "fin": 10, "hea": 5, "pas": 10, "tck": 4, "tec": 12},
+      "mental": {"dec": 8},
+      "physical": {"acc": 12, "str": 4, "pac": 12, "agi": 10}
+    }
+  },
   "positions": [
     {
       "code": "AML",

@@ -4,6 +4,13 @@
   "last_name": "",
   "birth_date": "1998-01-01",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 11, "fin": 10, "fir": 9, "tec": 9},
+      "mental": {"otb": 11, "pos": 7},
+      "physical": {"acc": 12, "str": 7, "pac": 11, "bal": 8, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "MC",

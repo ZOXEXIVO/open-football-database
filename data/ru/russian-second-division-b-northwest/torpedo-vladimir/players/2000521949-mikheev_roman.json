@@ -5,6 +5,12 @@
   "birth_date": "2005-02-09",
   "country_id": 791,
   "club_id": 477429,
+  "attrs": {
+    "player": {
+      "mental": {"cnt": 9},
+      "goalkeeping": {"kic": 7, "ref": 10}
+    }
+  },
   "positions": [
     {
       "code": "GK",

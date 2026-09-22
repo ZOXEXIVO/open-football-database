@@ -5,6 +5,12 @@
   "birth_date": "2005-09-12",
   "country_id": 791,
   "club_id": 58014340,
+  "attrs": {
+    "person": {"pro": 2, "spo": 2},
+    "player": {
+      "mental": {"det": 2}
+    }
+  },
   "positions": [
     {
       "code": "MC",

@@ -5,6 +5,14 @@
   "birth_date": "2004-07-24",
   "country_id": 791,
   "club_id": 1529,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 9, "fin": 7, "hea": 12, "lon": 10, "pas": 10, "pen": 10, "tck": 11, "tec": 9, "cor": 10, "fre": 10},
+      "mental": {"otb": 10, "vis": 9, "ant": 9, "dec": 10, "pos": 8, "fla": 8, "tea": 14, "wor": 14, "bra": 12, "agg": 13, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 15, "str": 9, "sta": 13, "pac": 16, "jum": 10, "bal": 10, "agi": 11},
+      "hidden": {"cns": 13}
+    }
+  },
   "positions": [
     {
       "code": "WBL",

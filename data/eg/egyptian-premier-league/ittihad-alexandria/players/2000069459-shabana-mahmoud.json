@@ -5,6 +5,12 @@
   "birth_date": "1995-04-06",
   "country_id": 16,
   "club_id": 529014,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 12, "pen": 10},
+      "physical": {"jum": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

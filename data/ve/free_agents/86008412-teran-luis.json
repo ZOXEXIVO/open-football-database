@@ -4,6 +4,14 @@
   "last_name": "Terán",
   "birth_date": "1993-08-14",
   "country_id": 1658,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 8, "pas": 8, "fir": 9, "tec": 9},
+      "mental": {"vis": 10, "ant": 12, "dec": 10, "pos": 10, "tea": 12, "wor": 10, "ldr": 11, "bra": 13, "agg": 10, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 12, "str": 10, "sta": 10, "pac": 10, "jum": 10, "bal": 11, "agi": 13},
+      "goalkeeping": {"han": 11, "aer": 11, "cmd": 13, "com": 10, "kic": 10, "thr": 9, "one": 11, "ref": 11, "ecc": 4, "rus": 13, "pun": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

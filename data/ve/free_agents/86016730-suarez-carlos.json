@@ -4,6 +4,15 @@
   "last_name": "Suárez",
   "birth_date": "1992-04-26",
   "country_id": 1658,
+  "attrs": {
+    "person": {"loy": 12, "pre": 12, "pro": 10, "spo": 11},
+    "player": {
+      "technical": {"cro": 10, "dri": 10, "fin": 7, "hea": 7, "lon": 11, "mar": 10, "pas": 11, "pen": 4, "tck": 11, "fir": 11, "tec": 12, "cor": 7, "lth": 8, "fre": 12},
+      "mental": {"otb": 10, "vis": 10, "ant": 12, "dec": 12, "pos": 12, "fla": 7, "tea": 13, "wor": 11, "ldr": 13, "bra": 13, "agg": 12, "det": 11, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 11, "str": 12, "sta": 11, "pac": 10, "jum": 6, "bal": 13, "agi": 12, "nat": 14},
+      "hidden": {"dir": 7, "cns": 10, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

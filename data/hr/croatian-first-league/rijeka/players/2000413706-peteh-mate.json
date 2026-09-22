@@ -5,6 +5,13 @@
   "birth_date": "2008-07-04",
   "country_id": 761,
   "club_id": 441,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 9, "fin": 5, "lon": 5, "mar": 7, "pas": 9, "tck": 8, "tec": 8, "lth": 11},
+      "mental": {"fla": 7, "wor": 9, "bra": 9, "agg": 7},
+      "physical": {"acc": 9, "str": 9, "pac": 11, "jum": 10, "bal": 9, "agi": 8}
+    }
+  },
   "positions": [
     {
       "code": "DL",

@@ -4,6 +4,14 @@
   "last_name": "Smirnov",
   "birth_date": "2002-04-02",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 8, "hea": 6, "mar": 8, "pas": 8, "tck": 9, "fir": 8, "tec": 8, "lth": 6},
+      "mental": {"otb": 9, "vis": 7, "ant": 10, "dec": 8, "pos": 10, "fla": 6, "tea": 9, "wor": 12, "bra": 11, "cmp": 9, "cnt": 10},
+      "physical": {"acc": 12, "str": 8, "sta": 10, "pac": 10, "jum": 8, "bal": 10, "agi": 11},
+      "hidden": {"cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "DR",

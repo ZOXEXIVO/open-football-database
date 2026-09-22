@@ -4,6 +4,15 @@
   "last_name": "Salazar",
   "birth_date": "1999-01-01",
   "country_id": 1652,
+  "attrs": {
+    "person": {"tem": 7},
+    "player": {
+      "technical": {"cro": 8, "dri": 12, "fin": 11, "hea": 11, "lon": 8, "mar": 5, "pas": 10, "pen": 9, "tck": 5, "fir": 10, "tec": 12, "cor": 5, "lth": 6, "fre": 5},
+      "mental": {"otb": 12, "vis": 10, "ant": 11, "dec": 10, "pos": 6, "fla": 13, "tea": 12, "wor": 10, "ldr": 8, "bra": 9, "agg": 8, "cmp": 11, "cnt": 8},
+      "physical": {"acc": 11, "str": 10, "sta": 11, "pac": 12, "jum": 12, "bal": 11, "agi": 12, "nat": 13},
+      "hidden": {"dir": 9, "cns": 7, "inj": 8, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "ST",

@@ -4,6 +4,15 @@
   "last_name": "Bukta",
   "birth_date": "2001-07-25",
   "country_id": 773,
+  "attrs": {
+    "person": {"ada": 12, "amb": 11, "loy": 13, "pre": 11, "pro": 12, "spo": 12, "tem": 14, "con": 9},
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 5, "hea": 6, "lon": 9, "mar": 11, "pas": 10, "tck": 9, "fir": 10, "tec": 11, "cor": 7},
+      "mental": {"otb": 11, "vis": 11, "ant": 10, "dec": 7, "pos": 8, "fla": 13, "tea": 13, "wor": 11, "ldr": 7, "bra": 11, "agg": 11, "det": 11, "cmp": 8, "cnt": 7},
+      "physical": {"acc": 14, "str": 10, "sta": 12, "pac": 14, "jum": 9, "bal": 9, "agi": 11, "nat": 11},
+      "hidden": {"dir": 9, "cns": 10, "imp": 8, "inj": 10, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

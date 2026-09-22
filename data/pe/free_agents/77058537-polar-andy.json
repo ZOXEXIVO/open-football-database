@@ -4,6 +4,15 @@
   "last_name": "Polar",
   "birth_date": "1997-01-01",
   "country_id": 1656,
+  "attrs": {
+    "person": {"ada": 9, "amb": 9, "loy": 7, "pre": 9, "pro": 8, "spo": 7, "tem": 7, "con": 5},
+    "player": {
+      "technical": {"cro": 14, "dri": 15, "fin": 9, "hea": 7, "lon": 15, "mar": 7, "pas": 14, "pen": 14, "tck": 7, "fir": 14, "tec": 13, "cor": 15, "lth": 7, "fre": 14},
+      "mental": {"otb": 13, "vis": 13, "ant": 11, "dec": 12, "pos": 7, "fla": 14, "tea": 11, "wor": 11, "ldr": 8, "bra": 8, "agg": 6, "det": 8, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 13, "str": 7, "sta": 12, "pac": 13, "jum": 7, "bal": 7, "agi": 12, "nat": 8},
+      "hidden": {"dir": 5, "cns": 13, "imp": 10, "inj": 8, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

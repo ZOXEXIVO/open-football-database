@@ -5,6 +5,14 @@
   "birth_date": "2002-01-13",
   "country_id": 791,
   "club_id": 1523,
+  "attrs": {
+    "player": {
+      "technical": {"pen": 10},
+      "mental": {"agg": 14, "cmp": 10},
+      "physical": {"str": 10, "jum": 12},
+      "hidden": {"cns": 15}
+    }
+  },
   "positions": [
     {
       "code": "DM",

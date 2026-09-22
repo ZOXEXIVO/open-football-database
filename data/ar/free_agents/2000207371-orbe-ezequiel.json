@@ -4,6 +4,13 @@
   "last_name": "Orbe",
   "birth_date": "2005-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 13, "dri": 12, "mar": 11, "tck": 12, "tec": 11},
+      "mental": {"pos": 9, "agg": 9},
+      "physical": {"acc": 12, "str": 8, "pac": 11}
+    }
+  },
   "positions": [
     {
       "code": "DR",

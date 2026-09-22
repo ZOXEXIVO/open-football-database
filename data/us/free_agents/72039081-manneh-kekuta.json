@@ -4,6 +4,16 @@
   "last_name": "Manneh",
   "birth_date": "1995-01-01",
   "country_id": 390,
+  "attrs": {
+    "person": {"ada": 13, "amb": 14, "loy": 8, "pre": 7, "pro": 10, "spo": 11, "tem": 10, "con": 10},
+    "player": {
+      "technical": {"cro": 9, "dri": 10, "fin": 10, "hea": 6, "lon": 8, "mar": 6, "pas": 10, "pen": 9, "tck": 4, "fir": 9, "tec": 10, "cor": 6, "lth": 4, "fre": 6},
+      "mental": {"otb": 10, "vis": 9, "ant": 7, "dec": 7, "pos": 6, "fla": 14, "tea": 8, "wor": 11, "ldr": 4, "bra": 9, "agg": 7, "det": 7, "cmp": 7, "cnt": 7},
+      "physical": {"acc": 16, "str": 8, "sta": 10, "pac": 14, "jum": 6, "bal": 10, "agi": 13, "nat": 14},
+      "goalkeeping": {"han": 1, "aer": 1, "cmd": 1, "com": 1, "kic": 1, "thr": 1, "one": 1, "ref": 1, "ecc": 1, "rus": 1, "pun": 1},
+      "hidden": {"dir": 6, "cns": 9, "imp": 16, "inj": 12, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

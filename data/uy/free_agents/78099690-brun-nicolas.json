@@ -4,6 +4,15 @@
   "last_name": "Brun",
   "birth_date": "1999-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"amb": 6, "loy": 3},
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 7, "lon": 8, "mar": 9, "pas": 10, "tck": 6, "fir": 11, "tec": 12, "cor": 13},
+      "mental": {"otb": 12, "vis": 10, "ant": 10, "dec": 7, "pos": 10, "fla": 11, "tea": 13, "wor": 12, "ldr": 11, "bra": 10, "cmp": 6, "cnt": 9},
+      "physical": {"acc": 14, "str": 6, "sta": 12, "pac": 13, "jum": 8, "bal": 9, "agi": 12},
+      "hidden": {"cns": 7, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "ML",

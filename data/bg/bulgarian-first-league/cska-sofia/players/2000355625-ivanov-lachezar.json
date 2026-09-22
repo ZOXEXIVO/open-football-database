@@ -5,6 +5,12 @@
   "birth_date": "2005-06-02",
   "country_id": 760,
   "club_id": 22069955,
+  "attrs": {
+    "player": {
+      "mental": {"agg": 8},
+      "physical": {"jum": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

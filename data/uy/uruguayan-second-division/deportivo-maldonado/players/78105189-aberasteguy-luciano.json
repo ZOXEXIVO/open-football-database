@@ -5,6 +5,12 @@
   "birth_date": "2003-05-26",
   "country_id": 1657,
   "club_id": 116309,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10},
+      "physical": {"acc": 13, "jum": 8, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

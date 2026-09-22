@@ -5,6 +5,15 @@
   "birth_date": "2003-03-29",
   "country_id": 1649,
   "club_id": 3100018,
+  "attrs": {
+    "person": {"pro": 5},
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 10, "lon": 9, "pas": 12, "fir": 12, "tec": 13},
+      "mental": {"dec": 8, "fla": 13, "cnt": 7},
+      "physical": {"acc": 13, "str": 6, "pac": 14, "bal": 8, "agi": 13, "nat": 4},
+      "hidden": {"cns": 8}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

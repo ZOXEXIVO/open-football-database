@@ -5,6 +5,15 @@
   "birth_date": "2007-07-23",
   "country_id": 1657,
   "club_id": 130849,
+  "attrs": {
+    "person": {"amb": 14, "loy": 4, "pro": 4, "spo": 5, "tem": 5, "con": 14},
+    "player": {
+      "technical": {"dri": 11, "tec": 13},
+      "mental": {"fla": 12, "wor": 13, "bra": 9},
+      "physical": {"acc": 15, "str": 6, "pac": 15},
+      "hidden": {"ver": 4}
+    }
+  },
   "positions": [
     {
       "code": "AML",

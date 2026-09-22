@@ -5,6 +5,12 @@
   "birth_date": "1993-08-30",
   "country_id": 1657,
   "club_id": 1301557,
+  "attrs": {
+    "player": {
+      "technical": {"pen": 11},
+      "goalkeeping": {"aer": 14, "kic": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

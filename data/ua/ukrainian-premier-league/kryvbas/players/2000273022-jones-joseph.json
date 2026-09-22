@@ -5,6 +5,14 @@
   "birth_date": "2005-07-30",
   "country_id": 382,
   "club_id": 2000028043,
+  "attrs": {
+    "person": {"ada": 13},
+    "player": {
+      "technical": {"hea": 12, "lon": 11},
+      "mental": {"cnt": 12},
+      "physical": {"acc": 12, "str": 12, "sta": 12, "pac": 12, "jum": 12, "bal": 12, "agi": 12, "nat": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

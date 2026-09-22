@@ -5,6 +5,13 @@
   "birth_date": "2004-03-09",
   "country_id": 45,
   "club_id": 2000034502,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 13, "fin": 10, "fir": 11},
+      "mental": {"otb": 13, "fla": 16},
+      "physical": {"acc": 15, "str": 9, "sta": 9, "pac": 14, "bal": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

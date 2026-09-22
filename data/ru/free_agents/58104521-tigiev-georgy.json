@@ -4,6 +4,15 @@
   "last_name": "Tigiev",
   "birth_date": "1995-01-01",
   "country_id": 791,
+  "attrs": {
+    "person": {"amb": 16},
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 6, "hea": 9, "lon": 7, "mar": 9, "pas": 11, "pen": 10, "tck": 9, "fir": 12, "tec": 10, "cor": 7, "lth": 13, "fre": 7},
+      "mental": {"otb": 7, "vis": 7, "ant": 11, "dec": 10, "pos": 10, "fla": 5, "tea": 12, "wor": 14, "ldr": 11, "bra": 13, "agg": 12, "cmp": 8, "cnt": 9},
+      "physical": {"acc": 14, "str": 10, "sta": 14, "pac": 14, "jum": 8, "bal": 13, "agi": 13, "nat": 13},
+      "hidden": {"dir": 8, "cns": 11, "imp": 9, "inj": 6, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DR",

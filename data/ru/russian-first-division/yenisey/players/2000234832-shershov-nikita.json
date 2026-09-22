@@ -5,6 +5,14 @@
   "birth_date": "2004-06-26",
   "country_id": 791,
   "club_id": 58066512,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "lon": 10, "tck": 6, "lth": 6},
+      "mental": {"otb": 11, "pos": 7, "tea": 11, "ldr": 10},
+      "physical": {"acc": 10, "str": 8, "sta": 11, "pac": 11, "jum": 8, "bal": 12},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

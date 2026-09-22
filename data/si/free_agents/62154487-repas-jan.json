@@ -4,6 +4,15 @@
   "last_name": "Repas",
   "birth_date": "1997-03-19",
   "country_id": 795,
+  "attrs": {
+    "person": {"ada": 10, "amb": 13, "loy": 14, "pre": 12, "pro": 10, "spo": 12, "tem": 12, "con": 9},
+    "player": {
+      "technical": {"cro": 10, "dri": 13, "fin": 11, "hea": 6, "lon": 11, "mar": 8, "pas": 14, "pen": 13, "tck": 8, "fir": 13, "tec": 13, "cor": 10, "lth": 8, "fre": 10},
+      "mental": {"otb": 12, "vis": 15, "ant": 10, "dec": 11, "pos": 11, "fla": 15, "tea": 14, "wor": 13, "ldr": 14, "bra": 10, "agg": 12, "det": 11, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 13, "str": 10, "sta": 12, "pac": 13, "jum": 7, "bal": 11, "agi": 11, "nat": 9},
+      "hidden": {"dir": 12, "cns": 13, "imp": 12, "inj": 12, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "MC",

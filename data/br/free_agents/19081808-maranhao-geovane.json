@@ -4,6 +4,14 @@
   "last_name": "Maranhão",
   "birth_date": "1989-01-01",
   "country_id": 1651,
+  "attrs": {
+    "person": {"pro": 13, "spo": 7},
+    "player": {
+      "technical": {"fin": 11},
+      "mental": {"otb": 11, "pos": 5, "fla": 12, "wor": 11, "agg": 12, "det": 14, "cmp": 10},
+      "physical": {"acc": 14, "str": 8, "sta": 13, "pac": 14, "jum": 6, "bal": 5, "agi": 14}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

@@ -4,6 +4,15 @@
   "last_name": "Sakhi",
   "birth_date": "1996-06-07",
   "country_id": 34,
+  "attrs": {
+    "person": {"ada": 8, "amb": 12, "loy": 13, "pre": 10, "pro": 12},
+    "player": {
+      "technical": {"cro": 12, "dri": 15, "fin": 11, "hea": 6, "lon": 12, "mar": 7, "pas": 15, "pen": 12, "tck": 8, "fir": 14, "tec": 15, "cor": 13, "lth": 5, "fre": 13},
+      "mental": {"otb": 13, "vis": 13, "ant": 12, "dec": 12, "pos": 11, "fla": 15, "tea": 14, "wor": 12, "ldr": 8, "bra": 12, "agg": 10, "det": 10, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 13, "str": 9, "sta": 13, "pac": 13, "jum": 7, "bal": 12, "agi": 15, "nat": 12},
+      "hidden": {"dir": 6, "cns": 12, "imp": 12, "inj": 10, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "MC",

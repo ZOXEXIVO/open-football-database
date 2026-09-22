@@ -5,6 +5,12 @@
   "birth_date": "2002-02-22",
   "country_id": 1657,
   "club_id": 5512562,
+  "attrs": {
+    "player": {
+      "mental": {"tea": 13, "bra": 12},
+      "physical": {"acc": 10, "jum": 12, "agi": 8}
+    }
+  },
   "positions": [
     {
       "code": "DC",

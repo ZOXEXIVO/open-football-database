@@ -4,6 +4,14 @@
   "last_name": "Pastushkov",
   "birth_date": "2006-01-01",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 6, "fin": 7, "hea": 8, "lon": 9, "mar": 7, "pas": 10, "tck": 7, "fir": 12, "tec": 11, "cor": 7, "fre": 7},
+      "mental": {"otb": 9, "vis": 8, "ant": 8, "dec": 8, "pos": 6, "tea": 9, "wor": 7, "bra": 9, "cmp": 7, "cnt": 7},
+      "physical": {"acc": 10, "str": 9, "sta": 9, "pac": 10, "jum": 10, "bal": 9, "agi": 10},
+      "hidden": {"cns": 14, "imp": 11}
+    }
+  },
   "positions": [
     {
       "code": "MR",

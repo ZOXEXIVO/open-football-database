@@ -4,6 +4,15 @@
   "last_name": "Pálfi",
   "birth_date": "2000-03-08",
   "country_id": 773,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 11, "tec": 9},
+      "mental": {"ant": 12, "dec": 10, "pos": 10, "bra": 12, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 8, "str": 10, "pac": 7, "jum": 14, "agi": 11},
+      "goalkeeping": {"han": 12, "aer": 14, "cmd": 13, "com": 11, "kic": 8, "thr": 11, "one": 10, "ref": 12, "rus": 10},
+      "hidden": {"cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "GK",

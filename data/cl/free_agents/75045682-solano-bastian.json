@@ -4,6 +4,14 @@
   "last_name": "Solano",
   "birth_date": "1999-01-01",
   "country_id": 1652,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 8, "fin": 5, "hea": 12, "lon": 6, "mar": 12, "pas": 9, "pen": 5, "tck": 12, "fir": 9, "tec": 8, "cor": 4, "lth": 7, "fre": 4},
+      "mental": {"otb": 5, "vis": 6, "ant": 11, "dec": 10, "pos": 12, "fla": 7, "tea": 11, "wor": 13, "ldr": 9, "bra": 13, "agg": 13, "det": 10, "cmp": 7, "cnt": 9},
+      "physical": {"acc": 9, "str": 13, "sta": 11, "pac": 10, "jum": 13, "bal": 13, "agi": 11, "nat": 12},
+      "hidden": {"dir": 14, "cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

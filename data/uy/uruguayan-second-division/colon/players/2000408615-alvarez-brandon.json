@@ -5,6 +5,14 @@
   "birth_date": "2006-11-12",
   "country_id": 1657,
   "club_id": 5512562,
+  "attrs": {
+    "person": {"loy": 7, "tem": 3},
+    "player": {
+      "technical": {"dri": 12, "fir": 11, "tec": 11},
+      "mental": {"tea": 7},
+      "physical": {"acc": 9, "str": 6, "pac": 9, "agi": 10}
+    }
+  },
   "positions": [
     {
       "code": "AML",

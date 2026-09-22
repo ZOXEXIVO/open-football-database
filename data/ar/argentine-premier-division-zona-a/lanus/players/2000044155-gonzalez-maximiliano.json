@@ -5,6 +5,14 @@
   "birth_date": "2004-05-04",
   "country_id": 1649,
   "club_id": 90,
+  "attrs": {
+    "person": {"ada": 6, "pro": 7, "tem": 14},
+    "player": {
+      "technical": {"dri": 10, "fin": 9, "hea": 10, "mar": 13, "pas": 12, "tck": 14, "fir": 13, "tec": 12},
+      "mental": {"otb": 9, "vis": 12, "ant": 12, "dec": 13, "pos": 13, "fla": 11, "tea": 15, "wor": 12, "bra": 13, "agg": 14, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 12, "str": 9, "sta": 13, "pac": 11, "jum": 10, "bal": 12, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

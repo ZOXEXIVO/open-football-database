@@ -4,6 +4,15 @@
   "last_name": "Riveros",
   "birth_date": "1990-01-01",
   "country_id": 1655,
+  "attrs": {
+    "person": {"pre": 9},
+    "player": {
+      "technical": {"cro": 7, "dri": 6, "fin": 5, "hea": 11, "lon": 7, "mar": 13, "pas": 8, "tck": 11, "tec": 9},
+      "mental": {"otb": 7, "vis": 7, "ant": 11, "dec": 8, "pos": 11, "tea": 12, "wor": 12, "bra": 10, "agg": 11, "cmp": 10},
+      "physical": {"acc": 11, "str": 11, "pac": 11, "jum": 11, "bal": 9, "agi": 12},
+      "hidden": {"cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "DC",

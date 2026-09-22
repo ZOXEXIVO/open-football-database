@@ -4,6 +4,13 @@
   "last_name": "Leban",
   "birth_date": "1999-01-01",
   "country_id": 795,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "fin": 11, "tec": 11, "cor": 11},
+      "mental": {"dec": 12, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 12, "str": 10, "sta": 11, "pac": 12, "agi": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

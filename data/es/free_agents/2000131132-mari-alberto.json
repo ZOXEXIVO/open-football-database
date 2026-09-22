@@ -4,6 +4,15 @@
   "last_name": "Marí",
   "birth_date": "2001-07-11",
   "country_id": 796,
+  "attrs": {
+    "person": {"ada": 11, "amb": 12, "loy": 12, "pre": 13, "pro": 18, "spo": 15, "tem": 12, "con": 8},
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 13, "hea": 13, "lon": 10, "mar": 6, "pas": 12, "pen": 12, "tck": 6, "fir": 13, "tec": 11, "cor": 9, "lth": 9, "fre": 9},
+      "mental": {"otb": 12, "vis": 11, "ant": 13, "dec": 11, "pos": 8, "fla": 10, "tea": 13, "wor": 14, "ldr": 10, "bra": 13, "agg": 12, "det": 12, "cmp": 12, "cnt": 13},
+      "physical": {"acc": 12, "str": 12, "sta": 11, "pac": 12, "jum": 13, "bal": 11, "agi": 13, "nat": 12},
+      "hidden": {"dir": 8, "cns": 12, "imp": 12, "inj": 12, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "ST",

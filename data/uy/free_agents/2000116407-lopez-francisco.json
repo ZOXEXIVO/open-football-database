@@ -4,6 +4,12 @@
   "last_name": "López",
   "birth_date": "2001-09-11",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 12, "amb": 6},
+    "player": {
+      "physical": {"jum": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

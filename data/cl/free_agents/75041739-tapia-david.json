@@ -4,6 +4,14 @@
   "last_name": "Tapia",
   "birth_date": "1998-01-01",
   "country_id": 1652,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 9, "fin": 5, "hea": 9, "lon": 6, "mar": 11, "pas": 11, "pen": 6, "tck": 11, "fir": 10, "tec": 9, "cor": 7, "lth": 8, "fre": 5},
+      "mental": {"otb": 9, "vis": 10, "ant": 12, "dec": 9, "pos": 11, "fla": 8, "tea": 13, "wor": 12, "ldr": 9, "bra": 11, "agg": 10, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 12, "str": 8, "sta": 10, "pac": 11, "jum": 7, "bal": 9, "agi": 11, "nat": 10},
+      "hidden": {"dir": 9, "inj": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

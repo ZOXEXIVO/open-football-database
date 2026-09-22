@@ -4,6 +4,14 @@
   "last_name": "Verburgh",
   "birth_date": "1998-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 8, "hea": 10, "mar": 11, "pas": 11, "tck": 12, "fir": 10, "tec": 11},
+      "mental": {"otb": 10, "vis": 8, "ant": 12, "dec": 12, "pos": 11, "tea": 12, "wor": 12, "ldr": 8, "bra": 8, "cmp": 11, "cnt": 13},
+      "physical": {"acc": 11, "str": 7, "sta": 11, "pac": 12, "jum": 12, "bal": 11, "agi": 10},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

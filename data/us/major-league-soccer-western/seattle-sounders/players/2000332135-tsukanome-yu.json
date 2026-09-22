@@ -5,6 +5,14 @@
   "birth_date": "2000-12-21",
   "country_id": 116,
   "club_id": 72014006,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 12},
+      "mental": {"dec": 7, "wor": 14, "agg": 13},
+      "physical": {"str": 11, "jum": 8, "bal": 13},
+      "hidden": {"ver": 16}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

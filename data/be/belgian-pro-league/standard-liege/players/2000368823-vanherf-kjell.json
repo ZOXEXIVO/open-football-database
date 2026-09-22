@@ -5,6 +5,12 @@
   "birth_date": "2008-02-22",
   "country_id": 757,
   "club_id": 250,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 8, "pen": 7},
+      "physical": {"agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "DR",

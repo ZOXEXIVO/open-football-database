@@ -5,6 +5,14 @@
   "birth_date": "2001-09-18",
   "country_id": 769,
   "club_id": 2069,
+  "attrs": {
+    "person": {"ada": 6, "amb": 8},
+    "player": {
+      "mental": {"det": 8},
+      "physical": {"str": 10, "jum": 8, "agi": 12},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "DR",

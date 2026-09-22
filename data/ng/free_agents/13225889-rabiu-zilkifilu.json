@@ -4,6 +4,15 @@
   "last_name": "Rabiu",
   "birth_date": "2002-01-01",
   "country_id": 38,
+  "attrs": {
+    "person": {"ada": 13, "amb": 15, "loy": 9, "pre": 10, "pro": 12, "spo": 13, "tem": 12, "con": 8},
+    "player": {
+      "technical": {"cro": 8, "dri": 9, "fin": 7, "hea": 12, "lon": 8, "mar": 9, "pas": 10, "pen": 6, "tck": 7, "fir": 10, "tec": 11, "cor": 7, "lth": 7, "fre": 6},
+      "mental": {"otb": 11, "vis": 10, "ant": 12, "dec": 10, "pos": 7, "fla": 6, "tea": 9, "wor": 8, "ldr": 8, "bra": 11, "agg": 8, "det": 13, "cmp": 10, "cnt": 8},
+      "physical": {"acc": 12, "str": 13, "sta": 13, "pac": 13, "jum": 13, "bal": 13, "agi": 10, "nat": 11},
+      "hidden": {"dir": 4, "cns": 12, "imp": 8, "inj": 7, "ver": 4}
+    }
+  },
   "positions": [
     {
       "code": "DM",

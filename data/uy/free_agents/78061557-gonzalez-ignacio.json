@@ -4,6 +4,15 @@
   "last_name": "González",
   "birth_date": "1993-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 6, "amb": 1, "pre": 9, "spo": 9, "tem": 8, "con": 9},
+    "player": {
+      "technical": {"cro": 13, "dri": 14, "fin": 11, "hea": 6, "lon": 12, "mar": 9, "pas": 13, "pen": 11, "tck": 8, "fir": 13, "tec": 13, "cor": 12, "fre": 13},
+      "mental": {"otb": 10, "vis": 12, "ant": 9, "dec": 10, "pos": 9, "fla": 13, "tea": 10, "wor": 7, "ldr": 10, "bra": 9, "agg": 13, "det": 8, "cmp": 8, "cnt": 6},
+      "physical": {"acc": 12, "str": 8, "sta": 10, "pac": 10, "jum": 6, "bal": 8, "agi": 12, "nat": 10},
+      "hidden": {"dir": 15, "cns": 6, "imp": 10, "inj": 11, "ver": 16}
+    }
+  },
   "positions": [
     {
       "code": "MC",

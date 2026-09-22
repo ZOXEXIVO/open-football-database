@@ -4,6 +4,15 @@
   "last_name": "Ben-Shimon",
   "birth_date": "1994-01-01",
   "country_id": 775,
+  "attrs": {
+    "person": {"amb": 12, "pre": 7},
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 10, "hea": 13, "lon": 9, "mar": 9, "pas": 10, "pen": 10, "tck": 11, "fir": 13, "tec": 12, "cor": 12, "lth": 12, "fre": 10},
+      "mental": {"otb": 12, "vis": 7, "ant": 11, "dec": 10, "pos": 9, "fla": 11, "tea": 14, "wor": 13, "ldr": 4, "bra": 7, "agg": 12, "det": 8, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 10, "str": 10, "sta": 11, "pac": 10, "jum": 10, "bal": 13, "agi": 11, "nat": 12},
+      "hidden": {"dir": 6, "cns": 10, "imp": 11, "inj": 9, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DL",

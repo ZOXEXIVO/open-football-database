@@ -4,6 +4,15 @@
   "last_name": "Miranda",
   "birth_date": "1991-03-30",
   "country_id": 788,
+  "attrs": {
+    "person": {"ada": 11, "amb": 13, "loy": 14, "pre": 14, "pro": 12, "spo": 13, "tem": 13, "con": 9},
+    "player": {
+      "technical": {"cro": 7, "dri": 10, "fin": 7, "hea": 11, "lon": 11, "mar": 12, "pas": 12, "pen": 10, "tck": 12, "fir": 11, "tec": 13, "cor": 5, "lth": 9, "fre": 9},
+      "mental": {"otb": 8, "vis": 12, "ant": 12, "dec": 11, "pos": 12, "fla": 8, "tea": 11, "wor": 11, "ldr": 13, "bra": 11, "agg": 13, "det": 13, "cmp": 10, "cnt": 7},
+      "physical": {"acc": 8, "str": 14, "sta": 14, "pac": 12, "jum": 14, "bal": 13, "agi": 10, "nat": 15},
+      "hidden": {"dir": 13, "cns": 9, "imp": 11, "inj": 7, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

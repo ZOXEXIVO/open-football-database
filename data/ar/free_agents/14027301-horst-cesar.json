@@ -4,6 +4,15 @@
   "last_name": "Horst",
   "birth_date": "1989-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 10, "pas": 6, "fir": 6, "tec": 6},
+      "mental": {"otb": 4, "vis": 6, "ant": 9, "dec": 13, "pos": 13, "fla": 14, "tea": 6, "wor": 5, "ldr": 11, "bra": 11, "agg": 9, "cmp": 12, "cnt": 8},
+      "physical": {"acc": 11, "str": 13, "sta": 9, "pac": 9, "jum": 13, "bal": 12, "agi": 8, "nat": 10},
+      "goalkeeping": {"han": 11, "aer": 13, "cmd": 10, "com": 11, "kic": 9, "thr": 9, "one": 13, "ref": 13, "ecc": 14, "rus": 12, "pun": 10},
+      "hidden": {"dir": 8, "cns": 10, "imp": 10, "inj": 7}
+    }
+  },
   "positions": [
     {
       "code": "GK",

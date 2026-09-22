@@ -4,6 +4,14 @@
   "last_name": "Sukhoruchko",
   "birth_date": "2000-02-21",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 5, "dri": 12, "fin": 12, "hea": 12, "lon": 11, "mar": 5, "pas": 9, "pen": 9, "tck": 4, "fir": 12, "tec": 12, "cor": 5, "lth": 8, "fre": 4},
+      "mental": {"otb": 12, "vis": 9, "ant": 11, "dec": 8, "pos": 5, "fla": 12, "tea": 12, "wor": 11, "ldr": 8, "bra": 12, "agg": 13, "cmp": 10, "cnt": 8},
+      "physical": {"acc": 12, "str": 13, "sta": 11, "pac": 12, "jum": 12, "bal": 13, "agi": 11, "nat": 12},
+      "hidden": {"dir": 7, "cns": 11, "imp": 11, "inj": 10, "ver": 3}
+    }
+  },
   "positions": [
     {
       "code": "ST",

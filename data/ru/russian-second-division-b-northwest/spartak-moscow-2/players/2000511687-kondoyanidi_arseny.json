@@ -5,6 +5,12 @@
   "birth_date": "2007-10-14",
   "country_id": 791,
   "club_id": 58098003,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "fin": 8, "lon": 10, "fir": 11, "cor": 10},
+      "physical": {"agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "MC",

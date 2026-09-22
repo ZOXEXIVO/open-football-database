@@ -5,6 +5,14 @@
   "birth_date": "2002-09-19",
   "country_id": 791,
   "club_id": 1301106,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 10, "hea": 4, "lon": 11, "mar": 7, "pas": 12, "pen": 9, "tck": 8, "fir": 12, "tec": 13, "cor": 12, "lth": 7, "fre": 10},
+      "mental": {"otb": 12, "vis": 10, "ant": 10, "dec": 8, "pos": 9, "fla": 11, "tea": 13, "wor": 10, "ldr": 9, "bra": 11, "agg": 16, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 14, "str": 8, "sta": 13, "pac": 12, "jum": 6, "bal": 10, "agi": 14, "nat": 12},
+      "hidden": {"dir": 11, "cns": 12, "imp": 11, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "MR",

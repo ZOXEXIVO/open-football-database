@@ -4,6 +4,15 @@
   "last_name": "Peralta Bauer",
   "birth_date": "1998-02-20",
   "country_id": 1649,
+  "attrs": {
+    "person": {"amb": 6, "pre": 8},
+    "player": {
+      "technical": {"cro": 14, "dri": 12, "fin": 11, "hea": 10, "lon": 9, "mar": 6, "pas": 12, "pen": 10, "tck": 6, "fir": 12, "tec": 12, "fre": 13},
+      "mental": {"otb": 11, "vis": 9, "ant": 9, "dec": 9, "pos": 7, "fla": 13, "tea": 11, "wor": 13, "ldr": 7, "bra": 9, "agg": 8, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 14, "str": 7, "sta": 12, "pac": 12, "jum": 9, "bal": 12, "agi": 13, "nat": 12},
+      "hidden": {"cns": 8, "imp": 7, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "MR",

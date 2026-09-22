@@ -4,6 +4,15 @@
   "last_name": "Cascardo",
   "birth_date": "1997-03-24",
   "country_id": 1651,
+  "attrs": {
+    "person": {"amb": 7, "loy": 10, "pre": 9, "pro": 10, "spo": 9, "tem": 12, "con": 8},
+    "player": {
+      "technical": {"cro": 13, "dri": 12, "fin": 8, "hea": 8, "lon": 10, "mar": 10, "pas": 13, "pen": 10, "tck": 11, "fir": 12, "tec": 13, "cor": 11, "lth": 13, "fre": 12},
+      "mental": {"otb": 12, "vis": 11, "ant": 11, "dec": 11, "pos": 10, "fla": 12, "tea": 12, "wor": 13, "ldr": 9, "bra": 12, "agg": 11, "det": 10, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 13, "str": 9, "sta": 12, "pac": 12, "jum": 7, "bal": 12, "agi": 13, "nat": 13},
+      "hidden": {"dir": 12, "cns": 12, "imp": 11, "inj": 13, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

@@ -4,6 +4,15 @@
   "last_name": "Martínez",
   "birth_date": "1991-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 12, "amb": 3, "loy": 12, "pre": 10, "pro": 8, "spo": 9, "tem": 11, "con": 6},
+    "player": {
+      "technical": {"cro": 10, "dri": 6, "fin": 8, "hea": 11, "lon": 10, "mar": 14, "pas": 10, "tck": 13, "fir": 8, "tec": 10, "lth": 12, "fre": 8},
+      "mental": {"otb": 8, "vis": 9, "ant": 11, "dec": 9, "pos": 12, "fla": 5, "tea": 15, "wor": 15, "ldr": 15, "bra": 14, "agg": 14, "det": 15, "cmp": 9, "cnt": 15},
+      "physical": {"acc": 9, "str": 15, "sta": 9, "pac": 7, "jum": 7, "bal": 11, "agi": 8, "nat": 14},
+      "hidden": {"dir": 14, "cns": 13, "imp": 13, "inj": 8, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

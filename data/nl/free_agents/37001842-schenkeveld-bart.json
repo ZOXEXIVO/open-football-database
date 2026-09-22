@@ -4,6 +4,15 @@
   "last_name": "Schenkeveld",
   "birth_date": "1991-08-28",
   "country_id": 784,
+  "attrs": {
+    "person": {"ada": 16, "amb": 12, "loy": 15, "pre": 12, "pro": 15, "spo": 9, "tem": 10, "con": 3},
+    "player": {
+      "technical": {"cro": 8, "dri": 10, "fin": 4, "hea": 13, "lon": 9, "mar": 14, "pas": 12, "pen": 7, "tck": 14, "fir": 11, "tec": 11, "cor": 3, "lth": 13, "fre": 7},
+      "mental": {"otb": 9, "vis": 10, "ant": 13, "dec": 13, "pos": 13, "fla": 8, "tea": 13, "wor": 14, "ldr": 15, "bra": 16, "agg": 16, "det": 15, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 10, "str": 14, "sta": 11, "pac": 12, "jum": 12, "bal": 10, "agi": 11, "nat": 13},
+      "hidden": {"dir": 15, "cns": 13, "imp": 12, "inj": 15, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DC",

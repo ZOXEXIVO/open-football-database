@@ -4,6 +4,15 @@
   "last_name": "Boutouil",
   "birth_date": "1998-01-09",
   "country_id": 34,
+  "attrs": {
+    "person": {"ada": 12, "amb": 14, "loy": 8, "pre": 11, "pro": 12, "spo": 8, "tem": 8},
+    "player": {
+      "technical": {"cro": 8, "dri": 6, "fin": 4, "hea": 14, "lon": 8, "mar": 13, "pas": 12, "tck": 13, "fir": 10, "tec": 10, "cor": 3, "lth": 7, "fre": 5},
+      "mental": {"otb": 7, "vis": 9, "ant": 12, "dec": 11, "pos": 13, "fla": 6, "tea": 14, "wor": 12, "ldr": 10, "bra": 12, "agg": 14, "det": 12, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 10, "str": 14, "sta": 12, "pac": 14, "jum": 15, "bal": 9, "agi": 11, "nat": 13},
+      "hidden": {"dir": 13, "cns": 12, "imp": 11, "inj": 7, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "DC",

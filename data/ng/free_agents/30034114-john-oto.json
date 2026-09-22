@@ -4,6 +4,14 @@
   "last_name": "John",
   "birth_date": "1998-01-01",
   "country_id": 38,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 5, "dri": 10, "fin": 11, "hea": 10, "lon": 9, "mar": 5, "pas": 8, "pen": 10, "tck": 5, "fir": 10, "tec": 11, "cor": 5, "lth": 8, "fre": 7},
+      "mental": {"otb": 13, "vis": 9, "ant": 11, "dec": 10, "pos": 6, "fla": 12, "tea": 9, "wor": 12, "ldr": 7, "bra": 13, "agg": 14, "cmp": 12, "cnt": 10},
+      "physical": {"acc": 14, "str": 15, "sta": 13, "pac": 14, "jum": 14, "bal": 14, "agi": 13, "nat": 14},
+      "hidden": {"dir": 8, "cns": 13, "imp": 13, "inj": 5, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "ST",

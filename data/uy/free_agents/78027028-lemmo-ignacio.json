@@ -4,6 +4,15 @@
   "last_name": "Lemmo",
   "birth_date": "1990-01-13",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 15, "amb": 7, "loy": 10, "pre": 8, "pro": 15, "spo": 14, "tem": 16, "con": 4},
+    "player": {
+      "technical": {"cro": 14, "dri": 12, "fin": 13, "hea": 7, "lon": 10, "mar": 6, "pas": 13, "pen": 14, "tck": 5, "fir": 14, "tec": 14, "cor": 14, "fre": 13},
+      "mental": {"otb": 13, "vis": 12, "ant": 12, "dec": 11, "pos": 11, "fla": 11, "tea": 14, "wor": 9, "ldr": 11, "bra": 7, "agg": 10, "det": 7, "cmp": 9, "cnt": 7},
+      "physical": {"acc": 12, "str": 7, "sta": 9, "pac": 7, "jum": 5, "bal": 7, "agi": 12, "nat": 14},
+      "hidden": {"dir": 11, "cns": 6, "imp": 8, "inj": 8}
+    }
+  },
   "positions": [
     {
       "code": "AML",

@@ -4,6 +4,16 @@
   "last_name": "Mozil",
   "birth_date": "1996-04-07",
   "country_id": 800,
+  "attrs": {
+    "person": {"ada": 13, "amb": 12, "loy": 10, "pre": 15, "pro": 15, "spo": 14, "tem": 12, "con": 5},
+    "player": {
+      "technical": {"pas": 8},
+      "mental": {"dec": 11, "pos": 12, "wor": 10, "bra": 11, "det": 11, "cnt": 11},
+      "physical": {"acc": 9, "str": 13, "sta": 13, "pac": 8, "jum": 13, "bal": 12, "agi": 13, "nat": 12},
+      "goalkeeping": {"han": 11, "aer": 11, "cmd": 11, "com": 12, "kic": 9, "thr": 10, "one": 9, "ref": 10, "ecc": 3, "rus": 3, "pun": 4},
+      "hidden": {"inj": 5}
+    }
+  },
   "positions": [
     {
       "code": "GK",

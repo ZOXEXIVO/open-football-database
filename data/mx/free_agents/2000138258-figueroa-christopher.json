@@ -4,6 +4,11 @@
   "last_name": "Figueroa",
   "birth_date": "2003-08-24",
   "country_id": 379,
+  "attrs": {
+    "player": {
+      "physical": {"str": 6, "jum": 4}
+    }
+  },
   "positions": [
     {
       "code": "MC",

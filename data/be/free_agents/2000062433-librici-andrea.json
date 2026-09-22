@@ -4,6 +4,14 @@
   "last_name": "Librici",
   "birth_date": "2004-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "dri": 9, "fin": 8, "fir": 11, "tec": 12, "cor": 5, "lth": 12, "fre": 5},
+      "mental": {"vis": 8, "ant": 11, "dec": 7, "fla": 12, "tea": 8, "ldr": 5, "bra": 10, "cmp": 8, "cnt": 9},
+      "physical": {"acc": 13, "str": 6, "sta": 11, "pac": 14, "jum": 9, "bal": 9, "agi": 12, "nat": 12},
+      "hidden": {"cns": 9, "inj": 6}
+    }
+  },
   "positions": [
     {
       "code": "DR",

@@ -4,6 +4,15 @@
   "last_name": "Taggart",
   "birth_date": "1993-06-02",
   "country_id": 1435,
+  "attrs": {
+    "person": {"ada": 13, "amb": 15, "loy": 17, "pre": 12, "pro": 15, "spo": 13, "tem": 15, "con": 4},
+    "player": {
+      "technical": {"cro": 11, "dri": 13, "fin": 15, "hea": 15, "lon": 12, "mar": 6, "pas": 11, "pen": 10, "tck": 6, "fir": 13, "tec": 10, "cor": 8, "lth": 6, "fre": 9},
+      "mental": {"otb": 16, "vis": 12, "ant": 12, "dec": 13, "pos": 10, "fla": 12, "tea": 13, "wor": 13, "ldr": 14, "bra": 12, "agg": 6, "det": 13, "cmp": 13, "cnt": 11},
+      "physical": {"acc": 10, "str": 12, "sta": 11, "pac": 10, "jum": 11, "bal": 11, "agi": 9, "nat": 12},
+      "hidden": {"dir": 6, "cns": 12, "imp": 11, "inj": 10, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "ST",

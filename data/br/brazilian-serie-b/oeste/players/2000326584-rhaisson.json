@@ -5,6 +5,12 @@
   "birth_date": "2006-02-21",
   "country_id": 1651,
   "club_id": 311028,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 8, "mar": 9, "pas": 9},
+      "mental": {"vis": 8, "ant": 10, "tea": 10, "wor": 10, "ldr": 11, "cmp": 9}
+    }
+  },
   "positions": [
     {
       "code": "DM",

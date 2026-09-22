@@ -4,6 +4,13 @@
   "last_name": "",
   "birth_date": "1990-01-01",
   "country_id": 796,
+  "attrs": {
+    "player": {
+      "mental": {"otb": 4, "vis": 3, "ant": 6, "dec": 10, "pos": 11, "fla": 11, "tea": 10, "wor": 10, "ldr": 9, "bra": 11, "agg": 10, "cmp": 6, "cnt": 10},
+      "goalkeeping": {"han": 10, "aer": 9, "cmd": 11, "com": 9, "kic": 10, "one": 15, "ref": 15, "ecc": 10, "pun": 11},
+      "hidden": {"dir": 8, "cns": 9, "imp": 9}
+    }
+  },
   "positions": [
     {
       "code": "GK",

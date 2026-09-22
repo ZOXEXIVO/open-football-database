@@ -4,6 +4,15 @@
   "last_name": "Dantas",
   "birth_date": "1989-01-01",
   "country_id": 1651,
+  "attrs": {
+    "person": {"amb": 12, "loy": 11, "pre": 12, "pro": 14, "spo": 15, "tem": 10, "con": 6},
+    "player": {
+      "technical": {"cro": 8, "dri": 11, "fin": 5, "hea": 8, "lon": 11, "mar": 8, "pas": 14, "pen": 5, "tck": 11, "fir": 11, "tec": 11, "cor": 8, "lth": 7, "fre": 9},
+      "mental": {"otb": 11, "vis": 11, "ant": 8, "dec": 11, "pos": 11, "fla": 12, "tea": 11, "wor": 11, "ldr": 12, "bra": 9, "agg": 11, "det": 12, "cmp": 12, "cnt": 8},
+      "physical": {"acc": 11, "str": 11, "sta": 10, "pac": 11, "jum": 11, "bal": 12, "agi": 11, "nat": 13},
+      "hidden": {"dir": 11, "cns": 12, "imp": 10, "inj": 7, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

@@ -4,6 +4,14 @@
   "last_name": "Thomassen",
   "birth_date": "1993-01-01",
   "country_id": 784,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 8, "fin": 8, "hea": 13, "lon": 9, "mar": 7, "pas": 9, "pen": 8, "tck": 12, "fir": 10, "tec": 10, "cor": 6, "fre": 7},
+      "mental": {"otb": 14, "vis": 10, "ant": 11, "dec": 10, "pos": 5, "fla": 9, "tea": 12, "wor": 12, "ldr": 7, "bra": 13, "agg": 11, "cmp": 9, "cnt": 10},
+      "physical": {"acc": 11, "str": 13, "sta": 12, "pac": 12, "jum": 14, "bal": 14, "agi": 10, "nat": 10},
+      "hidden": {"dir": 10, "cns": 9, "imp": 9, "inj": 6, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "AML",

@@ -4,6 +4,14 @@
   "last_name": "Carranza",
   "birth_date": "2000-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"amb": 9, "loy": 12, "pre": 12, "pro": 11, "spo": 11},
+    "player": {
+      "technical": {"cro": 12, "dri": 10, "hea": 8, "mar": 10, "pen": 13, "tck": 11, "lth": 12},
+      "mental": {"otb": 8, "dec": 10, "pos": 10, "tea": 10, "wor": 10, "det": 12, "cnt": 10},
+      "physical": {"acc": 12, "str": 11, "sta": 13, "pac": 12, "bal": 11, "agi": 12, "nat": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

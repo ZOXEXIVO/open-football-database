@@ -4,6 +4,15 @@
   "last_name": "Hinteregger",
   "birth_date": "1992-01-01",
   "country_id": 755,
+  "attrs": {
+    "person": {"ada": 8, "amb": 12, "loy": 15, "pre": 13, "pro": 5, "spo": 12, "tem": 8, "con": 20},
+    "player": {
+      "technical": {"cro": 8, "dri": 8, "fin": 3, "hea": 14, "lon": 12, "mar": 13, "pas": 12, "pen": 11, "tck": 12, "fir": 8, "tec": 6, "cor": 5, "lth": 9, "fre": 10},
+      "mental": {"otb": 4, "vis": 11, "ant": 13, "dec": 12, "pos": 13, "fla": 10, "tea": 13, "wor": 10, "ldr": 16, "bra": 13, "agg": 9, "det": 10, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 11, "str": 14, "sta": 12, "pac": 14, "jum": 13, "bal": 11, "agi": 7, "nat": 11},
+      "hidden": {"dir": 12, "cns": 16, "imp": 15, "inj": 11, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

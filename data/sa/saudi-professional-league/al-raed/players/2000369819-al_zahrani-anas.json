@@ -5,6 +5,12 @@
   "birth_date": "2003-07-16",
   "country_id": 133,
   "club_id": 135424,
+  "attrs": {
+    "player": {
+      "mental": {"tea": 12, "wor": 12},
+      "physical": {"str": 10, "jum": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

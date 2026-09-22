@@ -4,6 +4,13 @@
   "last_name": "Silva",
   "birth_date": "2006-05-25",
   "country_id": 788,
+  "attrs": {
+    "player": {
+      "mental": {"ldr": 3},
+      "physical": {"acc": 13, "str": 5, "sta": 10, "pac": 12, "jum": 6, "agi": 12},
+      "hidden": {"cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "DL",

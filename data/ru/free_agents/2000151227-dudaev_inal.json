@@ -4,6 +4,11 @@
   "last_name": "Dudaev",
   "birth_date": "2003-09-12",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "hidden": {"cns": 16}
+    }
+  },
   "positions": [
     {
       "code": "MC",

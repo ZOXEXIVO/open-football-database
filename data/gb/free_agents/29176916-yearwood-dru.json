@@ -4,6 +4,15 @@
   "last_name": "Yearwood",
   "birth_date": "2000-02-17",
   "country_id": 765,
+  "attrs": {
+    "person": {"ada": 13, "amb": 10, "loy": 9, "pre": 11, "pro": 13, "spo": 12, "tem": 14, "con": 8},
+    "player": {
+      "technical": {"cro": 7, "dri": 10, "fin": 7, "hea": 8, "lon": 8, "mar": 9, "pas": 12, "pen": 5, "tck": 10, "fir": 11, "tec": 11, "cor": 6, "lth": 4, "fre": 6},
+      "mental": {"otb": 10, "vis": 10, "ant": 11, "dec": 12, "pos": 12, "fla": 6, "tea": 12, "wor": 15, "ldr": 6, "bra": 12, "agg": 11, "det": 12, "cmp": 12, "cnt": 10},
+      "physical": {"acc": 12, "str": 12, "sta": 12, "pac": 12, "jum": 9, "bal": 12, "agi": 12, "nat": 12},
+      "hidden": {"dir": 7, "cns": 8, "imp": 7, "inj": 12, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

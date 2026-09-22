@@ -4,6 +4,16 @@
   "last_name": "Oluwayemi",
   "birth_date": "2001-03-13",
   "country_id": 765,
+  "attrs": {
+    "person": {"ada": 12, "amb": 13, "loy": 12, "pre": 10, "pro": 13, "spo": 12, "tem": 12, "con": 6},
+    "player": {
+      "technical": {"pas": 8, "fir": 8, "tec": 8},
+      "mental": {"bra": 9, "det": 13, "cmp": 9, "cnt": 10},
+      "physical": {"acc": 11, "str": 12, "sta": 9, "pac": 10, "jum": 13, "bal": 11, "agi": 12, "nat": 11},
+      "goalkeeping": {"han": 9, "aer": 13, "cmd": 9, "com": 9, "kic": 10, "thr": 10, "one": 12, "ref": 14, "ecc": 7, "rus": 13, "pun": 8},
+      "hidden": {"inj": 7}
+    }
+  },
   "positions": [
     {
       "code": "GK",

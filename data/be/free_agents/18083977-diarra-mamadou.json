@@ -4,6 +4,13 @@
   "last_name": "Diarra",
   "birth_date": "1999-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 11, "pas": 13, "fir": 11, "tec": 11},
+      "mental": {"vis": 14, "wor": 14},
+      "physical": {"acc": 12, "str": 8, "pac": 12, "bal": 8}
+    }
+  },
   "positions": [
     {
       "code": "DC",

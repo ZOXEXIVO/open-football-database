@@ -5,6 +5,13 @@
   "birth_date": "2005-05-05",
   "country_id": 16,
   "club_id": 5370006,
+  "attrs": {
+    "person": {"amb": 15},
+    "player": {
+      "mental": {"dec": 10, "det": 14},
+      "goalkeeping": {"han": 7, "aer": 7, "ref": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

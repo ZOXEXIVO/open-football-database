@@ -4,6 +4,15 @@
   "last_name": "Stevance",
   "birth_date": "1988-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"amb": 14, "pre": 12, "pro": 11},
+    "player": {
+      "technical": {"cro": 8, "dri": 10, "fin": 12, "hea": 12, "lon": 10, "mar": 10, "pas": 11, "fir": 11, "tec": 11, "cor": 8, "fre": 10},
+      "mental": {"otb": 13, "vis": 11, "ant": 12, "dec": 12, "pos": 8, "fla": 12, "tea": 13, "wor": 14, "bra": 14, "det": 14, "cmp": 12, "cnt": 14},
+      "physical": {"acc": 12, "str": 12, "sta": 11, "pac": 12, "jum": 11, "bal": 12, "agi": 11},
+      "hidden": {"cns": 14}
+    }
+  },
   "positions": [
     {
       "code": "ST",

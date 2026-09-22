@@ -4,6 +4,11 @@
   "last_name": "Hendrickx",
   "birth_date": "1994-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "mental": {"ldr": 15, "det": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

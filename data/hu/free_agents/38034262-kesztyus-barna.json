@@ -4,6 +4,15 @@
   "last_name": "Kesztyűs",
   "birth_date": "1993-09-04",
   "country_id": 773,
+  "attrs": {
+    "person": {"amb": 9, "pro": 12},
+    "player": {
+      "technical": {"cro": 9, "dri": 7, "fin": 8, "hea": 8, "lon": 10, "mar": 10, "pas": 11, "tck": 13, "fir": 10, "tec": 11, "cor": 9, "fre": 11},
+      "mental": {"otb": 10, "vis": 7, "ant": 12, "dec": 10, "pos": 11, "fla": 8, "tea": 15, "wor": 15, "bra": 13, "agg": 13, "det": 11, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 11, "str": 9, "sta": 14, "pac": 12, "jum": 7, "bal": 10, "agi": 13, "nat": 11},
+      "hidden": {"dir": 12, "cns": 11, "imp": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

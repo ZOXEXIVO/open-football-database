@@ -5,6 +5,14 @@
   "birth_date": "1995-01-01",
   "country_id": 791,
   "club_id": 475802,
+  "attrs": {
+    "player": {
+      "technical": {"cor": 7},
+      "mental": {"vis": 12, "tea": 13},
+      "physical": {"str": 10, "sta": 13, "jum": 8},
+      "hidden": {"cns": 13, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "WBL",

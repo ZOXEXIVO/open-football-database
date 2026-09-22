@@ -4,6 +4,15 @@
   "last_name": "Guz'",
   "birth_date": "1988-01-01",
   "country_id": 791,
+  "attrs": {
+    "person": {"loy": 14, "pro": 14, "spo": 14, "tem": 7, "con": 2},
+    "player": {
+      "technical": {"cro": 5, "dri": 6, "fin": 11, "hea": 16, "lon": 6, "mar": 12, "pas": 8, "pen": 6, "tck": 11, "fir": 8, "tec": 6, "cor": 5, "lth": 4, "fre": 6},
+      "mental": {"otb": 6, "vis": 5, "ant": 11, "dec": 11, "pos": 13, "fla": 6, "tea": 8, "wor": 10, "ldr": 13, "bra": 15, "agg": 13, "cmp": 8, "cnt": 11},
+      "physical": {"acc": 10, "str": 10, "sta": 11, "pac": 11, "jum": 12, "bal": 12, "agi": 9, "nat": 16},
+      "hidden": {"dir": 12, "cns": 12, "imp": 14, "inj": 4, "ver": 5}
+    }
+  },
   "positions": [
     {
       "code": "DC",

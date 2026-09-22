@@ -4,6 +4,16 @@
   "last_name": "Morro",
   "birth_date": "2000-09-11",
   "country_id": 796,
+  "attrs": {
+    "person": {"ada": 8, "amb": 9, "loy": 15, "pre": 7, "pro": 12, "con": 2},
+    "player": {
+      "technical": {"pas": 12, "tec": 10},
+      "mental": {"dec": 13, "pos": 13, "bra": 9, "cnt": 14},
+      "physical": {"acc": 9, "str": 11, "pac": 9, "jum": 17, "bal": 10, "agi": 11},
+      "goalkeeping": {"han": 11, "aer": 14, "cmd": 9, "com": 9, "kic": 13, "thr": 10, "one": 12, "ref": 15, "ecc": 3, "pun": 14},
+      "hidden": {"inj": 5}
+    }
+  },
   "positions": [
     {
       "code": "GK",

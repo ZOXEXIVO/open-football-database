@@ -4,6 +4,14 @@
   "last_name": "Barinov",
   "birth_date": "1999-02-01",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "mental": {"dec": 10, "pos": 10, "bra": 12, "cnt": 8},
+      "physical": {"acc": 8, "str": 11, "pac": 9, "jum": 14, "agi": 11},
+      "goalkeeping": {"han": 10, "aer": 12, "cmd": 8, "com": 10, "kic": 10, "thr": 11, "one": 9, "ref": 12, "rus": 10, "pun": 8},
+      "hidden": {"cns": 10, "imp": 13}
+    }
+  },
   "positions": [
     {
       "code": "GK",

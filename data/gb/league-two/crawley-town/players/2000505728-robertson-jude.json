@@ -5,6 +5,13 @@
   "birth_date": "2008-08-28",
   "country_id": 765,
   "club_id": 640,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 7, "lth": 3},
+      "mental": {"ldr": 5, "bra": 10, "agg": 12},
+      "physical": {"acc": 10, "str": 7, "sta": 8, "pac": 9}
+    }
+  },
   "positions": [
     {
       "code": "MC",

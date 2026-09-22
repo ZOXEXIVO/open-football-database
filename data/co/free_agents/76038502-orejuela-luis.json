@@ -4,6 +4,15 @@
   "last_name": "Orejuela",
   "birth_date": "1995-08-20",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 6, "amb": 10, "loy": 13, "pre": 12, "pro": 12, "spo": 11, "tem": 12, "con": 9},
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 9, "hea": 11, "lon": 8, "mar": 12, "pas": 12, "pen": 7, "tck": 11, "fir": 12, "tec": 12, "cor": 11, "lth": 12, "fre": 10},
+      "mental": {"otb": 12, "vis": 8, "ant": 12, "dec": 12, "pos": 11, "fla": 9, "tea": 12, "wor": 12, "ldr": 8, "bra": 12, "agg": 11, "det": 12, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 13, "str": 12, "sta": 13, "pac": 13, "jum": 10, "bal": 11, "agi": 13, "nat": 12},
+      "hidden": {"dir": 10, "cns": 10, "imp": 11, "inj": 10, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DR",

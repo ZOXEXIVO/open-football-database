@@ -4,6 +4,15 @@
   "last_name": "Omurwa",
   "birth_date": "1998-09-01",
   "country_id": 25,
+  "attrs": {
+    "person": {"ada": 10, "amb": 11, "loy": 8, "pre": 11, "pro": 14, "spo": 9, "tem": 11, "con": 6},
+    "player": {
+      "technical": {"cro": 5, "dri": 9, "fin": 6, "hea": 12, "lon": 5, "mar": 12, "pas": 8, "tck": 10, "fir": 7, "tec": 8, "cor": 4, "lth": 11, "fre": 5},
+      "mental": {"otb": 6, "vis": 9, "ant": 12, "dec": 11, "pos": 12, "fla": 8, "tea": 13, "wor": 13, "ldr": 9, "bra": 14, "agg": 15, "det": 12, "cmp": 8, "cnt": 11},
+      "physical": {"acc": 12, "str": 14, "sta": 13, "pac": 12, "jum": 15, "bal": 9, "agi": 10, "nat": 14},
+      "hidden": {"cns": 11, "imp": 10, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

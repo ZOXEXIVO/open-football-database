@@ -4,6 +4,12 @@
   "last_name": "Bilyi",
   "birth_date": "1999-08-08",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "mental": {"tea": 11, "ldr": 12},
+      "hidden": {"cns": 15}
+    }
+  },
   "positions": [
     {
       "code": "DC",

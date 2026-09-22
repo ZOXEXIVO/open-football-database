@@ -5,6 +5,12 @@
   "birth_date": "2009-04-10",
   "country_id": 786,
   "club_id": 1135,
+  "attrs": {
+    "player": {
+      "mental": {"vis": 14, "pos": 14, "fla": 12, "ldr": 12},
+      "hidden": {"imp": 14}
+    }
+  },
   "positions": [
     {
       "code": "MC",

@@ -5,6 +5,13 @@
   "birth_date": "2006-05-11",
   "country_id": 784,
   "club_id": 1046,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 12, "mar": 4, "pas": 12, "tck": 4},
+      "mental": {"pos": 5, "ldr": 12},
+      "physical": {"jum": 14}
+    }
+  },
   "positions": [
     {
       "code": "MC",

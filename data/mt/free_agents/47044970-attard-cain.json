@@ -4,6 +4,15 @@
   "last_name": "Attard",
   "birth_date": "1994-09-10",
   "country_id": 782,
+  "attrs": {
+    "person": {"ada": 8, "amb": 14, "loy": 14, "pro": 17, "spo": 13, "tem": 14, "con": 4},
+    "player": {
+      "technical": {"cro": 10, "dri": 8, "fin": 6, "hea": 9, "lon": 4, "mar": 10, "pas": 10, "pen": 8, "tck": 11, "fir": 11, "tec": 9, "cor": 6, "lth": 8, "fre": 4},
+      "mental": {"otb": 9, "vis": 8, "ant": 11, "dec": 11, "pos": 12, "fla": 4, "tea": 13, "wor": 14, "ldr": 10, "bra": 9, "agg": 8, "det": 13, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 11, "str": 11, "sta": 13, "pac": 12, "jum": 9, "bal": 10, "agi": 10, "nat": 14},
+      "hidden": {"dir": 7, "cns": 12, "imp": 10, "inj": 11, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

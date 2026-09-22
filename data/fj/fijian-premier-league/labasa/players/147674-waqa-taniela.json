@@ -5,6 +5,12 @@
   "birth_date": "1983-06-22",
   "country_id": 1437,
   "club_id": 130056,
+  "attrs": {
+    "player": {
+      "technical": {"pen": 13, "cor": 13, "fre": 13},
+      "goalkeeping": {"han": 1}
+    }
+  },
   "positions": [
     {
       "code": "DM",

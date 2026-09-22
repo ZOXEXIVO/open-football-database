@@ -4,6 +4,15 @@
   "last_name": "Peffer",
   "birth_date": "1996-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"amb": 14, "pre": 11, "pro": 10},
+    "player": {
+      "technical": {"dri": 11, "fin": 14, "hea": 12, "lon": 8, "mar": 7, "pas": 10, "tck": 8, "fir": 11, "tec": 11, "cor": 6, "lth": 5, "fre": 8},
+      "mental": {"vis": 9, "pos": 8, "tea": 9, "ldr": 9, "bra": 8, "det": 10, "cnt": 9},
+      "physical": {"acc": 13, "str": 10, "sta": 11, "pac": 13, "jum": 12, "bal": 10},
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "ST",

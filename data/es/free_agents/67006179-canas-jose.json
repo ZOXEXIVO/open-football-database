@@ -4,6 +4,15 @@
   "last_name": "Cañas",
   "birth_date": "1987-01-01",
   "country_id": 796,
+  "attrs": {
+    "person": {"amb": 12, "loy": 16, "pre": 9, "pro": 14, "spo": 13, "tem": 10, "con": 5},
+    "player": {
+      "technical": {"cro": 8, "dri": 9, "fin": 6, "hea": 12, "lon": 12, "mar": 13, "pas": 12, "pen": 9, "tck": 13, "fir": 12, "tec": 11, "cor": 6, "lth": 7, "fre": 7},
+      "mental": {"otb": 8, "vis": 10, "ant": 13, "dec": 13, "pos": 15, "fla": 6, "tea": 16, "wor": 13, "ldr": 16, "bra": 16, "agg": 13, "det": 15, "cmp": 12, "cnt": 13},
+      "physical": {"acc": 8, "str": 9, "sta": 9, "pac": 8, "jum": 9, "bal": 12, "agi": 9, "nat": 12},
+      "hidden": {"dir": 15, "cns": 14, "imp": 12, "inj": 13, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DM",

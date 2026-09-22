@@ -4,6 +4,15 @@
   "last_name": "Lawal",
   "birth_date": "1992-12-20",
   "country_id": 38,
+  "attrs": {
+    "person": {"pre": 4, "spo": 3, "tem": 14},
+    "player": {
+      "technical": {"cro": 4, "dri": 4, "fin": 6, "hea": 9, "lon": 12, "mar": 8, "pas": 6, "pen": 8, "tck": 14, "fir": 10, "tec": 8, "cor": 4, "lth": 8, "fre": 6},
+      "mental": {"otb": 8, "vis": 6, "ant": 12, "dec": 9, "pos": 14, "fla": 12, "tea": 14, "wor": 12, "ldr": 10, "bra": 16, "agg": 16, "det": 5, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 8, "str": 12, "sta": 12, "pac": 8, "jum": 9, "bal": 12, "agi": 8, "nat": 10},
+      "hidden": {"dir": 16, "cns": 13, "imp": 10, "inj": 10, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

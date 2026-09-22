@@ -4,6 +4,15 @@
   "last_name": "Pogba",
   "birth_date": "1993-03-15",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 16, "amb": 12, "loy": 10, "pre": 14, "pro": 11, "spo": 13, "tem": 13, "con": 14},
+    "player": {
+      "technical": {"cro": 13, "dri": 12, "fin": 14, "hea": 14, "lon": 14, "mar": 6, "pas": 16, "pen": 15, "tck": 11, "fir": 16, "tec": 18, "cor": 10, "lth": 4, "fre": 15},
+      "mental": {"otb": 14, "vis": 15, "ant": 15, "dec": 11, "pos": 7, "fla": 18, "tea": 12, "wor": 8, "ldr": 12, "bra": 10, "agg": 12, "det": 13, "cmp": 13, "cnt": 10},
+      "physical": {"acc": 10, "str": 12, "sta": 11, "pac": 12, "jum": 12, "bal": 13, "agi": 11, "nat": 7},
+      "hidden": {"dir": 14, "cns": 13, "imp": 13, "inj": 20, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "MC",

@@ -4,6 +4,15 @@
   "last_name": "Jiménez",
   "birth_date": "1996-01-01",
   "country_id": 796,
+  "attrs": {
+    "person": {"loy": 10, "pro": 13, "spo": 14, "tem": 14, "con": 5},
+    "player": {
+      "technical": {"cro": 11, "dri": 10, "mar": 10, "pas": 10, "tck": 10, "fir": 10, "tec": 11},
+      "mental": {"otb": 12, "ant": 12, "dec": 12, "pos": 11, "det": 14, "cmp": 11, "cnt": 13},
+      "physical": {"acc": 12, "sta": 12, "pac": 12, "bal": 11, "agi": 11, "nat": 12},
+      "hidden": {"cns": 13, "inj": 9}
+    }
+  },
   "positions": [
     {
       "code": "DL",

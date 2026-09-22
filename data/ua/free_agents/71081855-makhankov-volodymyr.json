@@ -4,6 +4,14 @@
   "last_name": "Makhankov",
   "birth_date": "1997-10-29",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "mental": {"ant": 8, "dec": 8, "pos": 10, "bra": 10},
+      "physical": {"str": 11, "jum": 18, "agi": 13, "nat": 16},
+      "goalkeeping": {"han": 13, "aer": 12, "cmd": 9, "com": 9, "kic": 9, "thr": 7, "one": 10, "ref": 13, "rus": 13, "pun": 8},
+      "hidden": {"imp": 7}
+    }
+  },
   "positions": [
     {
       "code": "GK",

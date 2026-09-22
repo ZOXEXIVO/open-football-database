@@ -4,6 +4,15 @@
   "last_name": "Mindombe",
   "birth_date": "2001-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"ada": 12, "loy": 12, "tem": 11, "con": 8},
+    "player": {
+      "technical": {"cro": 8, "dri": 7, "fin": 4, "hea": 12, "lon": 6, "mar": 12, "pas": 10, "pen": 8, "tck": 12, "fir": 8, "tec": 10, "cor": 6, "lth": 8, "fre": 6},
+      "mental": {"otb": 10, "ant": 10, "dec": 10, "pos": 10, "tea": 11, "wor": 11, "bra": 10, "agg": 12, "det": 11, "cmp": 9, "cnt": 11},
+      "physical": {"acc": 11, "str": 12, "sta": 12, "pac": 12, "jum": 11, "bal": 12, "agi": 12, "nat": 12},
+      "hidden": {"inj": 8}
+    }
+  },
   "positions": [
     {
       "code": "DC",

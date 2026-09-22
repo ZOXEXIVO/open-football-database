@@ -4,6 +4,15 @@
   "last_name": "Vermijl",
   "birth_date": "1997-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"amb": 13, "pre": 12, "pro": 11},
+    "player": {
+      "technical": {"cro": 8, "dri": 12, "fin": 11, "hea": 9, "lon": 10, "pas": 12, "tck": 5, "fir": 12, "tec": 11, "cor": 8, "fre": 10},
+      "mental": {"otb": 9, "vis": 12, "ant": 14, "dec": 13, "pos": 7, "fla": 13, "tea": 10, "wor": 10, "bra": 13, "det": 14, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 15, "str": 6, "sta": 9, "pac": 14, "jum": 6, "bal": 6, "agi": 11},
+      "hidden": {"cns": 13, "imp": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

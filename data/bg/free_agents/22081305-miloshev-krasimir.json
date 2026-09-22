@@ -4,6 +4,15 @@
   "last_name": "Miloshev",
   "birth_date": "2000-04-05",
   "country_id": 760,
+  "attrs": {
+    "person": {"amb": 12, "loy": 16, "pre": 10, "pro": 14, "spo": 10, "tem": 8, "con": 5},
+    "player": {
+      "technical": {"cro": 10, "dri": 9, "fin": 8, "hea": 7, "lon": 10, "mar": 10, "pas": 9, "pen": 9, "tck": 12, "fir": 11, "tec": 10, "cor": 12, "lth": 9, "fre": 12},
+      "mental": {"otb": 7, "vis": 8, "ant": 12, "dec": 9, "pos": 11, "fla": 8, "tea": 17, "wor": 16, "ldr": 14, "bra": 17, "agg": 16, "det": 15, "cmp": 9, "cnt": 11},
+      "physical": {"acc": 12, "str": 8, "sta": 13, "pac": 11, "jum": 8, "bal": 12, "agi": 14, "nat": 13},
+      "hidden": {"dir": 12, "cns": 12, "imp": 12, "inj": 8, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DM",

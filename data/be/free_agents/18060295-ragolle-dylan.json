@@ -4,6 +4,15 @@
   "last_name": "Ragolle",
   "birth_date": "1994-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"amb": 10, "pre": 10},
+    "player": {
+      "technical": {"cro": 6, "dri": 7, "fin": 8, "hea": 13, "lon": 8, "mar": 12, "pas": 9, "tck": 13, "fir": 8, "tec": 8, "cor": 5, "fre": 8},
+      "mental": {"otb": 8, "vis": 5, "ant": 10, "dec": 10, "pos": 10, "fla": 8, "tea": 12, "wor": 11, "ldr": 13, "bra": 12, "agg": 12, "det": 11, "cmp": 9, "cnt": 11},
+      "physical": {"acc": 11, "str": 12, "sta": 12, "pac": 11, "jum": 14, "bal": 10, "agi": 10, "nat": 13},
+      "hidden": {"dir": 9, "cns": 13, "imp": 13}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -5,6 +5,13 @@
   "birth_date": "1997-04-04",
   "country_id": 133,
   "club_id": 7920492,
+  "attrs": {
+    "player": {
+      "technical": {"lon": 10, "pas": 12},
+      "mental": {"vis": 11, "tea": 12, "agg": 12, "cmp": 8},
+      "physical": {"acc": 14, "str": 8, "pac": 7, "jum": 6, "bal": 15, "agi": 15, "nat": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

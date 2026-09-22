@@ -4,6 +4,15 @@
   "last_name": "Navarrete",
   "birth_date": "1992-01-01",
   "country_id": 1652,
+  "attrs": {
+    "person": {"amb": 9},
+    "player": {
+      "technical": {"cro": 7, "dri": 7, "fin": 6, "hea": 12, "lon": 6, "mar": 12, "pas": 9, "pen": 7, "tck": 12, "fir": 10, "tec": 7, "cor": 5, "lth": 5, "fre": 5},
+      "mental": {"otb": 6, "vis": 7, "ant": 11, "dec": 11, "pos": 11, "fla": 6, "tea": 11, "wor": 13, "ldr": 12, "bra": 12, "agg": 14, "det": 9, "cmp": 9, "cnt": 10},
+      "physical": {"acc": 10, "str": 13, "sta": 11, "pac": 10, "jum": 12, "bal": 12, "agi": 8, "nat": 12},
+      "hidden": {"dir": 12, "cns": 11, "imp": 13, "inj": 7, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DR",

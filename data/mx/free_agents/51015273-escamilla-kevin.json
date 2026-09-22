@@ -4,6 +4,14 @@
   "last_name": "Escamilla",
   "birth_date": "1994-02-21",
   "country_id": 379,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 9, "fin": 11, "hea": 10, "lon": 13, "mar": 13, "pas": 13, "pen": 10, "tck": 13, "fir": 14, "tec": 13, "cor": 11, "lth": 14, "fre": 11},
+      "mental": {"otb": 12, "vis": 13, "ant": 13, "dec": 11, "pos": 14, "fla": 10, "tea": 14, "wor": 11, "ldr": 12, "bra": 10, "agg": 10, "cmp": 10, "cnt": 14},
+      "physical": {"acc": 9, "str": 9, "sta": 13, "pac": 9, "jum": 10, "bal": 11, "agi": 10, "nat": 8},
+      "hidden": {"dir": 9, "cns": 13, "imp": 14, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

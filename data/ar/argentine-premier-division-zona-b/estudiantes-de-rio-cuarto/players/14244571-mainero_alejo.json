@@ -5,6 +5,14 @@
   "birth_date": "2000-12-22",
   "country_id": 1649,
   "club_id": 3101435,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "fin": 11, "hea": 12, "mar": 6, "tck": 4},
+      "mental": {"otb": 12, "ant": 6, "pos": 8},
+      "physical": {"acc": 13, "sta": 13, "bal": 9, "agi": 11},
+      "hidden": {"ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "ML",

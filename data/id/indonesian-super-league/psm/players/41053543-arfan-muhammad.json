@@ -5,6 +5,12 @@
   "birth_date": "1997-01-22",
   "country_id": 113,
   "club_id": 135494,
+  "attrs": {
+    "player": {
+      "technical": {"mar": 9, "tck": 8, "fir": 11},
+      "mental": {"otb": 8, "vis": 11, "ant": 12, "dec": 12, "pos": 12, "wor": 10, "bra": 12, "cnt": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

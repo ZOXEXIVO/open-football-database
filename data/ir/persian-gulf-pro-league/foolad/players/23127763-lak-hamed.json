@@ -5,6 +5,15 @@
   "birth_date": "1990-11-24",
   "country_id": 114,
   "club_id": 5512198,
+  "attrs": {
+    "person": {"con": 17},
+    "player": {
+      "technical": {"pas": 7, "fir": 7, "tec": 7},
+      "mental": {"dec": 10, "cnt": 11},
+      "goalkeeping": {"han": 13, "aer": 14, "cmd": 11, "com": 12, "kic": 12, "one": 14, "ref": 14, "ecc": 18},
+      "hidden": {"dir": 15}
+    }
+  },
   "positions": [
     {
       "code": "GK",

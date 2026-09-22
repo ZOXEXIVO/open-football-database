@@ -4,6 +4,15 @@
   "last_name": "Teixeira",
   "birth_date": "1998-04-26",
   "country_id": 788,
+  "attrs": {
+    "person": {"amb": 11, "pre": 12, "pro": 13, "spo": 13, "tem": 12, "con": 5},
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 8, "hea": 7, "lon": 11, "mar": 5, "pas": 11, "pen": 8, "tck": 7, "fir": 12, "tec": 13, "cor": 12, "lth": 4, "fre": 10},
+      "mental": {"otb": 9, "vis": 13, "ant": 11, "dec": 10, "pos": 5, "fla": 12, "tea": 10, "wor": 11, "ldr": 7, "bra": 8, "agg": 8, "det": 11, "cmp": 13, "cnt": 9},
+      "physical": {"acc": 12, "str": 8, "sta": 10, "pac": 13, "jum": 10, "bal": 11, "agi": 12, "nat": 12},
+      "hidden": {"dir": 5, "cns": 11, "imp": 10, "inj": 4, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "MC",

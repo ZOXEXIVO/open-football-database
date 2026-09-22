@@ -4,6 +4,15 @@
   "last_name": "Kasmi",
   "birth_date": "1995-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"loy": 10, "pre": 10, "pro": 8, "tem": 7, "con": 20},
+    "player": {
+      "technical": {"cro": 9, "dri": 14, "fin": 9, "hea": 5, "lon": 9, "mar": 9, "pas": 12, "tck": 11, "fir": 13, "tec": 13, "cor": 10, "lth": 8, "fre": 10},
+      "mental": {"otb": 12, "vis": 11, "ant": 11, "dec": 12, "pos": 12, "fla": 14, "tea": 11, "wor": 11, "ldr": 11, "bra": 14, "agg": 9, "det": 12, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 12, "str": 7, "sta": 6, "pac": 11, "jum": 5, "bal": 10, "agi": 11, "nat": 10},
+      "hidden": {"dir": 7, "cns": 10, "inj": 9}
+    }
+  },
   "positions": [
     {
       "code": "MC",

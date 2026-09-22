@@ -4,6 +4,15 @@
   "last_name": "Vukajlović",
   "birth_date": "1996-05-13",
   "country_id": 802,
+  "attrs": {
+    "person": {"amb": 11, "pro": 12, "tem": 11},
+    "player": {
+      "technical": {"cro": 11, "dri": 9, "hea": 12, "mar": 12, "pas": 9, "tck": 11, "fir": 11, "tec": 11, "lth": 11},
+      "mental": {"otb": 9, "vis": 12, "ant": 11, "dec": 12, "pos": 13, "tea": 11, "wor": 12, "bra": 14, "agg": 14, "det": 14, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 11, "str": 13, "sta": 11, "pac": 11, "jum": 12, "bal": 13, "agi": 12},
+      "hidden": {"dir": 13, "cns": 13, "imp": 13}
+    }
+  },
   "positions": [
     {
       "code": "DL",

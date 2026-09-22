@@ -4,6 +4,13 @@
   "last_name": "Gogniev",
   "birth_date": "2002-02-27",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"pen": 9},
+      "mental": {"cmp": 10},
+      "physical": {"str": 6, "jum": 10, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "ST",

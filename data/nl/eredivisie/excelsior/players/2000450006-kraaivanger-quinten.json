@@ -5,6 +5,11 @@
   "birth_date": "2007-03-05",
   "country_id": 784,
   "club_id": 1004,
+  "attrs": {
+    "player": {
+      "mental": {"ldr": 5}
+    }
+  },
   "positions": [
     {
       "code": "MC",

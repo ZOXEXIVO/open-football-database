@@ -4,6 +4,15 @@
   "last_name": "Biada",
   "birth_date": "1992-01-01",
   "country_id": 771,
+  "attrs": {
+    "person": {"ada": 6, "amb": 13, "loy": 9, "pre": 11, "pro": 12, "spo": 9, "tem": 7, "con": 6},
+    "player": {
+      "technical": {"cro": 11, "dri": 13, "fin": 9, "hea": 7, "lon": 12, "mar": 7, "pas": 12, "pen": 11, "tck": 7, "fir": 12, "tec": 13, "cor": 12, "lth": 6, "fre": 14},
+      "mental": {"otb": 12, "vis": 12, "ant": 11, "dec": 11, "pos": 7, "fla": 13, "tea": 12, "wor": 12, "ldr": 10, "bra": 10, "agg": 13, "det": 11, "cmp": 12, "cnt": 9},
+      "physical": {"acc": 12, "str": 9, "sta": 12, "pac": 11, "jum": 9, "bal": 11, "agi": 12, "nat": 7},
+      "hidden": {"dir": 6, "cns": 11, "imp": 12, "inj": 16, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "MC",

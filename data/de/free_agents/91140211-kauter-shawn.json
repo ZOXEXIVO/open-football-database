@@ -4,6 +4,13 @@
   "last_name": "Kauter",
   "birth_date": "1996-01-01",
   "country_id": 771,
+  "attrs": {
+    "person": {"ada": 7, "amb": 12, "loy": 10, "pre": 15, "pro": 14, "spo": 12, "tem": 14, "con": 7},
+    "player": {
+      "mental": {"det": 14},
+      "physical": {"jum": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -4,6 +4,15 @@
   "last_name": "Ştefan",
   "birth_date": "1996-05-09",
   "country_id": 790,
+  "attrs": {
+    "person": {"ada": 8, "amb": 13, "loy": 16, "pre": 12, "pro": 15, "spo": 13, "tem": 15, "con": 4},
+    "player": {
+      "technical": {"cro": 13, "dri": 12, "fin": 9, "hea": 11, "lon": 11, "mar": 11, "pas": 13, "pen": 9, "tck": 13, "fir": 12, "tec": 13, "cor": 12, "lth": 12, "fre": 11},
+      "mental": {"otb": 12, "vis": 13, "ant": 11, "dec": 10, "pos": 11, "fla": 11, "tea": 13, "wor": 13, "ldr": 7, "bra": 12, "agg": 13, "det": 11, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 12, "str": 11, "sta": 12, "pac": 13, "jum": 11, "bal": 12, "agi": 12, "nat": 12},
+      "hidden": {"dir": 5, "cns": 13, "imp": 13, "inj": 5, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

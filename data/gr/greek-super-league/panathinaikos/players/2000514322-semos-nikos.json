@@ -5,6 +5,12 @@
   "birth_date": "2009-04-22",
   "country_id": 772,
   "club_id": 983,
+  "attrs": {
+    "player": {
+      "mental": {"bra": 11, "agg": 12},
+      "physical": {"acc": 6, "pac": 9, "agi": 5}
+    }
+  },
   "positions": [
     {
       "code": "DC",

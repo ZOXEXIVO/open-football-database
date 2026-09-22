@@ -5,6 +5,14 @@
   "birth_date": "2001-07-06",
   "country_id": 38,
   "club_id": 12084360,
+  "attrs": {
+    "person": {"amb": 15, "pre": 11, "pro": 13, "spo": 12},
+    "player": {
+      "mental": {"otb": 10, "vis": 8, "ant": 10, "dec": 8, "pos": 4, "tea": 9, "wor": 8, "ldr": 8, "bra": 8, "det": 12, "cmp": 9},
+      "physical": {"str": 11, "sta": 12, "jum": 10, "nat": 11},
+      "hidden": {"cns": 13}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

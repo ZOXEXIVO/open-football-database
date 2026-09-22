@@ -4,6 +4,14 @@
   "last_name": "Vargas",
   "birth_date": "2000-01-01",
   "country_id": 1652,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 12, "fin": 7, "hea": 4, "lon": 7, "mar": 5, "pas": 12, "pen": 7, "tck": 5, "fir": 12, "tec": 14, "cor": 8, "lth": 4, "fre": 8},
+      "mental": {"otb": 11, "vis": 12, "ant": 11, "dec": 11, "pos": 6, "fla": 14, "tea": 11, "wor": 8, "bra": 9, "agg": 6, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 14, "str": 8, "sta": 9, "pac": 11, "jum": 5, "bal": 13, "agi": 11},
+      "hidden": {"dir": 4, "cns": 7, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

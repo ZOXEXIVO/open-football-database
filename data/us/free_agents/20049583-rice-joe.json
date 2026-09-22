@@ -4,6 +4,13 @@
   "last_name": "Rice",
   "birth_date": "1996-01-01",
   "country_id": 390,
+  "attrs": {
+    "player": {
+      "mental": {"dec": 9, "cnt": 9},
+      "physical": {"str": 15, "jum": 14, "bal": 9},
+      "goalkeeping": {"aer": 14}
+    }
+  },
   "positions": [
     {
       "code": "GK",

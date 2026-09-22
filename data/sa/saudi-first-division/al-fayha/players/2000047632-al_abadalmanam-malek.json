@@ -5,6 +5,12 @@
   "birth_date": "1998-03-08",
   "country_id": 133,
   "club_id": 7920365,
+  "attrs": {
+    "person": {"ada": 4},
+    "player": {
+      "physical": {"acc": 14, "str": 10, "jum": 9}
+    }
+  },
   "positions": [
     {
       "code": "ST",

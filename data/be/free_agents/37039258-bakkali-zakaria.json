@@ -4,6 +4,15 @@
   "last_name": "Bakkali",
   "birth_date": "1996-01-26",
   "country_id": 757,
+  "attrs": {
+    "person": {"ada": 7, "amb": 17, "loy": 4, "pre": 6, "pro": 7, "spo": 9, "tem": 7, "con": 19},
+    "player": {
+      "technical": {"cro": 12, "dri": 15, "fin": 10, "hea": 6, "lon": 13, "mar": 3, "pas": 12, "pen": 12, "tck": 7, "fir": 15, "tec": 14, "cor": 7, "lth": 6, "fre": 12},
+      "mental": {"otb": 12, "vis": 12, "ant": 12, "dec": 8, "pos": 4, "fla": 16, "tea": 5, "wor": 5, "ldr": 3, "bra": 14, "det": 7, "cmp": 12, "cnt": 9},
+      "physical": {"acc": 14, "str": 11, "sta": 6, "pac": 14, "jum": 6, "bal": 10, "agi": 16, "nat": 6},
+      "hidden": {"cns": 5, "imp": 13, "inj": 16, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "ML",

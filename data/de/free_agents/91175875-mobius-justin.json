@@ -4,6 +4,15 @@
   "last_name": "Möbius",
   "birth_date": "1997-01-01",
   "country_id": 771,
+  "attrs": {
+    "person": {"ada": 6, "amb": 12, "loy": 12, "pre": 14, "pro": 14, "spo": 14, "tem": 14, "con": 6},
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 10, "hea": 7, "lon": 11, "mar": 7, "pas": 12, "pen": 7, "tck": 6, "fir": 12, "tec": 12, "cor": 8, "lth": 6, "fre": 10},
+      "mental": {"otb": 11, "vis": 11, "ant": 9, "dec": 9, "pos": 7, "fla": 12, "tea": 11, "wor": 11, "ldr": 7, "bra": 8, "agg": 7, "det": 14, "cmp": 9, "cnt": 7},
+      "physical": {"acc": 11, "str": 7, "sta": 12, "pac": 11, "jum": 9, "bal": 6, "agi": 13, "nat": 10},
+      "hidden": {"dir": 8, "cns": 10, "imp": 10, "inj": 6, "ver": 17}
+    }
+  },
   "positions": [
     {
       "code": "MC",

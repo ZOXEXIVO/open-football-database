@@ -5,6 +5,11 @@
   "birth_date": "2008-01-19",
   "country_id": 761,
   "club_id": 1156,
+  "attrs": {
+    "player": {
+      "physical": {"str": 8, "pac": 12, "jum": 9, "agi": 13}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

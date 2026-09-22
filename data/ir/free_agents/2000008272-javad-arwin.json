@@ -4,6 +4,13 @@
   "last_name": "Javad",
   "birth_date": "2001-10-30",
   "country_id": 114,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 11, "mar": 4, "tck": 4, "tec": 12},
+      "mental": {"ant": 10, "pos": 4, "ldr": 5},
+      "physical": {"str": 14, "jum": 16, "bal": 13}
+    }
+  },
   "positions": [
     {
       "code": "ST",

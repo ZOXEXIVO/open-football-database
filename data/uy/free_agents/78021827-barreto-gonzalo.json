@@ -4,6 +4,15 @@
   "last_name": "Barreto",
   "birth_date": "1992-01-22",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 8, "amb": 12, "loy": 8, "pre": 6, "pro": 8, "spo": 8, "tem": 11, "con": 8},
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "fin": 12, "hea": 8, "lon": 11, "mar": 10, "pas": 12, "pen": 13, "fir": 12, "tec": 13, "fre": 13},
+      "mental": {"otb": 12, "vis": 11, "ant": 10, "dec": 8, "pos": 10, "fla": 13, "tea": 10, "wor": 15, "ldr": 8, "bra": 12, "agg": 13, "det": 11, "cmp": 5, "cnt": 11},
+      "physical": {"acc": 13, "str": 8, "sta": 10, "pac": 10, "jum": 7, "bal": 12, "agi": 13, "nat": 7},
+      "hidden": {"dir": 12, "cns": 8, "imp": 8, "inj": 15}
+    }
+  },
   "positions": [
     {
       "code": "ST",

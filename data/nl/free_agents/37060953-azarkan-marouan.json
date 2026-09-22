@@ -4,6 +4,15 @@
   "last_name": "Azarkan",
   "birth_date": "2001-12-08",
   "country_id": 784,
+  "attrs": {
+    "person": {"ada": 10, "amb": 12, "loy": 12, "pre": 10, "pro": 11, "spo": 8, "tem": 11},
+    "player": {
+      "technical": {"cro": 12, "dri": 14, "fin": 11, "hea": 6, "lon": 7, "mar": 5, "pas": 12, "pen": 10, "tck": 5, "fir": 13, "tec": 14, "cor": 13, "lth": 4, "fre": 13},
+      "mental": {"otb": 12, "vis": 11, "ant": 11, "dec": 12, "pos": 5, "fla": 15, "tea": 10, "wor": 11, "ldr": 5, "bra": 12, "agg": 10, "det": 13, "cmp": 12, "cnt": 10},
+      "physical": {"acc": 16, "str": 5, "sta": 10, "pac": 9, "jum": 4, "bal": 16, "agi": 17, "nat": 7},
+      "hidden": {"dir": 12, "cns": 9, "imp": 11, "inj": 13, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "MR",

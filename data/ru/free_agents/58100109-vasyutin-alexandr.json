@@ -4,6 +4,16 @@
   "last_name": "Vasyutin",
   "birth_date": "1995-03-04",
   "country_id": 791,
+  "attrs": {
+    "person": {"ada": 17, "amb": 12, "loy": 12, "pre": 15, "pro": 18, "spo": 13, "tem": 12, "con": 5},
+    "player": {
+      "technical": {"pas": 9, "fir": 9, "tec": 8},
+      "mental": {"vis": 9, "ant": 11, "dec": 12, "pos": 12, "fla": 6, "tea": 10, "wor": 8, "ldr": 12, "bra": 13, "agg": 9, "det": 14, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 9, "str": 13, "sta": 10, "pac": 11, "jum": 14, "bal": 12, "agi": 11, "nat": 10},
+      "goalkeeping": {"han": 12, "aer": 12, "cmd": 12, "com": 14, "kic": 12, "thr": 11, "one": 12, "ref": 14, "ecc": 11, "rus": 11, "pun": 12},
+      "hidden": {"dir": 8, "cns": 14, "imp": 12, "inj": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

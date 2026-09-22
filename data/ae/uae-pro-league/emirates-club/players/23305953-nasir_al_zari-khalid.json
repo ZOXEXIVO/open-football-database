@@ -5,6 +5,11 @@
   "birth_date": "1996-05-13",
   "country_id": 143,
   "club_id": 135435,
+  "attrs": {
+    "player": {
+      "physical": {"str": 10, "jum": 8}
+    }
+  },
   "positions": [
     {
       "code": "DR",

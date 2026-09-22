@@ -4,6 +4,15 @@
   "last_name": "Fernández",
   "birth_date": "1994-09-26",
   "country_id": 1649,
+  "attrs": {
+    "person": {"ada": 3, "amb": 6, "loy": 7, "pre": 2, "pro": 1, "spo": 5, "tem": 2, "con": 19},
+    "player": {
+      "technical": {"cro": 12, "dri": 14, "fin": 15, "hea": 9, "lon": 13, "mar": 4, "pas": 12, "pen": 12, "tck": 7, "fir": 15, "tec": 14, "cor": 12, "lth": 5, "fre": 13},
+      "mental": {"otb": 16, "vis": 13, "ant": 11, "dec": 10, "pos": 9, "fla": 13, "tea": 7, "wor": 8, "ldr": 7, "bra": 12, "agg": 12, "det": 10, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 11, "str": 11, "sta": 9, "pac": 13, "jum": 7, "bal": 12, "agi": 13, "nat": 7},
+      "hidden": {"dir": 8, "cns": 9, "imp": 12, "inj": 11, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "ST",

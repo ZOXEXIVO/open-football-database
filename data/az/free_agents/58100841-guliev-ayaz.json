@@ -4,6 +4,15 @@
   "last_name": "Guliev",
   "birth_date": "1996-11-27",
   "country_id": 756,
+  "attrs": {
+    "person": {"amb": 13, "loy": 11, "pre": 12, "pro": 7, "spo": 7, "tem": 5, "con": 14},
+    "player": {
+      "technical": {"cro": 9, "dri": 11, "fin": 9, "hea": 11, "lon": 12, "mar": 10, "pas": 12, "pen": 8, "tck": 12, "fir": 12, "tec": 12, "cor": 10, "lth": 4, "fre": 10},
+      "mental": {"otb": 8, "vis": 9, "ant": 10, "dec": 8, "pos": 9, "fla": 11, "tea": 11, "wor": 13, "ldr": 7, "bra": 15, "agg": 17, "det": 12, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 13, "str": 8, "sta": 12, "pac": 8, "jum": 5, "bal": 14, "agi": 13, "nat": 11},
+      "hidden": {"dir": 15, "cns": 11, "imp": 9, "inj": 8, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "DM",

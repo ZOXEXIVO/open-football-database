@@ -4,6 +4,15 @@
   "last_name": "Biton",
   "birth_date": "1999-09-27",
   "country_id": 775,
+  "attrs": {
+    "person": {"ada": 12, "amb": 13, "loy": 7, "pre": 6, "pro": 12, "spo": 11, "tem": 8, "con": 7},
+    "player": {
+      "technical": {"cro": 10, "dri": 10, "fin": 10, "hea": 8, "lon": 12, "mar": 8, "pas": 11, "pen": 12, "tck": 10, "fir": 10, "tec": 9, "cor": 13, "fre": 12},
+      "mental": {"otb": 11, "vis": 12, "ant": 11, "dec": 10, "pos": 10, "fla": 9, "tea": 12, "wor": 11, "ldr": 11, "bra": 13, "agg": 13, "det": 13, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 10, "str": 11, "sta": 13, "pac": 14, "jum": 7, "bal": 12, "agi": 9, "nat": 13},
+      "hidden": {"dir": 6, "cns": 11, "imp": 12, "inj": 11, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "DM",

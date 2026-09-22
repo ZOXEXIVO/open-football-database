@@ -4,6 +4,15 @@
   "last_name": "Kārkliņš",
   "birth_date": "1996-01-01",
   "country_id": 777,
+  "attrs": {
+    "person": {"ada": 12, "amb": 13, "loy": 8, "pre": 10, "pro": 14, "spo": 13, "tem": 10, "con": 4},
+    "player": {
+      "technical": {"cro": 12, "dri": 10, "fin": 9, "hea": 9, "lon": 11, "mar": 10, "pas": 13, "tck": 10, "fir": 12, "tec": 11, "cor": 11, "lth": 9, "fre": 13},
+      "mental": {"vis": 11, "ant": 13, "dec": 9, "pos": 12, "tea": 13, "wor": 12, "ldr": 7, "bra": 12, "det": 13, "cmp": 12, "cnt": 9},
+      "physical": {"acc": 10, "str": 8, "sta": 11, "pac": 12, "jum": 7, "bal": 9, "agi": 10, "nat": 10},
+      "hidden": {"inj": 6}
+    }
+  },
   "positions": [
     {
       "code": "DR",

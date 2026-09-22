@@ -4,6 +4,13 @@
   "last_name": "Tongyik",
   "birth_date": "1996-12-28",
   "country_id": 1435,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 5, "hea": 11, "mar": 10, "pas": 7, "tck": 12, "fir": 9},
+      "mental": {"vis": 7, "ant": 10, "dec": 8, "pos": 11, "fla": 5, "tea": 11, "wor": 9, "bra": 12, "agg": 13, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 9, "str": 15, "pac": 11, "jum": 14, "bal": 12, "agi": 8}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -4,6 +4,15 @@
   "last_name": "Chiarello",
   "birth_date": "1993-10-09",
   "country_id": 776,
+  "attrs": {
+    "person": {"ada": 5, "amb": 11, "loy": 11, "pre": 7, "pro": 8, "spo": 9, "tem": 8, "con": 5},
+    "player": {
+      "technical": {"cro": 9, "dri": 11, "fin": 11, "hea": 5, "lon": 9, "mar": 7, "pas": 12, "pen": 7, "tck": 5, "fir": 11, "tec": 11, "cor": 5, "lth": 6, "fre": 6},
+      "mental": {"otb": 14, "vis": 13, "ant": 11, "dec": 10, "pos": 8, "fla": 8, "tea": 14, "wor": 13, "ldr": 7, "bra": 13, "agg": 13, "det": 13, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 12, "str": 7, "sta": 9, "pac": 12, "jum": 6, "bal": 10, "agi": 15, "nat": 14},
+      "hidden": {"dir": 9, "cns": 12, "imp": 7, "inj": 8, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "MC",

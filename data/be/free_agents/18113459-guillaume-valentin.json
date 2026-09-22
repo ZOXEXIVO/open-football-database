@@ -4,6 +4,14 @@
   "last_name": "Guillaume",
   "birth_date": "2001-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 8, "lon": 8, "tck": 10, "fir": 10, "tec": 10, "lth": 5},
+      "mental": {"otb": 10, "pos": 14, "tea": 14, "wor": 14, "ldr": 11, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 12, "str": 12, "sta": 13, "pac": 11, "jum": 13, "bal": 12, "agi": 10, "nat": 14},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "MC",

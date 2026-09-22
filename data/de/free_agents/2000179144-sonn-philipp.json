@@ -4,6 +4,15 @@
   "last_name": "Sonn",
   "birth_date": "2004-01-01",
   "country_id": 771,
+  "attrs": {
+    "person": {"ada": 7, "amb": 12, "loy": 13, "pre": 13, "pro": 15, "spo": 12, "tem": 12, "con": 4},
+    "player": {
+      "technical": {"cro": 8, "dri": 12, "fin": 7, "hea": 4, "lon": 8, "mar": 11, "pas": 13, "pen": 10, "tck": 11, "fir": 13, "tec": 13, "cor": 12, "lth": 2, "fre": 12},
+      "mental": {"otb": 8, "vis": 13, "ant": 8, "dec": 8, "pos": 11, "fla": 12, "tea": 11, "wor": 11, "ldr": 12, "bra": 9, "agg": 13, "det": 12, "cmp": 12, "cnt": 9},
+      "physical": {"acc": 12, "str": 6, "sta": 11, "pac": 11, "jum": 3, "bal": 8, "agi": 12, "nat": 13},
+      "hidden": {"dir": 8, "cns": 12, "inj": 6, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DM",

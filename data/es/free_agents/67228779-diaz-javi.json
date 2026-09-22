@@ -4,6 +4,16 @@
   "last_name": "Díaz",
   "birth_date": "1997-01-01",
   "country_id": 796,
+  "attrs": {
+    "person": {"ada": 9, "amb": 8, "loy": 8, "pre": 8, "pro": 12, "spo": 15, "tem": 15},
+    "player": {
+      "technical": {"pas": 11, "tec": 10},
+      "mental": {"ant": 10, "dec": 9, "pos": 12, "bra": 10, "det": 9, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 10, "str": 10, "sta": 12, "pac": 11, "jum": 13, "bal": 10, "agi": 14},
+      "goalkeeping": {"han": 12, "aer": 11, "cmd": 10, "com": 10, "kic": 11, "thr": 11, "one": 13, "ref": 14, "rus": 12},
+      "hidden": {"cns": 13}
+    }
+  },
   "positions": [
     {
       "code": "GK",

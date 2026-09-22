@@ -5,6 +5,13 @@
   "birth_date": "2008-04-15",
   "country_id": 784,
   "club_id": 1046,
+  "attrs": {
+    "person": {"amb": 15},
+    "player": {
+      "technical": {"pen": 14, "tec": 12},
+      "mental": {"pos": 12, "tea": 15, "wor": 15, "det": 14, "cmp": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

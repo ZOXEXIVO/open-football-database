@@ -4,6 +4,13 @@
   "last_name": "Riahi",
   "birth_date": "2000-07-27",
   "country_id": 34,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 12, "mar": 6, "pas": 12, "tec": 13},
+      "mental": {"fla": 13},
+      "physical": {"agi": 13}
+    }
+  },
   "positions": [
     {
       "code": "MR",

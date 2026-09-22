@@ -4,6 +4,15 @@
   "last_name": "Refsnes",
   "birth_date": "2000-01-01",
   "country_id": 786,
+  "attrs": {
+    "person": {"ada": 15, "amb": 11, "loy": 12, "pre": 12, "pro": 14, "spo": 14, "tem": 13, "con": 7},
+    "player": {
+      "technical": {"cro": 11, "dri": 9, "fin": 6, "hea": 7, "lon": 8, "mar": 11, "pas": 9, "pen": 6, "tck": 11, "fir": 10, "tec": 8, "cor": 10, "lth": 12, "fre": 7},
+      "mental": {"otb": 8, "vis": 8, "ant": 11, "dec": 10, "pos": 11, "fla": 12, "tea": 11, "wor": 14, "ldr": 7, "bra": 12, "agg": 8, "det": 10, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 12, "str": 9, "sta": 14, "pac": 13, "jum": 8, "bal": 9, "agi": 11, "nat": 9},
+      "hidden": {"dir": 7, "cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "DR",

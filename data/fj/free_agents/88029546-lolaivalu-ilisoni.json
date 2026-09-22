@@ -4,6 +4,13 @@
   "last_name": "Lolaivalu",
   "birth_date": "1993-11-28",
   "country_id": 1437,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 11, "fin": 10, "hea": 8},
+      "mental": {"bra": 11},
+      "physical": {"acc": 12, "sta": 11, "pac": 14, "agi": 16}
+    }
+  },
   "positions": [
     {
       "code": "MR",

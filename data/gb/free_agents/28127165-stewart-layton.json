@@ -4,6 +4,14 @@
   "last_name": "Stewart",
   "birth_date": "2002-09-03",
   "country_id": 765,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 12, "hea": 11, "lon": 10, "mar": 6, "pas": 12, "pen": 10, "tck": 7, "fir": 11, "tec": 11, "cor": 9, "lth": 6, "fre": 8},
+      "mental": {"otb": 12, "vis": 11, "ant": 12, "dec": 11, "pos": 8, "fla": 11, "tea": 12, "wor": 13, "ldr": 8, "bra": 10, "agg": 12, "cmp": 12, "cnt": 10},
+      "physical": {"acc": 13, "str": 9, "sta": 11, "pac": 13, "jum": 11, "bal": 11, "agi": 12},
+      "hidden": {"dir": 8, "cns": 10, "inj": 11}
+    }
+  },
   "positions": [
     {
       "code": "ST",

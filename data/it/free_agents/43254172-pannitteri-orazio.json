@@ -4,6 +4,14 @@
   "last_name": "Pannitteri",
   "birth_date": "1999-08-17",
   "country_id": 776,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 12, "hea": 7, "lon": 10, "mar": 5, "pas": 12, "pen": 8, "tck": 6, "fir": 12, "tec": 11, "cor": 9, "lth": 6, "fre": 8},
+      "mental": {"otb": 10, "vis": 12, "ant": 13, "dec": 12, "pos": 6, "fla": 9, "tea": 12, "wor": 12, "ldr": 8, "bra": 8, "agg": 9, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 13, "str": 9, "sta": 12, "pac": 12, "jum": 8, "bal": 9, "agi": 12, "nat": 12},
+      "hidden": {"dir": 7, "cns": 12, "imp": 11, "inj": 10, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

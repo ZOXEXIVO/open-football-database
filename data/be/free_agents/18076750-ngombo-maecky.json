@@ -4,6 +4,15 @@
   "last_name": "Ngombo",
   "birth_date": "1995-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"ada": 13, "amb": 17, "loy": 8, "pre": 11, "pro": 4, "spo": 12, "tem": 14, "con": 10},
+    "player": {
+      "technical": {"cro": 9, "dri": 11, "fin": 11, "hea": 10, "lon": 10, "mar": 5, "pas": 11, "pen": 10, "tck": 6, "fir": 12, "tec": 13, "cor": 7, "lth": 8, "fre": 9},
+      "mental": {"otb": 10, "vis": 11, "ant": 9, "dec": 8, "pos": 6, "fla": 13, "tea": 9, "wor": 9, "ldr": 5, "bra": 13, "agg": 12, "det": 11, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 14, "str": 13, "sta": 10, "pac": 15, "jum": 14, "bal": 10, "agi": 12, "nat": 13},
+      "hidden": {"dir": 6, "cns": 12, "imp": 14, "inj": 6, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "ML",

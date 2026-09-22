@@ -5,6 +5,12 @@
   "birth_date": "1999-07-18",
   "country_id": 12,
   "club_id": 353,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 5},
+      "mental": {"pos": 11, "tea": 11, "wor": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

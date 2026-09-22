@@ -4,6 +4,15 @@
   "last_name": "Manuel Lovato",
   "birth_date": "1989-01-01",
   "country_id": 1649,
+  "attrs": {
+    "person": {"ada": 9, "amb": 8, "loy": 10, "pre": 10, "pro": 12, "spo": 10, "tem": 13, "con": 9},
+    "player": {
+      "technical": {"cro": 10, "dri": 7, "fin": 5, "hea": 10, "lon": 8, "mar": 11, "pas": 9, "pen": 5, "tck": 13, "fir": 7, "tec": 12, "cor": 7, "lth": 12, "fre": 5},
+      "mental": {"otb": 7, "vis": 12, "ant": 12, "dec": 10, "pos": 11, "fla": 9, "tea": 12, "wor": 12, "ldr": 8, "bra": 12, "agg": 9, "det": 10, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 12, "str": 11, "sta": 12, "pac": 12, "jum": 10, "bal": 11, "agi": 11, "nat": 13},
+      "hidden": {"dir": 7, "cns": 12, "imp": 10, "inj": 8, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DL",

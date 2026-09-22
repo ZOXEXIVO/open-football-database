@@ -4,6 +4,15 @@
   "last_name": "Bederka",
   "birth_date": "1995-01-01",
   "country_id": 763,
+  "attrs": {
+    "person": {"amb": 7, "pre": 7, "con": 3},
+    "player": {
+      "technical": {"cro": 9, "dri": 10, "fin": 8, "hea": 13, "lon": 7, "mar": 11, "pas": 12, "pen": 8, "tck": 13, "fir": 9, "tec": 9, "cor": 9, "lth": 10, "fre": 5},
+      "mental": {"otb": 10, "vis": 11, "ant": 11, "dec": 12, "pos": 11, "fla": 7, "tea": 10, "wor": 14, "ldr": 8, "bra": 13, "agg": 11, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 7, "str": 15, "jum": 12, "agi": 7},
+      "hidden": {"dir": 10, "cns": 9, "imp": 12, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "DC",

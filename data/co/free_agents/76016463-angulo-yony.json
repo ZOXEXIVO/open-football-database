@@ -4,6 +4,15 @@
   "last_name": "Angulo",
   "birth_date": "1989-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 10, "amb": 9, "loy": 10, "pre": 9, "pro": 10, "spo": 9, "tem": 11, "con": 10},
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 12, "hea": 11, "lon": 9, "mar": 5, "pas": 10, "pen": 15, "fir": 9, "tec": 10, "cor": 8, "lth": 4, "fre": 8},
+      "mental": {"otb": 12, "vis": 12, "ant": 11, "dec": 12, "pos": 11, "fla": 11, "tea": 12, "wor": 14, "ldr": 7, "bra": 10, "agg": 7, "det": 12, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 10, "str": 11, "sta": 12, "pac": 11, "jum": 10, "bal": 12, "agi": 11, "nat": 12},
+      "hidden": {"dir": 10, "cns": 12, "imp": 9, "inj": 8, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "ST",

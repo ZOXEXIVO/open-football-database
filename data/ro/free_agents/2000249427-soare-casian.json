@@ -4,6 +4,15 @@
   "last_name": "Soare",
   "birth_date": "2006-11-24",
   "country_id": 790,
+  "attrs": {
+    "person": {"ada": 8, "amb": 15, "pre": 7, "pro": 15, "spo": 13, "tem": 13, "con": 3},
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 10, "hea": 7, "lon": 9, "mar": 7, "pas": 12, "pen": 9, "tck": 8, "fir": 13, "tec": 12, "cor": 11, "lth": 4, "fre": 11},
+      "mental": {"otb": 8, "vis": 12, "ant": 9, "dec": 8, "pos": 5, "fla": 12, "tea": 12, "wor": 12, "ldr": 3, "bra": 10, "agg": 9, "det": 14, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 12, "str": 6, "sta": 7, "pac": 11, "jum": 7, "bal": 12, "agi": 12, "nat": 14},
+      "hidden": {"dir": 6, "cns": 12, "inj": 5, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "MC",

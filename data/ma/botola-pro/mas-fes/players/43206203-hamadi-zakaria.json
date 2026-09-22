@@ -5,6 +5,15 @@
   "birth_date": "1998-03-21",
   "country_id": 776,
   "club_id": 5380013,
+  "attrs": {
+    "person": {"amb": 14, "loy": 14, "pre": 11, "pro": 13, "spo": 17, "tem": 16, "con": 1},
+    "player": {
+      "technical": {"cro": 8, "dri": 13, "fin": 7, "hea": 6, "lon": 10, "mar": 7, "pas": 11, "pen": 10, "tck": 5, "fir": 12, "tec": 13, "cor": 10, "lth": 5, "fre": 5},
+      "mental": {"otb": 11, "vis": 12, "ant": 10, "dec": 7, "pos": 4, "fla": 13, "tea": 9, "wor": 8, "ldr": 5, "bra": 7, "agg": 10, "det": 15, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 12, "str": 6, "sta": 8, "pac": 13, "jum": 8, "bal": 6, "agi": 14, "nat": 13},
+      "hidden": {"dir": 7, "cns": 11, "imp": 6, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "WBL",

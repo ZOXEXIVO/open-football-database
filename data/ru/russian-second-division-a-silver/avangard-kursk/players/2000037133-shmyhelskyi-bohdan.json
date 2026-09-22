@@ -5,6 +5,13 @@
   "birth_date": "1993-12-21",
   "country_id": 800,
   "club_id": 477421,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "lon": 11, "pas": 12, "fir": 11, "tec": 12, "fre": 11},
+      "mental": {"dec": 11},
+      "physical": {"acc": 11, "str": 10, "sta": 9, "pac": 11, "agi": 10}
+    }
+  },
   "positions": [
     {
       "code": "MC",

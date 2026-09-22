@@ -4,6 +4,15 @@
   "last_name": "Dequaire",
   "birth_date": "1990-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"amb": 12, "loy": 12, "pre": 14, "pro": 13, "spo": 13, "tem": 13, "con": 5},
+    "player": {
+      "technical": {"cro": 8, "dri": 6, "fin": 6, "hea": 12, "lon": 7, "mar": 13, "pas": 11, "pen": 6, "tck": 13, "fir": 9, "tec": 10, "cor": 4, "lth": 8, "fre": 4},
+      "mental": {"otb": 8, "vis": 10, "ant": 12, "dec": 11, "pos": 12, "fla": 5, "tea": 13, "wor": 12, "ldr": 8, "bra": 12, "agg": 11, "det": 14, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 10, "str": 14, "sta": 13, "pac": 11, "jum": 13, "bal": 13, "agi": 10, "nat": 15},
+      "hidden": {"dir": 12, "cns": 12, "imp": 14, "inj": 13, "ver": 5}
+    }
+  },
   "positions": [
     {
       "code": "DL",

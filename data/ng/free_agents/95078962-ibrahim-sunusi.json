@@ -4,6 +4,14 @@
   "last_name": "Ibrahim",
   "birth_date": "2002-10-01",
   "country_id": 38,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 5, "dri": 11, "fin": 12, "hea": 11, "lon": 12, "pas": 8, "tck": 6, "fir": 10, "tec": 10, "lth": 12},
+      "mental": {"otb": 8, "vis": 10, "ant": 11, "dec": 8, "pos": 12, "fla": 10, "tea": 10, "wor": 10, "agg": 10, "cmp": 11},
+      "physical": {"acc": 13, "str": 14, "sta": 10, "pac": 14, "jum": 11, "bal": 12, "agi": 12, "nat": 10},
+      "hidden": {"dir": 3, "cns": 5, "inj": 10, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "ST",

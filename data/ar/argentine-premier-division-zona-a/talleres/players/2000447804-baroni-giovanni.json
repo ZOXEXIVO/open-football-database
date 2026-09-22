@@ -5,6 +5,13 @@
   "birth_date": "2009-01-21",
   "country_id": 1649,
   "club_id": 102489,
+  "attrs": {
+    "player": {
+      "technical": {"fir": 14, "tec": 15, "cor": 16},
+      "mental": {"vis": 12},
+      "physical": {"acc": 10, "str": 7, "pac": 9, "jum": 11, "bal": 12, "agi": 15, "nat": 9}
+    }
+  },
   "positions": [
     {
       "code": "MC",

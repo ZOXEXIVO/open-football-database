@@ -4,6 +4,15 @@
   "last_name": "Muela",
   "birth_date": "1991-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"amb": 4, "pro": 7, "con": 9},
+    "player": {
+      "technical": {"cro": 11, "dri": 10, "hea": 13, "mar": 12, "pas": 10, "fir": 11, "tec": 11, "cor": 12},
+      "mental": {"vis": 10, "ant": 10, "dec": 9, "pos": 10, "fla": 9, "tea": 13, "wor": 16, "ldr": 13, "bra": 14, "agg": 15, "cmp": 9, "cnt": 13},
+      "physical": {"acc": 8, "str": 14, "sta": 11, "pac": 8, "jum": 14, "bal": 15, "agi": 9, "nat": 7},
+      "hidden": {"cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -4,6 +4,15 @@
   "last_name": "",
   "birth_date": "1987-01-01",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 4, "dri": 5, "fin": 6, "hea": 5, "lon": 1, "mar": 1, "pas": 9, "pen": 7, "tck": 6, "fir": 7, "tec": 9, "cor": 1, "lth": 7, "fre": 4},
+      "mental": {"otb": 1, "vis": 5, "ant": 11, "dec": 10, "pos": 12, "fla": 5, "tea": 10, "wor": 10, "ldr": 10, "bra": 11, "agg": 11, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 9, "str": 14, "sta": 11, "pac": 8, "jum": 14, "bal": 10, "agi": 11, "nat": 11},
+      "goalkeeping": {"han": 12, "aer": 12, "cmd": 11, "com": 12, "kic": 13, "thr": 13, "one": 12, "ref": 11, "ecc": 3, "rus": 13, "pun": 8},
+      "hidden": {"dir": 6, "cns": 9, "imp": 8, "inj": 12, "ver": 1}
+    }
+  },
   "positions": [
     {
       "code": "GK",

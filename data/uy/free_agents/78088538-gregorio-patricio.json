@@ -4,6 +4,15 @@
   "last_name": "Gregorio",
   "birth_date": "1999-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"amb": 2, "pro": 8, "con": 11},
+    "player": {
+      "technical": {"dri": 13, "mar": 11, "pas": 12, "tck": 9, "fir": 13, "tec": 14},
+      "mental": {"otb": 11, "vis": 12, "ant": 12, "dec": 10, "pos": 12, "fla": 13, "tea": 10, "wor": 7, "bra": 9, "agg": 8, "cmp": 10, "cnt": 7},
+      "physical": {"acc": 8, "str": 10, "sta": 9, "pac": 10, "jum": 15, "bal": 13, "agi": 10},
+      "hidden": {"cns": 8}
+    }
+  },
   "positions": [
     {
       "code": "DM",

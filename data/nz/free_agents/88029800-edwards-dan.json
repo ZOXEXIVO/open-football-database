@@ -4,6 +4,14 @@
   "last_name": "Edwards",
   "birth_date": "1998-08-06",
   "country_id": 1438,
+  "attrs": {
+    "person": {"amb": 11, "pre": 10, "pro": 11, "tem": 4, "con": 3},
+    "player": {
+      "technical": {"tck": 11},
+      "physical": {"acc": 8, "str": 7, "sta": 9, "pac": 10, "jum": 6, "bal": 11, "agi": 14, "nat": 11},
+      "hidden": {"inj": 6, "ver": 16}
+    }
+  },
   "positions": [
     {
       "code": "DL",

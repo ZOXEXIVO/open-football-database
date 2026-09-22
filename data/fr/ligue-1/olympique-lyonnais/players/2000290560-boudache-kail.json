@@ -5,6 +5,12 @@
   "birth_date": "2006-06-15",
   "country_id": 769,
   "club_id": 865,
+  "attrs": {
+    "person": {"amb": 15, "loy": 12, "pro": 14, "tem": 12, "con": 8},
+    "player": {
+      "mental": {"det": 14}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

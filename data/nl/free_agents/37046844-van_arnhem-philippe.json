@@ -4,6 +4,15 @@
   "last_name": "van Arnhem",
   "birth_date": "1996-01-01",
   "country_id": 784,
+  "attrs": {
+    "person": {"ada": 7, "amb": 14, "loy": 16, "pro": 15},
+    "player": {
+      "technical": {"cro": 12, "dri": 10, "fin": 8, "hea": 6, "lon": 8, "mar": 9, "pas": 13, "pen": 7, "tck": 9, "fir": 10, "tec": 12, "cor": 11, "lth": 7, "fre": 9},
+      "mental": {"otb": 9, "vis": 12, "ant": 11, "dec": 11, "pos": 10, "fla": 11, "tea": 12, "wor": 13, "ldr": 5, "bra": 10, "agg": 9, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 12, "str": 10, "sta": 12, "pac": 12, "jum": 11, "bal": 11, "agi": 12, "nat": 11},
+      "hidden": {"dir": 6, "cns": 10, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "MC",

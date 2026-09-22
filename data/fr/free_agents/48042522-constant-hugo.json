@@ -4,6 +4,9 @@
   "last_name": "Constant",
   "birth_date": "1999-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"amb": 12, "loy": 12, "pre": 10, "pro": 12}
+  },
   "positions": [
     {
       "code": "GK",

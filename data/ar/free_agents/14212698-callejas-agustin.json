@@ -4,6 +4,14 @@
   "last_name": "Callejas",
   "birth_date": "1997-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 9, "fin": 6, "hea": 13, "lon": 7, "mar": 13, "pas": 9, "pen": 7, "tck": 13, "fir": 10, "tec": 9, "cor": 6, "lth": 10, "fre": 6},
+      "mental": {"otb": 8, "vis": 9, "ant": 7, "dec": 10, "pos": 12, "fla": 7, "tea": 14, "wor": 12, "bra": 13, "agg": 12, "cmp": 7, "cnt": 12},
+      "physical": {"acc": 12, "str": 13, "pac": 11, "jum": 11, "bal": 12, "agi": 11},
+      "hidden": {"dir": 5, "cns": 9, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DC",

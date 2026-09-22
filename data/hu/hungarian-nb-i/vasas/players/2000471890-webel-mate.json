@@ -5,6 +5,12 @@
   "birth_date": "2008-04-24",
   "country_id": 773,
   "club_id": 1066,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10},
+      "physical": {"acc": 12, "pac": 11, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "WBR",

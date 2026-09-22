@@ -4,6 +4,15 @@
   "last_name": "Mkoyan",
   "birth_date": "1986-09-02",
   "country_id": 754,
+  "attrs": {
+    "person": {"ada": 13, "amb": 17, "loy": 11, "pre": 15, "pro": 18, "spo": 14, "tem": 12, "con": 12},
+    "player": {
+      "technical": {"cro": 9, "dri": 6, "fin": 5, "hea": 12, "lon": 11, "mar": 14, "pas": 10, "pen": 6, "tck": 13, "fir": 8, "tec": 10, "cor": 3, "lth": 7, "fre": 7},
+      "mental": {"otb": 3, "vis": 6, "ant": 12, "dec": 12, "pos": 12, "fla": 8, "tea": 13, "wor": 11, "ldr": 18, "bra": 15, "agg": 13, "det": 17, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 7, "str": 13, "sta": 12, "pac": 8, "jum": 13, "bal": 12, "agi": 8, "nat": 20},
+      "hidden": {"dir": 9, "cns": 15, "imp": 15, "inj": 4, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "DC",

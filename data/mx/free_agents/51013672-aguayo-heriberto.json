@@ -4,6 +4,14 @@
   "last_name": "Aguayo",
   "birth_date": "1991-01-01",
   "country_id": 379,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 6, "dri": 6, "fin": 8, "hea": 10, "lon": 8, "mar": 11, "pas": 8, "pen": 9, "tck": 10, "fir": 7, "tec": 8, "cor": 9, "lth": 8, "fre": 11},
+      "mental": {"otb": 11, "vis": 7, "ant": 12, "dec": 12, "pos": 13, "fla": 10, "tea": 13, "wor": 14, "ldr": 11, "bra": 12, "agg": 11, "cmp": 14, "cnt": 13},
+      "physical": {"acc": 10, "str": 11, "sta": 12, "pac": 8, "jum": 10, "bal": 12, "agi": 13, "nat": 10},
+      "hidden": {"dir": 9, "cns": 12, "imp": 9, "inj": 8, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DC",

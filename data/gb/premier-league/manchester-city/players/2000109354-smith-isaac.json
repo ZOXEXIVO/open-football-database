@@ -5,6 +5,13 @@
   "birth_date": "2005-07-26",
   "country_id": 765,
   "club_id": 679,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 12, "tck": 13, "fir": 13},
+      "mental": {"ant": 13},
+      "physical": {"acc": 13}
+    }
+  },
   "positions": [
     {
       "code": "DC",

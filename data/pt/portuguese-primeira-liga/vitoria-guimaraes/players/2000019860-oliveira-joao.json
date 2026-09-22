@@ -5,6 +5,12 @@
   "birth_date": "2002-01-01",
   "country_id": 788,
   "club_id": 1494,
+  "attrs": {
+    "player": {
+      "physical": {"jum": 7, "agi": 11},
+      "goalkeeping": {"han": 11, "aer": 9, "thr": 12, "ref": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

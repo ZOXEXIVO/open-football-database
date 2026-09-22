@@ -5,6 +5,14 @@
   "birth_date": "2007-07-02",
   "country_id": 114,
   "club_id": 5512191,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 9, "fin": 7, "hea": 4, "pas": 7, "fir": 11, "tec": 9},
+      "mental": {"otb": 10, "vis": 8, "ant": 7, "dec": 8, "tea": 10, "wor": 12, "cmp": 7},
+      "physical": {"acc": 15, "str": 6, "sta": 8, "pac": 15, "agi": 11},
+      "hidden": {"cns": 7}
+    }
+  },
   "positions": [
     {
       "code": "AML",

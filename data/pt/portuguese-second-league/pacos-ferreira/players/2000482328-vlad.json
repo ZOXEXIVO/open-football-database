@@ -5,6 +5,13 @@
   "birth_date": "2009-03-19",
   "country_id": 788,
   "club_id": 2386,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 15, "pas": 8},
+      "mental": {"ant": 11, "dec": 7, "pos": 6, "fla": 15, "wor": 12, "bra": 12, "agg": 7, "cnt": 10},
+      "physical": {"acc": 14, "str": 5, "pac": 14, "jum": 6, "bal": 13, "agi": 15}
+    }
+  },
   "positions": [
     {
       "code": "MR",

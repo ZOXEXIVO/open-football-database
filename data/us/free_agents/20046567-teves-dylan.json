@@ -4,6 +4,14 @@
   "last_name": "Teves",
   "birth_date": "2000-01-01",
   "country_id": 390,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 10, "fin": 11, "hea": 8, "lon": 10, "mar": 8, "pas": 11, "pen": 13, "tck": 9, "fir": 11, "tec": 11, "cor": 10, "fre": 11},
+      "mental": {"ant": 9, "dec": 9, "fla": 11, "cnt": 9},
+      "physical": {"acc": 12, "str": 6, "pac": 11, "jum": 6, "bal": 10, "agi": 12},
+      "hidden": {"cns": 8}
+    }
+  },
   "positions": [
     {
       "code": "MC",

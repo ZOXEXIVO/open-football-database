@@ -5,6 +5,14 @@
   "birth_date": "2000-11-28",
   "country_id": 5,
   "club_id": 5340079,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 6, "hea": 6, "pas": 9, "fir": 8},
+      "mental": {"vis": 7, "ant": 13, "dec": 9, "pos": 11, "wor": 10, "bra": 14, "agg": 12, "cmp": 11},
+      "physical": {"acc": 9, "str": 12, "sta": 9, "pac": 10, "jum": 14, "agi": 13, "nat": 14},
+      "goalkeeping": {"aer": 12, "cmd": 13, "ref": 14, "rus": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

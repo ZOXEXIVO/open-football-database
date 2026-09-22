@@ -4,6 +4,14 @@
   "last_name": "Eyenga Lokilo",
   "birth_date": "2001-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 11, "fin": 12, "hea": 7, "mar": 5, "pas": 10, "fir": 11, "tec": 11},
+      "mental": {"cmp": 11},
+      "physical": {"acc": 13, "str": 7, "sta": 8, "pac": 14, "bal": 7},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "AML",

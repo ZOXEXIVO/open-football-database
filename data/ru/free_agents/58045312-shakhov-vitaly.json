@@ -4,6 +4,15 @@
   "last_name": "Shakhov",
   "birth_date": "1991-01-01",
   "country_id": 791,
+  "attrs": {
+    "person": {"loy": 11, "pre": 10, "pro": 12, "spo": 10, "tem": 9, "con": 6},
+    "player": {
+      "technical": {"cro": 5, "dri": 9, "fin": 9, "hea": 10, "lon": 9, "mar": 10, "pas": 10, "pen": 9, "tck": 12, "fir": 9, "tec": 9, "cor": 6, "lth": 10, "fre": 6},
+      "mental": {"otb": 9, "vis": 9, "ant": 13, "dec": 10, "pos": 11, "fla": 12, "tea": 10, "wor": 11, "ldr": 10, "bra": 9, "agg": 13, "det": 12, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 10, "str": 11, "sta": 11, "pac": 11, "jum": 14, "bal": 14, "agi": 9, "nat": 10},
+      "hidden": {"dir": 8, "cns": 16, "imp": 10, "inj": 10, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

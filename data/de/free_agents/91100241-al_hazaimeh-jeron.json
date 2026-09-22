@@ -4,6 +4,15 @@
   "last_name": "Al-Hazaimeh",
   "birth_date": "1992-01-01",
   "country_id": 771,
+  "attrs": {
+    "person": {"ada": 6, "amb": 12, "loy": 12, "pre": 13, "pro": 13, "spo": 13, "tem": 13, "con": 6},
+    "player": {
+      "technical": {"cro": 10, "dri": 10, "fin": 10, "hea": 12, "lon": 10, "mar": 10, "pas": 11, "pen": 14, "tck": 11, "fir": 10, "tec": 9, "cor": 11, "lth": 11, "fre": 11},
+      "mental": {"otb": 12, "vis": 9, "ant": 11, "dec": 9, "pos": 11, "fla": 8, "tea": 12, "wor": 12, "ldr": 10, "bra": 13, "agg": 11, "det": 12, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 10, "str": 14, "sta": 12, "pac": 11, "jum": 16, "bal": 11, "agi": 9, "nat": 12},
+      "hidden": {"dir": 10, "cns": 12, "imp": 13, "inj": 8, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

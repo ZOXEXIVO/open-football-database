@@ -4,6 +4,14 @@
   "last_name": "Kok",
   "birth_date": "2002-01-01",
   "country_id": 784,
+  "attrs": {
+    "person": {"amb": 14, "loy": 16, "pro": 16},
+    "player": {
+      "technical": {"cro": 11, "dri": 9, "fin": 8, "hea": 12, "pas": 9, "fir": 8, "tec": 9},
+      "mental": {"ant": 12, "tea": 12, "det": 16, "cnt": 12},
+      "physical": {"acc": 10, "str": 16, "sta": 12, "pac": 11, "jum": 13, "bal": 12, "agi": 8}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

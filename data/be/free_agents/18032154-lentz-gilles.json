@@ -4,6 +4,14 @@
   "last_name": "Lentz",
   "birth_date": "1992-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"pro": 10},
+    "player": {
+      "technical": {"pas": 5},
+      "mental": {"det": 13},
+      "goalkeeping": {"han": 10, "aer": 14, "ref": 14, "rus": 10, "pun": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

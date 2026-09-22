@@ -4,6 +4,14 @@
   "last_name": "Yllaconza",
   "birth_date": "1991-01-01",
   "country_id": 1656,
+  "attrs": {
+    "person": {"ada": 14, "amb": 12, "pro": 5, "spo": 5, "tem": 8, "con": 10},
+    "player": {
+      "technical": {"dri": 11, "fir": 11, "tec": 11},
+      "mental": {"vis": 10, "fla": 12},
+      "physical": {"str": 7, "jum": 8, "bal": 7, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "MC",

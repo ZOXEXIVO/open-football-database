@@ -4,6 +4,14 @@
   "last_name": "Gradoboev",
   "birth_date": "1991-08-24",
   "country_id": 758,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 8, "fin": 4, "hea": 13, "lon": 12, "mar": 8, "pas": 8, "pen": 14, "tck": 12, "fir": 8, "tec": 8, "cor": 12, "lth": 10, "fre": 8},
+      "mental": {"otb": 6, "vis": 8, "ant": 9, "dec": 8, "pos": 12, "fla": 10, "tea": 12, "wor": 12, "ldr": 9, "bra": 12, "agg": 14, "cmp": 12, "cnt": 8},
+      "physical": {"acc": 8, "str": 13, "sta": 8, "pac": 8, "jum": 13, "bal": 12, "agi": 8, "nat": 12},
+      "hidden": {"dir": 15, "cns": 13, "imp": 12, "inj": 11, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DM",

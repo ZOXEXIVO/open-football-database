@@ -4,6 +4,15 @@
   "last_name": "Ezikian",
   "birth_date": "1991-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"amb": 10, "loy": 13, "pro": 13, "con": 10},
+    "player": {
+      "technical": {"cro": 8, "dri": 10, "fin": 9, "hea": 9, "lon": 12, "mar": 9, "pas": 12, "pen": 13, "tck": 10, "fir": 12, "tec": 13, "cor": 12, "lth": 5, "fre": 13},
+      "mental": {"otb": 8, "vis": 12, "ant": 10, "dec": 11, "pos": 8, "fla": 14, "tea": 12, "wor": 11, "ldr": 12, "bra": 9, "agg": 13, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 11, "str": 8, "sta": 11, "pac": 11, "jum": 11, "bal": 10, "agi": 12, "nat": 13},
+      "hidden": {"dir": 13, "cns": 12, "imp": 12, "inj": 10, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DM",

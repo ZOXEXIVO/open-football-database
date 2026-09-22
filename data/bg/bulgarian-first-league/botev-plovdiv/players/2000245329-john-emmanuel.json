@@ -5,6 +5,13 @@
   "birth_date": "2005-08-01",
   "country_id": 38,
   "club_id": 22033833,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "pas": 10, "fir": 10, "tec": 9},
+      "mental": {"vis": 10, "ant": 10, "dec": 10, "pos": 10, "cmp": 12},
+      "physical": {"acc": 10, "str": 4, "pac": 10, "jum": 11, "agi": 9}
+    }
+  },
   "positions": [
     {
       "code": "DC",

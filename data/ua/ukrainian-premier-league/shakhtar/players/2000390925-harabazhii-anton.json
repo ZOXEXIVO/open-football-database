@@ -5,6 +5,12 @@
   "birth_date": "2007-04-19",
   "country_id": 800,
   "club_id": 1895,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 3, "mar": 8, "pas": 11, "cor": 3},
+      "physical": {"str": 11, "jum": 16}
+    }
+  },
   "positions": [
     {
       "code": "DC",

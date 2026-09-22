@@ -5,6 +5,14 @@
   "birth_date": "2005-12-04",
   "country_id": 802,
   "club_id": 1950,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "hea": 11, "pas": 12, "fir": 11, "tec": 9},
+      "mental": {"vis": 12, "ant": 12, "pos": 12, "wor": 10, "cmp": 10},
+      "physical": {"str": 13, "sta": 11, "jum": 15, "bal": 11, "agi": 11},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "MC",

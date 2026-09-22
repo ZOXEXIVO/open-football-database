@@ -4,6 +4,16 @@
   "last_name": "Voltolini",
   "birth_date": "1996-01-01",
   "country_id": 776,
+  "attrs": {
+    "person": {"ada": 9, "amb": 8, "loy": 12, "pre": 9, "pro": 9, "spo": 9, "tem": 11, "con": 10},
+    "player": {
+      "technical": {"hea": 6, "pas": 6, "fir": 5, "tec": 5},
+      "mental": {"otb": 5, "vis": 5, "ant": 14, "dec": 8, "pos": 10, "fla": 6, "tea": 11, "wor": 12, "ldr": 8, "bra": 12, "agg": 7, "det": 13, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 11, "str": 13, "sta": 12, "pac": 10, "jum": 15, "bal": 11, "agi": 14, "nat": 14},
+      "goalkeeping": {"han": 10, "aer": 11, "cmd": 11, "com": 11, "kic": 9, "thr": 10, "one": 12, "ref": 12, "ecc": 11, "rus": 10, "pun": 11},
+      "hidden": {"dir": 7, "cns": 13, "imp": 11, "inj": 6}
+    }
+  },
   "positions": [
     {
       "code": "GK",

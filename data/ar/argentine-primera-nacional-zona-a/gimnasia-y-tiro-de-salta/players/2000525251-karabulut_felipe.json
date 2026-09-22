@@ -5,6 +5,12 @@
   "birth_date": "2008-02-09",
   "country_id": 1649,
   "club_id": 102464,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "fin": 10},
+      "mental": {"cmp": 10}
+    }
+  },
   "positions": [
     {
       "code": "ST",

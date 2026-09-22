@@ -4,6 +4,14 @@
   "last_name": "Gómez",
   "birth_date": "1993-07-17",
   "country_id": 379,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 9, "fin": 7, "hea": 8, "lon": 8, "mar": 11, "pas": 11, "pen": 11, "tck": 12, "fir": 10, "tec": 12, "cor": 9, "lth": 8, "fre": 11},
+      "mental": {"otb": 10, "vis": 10, "ant": 9, "dec": 12, "pos": 11, "fla": 12, "tea": 12, "wor": 11, "ldr": 10, "bra": 10, "agg": 7, "cmp": 12, "cnt": 10},
+      "physical": {"acc": 13, "str": 7, "sta": 16, "pac": 14, "jum": 11, "bal": 9, "agi": 12, "nat": 9},
+      "hidden": {"dir": 11, "cns": 10, "inj": 8, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "DR",

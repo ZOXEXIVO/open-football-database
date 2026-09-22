@@ -4,6 +4,15 @@
   "last_name": "Rebernik",
   "birth_date": "1996-01-01",
   "country_id": 761,
+  "attrs": {
+    "person": {"amb": 14, "spo": 15},
+    "player": {
+      "technical": {"cro": 12, "dri": 10, "fin": 8, "hea": 11, "mar": 10, "pas": 9, "tck": 12, "fir": 9, "tec": 11, "cor": 11},
+      "mental": {"vis": 12, "ant": 9, "dec": 12, "pos": 13, "tea": 13, "wor": 15, "bra": 14, "agg": 11, "det": 13, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 13, "str": 7, "sta": 8, "pac": 13, "bal": 8, "agi": 12},
+      "hidden": {"ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "MR",

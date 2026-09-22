@@ -5,6 +5,13 @@
   "birth_date": "1986-04-06",
   "country_id": 16,
   "club_id": 8631278,
+  "attrs": {
+    "player": {
+      "mental": {"ldr": 15, "det": 15},
+      "physical": {"acc": 7, "str": 12, "sta": 10, "pac": 7, "bal": 12, "agi": 10},
+      "goalkeeping": {"ref": 13}
+    }
+  },
   "positions": [
     {
       "code": "GK",

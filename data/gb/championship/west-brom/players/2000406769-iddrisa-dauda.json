@@ -5,6 +5,14 @@
   "birth_date": "2008-01-08",
   "country_id": 776,
   "club_id": 734,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "hea": 9, "lon": 10, "mar": 9, "pas": 12, "tck": 10, "fir": 12, "tec": 12},
+      "mental": {"otb": 7, "vis": 11, "dec": 7, "pos": 9, "wor": 10, "ldr": 8, "bra": 11, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 12, "str": 12, "sta": 9, "pac": 11, "bal": 13, "agi": 10},
+      "hidden": {"ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "DC",

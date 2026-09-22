@@ -5,6 +5,15 @@
   "birth_date": "1996-01-12",
   "country_id": 45,
   "club_id": 65010424,
+  "attrs": {
+    "person": {"con": 12},
+    "player": {
+      "technical": {"cro": 6, "dri": 6, "fin": 6, "hea": 11, "lon": 4, "mar": 16, "pas": 11, "pen": 4, "tck": 11, "fir": 11, "tec": 8, "cor": 6, "lth": 9, "fre": 3},
+      "mental": {"cnt": 8},
+      "physical": {"acc": 16, "pac": 13},
+      "hidden": {"ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

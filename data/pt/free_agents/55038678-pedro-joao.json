@@ -4,6 +4,15 @@
   "last_name": "Pedro",
   "birth_date": "1993-01-01",
   "country_id": 788,
+  "attrs": {
+    "person": {"ada": 8, "amb": 14, "loy": 13, "pre": 14, "pro": 11, "spo": 13, "tem": 12, "con": 13},
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 10, "hea": 10, "lon": 11, "mar": 10, "pas": 14, "pen": 13, "tck": 12, "fir": 13, "tec": 14, "cor": 11, "lth": 7, "fre": 8},
+      "mental": {"otb": 11, "vis": 13, "ant": 11, "dec": 11, "pos": 11, "fla": 13, "tea": 12, "wor": 13, "ldr": 15, "bra": 12, "agg": 13, "det": 14, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 11, "str": 11, "sta": 11, "pac": 11, "jum": 8, "bal": 13, "agi": 11, "nat": 11},
+      "hidden": {"dir": 10, "cns": 13, "imp": 12, "inj": 5, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

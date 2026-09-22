@@ -4,6 +4,15 @@
   "last_name": "Onana",
   "birth_date": "2000-01-08",
   "country_id": 11,
+  "attrs": {
+    "person": {"amb": 12, "pro": 10},
+    "player": {
+      "technical": {"cro": 6, "dri": 12, "fin": 9, "hea": 14, "lon": 9, "mar": 13, "pas": 12, "pen": 10, "tck": 14, "fir": 12, "tec": 10, "cor": 8, "lth": 9, "fre": 9},
+      "mental": {"otb": 8, "vis": 12, "ant": 13, "dec": 12, "pos": 12, "fla": 9, "tea": 14, "wor": 12, "ldr": 8, "bra": 14, "agg": 17, "det": 15, "cmp": 11, "cnt": 14},
+      "physical": {"acc": 10, "str": 15, "sta": 16, "pac": 13, "jum": 14, "bal": 10, "agi": 11, "nat": 13},
+      "hidden": {"dir": 14, "cns": 10, "imp": 10, "inj": 8, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

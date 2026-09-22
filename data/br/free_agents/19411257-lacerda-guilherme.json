@@ -4,6 +4,15 @@
   "last_name": "Lacerda",
   "birth_date": "2000-01-01",
   "country_id": 1651,
+  "attrs": {
+    "person": {"pre": 11, "pro": 11, "tem": 10},
+    "player": {
+      "technical": {"cro": 6, "dri": 8, "fin": 5, "hea": 11, "lon": 4, "mar": 9, "pas": 9, "pen": 4, "tck": 10, "fir": 10, "tec": 8, "cor": 4, "lth": 8, "fre": 3},
+      "mental": {"otb": 7, "vis": 7, "ant": 9, "dec": 8, "pos": 10, "fla": 5, "tea": 9, "wor": 12, "bra": 12, "agg": 10, "det": 12, "cmp": 9, "cnt": 8},
+      "physical": {"acc": 11, "str": 13, "sta": 11, "pac": 11, "jum": 14, "bal": 10, "agi": 7},
+      "hidden": {"ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

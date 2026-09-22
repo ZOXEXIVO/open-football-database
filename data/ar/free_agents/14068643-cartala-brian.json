@@ -4,6 +4,13 @@
   "last_name": "Cartalá",
   "birth_date": "1992-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 11, "hea": 7, "pas": 9, "fir": 10, "tec": 10},
+      "mental": {"wor": 12},
+      "physical": {"acc": 12, "str": 10, "sta": 10, "pac": 11, "bal": 9, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "ML",

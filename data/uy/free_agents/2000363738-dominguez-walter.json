@@ -4,6 +4,15 @@
   "last_name": "Domínguez",
   "birth_date": "1999-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 1, "amb": 1, "loy": 15, "pro": 5},
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 11, "hea": 10, "lon": 10, "mar": 9, "pas": 11, "pen": 11, "tck": 9, "fir": 11, "tec": 12},
+      "mental": {"otb": 12, "vis": 11, "ant": 12, "dec": 11, "pos": 11, "fla": 11, "tea": 9, "wor": 11, "ldr": 10, "bra": 11, "agg": 9, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 11, "str": 9, "sta": 9, "pac": 11, "jum": 8, "bal": 11, "agi": 10, "nat": 10},
+      "hidden": {"dir": 13, "cns": 10, "imp": 12, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "ST",

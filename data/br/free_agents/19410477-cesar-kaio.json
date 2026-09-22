@@ -4,6 +4,9 @@
   "last_name": "César",
   "birth_date": "2000-01-01",
   "country_id": 1651,
+  "attrs": {
+    "person": {"amb": 10, "pre": 10, "pro": 12, "tem": 10}
+  },
   "positions": [
     {
       "code": "DM",

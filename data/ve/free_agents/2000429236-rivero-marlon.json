@@ -4,6 +4,12 @@
   "last_name": "Rivero",
   "birth_date": "2006-11-17",
   "country_id": 1658,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 11, "pas": 10, "fir": 10, "tec": 11},
+      "physical": {"acc": 13, "str": 6, "pac": 12, "jum": 5, "bal": 11, "agi": 13}
+    }
+  },
   "positions": [
     {
       "code": "DM",

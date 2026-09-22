@@ -4,6 +4,15 @@
   "last_name": "Cissé",
   "birth_date": "1996-05-02",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 13, "amb": 11, "loy": 13, "pre": 10, "pro": 12, "spo": 13, "tem": 13, "con": 5},
+    "player": {
+      "technical": {"cro": 11, "dri": 8, "fin": 7, "hea": 12, "lon": 7, "mar": 12, "pas": 10, "tck": 12, "fir": 10, "tec": 9, "lth": 10},
+      "mental": {"otb": 10, "vis": 8, "ant": 11, "dec": 12, "pos": 12, "fla": 8, "tea": 13, "wor": 13, "ldr": 11, "bra": 12, "agg": 9, "det": 11, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 13, "str": 12, "sta": 14, "pac": 12, "jum": 12, "bal": 14, "agi": 14, "nat": 14},
+      "hidden": {"dir": 9, "cns": 12, "imp": 13, "inj": 9, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "DR",

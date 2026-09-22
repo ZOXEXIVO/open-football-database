@@ -5,6 +5,15 @@
   "birth_date": "1997-08-20",
   "country_id": 49,
   "club_id": 888,
+  "attrs": {
+    "person": {"con": 6},
+    "player": {
+      "technical": {"fin": 12, "hea": 10, "mar": 5, "pas": 13, "tck": 6, "fir": 12, "tec": 12, "lth": 8, "fre": 13},
+      "mental": {"ldr": 8, "det": 12},
+      "physical": {"acc": 12, "str": 10, "pac": 12, "jum": 10},
+      "hidden": {"cns": 12, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

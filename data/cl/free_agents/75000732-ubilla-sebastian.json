@@ -4,6 +4,15 @@
   "last_name": "Ubilla",
   "birth_date": "1990-01-01",
   "country_id": 1652,
+  "attrs": {
+    "person": {"ada": 8, "amb": 12, "loy": 13, "pre": 10, "pro": 11, "spo": 11, "tem": 10, "con": 8},
+    "player": {
+      "technical": {"cro": 12, "dri": 13, "fin": 10, "hea": 8, "lon": 10, "mar": 5, "pas": 11, "pen": 10, "tck": 7, "fir": 11, "tec": 13, "cor": 11, "lth": 6, "fre": 8},
+      "mental": {"otb": 13, "vis": 10, "ant": 12, "dec": 10, "pos": 10, "fla": 12, "tea": 13, "wor": 10, "ldr": 7, "bra": 9, "agg": 9, "det": 12, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 10, "str": 9, "sta": 10, "pac": 11, "jum": 6, "bal": 9, "agi": 11, "nat": 13},
+      "hidden": {"dir": 4, "cns": 9, "imp": 9, "inj": 17, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

@@ -4,6 +4,14 @@
   "last_name": "Vlijter",
   "birth_date": "1997-01-01",
   "country_id": 784,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 12, "fin": 9, "hea": 9, "lon": 10, "mar": 5, "pas": 12, "pen": 10, "tck": 4, "fir": 10, "tec": 11, "cor": 8, "lth": 7, "fre": 6},
+      "mental": {"otb": 13, "vis": 12, "ant": 12, "dec": 10, "pos": 5, "fla": 9, "tea": 13, "wor": 13, "ldr": 6, "bra": 10, "agg": 11, "cmp": 9, "cnt": 11},
+      "physical": {"acc": 16, "str": 11, "sta": 14, "pac": 13, "jum": 8, "bal": 12, "agi": 13, "nat": 14},
+      "hidden": {"dir": 7, "cns": 10, "imp": 9, "inj": 6, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

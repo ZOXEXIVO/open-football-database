@@ -4,6 +4,13 @@
   "last_name": "Bentos-Pereira",
   "birth_date": "2001-01-01",
   "country_id": 1657,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 12, "fir": 12, "tec": 13, "lth": 14},
+      "mental": {"fla": 12},
+      "physical": {"jum": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

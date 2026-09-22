@@ -5,6 +5,13 @@
   "birth_date": "2005-02-07",
   "country_id": 791,
   "club_id": 130507,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 10, "tck": 1},
+      "mental": {"otb": 8, "pos": 3},
+      "physical": {"acc": 8, "str": 8, "sta": 6, "pac": 9, "jum": 7}
+    }
+  },
   "positions": [
     {
       "code": "MR",

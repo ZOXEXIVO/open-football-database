@@ -5,6 +5,13 @@
   "birth_date": "2008-08-31",
   "country_id": 765,
   "club_id": 677,
+  "attrs": {
+    "person": {"ada": 10, "amb": 12, "loy": 12, "pre": 10, "pro": 12, "spo": 14, "tem": 14, "con": 8},
+    "player": {
+      "mental": {"otb": 10, "vis": 10, "ant": 10, "wor": 12, "agg": 10, "det": 12, "cmp": 10},
+      "physical": {"sta": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

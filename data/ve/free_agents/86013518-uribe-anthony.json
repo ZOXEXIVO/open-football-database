@@ -4,6 +4,15 @@
   "last_name": "Uribe",
   "birth_date": "1990-10-24",
   "country_id": 1658,
+  "attrs": {
+    "person": {"ada": 12, "amb": 12, "loy": 13, "pre": 11, "pro": 10},
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 13, "hea": 13, "lon": 11, "mar": 2, "pas": 8, "pen": 9, "tck": 3, "fir": 12, "tec": 12, "cor": 3, "lth": 4, "fre": 8},
+      "mental": {"otb": 13, "vis": 9, "ant": 13, "dec": 13, "pos": 7, "fla": 12, "tea": 11, "wor": 9, "ldr": 5, "bra": 12, "agg": 11, "det": 12, "cmp": 11, "cnt": 13},
+      "physical": {"acc": 12, "str": 12, "sta": 12, "pac": 11, "jum": 13, "bal": 12, "agi": 11, "nat": 12},
+      "hidden": {"dir": 5, "cns": 8}
+    }
+  },
   "positions": [
     {
       "code": "ST",

@@ -5,6 +5,12 @@
   "birth_date": "1989-09-17",
   "country_id": 31,
   "club_id": 5341652,
+  "attrs": {
+    "player": {
+      "technical": {"tck": 11},
+      "mental": {"pos": 10, "agg": 13}
+    }
+  },
   "positions": [
     {
       "code": "DC",

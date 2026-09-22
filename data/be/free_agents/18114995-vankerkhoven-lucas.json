@@ -4,6 +4,14 @@
   "last_name": "Vankerkhoven",
   "birth_date": "2002-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 9, "fin": 9, "hea": 11, "lon": 10, "mar": 11, "pas": 11, "pen": 8, "tck": 11, "fir": 12, "tec": 10, "cor": 9, "lth": 9, "fre": 8},
+      "mental": {"otb": 10, "vis": 12, "ant": 13, "dec": 11, "pos": 11, "fla": 11, "tea": 13, "wor": 14, "ldr": 13, "bra": 11, "agg": 12, "cmp": 14, "cnt": 11},
+      "physical": {"acc": 13, "str": 8, "sta": 11, "pac": 13, "jum": 10, "bal": 8, "agi": 9, "nat": 10},
+      "hidden": {"cns": 13, "inj": 4, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DM",

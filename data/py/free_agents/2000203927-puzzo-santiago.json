@@ -4,6 +4,13 @@
   "last_name": "Puzzo",
   "birth_date": "2006-06-30",
   "country_id": 1655,
+  "attrs": {
+    "person": {"pro": 4},
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "lon": 13, "mar": 10, "pas": 11, "tck": 7, "fir": 13, "tec": 13},
+      "physical": {"acc": 13, "str": 6, "sta": 9, "pac": 12, "jum": 8, "bal": 11, "agi": 14}
+    }
+  },
   "positions": [
     {
       "code": "MC",

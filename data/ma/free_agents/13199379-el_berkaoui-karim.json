@@ -4,6 +4,15 @@
   "last_name": "El Berkaoui",
   "birth_date": "1995-12-13",
   "country_id": 34,
+  "attrs": {
+    "person": {"ada": 10, "amb": 13, "loy": 11, "pre": 13, "pro": 13, "spo": 8, "tem": 10, "con": 7},
+    "player": {
+      "technical": {"cro": 11, "dri": 13, "fin": 15, "hea": 13, "lon": 13, "mar": 5, "pas": 12, "pen": 15, "tck": 5, "fir": 12, "tec": 15, "cor": 9, "lth": 4, "fre": 12},
+      "mental": {"otb": 15, "vis": 12, "ant": 15, "dec": 12, "pos": 6, "fla": 11, "tea": 10, "wor": 11, "ldr": 14, "bra": 11, "agg": 9, "det": 12, "cmp": 14, "cnt": 13},
+      "physical": {"acc": 14, "str": 8, "sta": 11, "pac": 8, "jum": 6, "bal": 15, "agi": 15, "nat": 12},
+      "hidden": {"dir": 9, "cns": 13, "imp": 13, "inj": 10, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "AML",

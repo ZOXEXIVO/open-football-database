@@ -4,6 +4,12 @@
   "last_name": "Kawabata",
   "birth_date": "2004-01-01",
   "country_id": 116,
+  "attrs": {
+    "player": {
+      "mental": {"dec": 8, "det": 13},
+      "physical": {"str": 7, "jum": 7}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -4,6 +4,15 @@
   "last_name": "Jones",
   "birth_date": "1991-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 4, "loy": 8, "pre": 7, "pro": 10},
+    "player": {
+      "technical": {"cro": 15, "dri": 10, "fin": 11, "hea": 7, "lon": 11, "mar": 8, "pas": 12, "pen": 13, "tck": 7, "fir": 12, "tec": 13, "cor": 15, "lth": 10, "fre": 13},
+      "mental": {"otb": 10, "vis": 11, "ant": 10, "dec": 10, "pos": 11, "fla": 11, "tea": 11, "wor": 11, "ldr": 11, "bra": 10, "agg": 7, "det": 9, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 12, "str": 10, "sta": 11, "pac": 11, "jum": 8, "bal": 12, "agi": 11, "nat": 11},
+      "hidden": {"dir": 9, "cns": 7, "imp": 7, "inj": 9, "ver": 16}
+    }
+  },
   "positions": [
     {
       "code": "DL",

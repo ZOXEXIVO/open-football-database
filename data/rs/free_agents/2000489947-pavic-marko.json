@@ -4,6 +4,13 @@
   "last_name": "Pavić",
   "birth_date": "2005-04-26",
   "country_id": 802,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 11, "mar": 11, "tck": 10},
+      "mental": {"ant": 10, "dec": 12, "pos": 10, "bra": 11, "agg": 12},
+      "physical": {"acc": 9, "str": 12, "pac": 9, "jum": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

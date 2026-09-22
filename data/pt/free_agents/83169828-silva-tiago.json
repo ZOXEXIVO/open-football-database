@@ -4,6 +4,16 @@
   "last_name": "Silva",
   "birth_date": "2000-03-28",
   "country_id": 788,
+  "attrs": {
+    "person": {"ada": 13, "amb": 11, "loy": 18, "pre": 7, "pro": 14, "spo": 8, "tem": 10, "con": 5},
+    "player": {
+      "technical": {"hea": 6, "pas": 11, "fir": 9, "tec": 9},
+      "mental": {"otb": 5, "vis": 7, "ant": 12, "dec": 10, "pos": 12, "fla": 6, "tea": 11, "wor": 11, "ldr": 7, "bra": 11, "agg": 8, "det": 13, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 10, "str": 8, "sta": 10, "pac": 10, "jum": 12, "bal": 10, "agi": 15, "nat": 12},
+      "goalkeeping": {"han": 12, "aer": 10, "cmd": 9, "com": 11, "kic": 13, "thr": 11, "one": 13, "ref": 15, "ecc": 12, "rus": 11, "pun": 10},
+      "hidden": {"dir": 8, "cns": 10, "imp": 9, "inj": 7}
+    }
+  },
   "positions": [
     {
       "code": "GK",

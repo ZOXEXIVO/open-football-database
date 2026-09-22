@@ -4,6 +4,15 @@
   "last_name": "Aidoo",
   "birth_date": "1995-09-29",
   "country_id": 21,
+  "attrs": {
+    "person": {"ada": 14, "amb": 13, "loy": 10, "pre": 13, "pro": 13, "spo": 14, "tem": 14, "con": 4},
+    "player": {
+      "technical": {"cro": 7, "dri": 8, "fin": 4, "hea": 14, "lon": 7, "mar": 14, "pas": 10, "pen": 6, "tck": 15, "fir": 11, "tec": 11, "cor": 7, "lth": 9, "fre": 8},
+      "mental": {"otb": 8, "vis": 9, "ant": 12, "dec": 12, "pos": 13, "fla": 7, "tea": 12, "wor": 14, "ldr": 11, "bra": 17, "agg": 15, "det": 14, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 13, "str": 17, "sta": 14, "pac": 14, "jum": 13, "bal": 15, "agi": 13, "nat": 18},
+      "hidden": {"dir": 8, "cns": 11, "imp": 12, "inj": 9, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DC",

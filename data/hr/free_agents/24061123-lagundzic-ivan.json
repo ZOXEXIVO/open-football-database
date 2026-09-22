@@ -4,6 +4,14 @@
   "last_name": "Lagundžić",
   "birth_date": "1999-06-14",
   "country_id": 761,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 9, "fin": 8, "hea": 7, "lon": 8, "mar": 8, "pas": 10, "pen": 8, "tck": 10, "fir": 9, "tec": 8, "cor": 6, "lth": 9, "fre": 7},
+      "mental": {"otb": 7, "vis": 10, "ant": 10, "dec": 11, "pos": 12, "fla": 10, "tea": 11, "wor": 12, "ldr": 11, "bra": 11, "agg": 12, "cmp": 6, "cnt": 9},
+      "physical": {"acc": 15, "str": 10, "sta": 13, "pac": 14, "jum": 7, "bal": 10, "agi": 11, "nat": 12},
+      "hidden": {"dir": 8, "cns": 9, "imp": 9, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DR",

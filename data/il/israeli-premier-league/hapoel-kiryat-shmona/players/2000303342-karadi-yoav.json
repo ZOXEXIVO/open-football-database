@@ -5,6 +5,14 @@
   "birth_date": "2006-05-15",
   "country_id": 775,
   "club_id": 7861687,
+  "attrs": {
+    "person": {"loy": 13, "tem": 10},
+    "player": {
+      "technical": {"fre": 10},
+      "mental": {"ldr": 14, "det": 15},
+      "physical": {"str": 9}
+    }
+  },
   "positions": [
     {
       "code": "MC",

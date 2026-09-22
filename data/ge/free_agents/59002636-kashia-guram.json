@@ -4,6 +4,15 @@
   "last_name": "Kashia",
   "birth_date": "1987-07-04",
   "country_id": 770,
+  "attrs": {
+    "person": {"ada": 10, "amb": 13, "loy": 14, "pre": 12, "pro": 17, "spo": 14, "tem": 8, "con": 6},
+    "player": {
+      "technical": {"cro": 7, "dri": 7, "fin": 7, "hea": 15, "lon": 7, "mar": 13, "pas": 11, "pen": 7, "tck": 15, "fir": 10, "tec": 8, "cor": 6, "lth": 10, "fre": 7},
+      "mental": {"otb": 11, "vis": 11, "ant": 12, "dec": 12, "pos": 11, "fla": 5, "tea": 13, "wor": 13, "ldr": 16, "bra": 16, "agg": 14, "det": 15, "cmp": 15, "cnt": 10},
+      "physical": {"acc": 8, "str": 15, "sta": 12, "pac": 8, "jum": 15, "bal": 15, "agi": 11, "nat": 14},
+      "hidden": {"dir": 7, "cns": 14, "imp": 13, "inj": 6, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DR",

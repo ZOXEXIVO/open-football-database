@@ -4,6 +4,12 @@
   "last_name": "Corica",
   "birth_date": "1997-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 10, "hea": 12, "mar": 5, "tck": 7},
+      "physical": {"acc": 10, "str": 12, "sta": 12, "pac": 10, "jum": 14, "bal": 12, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "ST",

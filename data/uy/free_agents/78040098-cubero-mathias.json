@@ -4,6 +4,16 @@
   "last_name": "Cubero",
   "birth_date": "1994-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 4, "amb": 13, "loy": 7, "pro": 8, "spo": 5, "tem": 7, "con": 12},
+    "player": {
+      "technical": {"pas": 9},
+      "mental": {"ant": 10, "dec": 8, "pos": 12, "fla": 8, "tea": 11, "wor": 13, "ldr": 13, "bra": 14, "agg": 13, "det": 9, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 10, "str": 14, "sta": 8, "pac": 12, "jum": 12, "bal": 13, "agi": 12},
+      "goalkeeping": {"han": 12, "aer": 11, "cmd": 11, "com": 11, "kic": 12, "one": 14, "ref": 13, "ecc": 8, "rus": 12},
+      "hidden": {"dir": 15, "cns": 9, "inj": 13}
+    }
+  },
   "positions": [
     {
       "code": "GK",

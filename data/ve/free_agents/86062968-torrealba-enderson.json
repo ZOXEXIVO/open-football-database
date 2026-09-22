@@ -4,6 +4,13 @@
   "last_name": "Torrealba",
   "birth_date": "1999-04-02",
   "country_id": 1658,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 7, "hea": 8, "lon": 8, "mar": 8, "pas": 9, "tck": 7, "fir": 10, "tec": 11},
+      "mental": {"otb": 9, "vis": 10, "pos": 8, "tea": 13, "wor": 13, "agg": 13},
+      "physical": {"acc": 13, "str": 8, "sta": 13, "pac": 12, "jum": 6, "bal": 12, "agi": 13}
+    }
+  },
   "positions": [
     {
       "code": "MR",

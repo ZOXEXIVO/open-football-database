@@ -4,6 +4,14 @@
   "last_name": "Okachi",
   "birth_date": "2000-01-01",
   "country_id": 38,
+  "attrs": {
+    "person": {"amb": 15, "pre": 11, "pro": 11, "spo": 12},
+    "player": {
+      "mental": {"otb": 9, "vis": 8, "ant": 11, "dec": 8, "pos": 4, "tea": 8, "wor": 9, "ldr": 7, "bra": 10, "det": 12, "cmp": 9},
+      "physical": {"str": 11, "sta": 13, "jum": 15, "nat": 14},
+      "hidden": {"cns": 14}
+    }
+  },
   "positions": [
     {
       "code": "ST",

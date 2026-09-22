@@ -4,6 +4,13 @@
   "last_name": "Camolese",
   "birth_date": "2005-04-02",
   "country_id": 776,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 8, "fin": 4, "hea": 6, "lon": 5, "mar": 8, "pas": 10, "pen": 1, "tck": 11, "fir": 11, "tec": 9, "cor": 5, "lth": 8, "fre": 4},
+      "mental": {"otb": 9, "vis": 7, "ant": 9, "dec": 9, "pos": 9, "tea": 10, "wor": 11, "ldr": 6, "bra": 9, "agg": 9, "cmp": 7, "cnt": 9},
+      "physical": {"acc": 12, "str": 7, "sta": 12, "pac": 12, "jum": 7, "bal": 10, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

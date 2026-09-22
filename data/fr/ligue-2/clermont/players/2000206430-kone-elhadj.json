@@ -5,6 +5,15 @@
   "birth_date": "2006-05-04",
   "country_id": 769,
   "club_id": 1992,
+  "attrs": {
+    "person": {"ada": 13},
+    "player": {
+      "technical": {"cro": 13, "hea": 7, "pas": 12, "tec": 13},
+      "mental": {"tea": 12, "wor": 12, "ldr": 6},
+      "physical": {"str": 8, "jum": 8, "agi": 13},
+      "hidden": {"cns": 11, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DL",

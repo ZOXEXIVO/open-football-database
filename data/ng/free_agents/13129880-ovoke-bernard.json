@@ -4,6 +4,13 @@
   "last_name": "Ovoke",
   "birth_date": "1997-07-07",
   "country_id": 38,
+  "attrs": {
+    "person": {"amb": 15, "pre": 13, "pro": 13, "spo": 12},
+    "player": {
+      "mental": {"det": 13},
+      "hidden": {"cns": 17}
+    }
+  },
   "positions": [
     {
       "code": "MR",

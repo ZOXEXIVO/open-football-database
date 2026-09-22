@@ -4,6 +4,13 @@
   "last_name": "Bengueddoudj",
   "birth_date": "2000-01-01",
   "country_id": 769,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 7, "hea": 10},
+      "physical": {"acc": 12, "str": 8, "sta": 11, "pac": 13, "jum": 11, "agi": 13},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "ST",

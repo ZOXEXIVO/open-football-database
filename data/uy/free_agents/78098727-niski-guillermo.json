@@ -4,6 +4,14 @@
   "last_name": "Niski",
   "birth_date": "1997-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"amb": 5},
+    "player": {
+      "technical": {"hea": 14, "mar": 11, "pas": 10, "tck": 11, "fir": 9},
+      "mental": {"dec": 10, "pos": 12, "ldr": 13, "bra": 13, "agg": 15},
+      "physical": {"acc": 8, "str": 12, "sta": 11, "pac": 9, "jum": 12, "bal": 9, "agi": 8}
+    }
+  },
   "positions": [
     {
       "code": "DC",

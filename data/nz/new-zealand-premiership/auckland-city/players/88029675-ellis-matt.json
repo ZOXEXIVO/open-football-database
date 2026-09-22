@@ -5,6 +5,13 @@
   "birth_date": "2001-02-27",
   "country_id": 1438,
   "club_id": 1301557,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 11, "fin": 8, "pas": 9, "tec": 11},
+      "mental": {"vis": 9, "ant": 13},
+      "physical": {"acc": 15, "str": 6, "sta": 8, "pac": 14, "bal": 12, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "ML",

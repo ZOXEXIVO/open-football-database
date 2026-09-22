@@ -4,6 +4,15 @@
   "last_name": "Bertjens",
   "birth_date": "1993-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"amb": 14, "pre": 11, "pro": 12},
+    "player": {
+      "technical": {"cro": 12, "dri": 11, "fin": 13, "hea": 8, "lon": 12, "mar": 5, "pas": 8, "tck": 5, "fir": 11, "tec": 10, "cor": 11, "fre": 12},
+      "mental": {"otb": 13, "vis": 12, "ant": 13, "dec": 13, "fla": 14, "tea": 12, "wor": 10, "ldr": 11, "bra": 11, "det": 12, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 9, "str": 8, "sta": 11, "pac": 10, "jum": 10, "bal": 10, "agi": 11},
+      "hidden": {"cns": 12, "imp": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

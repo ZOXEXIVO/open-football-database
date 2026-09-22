@@ -4,6 +4,15 @@
   "last_name": "Stambouli",
   "birth_date": "1990-08-13",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 15, "amb": 16, "loy": 12, "pre": 13, "pro": 18, "spo": 14, "tem": 14, "con": 5},
+    "player": {
+      "technical": {"cro": 8, "dri": 8, "fin": 8, "hea": 11, "lon": 9, "mar": 12, "pas": 14, "pen": 8, "tck": 13, "fir": 13, "tec": 14, "cor": 5, "lth": 9, "fre": 7},
+      "mental": {"otb": 10, "vis": 14, "ant": 15, "dec": 14, "pos": 13, "fla": 8, "tea": 16, "wor": 16, "ldr": 17, "bra": 16, "agg": 14, "det": 15, "cmp": 14, "cnt": 15},
+      "physical": {"acc": 10, "str": 12, "sta": 12, "pac": 10, "jum": 11, "bal": 14, "agi": 10, "nat": 12},
+      "hidden": {"dir": 13, "cns": 13, "imp": 16, "inj": 11, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

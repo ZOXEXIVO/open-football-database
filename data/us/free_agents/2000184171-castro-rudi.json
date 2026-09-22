@@ -4,6 +4,13 @@
   "last_name": "Castro",
   "birth_date": "1998-01-01",
   "country_id": 390,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 8, "fin": 12, "lon": 14, "pen": 15, "fir": 9, "tec": 12, "fre": 13},
+      "mental": {"otb": 12, "vis": 12, "dec": 8, "wor": 8},
+      "physical": {"acc": 11, "str": 11, "sta": 12, "pac": 11, "jum": 8, "bal": 13, "agi": 13}
+    }
+  },
   "positions": [
     {
       "code": "ST",

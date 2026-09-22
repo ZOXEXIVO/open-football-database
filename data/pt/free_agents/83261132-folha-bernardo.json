@@ -4,6 +4,15 @@
   "last_name": "Folha",
   "birth_date": "2002-03-23",
   "country_id": 788,
+  "attrs": {
+    "person": {"ada": 11, "amb": 10, "pre": 14, "pro": 13, "spo": 10, "tem": 11, "con": 6},
+    "player": {
+      "technical": {"cro": 11, "dri": 13, "fin": 9, "hea": 8, "lon": 11, "mar": 8, "pas": 14, "pen": 10, "tck": 9, "fir": 13, "tec": 13, "cor": 12, "lth": 6, "fre": 12},
+      "mental": {"otb": 12, "vis": 14, "ant": 12, "dec": 12, "pos": 9, "fla": 12, "tea": 12, "wor": 11, "ldr": 8, "bra": 12, "agg": 14, "det": 13, "cmp": 13, "cnt": 11},
+      "physical": {"acc": 13, "str": 11, "sta": 12, "pac": 11, "jum": 10, "bal": 12, "agi": 13, "nat": 12},
+      "hidden": {"dir": 9, "cns": 10, "imp": 13, "inj": 5, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "MC",

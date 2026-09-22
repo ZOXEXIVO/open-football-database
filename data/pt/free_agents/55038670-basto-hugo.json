@@ -4,6 +4,15 @@
   "last_name": "Basto",
   "birth_date": "1993-01-01",
   "country_id": 788,
+  "attrs": {
+    "person": {"amb": 13, "loy": 11, "pre": 12, "pro": 14, "spo": 14, "tem": 11, "con": 8},
+    "player": {
+      "technical": {"cro": 6, "dri": 8, "fin": 7, "hea": 12, "lon": 6, "mar": 13, "pas": 12, "pen": 7, "tck": 14, "fir": 11, "tec": 12, "cor": 4, "lth": 8, "fre": 6},
+      "mental": {"otb": 8, "vis": 8, "ant": 12, "dec": 12, "pos": 13, "fla": 5, "tea": 13, "wor": 13, "ldr": 10, "bra": 11, "agg": 9, "det": 12, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 9, "str": 12, "sta": 10, "pac": 10, "jum": 13, "bal": 12, "agi": 9, "nat": 14},
+      "hidden": {"dir": 8, "cns": 14, "imp": 12, "inj": 3, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

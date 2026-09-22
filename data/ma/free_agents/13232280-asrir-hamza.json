@@ -4,6 +4,13 @@
   "last_name": "Asrir",
   "birth_date": "1993-01-01",
   "country_id": 34,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 9, "hea": 8, "mar": 12, "pas": 11, "tck": 8},
+      "mental": {"pos": 10},
+      "physical": {"acc": 10, "str": 7, "pac": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

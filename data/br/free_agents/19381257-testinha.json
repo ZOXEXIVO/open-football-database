@@ -4,6 +4,13 @@
   "last_name": "",
   "birth_date": "1992-01-01",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 9, "pen": 11},
+      "mental": {"vis": 10, "ant": 12, "tea": 9, "wor": 11},
+      "physical": {"acc": 13, "pac": 13, "agi": 14}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

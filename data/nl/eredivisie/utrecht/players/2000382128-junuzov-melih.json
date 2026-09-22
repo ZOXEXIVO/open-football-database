@@ -5,6 +5,14 @@
   "birth_date": "2008-02-07",
   "country_id": 784,
   "club_id": 1010,
+  "attrs": {
+    "person": {"amb": 14, "pre": 15, "pro": 15},
+    "player": {
+      "technical": {"dri": 14, "fin": 13},
+      "mental": {"vis": 16, "ant": 13, "fla": 17, "wor": 14, "det": 16, "cmp": 13},
+      "physical": {"acc": 15, "pac": 15}
+    }
+  },
   "positions": [
     {
       "code": "AML",

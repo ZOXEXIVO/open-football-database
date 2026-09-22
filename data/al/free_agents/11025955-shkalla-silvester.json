@@ -4,6 +4,13 @@
   "last_name": "Shkalla",
   "birth_date": "1995-01-01",
   "country_id": 752,
+  "attrs": {
+    "player": {
+      "technical": {"mar": 13, "tck": 12},
+      "mental": {"pos": 12},
+      "physical": {"acc": 10, "str": 12, "sta": 12, "pac": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

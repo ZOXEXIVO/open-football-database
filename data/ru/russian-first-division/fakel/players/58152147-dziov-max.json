@@ -5,6 +5,14 @@
   "birth_date": "2001-08-09",
   "country_id": 791,
   "club_id": 130496,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 12, "hea": 9, "pas": 9},
+      "mental": {"dec": 9, "tea": 9, "wor": 13, "bra": 17, "agg": 14, "cnt": 9},
+      "physical": {"str": 10, "sta": 13, "pac": 12, "jum": 13, "bal": 13, "nat": 14},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -4,6 +4,13 @@
   "last_name": "Arustamyan",
   "birth_date": "1997-05-28",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 12},
+      "physical": {"str": 6, "jum": 6, "nat": 13},
+      "hidden": {"cns": 10, "inj": 7, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

@@ -4,6 +4,15 @@
   "last_name": "El Maach",
   "birth_date": "2000-02-01",
   "country_id": 34,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 3, "pas": 11, "fir": 7, "tec": 11},
+      "mental": {"vis": 10, "ant": 11, "dec": 12, "pos": 12, "fla": 13, "tea": 10, "wor": 14, "ldr": 12, "bra": 13, "det": 10, "cmp": 7, "cnt": 8},
+      "physical": {"acc": 10, "str": 14, "sta": 11, "pac": 11, "jum": 12, "bal": 9, "agi": 12, "nat": 12},
+      "goalkeeping": {"han": 11, "aer": 12, "cmd": 10, "com": 10, "kic": 12, "thr": 12, "one": 12, "ref": 12, "ecc": 10, "rus": 11, "pun": 11},
+      "hidden": {"inj": 5}
+    }
+  },
   "positions": [
     {
       "code": "GK",

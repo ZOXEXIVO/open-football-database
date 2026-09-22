@@ -4,6 +4,15 @@
   "last_name": "Garlito",
   "birth_date": "1994-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"amb": 14, "loy": 11, "pre": 12},
+    "player": {
+      "technical": {"cro": 12, "dri": 10, "fin": 11, "hea": 12, "mar": 10, "pas": 9, "tck": 8, "fir": 10, "tec": 10, "fre": 10},
+      "mental": {"vis": 5, "ant": 11, "dec": 10, "tea": 10, "wor": 10, "ldr": 11, "bra": 10, "det": 12, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 11, "str": 14, "sta": 11, "pac": 11, "jum": 14, "bal": 13, "agi": 11},
+      "hidden": {"cns": 13}
+    }
+  },
   "positions": [
     {
       "code": "DM",

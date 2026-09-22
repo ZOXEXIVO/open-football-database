@@ -4,6 +4,15 @@
   "last_name": "de Leeuw",
   "birth_date": "1988-01-01",
   "country_id": 784,
+  "attrs": {
+    "person": {"ada": 7, "amb": 13, "pre": 10, "pro": 12, "tem": 11},
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "fin": 13, "hea": 12, "lon": 9, "mar": 3, "pas": 9, "tck": 6, "fir": 15, "tec": 14, "cor": 11, "fre": 10},
+      "mental": {"otb": 11, "vis": 12, "ant": 10, "dec": 11, "pos": 7, "fla": 11, "tea": 9, "wor": 9, "ldr": 8, "bra": 11, "agg": 7, "cmp": 12, "cnt": 10},
+      "physical": {"acc": 11, "str": 10, "sta": 11, "pac": 12, "jum": 12, "bal": 9, "agi": 13, "nat": 12},
+      "hidden": {"dir": 5, "cns": 10, "imp": 9, "inj": 11, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "AML",

@@ -4,6 +4,15 @@
   "last_name": "Ramos",
   "birth_date": "2003-11-13",
   "country_id": 788,
+  "attrs": {
+    "person": {"amb": 11, "loy": 13, "pre": 14, "pro": 12, "spo": 11, "tem": 14, "con": 5},
+    "player": {
+      "technical": {"cro": 11, "dri": 13, "fin": 13, "hea": 6, "lon": 10, "mar": 6, "pas": 12, "pen": 12, "tck": 8, "fir": 13, "tec": 13, "cor": 10, "lth": 4, "fre": 11},
+      "mental": {"otb": 15, "vis": 12, "ant": 14, "dec": 12, "pos": 7, "fla": 13, "tea": 12, "wor": 11, "ldr": 5, "bra": 11, "agg": 12, "det": 12, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 13, "str": 5, "sta": 12, "pac": 12, "jum": 6, "bal": 12, "agi": 12, "nat": 11},
+      "hidden": {"dir": 4, "cns": 12, "imp": 11, "inj": 4}
+    }
+  },
   "positions": [
     {
       "code": "MC",

@@ -4,6 +4,15 @@
   "last_name": "El Mokeddem",
   "birth_date": "1999-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"amb": 13, "loy": 13, "pro": 13},
+    "player": {
+      "technical": {"cro": 12, "dri": 14, "fin": 10, "hea": 3, "fir": 12, "tec": 13},
+      "mental": {"fla": 15, "tea": 12, "wor": 12, "cnt": 12},
+      "physical": {"acc": 12, "str": 6, "sta": 10, "pac": 12, "jum": 5, "bal": 9, "agi": 12, "nat": 13},
+      "hidden": {"cns": 12, "inj": 10, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

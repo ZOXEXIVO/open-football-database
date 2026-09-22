@@ -5,6 +5,14 @@
   "birth_date": "2006-03-23",
   "country_id": 764,
   "club_id": 496,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 9, "fin": 7},
+      "mental": {"wor": 12, "cmp": 9},
+      "physical": {"str": 6},
+      "hidden": {"inj": 9}
+    }
+  },
   "positions": [
     {
       "code": "AML",

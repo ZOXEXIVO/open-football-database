@@ -5,6 +5,14 @@
   "birth_date": "2005-04-27",
   "country_id": 775,
   "club_id": 1096,
+  "attrs": {
+    "person": {"ada": 12, "amb": 10, "con": 5},
+    "player": {
+      "technical": {"dri": 10, "mar": 5, "fir": 9, "tec": 11, "lth": 4},
+      "mental": {"vis": 9, "dec": 10, "fla": 11, "det": 10},
+      "physical": {"acc": 12, "str": 6, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "AML",

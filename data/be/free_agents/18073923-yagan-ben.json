@@ -4,6 +4,13 @@
   "last_name": "Yagan",
   "birth_date": "1995-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 13, "mar": 4, "tck": 4, "tec": 13, "fre": 10},
+      "mental": {"dec": 12, "pos": 8, "tea": 8, "wor": 8, "ldr": 14, "bra": 12, "det": 12},
+      "physical": {"acc": 12, "str": 8, "pac": 13, "jum": 4, "bal": 4, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

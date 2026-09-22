@@ -4,6 +4,15 @@
   "last_name": "Melero",
   "birth_date": "1994-01-02",
   "country_id": 796,
+  "attrs": {
+    "person": {"ada": 12, "amb": 14, "loy": 13, "pre": 14, "pro": 14, "spo": 14, "tem": 12, "con": 8},
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 12, "hea": 10, "lon": 13, "mar": 9, "pas": 13, "pen": 13, "tck": 11, "fir": 13, "tec": 13, "cor": 9, "lth": 7, "fre": 11},
+      "mental": {"otb": 12, "vis": 14, "ant": 13, "dec": 10, "pos": 12, "fla": 13, "tea": 11, "wor": 13, "ldr": 10, "bra": 13, "agg": 12, "det": 14, "cmp": 13, "cnt": 13},
+      "physical": {"acc": 12, "str": 12, "sta": 13, "pac": 11, "jum": 11, "bal": 14, "agi": 12, "nat": 10},
+      "hidden": {"dir": 9, "cns": 8, "imp": 10, "inj": 13, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DM",

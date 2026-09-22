@@ -4,6 +4,15 @@
   "last_name": "Kyei",
   "birth_date": "1995-08-12",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 11, "amb": 12, "loy": 14, "pre": 12, "pro": 12, "spo": 13, "tem": 8, "con": 8},
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 11, "hea": 12, "lon": 12, "mar": 7, "pas": 11, "pen": 13, "tck": 7, "fir": 9, "tec": 10, "cor": 8, "lth": 5, "fre": 8},
+      "mental": {"otb": 14, "vis": 12, "ant": 13, "dec": 12, "pos": 7, "fla": 10, "tea": 13, "wor": 13, "ldr": 7, "bra": 14, "agg": 13, "det": 10, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 13, "str": 16, "sta": 15, "pac": 12, "jum": 14, "bal": 16, "agi": 11, "nat": 14},
+      "hidden": {"dir": 10, "cns": 10, "imp": 12, "inj": 10, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "ST",

@@ -4,6 +4,12 @@
   "last_name": "Mejía",
   "birth_date": "2000-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"amb": 10, "pro": 9},
+    "player": {
+      "mental": {"det": 10}
+    }
+  },
   "positions": [
     {
       "code": "DR",

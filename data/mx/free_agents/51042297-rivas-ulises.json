@@ -4,6 +4,15 @@
   "last_name": "Rivas",
   "birth_date": "1996-01-25",
   "country_id": 379,
+  "attrs": {
+    "person": {"pre": 15, "tem": 14},
+    "player": {
+      "technical": {"cro": 8, "dri": 7, "fin": 8, "hea": 7, "lon": 9, "mar": 13, "pas": 12, "pen": 11, "tck": 11, "fir": 12, "tec": 12, "cor": 7, "lth": 10, "fre": 7},
+      "mental": {"otb": 11, "vis": 11, "ant": 14, "dec": 13, "pos": 12, "fla": 12, "tea": 17, "wor": 16, "ldr": 13, "bra": 15, "agg": 10, "det": 15, "cmp": 13, "cnt": 14},
+      "physical": {"acc": 12, "str": 7, "sta": 17, "pac": 11, "jum": 8, "bal": 11, "agi": 13, "nat": 16},
+      "hidden": {"dir": 7, "cns": 12, "imp": 12, "inj": 8, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

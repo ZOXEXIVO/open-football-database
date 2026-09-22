@@ -4,6 +4,15 @@
   "last_name": "Rabeï",
   "birth_date": "1994-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 13, "amb": 12, "loy": 9, "pre": 9, "pro": 12, "spo": 7, "tem": 7, "con": 12},
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 10, "hea": 8, "lon": 11, "mar": 10, "pas": 13, "pen": 11, "tck": 11, "fir": 12, "tec": 13, "cor": 10, "lth": 8, "fre": 11},
+      "mental": {"otb": 12, "vis": 9, "ant": 13, "dec": 12, "pos": 12, "fla": 12, "tea": 13, "wor": 13, "ldr": 13, "bra": 13, "agg": 14, "det": 13, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 11, "str": 10, "sta": 11, "pac": 11, "jum": 9, "bal": 11, "agi": 13, "nat": 9},
+      "hidden": {"dir": 12, "cns": 15, "imp": 11, "inj": 8, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DM",

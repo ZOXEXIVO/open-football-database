@@ -5,6 +5,11 @@
   "birth_date": "2004-01-23",
   "country_id": 758,
   "club_id": 1522,
+  "attrs": {
+    "player": {
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

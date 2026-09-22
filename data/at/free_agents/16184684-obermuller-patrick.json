@@ -4,6 +4,14 @@
   "last_name": "Obermüller",
   "birth_date": "1999-01-01",
   "country_id": 755,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 6, "dri": 5, "fin": 4, "hea": 12, "lon": 9, "mar": 11, "pas": 8, "pen": 7, "tck": 12, "fir": 8, "tec": 8, "cor": 7, "lth": 7, "fre": 7},
+      "mental": {"otb": 4, "vis": 9, "ant": 10, "dec": 10, "pos": 12, "fla": 7, "tea": 12, "wor": 13, "ldr": 5, "bra": 11, "agg": 6, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 12, "str": 14, "sta": 12, "pac": 13, "jum": 14, "bal": 12, "agi": 11, "nat": 13},
+      "hidden": {"dir": 6, "cns": 12, "imp": 7, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DL",

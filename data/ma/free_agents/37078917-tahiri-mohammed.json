@@ -4,6 +4,14 @@
   "last_name": "Tahiri",
   "birth_date": "2001-01-01",
   "country_id": 34,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 12, "fin": 9, "pas": 12, "pen": 12, "tec": 15},
+      "mental": {"det": 10},
+      "physical": {"acc": 12, "pac": 12, "bal": 11, "agi": 12, "nat": 14},
+      "hidden": {"inj": 5}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

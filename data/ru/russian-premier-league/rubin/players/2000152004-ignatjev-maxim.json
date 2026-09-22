@@ -5,6 +5,13 @@
   "birth_date": "2000-01-30",
   "country_id": 791,
   "club_id": 130509,
+  "attrs": {
+    "player": {
+      "technical": {"cor": 12},
+      "physical": {"str": 10, "jum": 10},
+      "hidden": {"cns": 14}
+    }
+  },
   "positions": [
     {
       "code": "DL",

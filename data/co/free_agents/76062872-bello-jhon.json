@@ -4,6 +4,15 @@
   "last_name": "Bello",
   "birth_date": "2000-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"amb": 10, "pro": 10},
+    "player": {
+      "technical": {"cro": 10, "dri": 10, "fin": 7, "hea": 9, "lon": 10, "mar": 10, "pas": 10, "tck": 12, "fir": 9, "tec": 12, "cor": 8, "lth": 12},
+      "mental": {"otb": 10, "vis": 8, "ant": 12, "dec": 10, "pos": 11, "fla": 8, "tea": 12, "wor": 12, "bra": 11, "agg": 12, "det": 11, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 12, "str": 10, "sta": 13, "pac": 12, "bal": 10, "agi": 11, "nat": 12},
+      "hidden": {"dir": 8, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DR",

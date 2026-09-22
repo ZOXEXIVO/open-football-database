@@ -5,6 +5,14 @@
   "birth_date": "2001-11-20",
   "country_id": 364,
   "club_id": 4400014,
+  "attrs": {
+    "person": {"spo": 13, "tem": 13},
+    "player": {
+      "mental": {"ldr": 11},
+      "physical": {"str": 13, "jum": 12, "bal": 11},
+      "goalkeeping": {"han": 11, "aer": 12, "cmd": 12, "com": 10, "kic": 10, "thr": 10, "one": 12, "ref": 11, "ecc": 5, "rus": 9, "pun": 7}
+    }
+  },
   "positions": [
     {
       "code": "GK",

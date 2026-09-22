@@ -4,6 +4,15 @@
   "last_name": "Maximov",
   "birth_date": "1995-11-04",
   "country_id": 791,
+  "attrs": {
+    "person": {"ada": 13, "pro": 8},
+    "player": {
+      "technical": {"cro": 5, "dri": 11, "fin": 12, "hea": 12, "lon": 8, "mar": 6, "pas": 9, "pen": 9, "tck": 6, "fir": 10, "tec": 10, "cor": 5, "lth": 10, "fre": 5},
+      "mental": {"otb": 12, "vis": 6, "ant": 11, "dec": 10, "pos": 9, "fla": 6, "tea": 10, "wor": 8, "ldr": 11, "bra": 10, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 11, "str": 13, "sta": 12, "pac": 12, "jum": 14, "bal": 11, "agi": 10},
+      "hidden": {"cns": 12, "imp": 15, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "ST",

@@ -4,6 +4,13 @@
   "last_name": "Bencun",
   "birth_date": "1992-01-01",
   "country_id": 755,
+  "attrs": {
+    "player": {
+      "technical": {"lon": 15, "pen": 15, "tck": 15},
+      "physical": {"jum": 13},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

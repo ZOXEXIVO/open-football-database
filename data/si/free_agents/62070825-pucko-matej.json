@@ -4,6 +4,15 @@
   "last_name": "Pučko",
   "birth_date": "1993-01-01",
   "country_id": 795,
+  "attrs": {
+    "person": {"ada": 11, "amb": 10, "loy": 11, "pre": 10, "pro": 11, "spo": 12, "tem": 12, "con": 9},
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 10, "hea": 4, "lon": 7, "mar": 3, "pas": 11, "pen": 4, "tck": 8, "fir": 12, "tec": 12, "cor": 9, "lth": 3, "fre": 2},
+      "mental": {"otb": 13, "vis": 10, "ant": 12, "dec": 10, "pos": 10, "fla": 12, "tea": 12, "wor": 12, "ldr": 10, "bra": 14, "agg": 10, "det": 10, "cmp": 12, "cnt": 13},
+      "physical": {"acc": 13, "str": 6, "sta": 11, "pac": 12, "jum": 8, "bal": 10, "agi": 12, "nat": 13},
+      "hidden": {"dir": 5, "cns": 11, "imp": 10, "inj": 10, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "MR",

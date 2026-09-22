@@ -4,6 +4,15 @@
   "last_name": "Texeira",
   "birth_date": "1991-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 12, "amb": 5, "loy": 12, "pre": 8, "pro": 14, "spo": 12, "tem": 10, "con": 6},
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 12, "hea": 12, "lon": 12, "mar": 5, "pas": 10, "pen": 12, "tck": 5, "fir": 12, "tec": 11, "cor": 8, "lth": 5, "fre": 8},
+      "mental": {"otb": 8, "vis": 8, "ant": 13, "dec": 10, "pos": 5, "fla": 10, "tea": 11, "wor": 9, "ldr": 11, "bra": 12, "agg": 13, "det": 12, "cmp": 11, "cnt": 9},
+      "physical": {"acc": 12, "str": 12, "sta": 11, "pac": 13, "jum": 11, "bal": 13, "agi": 11, "nat": 12},
+      "hidden": {"dir": 7, "cns": 7, "imp": 11, "inj": 11, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "ST",

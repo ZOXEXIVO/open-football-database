@@ -5,6 +5,12 @@
   "birth_date": "2008-01-01",
   "country_id": 757,
   "club_id": 250,
+  "attrs": {
+    "player": {
+      "mental": {"otb": 12},
+      "physical": {"sta": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

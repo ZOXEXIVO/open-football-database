@@ -4,6 +4,13 @@
   "last_name": "Hermach",
   "birth_date": "1993-01-16",
   "country_id": 34,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "hea": 6, "lon": 11, "mar": 11, "pas": 14, "pen": 12, "tck": 9, "fir": 13, "tec": 11, "lth": 4, "fre": 11},
+      "mental": {"vis": 13, "tea": 14, "ldr": 14},
+      "physical": {"acc": 11, "str": 10, "sta": 13, "pac": 12, "jum": 9, "agi": 12, "nat": 9}
+    }
+  },
   "positions": [
     {
       "code": "DM",

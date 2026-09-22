@@ -4,6 +4,15 @@
   "last_name": "Long",
   "birth_date": "1992-10-12",
   "country_id": 390,
+  "attrs": {
+    "person": {"ada": 10, "amb": 14, "loy": 12, "pre": 13, "pro": 14, "spo": 12, "tem": 14, "con": 4},
+    "player": {
+      "technical": {"cro": 10, "dri": 9, "fin": 10, "hea": 15, "lon": 7, "mar": 14, "pas": 13, "tck": 14, "fir": 10, "tec": 11, "fre": 7},
+      "mental": {"otb": 12, "vis": 11, "ant": 11, "dec": 11, "pos": 13, "fla": 10, "tea": 11, "wor": 13, "ldr": 14, "bra": 12, "agg": 9, "det": 12, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 14, "str": 14, "sta": 13, "pac": 15, "jum": 14, "bal": 11, "agi": 11, "nat": 14},
+      "hidden": {"dir": 8, "cns": 15, "imp": 12, "inj": 10, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

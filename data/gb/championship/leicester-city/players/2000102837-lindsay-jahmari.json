@@ -5,6 +5,11 @@
   "birth_date": "2004-09-25",
   "country_id": 765,
   "club_id": 673,
+  "attrs": {
+    "player": {
+      "hidden": {"inj": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

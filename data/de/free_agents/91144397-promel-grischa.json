@@ -4,6 +4,15 @@
   "last_name": "Prömel",
   "birth_date": "1995-01-09",
   "country_id": 771,
+  "attrs": {
+    "person": {"ada": 8, "amb": 15, "loy": 12, "pre": 17, "pro": 16, "spo": 8, "tem": 8, "con": 8},
+    "player": {
+      "technical": {"cro": 8, "dri": 12, "fin": 12, "hea": 14, "lon": 13, "mar": 12, "pas": 13, "pen": 11, "tck": 12, "fir": 12, "tec": 12, "cor": 6, "lth": 7, "fre": 6},
+      "mental": {"otb": 14, "vis": 12, "ant": 16, "dec": 13, "pos": 13, "fla": 10, "tea": 19, "wor": 18, "ldr": 16, "bra": 17, "agg": 16, "det": 17, "cmp": 13, "cnt": 16},
+      "physical": {"acc": 12, "str": 15, "sta": 18, "pac": 12, "jum": 13, "bal": 16, "agi": 12, "nat": 16},
+      "hidden": {"dir": 15, "cns": 17, "imp": 15, "inj": 14, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "DM",

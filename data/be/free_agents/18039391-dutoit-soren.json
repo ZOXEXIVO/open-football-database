@@ -4,6 +4,14 @@
   "last_name": "Dutoit",
   "birth_date": "1991-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 8, "pas": 9, "fir": 8, "tec": 10},
+      "mental": {"vis": 8, "pos": 11, "tea": 12, "wor": 10, "ldr": 14},
+      "physical": {"acc": 10, "str": 11, "sta": 10, "pac": 11, "jum": 12, "bal": 11, "agi": 11},
+      "goalkeeping": {"han": 10, "aer": 10, "cmd": 10, "com": 10, "ref": 12, "ecc": 11, "rus": 11, "pun": 10}
+    }
+  },
   "positions": [
     {
       "code": "GK",

@@ -4,6 +4,15 @@
   "last_name": "Ruiz",
   "birth_date": "1988-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 14, "amb": 2},
+    "player": {
+      "technical": {"cro": 12, "dri": 9, "fin": 6, "hea": 13, "lon": 9, "mar": 11, "pas": 12, "tck": 10, "fir": 12, "tec": 12, "cor": 12, "lth": 10, "fre": 11},
+      "mental": {"otb": 7, "vis": 9, "ant": 11, "dec": 11, "pos": 11, "fla": 9, "tea": 13, "wor": 14, "ldr": 13, "bra": 14, "agg": 12, "det": 10, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 9, "str": 11, "sta": 9, "pac": 9, "jum": 10, "bal": 11, "agi": 9, "nat": 12},
+      "hidden": {"dir": 11, "cns": 12, "imp": 12, "inj": 8, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DL",

@@ -4,6 +4,14 @@
   "last_name": "Marín",
   "birth_date": "2001-02-20",
   "country_id": 1657,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "mar": 9, "pas": 10, "tec": 11, "cor": 13, "fre": 11},
+      "mental": {"otb": 9, "ant": 9, "dec": 8, "pos": 7, "fla": 11, "tea": 9, "bra": 11, "cnt": 8},
+      "physical": {"acc": 13, "str": 7, "pac": 9, "jum": 9, "agi": 13},
+      "hidden": {"cns": 7, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DL",

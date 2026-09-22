@@ -4,6 +4,15 @@
   "last_name": "Villalpando",
   "birth_date": "2000-04-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"amb": 7, "loy": 4},
+    "player": {
+      "technical": {"dri": 13, "fin": 9, "lon": 15, "mar": 7, "pas": 10, "tck": 8, "fir": 14, "tec": 14, "cor": 11, "fre": 15},
+      "mental": {"otb": 10, "vis": 8, "ant": 8, "dec": 7, "pos": 8, "fla": 14, "tea": 8, "wor": 11, "ldr": 7, "bra": 8, "det": 9, "cmp": 7, "cnt": 6},
+      "physical": {"acc": 14, "str": 6, "sta": 11, "pac": 11, "jum": 9, "bal": 8, "agi": 14},
+      "hidden": {"dir": 6, "cns": 6, "imp": 7, "inj": 12, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

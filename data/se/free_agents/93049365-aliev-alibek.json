@@ -4,6 +4,15 @@
   "last_name": "Aliev",
   "birth_date": "1996-08-12",
   "country_id": 797,
+  "attrs": {
+    "person": {"ada": 12, "amb": 11, "loy": 7, "pre": 8, "pro": 9, "spo": 8, "tem": 6, "con": 15},
+    "player": {
+      "technical": {"cro": 7, "dri": 10, "fin": 13, "hea": 13, "lon": 5, "mar": 3, "pas": 10, "pen": 12, "tck": 7, "fir": 10, "tec": 10, "cor": 4, "lth": 4, "fre": 6},
+      "mental": {"otb": 12, "vis": 9, "ant": 12, "dec": 11, "pos": 9, "fla": 5, "tea": 13, "wor": 13, "ldr": 6, "bra": 15, "agg": 16, "det": 8, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 12, "str": 14, "sta": 13, "pac": 12, "jum": 15, "bal": 14, "agi": 8, "nat": 10},
+      "hidden": {"dir": 15, "cns": 12, "imp": 5, "inj": 11, "ver": 2}
+    }
+  },
   "positions": [
     {
       "code": "ST",

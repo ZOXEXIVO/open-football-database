@@ -5,6 +5,15 @@
   "birth_date": "2007-03-12",
   "country_id": 116,
   "club_id": 713,
+  "attrs": {
+    "person": {"ada": 14, "amb": 14, "pro": 13, "spo": 13, "tem": 13},
+    "player": {
+      "technical": {"dri": 10, "fin": 11, "hea": 7, "fir": 8, "tec": 12, "lth": 5},
+      "mental": {"wor": 13, "ldr": 7, "cmp": 13},
+      "physical": {"acc": 12, "str": 6, "sta": 10, "pac": 12, "jum": 5, "agi": 14},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "ST",

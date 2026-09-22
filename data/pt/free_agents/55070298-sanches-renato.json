@@ -4,6 +4,15 @@
   "last_name": "Sanches",
   "birth_date": "1997-08-18",
   "country_id": 788,
+  "attrs": {
+    "person": {"ada": 8, "amb": 15, "loy": 13, "pre": 12, "pro": 12, "spo": 10, "tem": 9, "con": 13},
+    "player": {
+      "technical": {"cro": 11, "dri": 14, "fin": 11, "hea": 9, "lon": 14, "mar": 10, "pas": 14, "pen": 11, "tck": 11, "fir": 14, "tec": 15, "cor": 9, "lth": 13, "fre": 9},
+      "mental": {"otb": 13, "vis": 13, "ant": 11, "dec": 13, "pos": 11, "fla": 13, "tea": 13, "wor": 14, "ldr": 10, "bra": 15, "agg": 16, "det": 18, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 12, "str": 13, "sta": 11, "pac": 12, "jum": 9, "bal": 15, "agi": 13, "nat": 6},
+      "hidden": {"dir": 15, "cns": 12, "imp": 14, "inj": 19, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DM",

@@ -4,6 +4,15 @@
   "last_name": "Queirós",
   "birth_date": "1998-04-22",
   "country_id": 788,
+  "attrs": {
+    "person": {"ada": 7, "amb": 10, "loy": 10, "pre": 15, "pro": 9, "spo": 14, "tem": 16, "con": 6},
+    "player": {
+      "technical": {"cro": 6, "dri": 8, "fin": 5, "hea": 11, "lon": 5, "mar": 13, "pas": 10, "tck": 13, "fir": 10, "tec": 11, "cor": 4, "lth": 6, "fre": 4},
+      "mental": {"otb": 6, "vis": 12, "ant": 12, "dec": 12, "pos": 12, "fla": 8, "tea": 12, "wor": 11, "ldr": 8, "bra": 11, "agg": 13, "det": 9, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 12, "str": 14, "sta": 13, "pac": 13, "jum": 15, "bal": 13, "agi": 10, "nat": 12},
+      "hidden": {"dir": 6, "cns": 12, "imp": 10, "inj": 4, "ver": 4}
+    }
+  },
   "positions": [
     {
       "code": "DC",

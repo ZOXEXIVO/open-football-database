@@ -4,6 +4,15 @@
   "last_name": "Januzaj",
   "birth_date": "1995-02-05",
   "country_id": 757,
+  "attrs": {
+    "person": {"ada": 15, "amb": 5, "loy": 7, "pre": 12, "pro": 9, "spo": 7, "tem": 13, "con": 11},
+    "player": {
+      "technical": {"cro": 13, "dri": 17, "fin": 10, "hea": 5, "lon": 12, "mar": 6, "pas": 15, "pen": 13, "tck": 6, "fir": 16, "tec": 16, "cor": 16, "lth": 3, "fre": 15},
+      "mental": {"otb": 12, "vis": 15, "ant": 11, "dec": 13, "pos": 8, "fla": 17, "tea": 7, "wor": 11, "ldr": 7, "bra": 8, "agg": 10, "det": 10, "cmp": 13, "cnt": 9},
+      "physical": {"acc": 14, "str": 9, "sta": 10, "pac": 12, "jum": 9, "bal": 14, "agi": 14, "nat": 5},
+      "hidden": {"dir": 5, "cns": 7, "imp": 14, "inj": 16, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "MR",

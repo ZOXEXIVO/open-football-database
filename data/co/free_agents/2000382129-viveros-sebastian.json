@@ -4,6 +4,15 @@
   "last_name": "Viveros",
   "birth_date": "1997-04-30",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 8, "amb": 5},
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 9, "hea": 8, "lon": 9, "pas": 10, "fir": 12, "tec": 12},
+      "mental": {"otb": 10, "vis": 10, "ant": 11, "dec": 11, "pos": 7, "fla": 13, "tea": 12, "wor": 11, "bra": 8, "agg": 8, "det": 8, "cmp": 8, "cnt": 11},
+      "physical": {"acc": 12, "str": 7, "sta": 12, "pac": 13, "jum": 6, "bal": 10, "agi": 12, "nat": 13},
+      "hidden": {"dir": 7}
+    }
+  },
   "positions": [
     {
       "code": "MC",

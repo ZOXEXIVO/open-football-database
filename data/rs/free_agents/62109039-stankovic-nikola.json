@@ -4,6 +4,15 @@
   "last_name": "Stanković",
   "birth_date": "1994-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 10, "amb": 12, "loy": 11, "pre": 12, "pro": 11, "spo": 11, "tem": 12, "con": 9},
+    "player": {
+      "technical": {"cro": 12, "dri": 10, "fin": 7, "hea": 10, "lon": 8, "mar": 11, "pas": 11, "pen": 9, "tck": 12, "fir": 12, "tec": 10, "cor": 11, "lth": 12, "fre": 7},
+      "mental": {"otb": 11, "vis": 11, "ant": 11, "dec": 9, "pos": 12, "fla": 10, "tea": 13, "wor": 12, "ldr": 10, "bra": 11, "agg": 11, "det": 13, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 12, "str": 10, "sta": 12, "pac": 13, "jum": 10, "bal": 10, "agi": 11, "nat": 11},
+      "hidden": {"dir": 8, "cns": 12, "imp": 11, "inj": 9, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "DR",

@@ -4,6 +4,15 @@
   "last_name": "De Bie",
   "birth_date": "2000-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 10, "pas": 6, "fir": 9, "tec": 10},
+      "mental": {"otb": 5, "vis": 8, "ant": 9, "dec": 9, "pos": 10, "fla": 6, "tea": 8, "wor": 9, "ldr": 9, "bra": 12, "agg": 8, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 10, "str": 13, "sta": 11, "pac": 9, "jum": 15, "bal": 10, "agi": 12, "nat": 7},
+      "goalkeeping": {"han": 9, "aer": 16, "cmd": 13, "com": 8, "kic": 12, "thr": 12, "one": 8, "ref": 12, "ecc": 6, "rus": 11, "pun": 12},
+      "hidden": {"cns": 11, "imp": 7, "inj": 15}
+    }
+  },
   "positions": [
     {
       "code": "GK",

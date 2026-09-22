@@ -4,6 +4,15 @@
   "last_name": "Reuten",
   "birth_date": "1995-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"pro": 8},
+    "player": {
+      "technical": {"cro": 12, "dri": 8, "mar": 10, "pas": 14, "tck": 11, "fir": 10, "tec": 9, "cor": 11, "lth": 8},
+      "mental": {"otb": 8, "dec": 11, "fla": 11, "tea": 8, "wor": 10, "ldr": 11, "bra": 12, "det": 8, "cmp": 13, "cnt": 9},
+      "physical": {"acc": 11, "str": 10, "sta": 12, "pac": 13, "jum": 14, "bal": 9, "agi": 11},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

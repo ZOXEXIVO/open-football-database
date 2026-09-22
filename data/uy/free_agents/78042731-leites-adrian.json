@@ -4,6 +4,15 @@
   "last_name": "Leites",
   "birth_date": "1992-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"amb": 6, "loy": 5, "pre": 7, "pro": 8, "con": 8},
+    "player": {
+      "technical": {"cro": 13, "dri": 14, "fin": 12, "hea": 9, "lon": 13, "mar": 6, "pas": 13, "pen": 12, "tck": 8, "fir": 14, "tec": 14, "lth": 12, "fre": 12},
+      "mental": {"otb": 10, "vis": 12, "ant": 9, "dec": 8, "pos": 7, "fla": 15, "tea": 10, "wor": 7, "ldr": 10, "bra": 8, "agg": 10, "det": 7, "cmp": 8, "cnt": 6},
+      "physical": {"acc": 11, "str": 9, "sta": 8, "pac": 12, "jum": 9, "bal": 13, "agi": 13},
+      "hidden": {"dir": 6, "cns": 5, "inj": 8}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

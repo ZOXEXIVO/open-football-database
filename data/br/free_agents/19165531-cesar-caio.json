@@ -4,6 +4,13 @@
   "last_name": "César",
   "birth_date": "1990-01-01",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "mental": {"agg": 13},
+      "physical": {"sta": 13, "jum": 14},
+      "hidden": {"dir": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

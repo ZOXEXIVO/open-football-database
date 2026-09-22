@@ -4,6 +4,15 @@
   "last_name": "Bană",
   "birth_date": "2004-10-29",
   "country_id": 790,
+  "attrs": {
+    "person": {"ada": 6, "amb": 14, "loy": 12, "pre": 8, "pro": 15, "spo": 14, "tem": 12, "con": 5},
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 9, "hea": 10, "lon": 10, "mar": 6, "pas": 12, "pen": 10, "tck": 7, "fir": 11, "tec": 11, "cor": 10, "lth": 6, "fre": 10},
+      "mental": {"otb": 9, "vis": 10, "ant": 10, "dec": 9, "pos": 6, "fla": 12, "tea": 11, "wor": 11, "ldr": 6, "bra": 8, "agg": 8, "det": 14, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 14, "str": 8, "sta": 8, "pac": 14, "jum": 12, "bal": 8, "agi": 14, "nat": 12},
+      "hidden": {"dir": 6, "cns": 9, "inj": 7, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

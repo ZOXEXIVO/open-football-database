@@ -4,6 +4,12 @@
   "last_name": "Chentouf",
   "birth_date": "1996-12-05",
   "country_id": 34,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 9},
+      "physical": {"jum": 10}
+    }
+  },
   "positions": [
     {
       "code": "MC",

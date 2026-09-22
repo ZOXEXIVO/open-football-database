@@ -4,6 +4,14 @@
   "last_name": "Ruhs",
   "birth_date": "2002-08-27",
   "country_id": 1435,
+  "attrs": {
+    "person": {"loy": 7, "tem": 9, "con": 12},
+    "player": {
+      "technical": {"dri": 10, "fin": 12, "hea": 12, "lon": 9, "fir": 10, "tec": 8},
+      "mental": {"otb": 12, "tea": 15, "wor": 15, "agg": 13},
+      "physical": {"acc": 11, "str": 14, "pac": 13, "jum": 10, "agi": 9}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

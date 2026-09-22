@@ -4,6 +4,15 @@
   "last_name": "Munari",
   "birth_date": "2000-01-27",
   "country_id": 776,
+  "attrs": {
+    "person": {"ada": 15, "amb": 13, "loy": 15, "pre": 16, "pro": 15, "spo": 8, "tem": 17, "con": 10},
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 8, "hea": 9, "lon": 9, "mar": 8, "pas": 10, "pen": 9, "tck": 9, "fir": 10, "tec": 10, "cor": 8, "lth": 11, "fre": 8},
+      "mental": {"otb": 11, "vis": 9, "ant": 11, "dec": 8, "pos": 9, "fla": 12, "tea": 12, "wor": 12, "ldr": 8, "bra": 11, "agg": 10, "det": 12, "cmp": 9, "cnt": 8},
+      "physical": {"acc": 13, "str": 10, "sta": 11, "pac": 13, "jum": 10, "bal": 10, "agi": 12, "nat": 14},
+      "hidden": {"dir": 9, "cns": 12, "imp": 11, "inj": 6, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "DR",

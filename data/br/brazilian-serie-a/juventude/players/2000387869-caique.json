@@ -5,6 +5,11 @@
   "birth_date": "2004-12-19",
   "country_id": 1651,
   "club_id": 327,
+  "attrs": {
+    "player": {
+      "physical": {"acc": 10, "str": 15, "pac": 11, "jum": 14, "agi": 9}
+    }
+  },
   "positions": [
     {
       "code": "ST",

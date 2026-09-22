@@ -4,6 +4,15 @@
   "last_name": "Ghareeb",
   "birth_date": "1997-03-31",
   "country_id": 133,
+  "attrs": {
+    "person": {"ada": 4, "amb": 10, "loy": 8, "pre": 8, "pro": 12, "spo": 14, "tem": 15, "con": 3},
+    "player": {
+      "technical": {"cro": 12, "dri": 16, "fin": 9, "hea": 6, "lon": 10, "mar": 6, "pas": 13, "pen": 10, "tck": 5, "fir": 14, "tec": 15, "cor": 14, "lth": 3, "fre": 12},
+      "mental": {"otb": 12, "vis": 12, "ant": 11, "dec": 10, "pos": 6, "fla": 14, "tea": 9, "wor": 11, "ldr": 5, "bra": 8, "agg": 8, "det": 10, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 16, "str": 6, "sta": 11, "pac": 9, "jum": 4, "bal": 16, "agi": 17, "nat": 12},
+      "hidden": {"dir": 7, "cns": 9, "imp": 9, "inj": 10, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "ML",

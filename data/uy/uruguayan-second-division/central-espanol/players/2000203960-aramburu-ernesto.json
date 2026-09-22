@@ -5,6 +5,13 @@
   "birth_date": "1999-02-22",
   "country_id": 1657,
   "club_id": 1916,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 6, "pas": 9, "fir": 12, "tec": 10},
+      "mental": {"dec": 9, "pos": 10, "fla": 6, "tea": 13, "bra": 11},
+      "physical": {"str": 12, "pac": 11, "jum": 12, "agi": 9}
+    }
+  },
   "positions": [
     {
       "code": "DC",

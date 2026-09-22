@@ -4,6 +4,14 @@
   "last_name": "de Mooij",
   "birth_date": "2001-01-01",
   "country_id": 784,
+  "attrs": {
+    "person": {"amb": 1, "loy": 1},
+    "player": {
+      "technical": {"pas": 7, "tck": 11},
+      "mental": {"vis": 7, "wor": 11, "det": 1},
+      "physical": {"acc": 10, "str": 12, "sta": 10, "pac": 10, "bal": 10, "agi": 13}
+    }
+  },
   "positions": [
     {
       "code": "DM",

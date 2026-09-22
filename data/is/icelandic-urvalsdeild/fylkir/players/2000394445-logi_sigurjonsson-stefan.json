@@ -5,6 +5,15 @@
   "birth_date": "2008-03-10",
   "country_id": 774,
   "club_id": 1300641,
+  "attrs": {
+    "person": {"loy": 11, "spo": 8, "tem": 6},
+    "player": {
+      "technical": {"hea": 8, "pas": 12},
+      "mental": {"ant": 10, "dec": 11, "pos": 10, "wor": 6, "agg": 8},
+      "physical": {"acc": 12, "str": 8, "sta": 7, "pac": 8, "jum": 14, "bal": 4, "agi": 12, "nat": 16},
+      "hidden": {"inj": 3}
+    }
+  },
   "positions": [
     {
       "code": "DC",

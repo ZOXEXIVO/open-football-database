@@ -4,6 +4,16 @@
   "last_name": "Grigorov",
   "birth_date": "2003-10-13",
   "country_id": 760,
+  "attrs": {
+    "person": {"amb": 11, "loy": 12, "con": 5},
+    "player": {
+      "technical": {"hea": 9, "pas": 9, "fir": 9, "tec": 8},
+      "mental": {"vis": 8, "ant": 10, "dec": 9, "pos": 10, "tea": 14, "wor": 11, "ldr": 10, "bra": 11, "det": 11, "cmp": 9, "cnt": 11},
+      "physical": {"acc": 10, "str": 12, "sta": 10, "pac": 9, "jum": 13, "bal": 10, "agi": 12, "nat": 12},
+      "goalkeeping": {"han": 10, "aer": 13, "cmd": 9, "com": 10, "kic": 12, "one": 12, "ref": 12, "ecc": 8, "rus": 13, "pun": 13},
+      "hidden": {"cns": 13, "inj": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

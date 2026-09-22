@@ -5,6 +5,14 @@
   "birth_date": "1999-09-23",
   "country_id": 11,
   "club_id": 13172357,
+  "attrs": {
+    "player": {
+      "mental": {"otb": 6, "vis": 2, "ant": 5, "dec": 5, "pos": 3, "fla": 2, "tea": 1, "wor": 2, "ldr": 2, "bra": 1, "agg": 3, "cmp": 6, "cnt": 2},
+      "physical": {"acc": 8, "str": 6, "sta": 6, "pac": 7, "jum": 5, "bal": 2, "agi": 6, "nat": 3},
+      "goalkeeping": {"han": 1, "aer": 1, "cmd": 1, "com": 1, "kic": 1, "one": 1, "ecc": 1},
+      "hidden": {"dir": 2, "imp": 3, "inj": 4}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

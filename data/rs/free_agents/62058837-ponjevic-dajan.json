@@ -4,6 +4,15 @@
   "last_name": "Ponjević",
   "birth_date": "1989-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 9, "amb": 11, "loy": 11, "pre": 9, "pro": 11, "spo": 10, "tem": 11, "con": 11},
+    "player": {
+      "technical": {"mar": 11, "tck": 12, "lth": 8},
+      "mental": {"ant": 11, "dec": 11, "pos": 13, "tea": 9, "wor": 8, "bra": 11, "agg": 9, "det": 9, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 9, "str": 12, "sta": 12, "pac": 9, "jum": 11, "bal": 11, "agi": 11, "nat": 8},
+      "hidden": {"dir": 11, "cns": 11, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DL",

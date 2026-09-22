@@ -5,6 +5,15 @@
   "birth_date": "2004-05-26",
   "country_id": 20,
   "club_id": 1884,
+  "attrs": {
+    "person": {"ada": 12, "amb": 12, "loy": 16, "pre": 10, "pro": 16, "spo": 18, "tem": 14, "con": 1},
+    "player": {
+      "technical": {"hea": 6, "pen": 6, "tec": 11},
+      "mental": {"pos": 10, "ldr": 6, "agg": 15, "det": 18},
+      "physical": {"acc": 13, "str": 12, "sta": 14, "pac": 11, "jum": 6, "agi": 13},
+      "hidden": {"dir": 17, "inj": 13}
+    }
+  },
   "positions": [
     {
       "code": "DM",

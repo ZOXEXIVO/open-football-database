@@ -4,6 +4,14 @@
   "last_name": "Lejoly",
   "birth_date": "1998-03-26",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 8, "pas": 9, "fir": 9},
+      "mental": {"vis": 8, "dec": 11, "pos": 12, "tea": 10, "wor": 12, "ldr": 8, "bra": 10, "cmp": 8},
+      "physical": {"pac": 9, "jum": 13, "agi": 12},
+      "goalkeeping": {"han": 12, "aer": 12, "cmd": 12, "com": 12, "thr": 11, "one": 11, "ref": 13, "rus": 10}
+    }
+  },
   "positions": [
     {
       "code": "GK",

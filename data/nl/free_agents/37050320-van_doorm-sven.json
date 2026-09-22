@@ -4,6 +4,14 @@
   "last_name": "van Doorm",
   "birth_date": "1997-01-01",
   "country_id": 784,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 7, "fin": 8, "hea": 5, "lon": 11, "mar": 10, "pas": 12, "fir": 10, "tec": 10},
+      "mental": {"otb": 11, "vis": 11, "ant": 11, "pos": 11, "fla": 6, "tea": 14, "wor": 13, "ldr": 12, "bra": 12, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 9, "str": 10, "sta": 12, "pac": 9, "jum": 6, "bal": 10, "agi": 10, "nat": 11},
+      "hidden": {"cns": 11, "imp": 10, "inj": 6}
+    }
+  },
   "positions": [
     {
       "code": "DR",

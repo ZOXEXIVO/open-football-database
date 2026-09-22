@@ -4,6 +4,15 @@
   "last_name": "",
   "birth_date": "1990-01-01",
   "country_id": 1651,
+  "attrs": {
+    "person": {"amb": 13, "loy": 15, "pre": 14, "pro": 13, "spo": 7, "tem": 14, "con": 8},
+    "player": {
+      "technical": {"cro": 9, "dri": 11, "fin": 13, "hea": 12, "lon": 10, "mar": 5, "pas": 10, "pen": 11, "tck": 8, "fir": 10, "tec": 10, "cor": 3, "lth": 6, "fre": 5},
+      "mental": {"otb": 12, "vis": 8, "ant": 11, "dec": 12, "pos": 8, "fla": 8, "tea": 11, "wor": 11, "ldr": 9, "bra": 13, "agg": 10, "det": 13, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 11, "str": 14, "sta": 13, "pac": 12, "jum": 12, "bal": 12, "agi": 11, "nat": 14},
+      "hidden": {"dir": 7, "cns": 12, "imp": 18, "inj": 5, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "ST",

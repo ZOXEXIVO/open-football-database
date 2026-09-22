@@ -5,6 +5,13 @@
   "birth_date": "2006-12-31",
   "country_id": 769,
   "club_id": 2005,
+  "attrs": {
+    "player": {
+      "mental": {"agg": 12},
+      "physical": {"sta": 13},
+      "hidden": {"ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

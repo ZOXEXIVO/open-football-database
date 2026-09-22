@@ -4,6 +4,14 @@
   "last_name": "Wales",
   "birth_date": "1997-10-19",
   "country_id": 1435,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 9, "fin": 9, "hea": 5, "lon": 7, "mar": 8, "pas": 11, "pen": 8, "tck": 7, "fir": 9, "tec": 9, "cor": 11, "lth": 6, "fre": 12},
+      "mental": {"otb": 12, "vis": 11, "ant": 11, "dec": 10, "pos": 12, "fla": 10, "tea": 11, "wor": 14, "ldr": 11, "bra": 10, "agg": 12, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 12, "str": 13, "sta": 13, "pac": 14, "jum": 10, "bal": 12, "agi": 11, "nat": 13},
+      "hidden": {"dir": 8, "cns": 9, "imp": 11, "inj": 5, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "MR",

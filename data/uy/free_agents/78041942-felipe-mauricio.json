@@ -4,6 +4,15 @@
   "last_name": "Felipe",
   "birth_date": "1990-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"amb": 1, "loy": 12, "pre": 9, "pro": 10, "tem": 13, "con": 6},
+    "player": {
+      "technical": {"cro": 11, "dri": 10, "fin": 9, "hea": 8, "lon": 8, "mar": 12, "pas": 10, "tck": 12, "fir": 10, "tec": 10, "lth": 12},
+      "mental": {"otb": 10, "vis": 9, "ant": 8, "dec": 9, "pos": 11, "fla": 7, "tea": 12, "wor": 13, "ldr": 8, "bra": 12, "agg": 18, "det": 12, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 11, "str": 11, "sta": 10, "pac": 10, "jum": 6, "bal": 8, "agi": 11, "nat": 15},
+      "hidden": {"dir": 15, "cns": 8, "imp": 8, "inj": 8, "ver": 18}
+    }
+  },
   "positions": [
     {
       "code": "DR",

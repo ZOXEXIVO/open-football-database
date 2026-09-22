@@ -4,6 +4,15 @@
   "last_name": "Badžim",
   "birth_date": "1997-01-01",
   "country_id": 795,
+  "attrs": {
+    "person": {"ada": 12, "amb": 12, "pro": 12, "spo": 11, "tem": 12},
+    "player": {
+      "technical": {"cro": 9, "dri": 8, "fin": 8, "hea": 12, "lon": 9, "mar": 12, "pas": 11, "pen": 10, "tck": 12, "fir": 12, "tec": 9, "cor": 8, "lth": 10, "fre": 9},
+      "mental": {"vis": 11, "ant": 11, "dec": 12, "pos": 12, "fla": 10, "tea": 11, "wor": 10, "ldr": 14, "bra": 11, "det": 12, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 10, "str": 12, "sta": 11, "pac": 10, "jum": 14, "bal": 12, "agi": 10},
+      "hidden": {"cns": 13, "inj": 9}
+    }
+  },
   "positions": [
     {
       "code": "DC",

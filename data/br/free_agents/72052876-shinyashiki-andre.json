@@ -4,6 +4,16 @@
   "last_name": "Shinyashiki",
   "birth_date": "1997-06-11",
   "country_id": 1651,
+  "attrs": {
+    "person": {"ada": 13, "amb": 12, "loy": 10, "pre": 10, "pro": 9, "spo": 8, "tem": 12, "con": 13},
+    "player": {
+      "technical": {"cro": 12, "dri": 13, "fin": 11, "hea": 10, "lon": 9, "mar": 4, "pas": 11, "pen": 12, "tck": 8, "fir": 11, "tec": 11, "cor": 7, "lth": 5, "fre": 8},
+      "mental": {"otb": 12, "vis": 10, "ant": 12, "dec": 11, "pos": 8, "fla": 9, "tea": 12, "wor": 14, "ldr": 7, "bra": 11, "agg": 11, "det": 14, "cmp": 12, "cnt": 9},
+      "physical": {"acc": 12, "str": 8, "sta": 12, "pac": 12, "jum": 8, "bal": 10, "agi": 12, "nat": 11},
+      "goalkeeping": {"han": 1, "aer": 1, "cmd": 1, "com": 1, "kic": 9, "thr": 1, "one": 1, "ref": 1, "ecc": 1, "rus": 1, "pun": 1},
+      "hidden": {"dir": 11, "cns": 11, "imp": 10, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

@@ -4,6 +4,13 @@
   "last_name": "",
   "birth_date": "1994-01-01",
   "country_id": 796,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 6, "hea": 7, "mar": 6, "pas": 10, "tck": 9, "fir": 11, "tec": 7},
+      "mental": {"dec": 8, "pos": 11, "bra": 12, "agg": 12, "cmp": 7, "cnt": 5},
+      "physical": {"acc": 10, "str": 14, "sta": 13}
+    }
+  },
   "positions": [
     {
       "code": "DM",

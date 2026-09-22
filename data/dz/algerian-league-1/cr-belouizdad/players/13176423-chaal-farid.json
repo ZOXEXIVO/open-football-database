@@ -5,6 +5,14 @@
   "birth_date": "1994-07-03",
   "country_id": 5,
   "club_id": 5340078,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 6, "fir": 5},
+      "mental": {"vis": 5},
+      "physical": {"acc": 9, "str": 12, "sta": 9, "pac": 8, "jum": 19, "bal": 12, "agi": 12},
+      "goalkeeping": {"aer": 17, "cmd": 14, "kic": 9}
+    }
+  },
   "positions": [
     {
       "code": "GK",

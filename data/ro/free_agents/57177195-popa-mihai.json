@@ -4,6 +4,16 @@
   "last_name": "Popa",
   "birth_date": "2000-10-12",
   "country_id": 790,
+  "attrs": {
+    "person": {"ada": 10, "amb": 13, "loy": 12, "pre": 12, "pro": 13, "spo": 14, "tem": 14, "con": 5},
+    "player": {
+      "technical": {"hea": 8, "pas": 10, "fir": 10, "tec": 10},
+      "mental": {"otb": 7, "vis": 8, "ant": 12, "dec": 9, "pos": 11, "fla": 8, "tea": 11, "wor": 11, "ldr": 7, "bra": 13, "agg": 11, "det": 14, "cmp": 11, "cnt": 9},
+      "physical": {"acc": 11, "str": 12, "sta": 11, "pac": 11, "jum": 11, "bal": 10, "agi": 13, "nat": 12},
+      "goalkeeping": {"han": 12, "aer": 13, "cmd": 13, "com": 13, "kic": 11, "thr": 11, "one": 14, "ref": 14, "rus": 10, "pun": 9},
+      "hidden": {"dir": 8, "cns": 11, "imp": 9, "inj": 5}
+    }
+  },
   "positions": [
     {
       "code": "GK",

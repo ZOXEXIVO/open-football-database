@@ -4,6 +4,15 @@
   "last_name": "Chernov",
   "birth_date": "1996-01-14",
   "country_id": 791,
+  "attrs": {
+    "person": {"ada": 6, "amb": 11, "loy": 11, "pre": 14, "pro": 15, "spo": 14, "tem": 15, "con": 5},
+    "player": {
+      "technical": {"cro": 6, "dri": 7, "fin": 6, "hea": 14, "lon": 6, "mar": 12, "pas": 12, "pen": 12, "tck": 12, "fir": 10, "tec": 10, "cor": 5, "lth": 7, "fre": 7},
+      "mental": {"otb": 5, "vis": 7, "ant": 13, "dec": 14, "pos": 13, "fla": 6, "tea": 12, "wor": 14, "ldr": 8, "bra": 13, "agg": 10, "det": 11, "cmp": 13, "cnt": 15},
+      "physical": {"acc": 11, "str": 11, "sta": 13, "pac": 12, "jum": 13, "bal": 12, "agi": 11, "nat": 13},
+      "hidden": {"dir": 8, "cns": 11, "imp": 9, "inj": 9, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DC",

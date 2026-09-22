@@ -4,6 +4,15 @@
   "last_name": "Vada",
   "birth_date": "1996-03-06",
   "country_id": 1649,
+  "attrs": {
+    "person": {"ada": 10, "amb": 14, "loy": 15, "pre": 12, "pro": 14, "spo": 11, "tem": 9, "con": 6},
+    "player": {
+      "technical": {"cro": 13, "dri": 14, "fin": 11, "hea": 5, "lon": 14, "mar": 7, "pas": 15, "pen": 14, "tck": 7, "fir": 14, "tec": 16, "cor": 14, "lth": 5, "fre": 14},
+      "mental": {"otb": 12, "vis": 13, "ant": 12, "dec": 11, "pos": 9, "fla": 15, "tea": 12, "wor": 12, "ldr": 10, "bra": 12, "agg": 16, "det": 14, "cmp": 14, "cnt": 12},
+      "physical": {"acc": 12, "str": 10, "sta": 12, "pac": 10, "jum": 9, "bal": 14, "agi": 14, "nat": 11},
+      "hidden": {"dir": 11, "cns": 13, "imp": 15, "inj": 8, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

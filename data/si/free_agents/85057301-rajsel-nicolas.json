@@ -4,6 +4,15 @@
   "last_name": "Rajsel",
   "birth_date": "1993-01-01",
   "country_id": 795,
+  "attrs": {
+    "person": {"ada": 15, "amb": 14, "loy": 12, "pro": 15, "spo": 14, "tem": 11},
+    "player": {
+      "technical": {"cro": 11, "dri": 10, "fin": 11, "hea": 6, "lon": 12, "mar": 2, "pas": 10, "tck": 3, "fir": 13, "tec": 14, "cor": 9, "fre": 12},
+      "mental": {"otb": 14, "vis": 13, "ant": 11, "dec": 12, "pos": 5, "fla": 13, "tea": 12, "wor": 12, "bra": 10, "agg": 6, "det": 12, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 10, "str": 11, "sta": 9, "pac": 10, "jum": 11, "bal": 10, "agi": 11, "nat": 12},
+      "hidden": {"cns": 12, "imp": 12, "inj": 8}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

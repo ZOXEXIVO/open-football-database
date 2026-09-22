@@ -5,6 +5,13 @@
   "birth_date": "1998-11-30",
   "country_id": 114,
   "club_id": 5410231,
+  "attrs": {
+    "player": {
+      "mental": {"otb": 13, "ant": 13},
+      "physical": {"pac": 13},
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "ST",

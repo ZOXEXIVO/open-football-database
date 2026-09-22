@@ -5,6 +5,15 @@
   "birth_date": "2001-06-23",
   "country_id": 794,
   "club_id": 116156,
+  "attrs": {
+    "person": {"ada": 8, "spo": 12, "tem": 1},
+    "player": {
+      "technical": {"hea": 11, "mar": 8, "pas": 8, "tck": 9},
+      "mental": {"dec": 12, "pos": 10, "tea": 10, "ldr": 10, "bra": 15, "agg": 12},
+      "physical": {"str": 15, "sta": 12, "jum": 12, "nat": 15},
+      "hidden": {"ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

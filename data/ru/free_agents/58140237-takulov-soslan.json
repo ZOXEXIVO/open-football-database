@@ -4,6 +4,15 @@
   "last_name": "Takulov",
   "birth_date": "1995-04-28",
   "country_id": 791,
+  "attrs": {
+    "person": {"ada": 15, "pro": 9, "spo": 11},
+    "player": {
+      "technical": {"cro": 14, "dri": 10, "fin": 6, "hea": 9, "lon": 11, "mar": 10, "pas": 10, "pen": 7, "tck": 11, "fir": 11, "tec": 9, "cor": 13, "lth": 7, "fre": 6},
+      "mental": {"otb": 12, "vis": 6, "ant": 12, "dec": 11, "pos": 12, "fla": 9, "tea": 14, "wor": 15, "ldr": 11, "bra": 15, "agg": 15, "det": 9, "cmp": 12, "cnt": 8},
+      "physical": {"acc": 12, "str": 12, "sta": 12, "pac": 13, "jum": 12, "bal": 12, "agi": 12, "nat": 14},
+      "hidden": {"dir": 10, "cns": 10, "imp": 12, "inj": 12, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DL",

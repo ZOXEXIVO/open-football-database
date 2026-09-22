@@ -4,6 +4,15 @@
   "last_name": "Sadaev",
   "birth_date": "1989-01-01",
   "country_id": 791,
+  "attrs": {
+    "person": {"ada": 8, "amb": 14, "loy": 9, "pre": 12, "pro": 15, "spo": 8, "tem": 2, "con": 13},
+    "player": {
+      "technical": {"cro": 8, "dri": 11, "fin": 13, "hea": 8, "lon": 11, "mar": 6, "pas": 8, "pen": 15, "tck": 10, "fir": 10, "tec": 11, "cor": 10, "lth": 7, "fre": 10},
+      "mental": {"otb": 12, "vis": 8, "ant": 10, "dec": 8, "pos": 10, "fla": 14, "tea": 8, "wor": 8, "ldr": 10, "bra": 18, "agg": 19, "det": 8, "cmp": 13, "cnt": 7},
+      "physical": {"acc": 12, "str": 13, "sta": 9, "pac": 12, "jum": 11, "bal": 12, "agi": 11, "nat": 13},
+      "hidden": {"dir": 16, "cns": 4, "imp": 13, "inj": 11, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "ST",

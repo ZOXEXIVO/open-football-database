@@ -4,6 +4,13 @@
   "last_name": "Okine-Peters",
   "birth_date": "2004-12-16",
   "country_id": 765,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 11, "fin": 10, "fir": 9},
+      "mental": {"otb": 10},
+      "physical": {"acc": 12, "str": 8, "pac": 13, "jum": 8, "bal": 12, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "MR",

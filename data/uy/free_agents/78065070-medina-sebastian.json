@@ -4,6 +4,13 @@
   "last_name": "Medina",
   "birth_date": "1993-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"pre": 8},
+    "player": {
+      "physical": {"jum": 15, "agi": 12},
+      "goalkeeping": {"han": 10, "aer": 10, "cmd": 8, "com": 11, "one": 11, "ref": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

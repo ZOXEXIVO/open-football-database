@@ -4,6 +4,15 @@
   "last_name": "Frešer",
   "birth_date": "2001-01-01",
   "country_id": 795,
+  "attrs": {
+    "person": {"ada": 17, "amb": 10, "loy": 9, "pre": 11, "pro": 11, "spo": 9, "tem": 12, "con": 4},
+    "player": {
+      "technical": {"cro": 5, "dri": 5, "fin": 10, "hea": 10, "lon": 11, "mar": 8, "pas": 14, "pen": 4, "tck": 14, "fir": 11, "tec": 10, "cor": 8, "lth": 4, "fre": 8},
+      "mental": {"otb": 9, "vis": 13, "ant": 12, "dec": 15, "pos": 8, "fla": 5, "tea": 12, "wor": 13, "ldr": 13, "bra": 8, "agg": 11, "det": 16, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 13, "str": 7, "sta": 8, "pac": 14, "jum": 13, "bal": 8, "agi": 13, "nat": 11},
+      "hidden": {"dir": 8, "cns": 16, "imp": 17, "inj": 12, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

@@ -4,6 +4,14 @@
   "last_name": "Konyukhov",
   "birth_date": "2002-01-05",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 7, "hea": 6, "mar": 8, "pas": 8, "tck": 10, "fir": 5, "tec": 6},
+      "mental": {"otb": 8, "vis": 8, "ant": 13, "pos": 9, "wor": 12},
+      "physical": {"acc": 13, "str": 8, "sta": 11, "pac": 13, "jum": 8, "bal": 12, "agi": 13},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "DL",

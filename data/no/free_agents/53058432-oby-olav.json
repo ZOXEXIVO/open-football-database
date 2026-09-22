@@ -4,6 +4,15 @@
   "last_name": "Øby",
   "birth_date": "1994-01-01",
   "country_id": 786,
+  "attrs": {
+    "person": {"ada": 16, "amb": 9, "loy": 11, "pre": 13, "pro": 12, "spo": 13, "tem": 12, "con": 8},
+    "player": {
+      "technical": {"cro": 10, "dri": 10, "fin": 8, "hea": 8, "lon": 12, "mar": 10, "pas": 14, "pen": 10, "tck": 10, "fir": 11, "tec": 11, "cor": 9, "lth": 8, "fre": 12},
+      "mental": {"otb": 9, "vis": 12, "ant": 13, "dec": 12, "pos": 12, "fla": 12, "tea": 15, "wor": 11, "ldr": 12, "bra": 10, "agg": 12, "det": 12, "cmp": 13, "cnt": 13},
+      "physical": {"acc": 8, "str": 11, "sta": 12, "pac": 8, "jum": 10, "bal": 12, "agi": 10, "nat": 12},
+      "hidden": {"dir": 10, "cns": 12, "imp": 13, "inj": 6, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

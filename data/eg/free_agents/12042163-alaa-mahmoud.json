@@ -4,6 +4,14 @@
   "last_name": "Alaa",
   "birth_date": "1991-01-28",
   "country_id": 16,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 8, "fin": 10, "hea": 16, "lon": 12, "mar": 10, "pas": 11, "pen": 17, "tck": 15, "fir": 9, "tec": 10, "cor": 6, "lth": 3, "fre": 6},
+      "mental": {"otb": 5, "vis": 6, "ant": 10, "dec": 9, "pos": 14, "fla": 7, "tea": 13, "wor": 13, "ldr": 13, "bra": 16, "agg": 14, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 11, "str": 14, "sta": 12, "pac": 14, "jum": 14, "bal": 10, "agi": 8, "nat": 11},
+      "hidden": {"dir": 10, "cns": 14, "imp": 12, "inj": 5, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

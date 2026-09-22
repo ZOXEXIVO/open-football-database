@@ -4,6 +4,15 @@
   "last_name": "Subotić",
   "birth_date": "1992-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 10, "amb": 10, "loy": 10, "pre": 11, "pro": 12, "spo": 12, "tem": 11, "con": 9},
+    "player": {
+      "technical": {"cro": 12, "dri": 13, "fin": 11, "hea": 10, "lon": 11, "mar": 8, "pas": 11, "pen": 14, "tck": 9, "fir": 11, "tec": 13, "cor": 11, "lth": 8, "fre": 10},
+      "mental": {"otb": 12, "vis": 11, "ant": 12, "dec": 11, "pos": 11, "fla": 14, "tea": 10, "wor": 11, "ldr": 13, "bra": 10, "agg": 10, "det": 12, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 12, "str": 11, "sta": 12, "pac": 12, "jum": 10, "bal": 12, "agi": 11, "nat": 10},
+      "hidden": {"dir": 9, "cns": 12, "imp": 11, "inj": 5, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

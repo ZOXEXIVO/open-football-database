@@ -5,6 +5,14 @@
   "birth_date": "2005-06-23",
   "country_id": 784,
   "club_id": 232,
+  "attrs": {
+    "person": {"pre": 12, "pro": 14},
+    "player": {
+      "technical": {"hea": 16, "mar": 4, "tck": 6, "fir": 11},
+      "mental": {"otb": 12, "vis": 12, "pos": 6, "fla": 11, "tea": 11, "wor": 11, "ldr": 7, "det": 14},
+      "physical": {"acc": 13, "str": 12, "pac": 11, "jum": 18, "bal": 13, "agi": 10}
+    }
+  },
   "positions": [
     {
       "code": "ST",

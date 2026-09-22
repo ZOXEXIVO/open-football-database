@@ -4,6 +4,16 @@
   "last_name": "Nakamura",
   "birth_date": "1995-01-01",
   "country_id": 116,
+  "attrs": {
+    "person": {"ada": 18, "amb": 13, "loy": 17, "pro": 19, "spo": 14},
+    "player": {
+      "technical": {"hea": 7, "pas": 10, "tck": 12, "fir": 8, "tec": 8},
+      "mental": {"otb": 8, "vis": 6, "ant": 10, "dec": 9, "pos": 13, "fla": 3, "tea": 12, "wor": 12, "ldr": 7, "bra": 13, "agg": 7, "det": 12, "cmp": 10, "cnt": 8},
+      "physical": {"acc": 10, "str": 13, "sta": 14, "pac": 12, "jum": 11, "bal": 8, "agi": 16, "nat": 14},
+      "goalkeeping": {"han": 14, "aer": 12, "cmd": 12, "com": 14, "kic": 13, "thr": 11, "one": 10, "ref": 17, "ecc": 4, "rus": 13, "pun": 15},
+      "hidden": {"dir": 3, "cns": 12, "imp": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

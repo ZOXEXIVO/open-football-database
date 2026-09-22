@@ -4,6 +4,14 @@
   "last_name": "Amine Katiba",
   "birth_date": "2006-03-01",
   "country_id": 34,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 13},
+      "mental": {"ant": 12, "dec": 13, "tea": 15, "ldr": 11, "bra": 11},
+      "physical": {"str": 11, "sta": 13, "jum": 11},
+      "hidden": {"ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DM",

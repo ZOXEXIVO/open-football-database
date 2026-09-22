@@ -4,6 +4,16 @@
   "last_name": "Sysuev",
   "birth_date": "1999-05-19",
   "country_id": 791,
+  "attrs": {
+    "person": {"ada": 17, "amb": 10, "loy": 14, "pre": 15, "pro": 8, "spo": 5, "tem": 17, "con": 9},
+    "player": {
+      "technical": {"pas": 7, "fir": 5, "tec": 2},
+      "mental": {"vis": 10, "ant": 11, "dec": 12, "pos": 13, "fla": 3, "tea": 10, "wor": 10, "ldr": 11, "bra": 15, "agg": 15, "det": 6, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 11, "str": 11, "sta": 10, "pac": 12, "jum": 14, "bal": 13, "agi": 10},
+      "goalkeeping": {"han": 10, "aer": 12, "cmd": 10, "com": 12, "kic": 10, "thr": 11, "one": 11, "ref": 12, "ecc": 6, "rus": 7, "pun": 12},
+      "hidden": {"dir": 9, "cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "GK",

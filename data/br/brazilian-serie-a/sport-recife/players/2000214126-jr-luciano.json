@@ -5,6 +5,14 @@
   "birth_date": "2006-07-25",
   "country_id": 1651,
   "club_id": 337,
+  "attrs": {
+    "player": {
+      "technical": {"fir": 8, "tec": 8},
+      "mental": {"dec": 10, "pos": 9, "cmp": 9, "cnt": 9},
+      "physical": {"str": 9, "jum": 12, "bal": 9, "agi": 12},
+      "goalkeeping": {"han": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

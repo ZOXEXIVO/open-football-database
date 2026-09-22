@@ -4,6 +4,16 @@
   "last_name": "Chernov",
   "birth_date": "1998-06-03",
   "country_id": 791,
+  "attrs": {
+    "person": {"ada": 12, "con": 4},
+    "player": {
+      "technical": {"hea": 3, "pas": 5, "fir": 5, "tec": 4},
+      "mental": {"vis": 8, "ant": 9, "dec": 9, "pos": 9, "tea": 10, "wor": 9, "ldr": 7, "bra": 9, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 8, "str": 17, "sta": 9, "pac": 11, "jum": 17, "bal": 10, "agi": 9, "nat": 13},
+      "goalkeeping": {"han": 12, "aer": 15, "cmd": 10, "com": 11, "kic": 11, "thr": 10, "one": 12, "ref": 11, "ecc": 10, "rus": 13, "pun": 14},
+      "hidden": {"dir": 8, "cns": 9, "inj": 13}
+    }
+  },
   "positions": [
     {
       "code": "GK",

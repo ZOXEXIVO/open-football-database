@@ -47,7 +47,7 @@ use serde_json::{Map, Value};
 
 const OUTPUT_VERSION: &str = "1.0";
 const DEFAULT_DATA_DIR: &str = "../data";
-const DEFAULT_OUT_FILE: &str = r"D:\Projects\open-football\src\database\src\data\database.db";
+const DEFAULT_OUT_FILE: &str = r"F:\Rust\open-football\src\database\src\data\database.db";
 
 struct Args {
     data_dir: PathBuf,

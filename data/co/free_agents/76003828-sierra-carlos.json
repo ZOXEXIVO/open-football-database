@@ -4,6 +4,15 @@
   "last_name": "Sierra",
   "birth_date": "1990-10-25",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 11, "amb": 14, "loy": 9, "pre": 12, "pro": 12, "spo": 12, "tem": 11, "con": 9},
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 11, "hea": 12, "lon": 13, "mar": 12, "pas": 12, "pen": 14, "tck": 11, "fir": 12, "tec": 12, "cor": 8, "lth": 4, "fre": 11},
+      "mental": {"otb": 12, "vis": 11, "ant": 13, "dec": 11, "pos": 12, "fla": 11, "tea": 13, "wor": 12, "ldr": 12, "bra": 14, "agg": 14, "det": 13, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 10, "str": 13, "sta": 12, "pac": 10, "jum": 13, "bal": 13, "agi": 11, "nat": 11},
+      "hidden": {"dir": 11, "cns": 10, "imp": 10, "inj": 12, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

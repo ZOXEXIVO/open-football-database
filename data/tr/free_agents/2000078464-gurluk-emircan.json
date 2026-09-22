@@ -4,6 +4,15 @@
   "last_name": "Gürlük",
   "birth_date": "2003-10-15",
   "country_id": 799,
+  "attrs": {
+    "person": {"ada": 9, "amb": 12, "loy": 7, "pro": 8},
+    "player": {
+      "technical": {"cro": 11, "dri": 14, "fin": 9, "hea": 7, "lon": 12, "mar": 5, "pas": 13, "pen": 11, "tck": 8, "fir": 12, "tec": 13, "cor": 12, "lth": 5, "fre": 13},
+      "mental": {"otb": 11, "vis": 10, "ant": 12, "dec": 10, "pos": 8, "fla": 16, "tea": 9, "wor": 10, "ldr": 7, "bra": 6, "agg": 9, "det": 12, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 14, "str": 8, "sta": 10, "pac": 13, "jum": 10, "bal": 11, "agi": 15, "nat": 12},
+      "hidden": {"dir": 8, "cns": 11, "imp": 13, "inj": 6, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "ML",

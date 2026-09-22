@@ -4,6 +4,15 @@
   "last_name": "Ayagwa",
   "birth_date": "1998-02-13",
   "country_id": 38,
+  "attrs": {
+    "person": {"ada": 6, "amb": 12, "pre": 8, "pro": 9, "con": 5},
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 10, "hea": 8, "lon": 11, "mar": 8, "pas": 12, "tck": 12, "fir": 12, "tec": 13, "cor": 8, "lth": 5, "fre": 10},
+      "mental": {"otb": 11, "vis": 11, "ant": 12, "dec": 11, "pos": 10, "fla": 12, "tea": 12, "wor": 13, "ldr": 11, "bra": 11, "agg": 14, "det": 11, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 10, "str": 13, "sta": 11, "pac": 10, "jum": 11, "bal": 12, "agi": 11, "nat": 15},
+      "hidden": {"dir": 9, "cns": 13, "inj": 5, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DM",

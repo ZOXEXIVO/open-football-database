@@ -4,6 +4,15 @@
   "last_name": "Paul",
   "birth_date": "1994-01-01",
   "country_id": 771,
+  "attrs": {
+    "person": {"ada": 6, "amb": 12, "loy": 12, "pre": 13, "pro": 13, "spo": 13, "tem": 13, "con": 6},
+    "player": {
+      "technical": {"cro": 10, "dri": 9, "fin": 7, "hea": 11, "lon": 6, "mar": 12, "pas": 9, "pen": 6, "tck": 14, "fir": 9, "tec": 10, "cor": 4, "lth": 10, "fre": 4},
+      "mental": {"otb": 9, "vis": 9, "ant": 11, "dec": 11, "pos": 14, "fla": 9, "tea": 13, "wor": 12, "ldr": 3, "bra": 12, "agg": 13, "det": 12, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 12, "str": 13, "sta": 13, "pac": 14, "jum": 13, "bal": 13, "agi": 11, "nat": 15},
+      "hidden": {"dir": 7, "cns": 15, "imp": 15, "inj": 6, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DR",

@@ -4,6 +4,14 @@
   "last_name": "Smoroda",
   "birth_date": "2004-03-10",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10},
+      "mental": {"bra": 11},
+      "physical": {"str": 8, "jum": 5},
+      "hidden": {"inj": 11}
+    }
+  },
   "positions": [
     {
       "code": "DL",

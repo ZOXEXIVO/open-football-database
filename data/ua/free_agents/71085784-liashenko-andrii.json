@@ -4,6 +4,14 @@
   "last_name": "Liashenko",
   "birth_date": "1998-06-11",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "dri": 11, "fin": 11, "hea": 9, "lon": 10, "mar": 5, "pas": 10, "pen": 5, "tck": 8, "fir": 8, "tec": 11, "cor": 10, "lth": 7, "fre": 5},
+      "mental": {"otb": 10, "vis": 9, "ant": 8, "dec": 8, "pos": 10, "fla": 8, "tea": 11, "wor": 12, "ldr": 10, "bra": 8, "agg": 8, "cmp": 9, "cnt": 10},
+      "physical": {"acc": 11, "str": 10, "sta": 10, "pac": 13, "jum": 12, "bal": 11, "agi": 11, "nat": 8},
+      "hidden": {"dir": 10, "cns": 7, "imp": 9, "inj": 14, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "MR",

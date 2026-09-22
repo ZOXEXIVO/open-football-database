@@ -4,6 +4,14 @@
   "last_name": "Savichev",
   "birth_date": "1994-03-06",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 10, "fin": 10, "hea": 8, "lon": 9, "mar": 6, "pas": 12, "pen": 13, "tck": 10, "fir": 12, "tec": 11, "cor": 11, "lth": 4, "fre": 13},
+      "mental": {"otb": 12, "vis": 10, "ant": 12, "dec": 11, "pos": 10, "fla": 13, "tea": 13, "wor": 14, "ldr": 13, "bra": 11, "agg": 7, "cmp": 13, "cnt": 10},
+      "physical": {"acc": 13, "str": 8, "sta": 14, "pac": 13, "jum": 6, "bal": 12, "agi": 13, "nat": 14},
+      "hidden": {"dir": 8, "cns": 18, "imp": 11, "inj": 11, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

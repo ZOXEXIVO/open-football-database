@@ -4,6 +4,13 @@
   "last_name": "Suárez",
   "birth_date": "1998-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 10, "fin": 6, "hea": 9, "mar": 10, "pas": 10, "tck": 10, "fir": 8, "tec": 9, "cor": 8, "lth": 11},
+      "mental": {"ant": 11, "dec": 10, "cnt": 11},
+      "physical": {"acc": 12, "str": 9, "sta": 13, "pac": 11, "jum": 7, "bal": 8, "agi": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

@@ -4,6 +4,15 @@
   "last_name": "Undheim",
   "birth_date": "1992-01-01",
   "country_id": 786,
+  "attrs": {
+    "person": {"ada": 12, "amb": 10, "loy": 18, "pre": 13, "pro": 11, "spo": 11, "tem": 11, "con": 14},
+    "player": {
+      "technical": {"cro": 12, "dri": 11, "fin": 10, "hea": 10, "lon": 11, "mar": 7, "pas": 9, "pen": 11, "tck": 7, "fir": 11, "tec": 10, "cor": 12, "lth": 19, "fre": 11},
+      "mental": {"otb": 12, "vis": 10, "ant": 11, "dec": 10, "pos": 7, "fla": 13, "tea": 13, "wor": 13, "ldr": 14, "bra": 11, "agg": 11, "det": 11, "cmp": 11, "cnt": 9},
+      "physical": {"acc": 12, "str": 10, "sta": 12, "pac": 12, "jum": 11, "bal": 11, "agi": 11, "nat": 12},
+      "hidden": {"dir": 11, "cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "MR",

@@ -4,6 +4,15 @@
   "last_name": "Renzetti",
   "birth_date": "1988-01-01",
   "country_id": 776,
+  "attrs": {
+    "person": {"ada": 15, "amb": 12, "loy": 17, "pre": 12, "pro": 17, "spo": 19, "tem": 14, "con": 5},
+    "player": {
+      "technical": {"cro": 12, "dri": 11, "fin": 7, "hea": 8, "lon": 9, "mar": 10, "pas": 11, "pen": 8, "tck": 12, "fir": 11, "tec": 12, "cor": 11, "lth": 13, "fre": 10},
+      "mental": {"otb": 13, "vis": 12, "ant": 13, "dec": 12, "pos": 13, "fla": 12, "tea": 14, "wor": 14, "ldr": 12, "bra": 14, "agg": 12, "det": 12, "cmp": 12, "cnt": 13},
+      "physical": {"acc": 9, "str": 8, "sta": 8, "pac": 10, "jum": 6, "bal": 10, "agi": 10, "nat": 13},
+      "hidden": {"dir": 11, "cns": 13, "imp": 13, "inj": 10, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "DL",

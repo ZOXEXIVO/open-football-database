@@ -4,6 +4,13 @@
   "last_name": "Chertkoev",
   "birth_date": "1999-04-01",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 10, "lon": 9},
+      "physical": {"acc": 10, "str": 8, "pac": 12, "jum": 7, "bal": 7, "agi": 11, "nat": 11},
+      "hidden": {"cns": 14}
+    }
+  },
   "positions": [
     {
       "code": "MC",

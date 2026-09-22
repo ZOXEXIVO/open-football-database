@@ -4,6 +4,14 @@
   "last_name": "Bessa",
   "birth_date": "1996-01-01",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 11, "fin": 9, "hea": 5, "lon": 8, "mar": 5, "pas": 10, "tck": 5, "fir": 11, "tec": 11},
+      "mental": {"otb": 13, "vis": 10, "ant": 11, "dec": 9, "pos": 5, "fla": 13, "tea": 9, "agg": 10, "cmp": 8, "cnt": 9},
+      "physical": {"acc": 13, "str": 4, "sta": 10, "pac": 13, "jum": 4, "bal": 7, "agi": 14, "nat": 12},
+      "hidden": {"dir": 10, "cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "DL",

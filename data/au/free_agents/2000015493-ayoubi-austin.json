@@ -4,6 +4,14 @@
   "last_name": "Ayoubi",
   "birth_date": "2001-07-27",
   "country_id": 1435,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 12, "lon": 12, "pas": 10, "fir": 13, "tec": 12},
+      "mental": {"otb": 11, "ant": 11, "dec": 8, "fla": 14, "tea": 12, "cmp": 12},
+      "physical": {"acc": 12, "str": 12, "sta": 9, "pac": 11, "jum": 12, "bal": 10, "agi": 11},
+      "hidden": {"cns": 7}
+    }
+  },
   "positions": [
     {
       "code": "MR",

@@ -4,6 +4,15 @@
   "last_name": "Barone",
   "birth_date": "2006-08-09",
   "country_id": 776,
+  "attrs": {
+    "person": {"ada": 7, "amb": 10, "loy": 14, "pre": 10, "pro": 12, "spo": 11, "tem": 9, "con": 5},
+    "player": {
+      "technical": {"cro": 11, "dri": 9, "fin": 8, "hea": 8, "lon": 10, "mar": 7, "pas": 11, "pen": 9, "tck": 8, "fir": 10, "tec": 8, "cor": 12, "lth": 7, "fre": 7},
+      "mental": {"otb": 11, "vis": 11, "ant": 11, "dec": 11, "pos": 11, "fla": 8, "tea": 13, "wor": 8, "ldr": 7, "bra": 7, "agg": 6, "det": 9, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 10, "str": 8, "sta": 11, "pac": 11, "jum": 9, "bal": 12, "agi": 10, "nat": 12},
+      "hidden": {"cns": 9, "inj": 6}
+    }
+  },
   "positions": [
     {
       "code": "DM",

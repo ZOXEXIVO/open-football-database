@@ -4,6 +4,12 @@
   "last_name": "van Nispen",
   "birth_date": "1998-01-01",
   "country_id": 784,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 12, "pas": 11, "fir": 11},
+      "physical": {"acc": 11, "pac": 11, "bal": 13, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "DM",

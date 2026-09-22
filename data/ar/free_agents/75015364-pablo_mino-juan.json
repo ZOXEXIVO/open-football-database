@@ -4,6 +4,15 @@
   "last_name": "Pablo Miño",
   "birth_date": "1987-01-01",
   "country_id": 1649,
+  "attrs": {
+    "person": {"ada": 14, "amb": 14, "loy": 12, "pre": 14, "pro": 15, "spo": 11, "tem": 10, "con": 12},
+    "player": {
+      "technical": {"cro": 8, "dri": 9, "fin": 7, "hea": 10, "lon": 8, "mar": 12, "pas": 11, "pen": 6, "tck": 12, "fir": 11, "tec": 10, "cor": 6, "lth": 5, "fre": 6},
+      "mental": {"otb": 7, "vis": 10, "ant": 12, "dec": 12, "pos": 13, "fla": 4, "tea": 15, "wor": 13, "ldr": 12, "bra": 14, "agg": 14, "det": 15, "cmp": 13, "cnt": 14},
+      "physical": {"acc": 9, "str": 11, "sta": 11, "pac": 9, "jum": 10, "bal": 11, "agi": 8, "nat": 11},
+      "hidden": {"dir": 13, "cns": 11, "imp": 11, "inj": 4, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "DM",

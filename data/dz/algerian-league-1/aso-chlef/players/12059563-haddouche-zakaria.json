@@ -5,6 +5,13 @@
   "birth_date": "1993-08-19",
   "country_id": 5,
   "club_id": 7600575,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 10, "fin": 7, "hea": 6, "lon": 6, "mar": 6, "pas": 10, "tck": 6, "tec": 13, "cor": 7},
+      "mental": {"vis": 10, "ant": 9, "dec": 8, "pos": 6, "wor": 10, "ldr": 13, "agg": 9, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 14, "str": 7, "sta": 10, "pac": 12, "jum": 8, "bal": 7, "agi": 14, "nat": 9}
+    }
+  },
   "positions": [
     {
       "code": "ML",

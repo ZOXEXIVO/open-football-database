@@ -4,6 +4,15 @@
   "last_name": "Martins",
   "birth_date": "1993-07-24",
   "country_id": 788,
+  "attrs": {
+    "person": {"ada": 12, "amb": 15, "loy": 8, "pre": 13, "pro": 16, "spo": 8, "tem": 8, "con": 14},
+    "player": {
+      "technical": {"cro": 13, "dri": 16, "fin": 12, "hea": 10, "lon": 14, "mar": 7, "pas": 13, "pen": 12, "tck": 8, "fir": 14, "tec": 16, "cor": 11, "lth": 7, "fre": 12},
+      "mental": {"otb": 13, "vis": 14, "ant": 14, "dec": 12, "pos": 7, "fla": 17, "tea": 10, "wor": 10, "ldr": 15, "bra": 11, "agg": 15, "det": 14, "cmp": 15, "cnt": 12},
+      "physical": {"acc": 12, "str": 10, "sta": 10, "pac": 11, "jum": 9, "bal": 13, "agi": 13, "nat": 14},
+      "hidden": {"dir": 14, "cns": 12, "imp": 13, "inj": 8, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "ML",

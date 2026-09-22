@@ -4,6 +4,12 @@
   "last_name": "Marković",
   "birth_date": "2000-01-01",
   "country_id": 802,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "fir": 10, "cor": 11},
+      "physical": {"acc": 12, "pac": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

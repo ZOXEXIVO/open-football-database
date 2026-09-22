@@ -4,6 +4,16 @@
   "last_name": "Mirzazad",
   "birth_date": "1997-02-27",
   "country_id": 114,
+  "attrs": {
+    "person": {"pre": 13, "pro": 14},
+    "player": {
+      "technical": {"tec": 7, "lth": 10},
+      "mental": {"pos": 13, "ldr": 14, "cmp": 13, "cnt": 12},
+      "physical": {"str": 15, "jum": 15, "bal": 14, "nat": 16},
+      "goalkeeping": {"han": 11, "aer": 12, "cmd": 13, "com": 12, "kic": 17, "thr": 10, "one": 10, "ref": 11, "rus": 9, "pun": 10},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

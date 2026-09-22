@@ -4,6 +4,13 @@
   "last_name": "Benyachou",
   "birth_date": "1999-11-30",
   "country_id": 34,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 10, "fin": 12, "hea": 7, "lon": 13, "mar": 6, "pas": 13, "pen": 12, "tck": 4, "fir": 12, "tec": 11, "lth": 5, "fre": 5},
+      "mental": {"otb": 13, "vis": 13, "ant": 10, "dec": 11, "pos": 7, "fla": 14, "tea": 10, "ldr": 4, "bra": 10, "agg": 7, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 13, "str": 6, "sta": 7, "pac": 13, "jum": 6, "agi": 13, "nat": 7}
+    }
+  },
   "positions": [
     {
       "code": "ML",

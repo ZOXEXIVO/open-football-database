@@ -4,6 +4,15 @@
   "last_name": "N'Diaye",
   "birth_date": "1990-01-01",
   "country_id": 31,
+  "attrs": {
+    "person": {"ada": 14, "amb": 12, "loy": 10, "pre": 13, "pro": 10, "spo": 10, "tem": 10, "con": 9},
+    "player": {
+      "technical": {"cro": 5, "dri": 6, "fin": 5, "hea": 15, "lon": 10, "mar": 13, "pas": 8, "pen": 6, "tck": 14, "fir": 7, "tec": 8, "cor": 4, "lth": 10, "fre": 6},
+      "mental": {"otb": 8, "vis": 5, "ant": 13, "dec": 9, "pos": 10, "fla": 4, "tea": 11, "wor": 12, "ldr": 12, "bra": 14, "agg": 16, "det": 12, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 11, "str": 14, "sta": 11, "pac": 11, "jum": 14, "bal": 14, "agi": 11, "nat": 16},
+      "hidden": {"dir": 14, "cns": 10, "imp": 10, "inj": 5, "ver": 5}
+    }
+  },
   "positions": [
     {
       "code": "DC",

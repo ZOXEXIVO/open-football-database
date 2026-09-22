@@ -4,6 +4,13 @@
   "last_name": "Sulemana",
   "birth_date": "2005-02-09",
   "country_id": 21,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 12},
+      "physical": {"str": 6, "jum": 5, "agi": 13},
+      "hidden": {"inj": 9}
+    }
+  },
   "positions": [
     {
       "code": "ML",

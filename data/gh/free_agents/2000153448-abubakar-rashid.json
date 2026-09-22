@@ -4,6 +4,15 @@
   "last_name": "Abubakar",
   "birth_date": "2000-03-16",
   "country_id": 21,
+  "attrs": {
+    "person": {"ada": 14, "amb": 8, "pro": 10, "spo": 8},
+    "player": {
+      "technical": {"cro": 4, "dri": 11, "fin": 7, "hea": 10, "lon": 9, "mar": 11, "pas": 12, "pen": 8, "tck": 10, "fir": 12, "tec": 10, "cor": 6, "lth": 7},
+      "mental": {"otb": 11, "vis": 12, "ant": 11, "dec": 10, "pos": 11, "fla": 8, "tea": 10, "wor": 12, "ldr": 7, "bra": 12, "agg": 14, "det": 12, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 13, "str": 12, "sta": 12, "pac": 12, "jum": 11, "bal": 10, "agi": 12},
+      "hidden": {"cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "DM",

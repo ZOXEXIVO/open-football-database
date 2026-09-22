@@ -4,6 +4,13 @@
   "last_name": "Abrahamsen",
   "birth_date": "2007-01-13",
   "country_id": 764,
+  "attrs": {
+    "player": {
+      "technical": {"tec": 10},
+      "mental": {"vis": 10, "fla": 12},
+      "physical": {"acc": 13, "pac": 12}
+    }
+  },
   "positions": [
     {
       "code": "ML",

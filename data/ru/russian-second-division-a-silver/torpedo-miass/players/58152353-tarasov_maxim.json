@@ -5,6 +5,14 @@
   "birth_date": "2001-05-22",
   "country_id": 791,
   "club_id": 130551,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "lon": 6, "tec": 8, "cor": 9, "fre": 8},
+      "mental": {"dec": 6, "tea": 8, "wor": 12},
+      "physical": {"str": 9, "pac": 11, "jum": 8, "agi": 12},
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "MR",

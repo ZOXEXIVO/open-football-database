@@ -4,6 +4,13 @@
   "last_name": "Biela",
   "birth_date": "1989-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 8, "fin": 2, "mar": 11, "tck": 9},
+      "mental": {"vis": 7, "ant": 12, "dec": 12, "pos": 10, "tea": 11, "wor": 12, "bra": 13},
+      "physical": {"acc": 13, "str": 13, "pac": 12, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

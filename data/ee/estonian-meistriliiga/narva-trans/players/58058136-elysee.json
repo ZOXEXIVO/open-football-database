@@ -5,6 +5,13 @@
   "birth_date": "1989-09-13",
   "country_id": 24,
   "club_id": 751,
+  "attrs": {
+    "person": {"ada": 10},
+    "player": {
+      "mental": {"agg": 14},
+      "hidden": {"cns": 8}
+    }
+  },
   "positions": [
     {
       "code": "DM",

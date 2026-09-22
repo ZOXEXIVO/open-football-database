@@ -4,6 +4,15 @@
   "last_name": "Martial",
   "birth_date": "1995-12-05",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 15, "amb": 10, "loy": 12, "pre": 11, "pro": 11, "spo": 12, "tem": 12, "con": 11},
+    "player": {
+      "technical": {"cro": 10, "dri": 15, "fin": 14, "hea": 10, "lon": 13, "mar": 5, "pas": 14, "pen": 15, "tck": 5, "fir": 16, "tec": 16, "cor": 8, "lth": 3, "fre": 8},
+      "mental": {"otb": 12, "vis": 10, "ant": 13, "dec": 12, "pos": 5, "fla": 15, "tea": 12, "wor": 7, "ldr": 6, "bra": 7, "agg": 6, "det": 7, "cmp": 14, "cnt": 9},
+      "physical": {"acc": 14, "str": 13, "sta": 13, "pac": 14, "jum": 9, "bal": 14, "agi": 15, "nat": 10},
+      "hidden": {"dir": 7, "cns": 10, "imp": 12, "inj": 15, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "AML",

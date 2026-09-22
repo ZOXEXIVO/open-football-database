@@ -4,6 +4,15 @@
   "last_name": "Chouchoumis",
   "birth_date": "1994-07-17",
   "country_id": 772,
+  "attrs": {
+    "person": {"ada": 10, "amb": 12, "loy": 13, "pre": 12, "pro": 13, "spo": 13, "tem": 14, "con": 3},
+    "player": {
+      "technical": {"cro": 13, "dri": 10, "fin": 8, "hea": 8, "lon": 11, "mar": 10, "pas": 12, "pen": 9, "tck": 11, "fir": 12, "tec": 13, "cor": 12, "lth": 11, "fre": 11},
+      "mental": {"otb": 10, "vis": 12, "ant": 10, "dec": 10, "pos": 10, "fla": 8, "tea": 10, "wor": 13, "ldr": 9, "bra": 10, "agg": 9, "det": 11, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 11, "str": 12, "sta": 12, "pac": 12, "jum": 11, "bal": 10, "agi": 10, "nat": 12},
+      "hidden": {"dir": 5, "cns": 11, "imp": 11, "inj": 9, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DL",

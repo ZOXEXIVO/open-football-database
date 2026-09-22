@@ -4,6 +4,15 @@
   "last_name": "Osayande",
   "birth_date": "2000-12-15",
   "country_id": 38,
+  "attrs": {
+    "person": {"amb": 15, "pre": 11, "pro": 13, "spo": 13},
+    "player": {
+      "technical": {"cro": 8, "dri": 10, "fin": 9, "hea": 9, "lon": 10, "mar": 6, "pas": 10, "pen": 7, "tck": 6, "fir": 12, "tec": 11, "cor": 9, "lth": 8, "fre": 8},
+      "mental": {"otb": 12, "vis": 11, "ant": 12, "dec": 10, "pos": 6, "fla": 9, "tea": 12, "wor": 13, "ldr": 12, "bra": 12, "agg": 9, "det": 12, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 11, "str": 10, "sta": 13, "pac": 12, "jum": 9, "bal": 11, "agi": 10, "nat": 12},
+      "hidden": {"cns": 12, "imp": 9, "ver": 4}
+    }
+  },
   "positions": [
     {
       "code": "DM",

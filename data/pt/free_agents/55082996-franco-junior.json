@@ -4,6 +4,15 @@
   "last_name": "Franco",
   "birth_date": "1995-01-01",
   "country_id": 788,
+  "attrs": {
+    "person": {"ada": 12, "amb": 14, "loy": 12, "pre": 11, "pro": 16, "spo": 15, "tem": 17, "con": 11},
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 7, "hea": 11, "lon": 9, "mar": 10, "pas": 13, "pen": 13, "tck": 12, "fir": 11, "tec": 12, "cor": 10, "lth": 3, "fre": 5},
+      "mental": {"otb": 11, "vis": 12, "ant": 12, "dec": 12, "pos": 13, "fla": 8, "tea": 12, "wor": 12, "ldr": 12, "bra": 10, "agg": 12, "det": 15, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 10, "str": 11, "sta": 12, "pac": 10, "jum": 10, "bal": 13, "agi": 11, "nat": 14},
+      "hidden": {"dir": 8, "cns": 14, "imp": 14, "inj": 15, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

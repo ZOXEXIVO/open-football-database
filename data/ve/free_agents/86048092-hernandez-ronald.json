@@ -4,6 +4,15 @@
   "last_name": "Hernández",
   "birth_date": "1997-09-21",
   "country_id": 1658,
+  "attrs": {
+    "person": {"ada": 12, "amb": 12, "loy": 11, "pre": 12, "pro": 9, "spo": 11, "tem": 10, "con": 5},
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "fin": 8, "hea": 8, "lon": 8, "mar": 12, "pas": 12, "pen": 7, "tck": 13, "fir": 12, "tec": 13, "cor": 12, "lth": 11, "fre": 11},
+      "mental": {"otb": 12, "vis": 11, "ant": 12, "dec": 11, "pos": 12, "fla": 9, "tea": 13, "wor": 15, "ldr": 7, "bra": 12, "agg": 13, "det": 14, "cmp": 7, "cnt": 11},
+      "physical": {"acc": 14, "str": 11, "sta": 13, "pac": 14, "jum": 9, "bal": 13, "agi": 12, "nat": 13},
+      "hidden": {"dir": 10, "cns": 14, "inj": 6, "ver": 16}
+    }
+  },
   "positions": [
     {
       "code": "DR",

@@ -4,6 +4,14 @@
   "last_name": "Rovegno",
   "birth_date": "1999-01-01",
   "country_id": 1656,
+  "attrs": {
+    "player": {
+      "technical": {"mar": 13, "tck": 12},
+      "mental": {"ant": 12, "pos": 12, "wor": 12, "agg": 11},
+      "physical": {"pac": 12},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

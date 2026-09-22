@@ -4,6 +4,15 @@
   "last_name": "Beite",
   "birth_date": "1996-01-01",
   "country_id": 786,
+  "attrs": {
+    "person": {"ada": 13, "amb": 11, "loy": 13, "pre": 12, "pro": 12, "spo": 10, "tem": 9, "con": 10},
+    "player": {
+      "technical": {"cro": 9, "dri": 10, "fin": 11, "hea": 6, "lon": 10, "mar": 6, "pas": 10, "pen": 8, "tck": 8, "fir": 10, "tec": 10, "cor": 10, "lth": 6, "fre": 9},
+      "mental": {"otb": 11, "vis": 11, "ant": 11, "dec": 10, "pos": 6, "fla": 13, "tea": 10, "wor": 11, "ldr": 9, "bra": 9, "agg": 12, "det": 12, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 13, "str": 8, "sta": 12, "pac": 12, "jum": 6, "bal": 9, "agi": 10, "nat": 12},
+      "hidden": {"dir": 12, "cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

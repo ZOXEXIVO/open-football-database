@@ -4,6 +4,14 @@
   "last_name": "Hýsek",
   "birth_date": "2003-01-01",
   "country_id": 763,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 9, "pas": 8, "tec": 10},
+      "mental": {"dec": 12},
+      "physical": {"acc": 12, "str": 8, "sta": 12, "pac": 12, "jum": 8, "nat": 9},
+      "hidden": {"ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "MC",

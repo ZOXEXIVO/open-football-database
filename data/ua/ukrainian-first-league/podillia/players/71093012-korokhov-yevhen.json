@@ -5,6 +5,13 @@
   "birth_date": "1998-03-17",
   "country_id": 800,
   "club_id": 71026832,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 8, "hea": 8, "mar": 9, "pas": 9, "pen": 7, "tck": 9, "cor": 8, "fre": 7},
+      "physical": {"str": 9, "jum": 12},
+      "hidden": {"ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DR",

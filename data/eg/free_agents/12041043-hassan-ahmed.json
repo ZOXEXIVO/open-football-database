@@ -4,6 +4,15 @@
   "last_name": "Hassan",
   "birth_date": "1993-03-05",
   "country_id": 16,
+  "attrs": {
+    "person": {"ada": 11, "amb": 11, "loy": 10, "pre": 12, "pro": 13, "spo": 15, "tem": 15, "con": 6},
+    "player": {
+      "technical": {"cro": 7, "dri": 10, "fin": 15, "hea": 15, "lon": 9, "mar": 6, "pas": 11, "pen": 13, "tck": 7, "fir": 12, "tec": 11, "cor": 5, "lth": 4, "fre": 7},
+      "mental": {"otb": 13, "vis": 10, "ant": 13, "dec": 11, "pos": 8, "fla": 11, "tea": 13, "wor": 12, "ldr": 7, "bra": 13, "agg": 10, "det": 12, "cmp": 13, "cnt": 10},
+      "physical": {"acc": 10, "str": 14, "sta": 12, "pac": 13, "jum": 15, "bal": 10, "agi": 9, "nat": 12},
+      "hidden": {"dir": 6, "cns": 12, "imp": 11, "inj": 11, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "ST",

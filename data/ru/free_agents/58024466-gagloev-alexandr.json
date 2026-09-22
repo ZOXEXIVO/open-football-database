@@ -4,6 +4,14 @@
   "last_name": "Gagloev",
   "birth_date": "1990-12-13",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 13, "dri": 11, "fin": 12, "hea": 4, "lon": 9, "mar": 11, "pas": 8, "pen": 12, "tck": 9, "fir": 12, "tec": 13, "cor": 14, "lth": 3, "fre": 14},
+      "mental": {"otb": 11, "vis": 13, "ant": 12, "dec": 13, "pos": 6, "tea": 9, "wor": 10, "ldr": 13, "agg": 13, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 11, "str": 9, "sta": 8, "pac": 11, "jum": 10, "bal": 11, "agi": 11, "nat": 13},
+      "hidden": {"cns": 15, "imp": 14, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "ML",

@@ -4,6 +4,15 @@
   "last_name": "Kalitvintsev",
   "birth_date": "1993-01-04",
   "country_id": 800,
+  "attrs": {
+    "person": {"ada": 14, "amb": 14, "pre": 9, "pro": 14, "spo": 14, "tem": 14, "con": 3},
+    "player": {
+      "technical": {"cro": 14, "dri": 12, "fin": 10, "hea": 7, "lon": 16, "mar": 8, "pas": 12, "pen": 13, "tck": 7, "fir": 12, "tec": 13, "cor": 12, "lth": 3, "fre": 13},
+      "mental": {"otb": 11, "vis": 12, "ant": 11, "dec": 12, "pos": 8, "fla": 12, "tea": 13, "wor": 10, "ldr": 10, "bra": 12, "agg": 8, "det": 15, "cmp": 13, "cnt": 10},
+      "physical": {"acc": 11, "str": 10, "sta": 11, "pac": 12, "jum": 9, "bal": 12, "agi": 12, "nat": 13},
+      "hidden": {"dir": 8, "cns": 10, "imp": 11, "inj": 10, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "MR",

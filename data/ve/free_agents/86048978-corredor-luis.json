@@ -4,6 +4,13 @@
   "last_name": "Corredor",
   "birth_date": "1997-09-23",
   "country_id": 1658,
+  "attrs": {
+    "player": {
+      "mental": {"ant": 11, "pos": 11, "bra": 12, "cnt": 11},
+      "physical": {"acc": 8, "str": 8, "pac": 10, "jum": 14, "bal": 11, "agi": 13},
+      "goalkeeping": {"han": 10, "aer": 13, "cmd": 12, "com": 11, "kic": 8, "thr": 8, "one": 12, "ref": 11, "ecc": 5, "rus": 8, "pun": 10}
+    }
+  },
   "positions": [
     {
       "code": "GK",

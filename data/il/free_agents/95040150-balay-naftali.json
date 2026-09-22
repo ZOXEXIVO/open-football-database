@@ -4,6 +4,14 @@
   "last_name": "Balay",
   "birth_date": "1997-03-28",
   "country_id": 775,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 13, "fin": 9, "lon": 9, "mar": 8, "pas": 10, "tck": 10, "fir": 9, "tec": 10},
+      "mental": {"otb": 9, "vis": 13, "ant": 8, "dec": 8, "pos": 12, "fla": 11, "tea": 12, "wor": 12, "bra": 9, "agg": 11, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 11, "str": 12, "sta": 12, "pac": 10, "jum": 8, "bal": 11, "agi": 11, "nat": 12},
+      "hidden": {"cns": 8, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DL",

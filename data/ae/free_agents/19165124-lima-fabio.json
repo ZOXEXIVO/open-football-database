@@ -4,6 +4,15 @@
   "last_name": "Lima",
   "birth_date": "1993-06-30",
   "country_id": 143,
+  "attrs": {
+    "person": {"ada": 12, "amb": 12, "loy": 18, "pre": 12, "pro": 15, "spo": 10, "tem": 11, "con": 11},
+    "player": {
+      "technical": {"cro": 13, "dri": 15, "fin": 14, "hea": 9, "lon": 14, "mar": 7, "pas": 13, "pen": 17, "tck": 8, "fir": 15, "tec": 16, "cor": 15, "lth": 9, "fre": 14},
+      "mental": {"otb": 14, "vis": 14, "ant": 13, "dec": 13, "pos": 7, "fla": 14, "tea": 10, "wor": 9, "ldr": 13, "bra": 9, "agg": 9, "det": 11, "cmp": 14, "cnt": 11},
+      "physical": {"acc": 13, "str": 10, "sta": 10, "pac": 11, "jum": 8, "bal": 15, "agi": 13, "nat": 15},
+      "hidden": {"dir": 10, "cns": 12, "imp": 14, "inj": 9, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

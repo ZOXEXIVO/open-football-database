@@ -4,6 +4,9 @@
   "last_name": "Gonzalez",
   "birth_date": "2001-01-01",
   "country_id": 390,
+  "attrs": {
+    "person": {"amb": 18, "pro": 16}
+  },
   "positions": [
     {
       "code": "ML",

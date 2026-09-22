@@ -4,6 +4,14 @@
   "last_name": "Luengo",
   "birth_date": "1997-11-11",
   "country_id": 796,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 7, "fin": 7, "hea": 13, "lon": 9, "mar": 12, "pas": 12, "pen": 7, "tck": 12, "fir": 11, "tec": 10, "cor": 5, "lth": 5, "fre": 5},
+      "mental": {"otb": 11, "vis": 11, "ant": 13, "dec": 14, "pos": 13, "fla": 6, "tea": 12, "wor": 11, "ldr": 13, "bra": 12, "agg": 10, "cmp": 10, "cnt": 13},
+      "physical": {"acc": 12, "str": 12, "sta": 14, "pac": 12, "jum": 13, "bal": 12, "agi": 12, "nat": 12},
+      "hidden": {"dir": 8, "cns": 11, "inj": 5, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DR",

@@ -5,6 +5,13 @@
   "birth_date": "2003-10-29",
   "country_id": 379,
   "club_id": 5512782,
+  "attrs": {
+    "person": {"amb": 5},
+    "player": {
+      "physical": {"str": 11, "jum": 15},
+      "goalkeeping": {"aer": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

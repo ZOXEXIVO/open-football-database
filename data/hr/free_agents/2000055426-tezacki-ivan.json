@@ -4,6 +4,14 @@
   "last_name": "Težački",
   "birth_date": "2002-01-01",
   "country_id": 761,
+  "attrs": {
+    "person": {"pro": 13, "spo": 12, "tem": 13},
+    "player": {
+      "technical": {"hea": 12, "mar": 10, "pas": 8, "tck": 11, "fir": 8, "tec": 7},
+      "mental": {"ant": 13, "pos": 11, "fla": 4, "tea": 11, "ldr": 11, "bra": 12, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 8, "str": 11, "pac": 9, "jum": 11, "agi": 9, "nat": 13}
+    }
+  },
   "positions": [
     {
       "code": "DC",

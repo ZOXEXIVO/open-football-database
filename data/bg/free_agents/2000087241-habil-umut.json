@@ -4,6 +4,13 @@
   "last_name": "Habil",
   "birth_date": "2005-07-04",
   "country_id": 760,
+  "attrs": {
+    "player": {
+      "mental": {"ant": 11, "pos": 11, "tea": 14, "wor": 11},
+      "physical": {"acc": 10, "str": 12, "pac": 8, "jum": 12, "agi": 12},
+      "goalkeeping": {"han": 10, "aer": 12, "cmd": 10, "kic": 12, "thr": 13, "one": 14, "ref": 13, "rus": 15, "pun": 15}
+    }
+  },
   "positions": [
     {
       "code": "GK",

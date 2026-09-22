@@ -4,6 +4,15 @@
   "last_name": "Brenden",
   "birth_date": "1994-01-01",
   "country_id": 786,
+  "attrs": {
+    "person": {"ada": 10, "amb": 14, "loy": 15, "pre": 11, "pro": 14, "spo": 11, "tem": 14, "con": 6},
+    "player": {
+      "technical": {"cro": 10, "dri": 9, "fin": 11, "hea": 10, "lon": 10, "mar": 6, "pas": 10, "pen": 10, "tck": 10, "fir": 10, "tec": 10, "cor": 7, "lth": 18, "fre": 6},
+      "mental": {"otb": 11, "vis": 11, "ant": 11, "dec": 9, "pos": 8, "fla": 13, "tea": 15, "wor": 15, "ldr": 9, "bra": 11, "agg": 13, "det": 11, "cmp": 9, "cnt": 7},
+      "physical": {"acc": 11, "str": 9, "sta": 15, "pac": 12, "jum": 10, "bal": 9, "agi": 11, "nat": 15},
+      "hidden": {"dir": 5, "cns": 12, "imp": 10, "inj": 5, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "MR",

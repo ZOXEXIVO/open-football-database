@@ -4,6 +4,15 @@
   "last_name": "Kuen",
   "birth_date": "1995-03-24",
   "country_id": 755,
+  "attrs": {
+    "person": {"ada": 11, "amb": 12, "loy": 10, "pre": 10, "pro": 11, "spo": 12, "tem": 16, "con": 7},
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "fin": 8, "hea": 10, "lon": 11, "mar": 8, "pas": 11, "pen": 7, "tck": 10, "fir": 12, "tec": 12, "cor": 8, "lth": 8, "fre": 11},
+      "mental": {"otb": 15, "vis": 13, "ant": 12, "dec": 11, "pos": 12, "fla": 10, "tea": 13, "wor": 12, "ldr": 9, "bra": 11, "agg": 8, "det": 13, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 13, "str": 11, "sta": 14, "pac": 13, "jum": 8, "bal": 11, "agi": 12, "nat": 10},
+      "hidden": {"dir": 7, "cns": 12, "imp": 9, "inj": 11, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "MC",

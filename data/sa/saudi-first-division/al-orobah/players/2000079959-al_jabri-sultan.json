@@ -5,6 +5,14 @@
   "birth_date": "1999-11-10",
   "country_id": 133,
   "club_id": 7920357,
+  "attrs": {
+    "person": {"amb": 8},
+    "player": {
+      "technical": {"dri": 11, "mar": 4, "fir": 10, "lth": 2, "fre": 10},
+      "mental": {"dec": 8, "pos": 4, "tea": 10, "wor": 10, "ldr": 3, "bra": 10},
+      "physical": {"acc": 15, "str": 6, "sta": 10, "pac": 10, "jum": 5, "bal": 13, "agi": 16}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

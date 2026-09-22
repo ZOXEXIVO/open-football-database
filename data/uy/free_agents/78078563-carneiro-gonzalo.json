@@ -4,6 +4,15 @@
   "last_name": "Carneiro",
   "birth_date": "1995-09-12",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 7, "amb": 14, "loy": 3, "pre": 10, "pro": 4, "spo": 6, "tem": 4, "con": 10},
+    "player": {
+      "technical": {"cro": 12, "dri": 14, "fin": 13, "hea": 15, "lon": 10, "mar": 7, "pas": 12, "pen": 14, "tck": 12, "fir": 15, "tec": 15, "fre": 13},
+      "mental": {"otb": 13, "vis": 12, "ant": 12, "dec": 10, "pos": 7, "fla": 14, "tea": 11, "wor": 10, "ldr": 8, "bra": 9, "agg": 14, "det": 8, "cmp": 9, "cnt": 8},
+      "physical": {"acc": 12, "str": 10, "sta": 11, "pac": 13, "jum": 15, "bal": 14, "agi": 13, "nat": 9},
+      "hidden": {"dir": 16, "cns": 8, "imp": 9, "inj": 12, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "ST",

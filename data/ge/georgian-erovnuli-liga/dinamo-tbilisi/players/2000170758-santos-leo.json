@@ -5,6 +5,13 @@
   "birth_date": "2003-07-21",
   "country_id": 1651,
   "club_id": 892,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "fin": 5, "mar": 10, "tck": 10},
+      "mental": {"otb": 12, "pos": 9, "bra": 12, "agg": 12, "det": 15, "cnt": 9},
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "DL",

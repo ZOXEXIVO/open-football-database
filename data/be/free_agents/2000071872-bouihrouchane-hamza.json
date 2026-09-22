@@ -4,6 +4,13 @@
   "last_name": "Bouihrouchane",
   "birth_date": "2002-01-01",
   "country_id": 757,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 6, "hea": 7, "mar": 8, "tck": 7, "tec": 11},
+      "mental": {"vis": 13, "pos": 9, "tea": 13, "wor": 12, "ldr": 6},
+      "physical": {"acc": 11, "sta": 14, "pac": 11, "jum": 8, "bal": 11, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

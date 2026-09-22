@@ -4,6 +4,15 @@
   "last_name": "Perić",
   "birth_date": "1994-07-12",
   "country_id": 761,
+  "attrs": {
+    "person": {"amb": 8, "loy": 16, "pre": 13, "pro": 13, "spo": 4, "tem": 10, "con": 6},
+    "player": {
+      "technical": {"cro": 5, "dri": 9, "fin": 7, "hea": 15, "lon": 5, "mar": 13, "pas": 13, "pen": 5, "tck": 14, "fir": 12, "tec": 11, "cor": 4, "lth": 12, "fre": 4},
+      "mental": {"otb": 8, "vis": 10, "ant": 13, "dec": 13, "pos": 11, "fla": 5, "tea": 14, "wor": 8, "ldr": 12, "bra": 12, "agg": 14, "det": 12, "cmp": 13, "cnt": 7},
+      "physical": {"acc": 7, "str": 16, "sta": 9, "pac": 9, "jum": 18, "bal": 6, "agi": 4, "nat": 7},
+      "hidden": {"dir": 10, "cns": 12, "imp": 10, "inj": 19, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DC",

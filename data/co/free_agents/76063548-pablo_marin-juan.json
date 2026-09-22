@@ -4,6 +4,13 @@
   "last_name": "Pablo Marín",
   "birth_date": "2000-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"amb": 10, "pro": 10},
+    "player": {
+      "mental": {"vis": 10, "dec": 10, "det": 10, "cnt": 10},
+      "physical": {"acc": 12, "str": 8, "sta": 12, "pac": 12, "bal": 9, "agi": 11, "nat": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

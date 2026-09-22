@@ -4,6 +4,15 @@
   "last_name": "Schmid",
   "birth_date": "1999-01-01",
   "country_id": 755,
+  "attrs": {
+    "person": {"ada": 15, "amb": 12, "loy": 11, "pre": 13, "pro": 13, "spo": 12, "tem": 13, "con": 9},
+    "player": {
+      "technical": {"cro": 9, "dri": 11, "fin": 12, "hea": 9, "lon": 10, "mar": 5, "pas": 11, "pen": 10, "tck": 7, "fir": 11, "tec": 12, "cor": 7, "lth": 6, "fre": 8},
+      "mental": {"otb": 14, "vis": 11, "ant": 11, "dec": 10, "pos": 9, "fla": 11, "tea": 11, "wor": 12, "ldr": 10, "bra": 10, "agg": 9, "det": 12, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 12, "str": 12, "sta": 12, "pac": 12, "jum": 11, "bal": 12, "agi": 11, "nat": 11},
+      "hidden": {"dir": 9, "cns": 10, "imp": 8, "inj": 8, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "ST",

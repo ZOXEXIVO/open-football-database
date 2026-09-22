@@ -4,6 +4,15 @@
   "last_name": "Kouros",
   "birth_date": "1993-08-21",
   "country_id": 772,
+  "attrs": {
+    "person": {"amb": 14, "loy": 12, "pre": 9, "pro": 13, "spo": 12, "tem": 14, "con": 8},
+    "player": {
+      "technical": {"cro": 11, "dri": 9, "fin": 4, "hea": 13, "lon": 10, "mar": 12, "pas": 9, "pen": 8, "tck": 13, "fir": 10, "tec": 8, "cor": 6, "lth": 13, "fre": 9},
+      "mental": {"otb": 6, "vis": 8, "ant": 9, "dec": 9, "pos": 11, "fla": 5, "tea": 12, "wor": 14, "ldr": 8, "bra": 14, "agg": 13, "det": 13, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 12, "str": 12, "sta": 14, "pac": 13, "jum": 13, "bal": 12, "agi": 11, "nat": 16},
+      "hidden": {"dir": 8, "cns": 11, "imp": 12, "inj": 6, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "DL",

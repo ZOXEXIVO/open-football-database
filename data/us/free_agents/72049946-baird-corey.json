@@ -4,6 +4,9 @@
   "last_name": "Baird",
   "birth_date": "1996-01-01",
   "country_id": 390,
+  "attrs": {
+    "person": {"amb": 8, "pro": 12, "spo": 13, "tem": 14}
+  },
   "positions": [
     {
       "code": "AMR",

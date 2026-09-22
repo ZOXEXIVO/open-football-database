@@ -4,6 +4,15 @@
   "last_name": "Bektasi",
   "birth_date": "1990-01-01",
   "country_id": 771,
+  "attrs": {
+    "person": {"ada": 13, "amb": 13, "loy": 5, "pre": 7, "pro": 6, "spo": 2, "tem": 4, "con": 13},
+    "player": {
+      "technical": {"cro": 7, "dri": 10, "fin": 14, "hea": 6, "lon": 8, "mar": 5, "pas": 9, "pen": 4, "tck": 6, "fir": 11, "tec": 12, "cor": 7, "lth": 6, "fre": 8},
+      "mental": {"otb": 12, "vis": 6, "ant": 8, "dec": 8, "pos": 7, "fla": 14, "tea": 7, "wor": 15, "ldr": 6, "bra": 16, "agg": 18, "det": 7, "cmp": 7, "cnt": 8},
+      "physical": {"acc": 14, "str": 13, "sta": 12, "pac": 13, "jum": 8, "bal": 10, "agi": 13, "nat": 12},
+      "hidden": {"dir": 18, "cns": 14, "imp": 14, "inj": 5, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

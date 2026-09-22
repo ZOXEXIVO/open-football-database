@@ -4,6 +4,15 @@
   "last_name": "Hadergjonaj",
   "birth_date": "1994-07-31",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 12, "amb": 13, "loy": 10, "pre": 14, "pro": 15, "spo": 12, "tem": 16, "con": 13},
+    "player": {
+      "technical": {"cro": 15, "dri": 10, "fin": 7, "hea": 9, "lon": 8, "mar": 12, "pas": 11, "pen": 8, "tck": 14, "fir": 12, "tec": 12, "cor": 6, "lth": 12, "fre": 5},
+      "mental": {"otb": 10, "vis": 10, "ant": 11, "dec": 12, "pos": 13, "fla": 9, "tea": 16, "wor": 15, "ldr": 9, "bra": 11, "agg": 7, "det": 14, "cmp": 10, "cnt": 15},
+      "physical": {"acc": 12, "str": 12, "sta": 15, "pac": 13, "jum": 12, "bal": 10, "agi": 10, "nat": 16},
+      "hidden": {"dir": 9, "cns": 16, "imp": 10, "inj": 6, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

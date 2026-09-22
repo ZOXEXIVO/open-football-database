@@ -4,6 +4,13 @@
   "last_name": "Mokeddem",
   "birth_date": "1994-06-05",
   "country_id": 5,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 12},
+      "mental": {"ldr": 9, "bra": 13},
+      "physical": {"str": 11, "jum": 15}
+    }
+  },
   "positions": [
     {
       "code": "DC",

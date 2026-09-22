@@ -4,6 +4,14 @@
   "last_name": "Steenvoorden",
   "birth_date": "1993-01-01",
   "country_id": 784,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 10, "fin": 5, "hea": 12, "lon": 8, "mar": 11, "pas": 10, "pen": 5, "tck": 12, "fir": 9, "tec": 10, "cor": 4, "fre": 6},
+      "mental": {"otb": 12, "vis": 11, "ant": 10, "dec": 10, "pos": 12, "fla": 7, "tea": 12, "wor": 13, "ldr": 13, "bra": 12, "agg": 14, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 10, "str": 10, "sta": 13, "pac": 10, "jum": 12, "bal": 13, "agi": 10},
+      "hidden": {"cns": 11, "imp": 8}
+    }
+  },
   "positions": [
     {
       "code": "DC",

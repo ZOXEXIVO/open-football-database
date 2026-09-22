@@ -4,6 +4,16 @@
   "last_name": "Haug",
   "birth_date": "1998-06-12",
   "country_id": 786,
+  "attrs": {
+    "person": {"ada": 14, "amb": 16, "loy": 14, "pre": 12, "pro": 15},
+    "player": {
+      "technical": {"hea": 5, "pas": 11, "fir": 11, "tec": 11},
+      "mental": {"otb": 4, "vis": 8, "ant": 11, "dec": 12, "pos": 11, "fla": 12, "tea": 10, "wor": 8, "ldr": 9, "bra": 13, "agg": 10, "det": 14, "cmp": 12, "cnt": 9},
+      "physical": {"acc": 11, "str": 13, "sta": 12, "pac": 11, "jum": 16, "bal": 12, "agi": 13, "nat": 12},
+      "goalkeeping": {"han": 12, "aer": 15, "cmd": 12, "com": 12, "kic": 12, "thr": 11, "one": 14, "ref": 14, "ecc": 9, "rus": 12, "pun": 12},
+      "hidden": {"dir": 13, "cns": 12, "imp": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

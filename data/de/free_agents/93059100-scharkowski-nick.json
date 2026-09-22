@@ -4,6 +4,12 @@
   "last_name": "Scharkowski",
   "birth_date": "1992-01-01",
   "country_id": 771,
+  "attrs": {
+    "player": {
+      "physical": {"jum": 14},
+      "hidden": {"cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "ST",

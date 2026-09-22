@@ -5,6 +5,13 @@
   "birth_date": "1987-10-31",
   "country_id": 761,
   "club_id": 129872,
+  "attrs": {
+    "player": {
+      "mental": {"ldr": 13, "det": 15},
+      "physical": {"jum": 20},
+      "goalkeeping": {"cmd": 13, "com": 13}
+    }
+  },
   "positions": [
     {
       "code": "GK",

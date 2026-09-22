@@ -4,6 +4,15 @@
   "last_name": "Simon",
   "birth_date": "1991-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"amb": 10, "loy": 15, "pro": 14, "spo": 13, "con": 7},
+    "player": {
+      "technical": {"cro": 10, "hea": 11, "pas": 11},
+      "mental": {"vis": 12, "ant": 11, "dec": 11, "pos": 10, "ldr": 12, "bra": 10, "det": 13, "cnt": 12},
+      "physical": {"acc": 11, "str": 11, "sta": 13, "pac": 11, "jum": 11, "bal": 12, "agi": 10, "nat": 14},
+      "hidden": {"cns": 11, "inj": 5, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "DL",

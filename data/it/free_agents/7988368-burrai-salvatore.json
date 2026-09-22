@@ -4,6 +4,15 @@
   "last_name": "Burrai",
   "birth_date": "1987-05-26",
   "country_id": 776,
+  "attrs": {
+    "person": {"ada": 10, "amb": 13, "loy": 14, "pre": 17, "pro": 17, "spo": 13, "tem": 11, "con": 10},
+    "player": {
+      "technical": {"cro": 14, "dri": 11, "fin": 8, "hea": 9, "lon": 13, "mar": 12, "pas": 15, "pen": 13, "tck": 10, "fir": 12, "tec": 12, "cor": 16, "lth": 7, "fre": 14},
+      "mental": {"otb": 10, "vis": 13, "ant": 14, "dec": 14, "pos": 13, "fla": 12, "tea": 13, "wor": 12, "ldr": 15, "bra": 15, "agg": 14, "det": 14, "cmp": 13, "cnt": 11},
+      "physical": {"acc": 9, "str": 9, "sta": 11, "pac": 9, "jum": 9, "bal": 12, "agi": 10, "nat": 16},
+      "hidden": {"dir": 8, "cns": 13, "imp": 13, "inj": 7, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DM",

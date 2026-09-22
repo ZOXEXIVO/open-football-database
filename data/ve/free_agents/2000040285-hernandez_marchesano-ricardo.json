@@ -4,6 +4,13 @@
   "last_name": "Hernández Marchesano",
   "birth_date": "2000-12-21",
   "country_id": 1658,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 8, "lon": 8, "pas": 9, "fir": 10, "tec": 11},
+      "mental": {"otb": 7, "vis": 11, "ant": 11, "pos": 8, "tea": 14, "wor": 11, "agg": 10},
+      "physical": {"acc": 12, "str": 10, "pac": 12, "jum": 12, "bal": 11, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "MC",

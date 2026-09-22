@@ -4,6 +4,15 @@
   "last_name": "Shagaxle",
   "birth_date": "2005-05-16",
   "country_id": 797,
+  "attrs": {
+    "person": {"amb": 14, "loy": 9, "pre": 13, "pro": 12, "spo": 15, "tem": 13, "con": 5},
+    "player": {
+      "technical": {"cro": 7, "dri": 10, "fin": 6, "hea": 10, "lon": 5, "mar": 8, "pas": 12, "pen": 5, "tck": 9, "fir": 11, "tec": 13, "cor": 5, "lth": 5, "fre": 5},
+      "mental": {"otb": 8, "vis": 9, "ant": 10, "dec": 10, "pos": 10, "fla": 12, "tea": 14, "wor": 12, "ldr": 6, "bra": 13, "agg": 11, "det": 12, "cmp": 13, "cnt": 11},
+      "physical": {"acc": 8, "str": 11, "sta": 12, "pac": 9, "jum": 14, "bal": 15, "agi": 11, "nat": 13},
+      "hidden": {"dir": 7, "cns": 12, "inj": 7, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "MC",

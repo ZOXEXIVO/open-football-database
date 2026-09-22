@@ -5,6 +5,15 @@
   "birth_date": "2005-02-24",
   "country_id": 379,
   "club_id": 1254,
+  "attrs": {
+    "person": {"ada": 11, "loy": 9},
+    "player": {
+      "technical": {"fin": 9, "hea": 9},
+      "mental": {"ant": 10, "det": 10},
+      "physical": {"str": 10, "pac": 10, "jum": 11},
+      "hidden": {"dir": 9, "cns": 11, "ver": 5}
+    }
+  },
   "positions": [
     {
       "code": "ST",

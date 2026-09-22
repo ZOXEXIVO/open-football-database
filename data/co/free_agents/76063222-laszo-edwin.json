@@ -4,6 +4,15 @@
   "last_name": "Laszo",
   "birth_date": "1999-03-02",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 12, "amb": 10, "pro": 9},
+    "player": {
+      "technical": {"cro": 8, "dri": 8, "fin": 7, "hea": 10, "lon": 10, "mar": 12, "pas": 11, "pen": 7, "tck": 13, "fir": 11, "tec": 10, "cor": 5, "lth": 5, "fre": 6},
+      "mental": {"otb": 8, "vis": 9, "ant": 12, "dec": 10, "pos": 11, "fla": 7, "tea": 12, "wor": 12, "bra": 13, "agg": 11, "det": 10, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 13, "str": 13, "sta": 13, "pac": 13, "jum": 13, "bal": 12, "agi": 12, "nat": 13},
+      "hidden": {"dir": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

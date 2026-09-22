@@ -4,6 +4,15 @@
   "last_name": "Sacko",
   "birth_date": "1993-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 12, "amb": 10, "loy": 11, "pre": 9, "pro": 12, "spo": 11, "tem": 12, "con": 11},
+    "player": {
+      "technical": {"cro": 10, "dri": 9, "fin": 8, "hea": 10, "lon": 10, "mar": 11, "pas": 11, "pen": 9, "tck": 11, "fir": 11, "tec": 12, "cor": 7, "lth": 7, "fre": 7},
+      "mental": {"otb": 10, "vis": 12, "ant": 11, "dec": 12, "pos": 10, "fla": 11, "tea": 12, "wor": 13, "ldr": 7, "bra": 9, "agg": 9, "det": 12, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 12, "str": 8, "sta": 13, "pac": 12, "jum": 8, "bal": 11, "agi": 13, "nat": 15},
+      "hidden": {"dir": 9, "cns": 11, "imp": 10, "inj": 5, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

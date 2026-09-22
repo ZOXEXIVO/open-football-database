@@ -4,6 +4,9 @@
   "last_name": "Oteng",
   "birth_date": "2001-01-01",
   "country_id": 21,
+  "attrs": {
+    "person": {"amb": 12, "pro": 12, "spo": 13, "tem": 13}
+  },
   "positions": [
     {
       "code": "DL",

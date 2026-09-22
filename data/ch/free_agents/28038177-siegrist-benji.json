@@ -4,6 +4,16 @@
   "last_name": "Siegrist",
   "birth_date": "1992-01-31",
   "country_id": 798,
+  "attrs": {
+    "person": {"ada": 20, "amb": 13, "loy": 14, "pre": 8, "pro": 13, "spo": 13, "tem": 13, "con": 4},
+    "player": {
+      "technical": {"hea": 8, "pas": 8, "fir": 6, "tec": 11},
+      "mental": {"vis": 9, "ant": 13, "dec": 11, "pos": 15, "fla": 4, "tea": 12, "wor": 12, "ldr": 15, "bra": 13, "agg": 11, "det": 14, "cmp": 13, "cnt": 13},
+      "physical": {"acc": 8, "str": 14, "sta": 11, "pac": 8, "jum": 17, "bal": 15, "agi": 10, "nat": 13},
+      "goalkeeping": {"han": 13, "aer": 16, "cmd": 14, "com": 12, "kic": 10, "thr": 11, "one": 16, "ref": 12, "ecc": 7, "rus": 12, "pun": 12},
+      "hidden": {"cns": 15, "inj": 9}
+    }
+  },
   "positions": [
     {
       "code": "GK",

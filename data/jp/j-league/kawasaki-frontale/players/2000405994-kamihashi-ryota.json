@@ -5,6 +5,13 @@
   "birth_date": "2002-06-16",
   "country_id": 116,
   "club_id": 107296,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 4, "dri": 4, "fin": 4, "hea": 8, "lon": 4, "mar": 11, "pas": 9, "tck": 11, "fir": 7, "tec": 5, "cor": 2, "lth": 10, "fre": 4},
+      "mental": {"otb": 4, "vis": 3, "ant": 9, "dec": 10, "pos": 13, "fla": 5, "tea": 11, "wor": 12, "ldr": 5, "bra": 12, "agg": 5, "det": 11, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 8, "str": 13, "sta": 11, "pac": 13, "jum": 15, "bal": 7, "agi": 9, "nat": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -4,6 +4,9 @@
   "last_name": "Smith",
   "birth_date": "1998-01-01",
   "country_id": 765,
+  "attrs": {
+    "person": {"ada": 12}
+  },
   "positions": [
     {
       "code": "AMR",

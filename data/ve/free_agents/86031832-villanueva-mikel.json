@@ -4,6 +4,15 @@
   "last_name": "Villanueva",
   "birth_date": "1993-04-14",
   "country_id": 1658,
+  "attrs": {
+    "person": {"ada": 12, "amb": 15, "loy": 13, "pre": 8, "pro": 14, "spo": 14, "tem": 16, "con": 5},
+    "player": {
+      "technical": {"cro": 12, "dri": 10, "fin": 8, "hea": 14, "lon": 8, "mar": 14, "pas": 12, "pen": 7, "tck": 10, "fir": 12, "tec": 13, "cor": 8, "lth": 13, "fre": 9},
+      "mental": {"otb": 7, "vis": 11, "ant": 14, "dec": 13, "pos": 14, "fla": 6, "tea": 14, "wor": 12, "ldr": 12, "bra": 15, "agg": 13, "det": 13, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 9, "str": 16, "sta": 12, "pac": 14, "jum": 17, "bal": 9, "agi": 8, "nat": 12},
+      "hidden": {"dir": 9, "cns": 15, "imp": 14, "inj": 11, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

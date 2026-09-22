@@ -4,6 +4,15 @@
   "last_name": "Fjellstad Olsen",
   "birth_date": "2003-01-01",
   "country_id": 786,
+  "attrs": {
+    "person": {"ada": 13, "amb": 6, "loy": 11, "pre": 12, "pro": 13, "spo": 10, "tem": 10, "con": 8},
+    "player": {
+      "technical": {"cro": 10, "dri": 10, "fin": 11, "hea": 7, "lon": 11, "mar": 9, "pas": 11, "pen": 10, "tck": 9, "fir": 11, "tec": 11, "cor": 10, "lth": 5, "fre": 11},
+      "mental": {"otb": 11, "vis": 11, "ant": 11, "dec": 9, "pos": 11, "fla": 13, "tea": 10, "wor": 10, "ldr": 10, "bra": 10, "agg": 10, "det": 12, "cmp": 10, "cnt": 8},
+      "physical": {"acc": 11, "str": 10, "sta": 12, "pac": 11, "jum": 9, "bal": 11, "agi": 10, "nat": 11},
+      "hidden": {"dir": 10, "cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -4,6 +4,14 @@
   "last_name": "Boutin",
   "birth_date": "2003-09-11",
   "country_id": 769,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 9, "fin": 5, "hea": 8, "lon": 7, "mar": 8, "pas": 9, "pen": 5, "tck": 10, "fir": 10, "tec": 11, "cor": 8, "lth": 5, "fre": 7},
+      "mental": {"otb": 8, "vis": 9, "ant": 9, "dec": 8, "pos": 10, "fla": 9, "tea": 11, "wor": 11, "ldr": 6, "bra": 9, "agg": 9, "det": 10, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 13, "str": 9, "sta": 11, "pac": 13, "jum": 11, "bal": 9, "agi": 11},
+      "hidden": {"dir": 10, "cns": 7, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DL",

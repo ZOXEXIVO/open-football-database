@@ -4,6 +4,15 @@
   "last_name": "Zličić",
   "birth_date": "2000-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 10, "amb": 12, "loy": 10, "pre": 12, "pro": 12, "spo": 12, "tem": 13, "con": 9},
+    "player": {
+      "technical": {"cro": 8, "dri": 12, "fin": 11, "hea": 11, "lon": 11, "mar": 7, "pas": 9, "pen": 11, "tck": 8, "fir": 11, "tec": 13, "cor": 8, "lth": 7, "fre": 8},
+      "mental": {"otb": 13, "vis": 10, "ant": 10, "dec": 10, "pos": 10, "fla": 13, "tea": 8, "wor": 10, "ldr": 12, "bra": 11, "agg": 12, "det": 9, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 12, "str": 10, "sta": 10, "pac": 12, "jum": 13, "bal": 10, "agi": 10, "nat": 14},
+      "hidden": {"dir": 9, "cns": 14, "imp": 12, "inj": 9, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

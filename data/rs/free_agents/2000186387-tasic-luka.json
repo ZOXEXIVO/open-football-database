@@ -4,6 +4,11 @@
   "last_name": "Tasić",
   "birth_date": "2003-01-01",
   "country_id": 802,
+  "attrs": {
+    "player": {
+      "goalkeeping": {"han": 12, "aer": 10, "cmd": 10, "ref": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

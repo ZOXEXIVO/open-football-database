@@ -4,6 +4,15 @@
   "last_name": "Mikkelsen",
   "birth_date": "1983-08-27",
   "country_id": 764,
+  "attrs": {
+    "person": {"amb": 13, "loy": 13, "pre": 7, "pro": 16, "spo": 9, "tem": 6, "con": 2},
+    "player": {
+      "mental": {"vis": 5, "ant": 10, "dec": 12, "wor": 13, "ldr": 8, "bra": 12, "agg": 10, "det": 9, "cnt": 12},
+      "physical": {"acc": 4, "str": 14, "sta": 9, "pac": 7, "jum": 14, "bal": 11, "agi": 10, "nat": 18},
+      "goalkeeping": {"han": 13, "aer": 12, "cmd": 10, "com": 13, "kic": 10, "thr": 13, "one": 13, "ref": 12, "ecc": 13, "rus": 12, "pun": 7},
+      "hidden": {"cns": 15, "imp": 12, "inj": 4}
+    }
+  },
   "positions": [
     {
       "code": "GK",

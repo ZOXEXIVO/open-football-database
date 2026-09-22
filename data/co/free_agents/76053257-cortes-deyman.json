@@ -4,6 +4,14 @@
   "last_name": "Cortés",
   "birth_date": "2000-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"amb": 10, "loy": 11, "pre": 10, "pro": 10, "spo": 9},
+    "player": {
+      "technical": {"fin": 12},
+      "mental": {"otb": 11, "dec": 10, "det": 13, "cnt": 11},
+      "physical": {"acc": 12, "str": 10, "sta": 12, "pac": 12, "jum": 13, "agi": 12, "nat": 13}
+    }
+  },
   "positions": [
     {
       "code": "ST",

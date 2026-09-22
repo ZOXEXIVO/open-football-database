@@ -4,6 +4,15 @@
   "last_name": "Maciel",
   "birth_date": "1999-01-01",
   "country_id": 1655,
+  "attrs": {
+    "person": {"spo": 7, "tem": 7},
+    "player": {
+      "technical": {"cro": 10, "dri": 13, "fin": 11, "lon": 12, "mar": 7, "pas": 12, "tck": 7, "fir": 13, "tec": 13, "cor": 11, "fre": 11},
+      "mental": {"otb": 12, "vis": 11, "ant": 9, "dec": 9, "pos": 8, "fla": 13, "tea": 11, "wor": 14, "bra": 9, "agg": 13, "cmp": 11, "cnt": 9},
+      "physical": {"acc": 14, "str": 7, "sta": 10, "pac": 11, "jum": 7, "bal": 9, "agi": 14, "nat": 9},
+      "hidden": {"dir": 14, "cns": 8, "inj": 12, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "ML",

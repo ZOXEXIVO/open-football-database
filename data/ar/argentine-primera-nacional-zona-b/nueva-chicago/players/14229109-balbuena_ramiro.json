@@ -5,6 +5,13 @@
   "birth_date": "2000-02-28",
   "country_id": 1649,
   "club_id": 102486,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "dri": 13, "fin": 10, "hea": 9, "mar": 6, "pas": 9, "tck": 6, "fir": 11, "tec": 12, "lth": 7},
+      "mental": {"otb": 11, "dec": 10, "fla": 12},
+      "physical": {"acc": 12, "str": 9, "sta": 12, "pac": 12, "jum": 8, "bal": 9, "agi": 13, "nat": 15}
+    }
+  },
   "positions": [
     {
       "code": "MR",

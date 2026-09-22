@@ -5,6 +5,13 @@
   "birth_date": "2005-08-25",
   "country_id": 791,
   "club_id": 58126843,
+  "attrs": {
+    "person": {"spo": 3},
+    "player": {
+      "physical": {"str": 11},
+      "hidden": {"cns": 15}
+    }
+  },
   "positions": [
     {
       "code": "ST",

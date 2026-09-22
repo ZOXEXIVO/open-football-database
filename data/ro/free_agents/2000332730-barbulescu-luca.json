@@ -4,6 +4,15 @@
   "last_name": "Bărbulescu",
   "birth_date": "2007-03-31",
   "country_id": 790,
+  "attrs": {
+    "person": {"ada": 11, "amb": 15, "loy": 12, "pre": 12, "pro": 10, "spo": 8, "tem": 11, "con": 10},
+    "player": {
+      "technical": {"cro": 8, "dri": 11, "fin": 11, "hea": 8, "lon": 9, "mar": 5, "pas": 10, "pen": 9, "tck": 5, "fir": 12, "tec": 13, "cor": 6, "lth": 3, "fre": 8},
+      "mental": {"otb": 7, "vis": 11, "ant": 6, "dec": 7, "pos": 5, "fla": 12, "tea": 7, "wor": 7, "ldr": 3, "bra": 7, "agg": 8, "det": 8, "cmp": 8, "cnt": 7},
+      "physical": {"acc": 13, "str": 7, "sta": 6, "pac": 14, "jum": 8, "bal": 11, "agi": 13, "nat": 13},
+      "hidden": {"ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

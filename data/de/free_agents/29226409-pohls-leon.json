@@ -4,6 +4,16 @@
   "last_name": "Pöhls",
   "birth_date": "1997-05-01",
   "country_id": 771,
+  "attrs": {
+    "person": {"ada": 14, "amb": 12, "loy": 8, "pre": 10, "pro": 15, "spo": 13, "tem": 11, "con": 4},
+    "player": {
+      "technical": {"hea": 9, "pas": 8, "fir": 9, "tec": 10},
+      "mental": {"otb": 8, "vis": 9, "ant": 10, "dec": 9, "pos": 10, "fla": 6, "tea": 12, "wor": 12, "ldr": 5, "bra": 10, "agg": 8, "det": 14, "cmp": 9, "cnt": 10},
+      "physical": {"acc": 12, "str": 10, "sta": 12, "pac": 12, "jum": 12, "bal": 11, "agi": 11, "nat": 13},
+      "goalkeeping": {"han": 11, "aer": 11, "cmd": 10, "com": 12, "kic": 9, "thr": 9, "one": 11, "ref": 13, "ecc": 14, "rus": 12, "pun": 12},
+      "hidden": {"dir": 6, "cns": 7, "imp": 10, "inj": 4}
+    }
+  },
   "positions": [
     {
       "code": "GK",

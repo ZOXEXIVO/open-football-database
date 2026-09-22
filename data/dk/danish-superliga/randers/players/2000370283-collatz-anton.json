@@ -5,6 +5,12 @@
   "birth_date": "2008-02-17",
   "country_id": 764,
   "club_id": 930621,
+  "attrs": {
+    "player": {
+      "mental": {"wor": 12},
+      "physical": {"sta": 10}
+    }
+  },
   "positions": [
     {
       "code": "DL",

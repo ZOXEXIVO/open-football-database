@@ -4,6 +4,14 @@
   "last_name": "Nondi",
   "birth_date": "1999-02-10",
   "country_id": 25,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 6, "dri": 8, "fin": 6, "lon": 7, "mar": 12, "pas": 11, "tck": 13, "fir": 11, "tec": 10, "cor": 5},
+      "mental": {"otb": 12, "vis": 9, "ant": 12, "dec": 12, "pos": 12, "tea": 13, "wor": 14, "ldr": 9, "bra": 11, "agg": 12, "det": 12, "cnt": 11},
+      "physical": {"acc": 13, "str": 12, "sta": 14, "pac": 12, "jum": 10, "bal": 12, "agi": 12},
+      "hidden": {"cns": 13}
+    }
+  },
   "positions": [
     {
       "code": "DM",

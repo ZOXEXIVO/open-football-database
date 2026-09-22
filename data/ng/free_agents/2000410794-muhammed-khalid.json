@@ -4,6 +4,12 @@
   "last_name": "Muhammed",
   "birth_date": "2004-01-01",
   "country_id": 38,
+  "attrs": {
+    "player": {
+      "technical": {"mar": 11, "tck": 10},
+      "physical": {"acc": 11, "str": 11, "sta": 11, "pac": 10, "bal": 10, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

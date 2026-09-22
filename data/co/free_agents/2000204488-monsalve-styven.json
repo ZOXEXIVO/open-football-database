@@ -4,6 +4,13 @@
   "last_name": "Monsalve",
   "birth_date": "2003-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"amb": 12, "loy": 12, "pre": 12, "pro": 10, "con": 7},
+    "player": {
+      "mental": {"bra": 12, "det": 10, "cmp": 12},
+      "hidden": {"cns": 13}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

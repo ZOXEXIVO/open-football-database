@@ -4,6 +4,14 @@
   "last_name": "MacLorg",
   "birth_date": "2005-10-08",
   "country_id": 765,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 7, "fir": 6},
+      "mental": {"ant": 8, "dec": 9, "pos": 8, "bra": 11, "cmp": 6, "cnt": 8},
+      "physical": {"acc": 8, "str": 8, "pac": 8, "jum": 9, "agi": 9},
+      "goalkeeping": {"han": 8, "aer": 7, "cmd": 5, "com": 6, "kic": 6, "thr": 6, "one": 6, "ref": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

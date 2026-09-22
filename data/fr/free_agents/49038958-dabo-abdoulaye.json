@@ -4,6 +4,15 @@
   "last_name": "Dabo",
   "birth_date": "2001-03-04",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 16, "amb": 11, "loy": 13, "pre": 11, "pro": 13, "spo": 12, "tem": 10, "con": 9},
+    "player": {
+      "technical": {"cro": 10, "dri": 13, "fin": 11, "hea": 10, "lon": 14, "mar": 9, "pas": 13, "pen": 7, "tck": 10, "fir": 13, "tec": 13, "cor": 8, "lth": 4, "fre": 9},
+      "mental": {"otb": 12, "vis": 14, "ant": 12, "dec": 10, "pos": 11, "fla": 13, "tea": 12, "wor": 10, "ldr": 9, "bra": 13, "agg": 12, "det": 13, "cmp": 13, "cnt": 11},
+      "physical": {"acc": 13, "str": 13, "sta": 13, "pac": 11, "jum": 11, "bal": 14, "agi": 12, "nat": 15},
+      "hidden": {"dir": 13, "cns": 13, "imp": 13, "inj": 5, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DM",

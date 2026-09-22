@@ -5,6 +5,13 @@
   "birth_date": "2006-03-13",
   "country_id": 1657,
   "club_id": 1922,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10},
+      "physical": {"acc": 16, "pac": 15},
+      "hidden": {"ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "WBL",

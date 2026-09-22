@@ -5,6 +5,12 @@
   "birth_date": "2008-06-09",
   "country_id": 758,
   "club_id": 5410568,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 4, "tck": 8},
+      "physical": {"str": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

@@ -4,6 +4,13 @@
   "last_name": "Viera",
   "birth_date": "2002-09-03",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 8, "hea": 5, "lon": 6, "mar": 7, "pas": 10, "pen": 5, "tck": 6, "fir": 9, "tec": 8, "cor": 8, "lth": 9, "fre": 6},
+      "physical": {"acc": 13, "str": 10, "sta": 11, "pac": 12, "jum": 10, "bal": 8, "agi": 12, "nat": 11},
+      "hidden": {"inj": 12, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "MR",

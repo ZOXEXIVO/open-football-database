@@ -5,6 +5,14 @@
   "birth_date": "2007-08-21",
   "country_id": 1656,
   "club_id": 117754,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "dri": 14, "lon": 13, "pas": 14, "fir": 13, "tec": 15},
+      "mental": {"vis": 13, "fla": 14},
+      "physical": {"acc": 15, "str": 10, "pac": 14, "bal": 8, "agi": 14},
+      "hidden": {"cns": 13}
+    }
+  },
   "positions": [
     {
       "code": "MC",

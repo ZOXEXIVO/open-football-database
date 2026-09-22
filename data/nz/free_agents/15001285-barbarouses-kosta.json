@@ -4,6 +4,15 @@
   "last_name": "Barbarouses",
   "birth_date": "1990-02-19",
   "country_id": 1438,
+  "attrs": {
+    "person": {"ada": 11, "amb": 16, "loy": 4, "pre": 9, "pro": 14, "spo": 10, "tem": 10, "con": 6},
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "fin": 13, "hea": 5, "lon": 9, "mar": 5, "pas": 8, "pen": 7, "tck": 8, "fir": 13, "tec": 14, "cor": 9, "lth": 5, "fre": 4},
+      "mental": {"otb": 12, "vis": 8, "ant": 13, "dec": 9, "pos": 6, "fla": 13, "tea": 10, "wor": 14, "ldr": 8, "bra": 10, "agg": 9, "det": 12, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 14, "str": 8, "sta": 13, "pac": 13, "jum": 6, "bal": 11, "agi": 13, "nat": 13},
+      "hidden": {"dir": 5, "cns": 15, "imp": 10, "inj": 5, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

@@ -4,6 +4,15 @@
   "last_name": "Tapia",
   "birth_date": "2000-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 10, "amb": 9, "loy": 11, "pre": 10, "pro": 9, "spo": 8, "tem": 10, "con": 8},
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "fin": 9, "hea": 7, "lon": 9, "mar": 3, "pas": 12, "pen": 10, "tck": 5, "fir": 10, "tec": 11, "cor": 12, "lth": 4, "fre": 9},
+      "mental": {"otb": 11, "vis": 9, "ant": 11, "dec": 9, "pos": 8, "fla": 12, "tea": 11, "wor": 12, "ldr": 7, "bra": 11, "agg": 9, "det": 12, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 13, "str": 8, "sta": 12, "pac": 12, "jum": 4, "bal": 10, "agi": 12, "nat": 12},
+      "hidden": {"dir": 8, "imp": 10, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

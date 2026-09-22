@@ -4,6 +4,13 @@
   "last_name": "Bracco",
   "birth_date": "2004-01-29",
   "country_id": 1435,
+  "attrs": {
+    "player": {
+      "technical": {"fir": 9},
+      "mental": {"fla": 7, "cmp": 9},
+      "physical": {"acc": 13, "str": 10, "pac": 10, "agi": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

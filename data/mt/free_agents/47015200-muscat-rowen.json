@@ -4,6 +4,15 @@
   "last_name": "Muscat",
   "birth_date": "1991-06-05",
   "country_id": 782,
+  "attrs": {
+    "person": {"ada": 14, "amb": 13, "loy": 9, "pre": 10, "pro": 10, "spo": 8, "tem": 10, "con": 7},
+    "player": {
+      "technical": {"cro": 7, "dri": 9, "fin": 8, "hea": 10, "lon": 6, "mar": 9, "pas": 11, "pen": 9, "tck": 11, "fir": 11, "tec": 11, "cor": 5, "lth": 4, "fre": 7},
+      "mental": {"otb": 11, "vis": 10, "ant": 10, "dec": 11, "pos": 9, "fla": 7, "tea": 10, "wor": 12, "ldr": 10, "bra": 12, "agg": 11, "det": 10, "cmp": 9, "cnt": 10},
+      "physical": {"acc": 9, "str": 12, "sta": 13, "pac": 9, "jum": 8, "bal": 10, "agi": 11, "nat": 13},
+      "hidden": {"dir": 9, "cns": 9, "imp": 9, "inj": 8, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DM",

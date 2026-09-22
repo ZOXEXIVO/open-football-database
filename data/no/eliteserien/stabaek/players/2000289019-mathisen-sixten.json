@@ -5,6 +5,14 @@
   "birth_date": "2007-03-03",
   "country_id": 786,
   "club_id": 1396,
+  "attrs": {
+    "person": {"ada": 14, "spo": 12, "tem": 7},
+    "player": {
+      "technical": {"dri": 6, "fin": 7, "hea": 6, "lon": 7, "pas": 10, "tck": 6, "fir": 8, "tec": 8, "fre": 4},
+      "mental": {"otb": 13, "vis": 10, "dec": 11, "tea": 11, "wor": 13, "agg": 7, "det": 13},
+      "physical": {"acc": 11, "str": 5, "sta": 12, "pac": 11, "jum": 7, "bal": 8, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "WBR",

@@ -4,6 +4,15 @@
   "last_name": "Cabrera",
   "birth_date": "1989-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 7, "amb": 6, "pre": 9},
+    "player": {
+      "technical": {"dri": 8, "hea": 13, "lon": 4, "mar": 11, "pas": 9, "tck": 13, "fir": 10, "tec": 9},
+      "mental": {"otb": 8, "vis": 9, "ant": 9, "dec": 10, "pos": 11, "fla": 5, "tea": 12, "wor": 12, "ldr": 12, "bra": 13, "agg": 14, "det": 13, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 10, "str": 13, "sta": 10, "pac": 11, "jum": 13, "bal": 14, "agi": 9, "nat": 12},
+      "hidden": {"dir": 13, "cns": 9, "imp": 10, "inj": 9, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "DL",

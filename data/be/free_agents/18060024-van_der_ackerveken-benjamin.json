@@ -4,6 +4,15 @@
   "last_name": "Van der Ackerveken",
   "birth_date": "1995-01-01",
   "country_id": 757,
+  "attrs": {
+    "person": {"amb": 14, "pre": 12},
+    "player": {
+      "technical": {"cro": 8, "dri": 8, "fin": 7, "hea": 12, "lon": 9, "mar": 12, "pas": 11, "pen": 8, "tck": 11, "fir": 10, "tec": 10, "cor": 8, "lth": 8, "fre": 9},
+      "mental": {"vis": 8, "ant": 10, "dec": 11, "pos": 10, "fla": 12, "tea": 11, "wor": 12, "ldr": 11, "bra": 11, "agg": 14, "det": 14, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 12, "str": 10, "sta": 11, "pac": 10, "jum": 14, "bal": 10, "agi": 8},
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

@@ -5,6 +5,13 @@
   "birth_date": "2005-08-18",
   "country_id": 799,
   "club_id": 232,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 14, "tec": 12},
+      "mental": {"ant": 11, "dec": 12, "tea": 12},
+      "physical": {"str": 8, "sta": 11, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

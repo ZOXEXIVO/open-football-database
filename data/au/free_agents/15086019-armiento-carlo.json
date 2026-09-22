@@ -4,6 +4,15 @@
   "last_name": "Armiento",
   "birth_date": "1999-07-04",
   "country_id": 1435,
+  "attrs": {
+    "person": {"ada": 10, "amb": 13, "loy": 10, "pre": 12, "pro": 11, "spo": 10, "tem": 9, "con": 7},
+    "player": {
+      "technical": {"cro": 14, "dri": 11, "fin": 12, "hea": 7, "lon": 14, "mar": 6, "pas": 11, "pen": 5, "tck": 7, "fir": 11, "tec": 12, "cor": 14, "lth": 5, "fre": 13},
+      "mental": {"otb": 11, "vis": 11, "ant": 11, "dec": 11, "pos": 9, "fla": 12, "tea": 9, "wor": 9, "ldr": 7, "bra": 9, "agg": 10, "det": 11, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 11, "str": 10, "sta": 12, "pac": 12, "jum": 7, "bal": 12, "agi": 12, "nat": 12},
+      "hidden": {"dir": 9, "cns": 11, "imp": 11, "inj": 9, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "ML",

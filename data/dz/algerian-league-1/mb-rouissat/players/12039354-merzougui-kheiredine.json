@@ -5,6 +5,14 @@
   "birth_date": "1992-08-16",
   "country_id": 5,
   "club_id": 13194266,
+  "attrs": {
+    "person": {"con": 17},
+    "player": {
+      "technical": {"cro": 7, "mar": 4, "tck": 5, "cor": 6, "lth": 5},
+      "mental": {"pos": 5, "ldr": 12, "det": 15},
+      "physical": {"acc": 12, "str": 11, "sta": 10, "pac": 12, "jum": 13, "bal": 12, "agi": 9}
+    }
+  },
   "positions": [
     {
       "code": "ST",

@@ -4,6 +4,15 @@
   "last_name": "Krmenčík",
   "birth_date": "1993-03-15",
   "country_id": 763,
+  "attrs": {
+    "person": {"ada": 6, "amb": 13, "loy": 12, "pre": 13, "pro": 14, "spo": 12, "tem": 8, "con": 14},
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 12, "hea": 15, "lon": 9, "mar": 9, "pas": 9, "pen": 13, "tck": 9, "fir": 11, "tec": 11, "cor": 7, "lth": 10, "fre": 8},
+      "mental": {"otb": 14, "vis": 8, "ant": 13, "dec": 11, "pos": 9, "fla": 12, "tea": 10, "wor": 12, "ldr": 10, "bra": 13, "agg": 13, "det": 15, "cmp": 10, "cnt": 13},
+      "physical": {"acc": 10, "str": 14, "sta": 13, "pac": 12, "jum": 12, "bal": 12, "agi": 9, "nat": 12},
+      "hidden": {"dir": 13, "cns": 10, "imp": 14, "inj": 9, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "ST",

@@ -4,6 +4,15 @@
   "last_name": "Tartov",
   "birth_date": "1998-01-01",
   "country_id": 760,
+  "attrs": {
+    "person": {"amb": 11, "loy": 9},
+    "player": {
+      "technical": {"cro": 8, "dri": 9, "fin": 8, "hea": 7, "lon": 9, "mar": 8, "pas": 9, "tck": 10, "fir": 12, "tec": 10, "cor": 10, "lth": 6, "fre": 10},
+      "mental": {"otb": 11, "vis": 8, "ant": 7, "dec": 9, "pos": 12, "fla": 11, "tea": 12, "wor": 11, "ldr": 6, "bra": 8, "agg": 13, "det": 13, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 13, "str": 7, "sta": 10, "pac": 12, "jum": 7, "bal": 11, "agi": 13, "nat": 12},
+      "hidden": {"dir": 8, "cns": 10, "inj": 6, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DR",

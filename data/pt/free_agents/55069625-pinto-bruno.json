@@ -4,6 +4,16 @@
   "last_name": "Pinto",
   "birth_date": "1992-06-09",
   "country_id": 788,
+  "attrs": {
+    "person": {"ada": 12, "amb": 14, "loy": 10, "pre": 10, "pro": 15, "spo": 17, "tem": 15, "con": 6},
+    "player": {
+      "technical": {"hea": 7, "pas": 7, "fir": 7, "tec": 8},
+      "mental": {"otb": 5, "vis": 6, "ant": 10, "dec": 10, "pos": 11, "fla": 9, "tea": 12, "wor": 12, "ldr": 4, "bra": 11, "agg": 6, "det": 15, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 8, "str": 14, "sta": 12, "pac": 11, "jum": 11, "bal": 13, "agi": 12, "nat": 15},
+      "goalkeeping": {"han": 10, "aer": 12, "cmd": 11, "com": 14, "kic": 10, "thr": 11, "one": 12, "ref": 14, "ecc": 12, "rus": 9, "pun": 11},
+      "hidden": {"dir": 5, "cns": 9, "imp": 8, "inj": 5}
+    }
+  },
   "positions": [
     {
       "code": "GK",

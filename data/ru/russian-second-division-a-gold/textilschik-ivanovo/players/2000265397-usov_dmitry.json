@@ -5,6 +5,14 @@
   "birth_date": "2004-11-18",
   "country_id": 791,
   "club_id": 477540,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 9, "tec": 10},
+      "mental": {"otb": 10, "tea": 7, "wor": 7, "bra": 8},
+      "physical": {"acc": 12, "str": 8, "jum": 9, "bal": 10, "agi": 12},
+      "hidden": {"cns": 14}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

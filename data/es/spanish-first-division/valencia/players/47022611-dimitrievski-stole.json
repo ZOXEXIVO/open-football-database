@@ -5,6 +5,16 @@
   "birth_date": "1993-12-25",
   "country_id": 781,
   "club_id": 1775,
+  "attrs": {
+    "person": {"ada": 15, "amb": 14, "loy": 9, "pre": 12, "pro": 16, "spo": 5, "tem": 15, "con": 17},
+    "player": {
+      "technical": {"pas": 10, "fir": 9, "tec": 9},
+      "mental": {"vis": 11, "ant": 14, "dec": 12, "pos": 14, "tea": 9, "wor": 12, "ldr": 12, "bra": 16, "det": 15, "cmp": 12, "cnt": 14},
+      "physical": {"acc": 12, "str": 13, "sta": 11, "pac": 11, "jum": 14, "bal": 12, "agi": 12, "nat": 10},
+      "goalkeeping": {"han": 14, "aer": 15, "cmd": 15, "com": 14, "kic": 9, "thr": 14, "one": 13, "ref": 16, "ecc": 18, "rus": 16, "pun": 14},
+      "hidden": {"dir": 18, "cns": 11, "imp": 15}
+    }
+  },
   "positions": [
     {
       "code": "GK",

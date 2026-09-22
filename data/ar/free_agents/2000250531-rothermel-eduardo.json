@@ -4,6 +4,13 @@
   "last_name": "Rothermel",
   "birth_date": "2001-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 10, "mar": 11, "pas": 10, "fir": 10},
+      "physical": {"acc": 11, "str": 10, "sta": 12, "pac": 11, "agi": 11},
+      "hidden": {"ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

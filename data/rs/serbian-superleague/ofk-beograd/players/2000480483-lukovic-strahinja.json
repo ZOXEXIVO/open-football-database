@@ -5,6 +5,14 @@
   "birth_date": "2005-10-25",
   "country_id": 802,
   "club_id": 1951,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 8, "tck": 10},
+      "mental": {"ant": 9, "dec": 11, "pos": 10, "wor": 12, "cmp": 9, "cnt": 11},
+      "physical": {"acc": 12, "str": 10, "sta": 12, "pac": 12, "bal": 9, "agi": 12, "nat": 8},
+      "hidden": {"cns": 11, "inj": 12, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DR",

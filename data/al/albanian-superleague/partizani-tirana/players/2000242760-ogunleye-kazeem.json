@@ -5,6 +5,15 @@
   "birth_date": "2001-01-01",
   "country_id": 38,
   "club_id": 69,
+  "attrs": {
+    "person": {"amb": 16, "pre": 9, "pro": 13, "spo": 12},
+    "player": {
+      "technical": {"lon": 12},
+      "mental": {"ldr": 5, "det": 13},
+      "physical": {"str": 7, "sta": 13, "jum": 8, "nat": 12},
+      "hidden": {"cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "MC",

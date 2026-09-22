@@ -4,6 +4,14 @@
   "last_name": "Montaño",
   "birth_date": "1995-01-01",
   "country_id": 379,
+  "attrs": {
+    "player": {
+      "technical": {"fir": 11},
+      "mental": {"vis": 11, "bra": 12},
+      "physical": {"str": 6, "jum": 8, "bal": 13},
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

@@ -4,6 +4,14 @@
   "last_name": "",
   "birth_date": "1994-01-01",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "dri": 9, "fin": 7, "hea": 5, "lon": 6, "mar": 11, "pas": 11, "pen": 5, "tck": 12, "fir": 10, "tec": 9, "cor": 10, "lth": 13, "fre": 6},
+      "mental": {"otb": 9, "vis": 11, "ant": 12, "dec": 10, "pos": 11, "tea": 12, "wor": 13, "ldr": 11, "bra": 11, "agg": 10, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 13, "str": 10, "sta": 12, "pac": 11, "jum": 8, "bal": 11, "agi": 12, "nat": 11},
+      "hidden": {"cns": 10, "imp": 11, "inj": 9, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DL",

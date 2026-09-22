@@ -5,6 +5,12 @@
   "birth_date": "2008-09-29",
   "country_id": 765,
   "club_id": 603,
+  "attrs": {
+    "player": {
+      "technical": {"fir": 12, "tec": 13},
+      "mental": {"wor": 16, "agg": 14, "det": 17}
+    }
+  },
   "positions": [
     {
       "code": "DL",

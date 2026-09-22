@@ -4,6 +4,15 @@
   "last_name": "Soleri",
   "birth_date": "1997-10-19",
   "country_id": 776,
+  "attrs": {
+    "person": {"ada": 12, "amb": 14, "loy": 12, "pre": 12, "pro": 13, "spo": 11, "tem": 12, "con": 7},
+    "player": {
+      "technical": {"cro": 8, "dri": 12, "fin": 13, "hea": 14, "lon": 12, "mar": 5, "pas": 12, "pen": 9, "tck": 6, "fir": 13, "tec": 14, "cor": 4, "lth": 5, "fre": 5},
+      "mental": {"otb": 15, "vis": 10, "ant": 12, "dec": 13, "pos": 12, "fla": 8, "tea": 14, "wor": 10, "ldr": 9, "bra": 12, "agg": 9, "det": 12, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 12, "str": 13, "sta": 12, "pac": 12, "jum": 14, "bal": 12, "agi": 13, "nat": 12},
+      "hidden": {"dir": 8, "cns": 11, "imp": 12, "inj": 3, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "AML",

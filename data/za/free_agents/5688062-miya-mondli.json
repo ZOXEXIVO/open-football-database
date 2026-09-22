@@ -4,6 +4,9 @@
   "last_name": "Miya",
   "birth_date": "1990-01-01",
   "country_id": 45,
+  "attrs": {
+    "person": {"pre": 6, "pro": 12, "con": 8}
+  },
   "positions": [
     {
       "code": "ML",

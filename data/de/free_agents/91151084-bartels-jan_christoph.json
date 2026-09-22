@@ -4,6 +4,16 @@
   "last_name": "Bartels",
   "birth_date": "1999-01-13",
   "country_id": 771,
+  "attrs": {
+    "person": {"ada": 10, "amb": 14, "loy": 12, "pre": 14, "pro": 14, "spo": 12, "tem": 12, "con": 6},
+    "player": {
+      "technical": {"hea": 6, "pas": 8, "fir": 7, "tec": 8},
+      "mental": {"vis": 8, "ant": 11, "dec": 12, "pos": 13, "fla": 5, "tea": 12, "wor": 13, "ldr": 12, "bra": 13, "agg": 12, "det": 13, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 8, "str": 13, "sta": 10, "pac": 9, "jum": 15, "bal": 12, "agi": 13, "nat": 12},
+      "goalkeeping": {"han": 12, "aer": 11, "cmd": 11, "com": 12, "kic": 10, "thr": 13, "one": 13, "ref": 14, "ecc": 8, "rus": 14, "pun": 10},
+      "hidden": {"dir": 8, "cns": 15, "imp": 11, "inj": 10}
+    }
+  },
   "positions": [
     {
       "code": "GK",

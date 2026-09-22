@@ -4,6 +4,12 @@
   "last_name": "Khovaiko",
   "birth_date": "2001-06-17",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "tec": 9},
+      "physical": {"acc": 11, "str": 10, "sta": 10, "pac": 11, "bal": 9, "agi": 9}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

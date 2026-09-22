@@ -4,6 +4,16 @@
   "last_name": "Bush",
   "birth_date": "1986-03-06",
   "country_id": 390,
+  "attrs": {
+    "person": {"ada": 12, "amb": 13, "loy": 12, "pre": 8, "pro": 13, "spo": 14, "tem": 11, "con": 8},
+    "player": {
+      "technical": {"hea": 7, "pas": 10, "tck": 7, "fir": 8, "tec": 8},
+      "mental": {"otb": 4, "vis": 9, "ant": 11, "dec": 12, "pos": 12, "fla": 6, "tea": 14, "wor": 10, "ldr": 15, "bra": 13, "agg": 13, "det": 15, "cmp": 12, "cnt": 13},
+      "physical": {"acc": 7, "str": 11, "sta": 8, "pac": 7, "jum": 12, "bal": 12, "agi": 10, "nat": 14},
+      "goalkeeping": {"han": 11, "aer": 10, "cmd": 10, "com": 12, "kic": 10, "thr": 11, "one": 13, "ref": 11, "ecc": 5, "rus": 11, "pun": 12},
+      "hidden": {"dir": 8, "cns": 13, "imp": 14, "inj": 9}
+    }
+  },
   "positions": [
     {
       "code": "GK",

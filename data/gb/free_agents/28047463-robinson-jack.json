@@ -4,6 +4,15 @@
   "last_name": "Robinson",
   "birth_date": "1993-09-01",
   "country_id": 765,
+  "attrs": {
+    "person": {"ada": 12, "amb": 15, "loy": 10, "pre": 11, "pro": 15, "spo": 10, "tem": 7, "con": 5},
+    "player": {
+      "technical": {"cro": 11, "dri": 8, "fin": 8, "hea": 13, "lon": 9, "mar": 13, "pas": 13, "pen": 9, "tck": 14, "fir": 12, "tec": 12, "cor": 9, "lth": 18, "fre": 9},
+      "mental": {"otb": 9, "vis": 12, "ant": 13, "dec": 11, "pos": 13, "fla": 9, "tea": 12, "wor": 13, "ldr": 12, "bra": 16, "agg": 18, "det": 12, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 11, "str": 12, "sta": 14, "pac": 11, "jum": 12, "bal": 12, "agi": 12, "nat": 12},
+      "hidden": {"dir": 14, "cns": 12, "imp": 14, "inj": 14, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "DL",

@@ -4,6 +4,13 @@
   "last_name": "",
   "birth_date": "1991-01-01",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 8, "fin": 9, "pas": 10, "lth": 8},
+      "mental": {"vis": 11, "tea": 10},
+      "physical": {"acc": 12, "sta": 10, "pac": 12, "jum": 3, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

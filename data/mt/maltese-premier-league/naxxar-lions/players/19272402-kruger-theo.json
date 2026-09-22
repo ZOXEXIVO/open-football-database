@@ -5,6 +5,13 @@
   "birth_date": "1999-02-25",
   "country_id": 1651,
   "club_id": 1244,
+  "attrs": {
+    "player": {
+      "mental": {"agg": 10},
+      "physical": {"str": 12, "jum": 12},
+      "hidden": {"dir": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

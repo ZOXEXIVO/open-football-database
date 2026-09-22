@@ -4,6 +4,15 @@
   "last_name": "Castells",
   "birth_date": "1990-01-01",
   "country_id": 796,
+  "attrs": {
+    "person": {"ada": 9, "amb": 14, "loy": 8, "pre": 9, "spo": 6},
+    "player": {
+      "technical": {"cro": 7, "dri": 7, "fin": 6, "hea": 12, "lon": 7, "mar": 13, "pas": 9, "tck": 11, "fir": 11, "tec": 6, "cor": 4, "lth": 8, "fre": 6},
+      "mental": {"otb": 6, "vis": 8, "ant": 8, "dec": 8, "pos": 10, "fla": 7, "tea": 13, "wor": 14, "ldr": 6, "bra": 12, "agg": 13, "det": 13, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 9, "str": 14, "sta": 12, "pac": 9, "jum": 13, "bal": 14, "agi": 9, "nat": 10},
+      "hidden": {"dir": 16, "cns": 10, "inj": 9, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

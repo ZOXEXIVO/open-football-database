@@ -5,6 +5,12 @@
   "birth_date": "2006-01-01",
   "country_id": 791,
   "club_id": 2000095019,
+  "attrs": {
+    "player": {
+      "mental": {"wor": 12},
+      "physical": {"acc": 12, "sta": 3, "pac": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

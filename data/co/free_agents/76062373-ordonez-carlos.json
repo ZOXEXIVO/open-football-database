@@ -4,6 +4,15 @@
   "last_name": "Ordóñez",
   "birth_date": "2002-06-16",
   "country_id": 1653,
+  "attrs": {
+    "person": {"amb": 7, "loy": 12, "pre": 12, "pro": 13, "spo": 11, "tem": 14, "con": 7},
+    "player": {
+      "technical": {"hea": 11, "mar": 12, "pas": 10, "tck": 12, "fir": 11, "tec": 12},
+      "mental": {"ant": 11, "dec": 9, "pos": 11, "bra": 11, "agg": 10, "cmp": 9, "cnt": 8},
+      "physical": {"acc": 11, "str": 11, "sta": 12, "pac": 13, "jum": 15, "bal": 12, "agi": 12, "nat": 12},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

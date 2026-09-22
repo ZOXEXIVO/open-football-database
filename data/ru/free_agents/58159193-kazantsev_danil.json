@@ -4,6 +4,14 @@
   "last_name": "Kazantsev",
   "birth_date": "2001-01-05",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 8, "fin": 8, "hea": 9, "lon": 9, "mar": 8, "pas": 10, "pen": 9, "tck": 9, "fir": 9, "tec": 10, "cor": 6, "lth": 11, "fre": 7},
+      "mental": {"otb": 11, "vis": 10, "ant": 12, "dec": 10, "pos": 10, "tea": 8, "wor": 13, "bra": 10, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 9, "str": 11, "sta": 13, "pac": 9, "jum": 13, "bal": 11, "agi": 10},
+      "hidden": {"cns": 12, "imp": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

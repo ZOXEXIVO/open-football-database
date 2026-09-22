@@ -4,6 +4,14 @@
   "last_name": "Hoxha",
   "birth_date": "2001-02-22",
   "country_id": 802,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 10, "fin": 5, "hea": 7, "lon": 7, "mar": 11, "pas": 12, "pen": 8, "tck": 11, "fir": 11, "tec": 11, "cor": 8, "lth": 12, "fre": 6},
+      "mental": {"otb": 11, "vis": 8, "ant": 11, "dec": 11, "pos": 11, "fla": 8, "tea": 11, "wor": 13, "ldr": 7, "bra": 12, "agg": 12, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 12, "str": 9, "sta": 11, "pac": 13, "jum": 8, "bal": 12, "agi": 12, "nat": 12},
+      "hidden": {"dir": 8, "cns": 10, "imp": 10, "inj": 13}
+    }
+  },
   "positions": [
     {
       "code": "DL",

@@ -4,6 +4,16 @@
   "last_name": "Friedrich",
   "birth_date": "1993-02-18",
   "country_id": 1651,
+  "attrs": {
+    "person": {"ada": 16, "amb": 11, "loy": 6, "pre": 12, "pro": 13, "spo": 12, "tem": 11, "con": 10},
+    "player": {
+      "technical": {"hea": 9, "pas": 10, "tck": 6, "fir": 8, "tec": 10},
+      "mental": {"vis": 10, "ant": 13, "dec": 11, "pos": 10, "ldr": 13, "bra": 14, "agg": 8, "det": 12, "cmp": 12, "cnt": 9},
+      "physical": {"acc": 11, "str": 12, "sta": 10, "pac": 9, "bal": 12, "agi": 13, "nat": 12},
+      "goalkeeping": {"han": 13, "aer": 12, "cmd": 13, "com": 12, "kic": 12, "thr": 12, "one": 13, "ref": 13, "ecc": 13, "rus": 15, "pun": 11},
+      "hidden": {"dir": 7, "cns": 13, "imp": 12, "inj": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

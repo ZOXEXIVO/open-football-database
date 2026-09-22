@@ -4,6 +4,15 @@
   "last_name": "Lima",
   "birth_date": "1999-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"amb": 6, "pro": 6},
+    "player": {
+      "technical": {"pas": 7},
+      "mental": {"dec": 11, "bra": 11},
+      "physical": {"str": 11, "jum": 10, "agi": 13},
+      "goalkeeping": {"han": 7, "aer": 10, "cmd": 5, "one": 12, "ref": 13, "pun": 17}
+    }
+  },
   "positions": [
     {
       "code": "GK",

@@ -5,6 +5,12 @@
   "birth_date": "1997-04-30",
   "country_id": 762,
   "club_id": 461,
+  "attrs": {
+    "player": {
+      "physical": {"jum": 12},
+      "goalkeeping": {"han": 11, "cmd": 11, "one": 11, "ref": 12, "rus": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

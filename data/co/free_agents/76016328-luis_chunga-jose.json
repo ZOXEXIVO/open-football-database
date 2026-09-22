@@ -4,6 +4,16 @@
   "last_name": "Luis Chunga",
   "birth_date": "1991-07-11",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 11, "amb": 10, "loy": 13, "pre": 10, "pro": 12, "spo": 11, "con": 6},
+    "player": {
+      "technical": {"hea": 8, "pas": 11, "fir": 10, "tec": 12},
+      "mental": {"otb": 9, "vis": 12, "ant": 13, "dec": 11, "pos": 11, "fla": 10, "tea": 13, "wor": 12, "ldr": 13, "bra": 12, "agg": 10, "det": 12, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 11, "str": 13, "sta": 12, "pac": 11, "jum": 12, "bal": 13, "agi": 12, "nat": 12},
+      "goalkeeping": {"han": 12, "aer": 13, "cmd": 12, "com": 11, "kic": 13, "thr": 12, "one": 10, "ref": 13, "ecc": 12, "rus": 10, "pun": 10},
+      "hidden": {"dir": 8, "cns": 12, "imp": 10, "inj": 13}
+    }
+  },
   "positions": [
     {
       "code": "GK",

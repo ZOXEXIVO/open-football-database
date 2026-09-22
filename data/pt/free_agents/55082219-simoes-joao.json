@@ -4,6 +4,15 @@
   "last_name": "Simões",
   "birth_date": "1998-01-01",
   "country_id": 788,
+  "attrs": {
+    "person": {"ada": 10, "amb": 9, "loy": 15, "pre": 12, "pro": 8, "spo": 14, "tem": 11, "con": 4},
+    "player": {
+      "technical": {"cro": 9, "dri": 8, "fin": 6, "hea": 8, "lon": 5, "mar": 9, "pas": 11, "pen": 4, "tck": 11, "fir": 11, "tec": 10, "cor": 6, "lth": 10, "fre": 6},
+      "mental": {"otb": 7, "vis": 7, "ant": 12, "dec": 10, "pos": 12, "fla": 7, "tea": 12, "wor": 12, "ldr": 7, "bra": 11, "agg": 12, "det": 11, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 13, "str": 10, "sta": 12, "pac": 13, "jum": 7, "bal": 11, "agi": 12, "nat": 12},
+      "hidden": {"dir": 8, "cns": 16, "imp": 10, "inj": 5, "ver": 6}
+    }
+  },
   "positions": [
     {
       "code": "DR",

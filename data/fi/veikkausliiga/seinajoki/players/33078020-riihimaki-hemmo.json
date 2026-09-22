@@ -5,6 +5,13 @@
   "birth_date": "2003-06-03",
   "country_id": 768,
   "club_id": 33007394,
+  "attrs": {
+    "person": {"ada": 10, "amb": 2, "loy": 13, "pre": 9, "pro": 12, "spo": 13, "tem": 7, "con": 8},
+    "player": {
+      "mental": {"det": 14},
+      "goalkeeping": {"han": 10, "aer": 5, "cmd": 8, "com": 8, "kic": 9, "thr": 6, "one": 11, "ref": 8, "ecc": 6, "rus": 7, "pun": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

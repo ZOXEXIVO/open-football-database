@@ -4,6 +4,15 @@
   "last_name": "Mustapha",
   "birth_date": "2001-05-24",
   "country_id": 755,
+  "attrs": {
+    "person": {"ada": 6, "amb": 12, "loy": 8, "pre": 8, "pro": 10, "spo": 8, "tem": 8, "con": 13},
+    "player": {
+      "technical": {"cro": 9, "dri": 12, "fin": 12, "hea": 11, "lon": 10, "mar": 6, "pas": 11, "pen": 13, "tck": 7, "fir": 11, "tec": 11, "cor": 6, "lth": 6, "fre": 8},
+      "mental": {"otb": 12, "vis": 11, "ant": 12, "dec": 11, "pos": 5, "fla": 14, "tea": 12, "wor": 13, "ldr": 6, "bra": 12, "agg": 16, "det": 12, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 14, "str": 12, "sta": 13, "pac": 15, "jum": 12, "bal": 12, "agi": 12, "nat": 7},
+      "hidden": {"dir": 12, "cns": 10, "imp": 10, "inj": 14, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "ST",

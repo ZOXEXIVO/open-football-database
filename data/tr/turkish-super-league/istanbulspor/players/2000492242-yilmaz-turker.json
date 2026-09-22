@@ -5,6 +5,12 @@
   "birth_date": "2009-08-03",
   "country_id": 799,
   "club_id": 1874,
+  "attrs": {
+    "player": {
+      "mental": {"dec": 5},
+      "physical": {"str": 8, "jum": 10}
+    }
+  },
   "positions": [
     {
       "code": "ST",

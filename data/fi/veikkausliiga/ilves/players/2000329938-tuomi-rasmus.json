@@ -5,6 +5,13 @@
   "birth_date": "2008-01-01",
   "country_id": 768,
   "club_id": 510307,
+  "attrs": {
+    "person": {"amb": 12, "pro": 13, "con": 4},
+    "player": {
+      "technical": {"fir": 10, "tec": 12},
+      "mental": {"vis": 10, "dec": 8, "det": 14}
+    }
+  },
   "positions": [
     {
       "code": "MC",

@@ -4,6 +4,15 @@
   "last_name": "Takaoka",
   "birth_date": "1996-03-16",
   "country_id": 116,
+  "attrs": {
+    "person": {"ada": 12},
+    "player": {
+      "technical": {"pas": 12},
+      "mental": {"cnt": 10},
+      "physical": {"jum": 9, "agi": 13},
+      "goalkeeping": {"han": 13, "aer": 11, "cmd": 11, "com": 10, "kic": 13, "thr": 11, "one": 13, "ref": 14, "ecc": 6, "rus": 11, "pun": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

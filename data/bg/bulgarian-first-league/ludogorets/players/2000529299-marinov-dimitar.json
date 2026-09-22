@@ -5,6 +5,13 @@
   "birth_date": "2009-02-27",
   "country_id": 760,
   "club_id": 22003969,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 11, "fin": 10, "lon": 10, "mar": 4, "pen": 12, "tck": 6, "tec": 11, "fre": 11},
+      "mental": {"otb": 11, "ant": 9, "dec": 10, "pos": 7, "cmp": 10, "cnt": 8},
+      "physical": {"acc": 12, "str": 5, "sta": 9, "pac": 10, "jum": 7, "bal": 11, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "AML",

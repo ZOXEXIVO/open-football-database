@@ -4,6 +4,13 @@
   "last_name": "Hernández",
   "birth_date": "2002-07-27",
   "country_id": 379,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 11, "fin": 12, "hea": 10, "lon": 11, "mar": 9, "pen": 12, "tck": 10, "fir": 8, "tec": 10, "cor": 7, "lth": 8},
+      "physical": {"acc": 9, "pac": 10, "bal": 10, "agi": 9},
+      "hidden": {"ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "ST",

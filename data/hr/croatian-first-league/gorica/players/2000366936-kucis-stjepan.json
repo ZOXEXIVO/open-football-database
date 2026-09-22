@@ -5,6 +5,12 @@
   "birth_date": "2006-12-29",
   "country_id": 761,
   "club_id": 24013516,
+  "attrs": {
+    "player": {
+      "technical": {"tec": 11},
+      "physical": {"str": 7, "pac": 8, "jum": 7}
+    }
+  },
   "positions": [
     {
       "code": "MC",

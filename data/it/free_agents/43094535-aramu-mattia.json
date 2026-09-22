@@ -4,6 +4,15 @@
   "last_name": "Aramu",
   "birth_date": "1995-05-14",
   "country_id": 776,
+  "attrs": {
+    "person": {"ada": 12, "amb": 14, "loy": 15, "pre": 11, "pro": 12, "spo": 13, "tem": 11, "con": 2},
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 12, "hea": 8, "lon": 15, "mar": 3, "pas": 13, "pen": 12, "tck": 6, "fir": 13, "tec": 13, "cor": 14, "lth": 5, "fre": 15},
+      "mental": {"otb": 12, "vis": 12, "ant": 9, "dec": 11, "pos": 8, "fla": 15, "tea": 12, "wor": 11, "ldr": 12, "bra": 10, "agg": 11, "det": 13, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 13, "str": 11, "sta": 12, "pac": 13, "jum": 8, "bal": 11, "agi": 13, "nat": 9},
+      "hidden": {"dir": 5, "cns": 13, "imp": 14, "inj": 9, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

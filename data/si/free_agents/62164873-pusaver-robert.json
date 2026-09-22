@@ -4,6 +4,15 @@
   "last_name": "Pušaver",
   "birth_date": "1995-01-01",
   "country_id": 795,
+  "attrs": {
+    "person": {"ada": 11, "amb": 13, "loy": 13, "pre": 13, "pro": 12, "spo": 13, "tem": 12, "con": 8},
+    "player": {
+      "technical": {"cro": 11, "dri": 9, "fin": 6, "hea": 10, "lon": 6, "mar": 11, "pas": 8, "pen": 10, "tck": 11, "fir": 11, "tec": 10, "cor": 11, "lth": 12, "fre": 10},
+      "mental": {"otb": 10, "vis": 10, "ant": 10, "dec": 9, "pos": 11, "fla": 10, "tea": 10, "wor": 10, "ldr": 11, "bra": 10, "agg": 12, "det": 14, "cmp": 10, "cnt": 9},
+      "physical": {"acc": 12, "str": 11, "sta": 14, "pac": 12, "jum": 11, "bal": 11, "agi": 10, "nat": 14},
+      "hidden": {"dir": 11, "cns": 15, "imp": 13, "inj": 5, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "DR",

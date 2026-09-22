@@ -4,6 +4,14 @@
   "last_name": "Anasmo",
   "birth_date": "2004-09-24",
   "country_id": 1435,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 5, "dri": 12, "fin": 6, "pas": 8, "tck": 8, "fir": 6, "tec": 9, "cor": 5},
+      "mental": {"otb": 9, "vis": 11, "ant": 8, "dec": 5, "fla": 10, "wor": 10, "ldr": 3, "bra": 11, "det": 13, "cmp": 5, "cnt": 10},
+      "physical": {"acc": 15, "str": 10, "sta": 10, "pac": 14, "bal": 10, "agi": 14},
+      "hidden": {"dir": 4}
+    }
+  },
   "positions": [
     {
       "code": "ML",

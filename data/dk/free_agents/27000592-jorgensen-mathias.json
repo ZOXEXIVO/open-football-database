@@ -4,6 +4,15 @@
   "last_name": "Jørgensen",
   "birth_date": "1990-04-23",
   "country_id": 764,
+  "attrs": {
+    "person": {"ada": 16, "amb": 10, "loy": 10, "pre": 16, "pro": 12, "spo": 6, "tem": 8, "con": 16},
+    "player": {
+      "technical": {"cro": 5, "dri": 11, "fin": 7, "hea": 14, "lon": 6, "mar": 13, "pas": 12, "pen": 7, "tck": 13, "fir": 13, "tec": 13, "cor": 5, "lth": 11, "fre": 8},
+      "mental": {"otb": 8, "vis": 12, "ant": 15, "dec": 11, "pos": 13, "fla": 9, "tea": 13, "wor": 12, "ldr": 14, "bra": 13, "agg": 12, "det": 13, "cmp": 15, "cnt": 9},
+      "physical": {"acc": 10, "str": 14, "sta": 11, "pac": 10, "jum": 15, "bal": 13, "agi": 9, "nat": 13},
+      "hidden": {"dir": 16, "cns": 10, "imp": 12, "inj": 9, "ver": 7}
+    }
+  },
   "positions": [
     {
       "code": "DC",

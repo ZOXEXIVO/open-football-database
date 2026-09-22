@@ -5,6 +5,12 @@
   "birth_date": "2006-01-03",
   "country_id": 776,
   "club_id": 1108,
+  "attrs": {
+    "person": {"amb": 13, "pro": 15},
+    "player": {
+      "mental": {"det": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

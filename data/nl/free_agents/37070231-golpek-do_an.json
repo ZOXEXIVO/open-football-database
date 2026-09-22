@@ -4,6 +4,15 @@
   "last_name": "Gölpek",
   "birth_date": "1994-01-01",
   "country_id": 784,
+  "attrs": {
+    "person": {"loy": 5, "tem": 5},
+    "player": {
+      "technical": {"dri": 10, "hea": 10, "mar": 3, "pas": 10, "tck": 4, "fir": 10, "tec": 11},
+      "mental": {"otb": 9, "vis": 10, "pos": 5},
+      "physical": {"acc": 11, "str": 10, "sta": 10, "pac": 11, "jum": 11},
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "ML",

@@ -4,6 +4,15 @@
   "last_name": "Emeran",
   "birth_date": "2002-09-24",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 12, "amb": 14},
+    "player": {
+      "technical": {"cro": 12, "dri": 13, "fin": 8, "hea": 5, "lon": 5, "mar": 4, "pas": 10, "pen": 8, "tck": 4, "fir": 13, "tec": 12, "cor": 12, "lth": 2, "fre": 14},
+      "mental": {"otb": 11, "vis": 6, "ant": 8, "dec": 7, "pos": 5, "fla": 13, "tea": 11, "wor": 13, "ldr": 4, "bra": 8, "agg": 9, "cmp": 9, "cnt": 8},
+      "physical": {"acc": 15, "str": 8, "sta": 11, "pac": 14, "jum": 8, "bal": 10, "agi": 12, "nat": 13},
+      "hidden": {"dir": 4, "cns": 8, "inj": 6, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

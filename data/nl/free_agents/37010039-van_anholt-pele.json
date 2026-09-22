@@ -4,6 +4,15 @@
   "last_name": "van Anholt",
   "birth_date": "1991-01-01",
   "country_id": 784,
+  "attrs": {
+    "person": {"ada": 11, "amb": 16, "loy": 10, "pre": 9, "pro": 11, "spo": 12, "tem": 11, "con": 13},
+    "player": {
+      "technical": {"cro": 11, "dri": 9, "fin": 6, "hea": 6, "lon": 8, "mar": 12, "pas": 11, "pen": 9, "tck": 11, "fir": 11, "tec": 11, "cor": 7, "lth": 11, "fre": 6},
+      "mental": {"otb": 8, "vis": 7, "ant": 11, "dec": 8, "pos": 12, "fla": 8, "tea": 11, "wor": 12, "ldr": 6, "bra": 11, "agg": 11, "det": 10, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 13, "str": 11, "sta": 11, "pac": 12, "jum": 9, "bal": 7, "agi": 12, "nat": 11},
+      "hidden": {"dir": 9, "cns": 12, "imp": 11, "inj": 10, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

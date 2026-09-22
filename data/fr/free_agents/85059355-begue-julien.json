@@ -4,6 +4,15 @@
   "last_name": "Bègue",
   "birth_date": "1993-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 11, "amb": 12, "loy": 13, "pre": 11, "pro": 14, "spo": 13, "tem": 12, "con": 8},
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 11, "hea": 5, "lon": 10, "mar": 3, "pas": 12, "pen": 11, "tck": 3, "fir": 13, "tec": 13, "cor": 7, "lth": 5, "fre": 7},
+      "mental": {"otb": 12, "vis": 11, "ant": 12, "dec": 13, "pos": 3, "fla": 12, "tea": 9, "wor": 11, "ldr": 6, "bra": 10, "agg": 5, "det": 12, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 12, "str": 7, "sta": 13, "pac": 12, "jum": 4, "bal": 10, "agi": 14, "nat": 12},
+      "hidden": {"dir": 5, "cns": 11, "imp": 10, "inj": 9, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

@@ -4,6 +4,13 @@
   "last_name": "Khemaissia",
   "birth_date": "1999-01-01",
   "country_id": 5,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "lon": 10, "cor": 10, "lth": 14, "fre": 10},
+      "mental": {"otb": 10},
+      "physical": {"acc": 12, "pac": 11}
+    }
+  },
   "positions": [
     {
       "code": "DL",

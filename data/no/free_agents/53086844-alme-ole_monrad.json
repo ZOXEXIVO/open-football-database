@@ -4,6 +4,16 @@
   "last_name": "Alme",
   "birth_date": "1996-01-01",
   "country_id": 786,
+  "attrs": {
+    "person": {"ada": 10, "amb": 12, "loy": 18, "pre": 10, "pro": 14, "spo": 14, "tem": 9, "con": 5},
+    "player": {
+      "technical": {"hea": 6, "pas": 11, "fir": 9, "tec": 9},
+      "mental": {"otb": 4, "vis": 8, "ant": 11, "dec": 8, "pos": 11, "fla": 14, "tea": 11, "wor": 12, "ldr": 12, "bra": 12, "agg": 9, "det": 14, "cmp": 10, "cnt": 8},
+      "physical": {"acc": 8, "str": 12, "sta": 10, "pac": 7, "jum": 12, "bal": 14, "agi": 14, "nat": 11},
+      "goalkeeping": {"han": 11, "aer": 10, "cmd": 9, "com": 10, "kic": 13, "thr": 11, "one": 12, "ref": 14, "rus": 12, "pun": 13},
+      "hidden": {"dir": 7, "cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

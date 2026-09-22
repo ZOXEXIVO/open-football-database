@@ -4,6 +4,13 @@
   "last_name": "Dedukh",
   "birth_date": "1998-04-13",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 8, "fin": 9},
+      "mental": {"pos": 6, "wor": 14, "ldr": 12, "bra": 13, "det": 13},
+      "physical": {"str": 10, "sta": 12, "jum": 11}
+    }
+  },
   "positions": [
     {
       "code": "DM",

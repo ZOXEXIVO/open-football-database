@@ -4,6 +4,14 @@
   "last_name": "Janković",
   "birth_date": "2004-03-29",
   "country_id": 795,
+  "attrs": {
+    "person": {"pro": 11, "spo": 11, "tem": 12},
+    "player": {
+      "technical": {"cro": 13, "mar": 11, "pas": 10, "tck": 13, "fir": 10, "tec": 11, "cor": 12},
+      "mental": {"vis": 11, "dec": 11, "pos": 13, "tea": 12, "wor": 12},
+      "physical": {"acc": 12, "str": 11, "sta": 12, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

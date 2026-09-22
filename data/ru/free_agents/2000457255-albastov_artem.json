@@ -4,6 +4,12 @@
   "last_name": "Albastov",
   "birth_date": "2007-07-05",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "mental": {"pos": 10, "bra": 4, "cnt": 10},
+      "goalkeeping": {"han": 11, "cmd": 2, "com": 3, "kic": 11, "ref": 11, "pun": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

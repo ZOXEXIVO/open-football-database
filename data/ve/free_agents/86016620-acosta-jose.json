@@ -4,6 +4,16 @@
   "last_name": "Acosta",
   "birth_date": "1989-01-01",
   "country_id": 1658,
+  "attrs": {
+    "person": {"ada": 5, "amb": 8, "loy": 4, "pre": 9, "pro": 11, "spo": 11, "tem": 12, "con": 2},
+    "player": {
+      "technical": {"cro": 8, "dri": 7, "fin": 5, "hea": 12, "lon": 5, "mar": 11, "pas": 8, "pen": 4, "tck": 12, "fir": 10, "tec": 10, "cor": 7, "lth": 6, "fre": 7},
+      "mental": {"otb": 6, "vis": 8, "ant": 12, "dec": 11, "pos": 12, "fla": 8, "tea": 11, "wor": 12, "ldr": 7, "bra": 12, "agg": 14, "det": 4, "cmp": 13, "cnt": 12},
+      "physical": {"acc": 10, "str": 11, "sta": 15, "pac": 10, "jum": 9, "bal": 10, "agi": 10, "nat": 14},
+      "goalkeeping": {"han": 1, "aer": 1, "cmd": 1, "kic": 1, "thr": 1, "one": 1, "ref": 1, "ecc": 1, "rus": 1, "pun": 1},
+      "hidden": {"dir": 12, "cns": 12, "imp": 14, "inj": 3, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DC",

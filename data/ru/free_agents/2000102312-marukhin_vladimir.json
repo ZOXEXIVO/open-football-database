@@ -4,6 +4,14 @@
   "last_name": "Marukhin",
   "birth_date": "2003-07-06",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "dri": 10, "fin": 6, "hea": 6, "lon": 9, "mar": 7, "pas": 9, "tck": 7, "fir": 10, "tec": 10, "fre": 10},
+      "mental": {"otb": 8, "vis": 8, "ant": 9, "dec": 9, "pos": 7, "tea": 8, "wor": 9, "bra": 7, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 12, "str": 10, "sta": 11, "pac": 12, "jum": 9, "bal": 10, "agi": 12},
+      "hidden": {"cns": 15}
+    }
+  },
   "positions": [
     {
       "code": "WBL",

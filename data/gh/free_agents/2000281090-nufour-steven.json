@@ -4,6 +4,11 @@
   "last_name": "Nufour",
   "birth_date": "2005-01-03",
   "country_id": 21,
+  "attrs": {
+    "player": {
+      "physical": {"jum": 15}
+    }
+  },
   "positions": [
     {
       "code": "DM",

@@ -4,6 +4,15 @@
   "last_name": "Andrijanić",
   "birth_date": "1999-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"pro": 12, "spo": 11, "tem": 12},
+    "player": {
+      "technical": {"hea": 7, "pas": 8, "fir": 7, "tec": 8},
+      "mental": {"vis": 9, "ant": 10, "dec": 12, "pos": 9, "tea": 11, "ldr": 11, "bra": 12, "det": 12, "cmp": 8, "cnt": 11},
+      "physical": {"acc": 8, "str": 12, "sta": 11, "pac": 8, "jum": 13, "bal": 12, "agi": 11},
+      "goalkeeping": {"han": 13, "aer": 11, "cmd": 12, "com": 11, "kic": 14, "thr": 11, "one": 12, "ref": 12, "ecc": 9, "rus": 13, "pun": 14}
+    }
+  },
   "positions": [
     {
       "code": "GK",

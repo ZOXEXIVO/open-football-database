@@ -4,6 +4,15 @@
   "last_name": "Veloso",
   "birth_date": "1987-01-01",
   "country_id": 1652,
+  "attrs": {
+    "person": {"amb": 15, "loy": 10, "pre": 12, "pro": 10, "spo": 12, "tem": 13, "con": 14},
+    "player": {
+      "mental": {"dec": 11, "pos": 13, "ldr": 11, "det": 10, "cnt": 5},
+      "physical": {"agi": 12},
+      "goalkeeping": {"han": 12, "aer": 10, "cmd": 13, "com": 12, "kic": 10, "thr": 12, "one": 13, "ref": 14, "ecc": 8, "rus": 13, "pun": 12},
+      "hidden": {"cns": 6, "imp": 7}
+    }
+  },
   "positions": [
     {
       "code": "GK",

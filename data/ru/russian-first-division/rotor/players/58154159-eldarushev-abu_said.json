@@ -5,6 +5,14 @@
   "birth_date": "2001-10-17",
   "country_id": 791,
   "club_id": 1527,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 9, "fin": 14, "hea": 9, "pas": 7, "pen": 13, "tck": 7, "cor": 9},
+      "mental": {"otb": 12, "vis": 6, "ant": 10, "pos": 5, "wor": 6, "cmp": 11},
+      "physical": {"acc": 10, "str": 11, "sta": 12, "pac": 10, "jum": 11, "bal": 8, "agi": 10},
+      "hidden": {"cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "ST",

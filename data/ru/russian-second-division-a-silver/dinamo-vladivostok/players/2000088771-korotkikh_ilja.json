@@ -5,6 +5,14 @@
   "birth_date": "2003-02-02",
   "country_id": 791,
   "club_id": 2000101878,
+  "attrs": {
+    "player": {
+      "technical": {"tck": 11},
+      "mental": {"otb": 5, "pos": 8},
+      "physical": {"str": 9, "sta": 12, "jum": 13, "bal": 11},
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "DC",

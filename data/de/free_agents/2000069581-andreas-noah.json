@@ -4,6 +4,13 @@
   "last_name": "Andreas",
   "birth_date": "2003-01-01",
   "country_id": 771,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 6, "dri": 7, "fin": 7, "hea": 10, "lon": 7, "mar": 11, "tck": 13},
+      "mental": {"wor": 12, "ldr": 10, "agg": 13, "det": 12},
+      "physical": {"jum": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

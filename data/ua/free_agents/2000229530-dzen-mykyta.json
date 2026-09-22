@@ -4,6 +4,12 @@
   "last_name": "Dzen",
   "birth_date": "2005-03-09",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 12},
+      "physical": {"jum": 14}
+    }
+  },
   "positions": [
     {
       "code": "ST",

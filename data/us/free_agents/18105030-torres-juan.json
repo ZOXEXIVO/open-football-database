@@ -4,6 +4,15 @@
   "last_name": "Torres",
   "birth_date": "1999-01-01",
   "country_id": 390,
+  "attrs": {
+    "person": {"amb": 15, "pre": 12},
+    "player": {
+      "technical": {"cro": 12, "dri": 14, "fin": 9, "hea": 4, "lon": 8, "mar": 8, "pas": 12, "tck": 8, "fir": 14, "tec": 13, "cor": 11, "lth": 5, "fre": 8},
+      "mental": {"otb": 8, "vis": 13, "ant": 11, "dec": 12, "pos": 7, "fla": 14, "tea": 8, "wor": 8, "ldr": 7, "bra": 15, "det": 14, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 13, "str": 8, "sta": 10, "pac": 13, "jum": 7, "bal": 10, "agi": 14},
+      "hidden": {"cns": 10, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "MC",

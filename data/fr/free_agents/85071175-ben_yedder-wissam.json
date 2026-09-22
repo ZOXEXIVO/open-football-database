@@ -4,6 +4,15 @@
   "last_name": "Ben Yedder",
   "birth_date": "1990-08-12",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 14, "amb": 16, "loy": 13, "pre": 14, "pro": 13, "spo": 16, "tem": 15, "con": 17},
+    "player": {
+      "technical": {"cro": 12, "dri": 16, "fin": 16, "hea": 11, "lon": 12, "mar": 3, "pas": 14, "pen": 17, "tck": 3, "fir": 16, "tec": 17, "cor": 9, "lth": 2, "fre": 12},
+      "mental": {"otb": 13, "vis": 13, "ant": 13, "dec": 14, "pos": 7, "fla": 15, "tea": 11, "wor": 11, "ldr": 14, "bra": 10, "agg": 9, "det": 15, "cmp": 15, "cnt": 12},
+      "physical": {"acc": 7, "str": 7, "sta": 7, "pac": 6, "jum": 7, "bal": 15, "agi": 9, "nat": 11},
+      "hidden": {"dir": 7, "cns": 15, "imp": 15, "inj": 7, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "ST",

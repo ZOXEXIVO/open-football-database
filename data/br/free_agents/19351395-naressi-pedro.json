@@ -4,6 +4,15 @@
   "last_name": "Naressi",
   "birth_date": "1998-01-10",
   "country_id": 1651,
+  "attrs": {
+    "person": {"ada": 13, "amb": 11, "loy": 14, "pre": 12, "pro": 12, "spo": 8, "tem": 9, "con": 8},
+    "player": {
+      "technical": {"cro": 8, "dri": 12, "fin": 8, "hea": 13, "lon": 9, "mar": 13, "pas": 11, "pen": 10, "tck": 15, "fir": 11, "tec": 12, "cor": 5, "lth": 8, "fre": 9},
+      "mental": {"otb": 10, "vis": 12, "ant": 12, "dec": 10, "pos": 13, "fla": 7, "tea": 19, "wor": 17, "ldr": 14, "bra": 17, "agg": 15, "det": 14, "cmp": 12, "cnt": 11},
+      "physical": {"acc": 13, "str": 11, "sta": 15, "pac": 11, "jum": 12, "bal": 13, "agi": 12, "nat": 15},
+      "hidden": {"dir": 12, "cns": 13, "imp": 12, "inj": 8, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

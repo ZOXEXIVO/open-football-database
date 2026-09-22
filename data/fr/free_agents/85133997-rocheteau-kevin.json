@@ -4,6 +4,15 @@
   "last_name": "Rocheteau",
   "birth_date": "1993-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"amb": 10, "loy": 13},
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 10, "hea": 10, "lon": 12, "mar": 3, "pas": 12, "pen": 11, "tck": 6, "fir": 12, "tec": 12, "cor": 5, "lth": 5, "fre": 11},
+      "mental": {"otb": 11, "vis": 11, "ant": 12, "dec": 11, "pos": 8, "fla": 12, "tea": 11, "wor": 12, "ldr": 8, "bra": 10, "agg": 8, "det": 10, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 13, "str": 11, "sta": 11, "pac": 11, "jum": 9, "bal": 13, "agi": 12, "nat": 14},
+      "hidden": {"dir": 8, "cns": 12, "imp": 11, "inj": 4, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "AML",

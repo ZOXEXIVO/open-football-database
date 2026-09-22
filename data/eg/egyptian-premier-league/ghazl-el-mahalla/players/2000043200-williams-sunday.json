@@ -5,6 +5,11 @@
   "birth_date": "1999-08-09",
   "country_id": 38,
   "club_id": 5370007,
+  "attrs": {
+    "player": {
+      "hidden": {"cns": 15}
+    }
+  },
   "positions": [
     {
       "code": "ML",

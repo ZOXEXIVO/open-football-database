@@ -5,6 +5,15 @@
   "birth_date": "1995-07-05",
   "country_id": 775,
   "club_id": 1095,
+  "attrs": {
+    "person": {"ada": 9, "amb": 14, "loy": 14, "pre": 9, "pro": 11, "spo": 5, "tem": 6, "con": 14},
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "fin": 8, "hea": 7, "lon": 8, "mar": 6, "pas": 12, "pen": 12, "tck": 7, "fir": 13, "tec": 13, "cor": 8, "lth": 8, "fre": 8},
+      "mental": {"otb": 11, "vis": 12, "ant": 12, "dec": 11, "pos": 9, "fla": 13, "tea": 14, "wor": 14, "ldr": 10, "bra": 8, "agg": 12, "det": 16, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 11, "str": 8, "sta": 11, "pac": 11, "jum": 10, "bal": 12, "agi": 12, "nat": 8},
+      "hidden": {"dir": 13, "cns": 9, "imp": 14, "inj": 16, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "WBR",

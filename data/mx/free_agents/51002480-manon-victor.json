@@ -4,6 +4,15 @@
   "last_name": "Mañón",
   "birth_date": "1992-01-01",
   "country_id": 379,
+  "attrs": {
+    "person": {"ada": 10, "amb": 10, "pro": 10, "con": 9},
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 13, "hea": 12, "lon": 11, "mar": 5, "pas": 11, "pen": 13, "tck": 5, "fir": 13, "tec": 13, "cor": 9, "lth": 10},
+      "mental": {"otb": 12, "vis": 11, "ant": 12, "dec": 11, "pos": 9, "fla": 13, "tea": 10, "wor": 12, "ldr": 11, "bra": 11, "agg": 10, "det": 11, "cmp": 12, "cnt": 13},
+      "physical": {"acc": 14, "str": 8, "sta": 13, "pac": 14, "jum": 7, "bal": 12, "agi": 11, "nat": 9},
+      "hidden": {"dir": 8, "cns": 15, "imp": 16, "ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

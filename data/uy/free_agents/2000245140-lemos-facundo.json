@@ -4,6 +4,13 @@
   "last_name": "Lemos",
   "birth_date": "2001-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"amb": 6},
+    "player": {
+      "physical": {"jum": 10},
+      "goalkeeping": {"kic": 13}
+    }
+  },
   "positions": [
     {
       "code": "GK",

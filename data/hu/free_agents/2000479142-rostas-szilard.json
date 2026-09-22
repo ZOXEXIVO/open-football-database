@@ -4,6 +4,12 @@
   "last_name": "Rostás",
   "birth_date": "2006-05-19",
   "country_id": 773,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12},
+      "physical": {"acc": 11, "str": 4, "sta": 10, "pac": 10, "agi": 10}
+    }
+  },
   "positions": [
     {
       "code": "DL",

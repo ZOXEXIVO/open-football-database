@@ -4,6 +4,14 @@
   "last_name": "Voyna",
   "birth_date": "2000-01-13",
   "country_id": 758,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 4, "dri": 6, "fin": 4, "hea": 13, "lon": 8, "mar": 8, "pas": 6, "pen": 6, "tck": 13, "fir": 10, "tec": 6, "cor": 4, "lth": 8, "fre": 6},
+      "mental": {"otb": 6, "vis": 4, "ant": 8, "dec": 10, "pos": 13, "fla": 12, "tea": 4, "wor": 8, "ldr": 10, "bra": 12, "agg": 13, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 11, "str": 7, "sta": 8, "pac": 12, "jum": 13, "bal": 8, "agi": 12, "nat": 14},
+      "hidden": {"dir": 13, "cns": 15, "imp": 10, "inj": 8, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DR",

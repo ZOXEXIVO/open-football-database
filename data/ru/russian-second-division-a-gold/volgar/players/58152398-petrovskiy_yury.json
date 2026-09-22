@@ -5,6 +5,14 @@
   "birth_date": "2000-10-14",
   "country_id": 791,
   "club_id": 130515,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 9, "hea": 7, "pas": 10, "tck": 8, "fir": 9},
+      "mental": {"otb": 9, "pos": 7},
+      "physical": {"acc": 10, "str": 11, "sta": 13, "pac": 12, "jum": 11, "agi": 9},
+      "hidden": {"cns": 15, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DR",

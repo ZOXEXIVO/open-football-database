@@ -4,6 +4,15 @@
   "last_name": "Teniste",
   "birth_date": "1988-01-01",
   "country_id": 766,
+  "attrs": {
+    "person": {"ada": 12, "amb": 10, "loy": 17, "pre": 10, "pro": 14, "spo": 15, "tem": 15, "con": 1},
+    "player": {
+      "technical": {"cro": 12, "dri": 10, "fin": 8, "hea": 7, "lon": 9, "mar": 11, "pas": 10, "pen": 6, "tck": 11, "fir": 10, "tec": 11, "cor": 9, "lth": 14, "fre": 8},
+      "mental": {"otb": 10, "vis": 10, "ant": 10, "dec": 11, "pos": 10, "fla": 9, "tea": 13, "wor": 13, "ldr": 8, "bra": 12, "agg": 3, "det": 11, "cmp": 13, "cnt": 13},
+      "physical": {"acc": 12, "str": 11, "sta": 12, "pac": 10, "jum": 7, "bal": 9, "agi": 11, "nat": 9},
+      "hidden": {"dir": 3, "cns": 13, "imp": 10, "inj": 2, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "DR",

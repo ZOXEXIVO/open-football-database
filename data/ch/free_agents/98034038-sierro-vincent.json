@@ -4,6 +4,15 @@
   "last_name": "Sierro",
   "birth_date": "1995-10-08",
   "country_id": 798,
+  "attrs": {
+    "person": {"ada": 10, "amb": 12, "loy": 13, "pre": 9, "pro": 14, "spo": 16, "tem": 16, "con": 6},
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "fin": 9, "hea": 11, "lon": 13, "mar": 9, "pas": 14, "pen": 12, "tck": 10, "fir": 13, "tec": 14, "cor": 13, "lth": 6, "fre": 13},
+      "mental": {"otb": 12, "vis": 12, "ant": 15, "dec": 14, "pos": 12, "fla": 11, "tea": 15, "wor": 14, "ldr": 11, "bra": 10, "agg": 12, "det": 13, "cmp": 13, "cnt": 11},
+      "physical": {"acc": 11, "str": 12, "sta": 14, "pac": 12, "jum": 12, "bal": 12, "agi": 11, "nat": 15},
+      "hidden": {"dir": 12, "cns": 12, "imp": 13, "inj": 12, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "DM",

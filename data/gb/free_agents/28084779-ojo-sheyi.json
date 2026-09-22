@@ -4,6 +4,15 @@
   "last_name": "Ojo",
   "birth_date": "1997-06-19",
   "country_id": 765,
+  "attrs": {
+    "person": {"ada": 14, "amb": 12, "loy": 13, "pre": 10, "pro": 12, "spo": 12, "tem": 12, "con": 5},
+    "player": {
+      "technical": {"cro": 12, "dri": 13, "fin": 12, "hea": 8, "lon": 11, "mar": 8, "pas": 11, "pen": 8, "tck": 8, "fir": 12, "tec": 13, "cor": 8, "lth": 2, "fre": 9},
+      "mental": {"otb": 14, "vis": 12, "ant": 11, "dec": 10, "pos": 9, "fla": 12, "tea": 11, "wor": 8, "ldr": 4, "bra": 10, "agg": 7, "det": 7, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 14, "str": 11, "sta": 12, "pac": 14, "jum": 10, "bal": 13, "agi": 13, "nat": 9},
+      "hidden": {"dir": 6, "cns": 9, "imp": 11, "inj": 7, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

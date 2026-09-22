@@ -4,6 +4,15 @@
   "last_name": "Inzoudine",
   "birth_date": "1996-12-10",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 12, "amb": 11, "loy": 12},
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 6, "hea": 7, "lon": 12, "mar": 7, "pas": 8, "tck": 11, "fir": 10, "tec": 12, "cor": 6, "lth": 8, "fre": 11},
+      "mental": {"otb": 11, "vis": 9, "ant": 9, "pos": 7, "fla": 9, "ldr": 5, "bra": 8, "agg": 7, "det": 12, "cnt": 10},
+      "physical": {"acc": 12, "str": 7, "sta": 11, "pac": 12, "jum": 7, "bal": 10, "agi": 13, "nat": 13},
+      "hidden": {"dir": 7, "cns": 11, "inj": 9, "ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DL",

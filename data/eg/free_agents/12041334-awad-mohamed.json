@@ -4,6 +4,16 @@
   "last_name": "Awad",
   "birth_date": "1992-07-06",
   "country_id": 16,
+  "attrs": {
+    "person": {"ada": 3, "amb": 9, "loy": 14, "pre": 12, "pro": 12, "spo": 13, "tem": 11, "con": 2},
+    "player": {
+      "technical": {"cro": 1, "dri": 1, "fin": 1, "hea": 3, "pas": 8, "fir": 5, "tec": 7, "cor": 1},
+      "mental": {"otb": 5, "vis": 3, "ant": 18, "dec": 7, "pos": 17, "fla": 4, "tea": 7, "wor": 9, "ldr": 7, "bra": 15, "agg": 9, "det": 17, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 8, "str": 12, "sta": 11, "pac": 11, "jum": 12, "bal": 14, "agi": 17, "nat": 13},
+      "goalkeeping": {"han": 12, "aer": 13, "cmd": 9, "com": 9, "kic": 15, "thr": 9, "one": 14, "ref": 16, "ecc": 7, "rus": 14, "pun": 6},
+      "hidden": {"dir": 4, "cns": 12, "imp": 10, "inj": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

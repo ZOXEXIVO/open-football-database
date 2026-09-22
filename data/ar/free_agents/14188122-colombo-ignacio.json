@@ -4,6 +4,11 @@
   "last_name": "Colombo",
   "birth_date": "1997-08-20",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "goalkeeping": {"han": 12, "aer": 12, "cmd": 11, "com": 11, "kic": 10, "thr": 9, "one": 11, "ref": 10, "ecc": 8, "rus": 8, "pun": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

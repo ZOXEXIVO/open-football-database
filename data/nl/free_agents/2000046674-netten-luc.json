@@ -4,6 +4,13 @@
   "last_name": "Netten",
   "birth_date": "2004-01-01",
   "country_id": 784,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 5, "dri": 6, "fin": 5, "hea": 13, "pas": 12},
+      "mental": {"vis": 11, "ant": 10, "dec": 10, "pos": 11, "tea": 13, "wor": 13, "bra": 11, "det": 10, "cmp": 11, "cnt": 9},
+      "physical": {"acc": 10, "str": 11, "sta": 12, "pac": 11, "jum": 14, "bal": 13, "agi": 11}
+    }
+  },
   "positions": [
     {
       "code": "DC",

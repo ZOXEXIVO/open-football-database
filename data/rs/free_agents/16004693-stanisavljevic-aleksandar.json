@@ -4,6 +4,15 @@
   "last_name": "Stanisavljević",
   "birth_date": "1989-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 14, "amb": 12, "loy": 9, "pre": 10, "pro": 13, "spo": 12, "tem": 12, "con": 11},
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "fin": 11, "hea": 8, "lon": 14, "mar": 7, "pas": 13, "pen": 13, "tck": 8, "fir": 13, "tec": 13, "cor": 12, "lth": 6, "fre": 14},
+      "mental": {"otb": 11, "vis": 13, "ant": 12, "dec": 10, "pos": 7, "fla": 14, "tea": 12, "wor": 10, "ldr": 7, "bra": 11, "agg": 8, "det": 9, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 10, "str": 11, "sta": 10, "pac": 10, "jum": 8, "bal": 11, "agi": 11, "nat": 11},
+      "hidden": {"dir": 6, "cns": 12, "imp": 13, "inj": 7, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

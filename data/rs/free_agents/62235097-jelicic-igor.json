@@ -4,6 +4,15 @@
   "last_name": "Jeličić",
   "birth_date": "2000-02-28",
   "country_id": 802,
+  "attrs": {
+    "person": {"ada": 12, "amb": 11, "loy": 11, "pro": 13, "spo": 12, "tem": 12, "con": 8},
+    "player": {
+      "technical": {"cro": 9, "dri": 8, "hea": 14, "mar": 12, "tck": 11, "fir": 12, "tec": 8, "cor": 9},
+      "mental": {"otb": 10, "vis": 9, "ant": 12, "dec": 12, "pos": 13, "fla": 9, "tea": 9, "wor": 10, "ldr": 10, "bra": 10, "agg": 13, "det": 11, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 9, "str": 12, "sta": 12, "pac": 9, "jum": 15, "bal": 10, "agi": 11, "nat": 11},
+      "hidden": {"dir": 12, "cns": 12, "imp": 12, "inj": 9}
+    }
+  },
   "positions": [
     {
       "code": "DR",

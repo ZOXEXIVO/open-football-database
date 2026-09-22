@@ -5,6 +5,14 @@
   "birth_date": "2008-07-26",
   "country_id": 801,
   "club_id": 641,
+  "attrs": {
+    "person": {"pre": 15, "pro": 17, "tem": 8, "con": 5},
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 10, "hea": 5, "mar": 4, "pas": 10, "tck": 4, "fir": 12, "tec": 11, "lth": 3},
+      "mental": {"dec": 6, "pos": 4, "tea": 6, "wor": 4},
+      "physical": {"acc": 11, "str": 6, "sta": 8, "pac": 11, "jum": 9, "agi": 8}
+    }
+  },
   "positions": [
     {
       "code": "MR",

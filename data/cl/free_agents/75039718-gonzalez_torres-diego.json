@@ -4,6 +4,14 @@
   "last_name": "González Torres",
   "birth_date": "1998-01-01",
   "country_id": 1652,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 7, "dri": 6, "fin": 5, "hea": 12, "lon": 5, "mar": 13, "pas": 8, "pen": 5, "tck": 13, "fir": 9, "tec": 7, "cor": 5, "lth": 5},
+      "mental": {"otb": 5, "vis": 6, "ant": 12, "dec": 10, "pos": 13, "fla": 6, "tea": 13, "wor": 11, "bra": 13, "agg": 14, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 10, "str": 13, "sta": 12, "pac": 10, "jum": 15, "bal": 10, "agi": 9, "nat": 12},
+      "hidden": {"dir": 12, "inj": 5}
+    }
+  },
   "positions": [
     {
       "code": "DC",

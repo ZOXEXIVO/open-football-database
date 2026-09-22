@@ -4,6 +4,15 @@
   "last_name": "Kwateng",
   "birth_date": "1997-04-09",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 12, "amb": 12, "loy": 15, "pre": 11, "pro": 14, "spo": 13, "tem": 10, "con": 10},
+    "player": {
+      "technical": {"cro": 14, "dri": 12, "fin": 6, "hea": 11, "lon": 9, "mar": 12, "pas": 13, "pen": 7, "tck": 15, "fir": 12, "tec": 10, "cor": 5, "lth": 6, "fre": 4},
+      "mental": {"otb": 8, "vis": 12, "ant": 13, "dec": 13, "pos": 11, "fla": 11, "tea": 12, "wor": 14, "ldr": 10, "bra": 13, "agg": 10, "det": 14, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 13, "str": 13, "sta": 13, "pac": 14, "jum": 11, "bal": 13, "agi": 14, "nat": 13},
+      "hidden": {"dir": 10, "cns": 11, "imp": 11, "inj": 5, "ver": 9}
+    }
+  },
   "positions": [
     {
       "code": "DR",

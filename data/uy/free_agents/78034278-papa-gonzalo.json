@@ -4,6 +4,15 @@
   "last_name": "Papa",
   "birth_date": "1989-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 6, "amb": 10, "loy": 13, "pre": 13, "spo": 5, "tem": 3, "con": 6},
+    "player": {
+      "technical": {"cro": 8, "dri": 6, "fin": 6, "hea": 12, "lon": 9, "mar": 15, "pas": 13, "tck": 14, "fir": 12, "tec": 9, "lth": 10},
+      "mental": {"otb": 9, "vis": 7, "ant": 13, "dec": 10, "pos": 14, "fla": 7, "tea": 16, "wor": 15, "ldr": 12, "bra": 19, "agg": 18, "det": 15, "cmp": 10, "cnt": 15},
+      "physical": {"acc": 11, "str": 15, "sta": 12, "pac": 10, "jum": 8, "bal": 11, "agi": 10, "nat": 14},
+      "hidden": {"dir": 17, "cns": 12, "imp": 13, "inj": 8, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DM",

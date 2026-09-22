@@ -5,6 +5,14 @@
   "birth_date": "1998-12-14",
   "country_id": 775,
   "club_id": 1093,
+  "attrs": {
+    "person": {"amb": 10, "loy": 14, "pro": 12},
+    "player": {
+      "mental": {"bra": 14},
+      "physical": {"str": 9, "agi": 10},
+      "goalkeeping": {"han": 10, "aer": 11, "cmd": 9, "com": 12, "kic": 8, "thr": 9, "one": 7, "ref": 9, "ecc": 13, "rus": 9, "pun": 6}
+    }
+  },
   "positions": [
     {
       "code": "GK",

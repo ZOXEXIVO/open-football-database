@@ -4,6 +4,14 @@
   "last_name": "Karpov",
   "birth_date": "1999-06-28",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "lon": 11, "mar": 12, "pas": 13, "pen": 11, "fir": 10, "tec": 11},
+      "mental": {"vis": 13, "ant": 9, "tea": 12, "wor": 11, "ldr": 11, "agg": 12, "cmp": 11, "cnt": 12},
+      "physical": {"acc": 11, "str": 10, "sta": 11, "jum": 8, "bal": 10, "agi": 11, "nat": 11},
+      "hidden": {"dir": 12, "cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

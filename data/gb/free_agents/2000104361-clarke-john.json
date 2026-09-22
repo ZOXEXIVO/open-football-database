@@ -4,6 +4,15 @@
   "last_name": "Clarke",
   "birth_date": "2004-04-24",
   "country_id": 765,
+  "attrs": {
+    "person": {"ada": 6, "amb": 10, "loy": 11, "pre": 10, "pro": 12, "spo": 11, "tem": 10, "con": 5},
+    "player": {
+      "technical": {"cro": 9, "dri": 8, "fin": 5, "hea": 10, "lon": 6, "mar": 8, "pas": 9, "pen": 5, "tck": 9, "fir": 10, "tec": 8, "cor": 6, "lth": 11, "fre": 11},
+      "mental": {"otb": 10, "vis": 7, "ant": 8, "dec": 6, "pos": 10, "fla": 5, "tea": 12, "wor": 15, "ldr": 8, "bra": 12, "agg": 13, "det": 12, "cmp": 8, "cnt": 7},
+      "physical": {"acc": 15, "str": 10, "sta": 14, "pac": 12, "jum": 10, "bal": 10, "agi": 11, "nat": 14},
+      "hidden": {"dir": 8, "cns": 13, "imp": 11, "inj": 6, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DL",

@@ -5,6 +5,14 @@
   "birth_date": "1988-10-03",
   "country_id": 1437,
   "club_id": 130059,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 9, "hea": 7, "pas": 7, "pen": 6, "fir": 8, "tec": 8, "fre": 12},
+      "mental": {"otb": 8, "vis": 9, "dec": 7, "fla": 8, "tea": 7, "wor": 7, "ldr": 13, "cmp": 8, "cnt": 9},
+      "physical": {"pac": 7, "agi": 7},
+      "hidden": {"ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

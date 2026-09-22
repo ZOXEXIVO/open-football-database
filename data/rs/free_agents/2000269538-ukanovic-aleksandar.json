@@ -4,6 +4,15 @@
   "last_name": "Đukanović",
   "birth_date": "2004-01-01",
   "country_id": 802,
+  "attrs": {
+    "person": {"amb": 11, "pro": 13, "spo": 11, "tem": 12},
+    "player": {
+      "technical": {"fin": 10, "hea": 12, "tec": 11},
+      "mental": {"otb": 10, "vis": 11, "ant": 11, "dec": 12, "fla": 12, "wor": 12, "det": 12, "cmp": 11},
+      "physical": {"acc": 10, "str": 12, "pac": 10, "bal": 11, "agi": 11},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

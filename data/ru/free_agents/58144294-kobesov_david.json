@@ -4,6 +4,14 @@
   "last_name": "Kobesov",
   "birth_date": "2000-01-06",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 11, "hea": 7, "mar": 7, "pas": 9, "tck": 10, "fir": 8, "tec": 10, "cor": 12, "lth": 6},
+      "mental": {"otb": 10, "vis": 10, "ant": 7, "dec": 9, "pos": 7, "tea": 10, "wor": 7, "bra": 8, "cmp": 9},
+      "physical": {"acc": 13, "str": 10, "sta": 9, "pac": 13, "jum": 10, "bal": 9, "agi": 11},
+      "hidden": {"cns": 8, "imp": 11, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "MC",

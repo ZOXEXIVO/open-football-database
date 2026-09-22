@@ -4,6 +4,15 @@
   "last_name": "Arnedo",
   "birth_date": "1992-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"ada": 9, "amb": 10, "loy": 9, "pre": 10, "pro": 10, "spo": 11, "tem": 10, "con": 11},
+    "player": {
+      "technical": {"hea": 8, "pas": 10, "pen": 12, "fir": 8},
+      "mental": {"vis": 10, "ant": 11, "dec": 11, "pos": 11, "tea": 11, "wor": 10, "ldr": 11, "bra": 11, "det": 14, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 11, "str": 12, "sta": 12, "pac": 10, "jum": 10, "bal": 11, "agi": 12},
+      "goalkeeping": {"han": 12, "aer": 12, "cmd": 12, "com": 11, "kic": 11, "thr": 11, "one": 12, "ref": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

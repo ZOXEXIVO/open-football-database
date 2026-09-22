@@ -4,6 +4,15 @@
   "last_name": "Gallo",
   "birth_date": "1998-06-01",
   "country_id": 1658,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 8, "fir": 8, "tec": 8},
+      "mental": {"ant": 11, "dec": 11, "pos": 11, "bra": 13, "cmp": 12, "cnt": 12},
+      "physical": {"acc": 11, "str": 12, "pac": 10, "jum": 14, "bal": 9, "agi": 12},
+      "goalkeeping": {"han": 12, "aer": 14, "cmd": 12, "com": 11, "kic": 8, "thr": 12, "one": 11, "ref": 10, "ecc": 11, "rus": 12, "pun": 11},
+      "hidden": {"cns": 13}
+    }
+  },
   "positions": [
     {
       "code": "GK",

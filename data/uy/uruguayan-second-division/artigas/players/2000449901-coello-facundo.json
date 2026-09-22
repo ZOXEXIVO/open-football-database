@@ -5,6 +5,13 @@
   "birth_date": "2006-01-30",
   "country_id": 1657,
   "club_id": 78014919,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10, "lon": 13, "tec": 11, "cor": 13},
+      "mental": {"fla": 11},
+      "physical": {"jum": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

@@ -5,6 +5,13 @@
   "birth_date": "2003-10-10",
   "country_id": 11,
   "club_id": 121267,
+  "attrs": {
+    "person": {"ada": 8},
+    "player": {
+      "technical": {"pas": 12, "tec": 13},
+      "physical": {"acc": 15, "str": 15, "pac": 14}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

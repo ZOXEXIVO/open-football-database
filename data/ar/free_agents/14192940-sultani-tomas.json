@@ -4,6 +4,16 @@
   "last_name": "Sultani",
   "birth_date": "1997-06-22",
   "country_id": 1649,
+  "attrs": {
+    "person": {"loy": 15, "pro": 16, "spo": 15},
+    "player": {
+      "technical": {"pas": 11, "fir": 10, "tec": 9},
+      "mental": {"otb": 1, "vis": 8, "ant": 12, "dec": 12, "pos": 10, "fla": 2, "tea": 9, "wor": 14, "ldr": 10, "bra": 11, "agg": 10, "det": 13, "cmp": 8, "cnt": 13},
+      "physical": {"acc": 12, "str": 9, "sta": 6, "pac": 12, "jum": 12, "bal": 11, "agi": 13, "nat": 13},
+      "goalkeeping": {"han": 14, "aer": 12, "cmd": 12, "com": 11, "kic": 10, "thr": 11, "one": 12, "ref": 13, "ecc": 5, "rus": 13, "pun": 10},
+      "hidden": {"dir": 4, "cns": 12, "imp": 13, "inj": 1}
+    }
+  },
   "positions": [
     {
       "code": "GK",

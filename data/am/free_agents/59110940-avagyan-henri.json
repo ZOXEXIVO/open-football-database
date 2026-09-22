@@ -4,6 +4,16 @@
   "last_name": "Avagyan",
   "birth_date": "1996-01-16",
   "country_id": 754,
+  "attrs": {
+    "person": {"amb": 12, "pro": 12},
+    "player": {
+      "technical": {"pas": 10, "fir": 8, "tec": 9},
+      "mental": {"otb": 5, "vis": 10, "ant": 12, "dec": 12, "pos": 13, "fla": 5, "tea": 12, "wor": 8, "ldr": 9, "bra": 11, "agg": 11, "det": 15, "cmp": 11, "cnt": 13},
+      "physical": {"acc": 5, "str": 11, "sta": 9, "pac": 7, "jum": 15, "bal": 7, "agi": 13, "nat": 12},
+      "goalkeeping": {"han": 13, "aer": 14, "cmd": 12, "com": 13, "kic": 11, "thr": 11, "one": 14, "ref": 14, "ecc": 7, "rus": 8, "pun": 9},
+      "hidden": {"cns": 11}
+    }
+  },
   "positions": [
     {
       "code": "GK",

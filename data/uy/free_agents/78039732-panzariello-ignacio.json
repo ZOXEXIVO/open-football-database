@@ -4,6 +4,15 @@
   "last_name": "Panzariello",
   "birth_date": "1990-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 5, "amb": 4, "pre": 8, "tem": 12, "con": 7},
+    "player": {
+      "technical": {"cro": 11, "dri": 12, "fin": 10, "hea": 11, "mar": 9, "pas": 12, "pen": 11, "tck": 6, "fir": 13, "tec": 13, "cor": 14},
+      "mental": {"otb": 9, "vis": 11, "ant": 10, "dec": 13, "pos": 11, "fla": 11, "tea": 13, "wor": 11, "ldr": 11, "bra": 10, "agg": 11, "det": 8, "cmp": 9, "cnt": 10},
+      "physical": {"acc": 8, "str": 10, "sta": 10, "pac": 10, "jum": 9, "bal": 10, "agi": 10},
+      "hidden": {"cns": 9, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "DM",

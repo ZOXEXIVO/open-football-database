@@ -5,6 +5,13 @@
   "birth_date": "2007-01-15",
   "country_id": 765,
   "club_id": 600,
+  "attrs": {
+    "player": {
+      "mental": {"dec": 7},
+      "physical": {"agi": 9},
+      "goalkeeping": {"han": 10, "aer": 13, "cmd": 10, "com": 8, "kic": 10, "one": 11, "ref": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

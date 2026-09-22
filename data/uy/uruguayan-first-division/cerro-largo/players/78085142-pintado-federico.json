@@ -5,6 +5,15 @@
   "birth_date": "2001-05-18",
   "country_id": 1657,
   "club_id": 8825223,
+  "attrs": {
+    "person": {"con": 6},
+    "player": {
+      "mental": {"dec": 12, "bra": 10},
+      "physical": {"jum": 11, "agi": 13},
+      "goalkeeping": {"han": 10, "aer": 9, "cmd": 10, "com": 9, "kic": 11, "one": 11, "ref": 13, "ecc": 6, "rus": 12},
+      "hidden": {"cns": 13, "imp": 10}
+    }
+  },
   "positions": [
     {
       "code": "GK",

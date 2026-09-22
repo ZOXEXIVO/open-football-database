@@ -5,6 +5,13 @@
   "birth_date": "2006-06-14",
   "country_id": 795,
   "club_id": 5410639,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11},
+      "mental": {"vis": 10, "tea": 12, "wor": 11},
+      "physical": {"acc": 10, "pac": 11}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

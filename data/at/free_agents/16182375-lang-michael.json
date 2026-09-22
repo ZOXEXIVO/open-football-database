@@ -4,6 +4,15 @@
   "last_name": "Lang",
   "birth_date": "1998-01-01",
   "country_id": 755,
+  "attrs": {
+    "person": {"ada": 10, "amb": 8, "loy": 13, "pre": 10, "pro": 10, "spo": 11, "tem": 12, "con": 6},
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 4, "hea": 12, "lon": 9, "mar": 11, "pas": 12, "pen": 6, "tck": 11, "fir": 9, "tec": 11, "cor": 8, "lth": 8, "fre": 7},
+      "mental": {"otb": 10, "vis": 9, "ant": 10, "dec": 9, "pos": 14, "fla": 6, "tea": 13, "wor": 15, "ldr": 12, "bra": 13, "agg": 7, "det": 11, "cmp": 11, "cnt": 11},
+      "physical": {"acc": 13, "str": 8, "sta": 13, "pac": 13, "jum": 10, "bal": 11, "agi": 11, "nat": 12},
+      "hidden": {"dir": 7, "cns": 11, "imp": 11, "inj": 6, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DR",

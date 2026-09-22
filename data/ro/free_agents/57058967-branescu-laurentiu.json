@@ -4,6 +4,16 @@
   "last_name": "Brănescu",
   "birth_date": "1994-03-30",
   "country_id": 790,
+  "attrs": {
+    "person": {"ada": 12, "amb": 15, "loy": 12, "pre": 12, "pro": 11, "spo": 9, "tem": 6, "con": 15},
+    "player": {
+      "technical": {"hea": 8, "pas": 8, "fir": 9, "tec": 5},
+      "mental": {"otb": 5, "vis": 4, "ant": 11, "dec": 9, "pos": 10, "fla": 5, "tea": 8, "wor": 9, "ldr": 12, "bra": 12, "agg": 13, "det": 14, "cmp": 12, "cnt": 10},
+      "physical": {"acc": 9, "str": 13, "sta": 10, "pac": 8, "bal": 13, "agi": 12, "nat": 14},
+      "goalkeeping": {"han": 13, "aer": 14, "cmd": 9, "com": 11, "kic": 9, "thr": 13, "one": 13, "ref": 12, "ecc": 8, "rus": 10, "pun": 9},
+      "hidden": {"dir": 8, "cns": 12, "imp": 12, "inj": 3}
+    }
+  },
   "positions": [
     {
       "code": "GK",

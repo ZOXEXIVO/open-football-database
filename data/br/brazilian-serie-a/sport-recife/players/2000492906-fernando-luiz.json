@@ -5,6 +5,13 @@
   "birth_date": "2006-12-09",
   "country_id": 1651,
   "club_id": 2000114158,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 10, "lon": 10, "pen": 12},
+      "physical": {"str": 8, "sta": 11, "nat": 10},
+      "hidden": {"ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "DR",

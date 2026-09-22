@@ -4,6 +4,14 @@
   "last_name": "Gouache",
   "birth_date": "1998-01-01",
   "country_id": 769,
+  "attrs": {
+    "person": {"pro": 12, "spo": 9},
+    "player": {
+      "technical": {"fin": 12, "hea": 11},
+      "mental": {"otb": 10, "ant": 9, "dec": 8, "det": 8},
+      "physical": {"acc": 12, "str": 7, "jum": 12, "bal": 10, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "ST",

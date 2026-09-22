@@ -4,6 +4,14 @@
   "last_name": "Rozhkov",
   "birth_date": "2000-04-04",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 7, "fin": 12, "hea": 10, "lon": 6, "pas": 9, "fir": 10, "tec": 8},
+      "mental": {"otb": 10, "ant": 8, "dec": 10, "tea": 9, "wor": 8, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 11, "str": 10, "sta": 10, "pac": 11, "jum": 13, "bal": 9, "agi": 11},
+      "hidden": {"cns": 12}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

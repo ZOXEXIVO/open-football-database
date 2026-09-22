@@ -5,6 +5,11 @@
   "birth_date": "2008-08-31",
   "country_id": 765,
   "club_id": 686,
+  "attrs": {
+    "player": {
+      "goalkeeping": {"han": 10, "aer": 8, "cmd": 9, "com": 11, "kic": 10, "thr": 8, "one": 8, "ref": 10, "rus": 9, "pun": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

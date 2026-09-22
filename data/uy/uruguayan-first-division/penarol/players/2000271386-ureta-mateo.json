@@ -5,6 +5,12 @@
   "birth_date": "2006-01-24",
   "country_id": 1657,
   "club_id": 1922,
+  "attrs": {
+    "player": {
+      "mental": {"otb": 12},
+      "physical": {"jum": 10}
+    }
+  },
   "positions": [
     {
       "code": "DM",

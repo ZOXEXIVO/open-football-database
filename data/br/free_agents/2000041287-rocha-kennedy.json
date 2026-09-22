@@ -4,6 +4,12 @@
   "last_name": "Rocha",
   "birth_date": "1989-01-01",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 12, "fin": 7},
+      "physical": {"acc": 15}
+    }
+  },
   "positions": [
     {
       "code": "ML",

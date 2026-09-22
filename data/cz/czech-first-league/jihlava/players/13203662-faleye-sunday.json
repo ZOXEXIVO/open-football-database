@@ -5,6 +5,14 @@
   "birth_date": "1998-11-29",
   "country_id": 38,
   "club_id": 136153,
+  "attrs": {
+    "person": {"amb": 11, "pro": 6},
+    "player": {
+      "technical": {"fin": 11, "hea": 7, "pas": 12, "tec": 11},
+      "mental": {"dec": 12},
+      "physical": {"sta": 10}
+    }
+  },
   "positions": [
     {
       "code": "AML",

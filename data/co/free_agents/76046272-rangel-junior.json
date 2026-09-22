@@ -4,6 +4,14 @@
   "last_name": "Rangel",
   "birth_date": "1995-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"amb": 8, "loy": 9, "pre": 11, "pro": 10, "spo": 9, "tem": 8, "con": 10},
+    "player": {
+      "technical": {"mar": 10, "pas": 12, "tck": 10, "fir": 11, "tec": 10},
+      "mental": {"otb": 10, "vis": 12, "dec": 11, "pos": 10, "det": 8, "cnt": 11},
+      "physical": {"acc": 12, "str": 11, "sta": 12, "pac": 11, "bal": 10, "agi": 11, "nat": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

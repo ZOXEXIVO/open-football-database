@@ -5,6 +5,12 @@
   "birth_date": "1999-02-02",
   "country_id": 769,
   "club_id": 826,
+  "attrs": {
+    "person": {"ada": 6},
+    "player": {
+      "mental": {"det": 7}
+    }
+  },
   "positions": [
     {
       "code": "ST",

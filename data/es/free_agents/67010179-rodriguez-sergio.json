@@ -4,6 +4,12 @@
   "last_name": "Rodríguez",
   "birth_date": "1989-01-01",
   "country_id": 796,
+  "attrs": {
+    "player": {
+      "physical": {"acc": 12, "str": 10, "pac": 12},
+      "hidden": {"imp": 14}
+    }
+  },
   "positions": [
     {
       "code": "DL",

@@ -5,6 +5,12 @@
   "birth_date": "2006-11-16",
   "country_id": 784,
   "club_id": 1012,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 10, "pas": 14, "tec": 14, "fre": 16},
+      "mental": {"vis": 11, "cmp": 11}
+    }
+  },
   "positions": [
     {
       "code": "MC",

@@ -5,6 +5,13 @@
   "birth_date": "2003-04-18",
   "country_id": 1657,
   "club_id": 1923,
+  "attrs": {
+    "person": {"amb": 5, "loy": 4},
+    "player": {
+      "physical": {"jum": 7},
+      "hidden": {"ver": 18}
+    }
+  },
   "positions": [
     {
       "code": "DC",

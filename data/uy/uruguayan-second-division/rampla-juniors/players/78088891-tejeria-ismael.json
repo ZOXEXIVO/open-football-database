@@ -5,6 +5,15 @@
   "birth_date": "2000-02-23",
   "country_id": 1657,
   "club_id": 1924,
+  "attrs": {
+    "person": {"amb": 5},
+    "player": {
+      "technical": {"dri": 6, "fir": 5, "tec": 7},
+      "mental": {"ant": 10, "dec": 8, "pos": 12, "fla": 8, "tea": 14, "ldr": 13, "bra": 14, "cnt": 12},
+      "physical": {"acc": 8, "str": 13, "jum": 14, "bal": 14, "agi": 7},
+      "hidden": {"cns": 9}
+    }
+  },
   "positions": [
     {
       "code": "DC",

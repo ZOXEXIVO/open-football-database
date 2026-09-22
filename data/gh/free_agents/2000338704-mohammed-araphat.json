@@ -4,6 +4,15 @@
   "last_name": "Mohammed",
   "birth_date": "2005-11-06",
   "country_id": 21,
+  "attrs": {
+    "person": {"pro": 13, "spo": 12, "tem": 14},
+    "player": {
+      "technical": {"cro": 11, "dri": 14, "fin": 9, "hea": 7, "lon": 9, "mar": 6, "pas": 13, "pen": 9, "tck": 7, "fir": 13, "tec": 14, "cor": 8, "lth": 5, "fre": 8},
+      "mental": {"otb": 13, "vis": 12, "ant": 13, "dec": 5, "pos": 9, "tea": 13, "wor": 13, "bra": 12, "agg": 11, "cmp": 10, "cnt": 12},
+      "physical": {"acc": 14, "str": 6, "sta": 7, "pac": 14, "jum": 8, "bal": 8, "agi": 13, "nat": 14},
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "MC",

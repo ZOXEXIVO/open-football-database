@@ -5,6 +5,12 @@
   "birth_date": "1992-01-12",
   "country_id": 45,
   "club_id": 5682979,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 6, "dri": 12, "fin": 9, "hea": 8, "lon": 6, "mar": 8, "pas": 7, "tck": 6, "fir": 11},
+      "physical": {"acc": 15, "pac": 13}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

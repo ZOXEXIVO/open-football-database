@@ -4,6 +4,12 @@
   "last_name": "Villagra",
   "birth_date": "2003-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "physical": {"jum": 7},
+      "goalkeeping": {"aer": 7}
+    }
+  },
   "positions": [
     {
       "code": "GK",

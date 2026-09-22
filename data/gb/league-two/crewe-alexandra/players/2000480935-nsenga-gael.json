@@ -5,6 +5,14 @@
   "birth_date": "2008-11-08",
   "country_id": 765,
   "club_id": 641,
+  "attrs": {
+    "person": {"pro": 17, "tem": 12, "con": 3},
+    "player": {
+      "technical": {"cro": 9, "dri": 10, "fin": 7, "lon": 6, "pas": 9, "fir": 8, "tec": 12},
+      "mental": {"otb": 10, "vis": 8, "ant": 6, "fla": 14, "wor": 8, "cmp": 7},
+      "physical": {"acc": 10, "sta": 8, "pac": 13, "jum": 7, "bal": 8, "agi": 8}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

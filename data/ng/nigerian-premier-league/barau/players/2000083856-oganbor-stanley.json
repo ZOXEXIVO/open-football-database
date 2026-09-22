@@ -5,6 +5,14 @@
   "birth_date": "1998-07-10",
   "country_id": 38,
   "club_id": 2000378388,
+  "attrs": {
+    "person": {"amb": 15},
+    "player": {
+      "mental": {"ldr": 9},
+      "physical": {"str": 11, "sta": 12, "pac": 13, "jum": 16, "nat": 12},
+      "hidden": {"cns": 16}
+    }
+  },
   "positions": [
     {
       "code": "AMC",

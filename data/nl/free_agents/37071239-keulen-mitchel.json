@@ -4,6 +4,14 @@
   "last_name": "Keulen",
   "birth_date": "1998-01-01",
   "country_id": 784,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 12, "fin": 7, "lon": 7, "mar": 11, "pas": 11, "tck": 12, "fir": 9, "tec": 8},
+      "mental": {"otb": 12, "vis": 11, "ant": 9, "pos": 11, "fla": 7, "tea": 14, "wor": 12, "ldr": 10, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 11, "str": 9, "sta": 11, "pac": 10, "bal": 11, "agi": 12, "nat": 12},
+      "hidden": {"cns": 11, "imp": 8, "inj": 7}
+    }
+  },
   "positions": [
     {
       "code": "DL",

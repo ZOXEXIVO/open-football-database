@@ -4,6 +4,14 @@
   "last_name": "Mather",
   "birth_date": "2004-09-03",
   "country_id": 765,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 13, "fin": 12, "hea": 3, "lon": 12, "mar": 3, "pas": 12, "pen": 10, "tck": 3, "fir": 13, "tec": 14, "cor": 11, "lth": 4, "fre": 15},
+      "mental": {"otb": 10, "vis": 11, "ant": 8, "dec": 9, "pos": 4, "fla": 16, "tea": 11, "wor": 12, "ldr": 4, "bra": 6, "cmp": 12, "cnt": 10},
+      "physical": {"acc": 13, "str": 8, "sta": 12, "pac": 13, "jum": 8, "bal": 11, "agi": 12},
+      "hidden": {"ver": 11}
+    }
+  },
   "positions": [
     {
       "code": "AML",

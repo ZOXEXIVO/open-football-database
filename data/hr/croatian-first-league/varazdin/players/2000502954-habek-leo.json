@@ -5,6 +5,12 @@
   "birth_date": "2009-06-15",
   "country_id": 761,
   "club_id": 447,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 10},
+      "physical": {"acc": 11, "str": 6, "jum": 9}
+    }
+  },
   "positions": [
     {
       "code": "MR",

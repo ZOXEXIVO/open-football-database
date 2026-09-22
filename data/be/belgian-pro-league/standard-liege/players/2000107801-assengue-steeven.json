@@ -5,6 +5,13 @@
   "birth_date": "2005-06-14",
   "country_id": 757,
   "club_id": 250,
+  "attrs": {
+    "player": {
+      "technical": {"pas": 12, "fir": 10},
+      "mental": {"otb": 11, "ant": 10, "tea": 12, "wor": 12, "cmp": 9, "cnt": 11},
+      "physical": {"sta": 11, "pac": 12, "bal": 9}
+    }
+  },
   "positions": [
     {
       "code": "DR",

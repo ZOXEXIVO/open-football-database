@@ -4,6 +4,15 @@
   "last_name": "Gurenko",
   "birth_date": "1994-06-18",
   "country_id": 758,
+  "attrs": {
+    "person": {"amb": 12, "pro": 11, "spo": 4},
+    "player": {
+      "technical": {"cro": 8, "dri": 12, "fin": 8, "hea": 7, "lon": 10, "mar": 8, "pas": 12, "pen": 13, "tck": 10, "fir": 12, "tec": 12, "cor": 8, "lth": 7, "fre": 12},
+      "mental": {"otb": 12, "vis": 6, "ant": 8, "dec": 10, "pos": 6, "fla": 14, "tea": 8, "wor": 8, "ldr": 8, "bra": 12, "agg": 16, "det": 9, "cmp": 8, "cnt": 8},
+      "physical": {"acc": 13, "str": 7, "sta": 12, "pac": 13, "jum": 6, "bal": 10, "agi": 13, "nat": 8},
+      "hidden": {"dir": 16, "cns": 11, "imp": 8, "inj": 10, "ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "ML",

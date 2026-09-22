@@ -4,6 +4,12 @@
   "last_name": "Fernández",
   "birth_date": "2001-01-01",
   "country_id": 1649,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 10},
+      "mental": {"wor": 13}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

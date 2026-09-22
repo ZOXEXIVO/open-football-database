@@ -4,6 +4,15 @@
   "last_name": "Etcheverry",
   "birth_date": "1996-01-01",
   "country_id": 1657,
+  "attrs": {
+    "person": {"ada": 7, "amb": 8, "pre": 7, "con": 8},
+    "player": {
+      "technical": {"cro": 11, "dri": 11, "fin": 7, "lon": 8, "mar": 12, "pas": 10, "tck": 11, "fir": 12, "tec": 12, "lth": 17},
+      "mental": {"otb": 12, "vis": 10, "ant": 9, "dec": 9, "pos": 9, "fla": 9, "tea": 10, "wor": 12, "ldr": 10, "bra": 10, "agg": 11, "det": 9, "cmp": 7, "cnt": 8},
+      "physical": {"acc": 11, "str": 10, "sta": 10, "pac": 10, "jum": 8, "bal": 10, "agi": 12, "nat": 9},
+      "hidden": {"dir": 12, "cns": 8, "inj": 15, "ver": 17}
+    }
+  },
   "positions": [
     {
       "code": "DR",

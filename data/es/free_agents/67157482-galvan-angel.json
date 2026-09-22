@@ -4,6 +4,12 @@
   "last_name": "Galván",
   "birth_date": "1993-01-01",
   "country_id": 796,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 5, "dri": 12, "fin": 11, "hea": 13, "mar": 5, "pas": 11, "tck": 5, "fir": 7, "tec": 12, "cor": 4},
+      "physical": {"acc": 10, "str": 12, "sta": 12, "pac": 13, "jum": 15, "bal": 13, "agi": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

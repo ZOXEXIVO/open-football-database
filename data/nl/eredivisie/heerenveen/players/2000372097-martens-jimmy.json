@@ -5,6 +5,12 @@
   "birth_date": "2005-08-22",
   "country_id": 784,
   "club_id": 1036,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 11, "tec": 11},
+      "mental": {"tea": 14, "det": 16}
+    }
+  },
   "positions": [
     {
       "code": "MC",

@@ -5,6 +5,14 @@
   "birth_date": "2003-07-10",
   "country_id": 802,
   "club_id": 1950,
+  "attrs": {
+    "player": {
+      "technical": {"dri": 11, "tec": 11},
+      "mental": {"dec": 10},
+      "physical": {"acc": 12, "sta": 11, "pac": 12, "agi": 11},
+      "hidden": {"ver": 13}
+    }
+  },
   "positions": [
     {
       "code": "WBL",

@@ -4,6 +4,15 @@
   "last_name": "Benzema",
   "birth_date": "1987-12-19",
   "country_id": 769,
+  "attrs": {
+    "person": {"ada": 11, "amb": 18, "loy": 8, "pre": 14, "pro": 19, "spo": 17, "tem": 16, "con": 19},
+    "player": {
+      "technical": {"cro": 12, "dri": 15, "fin": 16, "hea": 14, "lon": 12, "mar": 5, "pas": 17, "pen": 16, "tck": 9, "fir": 19, "tec": 20, "cor": 10, "lth": 6, "fre": 12},
+      "mental": {"otb": 17, "vis": 16, "ant": 17, "dec": 16, "pos": 8, "fla": 17, "tea": 15, "wor": 11, "ldr": 15, "bra": 10, "agg": 7, "det": 16, "cmp": 17, "cnt": 13},
+      "physical": {"acc": 9, "str": 13, "sta": 11, "pac": 10, "jum": 12, "bal": 13, "agi": 9, "nat": 18},
+      "hidden": {"dir": 4, "cns": 14, "imp": 14, "inj": 12, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "ST",

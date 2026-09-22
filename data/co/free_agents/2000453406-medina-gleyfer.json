@@ -4,6 +4,14 @@
   "last_name": "Medina",
   "birth_date": "2004-09-16",
   "country_id": 1653,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 11, "hea": 11, "lon": 10, "pas": 11, "tck": 5, "fir": 11, "tec": 12},
+      "mental": {"otb": 12, "vis": 1, "ant": 11, "fla": 11, "cmp": 10, "cnt": 10},
+      "physical": {"acc": 12, "str": 12, "sta": 12, "pac": 12, "jum": 11, "bal": 12, "agi": 12},
+      "hidden": {"ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "ST",

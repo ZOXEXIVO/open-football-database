@@ -4,6 +4,16 @@
   "last_name": "Carlgren",
   "birth_date": "1992-01-08",
   "country_id": 797,
+  "attrs": {
+    "person": {"ada": 9, "amb": 13, "loy": 9, "pre": 14, "pro": 12, "spo": 8, "tem": 8, "con": 11},
+    "player": {
+      "technical": {"cro": 8, "pas": 9, "tec": 5},
+      "mental": {"vis": 10, "ant": 13, "dec": 12, "pos": 12, "tea": 12, "wor": 12, "ldr": 12, "bra": 14, "agg": 10, "det": 13, "cmp": 13, "cnt": 11},
+      "physical": {"acc": 10, "str": 11, "sta": 10, "pac": 10, "jum": 14, "bal": 12, "agi": 12, "nat": 10},
+      "goalkeeping": {"han": 14, "aer": 12, "cmd": 13, "com": 13, "kic": 12, "thr": 10, "one": 15, "ref": 15, "ecc": 13, "rus": 15, "pun": 15},
+      "hidden": {"dir": 10, "cns": 12, "imp": 13, "inj": 8}
+    }
+  },
   "positions": [
     {
       "code": "GK",

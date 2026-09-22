@@ -5,6 +5,14 @@
   "birth_date": "2008-08-25",
   "country_id": 757,
   "club_id": 168,
+  "attrs": {
+    "person": {"ada": 13, "loy": 9, "tem": 10},
+    "player": {
+      "technical": {"fin": 12, "lon": 11, "mar": 7, "tck": 8, "fre": 6},
+      "mental": {"otb": 12, "ant": 9, "cnt": 9},
+      "physical": {"nat": 13}
+    }
+  },
   "positions": [
     {
       "code": "ST",

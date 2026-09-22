@@ -5,6 +5,12 @@
   "birth_date": "1998-02-02",
   "country_id": 16,
   "club_id": 12004628,
+  "attrs": {
+    "person": {"amb": 13, "con": 5},
+    "player": {
+      "mental": {"det": 14}
+    }
+  },
   "positions": [
     {
       "code": "DM",

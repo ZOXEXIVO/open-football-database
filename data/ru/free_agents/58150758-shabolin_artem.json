@@ -4,6 +4,14 @@
   "last_name": "Shabolin",
   "birth_date": "2000-07-19",
   "country_id": 791,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 9, "fin": 7, "hea": 9, "pas": 9, "fir": 10, "tec": 13},
+      "mental": {"otb": 12, "ant": 9, "dec": 8, "wor": 8, "cmp": 9},
+      "physical": {"acc": 11, "str": 9, "sta": 9, "pac": 10, "jum": 11, "agi": 11},
+      "hidden": {"cns": 8}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

@@ -4,6 +4,14 @@
   "last_name": "Baiano",
   "birth_date": "1989-01-01",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "technical": {"fin": 11, "hea": 12, "lon": 11, "fir": 12, "tec": 12},
+      "mental": {"wor": 13, "ldr": 11, "agg": 13, "cnt": 9},
+      "physical": {"sta": 10, "jum": 9},
+      "hidden": {"dir": 12}
+    }
+  },
   "positions": [
     {
       "code": "DM",

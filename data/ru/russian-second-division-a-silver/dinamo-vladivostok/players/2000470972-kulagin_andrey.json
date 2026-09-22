@@ -5,6 +5,12 @@
   "birth_date": "2006-02-11",
   "country_id": 791,
   "club_id": 2000101878,
+  "attrs": {
+    "player": {
+      "goalkeeping": {"han": 4, "kic": 6, "ref": 11},
+      "hidden": {"cns": 10}
+    }
+  },
   "positions": [
     {
       "code": "GK",

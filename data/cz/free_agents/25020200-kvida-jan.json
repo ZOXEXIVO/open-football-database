@@ -4,6 +4,15 @@
   "last_name": "Kvída",
   "birth_date": "1991-01-01",
   "country_id": 763,
+  "attrs": {
+    "person": {"ada": 10, "amb": 10, "loy": 12, "pre": 9, "pro": 8, "spo": 8, "tem": 7, "con": 5},
+    "player": {
+      "technical": {"cro": 7, "dri": 10, "fin": 9, "hea": 12, "lon": 10, "mar": 12, "pas": 8, "pen": 10, "tck": 12, "fir": 7, "tec": 10, "cor": 8, "lth": 6, "fre": 9},
+      "mental": {"otb": 9, "vis": 11, "ant": 10, "dec": 7, "pos": 12, "fla": 9, "tea": 8, "wor": 8, "ldr": 8, "bra": 14, "agg": 13, "det": 10, "cmp": 5, "cnt": 6},
+      "physical": {"acc": 14, "str": 13, "sta": 14, "pac": 13, "jum": 13, "bal": 11, "agi": 14, "nat": 14},
+      "hidden": {"dir": 10, "cns": 10, "imp": 5, "inj": 10, "ver": 12}
+    }
+  },
   "positions": [
     {
       "code": "DC",

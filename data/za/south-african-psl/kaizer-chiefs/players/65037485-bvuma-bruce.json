@@ -5,6 +5,13 @@
   "birth_date": "1995-05-15",
   "country_id": 45,
   "club_id": 1643,
+  "attrs": {
+    "player": {
+      "technical": {"fir": 8},
+      "physical": {"acc": 11, "pac": 10},
+      "goalkeeping": {"han": 11, "aer": 12, "cmd": 9, "com": 10, "kic": 13, "thr": 13, "one": 9, "ref": 12, "ecc": 8, "rus": 9, "pun": 12}
+    }
+  },
   "positions": [
     {
       "code": "GK",

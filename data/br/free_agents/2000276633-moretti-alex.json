@@ -4,6 +4,14 @@
   "last_name": "Moretti",
   "birth_date": "2003-01-01",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 8, "dri": 8, "fin": 12, "hea": 6, "lon": 13, "mar": 10, "pas": 14, "pen": 10, "tck": 11, "fir": 12, "tec": 12, "cor": 6, "lth": 8, "fre": 10},
+      "mental": {"otb": 10, "vis": 12, "ant": 11, "dec": 9, "pos": 12, "fla": 9, "tea": 13, "wor": 10, "ldr": 10, "bra": 11, "agg": 8, "cmp": 8, "cnt": 10},
+      "physical": {"acc": 11, "str": 11, "sta": 10, "pac": 10, "jum": 10, "bal": 10, "agi": 11, "nat": 12},
+      "hidden": {"dir": 6, "cns": 10, "imp": 7, "inj": 6, "ver": 8}
+    }
+  },
   "positions": [
     {
       "code": "DM",

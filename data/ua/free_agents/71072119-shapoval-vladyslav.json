@@ -4,6 +4,14 @@
   "last_name": "Shapoval",
   "birth_date": "1995-05-08",
   "country_id": 800,
+  "attrs": {
+    "player": {
+      "technical": {"hea": 10, "mar": 11, "pas": 10, "pen": 10, "tck": 10},
+      "mental": {"dec": 10, "pos": 9, "tea": 13, "wor": 15, "bra": 12, "agg": 11, "cnt": 10},
+      "physical": {"acc": 10, "str": 11},
+      "hidden": {"ver": 10}
+    }
+  },
   "positions": [
     {
       "code": "DL",

@@ -4,6 +4,15 @@
   "last_name": "Ramírez",
   "birth_date": "1998-01-01",
   "country_id": 1653,
+  "attrs": {
+    "person": {"amb": 10, "loy": 12, "pro": 10},
+    "player": {
+      "technical": {"cro": 12, "dri": 12, "fin": 10, "hea": 6, "lon": 10, "pas": 11, "pen": 12, "fir": 8, "tec": 12},
+      "mental": {"otb": 12, "vis": 10, "ant": 10, "dec": 10, "pos": 7, "fla": 11, "tea": 11, "wor": 12, "ldr": 8, "bra": 10, "agg": 8, "det": 10, "cmp": 10, "cnt": 11},
+      "physical": {"acc": 12, "str": 8, "sta": 13, "pac": 12, "jum": 4, "bal": 8, "agi": 12, "nat": 12},
+      "hidden": {"dir": 8}
+    }
+  },
   "positions": [
     {
       "code": "AMR",

@@ -4,6 +4,15 @@
   "last_name": "Herc",
   "birth_date": "1998-09-30",
   "country_id": 794,
+  "attrs": {
+    "person": {"ada": 7, "amb": 12, "loy": 11, "pre": 12, "pro": 12, "spo": 11, "tem": 12, "con": 6},
+    "player": {
+      "technical": {"cro": 7, "dri": 13, "fin": 9, "hea": 9, "lon": 13, "mar": 9, "pas": 14, "pen": 13, "tck": 11, "fir": 12, "tec": 14, "cor": 4, "lth": 4, "fre": 8},
+      "mental": {"otb": 10, "vis": 12, "ant": 13, "dec": 10, "pos": 11, "fla": 14, "tea": 12, "wor": 13, "ldr": 7, "bra": 11, "agg": 13, "det": 11, "cmp": 13, "cnt": 8},
+      "physical": {"acc": 12, "str": 14, "sta": 13, "pac": 12, "jum": 13, "bal": 13, "agi": 11, "nat": 13},
+      "hidden": {"dir": 12, "cns": 10, "imp": 8, "inj": 9, "ver": 15}
+    }
+  },
   "positions": [
     {
       "code": "MC",

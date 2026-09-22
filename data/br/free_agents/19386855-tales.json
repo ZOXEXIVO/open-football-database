@@ -4,6 +4,14 @@
   "last_name": "",
   "birth_date": "1998-09-28",
   "country_id": 1651,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 11, "fin": 9, "hea": 12, "lon": 10, "mar": 10, "pas": 9, "tck": 9, "fir": 9, "tec": 9, "cor": 10, "lth": 7},
+      "mental": {"otb": 9, "vis": 8, "ant": 8, "dec": 8, "pos": 11, "fla": 10, "tea": 12, "wor": 13, "ldr": 8, "bra": 12, "agg": 8, "cmp": 9, "cnt": 7},
+      "physical": {"acc": 12, "str": 7, "sta": 13, "pac": 11, "jum": 11, "bal": 9, "agi": 11, "nat": 7},
+      "hidden": {"dir": 10, "cns": 7, "imp": 8, "ver": 14}
+    }
+  },
   "positions": [
     {
       "code": "WBL",

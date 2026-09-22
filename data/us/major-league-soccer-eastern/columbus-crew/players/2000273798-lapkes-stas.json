@@ -5,6 +5,13 @@
   "birth_date": "2006-03-03",
   "country_id": 758,
   "club_id": 1904,
+  "attrs": {
+    "player": {
+      "physical": {"acc": 7, "jum": 15, "bal": 19, "agi": 8, "nat": 11},
+      "goalkeeping": {"aer": 13, "com": 10, "ref": 13, "ecc": 8},
+      "hidden": {"inj": 7}
+    }
+  },
   "positions": [
     {
       "code": "GK",
