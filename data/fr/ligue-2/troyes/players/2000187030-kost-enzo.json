@@ -1,0 +1,31 @@
+{
+  "id": 2000187030,
+  "first_name": "Enzo",
+  "last_name": "Kost",
+  "birth_date": "2006-06-24",
+  "country_id": 769,
+  "club_id": 1971,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 84,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1971, "p": 0 },
+    { "s": 2023, "c": 1971, "p": 0 },
+    { "s": 2024, "c": 1971, "p": 0 },
+    { "s": 2024, "c": 48038854, "p": 3 }
+  ]
+}

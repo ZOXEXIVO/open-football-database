@@ -1,0 +1,43 @@
+{
+  "id": 14217806,
+  "first_name": "Rufino",
+  "last_name": "Lucero",
+  "birth_date": "2002-02-01",
+  "country_id": 1649,
+  "club_id": 4200564,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 113,
+  "potential_ability": 125,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 96, "p": 0 },
+    { "s": 2021, "c": 96, "p": 0 },
+    { "s": 2021, "c": 108510, "p": 12 },
+    { "s": 2022, "c": 108510, "p": 26 },
+    { "s": 2023, "c": 108510, "p": 29, "g": 2 },
+    { "s": 2024, "c": 3101453, "p": 3 },
+    { "s": 2024, "c": 4212243, "p": 33, "g": 4 },
+    { "s": 2025, "c": 4212243, "p": 14 }
+  ]
+}

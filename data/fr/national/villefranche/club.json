@@ -1,0 +1,57 @@
+{
+  "id": 2085,
+  "name": "FC Villefranche",
+  "location": {
+    "city_id": 5234
+  },
+  "finance": {
+    "balance": 36830
+  },
+  "teams": [
+    {
+      "id": 2085,
+      "name": "FC Villefranche",
+      "slug": "villefranche",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    },
+    {
+      "id": 93800005,
+      "name": "FC Villefranche",
+      "slug": "villefranche-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
+      }
+    },
+    {
+      "id": 93800006,
+      "name": "FC Villefranche",
+      "slug": "villefranche-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 880,
+        "national": 880,
+        "world": 880
+      }
+    }
+  ],
+  "colors": {
+    "background": "#293fad",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1500
+}

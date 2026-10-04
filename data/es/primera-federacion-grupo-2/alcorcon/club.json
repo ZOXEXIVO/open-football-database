@@ -1,0 +1,57 @@
+{
+  "id": 810090,
+  "name": "Alcorcón",
+  "location": {
+    "city_id": 5332
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 810090,
+      "name": "Alcorcón",
+      "slug": "alcorcon",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 94000009,
+      "name": "Alcorcón",
+      "slug": "alcorcon-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 94000010,
+      "name": "Alcorcón",
+      "slug": "alcorcon-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e8c741",
+    "foreground": "#26488b"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2500
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000399247,
+  "first_name": "Anthony",
+  "last_name": "Sifflet",
+  "birth_date": "2006-08-12",
+  "country_id": 769,
+  "club_id": 50034825,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2024, "c": 50034825, "p": 0 }
+  ]
+}

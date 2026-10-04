@@ -1,0 +1,57 @@
+{
+  "id": 4212307,
+  "name": "Ponferradina",
+  "location": {
+    "city_id": 5315
+  },
+  "finance": {
+    "balance": 820420
+  },
+  "teams": [
+    {
+      "id": 4212307,
+      "name": "Ponferradina",
+      "slug": "ponferradina",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 93900007,
+      "name": "Ponferradina",
+      "slug": "ponferradina-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 93900008,
+      "name": "Ponferradina",
+      "slug": "ponferradina-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3862e0",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 4500
+}

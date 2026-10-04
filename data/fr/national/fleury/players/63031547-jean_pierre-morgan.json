@@ -1,0 +1,44 @@
+{
+  "id": 63031547,
+  "first_name": "Morgan",
+  "last_name": "Jean-Pierre",
+  "birth_date": "1992-10-30",
+  "country_id": 29,
+  "club_id": 50039209,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 94,
+  "potential_ability": 102,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 4, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2015, "c": 7565209, "p": 13 },
+    { "s": 2016, "c": 7565209, "p": 22, "g": 2 },
+    { "s": 2017, "c": 1300301, "p": 5 },
+    { "s": 2018, "c": 2008, "p": 26 },
+    { "s": 2019, "c": 2008, "p": 19 },
+    { "s": 2020, "c": 2015, "p": 9 },
+    { "s": 2021, "c": 878, "p": 27, "g": 1 },
+    { "s": 2021, "c": 50082833, "p": 1 },
+    { "s": 2022, "c": 878, "p": 28, "g": 1 },
+    { "s": 2023, "c": 2075, "p": 26 },
+    { "s": 2023, "c": 49034757, "p": 2 },
+    { "s": 2024, "c": 2075, "p": 27 }
+  ]
+}

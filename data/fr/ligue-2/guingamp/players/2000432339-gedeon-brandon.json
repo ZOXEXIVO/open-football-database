@@ -1,0 +1,27 @@
+{
+  "id": 2000432339,
+  "first_name": "Brandon",
+  "last_name": "Gédéon",
+  "birth_date": "2008-01-30",
+  "country_id": 769,
+  "club_id": 840,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 67,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2024, "c": 840, "p": 0 }
+  ]
+}

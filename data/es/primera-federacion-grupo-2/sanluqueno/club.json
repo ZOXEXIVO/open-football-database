@@ -1,0 +1,57 @@
+{
+  "id": 4212406,
+  "name": "Sanluqueño",
+  "location": {
+    "city_id": 5337
+  },
+  "finance": {
+    "balance": 125730
+  },
+  "teams": [
+    {
+      "id": 4212406,
+      "name": "Sanluqueño",
+      "slug": "sanluqueno",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    },
+    {
+      "id": 94000019,
+      "name": "Sanluqueño",
+      "slug": "sanluqueno-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
+      }
+    },
+    {
+      "id": 94000020,
+      "name": "Sanluqueño",
+      "slug": "sanluqueno-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 880,
+        "national": 880,
+        "world": 880
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#3cb571"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2000
+}

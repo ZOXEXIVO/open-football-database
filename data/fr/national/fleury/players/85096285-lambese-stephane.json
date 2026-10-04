@@ -1,0 +1,45 @@
+{
+  "id": 85096285,
+  "first_name": "Stéphane",
+  "last_name": "Lambèse",
+  "birth_date": "1995-11-10",
+  "country_id": 375,
+  "club_id": 50039209,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 99,
+  "potential_ability": 110,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 17, "goals": 1, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2011, "c": 868, "p": 0 },
+    { "s": 2012, "c": 868, "p": 0 },
+    { "s": 2013, "c": 868, "p": 0 },
+    { "s": 2014, "c": 868, "p": 0 },
+    { "s": 2015, "c": 868, "p": 0 },
+    { "s": 2016, "c": 8162152, "p": 11, "g": 1 },
+    { "s": 2017, "c": 2005, "p": 0 },
+    { "s": 2018, "c": 2062, "p": 30, "g": 1 },
+    { "s": 2019, "c": 2075, "p": 21 },
+    { "s": 2020, "c": 2075, "p": 29, "g": 1 },
+    { "s": 2021, "c": 50034825, "p": 25, "g": 1 },
+    { "s": 2023, "c": 352, "p": 18, "g": 1 },
+    { "s": 2024, "c": 352, "p": 15 }
+  ]
+}

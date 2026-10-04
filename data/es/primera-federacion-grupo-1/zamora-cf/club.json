@@ -1,0 +1,57 @@
+{
+  "id": 4212243,
+  "name": "Zamora",
+  "location": {
+    "city_id": 5320
+  },
+  "finance": {
+    "balance": 257810
+  },
+  "teams": [
+    {
+      "id": 4212243,
+      "name": "Zamora",
+      "slug": "zamora-cf",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 93900017,
+      "name": "Zamora",
+      "slug": "zamora-cf-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 93900018,
+      "name": "Zamora",
+      "slug": "zamora-cf-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 3000
+}

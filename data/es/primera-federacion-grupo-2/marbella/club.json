@@ -1,0 +1,57 @@
+{
+  "id": 1684,
+  "name": "Marbella",
+  "location": {
+    "city_id": 5338
+  },
+  "finance": {
+    "balance": 121920
+  },
+  "teams": [
+    {
+      "id": 1684,
+      "name": "Marbella",
+      "slug": "marbella",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 94000021,
+      "name": "Marbella",
+      "slug": "marbella-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 94000022,
+      "name": "Marbella",
+      "slug": "marbella-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Excellent",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 1500
+}

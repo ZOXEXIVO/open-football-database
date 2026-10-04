@@ -1,0 +1,43 @@
+{
+  "id": 2000105638,
+  "first_name": "Carlos",
+  "last_name": "Mattheus",
+  "birth_date": "2001-10-25",
+  "country_id": 796,
+  "club_id": 102029,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 107,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 67059945, "p": 0 },
+    { "s": 2018, "c": 67059945, "p": 0 },
+    { "s": 2019, "c": 67059945, "p": 0 },
+    { "s": 2020, "c": 67291331, "p": 26, "g": 5 },
+    { "s": 2021, "c": 102014, "p": 2 },
+    { "s": 2022, "c": 102014, "p": 28, "g": 9 },
+    { "s": 2023, "c": 1665, "p": 34, "g": 4 },
+    { "s": 2024, "c": 2227, "p": 4, "g": 1 }
+  ]
+}

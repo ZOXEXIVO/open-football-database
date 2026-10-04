@@ -1,0 +1,34 @@
+{
+  "id": 2000212041,
+  "first_name": "Eneko",
+  "last_name": "Ortiz",
+  "birth_date": "2003-05-26",
+  "country_id": 796,
+  "club_id": 7452072,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 104,
+  "potential_ability": 122,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 1688, "p": 0 },
+    { "s": 2020, "c": 1688, "p": 0 },
+    { "s": 2021, "c": 4212156, "p": 1 },
+    { "s": 2022, "c": 4212156, "p": 31, "g": 1 },
+    { "s": 2023, "c": 1688, "p": 1 },
+    { "s": 2023, "c": 4212156, "p": 27, "g": 1 },
+    { "s": 2024, "c": 4212156, "p": 25 }
+  ]
+}

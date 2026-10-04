@@ -1,0 +1,37 @@
+{
+  "id": 2000313701,
+  "first_name": "Amara",
+  "last_name": "Touré",
+  "birth_date": "2004-12-13",
+  "country_id": 24,
+  "club_id": 874,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 71,
+  "potential_ability": 92,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 57139475, "p": 23, "g": 6 },
+    { "s": 2024, "c": 874, "p": 3 }
+  ]
+}

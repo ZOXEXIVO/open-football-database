@@ -1,0 +1,28 @@
+{
+  "id": 2000293155,
+  "first_name": "Ruben",
+  "last_name": "Rosa",
+  "birth_date": "2006-12-25",
+  "country_id": 769,
+  "club_id": 50034825,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 79,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2023, "c": 50034825, "p": 0 },
+    { "s": 2024, "c": 50034825, "p": 2 }
+  ]
+}

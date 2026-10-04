@@ -1,0 +1,57 @@
+{
+  "id": 50034825,
+  "name": "Quevilly-Rouen",
+  "location": {
+    "city_id": 5237
+  },
+  "finance": {
+    "balance": 966470
+  },
+  "teams": [
+    {
+      "id": 50034825,
+      "name": "Quevilly-Rouen",
+      "slug": "quevilly-rouen",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5000,
+        "national": 5000,
+        "world": 5000
+      }
+    },
+    {
+      "id": 93800011,
+      "name": "Quevilly-Rouen",
+      "slug": "quevilly-rouen-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 93800012,
+      "name": "Quevilly-Rouen",
+      "slug": "quevilly-rouen-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#ffe252"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2200
+}

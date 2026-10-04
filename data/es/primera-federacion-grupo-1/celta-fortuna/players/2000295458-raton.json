@@ -1,0 +1,33 @@
+{
+  "id": 2000295458,
+  "first_name": "Ratón",
+  "last_name": "",
+  "birth_date": "2007-02-05",
+  "country_id": 796,
+  "club_id": 2092,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 73,
+  "potential_ability": -7,
+  "history": [
+    { "s": 2022, "c": 1749, "p": 0 },
+    { "s": 2023, "c": 1749, "p": 0 },
+    { "s": 2024, "c": 1749, "p": 0 }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 67262086,
+  "first_name": "Víctor",
+  "last_name": "Eimil",
+  "birth_date": "1999-01-18",
+  "country_id": 796,
+  "club_id": 1723,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 112,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 1705, "p": 0 },
+    { "s": 2016, "c": 1705, "p": 0 },
+    { "s": 2017, "c": 1503191, "p": 18 },
+    { "s": 2018, "c": 2094, "p": 2 },
+    { "s": 2018, "c": 1503191, "p": 32 },
+    { "s": 2019, "c": 2094, "p": 12 },
+    { "s": 2020, "c": 67060765, "p": 21, "g": 5 },
+    { "s": 2021, "c": 67060765, "p": 31, "g": 2 },
+    { "s": 2023, "c": 1746, "p": 28 },
+    { "s": 2024, "c": 1746, "p": 27, "g": 2 }
+  ]
+}

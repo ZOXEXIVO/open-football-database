@@ -1,0 +1,39 @@
+{
+  "id": 67272993,
+  "first_name": "Pascu",
+  "last_name": "",
+  "birth_date": "2000-04-02",
+  "country_id": 796,
+  "club_id": 1727,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 120,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 1775, "p": 0 },
+    { "s": 2018, "c": 1776, "p": 29, "g": 1 },
+    { "s": 2019, "c": 1776, "p": 28, "g": 1 },
+    { "s": 2020, "c": 986, "p": 13 },
+    { "s": 2021, "c": 1001, "p": 37, "g": 1 },
+    { "s": 2022, "c": 850022, "p": 37, "g": 4 },
+    { "s": 2023, "c": 850022, "p": 3 },
+    { "s": 2024, "c": 67060765, "p": 37, "g": 8 }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 47055920,
+  "first_name": "Marius",
+  "last_name": "Adamonis",
+  "birth_date": "1997-05-13",
+  "country_id": 779,
+  "club_id": 1218,
+  "attrs": {
+    "person": {"ada": 14, "amb": 13, "loy": 12, "pre": 11, "pro": 14, "spo": 12, "tem": 15, "con": 3},
+    "player": {
+      "technical": {"hea": 10, "pas": 10, "fir": 8, "tec": 11},
+      "mental": {"otb": 6, "vis": 12, "ant": 9, "dec": 11, "pos": 12, "fla": 1, "tea": 11, "wor": 11, "ldr": 11, "bra": 11, "agg": 4, "det": 13, "cmp": 9, "cnt": 11},
+      "physical": {"acc": 11, "str": 12, "sta": 14, "pac": 11, "jum": 14, "bal": 11, "agi": 12, "nat": 14},
+      "goalkeeping": {"han": 12, "aer": 12, "cmd": 12, "com": 11, "kic": 13, "thr": 12, "one": 11, "ref": 13, "ecc": 6, "rus": 11, "pun": 12},
+      "hidden": {"dir": 9, "cns": 12, "imp": 9, "inj": 8}
+    }
+  },
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 116,
+  "value": 331000,
+  "international": {"apps": 1, "goals": 0, "u21_apps": 4, "u21_goals": 0},
+  "history": [
+    { "s": 2012, "c": 47097321, "p": 0 },
+    { "s": 2013, "c": 47097321, "p": 0 },
+    { "s": 2014, "c": 47097321, "p": 0 },
+    { "s": 2015, "c": 600, "p": 0 },
+    { "s": 2015, "c": 1300725, "p": 2 },
+    { "s": 2016, "c": 1140, "p": 0 },
+    { "s": 2016, "c": 1300725, "p": 6 },
+    { "s": 2017, "c": 1166, "p": 7 },
+    { "s": 2018, "c": 2191, "p": 23 },
+    { "s": 2019, "c": 1119, "p": 0 },
+    { "s": 2019, "c": 43157306, "p": 10 },
+    { "s": 2020, "c": 1166, "p": 3 },
+    { "s": 2021, "c": 1140, "p": 0 },
+    { "s": 2022, "c": 1140, "p": 0 },
+    { "s": 2023, "c": 1140, "p": 0 },
+    { "s": 2023, "c": 1157, "p": 32 },
+    { "s": 2024, "c": 2193, "p": 9 },
+    { "s": 2024, "c": 829172, "p": 15 },
+    { "s": 2025, "c": 829172, "p": 34 }
+  ],
+  "ids": {
+    "transfermarkt.com": "300137"
+  }
+}

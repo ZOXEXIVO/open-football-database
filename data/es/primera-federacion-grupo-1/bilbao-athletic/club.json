@@ -1,0 +1,39 @@
+{
+  "id": 1665,
+  "name": "Bilbao Athletic",
+  "parent_club": {
+    "id": 1664,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 606
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 1665,
+      "name": "Bilbao Athletic",
+      "slug": "bilbao-athletic",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e2001a",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Superb",
+    "youth": "Superb",
+    "academy": "Excellent",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 1000
+}

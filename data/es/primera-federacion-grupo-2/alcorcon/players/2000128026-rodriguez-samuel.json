@@ -1,0 +1,33 @@
+{
+  "id": 2000128026,
+  "first_name": "Samuel",
+  "last_name": "Rodríguez",
+  "birth_date": "2004-12-08",
+  "country_id": 796,
+  "club_id": 810090,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 85,
+  "potential_ability": 110,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 810090, "p": 0 },
+    { "s": 2020, "c": 810090, "p": 0 },
+    { "s": 2023, "c": 109017, "p": 7 },
+    { "s": 2023, "c": 2000015286, "p": 23, "g": 2 },
+    { "s": 2024, "c": 810090, "p": 25, "g": 1 },
+    { "s": 2024, "c": 67040819, "p": 7, "g": 1 }
+  ]
+}

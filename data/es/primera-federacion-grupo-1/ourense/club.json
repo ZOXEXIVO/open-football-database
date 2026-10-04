@@ -1,0 +1,57 @@
+{
+  "id": 4212292,
+  "name": "Ourense CF",
+  "location": {
+    "city_id": 5317
+  },
+  "finance": {
+    "balance": 24130
+  },
+  "teams": [
+    {
+      "id": 4212292,
+      "name": "Ourense CF",
+      "slug": "ourense",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3700,
+        "national": 3700,
+        "world": 3700
+      }
+    },
+    {
+      "id": 93900011,
+      "name": "Ourense CF",
+      "slug": "ourense-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1110,
+        "national": 1110,
+        "world": 1110
+      }
+    },
+    {
+      "id": 93900012,
+      "name": "Ourense CF",
+      "slug": "ourense-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 740,
+        "national": 740,
+        "world": 740
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#3862e0"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 3500
+}

@@ -1,0 +1,48 @@
+{
+  "id": 43617163,
+  "first_name": "Ange Josuè",
+  "last_name": "Chibozo",
+  "birth_date": "2003-07-01",
+  "country_id": 7,
+  "club_id": 831,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 112,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 2, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2016, "c": 1135, "p": 0 },
+    { "s": 2016, "c": 7983711, "p": 0 },
+    { "s": 2017, "c": 1139, "p": 0 },
+    { "s": 2018, "c": 1139, "p": 0 },
+    { "s": 2019, "c": 1139, "p": 0 },
+    { "s": 2020, "c": 1139, "p": 0 },
+    { "s": 2021, "c": 1139, "p": 0 },
+    { "s": 2022, "c": 831, "p": 23 },
+    { "s": 2023, "c": 2386, "p": 6 },
+    { "s": 2024, "c": 831, "p": 9 },
+    { "s": 2025, "c": 831, "p": 6, "g": 2 },
+    { "s": 2025, "c": 49034755, "p": 5, "g": 2 }
+  ]
+}

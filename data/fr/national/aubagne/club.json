@@ -1,0 +1,57 @@
+{
+  "id": 2000475359,
+  "name": "SC Aubagne Air Bel",
+  "location": {
+    "city_id": 5232
+  },
+  "finance": {
+    "balance": 8890
+  },
+  "teams": [
+    {
+      "id": 2000475359,
+      "name": "SC Aubagne Air Bel",
+      "slug": "aubagne",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 93800001,
+      "name": "SC Aubagne Air Bel",
+      "slug": "aubagne-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 93800002,
+      "name": "SC Aubagne Air Bel",
+      "slug": "aubagne-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#17285c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Fairly Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1400
+}

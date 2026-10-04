@@ -1,0 +1,35 @@
+{
+  "id": 2000052955,
+  "first_name": "Andrés",
+  "last_name": "Castrín",
+  "birth_date": "2003-05-26",
+  "country_id": 796,
+  "club_id": 4202262,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 140,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1695, "p": 0 },
+    { "s": 2019, "c": 1695, "p": 0 },
+    { "s": 2020, "c": 1695, "p": 0 },
+    { "s": 2021, "c": 67271739, "p": 20, "g": 1 },
+    { "s": 2022, "c": 1695, "p": 7 },
+    { "s": 2022, "c": 67271739, "p": 18 },
+    { "s": 2023, "c": 1695, "p": 18, "g": 1 },
+    { "s": 2024, "c": 4202262, "p": 31 }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2000400827,
+  "first_name": "Tomas",
+  "last_name": "Ribeiro Rodrigues",
+  "birth_date": "2008-08-01",
+  "country_id": 769,
+  "club_id": 874,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 59,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 874, "p": 0 }
+  ]
+}

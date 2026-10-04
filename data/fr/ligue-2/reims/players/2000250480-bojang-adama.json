@@ -1,0 +1,32 @@
+{
+  "id": 2000250480,
+  "first_name": "Adama",
+  "last_name": "Bojang",
+  "birth_date": "2004-05-28",
+  "country_id": 20,
+  "club_id": 2047,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 105,
+  "potential_ability": 138,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 1, "goals": 0, "u21_apps": 10, "u21_goals": 6},
+  "history": [
+    { "s": 2023, "c": 2047, "p": 9 },
+    { "s": 2023, "c": 48038849, "p": 8, "g": 8 },
+    { "s": 2024, "c": 1855, "p": 26, "g": 6 },
+    { "s": 2024, "c": 2047, "p": 0 }
+  ]
+}

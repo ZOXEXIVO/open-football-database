@@ -1,0 +1,30 @@
+{
+  "id": 2000418433,
+  "first_name": "Mattéo",
+  "last_name": "Perrot",
+  "birth_date": "2007-08-26",
+  "country_id": 769,
+  "club_id": 2072,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 867, "p": 0 },
+    { "s": 2025, "c": 867, "p": 0 },
+    { "s": 2025, "c": 2072, "p": 0 }
+  ]
+}

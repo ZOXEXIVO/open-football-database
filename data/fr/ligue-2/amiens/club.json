@@ -1,0 +1,57 @@
+{
+  "id": 831,
+  "name": "Amiens SC",
+  "location": {
+    "city_id": 5229
+  },
+  "finance": {
+    "balance": 6350000
+  },
+  "teams": [
+    {
+      "id": 831,
+      "name": "Amiens SC",
+      "slug": "amiens",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5700,
+        "national": 5700,
+        "world": 5700
+      }
+    },
+    {
+      "id": 92300059,
+      "name": "Amiens SC",
+      "slug": "amiens-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1710,
+        "national": 1710,
+        "world": 1710
+      }
+    },
+    {
+      "id": 92300060,
+      "name": "Amiens SC",
+      "slug": "amiens-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 7800
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000312470,
+  "first_name": "Thomas",
+  "last_name": "Maurin-Bourdil",
+  "birth_date": "2002-05-29",
+  "country_id": 769,
+  "club_id": 2000020415,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": 94,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 85048385, "p": 10 },
+    { "s": 2023, "c": 85048385, "p": 15, "g": 4 }
+  ]
+}

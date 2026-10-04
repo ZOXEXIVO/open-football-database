@@ -1,0 +1,57 @@
+{
+  "id": 1727,
+  "name": "Racing Ferrol",
+  "location": {
+    "city_id": 5313
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 1727,
+      "name": "Racing Ferrol",
+      "slug": "racing-ferrol",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5200,
+        "national": 5200,
+        "world": 5200
+      }
+    },
+    {
+      "id": 93900003,
+      "name": "Racing Ferrol",
+      "slug": "racing-ferrol-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1560,
+        "national": 1560,
+        "world": 1560
+      }
+    },
+    {
+      "id": 93900004,
+      "name": "Racing Ferrol",
+      "slug": "racing-ferrol-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1040,
+        "national": 1040,
+        "world": 1040
+      }
+    }
+  ],
+  "colors": {
+    "background": "#00462d",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 3500
+}

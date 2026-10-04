@@ -4,6 +4,6 @@ version.workspace = true
 edition.workspace = true
 
 [dependencies]
-serde_json = { version = "1.0.149", features = ["preserve_order"] }
-anyhow = "1.0"
+serde_json = { version = "1.0.151", features = ["preserve_order"] }
+anyhow = "1.0.104"
 walkdir = "2.5"

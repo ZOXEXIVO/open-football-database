@@ -1,0 +1,39 @@
+{
+  "id": 13221035,
+  "first_name": "Quadri",
+  "last_name": "Liameed",
+  "birth_date": "2002-04-08",
+  "country_id": 38,
+  "club_id": 1675,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 105,
+  "potential_ability": 122,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 67004779, "p": 5 },
+    { "s": 2022, "c": 67148466, "p": 32 },
+    { "s": 2023, "c": 67148466, "p": 32 },
+    { "s": 2024, "c": 67148466, "p": 28 }
+  ]
+}

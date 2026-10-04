@@ -1,0 +1,57 @@
+{
+  "id": 4212395,
+  "name": "CE Europa",
+  "location": {
+    "city_id": 5342
+  },
+  "finance": {
+    "balance": 535940
+  },
+  "teams": [
+    {
+      "id": 4212395,
+      "name": "CE Europa",
+      "slug": "ce-europa",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3700,
+        "national": 3700,
+        "world": 3700
+      }
+    },
+    {
+      "id": 94000029,
+      "name": "CE Europa",
+      "slug": "ce-europa-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1110,
+        "national": 1110,
+        "world": 1110
+      }
+    },
+    {
+      "id": 94000030,
+      "name": "CE Europa",
+      "slug": "ce-europa-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 740,
+        "national": 740,
+        "world": 740
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 1500
+}

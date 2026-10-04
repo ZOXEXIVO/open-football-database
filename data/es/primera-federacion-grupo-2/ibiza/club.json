@@ -1,0 +1,57 @@
+{
+  "id": 4212168,
+  "name": "Ibiza",
+  "location": {
+    "city_id": 5334
+  },
+  "finance": {
+    "balance": 1111250
+  },
+  "teams": [
+    {
+      "id": 4212168,
+      "name": "Ibiza",
+      "slug": "ibiza",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    },
+    {
+      "id": 94000013,
+      "name": "Ibiza",
+      "slug": "ibiza-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1530,
+        "national": 1530,
+        "world": 1530
+      }
+    },
+    {
+      "id": 94000014,
+      "name": "Ibiza",
+      "slug": "ibiza-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    }
+  ],
+  "colors": {
+    "background": "#53baed",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2500
+}

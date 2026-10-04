@@ -1,0 +1,50 @@
+{
+  "id": 2000117743,
+  "first_name": "Joel",
+  "last_name": "Priego",
+  "birth_date": "1999-04-01",
+  "country_id": 796,
+  "club_id": 1675,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 102,
+  "potential_ability": 110,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 7446368, "p": 35, "g": 4 },
+    { "s": 2019, "c": 67148325, "p": 18, "g": 2 },
+    { "s": 2020, "c": 67148325, "p": 26, "g": 4 },
+    { "s": 2021, "c": 109023, "p": 31, "g": 3 },
+    { "s": 2022, "c": 7446368, "p": 29, "g": 4 },
+    { "s": 2023, "c": 4212243, "p": 27, "g": 6 },
+    { "s": 2024, "c": 4212243, "p": 33, "g": 1 }
+  ]
+}

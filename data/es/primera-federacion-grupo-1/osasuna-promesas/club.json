@@ -1,0 +1,39 @@
+{
+  "id": 4200564,
+  "name": "Osasuna Promesas",
+  "parent_club": {
+    "id": 1685,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 611
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 4200564,
+      "name": "Osasuna Promesas",
+      "slug": "osasuna-promesas",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d91a2a",
+    "foreground": "#00205b"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 500
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2000022188,
+  "first_name": "Lucas",
+  "last_name": "Stassin",
+  "birth_date": "2004-11-29",
+  "country_id": 757,
+  "club_id": 828,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 123,
+  "potential_ability": 148,
+  "contract": {
+    "salary": 622180,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 9, "u21_goals": 2},
+  "history": [
+    { "s": 2020, "c": 256, "p": 0 },
+    { "s": 2021, "c": 256, "p": 0 },
+    { "s": 2022, "c": 256, "p": 2 },
+    { "s": 2022, "c": 2000173150, "p": 29, "g": 15 },
+    { "s": 2023, "c": 256, "p": 0 },
+    { "s": 2023, "c": 289, "p": 18, "g": 6 },
+    { "s": 2024, "c": 828, "p": 28, "g": 12 }
+  ]
+}

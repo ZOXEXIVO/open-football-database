@@ -1,0 +1,57 @@
+{
+  "id": 1971,
+  "name": "ESTAC Troyes",
+  "location": {
+    "city_id": 5230
+  },
+  "finance": {
+    "balance": 12700000
+  },
+  "teams": [
+    {
+      "id": 1971,
+      "name": "ESTAC Troyes",
+      "slug": "troyes",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5600,
+        "national": 5600,
+        "world": 5600
+      }
+    },
+    {
+      "id": 92300061,
+      "name": "ESTAC Troyes",
+      "slug": "troyes-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1680,
+        "national": 1680,
+        "world": 1680
+      }
+    },
+    {
+      "id": 92300062,
+      "name": "ESTAC Troyes",
+      "slug": "troyes-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1120,
+        "national": 1120,
+        "world": 1120
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Great",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 9000
+}

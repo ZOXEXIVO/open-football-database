@@ -1,0 +1,31 @@
+{
+  "id": 2000211944,
+  "first_name": "Guillermo",
+  "last_name": "Súnico",
+  "birth_date": "2004-01-09",
+  "country_id": 796,
+  "club_id": 1737,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 114,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1736, "p": 0 },
+    { "s": 2022, "c": 1737, "p": 0 },
+    { "s": 2023, "c": 1738, "p": 9 },
+    { "s": 2024, "c": 1738, "p": 0 }
+  ]
+}

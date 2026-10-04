@@ -1,0 +1,32 @@
+{
+  "id": 2000421596,
+  "first_name": "Nassim",
+  "last_name": "Akaba",
+  "birth_date": "2008-01-26",
+  "country_id": 769,
+  "club_id": 874,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 53,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 874, "p": 0 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1675,
+  "name": "Sabadell",
+  "location": {
+    "city_id": 5335
+  },
+  "finance": {
+    "balance": 556260
+  },
+  "teams": [
+    {
+      "id": 1675,
+      "name": "Sabadell",
+      "slug": "sabadell",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 94000015,
+      "name": "Sabadell",
+      "slug": "sabadell-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 94000016,
+      "name": "Sabadell",
+      "slug": "sabadell-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c72de",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Great",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 4000
+}

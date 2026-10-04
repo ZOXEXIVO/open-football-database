@@ -1,0 +1,57 @@
+{
+  "id": 67105977,
+  "name": "Tarazona",
+  "location": {
+    "city_id": 5341
+  },
+  "finance": {
+    "balance": 49530
+  },
+  "teams": [
+    {
+      "id": 67105977,
+      "name": "Tarazona",
+      "slug": "tarazona",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 94000027,
+      "name": "Tarazona",
+      "slug": "tarazona-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 94000028,
+      "name": "Tarazona",
+      "slug": "tarazona-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1500
+}

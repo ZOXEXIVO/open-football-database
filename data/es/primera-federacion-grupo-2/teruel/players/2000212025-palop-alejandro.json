@@ -1,0 +1,32 @@
+{
+  "id": 2000212025,
+  "first_name": "Alejandro",
+  "last_name": "Palop",
+  "birth_date": "2003-11-11",
+  "country_id": 796,
+  "club_id": 814935,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 95,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2000034640, "p": 0 },
+    { "s": 2022, "c": 4200483, "p": 0 },
+    { "s": 2023, "c": 67008486, "p": 26 },
+    { "s": 2024, "c": 2095, "p": 0 },
+    { "s": 2024, "c": 2000034640, "p": 3 }
+  ]
+}

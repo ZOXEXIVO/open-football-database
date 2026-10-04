@@ -1,0 +1,33 @@
+{
+  "id": 2000333758,
+  "first_name": "Drake",
+  "last_name": "Saravanan",
+  "birth_date": "2007-11-21",
+  "country_id": 359,
+  "club_id": 814590,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 71,
+  "potential_ability": -6,
+  "international": {"apps": 2, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2024, "c": 2000235756, "p": 5 },
+    { "s": 2025, "c": 2000235756, "p": 11, "g": 1 }
+  ]
+}

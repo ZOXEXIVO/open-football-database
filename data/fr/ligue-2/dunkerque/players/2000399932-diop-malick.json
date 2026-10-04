@@ -1,0 +1,28 @@
+{
+  "id": 2000399932,
+  "first_name": "Malick",
+  "last_name": "Diop",
+  "birth_date": "2006-02-05",
+  "country_id": 41,
+  "club_id": 2072,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2072, "p": 0 }
+  ]
+}

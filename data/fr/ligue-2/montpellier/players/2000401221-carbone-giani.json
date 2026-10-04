@@ -1,0 +1,29 @@
+{
+  "id": 2000401221,
+  "first_name": "Giani",
+  "last_name": "Carbone",
+  "birth_date": "2007-06-22",
+  "country_id": 769,
+  "club_id": 859,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 859, "p": 0 },
+    { "s": 2024, "c": 48038843, "p": 9, "g": 1 }
+  ]
+}

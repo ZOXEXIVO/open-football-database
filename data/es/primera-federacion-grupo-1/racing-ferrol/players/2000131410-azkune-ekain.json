@@ -1,0 +1,44 @@
+{
+  "id": 2000131410,
+  "first_name": "Ekain",
+  "last_name": "Azkune",
+  "birth_date": "2001-01-26",
+  "country_id": 796,
+  "club_id": 1727,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 127,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 67035577, "p": 0 },
+    { "s": 2020, "c": 7452067, "p": 26, "g": 1 },
+    { "s": 2021, "c": 1503260, "p": 15, "g": 2 },
+    { "s": 2021, "c": 4212416, "p": 15, "g": 2 },
+    { "s": 2022, "c": 1743, "p": 22, "g": 3 },
+    { "s": 2022, "c": 1503260, "p": 11, "g": 3 },
+    { "s": 2023, "c": 1743, "p": 29, "g": 12 },
+    { "s": 2024, "c": 1665, "p": 31, "g": 3 },
+    { "s": 2025, "c": 159, "p": 3 }
+  ]
+}

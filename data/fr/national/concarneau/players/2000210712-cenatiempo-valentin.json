@@ -1,0 +1,26 @@
+{
+  "id": 2000210712,
+  "first_name": "Valentin",
+  "last_name": "Cenatiempo",
+  "birth_date": "2005-06-25",
+  "country_id": 769,
+  "club_id": 3501956,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 828, "p": 0 },
+    { "s": 2024, "c": 876, "p": 0 },
+    { "s": 2024, "c": 48038834, "p": 9 }
+  ]
+}

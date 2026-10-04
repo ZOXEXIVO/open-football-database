@@ -1,0 +1,31 @@
+{
+  "id": 2000279636,
+  "first_name": "Matisse",
+  "last_name": "Morville",
+  "birth_date": "2005-09-07",
+  "country_id": 769,
+  "club_id": 2075,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 63,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 824, "p": 0 },
+    { "s": 2023, "c": 2047, "p": 0 },
+    { "s": 2024, "c": 2047, "p": 0 },
+    { "s": 2024, "c": 48038849, "p": 2 }
+  ]
+}

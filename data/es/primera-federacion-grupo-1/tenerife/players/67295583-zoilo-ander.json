@@ -1,0 +1,40 @@
+{
+  "id": 67295583,
+  "first_name": "Ander",
+  "last_name": "Zoilo",
+  "birth_date": "2000-02-14",
+  "country_id": 796,
+  "club_id": 1680,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 103,
+  "potential_ability": 118,
+  "contract": {
+    "salary": 64584,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 1503260, "p": 23 },
+    { "s": 2020, "c": 1503260, "p": 25, "g": 1 },
+    { "s": 2021, "c": 1743, "p": 2 },
+    { "s": 2021, "c": 4200572, "p": 11 },
+    { "s": 2022, "c": 1743, "p": 22 },
+    { "s": 2023, "c": 1743, "p": 26 },
+    { "s": 2024, "c": 1695, "p": 36, "g": 2 },
+    { "s": 2025, "c": 1680, "p": 9 }
+  ]
+}

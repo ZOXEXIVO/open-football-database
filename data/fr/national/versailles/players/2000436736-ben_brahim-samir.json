@@ -1,0 +1,42 @@
+{
+  "id": 2000436736,
+  "first_name": "Samir",
+  "last_name": "Ben Brahim",
+  "birth_date": "2002-12-28",
+  "country_id": 769,
+  "club_id": 2083,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 97,
+  "potential_ability": 108,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 1965, "p": 22, "g": 2 },
+    { "s": 2024, "c": 854, "p": 14, "g": 3 },
+    { "s": 2024, "c": 2083, "p": 15, "g": 3 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2083,
+  "name": "FC Versailles",
+  "location": {
+    "city_id": 5239
+  },
+  "finance": {
+    "balance": 26670
+  },
+  "teams": [
+    {
+      "id": 2083,
+      "name": "FC Versailles",
+      "slug": "versailles",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    },
+    {
+      "id": 93800015,
+      "name": "FC Versailles",
+      "slug": "versailles-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
+      }
+    },
+    {
+      "id": 93800016,
+      "name": "FC Versailles",
+      "slug": "versailles-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 880,
+        "national": 880,
+        "world": 880
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3862e0",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1900
+}

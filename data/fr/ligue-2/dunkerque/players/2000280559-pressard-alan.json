@@ -1,0 +1,33 @@
+{
+  "id": 2000280559,
+  "first_name": "Alan",
+  "last_name": "Pressard",
+  "birth_date": "2007-01-20",
+  "country_id": 769,
+  "club_id": 2072,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 846, "p": 0 },
+    { "s": 2024, "c": 2072, "p": 0 }
+  ]
+}

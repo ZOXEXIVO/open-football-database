@@ -1,0 +1,40 @@
+{
+  "id": 50054303,
+  "first_name": "Samba",
+  "last_name": "Dembelé",
+  "birth_date": "1996-06-09",
+  "country_id": 769,
+  "club_id": 855,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 92,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 2086, "p": 8 },
+    { "s": 2016, "c": 2086, "p": 23 },
+    { "s": 2017, "c": 2086, "p": 27 },
+    { "s": 2019, "c": 8162172, "p": 6 },
+    { "s": 2020, "c": 8162172, "p": 9, "g": 2 },
+    { "s": 2021, "c": 2041, "p": 24, "g": 6 },
+    { "s": 2022, "c": 2041, "p": 28, "g": 1 },
+    { "s": 2023, "c": 85066817, "p": 21, "g": 2 },
+    { "s": 2024, "c": 2000096987, "p": 27, "g": 1 }
+  ]
+}

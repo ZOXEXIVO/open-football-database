@@ -1,0 +1,48 @@
+{
+  "id": 67293607,
+  "first_name": "Guillem",
+  "last_name": "",
+  "birth_date": "1998-02-13",
+  "country_id": 796,
+  "club_id": 4212395,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 115,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 814089, "p": 0 },
+    { "s": 2017, "c": 4212387, "p": 13, "g": 1 },
+    { "s": 2018, "c": 4212387, "p": 38, "g": 5 },
+    { "s": 2019, "c": 1737, "p": 16 },
+    { "s": 2020, "c": 1737, "p": 8 },
+    { "s": 2021, "c": 986, "p": 2 },
+    { "s": 2022, "c": 986, "p": 22 },
+    { "s": 2023, "c": 4212228, "p": 6 },
+    { "s": 2024, "c": 4212395, "p": 16 }
+  ]
+}

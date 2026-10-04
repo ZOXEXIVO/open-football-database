@@ -1,0 +1,48 @@
+{
+  "id": 49043987,
+  "first_name": "Brian",
+  "last_name": "Bayeye",
+  "birth_date": "2000-06-30",
+  "country_id": 53,
+  "club_id": 2085,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 120,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 3, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2016, "c": 85077693, "p": 0 },
+    { "s": 2017, "c": 1971, "p": 0 },
+    { "s": 2018, "c": 1971, "p": 0 },
+    { "s": 2019, "c": 1119, "p": 2 },
+    { "s": 2020, "c": 1115, "p": 21 },
+    { "s": 2020, "c": 1119, "p": 1 },
+    { "s": 2021, "c": 1119, "p": 24 },
+    { "s": 2022, "c": 1174, "p": 2 },
+    { "s": 2023, "c": 1105, "p": 19 },
+    { "s": 2023, "c": 1174, "p": 0 },
+    { "s": 2024, "c": 1174, "p": 0 },
+    { "s": 2024, "c": 1954, "p": 7 }
+  ]
+}

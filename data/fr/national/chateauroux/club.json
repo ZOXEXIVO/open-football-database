@@ -1,0 +1,57 @@
+{
+  "id": 855,
+  "name": "LB Chateauroux",
+  "location": {
+    "city_id": 5233
+  },
+  "finance": {
+    "balance": 110490
+  },
+  "teams": [
+    {
+      "id": 855,
+      "name": "LB Chateauroux",
+      "slug": "chateauroux",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 93800003,
+      "name": "LB Chateauroux",
+      "slug": "chateauroux-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 93800004,
+      "name": "LB Chateauroux",
+      "slug": "chateauroux-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Great",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 4000
+}

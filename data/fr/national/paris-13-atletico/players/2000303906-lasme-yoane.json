@@ -1,0 +1,35 @@
+{
+  "id": 2000303906,
+  "first_name": "Yoane",
+  "last_name": "Lasme",
+  "birth_date": "1999-08-16",
+  "country_id": 24,
+  "club_id": 2000020415,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 110,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 2000023489, "p": 19, "g": 5 },
+    { "s": 2023, "c": 1230, "p": 11, "g": 3 },
+    { "s": 2023, "c": 2000020415, "p": 10, "g": 3 },
+    { "s": 2024, "c": 2000035141, "p": 30, "g": 7 }
+  ]
+}

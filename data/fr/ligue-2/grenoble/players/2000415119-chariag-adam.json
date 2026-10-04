@@ -1,0 +1,35 @@
+{
+  "id": 2000415119,
+  "first_name": "Adam",
+  "last_name": "Chariag",
+  "birth_date": "2004-06-25",
+  "country_id": 769,
+  "club_id": 852,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 67,
+  "potential_ability": 92,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2054, "p": 0 },
+    { "s": 2022, "c": 1980, "p": 0 },
+    { "s": 2023, "c": 1980, "p": 0 },
+    { "s": 2024, "c": 852, "p": 0 }
+  ]
+}

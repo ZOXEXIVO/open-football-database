@@ -1,0 +1,25 @@
+{
+  "id": 2000314027,
+  "first_name": "Emile",
+  "last_name": "Vignaud",
+  "birth_date": "2006-03-11",
+  "country_id": 769,
+  "club_id": 2048,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 2048, "p": 0 },
+    { "s": 2024, "c": 2048, "p": 0 }
+  ]
+}

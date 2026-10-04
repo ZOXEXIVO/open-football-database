@@ -1,0 +1,35 @@
+{
+  "id": 2000300676,
+  "first_name": "David",
+  "last_name": "Carballo",
+  "birth_date": "2006-03-03",
+  "country_id": 796,
+  "club_id": 1727,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1727, "p": 0 },
+    { "s": 2023, "c": 1727, "p": 0 },
+    { "s": 2024, "c": 1727, "p": 3 },
+    { "s": 2025, "c": 1727, "p": 1 }
+  ]
+}

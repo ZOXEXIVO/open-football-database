@@ -1,0 +1,44 @@
+{
+  "id": 2000396085,
+  "first_name": "Jorge",
+  "last_name": "Rajado",
+  "birth_date": "2006-05-16",
+  "country_id": 796,
+  "club_id": 1666,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1666, "p": 1 }
+  ]
+}

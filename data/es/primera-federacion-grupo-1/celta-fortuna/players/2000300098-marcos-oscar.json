@@ -1,0 +1,32 @@
+{
+  "id": 2000300098,
+  "first_name": "Óscar",
+  "last_name": "Marcos",
+  "birth_date": "2006-02-19",
+  "country_id": 796,
+  "club_id": 2092,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": -75,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2092, "p": 29, "g": 5 }
+  ]
+}

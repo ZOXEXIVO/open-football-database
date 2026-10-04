@@ -1,0 +1,32 @@
+{
+  "id": 2000291148,
+  "first_name": "Nicolas",
+  "last_name": "Florival",
+  "birth_date": "2006-11-10",
+  "country_id": 769,
+  "club_id": 840,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1991, "p": 0 },
+    { "s": 2023, "c": 840, "p": 0 },
+    { "s": 2023, "c": 48038837, "p": 17, "g": 3 },
+    { "s": 2024, "c": 840, "p": 0 },
+    { "s": 2024, "c": 48038837, "p": 7, "g": 1 }
+  ]
+}

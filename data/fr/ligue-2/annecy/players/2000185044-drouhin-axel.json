@@ -1,0 +1,39 @@
+{
+  "id": 2000185044,
+  "first_name": "Axel",
+  "last_name": "Drouhin",
+  "birth_date": "2000-03-18",
+  "country_id": 769,
+  "club_id": 85052735,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 115,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 842, "p": 16, "g": 3 },
+    { "s": 2020, "c": 842, "p": 5, "g": 1 },
+    { "s": 2021, "c": 842, "p": 19, "g": 1 },
+    { "s": 2022, "c": 839, "p": 0 },
+    { "s": 2022, "c": 48038862, "p": 19, "g": 1 },
+    { "s": 2023, "c": 839, "p": 16 },
+    { "s": 2023, "c": 48038862, "p": 9 },
+    { "s": 2024, "c": 85052735, "p": 27, "g": 2 }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2000402614,
+  "first_name": "Joseph",
+  "last_name": "Kalulu",
+  "birth_date": "2004-11-29",
+  "country_id": 769,
+  "club_id": 2090,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 108,
+  "potential_ability": 133,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2054, "p": 0 },
+    { "s": 2022, "c": 2054, "p": 2, "g": 1 },
+    { "s": 2023, "c": 2054, "p": 13, "g": 1 },
+    { "s": 2024, "c": 2090, "p": 24 },
+    { "s": 2024, "c": 49059301, "p": 11 }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000015232,
+  "first_name": "Juan Pablo",
+  "last_name": "Martínez",
+  "birth_date": "2003-05-10",
+  "country_id": 1653,
+  "club_id": 67105977,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": 108,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 2000015243, "p": 0 },
+    { "s": 2020, "c": 8830831, "p": 0 },
+    { "s": 2021, "c": 8830831, "p": 0 },
+    { "s": 2022, "c": 8830831, "p": 0 },
+    { "s": 2023, "c": 120936, "p": 0 }
+  ]
+}

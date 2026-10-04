@@ -1,0 +1,25 @@
+{
+  "id": 2000502651,
+  "first_name": "Mansour",
+  "last_name": "Amadou",
+  "birth_date": "2007-06-14",
+  "country_id": 769,
+  "club_id": 855,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 856, "p": 0 },
+    { "s": 2025, "c": 856, "p": 0 }
+  ]
+}

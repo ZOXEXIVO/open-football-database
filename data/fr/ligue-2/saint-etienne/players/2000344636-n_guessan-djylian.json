@@ -1,0 +1,30 @@
+{
+  "id": 2000344636,
+  "first_name": "Djylian",
+  "last_name": "N'Guessan",
+  "birth_date": "2008-08-30",
+  "country_id": 769,
+  "club_id": 828,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -85,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 828, "p": 0 },
+    { "s": 2024, "c": 828, "p": 8 },
+    { "s": 2024, "c": 48038852, "p": 8, "g": 2 }
+  ]
+}

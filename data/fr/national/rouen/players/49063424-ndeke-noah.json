@@ -1,0 +1,50 @@
+{
+  "id": 49063424,
+  "first_name": "Noah",
+  "last_name": "Ndeke",
+  "birth_date": "2003-05-23",
+  "country_id": 53,
+  "club_id": 874,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 82,
+  "potential_ability": 111,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 875, "p": 0 },
+    { "s": 2020, "c": 875, "p": 0 },
+    { "s": 2021, "c": 875, "p": 0 },
+    { "s": 2021, "c": 48038833, "p": 14 },
+    { "s": 2022, "c": 875, "p": 0 },
+    { "s": 2022, "c": 48038833, "p": 20, "g": 1 },
+    { "s": 2023, "c": 875, "p": 0 },
+    { "s": 2023, "c": 48038833, "p": 18, "g": 3 },
+    { "s": 2024, "c": 874, "p": 1 },
+    { "s": 2024, "c": 876, "p": 0 },
+    { "s": 2024, "c": 48038834, "p": 11, "g": 3 }
+  ]
+}

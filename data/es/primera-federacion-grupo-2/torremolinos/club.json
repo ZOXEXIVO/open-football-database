@@ -1,0 +1,57 @@
+{
+  "id": 814623,
+  "name": "Juventud Torremolinos",
+  "location": {
+    "city_id": 5340
+  },
+  "finance": {
+    "balance": 772160
+  },
+  "teams": [
+    {
+      "id": 814623,
+      "name": "Juventud Torremolinos",
+      "slug": "torremolinos",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3200,
+        "national": 3200,
+        "world": 3200
+      }
+    },
+    {
+      "id": 94000025,
+      "name": "Juventud Torremolinos",
+      "slug": "torremolinos-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    },
+    {
+      "id": 94000026,
+      "name": "Juventud Torremolinos",
+      "slug": "torremolinos-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 640,
+        "national": 640,
+        "world": 640
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3cb571",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Great",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 1200
+}

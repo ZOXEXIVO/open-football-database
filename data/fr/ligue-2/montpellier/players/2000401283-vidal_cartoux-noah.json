@@ -1,0 +1,25 @@
+{
+  "id": 2000401283,
+  "first_name": "Noah",
+  "last_name": "Vidal Cartoux",
+  "birth_date": "2008-03-27",
+  "country_id": 769,
+  "club_id": 859,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 859, "p": 0 },
+    { "s": 2024, "c": 48038843, "p": 8 }
+  ]
+}

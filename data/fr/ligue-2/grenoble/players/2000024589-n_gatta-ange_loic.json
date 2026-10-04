@@ -1,0 +1,40 @@
+{
+  "id": 2000024589,
+  "first_name": "Ange-Loïc",
+  "last_name": "N'Gatta",
+  "birth_date": "2003-12-11",
+  "country_id": 769,
+  "club_id": 852,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 121,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 2075, "p": 0 },
+    { "s": 2021, "c": 2075, "p": 0 },
+    { "s": 2021, "c": 49034757, "p": 10 },
+    { "s": 2022, "c": 824, "p": 0 },
+    { "s": 2022, "c": 48038856, "p": 22 },
+    { "s": 2023, "c": 824, "p": 4 },
+    { "s": 2023, "c": 48038856, "p": 2 },
+    { "s": 2024, "c": 824, "p": 2 },
+    { "s": 2024, "c": 48038856, "p": 13, "g": 1 }
+  ]
+}

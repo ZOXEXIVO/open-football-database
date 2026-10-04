@@ -1,0 +1,28 @@
+{
+  "id": 49060917,
+  "first_name": "Romain",
+  "last_name": "Sallard",
+  "birth_date": "2003-04-29",
+  "country_id": 769,
+  "club_id": 2083,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 106,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 868, "p": 0 },
+    { "s": 2020, "c": 868, "p": 0 },
+    { "s": 2022, "c": 2083, "p": 0 },
+    { "s": 2023, "c": 2083, "p": 0 },
+    { "s": 2024, "c": 2083, "p": 0 }
+  ]
+}

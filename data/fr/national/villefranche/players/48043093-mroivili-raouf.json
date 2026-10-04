@@ -1,0 +1,43 @@
+{
+  "id": 48043093,
+  "first_name": "Raouf",
+  "last_name": "Mroivili",
+  "birth_date": "1999-01-14",
+  "country_id": 919586,
+  "club_id": 2085,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 93,
+  "potential_ability": 102,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 1, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2015, "c": 866, "p": 0 },
+    { "s": 2016, "c": 866, "p": 0 },
+    { "s": 2017, "c": 844, "p": 0 },
+    { "s": 2018, "c": 844, "p": 0 },
+    { "s": 2019, "c": 216, "p": 17, "g": 4 },
+    { "s": 2019, "c": 844, "p": 0 },
+    { "s": 2021, "c": 840, "p": 0 },
+    { "s": 2022, "c": 2000096987, "p": 17, "g": 2 },
+    { "s": 2023, "c": 914551, "p": 14, "g": 3 },
+    { "s": 2024, "c": 2085, "p": 15, "g": 4 },
+    { "s": 2024, "c": 914551, "p": 14, "g": 1 }
+  ]
+}

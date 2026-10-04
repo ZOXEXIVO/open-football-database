@@ -1,0 +1,31 @@
+{
+  "id": 2000419196,
+  "first_name": "Grégoire",
+  "last_name": "Diatta",
+  "birth_date": "2005-01-29",
+  "country_id": 41,
+  "club_id": 831,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": 80,
+  "history": [
+    { "s": 2024, "c": 52077895, "p": 0 }
+  ]
+}

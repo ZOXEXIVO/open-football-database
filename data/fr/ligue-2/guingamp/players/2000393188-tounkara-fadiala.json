@@ -1,0 +1,28 @@
+{
+  "id": 2000393188,
+  "first_name": "Fadiala",
+  "last_name": "Tounkara",
+  "birth_date": "2008-06-27",
+  "country_id": 769,
+  "club_id": 840,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 840, "p": 0 }
+  ]
+}

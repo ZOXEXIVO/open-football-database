@@ -1,0 +1,57 @@
+{
+  "id": 2000020415,
+  "name": "Paris 13 Atletico",
+  "location": {
+    "city_id": 5235
+  },
+  "finance": {
+    "balance": 8890
+  },
+  "teams": [
+    {
+      "id": 2000020415,
+      "name": "Paris 13 Atletico",
+      "slug": "paris-13-atletico",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 93800007,
+      "name": "Paris 13 Atletico",
+      "slug": "paris-13-atletico-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 93800008,
+      "name": "Paris 13 Atletico",
+      "slug": "paris-13-atletico-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#63e078"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 900
+}

@@ -1,0 +1,57 @@
+{
+  "id": 814590,
+  "name": "Antequera",
+  "location": {
+    "city_id": 5339
+  },
+  "finance": {
+    "balance": 142240
+  },
+  "teams": [
+    {
+      "id": 814590,
+      "name": "Antequera",
+      "slug": "antequera",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 94000023,
+      "name": "Antequera",
+      "slug": "antequera-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 94000024,
+      "name": "Antequera",
+      "slug": "antequera-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#3cb571"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2000
+}

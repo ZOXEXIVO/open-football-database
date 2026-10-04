@@ -1,0 +1,57 @@
+{
+  "id": 67243415,
+  "name": "Unionistas",
+  "location": {
+    "city_id": 5319
+  },
+  "finance": {
+    "balance": 238760
+  },
+  "teams": [
+    {
+      "id": 67243415,
+      "name": "Unionistas",
+      "slug": "unionistas",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 93900015,
+      "name": "Unionistas",
+      "slug": "unionistas-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 93900016,
+      "name": "Unionistas",
+      "slug": "unionistas-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 3000
+}

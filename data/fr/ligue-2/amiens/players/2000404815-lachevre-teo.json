@@ -1,0 +1,28 @@
+{
+  "id": 2000404815,
+  "first_name": "Téo",
+  "last_name": "Lachevre",
+  "birth_date": "2007-04-09",
+  "country_id": 769,
+  "club_id": 831,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 71,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2023, "c": 826, "p": 0 },
+    { "s": 2024, "c": 826, "p": 0 }
+  ]
+}

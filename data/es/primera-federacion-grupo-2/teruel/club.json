@@ -1,0 +1,57 @@
+{
+  "id": 814935,
+  "name": "Teruel",
+  "location": {
+    "city_id": 5343
+  },
+  "finance": {
+    "balance": 80010
+  },
+  "teams": [
+    {
+      "id": 814935,
+      "name": "Teruel",
+      "slug": "teruel",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 94000031,
+      "name": "Teruel",
+      "slug": "teruel-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 94000032,
+      "name": "Teruel",
+      "slug": "teruel-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2000
+}

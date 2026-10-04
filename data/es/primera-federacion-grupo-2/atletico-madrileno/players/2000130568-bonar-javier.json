@@ -1,0 +1,36 @@
+{
+  "id": 2000130568,
+  "first_name": "Javier",
+  "last_name": "Boñar",
+  "birth_date": "2005-06-03",
+  "country_id": 796,
+  "club_id": 1666,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": -8,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 1687, "p": 0 },
+    { "s": 2021, "c": 1687, "p": 0 },
+    { "s": 2022, "c": 1666, "p": 11 },
+    { "s": 2023, "c": 1666, "p": 28 },
+    { "s": 2024, "c": 1666, "p": 33, "g": 4 }
+  ]
+}

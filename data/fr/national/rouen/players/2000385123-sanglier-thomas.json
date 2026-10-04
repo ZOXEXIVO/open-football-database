@@ -1,0 +1,28 @@
+{
+  "id": 2000385123,
+  "first_name": "Thomas",
+  "last_name": "Sanglier",
+  "birth_date": "2004-06-28",
+  "country_id": 769,
+  "club_id": 874,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": 104,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 85067516, "p": 19 }
+  ]
+}

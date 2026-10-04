@@ -1,0 +1,56 @@
+{
+  "id": 2000058172,
+  "first_name": "Ander",
+  "last_name": "Martín",
+  "birth_date": "2000-11-16",
+  "country_id": 796,
+  "club_id": 4203003,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 106,
+  "potential_ability": 121,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 1743, "p": 1 },
+    { "s": 2019, "c": 1503260, "p": 23, "g": 4 },
+    { "s": 2020, "c": 1743, "p": 18, "g": 2 },
+    { "s": 2021, "c": 1742, "p": 5 },
+    { "s": 2021, "c": 1743, "p": 30, "g": 3 },
+    { "s": 2022, "c": 1742, "p": 3 },
+    { "s": 2022, "c": 1743, "p": 21, "g": 2 },
+    { "s": 2023, "c": 4200566, "p": 36, "g": 2 },
+    { "s": 2024, "c": 4212197, "p": 24 }
+  ]
+}

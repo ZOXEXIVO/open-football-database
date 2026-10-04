@@ -1,0 +1,34 @@
+{
+  "id": 2000281557,
+  "first_name": "Allan",
+  "last_name": "Masuke",
+  "birth_date": "2005-04-27",
+  "country_id": 769,
+  "club_id": 855,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 855, "p": 0 },
+    { "s": 2022, "c": 855, "p": 0 },
+    { "s": 2022, "c": 49034758, "p": 5 },
+    { "s": 2023, "c": 855, "p": 0 },
+    { "s": 2023, "c": 49034758, "p": 24, "g": 4 },
+    { "s": 2024, "c": 2009, "p": 0 },
+    { "s": 2024, "c": 48038873, "p": 6 }
+  ]
+}

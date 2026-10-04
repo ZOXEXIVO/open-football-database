@@ -1,0 +1,49 @@
+{
+  "id": 2000124453,
+  "first_name": "Jeremy",
+  "last_name": "Jorge",
+  "birth_date": "2003-02-09",
+  "country_id": 796,
+  "club_id": 1680,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 117,
+  "contract": {
+    "salary": 51688,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1772, "p": 0 },
+    { "s": 2019, "c": 1736, "p": 0 },
+    { "s": 2020, "c": 1690, "p": 0 },
+    { "s": 2021, "c": 4212216, "p": 10, "g": 1 },
+    { "s": 2022, "c": 2000205600, "p": 32, "g": 2 },
+    { "s": 2023, "c": 1710, "p": 1 },
+    { "s": 2023, "c": 1503308, "p": 13, "g": 2 },
+    { "s": 2023, "c": 4212406, "p": 7 },
+    { "s": 2024, "c": 1503308, "p": 22, "g": 2 }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2000469965,
+  "first_name": "Marten-Chris",
+  "last_name": "Paalberg",
+  "birth_date": "2008-10-08",
+  "country_id": 766,
+  "club_id": 828,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 80
+  },
+  "current_ability": 92,
+  "potential_ability": -75,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 47070349, "p": 3 },
+    { "s": 2024, "c": 2000083132, "p": 19, "g": 22 },
+    { "s": 2025, "c": 47070349, "p": 25, "g": 15 }
+  ]
+}

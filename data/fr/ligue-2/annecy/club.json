@@ -1,0 +1,57 @@
+{
+  "id": 85052735,
+  "name": "FC Annecy",
+  "location": {
+    "city_id": 5227
+  },
+  "finance": {
+    "balance": 1146810
+  },
+  "teams": [
+    {
+      "id": 85052735,
+      "name": "FC Annecy",
+      "slug": "annecy",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 92300055,
+      "name": "FC Annecy",
+      "slug": "annecy-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 92300056,
+      "name": "FC Annecy",
+      "slug": "annecy-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 6200
+}

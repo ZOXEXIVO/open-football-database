@@ -1,0 +1,39 @@
+{
+  "id": 1666,
+  "name": "Atlético Madrileño",
+  "parent_club": {
+    "id": 1687,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 602
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 1666,
+      "name": "Atlético Madrileño",
+      "slug": "atletico-madrileno",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5300,
+        "national": 5300,
+        "world": 5300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cb3524",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Superb",
+    "academy": "Good",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 600
+}

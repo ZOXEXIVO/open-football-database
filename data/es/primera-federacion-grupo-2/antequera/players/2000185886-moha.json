@@ -1,0 +1,39 @@
+{
+  "id": 2000185886,
+  "first_name": "Moha",
+  "last_name": "",
+  "birth_date": "2000-01-01",
+  "country_id": 41,
+  "club_id": 814590,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 106,
+  "potential_ability": 107,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 85125733, "p": 0 },
+    { "s": 2019, "c": 67224661, "p": 0 },
+    { "s": 2020, "c": 67224661, "p": 0 },
+    { "s": 2022, "c": 4212261, "p": 13, "g": 1 },
+    { "s": 2023, "c": 67017682, "p": 33, "g": 8 },
+    { "s": 2024, "c": 109027, "p": 14, "g": 3 },
+    { "s": 2024, "c": 814590, "p": 0 },
+    { "s": 2024, "c": 67017682, "p": 16, "g": 2 }
+  ]
+}

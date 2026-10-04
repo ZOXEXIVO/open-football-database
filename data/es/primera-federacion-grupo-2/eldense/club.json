@@ -1,0 +1,57 @@
+{
+  "id": 4212207,
+  "name": "Eldense",
+  "location": {
+    "city_id": 5333
+  },
+  "finance": {
+    "balance": 1164590
+  },
+  "teams": [
+    {
+      "id": 4212207,
+      "name": "Eldense",
+      "slug": "eldense",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5000,
+        "national": 5000,
+        "world": 5000
+      }
+    },
+    {
+      "id": 94000011,
+      "name": "Eldense",
+      "slug": "eldense-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 94000012,
+      "name": "Eldense",
+      "slug": "eldense-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#004b9c",
+    "foreground": "#ff0000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2500
+}

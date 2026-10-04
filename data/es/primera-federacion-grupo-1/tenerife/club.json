@@ -1,0 +1,57 @@
+{
+  "id": 1680,
+  "name": "Tenerife",
+  "location": {
+    "city_id": 5312
+  },
+  "finance": {
+    "balance": 6350000
+  },
+  "teams": [
+    {
+      "id": 1680,
+      "name": "Tenerife",
+      "slug": "tenerife",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5800,
+        "national": 5800,
+        "world": 5800
+      }
+    },
+    {
+      "id": 93900001,
+      "name": "Tenerife",
+      "slug": "tenerife-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1740,
+        "national": 1740,
+        "world": 1740
+      }
+    },
+    {
+      "id": 93900002,
+      "name": "Tenerife",
+      "slug": "tenerife-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1160,
+        "national": 1160,
+        "world": 1160
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#293fad"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Excellent",
+    "academy": "Good",
+    "recruitment": "Average"
+  },
+  "average_attendance": 9500
+}

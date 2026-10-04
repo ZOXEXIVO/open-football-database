@@ -1,0 +1,30 @@
+{
+  "id": 2000235373,
+  "first_name": "Noa",
+  "last_name": "Donat",
+  "birth_date": "2003-09-29",
+  "country_id": 769,
+  "club_id": 2000020415,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 93,
+  "potential_ability": 116,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 50051200, "p": 0 },
+    { "s": 2021, "c": 50051200, "p": 0 },
+    { "s": 2022, "c": 2055, "p": 28, "g": 2 },
+    { "s": 2023, "c": 2005, "p": 0 },
+    { "s": 2023, "c": 48038839, "p": 20, "g": 2 },
+    { "s": 2024, "c": 876, "p": 0 },
+    { "s": 2024, "c": 48038834, "p": 19, "g": 1 }
+  ]
+}

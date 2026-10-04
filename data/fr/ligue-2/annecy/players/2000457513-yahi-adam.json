@@ -1,0 +1,32 @@
+{
+  "id": 2000457513,
+  "first_name": "Adam",
+  "last_name": "Yahi",
+  "birth_date": "2004-10-16",
+  "country_id": 769,
+  "club_id": 85052735,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 100,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 85052735, "p": 0 },
+    { "s": 2022, "c": 85052735, "p": 0 },
+    { "s": 2023, "c": 85052735, "p": 0 },
+    { "s": 2024, "c": 85052735, "p": 5 },
+    { "s": 2025, "c": 85052735, "p": 2 }
+  ]
+}

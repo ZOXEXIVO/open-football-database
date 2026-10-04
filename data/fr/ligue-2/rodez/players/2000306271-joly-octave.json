@@ -1,0 +1,36 @@
+{
+  "id": 2000306271,
+  "first_name": "Octave",
+  "last_name": "Joly",
+  "birth_date": "2002-09-16",
+  "country_id": 769,
+  "club_id": 2048,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 102,
+  "potential_ability": 114,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 825, "p": 1 },
+    { "s": 2022, "c": 2063, "p": 24, "g": 3 },
+    { "s": 2023, "c": 2000023164, "p": 2 },
+    { "s": 2023, "c": 2000096987, "p": 24, "g": 1 },
+    { "s": 2024, "c": 2085, "p": 29, "g": 1 }
+  ]
+}

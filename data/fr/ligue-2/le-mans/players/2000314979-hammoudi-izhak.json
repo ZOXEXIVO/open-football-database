@@ -1,0 +1,31 @@
+{
+  "id": 2000314979,
+  "first_name": "Izhak",
+  "last_name": "Hammoudi",
+  "birth_date": "2004-11-07",
+  "country_id": 769,
+  "club_id": 857,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 100,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 857, "p": 0 },
+    { "s": 2022, "c": 857, "p": 0 },
+    { "s": 2023, "c": 857, "p": 0 },
+    { "s": 2024, "c": 857, "p": 0 }
+  ]
+}

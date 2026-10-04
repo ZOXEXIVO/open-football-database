@@ -1,0 +1,37 @@
+{
+  "id": 2000294883,
+  "first_name": "Ilias",
+  "last_name": "Miraoui",
+  "birth_date": "2005-03-31",
+  "country_id": 34,
+  "club_id": 840,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 85048178, "p": 0 },
+    { "s": 2022, "c": 85048178, "p": 2 },
+    { "s": 2023, "c": 877, "p": 0 },
+    { "s": 2023, "c": 48038836, "p": 9, "g": 2 },
+    { "s": 2024, "c": 877, "p": 0 },
+    { "s": 2024, "c": 48038836, "p": 21, "g": 9 }
+  ]
+}

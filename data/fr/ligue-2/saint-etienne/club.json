@@ -1,0 +1,57 @@
+{
+  "id": 828,
+  "name": "AS Saint-Etienne",
+  "location": {
+    "city_id": 5218
+  },
+  "finance": {
+    "balance": 34290000
+  },
+  "teams": [
+    {
+      "id": 828,
+      "name": "AS Saint-Etienne",
+      "slug": "saint-etienne",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6500,
+        "national": 6500,
+        "world": 6500
+      }
+    },
+    {
+      "id": 92300037,
+      "name": "AS Saint-Etienne",
+      "slug": "saint-etienne-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1950,
+        "national": 1950,
+        "world": 1950
+      }
+    },
+    {
+      "id": 92300038,
+      "name": "AS Saint-Etienne",
+      "slug": "saint-etienne-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1300,
+        "national": 1300,
+        "world": 1300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#4fb591",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 26500
+}

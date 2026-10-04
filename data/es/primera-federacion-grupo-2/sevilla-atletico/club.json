@@ -1,0 +1,39 @@
+{
+  "id": 4202262,
+  "name": "Sevilla Atlético",
+  "parent_club": {
+    "id": 1759,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 603
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 4202262,
+      "name": "Sevilla Atlético",
+      "slug": "sevilla-atletico",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#e2001a"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Excellent",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 800
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2000320997,
+  "first_name": "Dani",
+  "last_name": "Fernández",
+  "birth_date": "2008-01-26",
+  "country_id": 796,
+  "club_id": 1680,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 92,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 43056,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 1680, "p": 1 },
+    { "s": 2024, "c": 1680, "p": 10, "g": 1 },
+    { "s": 2024, "c": 4212286, "p": 19, "g": 2 }
+  ]
+}

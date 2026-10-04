@@ -1,0 +1,34 @@
+{
+  "id": 50082079,
+  "first_name": "Cheikhou",
+  "last_name": "Cissé",
+  "birth_date": "1998-05-19",
+  "country_id": 769,
+  "club_id": 2000020415,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 77,
+  "potential_ability": 93,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 85060651, "p": 1 },
+    { "s": 2018, "c": 85060651, "p": 15, "g": 1 },
+    { "s": 2019, "c": 85060651, "p": 3 },
+    { "s": 2020, "c": 2000020415, "p": 2 },
+    { "s": 2021, "c": 2000020415, "p": 0 },
+    { "s": 2023, "c": 2052, "p": 16, "g": 2 },
+    { "s": 2024, "c": 2000020415, "p": 21, "g": 3 }
+  ]
+}

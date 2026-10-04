@@ -1,0 +1,57 @@
+{
+  "id": 109005,
+  "name": "Real Avilés",
+  "location": {
+    "city_id": 5323
+  },
+  "finance": {
+    "balance": 46990
+  },
+  "teams": [
+    {
+      "id": 109005,
+      "name": "Real Avilés",
+      "slug": "real-aviles",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3700,
+        "national": 3700,
+        "world": 3700
+      }
+    },
+    {
+      "id": 93900023,
+      "name": "Real Avilés",
+      "slug": "real-aviles-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1110,
+        "national": 1110,
+        "world": 1110
+      }
+    },
+    {
+      "id": 93900024,
+      "name": "Real Avilés",
+      "slug": "real-aviles-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 740,
+        "national": 740,
+        "world": 740
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2600
+}

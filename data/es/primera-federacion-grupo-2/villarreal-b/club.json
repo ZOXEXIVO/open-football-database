@@ -1,0 +1,39 @@
+{
+  "id": 7452072,
+  "name": "Villarreal B",
+  "parent_club": {
+    "id": 1777,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 605
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 7452072,
+      "name": "Villarreal B",
+      "slug": "villarreal-b",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd700",
+    "foreground": "#005bab"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Excellent",
+    "academy": "Excellent",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 800
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2090,
+  "name": "Pau FC",
+  "location": {
+    "city_id": 5221
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 2090,
+      "name": "Pau FC",
+      "slug": "pau",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 92300043,
+      "name": "Pau FC",
+      "slug": "pau-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 92300044,
+      "name": "Pau FC",
+      "slug": "pau-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#26488b",
+    "foreground": "#ffd642"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 3900
+}

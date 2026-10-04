@@ -1,0 +1,28 @@
+{
+  "id": 2000290590,
+  "first_name": "Adam",
+  "last_name": "Id Baih",
+  "birth_date": "2007-04-05",
+  "country_id": 769,
+  "club_id": 50034825,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 64,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2023, "c": 50034825, "p": 0 },
+    { "s": 2024, "c": 50034825, "p": 0 }
+  ]
+}

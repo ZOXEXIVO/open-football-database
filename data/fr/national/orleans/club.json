@@ -1,0 +1,57 @@
+{
+  "id": 2075,
+  "name": "US Orleans",
+  "location": {
+    "city_id": 5241
+  },
+  "finance": {
+    "balance": 22860
+  },
+  "teams": [
+    {
+      "id": 2075,
+      "name": "US Orleans",
+      "slug": "orleans",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5000,
+        "national": 5000,
+        "world": 5000
+      }
+    },
+    {
+      "id": 93800019,
+      "name": "US Orleans",
+      "slug": "orleans-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 93800020,
+      "name": "US Orleans",
+      "slug": "orleans-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#d42424"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2800
+}

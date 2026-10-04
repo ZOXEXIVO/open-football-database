@@ -1,0 +1,42 @@
+{
+  "id": 2000158544,
+  "first_name": "Usse",
+  "last_name": "Diao",
+  "birth_date": "2005-09-07",
+  "country_id": 796,
+  "club_id": 814623,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 97,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 2000099880, "p": 0 },
+    { "s": 2020, "c": 67180027, "p": 0 },
+    { "s": 2021, "c": 1682, "p": 0 },
+    { "s": 2022, "c": 1682, "p": 0 },
+    { "s": 2023, "c": 1682, "p": 0 },
+    { "s": 2023, "c": 1733, "p": 0 },
+    { "s": 2024, "c": 4203036, "p": 8, "g": 1 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 67060765,
+  "name": "Arenteiro",
+  "location": {
+    "city_id": 5318
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 67060765,
+      "name": "Arenteiro",
+      "slug": "arenteiro",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 93900013,
+      "name": "Arenteiro",
+      "slug": "arenteiro-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 93900014,
+      "name": "Arenteiro",
+      "slug": "arenteiro-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#00462d",
+    "foreground": "#a1e87e"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1100
+}

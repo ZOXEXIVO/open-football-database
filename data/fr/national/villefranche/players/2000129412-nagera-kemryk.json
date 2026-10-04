@@ -1,0 +1,37 @@
+{
+  "id": 2000129412,
+  "first_name": "Kemryk",
+  "last_name": "Nagera",
+  "birth_date": "2005-05-31",
+  "country_id": 769,
+  "club_id": 2085,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 858, "p": 0 },
+    { "s": 2022, "c": 858, "p": 0 },
+    { "s": 2023, "c": 858, "p": 0 },
+    { "s": 2023, "c": 48038838, "p": 15 },
+    { "s": 2024, "c": 858, "p": 0 },
+    { "s": 2024, "c": 48038838, "p": 23, "g": 1 }
+  ]
+}

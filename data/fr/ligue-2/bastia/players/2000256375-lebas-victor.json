@@ -1,0 +1,38 @@
+{
+  "id": 2000256375,
+  "first_name": "Victor",
+  "last_name": "Lebas",
+  "birth_date": "2004-09-14",
+  "country_id": 788,
+  "club_id": 876,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 78,
+  "potential_ability": 103,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 400362, "p": 0 },
+    { "s": 2022, "c": 400362, "p": 0 },
+    { "s": 2022, "c": 48038855, "p": 21 },
+    { "s": 2023, "c": 400362, "p": 0 },
+    { "s": 2023, "c": 48038855, "p": 10, "g": 1 },
+    { "s": 2024, "c": 876, "p": 0 },
+    { "s": 2024, "c": 48038834, "p": 24, "g": 3 }
+  ]
+}

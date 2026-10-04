@@ -1,0 +1,57 @@
+{
+  "id": 878,
+  "name": "Stade Briochin",
+  "location": {
+    "city_id": 5243
+  },
+  "finance": {
+    "balance": 35560
+  },
+  "teams": [
+    {
+      "id": 878,
+      "name": "Stade Briochin",
+      "slug": "stade-briochin",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3800,
+        "national": 3800,
+        "world": 3800
+      }
+    },
+    {
+      "id": 93800023,
+      "name": "Stade Briochin",
+      "slug": "stade-briochin-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    },
+    {
+      "id": 93800024,
+      "name": "Stade Briochin",
+      "slug": "stade-briochin-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 760,
+        "national": 760,
+        "world": 760
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#382693"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2000
+}

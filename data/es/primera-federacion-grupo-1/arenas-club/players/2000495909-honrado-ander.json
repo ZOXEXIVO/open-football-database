@@ -1,0 +1,30 @@
+{
+  "id": 2000495909,
+  "first_name": "Ander",
+  "last_name": "Honrado",
+  "birth_date": "2006-10-08",
+  "country_id": 796,
+  "club_id": 102029,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 102029, "p": 0 },
+    { "s": 2024, "c": 102029, "p": 0 },
+    { "s": 2025, "c": 102029, "p": 4 }
+  ]
+}

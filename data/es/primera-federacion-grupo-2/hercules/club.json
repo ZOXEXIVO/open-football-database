@@ -1,0 +1,57 @@
+{
+  "id": 1716,
+  "name": "Hércules",
+  "location": {
+    "city_id": 5330
+  },
+  "finance": {
+    "balance": 742950
+  },
+  "teams": [
+    {
+      "id": 1716,
+      "name": "Hércules",
+      "slug": "hercules",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    },
+    {
+      "id": 94000005,
+      "name": "Hércules",
+      "slug": "hercules-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
+      }
+    },
+    {
+      "id": 94000006,
+      "name": "Hércules",
+      "slug": "hercules-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 880,
+        "national": 880,
+        "world": 880
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 11000
+}

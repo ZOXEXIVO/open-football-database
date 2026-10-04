@@ -1,0 +1,32 @@
+{
+  "id": 2000300220,
+  "first_name": "Iker",
+  "last_name": "Luque",
+  "birth_date": "2005-06-05",
+  "country_id": 796,
+  "club_id": 1666,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1666, "p": 26, "g": 1 }
+  ]
+}

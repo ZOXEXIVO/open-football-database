@@ -1,0 +1,38 @@
+{
+  "id": 48045813,
+  "first_name": "Youssoupha",
+  "last_name": "Ndiaye",
+  "birth_date": "1997-10-07",
+  "country_id": 41,
+  "club_id": 878,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 126,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 400984, "p": 17 },
+    { "s": 2018, "c": 400984, "p": 23, "g": 1 },
+    { "s": 2019, "c": 400984, "p": 24, "g": 2 },
+    { "s": 2020, "c": 867, "p": 16 },
+    { "s": 2021, "c": 867, "p": 0 },
+    { "s": 2022, "c": 867, "p": 0 },
+    { "s": 2022, "c": 878, "p": 5 }
+  ]
+}

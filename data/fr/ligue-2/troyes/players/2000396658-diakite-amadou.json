@@ -1,0 +1,32 @@
+{
+  "id": 2000396658,
+  "first_name": "Amadou",
+  "last_name": "Diakité",
+  "birth_date": "2005-05-31",
+  "country_id": 769,
+  "club_id": 1971,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 83,
+  "potential_ability": -65,
+  "history": [
+    { "s": 2024, "c": 1971, "p": 0 },
+    { "s": 2024, "c": 48038854, "p": 15, "g": 5 }
+  ]
+}

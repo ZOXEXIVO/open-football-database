@@ -1,0 +1,32 @@
+{
+  "id": 2000393362,
+  "first_name": "Adame",
+  "last_name": "Ouali",
+  "birth_date": "2007-04-20",
+  "country_id": 769,
+  "club_id": 874,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 874, "p": 0 }
+  ]
+}

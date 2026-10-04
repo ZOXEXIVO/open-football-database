@@ -1,0 +1,31 @@
+{
+  "id": 2000414195,
+  "first_name": "Rayan",
+  "last_name": "Karabila",
+  "birth_date": "2008-06-27",
+  "country_id": 5,
+  "club_id": 874,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 61,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2024, "c": 50034825, "p": 0 }
+  ]
+}

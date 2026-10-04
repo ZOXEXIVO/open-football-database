@@ -1,0 +1,57 @@
+{
+  "id": 102029,
+  "name": "Arenas Club",
+  "location": {
+    "city_id": 5324
+  },
+  "finance": {
+    "balance": 43180
+  },
+  "teams": [
+    {
+      "id": 102029,
+      "name": "Arenas Club",
+      "slug": "arenas-club",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 93900025,
+      "name": "Arenas Club",
+      "slug": "arenas-club-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 93900026,
+      "name": "Arenas Club",
+      "slug": "arenas-club-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#e21a23"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1300
+}

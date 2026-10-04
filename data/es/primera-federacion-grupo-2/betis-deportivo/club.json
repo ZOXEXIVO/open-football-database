@@ -1,0 +1,39 @@
+{
+  "id": 4203036,
+  "name": "Betis Deportivo",
+  "parent_club": {
+    "id": 1733,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 607
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 4203036,
+      "name": "Betis Deportivo",
+      "slug": "betis-deportivo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#195d48",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Excellent",
+    "academy": "Good",
+    "recruitment": "Average"
+  },
+  "average_attendance": 900
+}

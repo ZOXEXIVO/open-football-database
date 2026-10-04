@@ -1,0 +1,37 @@
+{
+  "id": 2000291085,
+  "first_name": "Edu",
+  "last_name": "Sánchez",
+  "birth_date": "2005-06-21",
+  "country_id": 796,
+  "club_id": 814590,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 97,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 4203155, "p": 0 },
+    { "s": 2021, "c": 67248743, "p": 0 },
+    { "s": 2022, "c": 67180027, "p": 20 },
+    { "s": 2023, "c": 1668, "p": 1 },
+    { "s": 2024, "c": 1668, "p": 6 },
+    { "s": 2024, "c": 4212284, "p": 4 }
+  ]
+}

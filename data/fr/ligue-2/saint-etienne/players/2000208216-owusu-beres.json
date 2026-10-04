@@ -1,0 +1,35 @@
+{
+  "id": 2000208216,
+  "first_name": "Beres",
+  "last_name": "Owusu",
+  "birth_date": "2003-09-19",
+  "country_id": 769,
+  "club_id": 828,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 126,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 828, "p": 0 },
+    { "s": 2021, "c": 48038852, "p": 6 },
+    { "s": 2022, "c": 828, "p": 0 },
+    { "s": 2022, "c": 48038852, "p": 19 },
+    { "s": 2023, "c": 828, "p": 0 },
+    { "s": 2023, "c": 48038852, "p": 20, "g": 1 },
+    { "s": 2024, "c": 828, "p": 0 },
+    { "s": 2024, "c": 50034825, "p": 25 }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000139825,
+  "first_name": "Luismi",
+  "last_name": "Luengo",
+  "birth_date": "2001-03-19",
+  "country_id": 796,
+  "club_id": 4212243,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 1759, "p": 0 },
+    { "s": 2018, "c": 1759, "p": 0 },
+    { "s": 2019, "c": 1759, "p": 0 },
+    { "s": 2020, "c": 67180027, "p": 20, "g": 2 },
+    { "s": 2021, "c": 1750, "p": 28, "g": 1 },
+    { "s": 2022, "c": 4212243, "p": 29 },
+    { "s": 2023, "c": 4212243, "p": 30, "g": 3 },
+    { "s": 2024, "c": 814590, "p": 26, "g": 2 }
+  ]
+}

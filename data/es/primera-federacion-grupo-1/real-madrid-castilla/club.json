@@ -1,0 +1,39 @@
+{
+  "id": 1737,
+  "name": "Real Madrid Castilla",
+  "parent_club": {
+    "id": 1736,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 600
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 1737,
+      "name": "Real Madrid Castilla",
+      "slug": "real-madrid-castilla",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5800,
+        "national": 5800,
+        "world": 5800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#1e3162"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Superb",
+    "youth": "Superb",
+    "academy": "Excellent",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 1500
+}

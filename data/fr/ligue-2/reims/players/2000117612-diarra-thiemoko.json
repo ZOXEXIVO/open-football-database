@@ -1,0 +1,43 @@
+{
+  "id": 2000117612,
+  "first_name": "Thiemoko",
+  "last_name": "Diarra",
+  "birth_date": "2003-04-19",
+  "country_id": 31,
+  "club_id": 2047,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 111,
+  "potential_ability": 134,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2047, "p": 0 },
+    { "s": 2021, "c": 48038849, "p": 25, "g": 3 },
+    { "s": 2022, "c": 2047, "p": 0 },
+    { "s": 2022, "c": 48038849, "p": 20, "g": 4 },
+    { "s": 2023, "c": 855, "p": 22, "g": 2 },
+    { "s": 2023, "c": 49034758, "p": 6, "g": 3 },
+    { "s": 2024, "c": 1087, "p": 30, "g": 7 },
+    { "s": 2024, "c": 2047, "p": 0 }
+  ]
+}

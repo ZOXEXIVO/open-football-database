@@ -1,0 +1,34 @@
+{
+  "id": 2000052940,
+  "first_name": "Nico",
+  "last_name": "van Rijn",
+  "birth_date": "2001-03-26",
+  "country_id": 796,
+  "club_id": 814935,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 110,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 67035574, "p": 0 },
+    { "s": 2020, "c": 67148466, "p": 10 },
+    { "s": 2021, "c": 4203033, "p": 17 },
+    { "s": 2022, "c": 4203033, "p": 22 },
+    { "s": 2023, "c": 67040821, "p": 24, "g": 1 },
+    { "s": 2024, "c": 2000152203, "p": 10 },
+    { "s": 2025, "c": 2000152203, "p": 12, "g": 1 }
+  ]
+}
