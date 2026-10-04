@@ -1,0 +1,34 @@
+{
+  "id": 79029414,
+  "first_name": "Pulvio",
+  "last_name": "Aranda",
+  "birth_date": "1995-04-06",
+  "country_id": 1655,
+  "club_id": 5280339,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 99,
+  "history": [
+    { "s": 2016, "c": 102924, "p": 0 },
+    { "s": 2018, "c": 79012071, "p": 14 },
+    { "s": 2023, "c": 5280218, "p": 26, "g": 2 },
+    { "s": 2025, "c": 120939, "p": 23 }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 36127070,
+  "first_name": "Vasilis",
+  "last_name": "Tsimopoulos",
+  "birth_date": "2000-06-12",
+  "country_id": 772,
+  "club_id": 129657,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 90,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 694366, "p": 0 },
+    { "s": 2017, "c": 694366, "p": 0 },
+    { "s": 2018, "c": 694366, "p": 0 },
+    { "s": 2019, "c": 1300559, "p": 0 },
+    { "s": 2020, "c": 1300559, "p": 0 },
+    { "s": 2021, "c": 1300559, "p": 0 },
+    { "s": 2022, "c": 129707, "p": 22, "g": 2 },
+    { "s": 2023, "c": 129657, "p": 3 },
+    { "s": 2024, "c": 129657, "p": 9 }
+  ]
+}

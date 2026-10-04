@@ -1,0 +1,33 @@
+{
+  "id": 12094362,
+  "first_name": "Abdoul",
+  "last_name": "N'Doye",
+  "birth_date": "2001-01-28",
+  "country_id": 41,
+  "club_id": 47041701,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": 85,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 3, "goals": 1, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2021, "c": 2384, "p": 0 },
+    { "s": 2022, "c": 84107090, "p": 22, "g": 10 },
+    { "s": 2023, "c": 55020412, "p": 19, "g": 12 },
+    { "s": 2024, "c": 136289, "p": 5, "g": 1 },
+    { "s": 2025, "c": 7580708, "p": 16, "g": 2 }
+  ]
+}

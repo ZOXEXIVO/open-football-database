@@ -1,0 +1,26 @@
+{
+  "id": 2000523150,
+  "first_name": "Yousef",
+  "last_name": "Amhamed",
+  "birth_date": "2000-12-21",
+  "country_id": 782,
+  "club_id": 47041732,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 15,
+  "potential_ability": 20,
+  "history": [
+    { "s": 2020, "c": 138168, "p": 2 },
+    { "s": 2021, "c": 138168, "p": 7 },
+    { "s": 2022, "c": 47041735, "p": 5 },
+    { "s": 2024, "c": 47041723, "p": 9, "g": 1 }
+  ]
+}

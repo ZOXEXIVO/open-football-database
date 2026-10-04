@@ -1,0 +1,49 @@
+{
+  "id": 2000065840,
+  "first_name": "Lucas",
+  "last_name": "Copado",
+  "birth_date": "2004-01-10",
+  "country_id": 771,
+  "club_id": 121198,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 130,
+  "contract": {
+    "salary": 258492,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 915, "p": 0 },
+    { "s": 2021, "c": 915, "p": 1 },
+    { "s": 2021, "c": 103287, "p": 27, "g": 9 },
+    { "s": 2022, "c": 103287, "p": 21, "g": 4 },
+    { "s": 2023, "c": 154, "p": 4 },
+    { "s": 2023, "c": 103287, "p": 17, "g": 10 },
+    { "s": 2023, "c": 2000179934, "p": 2 },
+    { "s": 2024, "c": 154, "p": 0 },
+    { "s": 2024, "c": 2240, "p": 33, "g": 7 }
+  ]
+}

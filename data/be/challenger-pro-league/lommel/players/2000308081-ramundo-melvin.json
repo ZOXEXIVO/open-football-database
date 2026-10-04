@@ -1,0 +1,29 @@
+{
+  "id": 2000308081,
+  "first_name": "Melvin",
+  "last_name": "Ramundo",
+  "birth_date": "2007-09-07",
+  "country_id": 757,
+  "club_id": 8157175,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 70
+  },
+  "current_ability": 67,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 289, "p": 0 },
+    { "s": 2024, "c": 289, "p": 0 }
+  ]
+}

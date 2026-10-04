@@ -1,0 +1,28 @@
+{
+  "id": 2000420400,
+  "first_name": "Ibrahim",
+  "last_name": "Lamsayah",
+  "birth_date": "2006-01-01",
+  "country_id": 34,
+  "club_id": 257,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 257, "p": 0 }
+  ]
+}

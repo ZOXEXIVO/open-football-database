@@ -1,0 +1,32 @@
+{
+  "id": 24061770,
+  "first_name": "Patrik",
+  "last_name": "Srzentić",
+  "birth_date": "2000-09-06",
+  "country_id": 761,
+  "club_id": 129843,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 89,
+  "history": [
+    { "s": 2019, "c": 1300245, "p": 0 },
+    { "s": 2020, "c": 1300245, "p": 13 },
+    { "s": 2021, "c": 1300245, "p": 29 },
+    { "s": 2022, "c": 126419, "p": 27, "g": 1 },
+    { "s": 2022, "c": 1300245, "p": 1 },
+    { "s": 2023, "c": 129843, "p": 28, "g": 4 }
+  ]
+}

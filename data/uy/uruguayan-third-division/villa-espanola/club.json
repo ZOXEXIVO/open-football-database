@@ -1,0 +1,57 @@
+{
+  "id": 130851,
+  "name": "Villa Espanola",
+  "location": {
+    "city_id": 5557
+  },
+  "finance": {
+    "balance": 3810
+  },
+  "teams": [
+    {
+      "id": 130851,
+      "name": "Villa Espanola",
+      "slug": "villa-espanola",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    },
+    {
+      "id": 95000009,
+      "name": "Villa Espanola",
+      "slug": "villa-espanola-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    },
+    {
+      "id": 95000010,
+      "name": "Villa Espanola",
+      "slug": "villa-espanola-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Limited",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 250
+}

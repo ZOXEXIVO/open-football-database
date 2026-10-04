@@ -1,0 +1,57 @@
+{
+  "id": 47041729,
+  "name": "Swieqi United",
+  "location": {
+    "city_id": 5469
+  },
+  "finance": {
+    "balance": 190500
+  },
+  "teams": [
+    {
+      "id": 47041729,
+      "name": "Swieqi United",
+      "slug": "swieqi-united",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 94400003,
+      "name": "Swieqi United",
+      "slug": "swieqi-united-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 450,
+        "national": 450,
+        "world": 450
+      }
+    },
+    {
+      "id": 94400004,
+      "name": "Swieqi United",
+      "slug": "swieqi-united-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 300,
+        "national": 300,
+        "world": 300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e66c40",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Poor",
+    "academy": "Fairly Basic",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 100
+}

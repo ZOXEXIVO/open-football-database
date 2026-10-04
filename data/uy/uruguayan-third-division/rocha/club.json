@@ -1,0 +1,57 @@
+{
+  "id": 130847,
+  "name": "Rocha",
+  "location": {
+    "city_id": 5556
+  },
+  "finance": {
+    "balance": 1270
+  },
+  "teams": [
+    {
+      "id": 130847,
+      "name": "Rocha",
+      "slug": "rocha",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2400,
+        "national": 2400,
+        "world": 2400
+      }
+    },
+    {
+      "id": 95000007,
+      "name": "Rocha",
+      "slug": "rocha-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 720,
+        "national": 720,
+        "world": 720
+      }
+    },
+    {
+      "id": 95000008,
+      "name": "Rocha",
+      "slug": "rocha-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 480,
+        "national": 480,
+        "world": 480
+      }
+    }
+  ],
+  "colors": {
+    "background": "#8cd1f3",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Adequate",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 300
+}

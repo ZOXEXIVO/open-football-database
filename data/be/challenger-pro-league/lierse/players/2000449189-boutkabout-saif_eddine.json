@@ -1,0 +1,36 @@
+{
+  "id": 2000449189,
+  "first_name": "Saif-Eddine",
+  "last_name": "Boutkabout",
+  "birth_date": "2008-10-21",
+  "country_id": 757,
+  "club_id": 18008817,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 18008817, "p": 0 }
+  ]
+}

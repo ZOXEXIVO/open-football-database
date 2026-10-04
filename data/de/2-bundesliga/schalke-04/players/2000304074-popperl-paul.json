@@ -1,0 +1,42 @@
+{
+  "id": 2000304074,
+  "first_name": "Paul",
+  "last_name": "Pöpperl",
+  "birth_date": "2003-02-25",
+  "country_id": 771,
+  "club_id": 920,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 120,
+  "contract": {
+    "salary": 86164,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 91156936, "p": 0 },
+    { "s": 2021, "c": 91156936, "p": 0 },
+    { "s": 2022, "c": 2000076598, "p": 35, "g": 12 },
+    { "s": 2023, "c": 3609393, "p": 33, "g": 5 },
+    { "s": 2024, "c": 1044, "p": 17, "g": 1 },
+    { "s": 2024, "c": 879643, "p": 9 }
+  ]
+}

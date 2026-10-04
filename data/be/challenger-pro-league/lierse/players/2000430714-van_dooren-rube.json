@@ -1,0 +1,32 @@
+{
+  "id": 2000430714,
+  "first_name": "Rube",
+  "last_name": "Van Dooren",
+  "birth_date": "2007-10-04",
+  "country_id": 757,
+  "club_id": 18008817,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 50,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 18008817, "p": 0 }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 47081799,
+  "first_name": "Jake",
+  "last_name": "Pisani",
+  "birth_date": "2001-03-10",
+  "country_id": 782,
+  "club_id": 1248,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 37,
+  "potential_ability": 45,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 2300006, "p": 0 },
+    { "s": 2017, "c": 2300006, "p": 1 },
+    { "s": 2018, "c": 138199, "p": 0 },
+    { "s": 2019, "c": 138199, "p": 0 },
+    { "s": 2020, "c": 138199, "p": 0 },
+    { "s": 2021, "c": 138199, "p": 0 },
+    { "s": 2022, "c": 2300006, "p": 3 },
+    { "s": 2023, "c": 1248, "p": 24 },
+    { "s": 2024, "c": 1248, "p": 22 }
+  ]
+}

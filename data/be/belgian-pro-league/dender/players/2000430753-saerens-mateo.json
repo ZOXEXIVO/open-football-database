@@ -1,0 +1,28 @@
+{
+  "id": 2000430753,
+  "first_name": "Mateo",
+  "last_name": "Saerens",
+  "birth_date": "2006-08-02",
+  "country_id": 757,
+  "club_id": 199,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 53,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 199, "p": 0 }
+  ]
+}

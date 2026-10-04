@@ -1,0 +1,31 @@
+{
+  "id": 79036595,
+  "first_name": "Walter",
+  "last_name": "Gaona",
+  "birth_date": "2002-06-14",
+  "country_id": 1655,
+  "club_id": 5280214,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 106,
+  "history": [
+    { "s": 2019, "c": 5280414, "p": 3 },
+    { "s": 2020, "c": 5280414, "p": 2 },
+    { "s": 2021, "c": 5280414, "p": 4 },
+    { "s": 2022, "c": 5395179, "p": 38, "g": 1 },
+    { "s": 2025, "c": 5280414, "p": 29, "g": 5 }
+  ]
+}

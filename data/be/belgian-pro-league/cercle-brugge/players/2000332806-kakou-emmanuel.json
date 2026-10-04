@@ -1,0 +1,36 @@
+{
+  "id": 2000332806,
+  "first_name": "Emmanuel",
+  "last_name": "Kakou",
+  "birth_date": "2005-06-30",
+  "country_id": 24,
+  "club_id": 184,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 93,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 73216,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 184, "p": 0 },
+    { "s": 2023, "c": 2000181443, "p": 11, "g": 1 },
+    { "s": 2024, "c": 184, "p": 18, "g": 1 },
+    { "s": 2024, "c": 2000181443, "p": 3 }
+  ]
+}

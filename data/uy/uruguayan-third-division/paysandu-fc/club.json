@@ -1,0 +1,57 @@
+{
+  "id": 8825221,
+  "name": "Paysandu FC",
+  "location": {
+    "city_id": 5563
+  },
+  "finance": {
+    "balance": 3810
+  },
+  "teams": [
+    {
+      "id": 8825221,
+      "name": "Paysandu FC",
+      "slug": "paysandu-fc",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    },
+    {
+      "id": 95000021,
+      "name": "Paysandu FC",
+      "slug": "paysandu-fc-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    },
+    {
+      "id": 95000022,
+      "name": "Paysandu FC",
+      "slug": "paysandu-fc-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#324ed9"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 400
+}

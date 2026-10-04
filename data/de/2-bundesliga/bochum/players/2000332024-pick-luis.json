@@ -1,0 +1,29 @@
+{
+  "id": 2000332024,
+  "first_name": "Luis",
+  "last_name": "Pick",
+  "birth_date": "2007-11-05",
+  "country_id": 771,
+  "club_id": 905,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 86164,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 905, "p": 0 }
+  ]
+}

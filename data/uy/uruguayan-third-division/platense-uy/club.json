@@ -1,0 +1,57 @@
+{
+  "id": 5512786,
+  "name": "Platense",
+  "location": {
+    "city_id": 5561
+  },
+  "finance": {
+    "balance": 474
+  },
+  "teams": [
+    {
+      "id": 5512786,
+      "name": "Platense",
+      "slug": "platense-uy",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2000,
+        "national": 2000,
+        "world": 2000
+      }
+    },
+    {
+      "id": 95000017,
+      "name": "Platense",
+      "slug": "platense-uy-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    },
+    {
+      "id": 95000018,
+      "name": "Platense",
+      "slug": "platense-uy-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Poor",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 150
+}

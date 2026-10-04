@@ -1,0 +1,57 @@
+{
+  "id": 126415,
+  "name": "Bjelovar",
+  "location": {
+    "city_id": 5524
+  },
+  "finance": {
+    "balance": 22860
+  },
+  "teams": [
+    {
+      "id": 126415,
+      "name": "Bjelovar",
+      "slug": "bjelovar",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 94700007,
+      "name": "Bjelovar",
+      "slug": "bjelovar-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 94700008,
+      "name": "Bjelovar",
+      "slug": "bjelovar-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#293fad"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 400
+}

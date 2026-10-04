@@ -1,0 +1,50 @@
+{
+  "id": 62235341,
+  "first_name": "Filip",
+  "last_name": "Stevanović",
+  "birth_date": "2002-09-25",
+  "country_id": 802,
+  "club_id": 8157175,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 123,
+  "contract": {
+    "salary": 224692,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 8, "u21_goals": 0},
+  "history": [
+    { "s": 2016, "c": 1952, "p": 0 },
+    { "s": 2017, "c": 1952, "p": 0 },
+    { "s": 2018, "c": 1952, "p": 4 },
+    { "s": 2019, "c": 1952, "p": 25, "g": 7 },
+    { "s": 2020, "c": 679, "p": 0 },
+    { "s": 2020, "c": 1952, "p": 27, "g": 4 },
+    { "s": 2021, "c": 1036, "p": 21, "g": 1 },
+    { "s": 2022, "c": 679, "p": 0 },
+    { "s": 2022, "c": 2448, "p": 7 },
+    { "s": 2023, "c": 679, "p": 0 },
+    { "s": 2023, "c": 1032, "p": 16, "g": 2 },
+    { "s": 2024, "c": 679, "p": 0 },
+    { "s": 2024, "c": 8157175, "p": 9, "g": 1 }
+  ]
+}

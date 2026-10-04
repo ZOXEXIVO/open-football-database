@@ -1,0 +1,29 @@
+{
+  "id": 2000371486,
+  "first_name": "Marin",
+  "last_name": "Krešić",
+  "birth_date": "2005-10-14",
+  "country_id": 761,
+  "club_id": 129887,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 79,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2022, "c": 24051468, "p": 30, "g": 3 },
+    { "s": 2023, "c": 129887, "p": 11 },
+    { "s": 2024, "c": 129887, "p": 20 }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2000101482,
+  "first_name": "Luis",
+  "last_name": "Seifert",
+  "birth_date": "2004-01-26",
+  "country_id": 771,
+  "club_id": 121200,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 128,
+  "contract": {
+    "salary": 172380,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 91013388, "p": 0 },
+    { "s": 2021, "c": 947, "p": 0 },
+    { "s": 2022, "c": 947, "p": 0 },
+    { "s": 2022, "c": 3602620, "p": 23, "g": 1 },
+    { "s": 2023, "c": 3602620, "p": 29, "g": 2 },
+    { "s": 2024, "c": 3602620, "p": 20 }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 2000065870,
+  "first_name": "Danny",
+  "last_name": "Schmidt",
+  "birth_date": "2003-01-30",
+  "country_id": 771,
+  "club_id": 921,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 130,
+  "contract": {
+    "salary": 172380,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 918, "p": 0 },
+    { "s": 2020, "c": 879282, "p": 2 },
+    { "s": 2021, "c": 879282, "p": 3 },
+    { "s": 2022, "c": 879282, "p": 31, "g": 11 },
+    { "s": 2023, "c": 879282, "p": 31, "g": 13 },
+    { "s": 2024, "c": 921, "p": 25, "g": 2 },
+    { "s": 2025, "c": 921, "p": 11 }
+  ]
+}

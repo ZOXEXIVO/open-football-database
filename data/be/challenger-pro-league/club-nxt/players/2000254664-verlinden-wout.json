@@ -1,0 +1,31 @@
+{
+  "id": 2000254664,
+  "first_name": "Wout",
+  "last_name": "Verlinden",
+  "birth_date": "2007-01-04",
+  "country_id": 757,
+  "club_id": 2000022413,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 44928,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 258, "p": 0 },
+    { "s": 2023, "c": 2000022413, "p": 0 },
+    { "s": 2024, "c": 2000022413, "p": 15 }
+  ]
+}

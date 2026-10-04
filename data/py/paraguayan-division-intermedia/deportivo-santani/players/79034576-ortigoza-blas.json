@@ -1,0 +1,29 @@
+{
+  "id": 79034576,
+  "first_name": "Blás",
+  "last_name": "Ortigoza",
+  "birth_date": "2000-08-09",
+  "country_id": 1655,
+  "club_id": 79012073,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 100,
+  "history": [
+    { "s": 2019, "c": 5280181, "p": 0 },
+    { "s": 2020, "c": 5280181, "p": 2 },
+    { "s": 2020, "c": 5512556, "p": 1 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 536364,
+  "name": "Lokeren-Temse",
+  "location": {
+    "city_id": 5464
+  },
+  "finance": {
+    "balance": 681990
+  },
+  "teams": [
+    {
+      "id": 536364,
+      "name": "Lokeren-Temse",
+      "slug": "lokeren-temse",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 94300015,
+      "name": "Lokeren-Temse",
+      "slug": "lokeren-temse-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1470,
+        "national": 1470,
+        "world": 1470
+      }
+    },
+    {
+      "id": 94300016,
+      "name": "Lokeren-Temse",
+      "slug": "lokeren-temse-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 980,
+        "national": 980,
+        "world": 980
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Good",
+    "recruitment": "Average"
+  },
+  "average_attendance": 4500
+}

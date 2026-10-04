@@ -1,0 +1,29 @@
+{
+  "id": 2000271034,
+  "first_name": "Omar",
+  "last_name": "Sarr",
+  "birth_date": "2008-01-06",
+  "country_id": 41,
+  "club_id": 2000173150,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

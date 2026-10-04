@@ -1,0 +1,57 @@
+{
+  "id": 47041701,
+  "name": "Mgarr United",
+  "location": {
+    "city_id": 5478
+  },
+  "finance": {
+    "balance": 177800
+  },
+  "teams": [
+    {
+      "id": 47041701,
+      "name": "Mgarr United",
+      "slug": "mgarr-united",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1400,
+        "national": 1400,
+        "world": 1400
+      }
+    },
+    {
+      "id": 94400021,
+      "name": "Mgarr United",
+      "slug": "mgarr-united-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 420,
+        "national": 420,
+        "world": 420
+      }
+    },
+    {
+      "id": 94400022,
+      "name": "Mgarr United",
+      "slug": "mgarr-united-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 280,
+        "national": 280,
+        "world": 280
+      }
+    }
+  ],
+  "colors": {
+    "background": "#52b561",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Poor",
+    "academy": "Fairly Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 100
+}

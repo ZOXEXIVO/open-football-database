@@ -1,0 +1,57 @@
+{
+  "id": 129667,
+  "name": "PAS Giannina",
+  "location": {
+    "city_id": 5487
+  },
+  "finance": {
+    "balance": 290830
+  },
+  "teams": [
+    {
+      "id": 129667,
+      "name": "PAS Giannina",
+      "slug": "pas-giannina",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 94500007,
+      "name": "PAS Giannina",
+      "slug": "pas-giannina-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 94500008,
+      "name": "PAS Giannina",
+      "slug": "pas-giannina-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 3000
+}

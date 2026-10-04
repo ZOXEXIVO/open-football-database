@@ -1,0 +1,28 @@
+{
+  "id": 2000329338,
+  "first_name": "Carlos",
+  "last_name": "Giménez",
+  "birth_date": "2006-06-11",
+  "country_id": 1655,
+  "club_id": 5280220,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 80,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2024, "c": 5280339, "p": 2 },
+    { "s": 2025, "c": 5280339, "p": 26, "g": 2 }
+  ]
+}

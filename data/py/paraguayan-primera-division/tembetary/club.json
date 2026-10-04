@@ -1,0 +1,57 @@
+{
+  "id": 5280215,
+  "name": "Tembetary",
+  "location": {
+    "city_id": 5534
+  },
+  "finance": {
+    "balance": 749300
+  },
+  "teams": [
+    {
+      "id": 5280215,
+      "name": "Tembetary",
+      "slug": "tembetary",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3300,
+        "national": 3300,
+        "world": 3300
+      }
+    },
+    {
+      "id": 94900001,
+      "name": "Tembetary",
+      "slug": "tembetary-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 990,
+        "national": 990,
+        "world": 990
+      }
+    },
+    {
+      "id": 94900002,
+      "name": "Tembetary",
+      "slug": "tembetary-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3cb571",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 500
+}

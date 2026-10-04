@@ -1,0 +1,28 @@
+{
+  "id": 2000474680,
+  "first_name": "Tristan",
+  "last_name": "De Clerck",
+  "birth_date": "2009-05-22",
+  "country_id": 757,
+  "club_id": 262,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 58,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 262, "p": 0 }
+  ]
+}

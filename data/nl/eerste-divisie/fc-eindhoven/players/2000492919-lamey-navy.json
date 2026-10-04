@@ -1,0 +1,29 @@
+{
+  "id": 2000492919,
+  "first_name": "Navy",
+  "last_name": "Lamey",
+  "birth_date": "2009-02-10",
+  "country_id": 784,
+  "club_id": 1002,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

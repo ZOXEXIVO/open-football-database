@@ -1,0 +1,57 @@
+{
+  "id": 47001121,
+  "name": "Vittoriosa Stars",
+  "location": {
+    "city_id": 5471
+  },
+  "finance": {
+    "balance": 165100
+  },
+  "teams": [
+    {
+      "id": 47001121,
+      "name": "Vittoriosa Stars",
+      "slug": "vittoriosa-stars",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1300,
+        "national": 1300,
+        "world": 1300
+      }
+    },
+    {
+      "id": 94400007,
+      "name": "Vittoriosa Stars",
+      "slug": "vittoriosa-stars-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 390,
+        "national": 390,
+        "world": 390
+      }
+    },
+    {
+      "id": 94400008,
+      "name": "Vittoriosa Stars",
+      "slug": "vittoriosa-stars-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 260,
+        "national": 260,
+        "world": 260
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Poor",
+    "academy": "Poor",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 100
+}

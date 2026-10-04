@@ -1,0 +1,39 @@
+{
+  "id": 2000111117,
+  "first_name": "Ezequiel",
+  "last_name": "Viera",
+  "birth_date": "1998-07-07",
+  "country_id": 1657,
+  "club_id": 78009701,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 87,
+  "potential_ability": 91,
+  "history": [
+    { "s": 2021, "c": 1915, "p": 12 },
+    { "s": 2022, "c": 1915, "p": 20, "g": 3 },
+    { "s": 2023, "c": 1915, "p": 17 },
+    { "s": 2024, "c": 78014917, "p": 12 },
+    { "s": 2025, "c": 78009701, "p": 15, "g": 4 }
+  ]
+}

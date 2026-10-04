@@ -1,0 +1,33 @@
+{
+  "id": 2000441765,
+  "first_name": "Vencel",
+  "last_name": "Németh",
+  "birth_date": "2007-09-28",
+  "country_id": 773,
+  "club_id": 1024,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 82,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

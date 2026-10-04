@@ -1,0 +1,57 @@
+{
+  "id": 1003,
+  "name": "Emmen",
+  "location": {
+    "city_id": 5447
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 1003,
+      "name": "Emmen",
+      "slug": "emmen",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5200,
+        "national": 5200,
+        "world": 5200
+      }
+    },
+    {
+      "id": 94200011,
+      "name": "Emmen",
+      "slug": "emmen-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1560,
+        "national": 1560,
+        "world": 1560
+      }
+    },
+    {
+      "id": 94200012,
+      "name": "Emmen",
+      "slug": "emmen-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1040,
+        "national": 1040,
+        "world": 1040
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#9e2530"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 6500
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2000110733,
+  "name": "Olympiacos B",
+  "parent_club": {
+    "id": 981,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 1300
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 2000110733,
+      "name": "Olympiacos B",
+      "slug": "olympiacos-b",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e2001a",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Excellent",
+    "academy": "Good",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 400
+}

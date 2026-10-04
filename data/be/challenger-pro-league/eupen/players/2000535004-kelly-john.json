@@ -1,0 +1,25 @@
+{
+  "id": 2000535004,
+  "first_name": "John",
+  "last_name": "Kelly",
+  "birth_date": "2009-01-04",
+  "country_id": 757,
+  "club_id": 194,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

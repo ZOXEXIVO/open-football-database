@@ -1,0 +1,30 @@
+{
+  "id": 2000055452,
+  "first_name": "Flavio",
+  "last_name": "Trubia",
+  "birth_date": "2004-03-16",
+  "country_id": 757,
+  "club_id": 216,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 107,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 250, "p": 0 },
+    { "s": 2022, "c": 216, "p": 1 },
+    { "s": 2024, "c": 2000181450, "p": 20, "g": 2 }
+  ]
+}

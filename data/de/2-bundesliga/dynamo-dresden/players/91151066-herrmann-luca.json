@@ -1,0 +1,42 @@
+{
+  "id": 91151066,
+  "first_name": "Luca",
+  "last_name": "Herrmann",
+  "birth_date": "1999-02-20",
+  "country_id": 771,
+  "club_id": 911,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 120,
+  "contract": {
+    "salary": 258492,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 944, "p": 0 },
+    { "s": 2016, "c": 944, "p": 0 },
+    { "s": 2017, "c": 876844, "p": 9, "g": 1 },
+    { "s": 2018, "c": 876844, "p": 10, "g": 1 },
+    { "s": 2019, "c": 876844, "p": 14, "g": 1 },
+    { "s": 2020, "c": 876844, "p": 36, "g": 5 },
+    { "s": 2021, "c": 911, "p": 10 },
+    { "s": 2022, "c": 911, "p": 1 },
+    { "s": 2023, "c": 911, "p": 38, "g": 2 },
+    { "s": 2024, "c": 121198, "p": 19 }
+  ]
+}

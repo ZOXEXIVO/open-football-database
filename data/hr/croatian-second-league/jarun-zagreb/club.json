@@ -1,0 +1,57 @@
+{
+  "id": 24059190,
+  "name": "Jarun Zagreb",
+  "location": {
+    "city_id": 5514
+  },
+  "finance": {
+    "balance": 48260
+  },
+  "teams": [
+    {
+      "id": 24059190,
+      "name": "Jarun Zagreb",
+      "slug": "jarun-zagreb",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3700,
+        "national": 3700,
+        "world": 3700
+      }
+    },
+    {
+      "id": 92100023,
+      "name": "Jarun Zagreb",
+      "slug": "jarun-zagreb-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1110,
+        "national": 1110,
+        "world": 1110
+      }
+    },
+    {
+      "id": 92100024,
+      "name": "Jarun Zagreb",
+      "slug": "jarun-zagreb-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 740,
+        "national": 740,
+        "world": 740
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 200
+}

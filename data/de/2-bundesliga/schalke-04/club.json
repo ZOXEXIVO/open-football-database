@@ -1,0 +1,57 @@
+{
+  "id": 920,
+  "name": "Schalke 04",
+  "location": {
+    "city_id": 5418
+  },
+  "finance": {
+    "balance": 27940000
+  },
+  "teams": [
+    {
+      "id": 920,
+      "name": "Schalke 04",
+      "slug": "schalke-04",
+      "team_type": "Main",
+      "reputation": {
+        "home": 7100,
+        "national": 7100,
+        "world": 7100
+      }
+    },
+    {
+      "id": 94100001,
+      "name": "Schalke 04",
+      "slug": "schalke-04-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 2130,
+        "national": 2130,
+        "world": 2130
+      }
+    },
+    {
+      "id": 94100002,
+      "name": "Schalke 04",
+      "slug": "schalke-04-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1420,
+        "national": 1420,
+        "world": 1420
+      }
+    }
+  ],
+  "colors": {
+    "background": "#004b9c",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Excellent",
+    "academy": "Excellent",
+    "recruitment": "Good"
+  },
+  "average_attendance": 61000
+}

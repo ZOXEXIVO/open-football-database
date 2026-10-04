@@ -1,0 +1,57 @@
+{
+  "id": 8825222,
+  "name": "Salto",
+  "location": {
+    "city_id": 5564
+  },
+  "finance": {
+    "balance": 2540
+  },
+  "teams": [
+    {
+      "id": 8825222,
+      "name": "Salto",
+      "slug": "salto",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2100,
+        "national": 2100,
+        "world": 2100
+      }
+    },
+    {
+      "id": 95000023,
+      "name": "Salto",
+      "slug": "salto-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 630,
+        "national": 630,
+        "world": 630
+      }
+    },
+    {
+      "id": 95000024,
+      "name": "Salto",
+      "slug": "salto-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 420,
+        "national": 420,
+        "world": 420
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f19128",
+    "foreground": "#2f55b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 300
+}

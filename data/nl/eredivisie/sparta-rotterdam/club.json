@@ -1,0 +1,57 @@
+{
+  "id": 1039,
+  "name": "Sparta Rotterdam",
+  "location": {
+    "city_id": 5437
+  },
+  "finance": {
+    "balance": 3810000
+  },
+  "teams": [
+    {
+      "id": 1039,
+      "name": "Sparta Rotterdam",
+      "slug": "sparta-rotterdam",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5900,
+        "national": 5900,
+        "world": 5900
+      }
+    },
+    {
+      "id": 90200039,
+      "name": "Sparta Rotterdam",
+      "slug": "sparta-rotterdam-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1770,
+        "national": 1770,
+        "world": 1770
+      }
+    },
+    {
+      "id": 90200040,
+      "name": "Sparta Rotterdam",
+      "slug": "sparta-rotterdam-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1180,
+        "national": 1180,
+        "world": 1180
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 10500
+}

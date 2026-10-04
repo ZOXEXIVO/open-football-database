@@ -1,0 +1,31 @@
+{
+  "id": 2000278729,
+  "first_name": "Suliman",
+  "last_name": "Natif",
+  "birth_date": "2002-03-02",
+  "country_id": 757,
+  "club_id": 216,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 77,
+  "potential_ability": 88,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 3200568, "p": 1 },
+    { "s": 2022, "c": 18023007, "p": 8 },
+    { "s": 2023, "c": 8154745, "p": 1 },
+    { "s": 2024, "c": 216, "p": 0 }
+  ]
+}

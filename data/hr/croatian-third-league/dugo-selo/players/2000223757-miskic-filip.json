@@ -1,0 +1,26 @@
+{
+  "id": 2000223757,
+  "first_name": "Filip",
+  "last_name": "Miškić",
+  "birth_date": "2004-06-25",
+  "country_id": 761,
+  "club_id": 129856,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 86,
+  "history": [
+    { "s": 2022, "c": 24014012, "p": 1 },
+    { "s": 2023, "c": 129856, "p": 13, "g": 2 },
+    { "s": 2023, "c": 24014012, "p": 2 },
+    { "s": 2024, "c": 129856, "p": 0 }
+  ]
+}

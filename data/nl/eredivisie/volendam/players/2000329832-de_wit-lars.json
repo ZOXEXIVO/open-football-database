@@ -1,0 +1,29 @@
+{
+  "id": 2000329832,
+  "first_name": "Lars",
+  "last_name": "de Wit",
+  "birth_date": "2006-05-21",
+  "country_id": 784,
+  "club_id": 1011,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 84,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

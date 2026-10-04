@@ -1,0 +1,43 @@
+{
+  "id": 49058892,
+  "first_name": "Waniss",
+  "last_name": "Taïbi",
+  "birth_date": "2002-03-07",
+  "country_id": 769,
+  "club_id": 927,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 141,
+  "contract": {
+    "salary": 430872,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 875, "p": 0 },
+    { "s": 2019, "c": 875, "p": 0 },
+    { "s": 2020, "c": 875, "p": 2 },
+    { "s": 2021, "c": 875, "p": 7 },
+    { "s": 2022, "c": 875, "p": 11 },
+    { "s": 2023, "c": 2048, "p": 38, "g": 2 },
+    { "s": 2024, "c": 2048, "p": 32, "g": 4 }
+  ]
+}

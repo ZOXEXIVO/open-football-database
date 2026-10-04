@@ -1,0 +1,57 @@
+{
+  "id": 254,
+  "name": "RFC Liege",
+  "location": {
+    "city_id": 5458
+  },
+  "finance": {
+    "balance": 278130
+  },
+  "teams": [
+    {
+      "id": 254,
+      "name": "RFC Liege",
+      "slug": "rfc-liege",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 94300003,
+      "name": "RFC Liege",
+      "slug": "rfc-liege-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1470,
+        "national": 1470,
+        "world": 1470
+      }
+    },
+    {
+      "id": 94300004,
+      "name": "RFC Liege",
+      "slug": "rfc-liege-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 980,
+        "national": 980,
+        "world": 980
+      }
+    }
+  ],
+  "colors": {
+    "background": "#17285c",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Good",
+    "recruitment": "Average"
+  },
+  "average_attendance": 3000
+}

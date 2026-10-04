@@ -1,0 +1,57 @@
+{
+  "id": 2000004877,
+  "name": "Deutscher FK",
+  "location": {
+    "city_id": 5576
+  },
+  "finance": {
+    "balance": 413
+  },
+  "teams": [
+    {
+      "id": 2000004877,
+      "name": "Deutscher FK",
+      "slug": "deutscher-fk",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2000,
+        "national": 2000,
+        "world": 2000
+      }
+    },
+    {
+      "id": 95000047,
+      "name": "Deutscher FK",
+      "slug": "deutscher-fk-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    },
+    {
+      "id": 95000048,
+      "name": "Deutscher FK",
+      "slug": "deutscher-fk-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Poor",
+    "youth": "Poor",
+    "academy": "Poor",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 100
+}

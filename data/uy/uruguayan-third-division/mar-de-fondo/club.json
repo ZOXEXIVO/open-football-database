@@ -1,0 +1,57 @@
+{
+  "id": 78014917,
+  "name": "Mar de Fondo",
+  "location": {
+    "city_id": 5569
+  },
+  "finance": {
+    "balance": 505
+  },
+  "teams": [
+    {
+      "id": 78014917,
+      "name": "Mar de Fondo",
+      "slug": "mar-de-fondo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2000,
+        "national": 2000,
+        "world": 2000
+      }
+    },
+    {
+      "id": 95000033,
+      "name": "Mar de Fondo",
+      "slug": "mar-de-fondo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    },
+    {
+      "id": 95000034,
+      "name": "Mar de Fondo",
+      "slug": "mar-de-fondo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Poor",
+    "youth": "Poor",
+    "academy": "Fairly Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 100
+}

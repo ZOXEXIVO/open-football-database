@@ -1,0 +1,36 @@
+{
+  "id": 2000403477,
+  "first_name": "Anton",
+  "last_name": "Camilleri",
+  "birth_date": "2003-08-06",
+  "country_id": 782,
+  "club_id": 1251,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 25,
+  "potential_ability": 35,
+  "history": [
+    { "s": 2019, "c": 1243, "p": 0 },
+    { "s": 2020, "c": 1243, "p": 0 },
+    { "s": 2021, "c": 138201, "p": 0 },
+    { "s": 2022, "c": 47038754, "p": 0 },
+    { "s": 2023, "c": 1251, "p": 0 },
+    { "s": 2024, "c": 1251, "p": 12 }
+  ]
+}

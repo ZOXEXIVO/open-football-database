@@ -1,0 +1,36 @@
+{
+  "id": 2000057362,
+  "first_name": "Alen",
+  "last_name": "Dizdarević",
+  "birth_date": "2004-01-22",
+  "country_id": 761,
+  "club_id": 1017,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 78624,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 432, "p": 0 },
+    { "s": 2022, "c": 1629, "p": 0 },
+    { "s": 2023, "c": 7582048, "p": 17, "g": 1 },
+    { "s": 2024, "c": 1017, "p": 31 }
+  ]
+}

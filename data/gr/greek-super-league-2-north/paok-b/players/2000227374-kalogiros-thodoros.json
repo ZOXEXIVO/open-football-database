@@ -1,0 +1,33 @@
+{
+  "id": 2000227374,
+  "first_name": "Thodoros",
+  "last_name": "Kalogiros",
+  "birth_date": "2004-03-02",
+  "country_id": 772,
+  "club_id": 2000110737,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 982, "p": 0 },
+    { "s": 2020, "c": 982, "p": 0 },
+    { "s": 2021, "c": 982, "p": 0 },
+    { "s": 2022, "c": 982, "p": 0 },
+    { "s": 2023, "c": 2000110737, "p": 0 },
+    { "s": 2024, "c": 2000110737, "p": 16 }
+  ]
+}

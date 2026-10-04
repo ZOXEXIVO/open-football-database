@@ -1,0 +1,57 @@
+{
+  "id": 288,
+  "name": "Union SG",
+  "location": {
+    "city_id": 5453
+  },
+  "finance": {
+    "balance": 3810000
+  },
+  "teams": [
+    {
+      "id": 288,
+      "name": "Union SG",
+      "slug": "union-sg",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6500,
+        "national": 6500,
+        "world": 6500
+      }
+    },
+    {
+      "id": 90500033,
+      "name": "Union SG",
+      "slug": "union-sg-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1950,
+        "national": 1950,
+        "world": 1950
+      }
+    },
+    {
+      "id": 90500034,
+      "name": "Union SG",
+      "slug": "union-sg-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1300,
+        "national": 1300,
+        "world": 1300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 8000
+}

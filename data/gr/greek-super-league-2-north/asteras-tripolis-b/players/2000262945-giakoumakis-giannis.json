@@ -1,0 +1,34 @@
+{
+  "id": 2000262945,
+  "first_name": "Giannis",
+  "last_name": "Giakoumakis",
+  "birth_date": "2004-02-08",
+  "country_id": 772,
+  "club_id": 2000375864,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 95,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 980, "p": 0 },
+    { "s": 2020, "c": 36048632, "p": 4, "g": 1 },
+    { "s": 2021, "c": 687617, "p": 2 },
+    { "s": 2021, "c": 36048632, "p": 9, "g": 10 },
+    { "s": 2022, "c": 687617, "p": 31, "g": 36 },
+    { "s": 2023, "c": 687617, "p": 22, "g": 4 },
+    { "s": 2024, "c": 687617, "p": 30, "g": 13 }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000516534,
+  "first_name": "Caspar",
+  "last_name": "Medlin",
+  "birth_date": "2007-03-13",
+  "country_id": 771,
+  "club_id": 2245,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 51688,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 879398, "p": 4 }
+  ]
+}

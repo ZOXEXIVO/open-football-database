@@ -1,0 +1,57 @@
+{
+  "id": 47022111,
+  "name": "Birzebbuga St. Peter's",
+  "location": {
+    "city_id": 5477
+  },
+  "finance": {
+    "balance": 177800
+  },
+  "teams": [
+    {
+      "id": 47022111,
+      "name": "Birzebbuga St. Peter's",
+      "slug": "birzebbuga-st-peters",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1400,
+        "national": 1400,
+        "world": 1400
+      }
+    },
+    {
+      "id": 94400019,
+      "name": "Birzebbuga St. Peter's",
+      "slug": "birzebbuga-st-peters-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 420,
+        "national": 420,
+        "world": 420
+      }
+    },
+    {
+      "id": 94400020,
+      "name": "Birzebbuga St. Peter's",
+      "slug": "birzebbuga-st-peters-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 280,
+        "national": 280,
+        "world": 280
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c72de",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Poor",
+    "academy": "Poor",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 100
+}

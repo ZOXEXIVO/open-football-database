@@ -1,0 +1,46 @@
+{
+  "id": 2000035949,
+  "first_name": "Edoly",
+  "last_name": "Lukoki",
+  "birth_date": "2004-05-22",
+  "country_id": 769,
+  "club_id": 1002,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 117,
+  "contract": {
+    "salary": 44928,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 846, "p": 0 },
+    { "s": 2021, "c": 846, "p": 0 },
+    { "s": 2021, "c": 48038844, "p": 1 },
+    { "s": 2022, "c": 846, "p": 0 },
+    { "s": 2022, "c": 48038844, "p": 7 },
+    { "s": 2023, "c": 846, "p": 0 },
+    { "s": 2023, "c": 856, "p": 0 },
+    { "s": 2023, "c": 1141, "p": 0 },
+    { "s": 2023, "c": 48038865, "p": 9, "g": 1 },
+    { "s": 2024, "c": 2000173154, "p": 25, "g": 4 }
+  ]
+}

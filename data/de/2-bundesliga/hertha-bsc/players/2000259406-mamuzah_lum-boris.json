@@ -1,0 +1,35 @@
+{
+  "id": 2000259406,
+  "first_name": "Boris",
+  "last_name": "Mamuzah Lum",
+  "birth_date": "2007-10-02",
+  "country_id": 771,
+  "club_id": 2247,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": -8,
+  "contract": {
+    "salary": 301600,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 2247, "p": 0 },
+    { "s": 2024, "c": 2247, "p": 3 },
+    { "s": 2024, "c": 121190, "p": 11, "g": 1 }
+  ]
+}

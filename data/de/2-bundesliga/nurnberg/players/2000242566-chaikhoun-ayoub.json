@@ -1,0 +1,38 @@
+{
+  "id": 2000242566,
+  "first_name": "Ayoub",
+  "last_name": "Chaikhoun",
+  "birth_date": "2006-01-22",
+  "country_id": 34,
+  "club_id": 899,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 172380,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 912, "p": 0 },
+    { "s": 2024, "c": 3607261, "p": 1 }
+  ]
+}

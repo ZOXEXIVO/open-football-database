@@ -1,0 +1,57 @@
+{
+  "id": 79012071,
+  "name": "Deportivo Capiata",
+  "location": {
+    "city_id": 5552
+  },
+  "finance": {
+    "balance": 355600
+  },
+  "teams": [
+    {
+      "id": 79012071,
+      "name": "Deportivo Capiata",
+      "slug": "deportivo-capiata",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    },
+    {
+      "id": 94800027,
+      "name": "Deportivo Capiata",
+      "slug": "deportivo-capiata-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    },
+    {
+      "id": 94800028,
+      "name": "Deportivo Capiata",
+      "slug": "deportivo-capiata-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 560,
+        "national": 560,
+        "world": 560
+      }
+    }
+  ],
+  "colors": {
+    "background": "#26488b",
+    "foreground": "#ffe252"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 300
+}

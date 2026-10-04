@@ -1,0 +1,57 @@
+{
+  "id": 5280352,
+  "name": "Sportivo Ameliano",
+  "location": {
+    "city_id": 5535
+  },
+  "finance": {
+    "balance": 629920
+  },
+  "teams": [
+    {
+      "id": 5280352,
+      "name": "Sportivo Ameliano",
+      "slug": "sportivo-ameliano",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 94900003,
+      "name": "Sportivo Ameliano",
+      "slug": "sportivo-ameliano-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 94900004,
+      "name": "Sportivo Ameliano",
+      "slug": "sportivo-ameliano-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Adequate",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 400
+}

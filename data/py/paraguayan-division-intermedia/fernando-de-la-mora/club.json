@@ -1,0 +1,57 @@
+{
+  "id": 5280357,
+  "name": "Fernando de la Mora",
+  "location": {
+    "city_id": 5543
+  },
+  "finance": {
+    "balance": 614680
+  },
+  "teams": [
+    {
+      "id": 5280357,
+      "name": "Fernando de la Mora",
+      "slug": "fernando-de-la-mora",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    },
+    {
+      "id": 94800009,
+      "name": "Fernando de la Mora",
+      "slug": "fernando-de-la-mora-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    },
+    {
+      "id": 94800010,
+      "name": "Fernando de la Mora",
+      "slug": "fernando-de-la-mora-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 300
+}

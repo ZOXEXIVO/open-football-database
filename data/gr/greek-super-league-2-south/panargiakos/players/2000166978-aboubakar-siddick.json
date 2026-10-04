@@ -1,0 +1,31 @@
+{
+  "id": 2000166978,
+  "first_name": "Siddick",
+  "last_name": "Aboubakar",
+  "birth_date": "2004-12-15",
+  "country_id": 11,
+  "club_id": 677316,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 110,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 824, "p": 0 },
+    { "s": 2023, "c": 48038856, "p": 14, "g": 1 },
+    { "s": 2024, "c": 2005, "p": 0 },
+    { "s": 2024, "c": 48038839, "p": 17 }
+  ]
+}

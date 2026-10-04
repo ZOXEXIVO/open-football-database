@@ -1,0 +1,28 @@
+{
+  "id": 2000432527,
+  "first_name": "Noah",
+  "last_name": "Katanga",
+  "birth_date": "2006-07-11",
+  "country_id": 757,
+  "club_id": 248,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 248, "p": 0 }
+  ]
+}

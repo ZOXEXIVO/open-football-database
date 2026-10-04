@@ -1,0 +1,35 @@
+{
+  "id": 79025627,
+  "first_name": "Bruno",
+  "last_name": "Mendieta",
+  "birth_date": "1996-01-19",
+  "country_id": 1655,
+  "club_id": 79012071,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 91,
+  "potential_ability": 111,
+  "history": [
+    { "s": 2014, "c": 5280161, "p": 0 },
+    { "s": 2014, "c": 79012071, "p": 2 },
+    { "s": 2015, "c": 5280161, "p": 2 },
+    { "s": 2016, "c": 5280161, "p": 0 },
+    { "s": 2019, "c": 120939, "p": 3 }
+  ]
+}

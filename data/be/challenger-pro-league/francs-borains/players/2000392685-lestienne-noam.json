@@ -1,0 +1,28 @@
+{
+  "id": 2000392685,
+  "first_name": "Noam",
+  "last_name": "Lestienne",
+  "birth_date": "2008-01-20",
+  "country_id": 769,
+  "club_id": 527945,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 858, "p": 0 }
+  ]
+}

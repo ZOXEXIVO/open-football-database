@@ -1,0 +1,29 @@
+{
+  "id": 2000437353,
+  "first_name": "Mitchell",
+  "last_name": "Oomen",
+  "birth_date": "2007-04-03",
+  "country_id": 784,
+  "club_id": 1024,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

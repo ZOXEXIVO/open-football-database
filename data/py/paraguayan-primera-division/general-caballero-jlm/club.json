@@ -1,0 +1,57 @@
+{
+  "id": 79030602,
+  "name": "General Caballero JLM",
+  "location": {
+    "city_id": 5536
+  },
+  "finance": {
+    "balance": 180340
+  },
+  "teams": [
+    {
+      "id": 79030602,
+      "name": "General Caballero JLM",
+      "slug": "general-caballero-jlm",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3800,
+        "national": 3800,
+        "world": 3800
+      }
+    },
+    {
+      "id": 94900005,
+      "name": "General Caballero JLM",
+      "slug": "general-caballero-jlm-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    },
+    {
+      "id": 94900006,
+      "name": "General Caballero JLM",
+      "slug": "general-caballero-jlm-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 760,
+        "national": 760,
+        "world": 760
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1500
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2000022413,
+  "name": "Club NXT",
+  "parent_club": {
+    "id": 186,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 3400
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 2000022413,
+      "name": "Club NXT",
+      "slug": "club-nxt",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#003da5",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Superb",
+    "youth": "Superb",
+    "academy": "Good",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 500
+}

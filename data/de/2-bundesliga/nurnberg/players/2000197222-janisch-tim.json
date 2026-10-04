@@ -1,0 +1,46 @@
+{
+  "id": 2000197222,
+  "first_name": "Tim",
+  "last_name": "Janisch",
+  "birth_date": "2005-08-12",
+  "country_id": 771,
+  "club_id": 899,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 135,
+  "contract": {
+    "salary": 215436,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 899, "p": 0 },
+    { "s": 2021, "c": 899, "p": 0 },
+    { "s": 2022, "c": 876841, "p": 2 },
+    { "s": 2023, "c": 876841, "p": 15, "g": 2 },
+    { "s": 2024, "c": 899, "p": 17 },
+    { "s": 2024, "c": 876841, "p": 7 }
+  ]
+}

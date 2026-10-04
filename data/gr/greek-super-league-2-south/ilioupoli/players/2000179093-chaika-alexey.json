@@ -1,0 +1,33 @@
+{
+  "id": 2000179093,
+  "first_name": "Alexey",
+  "last_name": "Chaika",
+  "birth_date": "2005-12-23",
+  "country_id": 791,
+  "club_id": 36000499,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 30,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 58145347, "p": 0 },
+    { "s": 2022, "c": 58145347, "p": 0 }
+  ]
+}

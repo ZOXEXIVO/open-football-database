@@ -1,0 +1,57 @@
+{
+  "id": 5512636,
+  "name": "Deportivo Colonia",
+  "location": {
+    "city_id": 5560
+  },
+  "finance": {
+    "balance": 2540
+  },
+  "teams": [
+    {
+      "id": 5512636,
+      "name": "Deportivo Colonia",
+      "slug": "deportivo-colonia",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2500,
+        "national": 2500,
+        "world": 2500
+      }
+    },
+    {
+      "id": 95000015,
+      "name": "Deportivo Colonia",
+      "slug": "deportivo-colonia-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 750,
+        "national": 750,
+        "world": 750
+      }
+    },
+    {
+      "id": 95000016,
+      "name": "Deportivo Colonia",
+      "slug": "deportivo-colonia-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 500,
+        "national": 500,
+        "world": 500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#17285c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 150
+}

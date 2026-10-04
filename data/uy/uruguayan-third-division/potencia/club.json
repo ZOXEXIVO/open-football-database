@@ -1,0 +1,57 @@
+{
+  "id": 78041593,
+  "name": "Potencia",
+  "location": {
+    "city_id": 5572
+  },
+  "finance": {
+    "balance": 486
+  },
+  "teams": [
+    {
+      "id": 78041593,
+      "name": "Potencia",
+      "slug": "potencia",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2300,
+        "national": 2300,
+        "world": 2300
+      }
+    },
+    {
+      "id": 95000039,
+      "name": "Potencia",
+      "slug": "potencia-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 690,
+        "national": 690,
+        "world": 690
+      }
+    },
+    {
+      "id": 95000040,
+      "name": "Potencia",
+      "slug": "potencia-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 460,
+        "national": 460,
+        "world": 460
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#3e8c4b"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Poor",
+    "academy": "Poor",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 100
+}

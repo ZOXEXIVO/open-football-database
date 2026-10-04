@@ -1,0 +1,57 @@
+{
+  "id": 129661,
+  "name": "Athens Kallithea",
+  "location": {
+    "city_id": 5512
+  },
+  "finance": {
+    "balance": 262890
+  },
+  "teams": [
+    {
+      "id": 129661,
+      "name": "Athens Kallithea",
+      "slug": "athens-kallithea",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 94600017,
+      "name": "Athens Kallithea",
+      "slug": "athens-kallithea-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 94600018,
+      "name": "Athens Kallithea",
+      "slug": "athens-kallithea-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#26488b",
+    "foreground": "#c9c93c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1000
+}

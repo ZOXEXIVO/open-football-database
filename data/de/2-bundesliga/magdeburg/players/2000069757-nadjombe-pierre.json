@@ -1,0 +1,47 @@
+{
+  "id": 2000069757,
+  "first_name": "Pierre",
+  "last_name": "Nadjombe",
+  "birth_date": "2003-05-10",
+  "country_id": 50,
+  "club_id": 2233,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 103,
+  "potential_ability": 125,
+  "contract": {
+    "salary": 86164,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 916, "p": 0 },
+    { "s": 2020, "c": 916, "p": 0 },
+    { "s": 2021, "c": 6002512, "p": 4 },
+    { "s": 2022, "c": 6002512, "p": 25, "g": 1 },
+    { "s": 2023, "c": 6002512, "p": 19, "g": 2 },
+    { "s": 2024, "c": 2233, "p": 6 },
+    { "s": 2024, "c": 8723276, "p": 18, "g": 4 }
+  ]
+}

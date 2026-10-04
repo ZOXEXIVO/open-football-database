@@ -1,0 +1,27 @@
+{
+  "id": 2000224887,
+  "first_name": "Dinko",
+  "last_name": "Gašparić",
+  "birth_date": "2004-12-13",
+  "country_id": 761,
+  "club_id": 129866,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 71,
+  "potential_ability": 87,
+  "history": [
+    { "s": 2021, "c": 24013516, "p": 0 },
+    { "s": 2022, "c": 24013516, "p": 0 },
+    { "s": 2023, "c": 5740644, "p": 25 },
+    { "s": 2024, "c": 129866, "p": 25 },
+    { "s": 2025, "c": 129886, "p": 7 }
+  ]
+}

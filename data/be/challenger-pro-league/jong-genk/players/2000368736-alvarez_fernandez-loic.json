@@ -1,0 +1,33 @@
+{
+  "id": 2000368736,
+  "first_name": "Loïc",
+  "last_name": "Alvarez Fernandez",
+  "birth_date": "2008-01-29",
+  "country_id": 757,
+  "club_id": 2000173149,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 77532,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 980, "p": 0 }
+  ]
+}

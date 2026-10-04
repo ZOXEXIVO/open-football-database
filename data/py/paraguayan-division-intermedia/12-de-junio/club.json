@@ -1,0 +1,57 @@
+{
+  "id": 2000321167,
+  "name": "12 de Junio",
+  "location": {
+    "city_id": 5541
+  },
+  "finance": {
+    "balance": 317500
+  },
+  "teams": [
+    {
+      "id": 2000321167,
+      "name": "12 de Junio",
+      "slug": "12-de-junio",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2500,
+        "national": 2500,
+        "world": 2500
+      }
+    },
+    {
+      "id": 94800005,
+      "name": "12 de Junio",
+      "slug": "12-de-junio-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 750,
+        "national": 750,
+        "world": 750
+      }
+    },
+    {
+      "id": 94800006,
+      "name": "12 de Junio",
+      "slug": "12-de-junio-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 500,
+        "national": 500,
+        "world": 500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c72de",
+    "foreground": "#ffd642"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 300
+}

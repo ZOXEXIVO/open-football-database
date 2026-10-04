@@ -1,0 +1,32 @@
+{
+  "id": 18115925,
+  "first_name": "Arthur",
+  "last_name": "De Bolle",
+  "birth_date": "2002-08-04",
+  "country_id": 757,
+  "club_id": 216,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 106,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 8154758, "p": 0 },
+    { "s": 2021, "c": 527945, "p": 1 },
+    { "s": 2022, "c": 2000203979, "p": 20 },
+    { "s": 2023, "c": 2000203979, "p": 20 },
+    { "s": 2024, "c": 2000274502, "p": 26 }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000281610,
+  "first_name": "Kelvin",
+  "last_name": "Kargbo",
+  "birth_date": "2007-08-31",
+  "country_id": 765,
+  "club_id": 257,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 45,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 5110769, "p": 0 },
+    { "s": 2024, "c": 5110769, "p": 0 }
+  ]
+}

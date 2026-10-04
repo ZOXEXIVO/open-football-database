@@ -1,0 +1,33 @@
+{
+  "id": 2000128621,
+  "first_name": "Dino",
+  "last_name": "Šimunić",
+  "birth_date": "2003-09-11",
+  "country_id": 761,
+  "club_id": 129858,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 108,
+  "history": [
+    { "s": 2022, "c": 661680, "p": 23 },
+    { "s": 2023, "c": 661680, "p": 32, "g": 3 },
+    { "s": 2024, "c": 129858, "p": 28, "g": 1 }
+  ]
+}

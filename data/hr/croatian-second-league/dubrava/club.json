@@ -1,0 +1,57 @@
+{
+  "id": 650441,
+  "name": "Dubrava",
+  "location": {
+    "city_id": 5518
+  },
+  "finance": {
+    "balance": 97790
+  },
+  "teams": [
+    {
+      "id": 650441,
+      "name": "Dubrava",
+      "slug": "dubrava",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3900,
+        "national": 3900,
+        "world": 3900
+      }
+    },
+    {
+      "id": 92100031,
+      "name": "Dubrava",
+      "slug": "dubrava-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1170,
+        "national": 1170,
+        "world": 1170
+      }
+    },
+    {
+      "id": 92100032,
+      "name": "Dubrava",
+      "slug": "dubrava-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 780,
+        "national": 780,
+        "world": 780
+      }
+    }
+  ],
+  "colors": {
+    "background": "#523194",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Adequate",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 200
+}

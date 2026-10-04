@@ -1,0 +1,35 @@
+{
+  "id": 2000308246,
+  "first_name": "Matteo",
+  "last_name": "Vandendaele",
+  "birth_date": "2005-06-16",
+  "country_id": 757,
+  "club_id": 257,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 87,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 38740,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 257, "p": 2 },
+    { "s": 2024, "c": 1002, "p": 6 },
+    { "s": 2024, "c": 8151525, "p": 14 }
+  ]
+}

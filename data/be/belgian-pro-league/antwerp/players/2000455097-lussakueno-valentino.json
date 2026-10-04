@@ -1,0 +1,28 @@
+{
+  "id": 2000455097,
+  "first_name": "Valentino",
+  "last_name": "Lussakueno",
+  "birth_date": "2009-02-09",
+  "country_id": 757,
+  "club_id": 262,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 186, "p": 0 }
+  ]
+}

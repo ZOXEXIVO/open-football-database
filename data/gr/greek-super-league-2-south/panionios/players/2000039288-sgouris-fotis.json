@@ -1,0 +1,31 @@
+{
+  "id": 2000039288,
+  "first_name": "Fotis",
+  "last_name": "Sgouris",
+  "birth_date": "2002-04-29",
+  "country_id": 772,
+  "club_id": 984,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 36015258, "p": 0 },
+    { "s": 2019, "c": 36015258, "p": 0 },
+    { "s": 2020, "c": 694366, "p": 0 },
+    { "s": 2021, "c": 694366, "p": 0 },
+    { "s": 2022, "c": 694366, "p": 0 },
+    { "s": 2023, "c": 694366, "p": 1 },
+    { "s": 2024, "c": 694366, "p": 0 },
+    { "s": 2024, "c": 2000375864, "p": 13 }
+  ]
+}

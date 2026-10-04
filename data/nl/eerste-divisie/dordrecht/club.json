@@ -1,0 +1,57 @@
+{
+  "id": 1001,
+  "name": "Dordrecht",
+  "location": {
+    "city_id": 5442
+  },
+  "finance": {
+    "balance": 29210
+  },
+  "teams": [
+    {
+      "id": 1001,
+      "name": "Dordrecht",
+      "slug": "dordrecht",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 94200001,
+      "name": "Dordrecht",
+      "slug": "dordrecht-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 94200002,
+      "name": "Dordrecht",
+      "slug": "dordrecht-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c8c57",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2500
+}

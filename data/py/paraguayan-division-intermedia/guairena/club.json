@@ -1,0 +1,57 @@
+{
+  "id": 79024244,
+  "name": "Guairena",
+  "location": {
+    "city_id": 5551
+  },
+  "finance": {
+    "balance": 431800
+  },
+  "teams": [
+    {
+      "id": 79024244,
+      "name": "Guairena",
+      "slug": "guairena",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3400,
+        "national": 3400,
+        "world": 3400
+      }
+    },
+    {
+      "id": 94800025,
+      "name": "Guairena",
+      "slug": "guairena-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    },
+    {
+      "id": 94800026,
+      "name": "Guairena",
+      "slug": "guairena-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 680,
+        "national": 680,
+        "world": 680
+      }
+    }
+  ],
+  "colors": {
+    "background": "#98f0f0",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 800
+}

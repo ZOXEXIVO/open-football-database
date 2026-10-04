@@ -1,0 +1,40 @@
+{
+  "id": 2000332083,
+  "first_name": "King",
+  "last_name": "Manu",
+  "birth_date": "2003-11-23",
+  "country_id": 771,
+  "club_id": 921,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 109,
+  "potential_ability": 128,
+  "contract": {
+    "salary": 86164,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 91183392, "p": 30, "g": 4 },
+    { "s": 2023, "c": 921, "p": 5 },
+    { "s": 2023, "c": 879270, "p": 17, "g": 4 },
+    { "s": 2024, "c": 928, "p": 16 }
+  ]
+}

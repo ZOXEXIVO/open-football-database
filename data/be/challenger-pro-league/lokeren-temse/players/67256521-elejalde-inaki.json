@@ -1,0 +1,34 @@
+{
+  "id": 67256521,
+  "first_name": "Iñaki",
+  "last_name": "Elejalde",
+  "birth_date": "1999-01-20",
+  "country_id": 796,
+  "club_id": 536364,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 97,
+  "potential_ability": 112,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 4212156, "p": 0 },
+    { "s": 2019, "c": 4212156, "p": 22 },
+    { "s": 2020, "c": 4212261, "p": 22, "g": 1 },
+    { "s": 2021, "c": 4212261, "p": 34, "g": 11 },
+    { "s": 2022, "c": 4203033, "p": 35, "g": 5 },
+    { "s": 2023, "c": 4212284, "p": 19, "g": 4 },
+    { "s": 2024, "c": 814590, "p": 27, "g": 4 }
+  ]
+}

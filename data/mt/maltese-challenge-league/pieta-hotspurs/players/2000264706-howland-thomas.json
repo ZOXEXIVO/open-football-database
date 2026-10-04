@@ -1,0 +1,30 @@
+{
+  "id": 2000264706,
+  "first_name": "Thomas",
+  "last_name": "Howland",
+  "birth_date": "2005-09-01",
+  "country_id": 782,
+  "club_id": 1245,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 26,
+  "potential_ability": -3,
+  "history": [
+    { "s": 2021, "c": 1245, "p": 0 },
+    { "s": 2022, "c": 1245, "p": 2 },
+    { "s": 2023, "c": 47038861, "p": 23, "g": 1 },
+    { "s": 2024, "c": 47041701, "p": 20 }
+  ]
+}

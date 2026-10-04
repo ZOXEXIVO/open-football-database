@@ -1,0 +1,57 @@
+{
+  "id": 2245,
+  "name": "Holstein Kiel",
+  "location": {
+    "city_id": 5419
+  },
+  "finance": {
+    "balance": 7620000
+  },
+  "teams": [
+    {
+      "id": 2245,
+      "name": "Holstein Kiel",
+      "slug": "holstein-kiel",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5800,
+        "national": 5800,
+        "world": 5800
+      }
+    },
+    {
+      "id": 94100003,
+      "name": "Holstein Kiel",
+      "slug": "holstein-kiel-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1740,
+        "national": 1740,
+        "world": 1740
+      }
+    },
+    {
+      "id": 94100004,
+      "name": "Holstein Kiel",
+      "slug": "holstein-kiel-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1160,
+        "national": 1160,
+        "world": 1160
+      }
+    }
+  ],
+  "colors": {
+    "background": "#005397",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 14500
+}

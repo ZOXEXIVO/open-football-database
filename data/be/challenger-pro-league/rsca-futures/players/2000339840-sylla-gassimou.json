@@ -1,0 +1,39 @@
+{
+  "id": 2000339840,
+  "first_name": "Gassimou",
+  "last_name": "Sylla",
+  "birth_date": "2008-08-10",
+  "country_id": 757,
+  "club_id": 2000173150,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": -75,
+  "contract": {
+    "salary": 89856,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 536232, "p": 0 },
+    { "s": 2023, "c": 256, "p": 0 },
+    { "s": 2024, "c": 2000173150, "p": 16, "g": 3 }
+  ]
+}

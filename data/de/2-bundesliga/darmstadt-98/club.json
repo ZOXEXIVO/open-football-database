@@ -1,0 +1,57 @@
+{
+  "id": 108997,
+  "name": "Darmstadt 98",
+  "location": {
+    "city_id": 5424
+  },
+  "finance": {
+    "balance": 11430000
+  },
+  "teams": [
+    {
+      "id": 108997,
+      "name": "Darmstadt 98",
+      "slug": "darmstadt-98",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6100,
+        "national": 6100,
+        "world": 6100
+      }
+    },
+    {
+      "id": 94100013,
+      "name": "Darmstadt 98",
+      "slug": "darmstadt-98-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1830,
+        "national": 1830,
+        "world": 1830
+      }
+    },
+    {
+      "id": 94100014,
+      "name": "Darmstadt 98",
+      "slug": "darmstadt-98-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1220,
+        "national": 1220,
+        "world": 1220
+      }
+    }
+  ],
+  "colors": {
+    "background": "#004e9e",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 16500
+}

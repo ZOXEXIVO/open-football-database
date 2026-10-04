@@ -1,0 +1,32 @@
+{
+  "id": 2000138943,
+  "first_name": "Sam",
+  "last_name": "Vanderhallen",
+  "birth_date": "2004-02-13",
+  "country_id": 757,
+  "club_id": 18008817,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 91,
+  "potential_ability": 125,
+  "contract": {
+    "salary": 80860,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 18008817, "p": 0 },
+    { "s": 2022, "c": 18008817, "p": 4 },
+    { "s": 2023, "c": 18008817, "p": 7 },
+    { "s": 2024, "c": 18008817, "p": 5 }
+  ]
+}

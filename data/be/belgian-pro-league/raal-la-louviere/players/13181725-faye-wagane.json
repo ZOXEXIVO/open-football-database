@@ -1,0 +1,38 @@
+{
+  "id": 13181725,
+  "first_name": "Wagane",
+  "last_name": "Faye",
+  "birth_date": "1993-11-20",
+  "country_id": 41,
+  "club_id": 169,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 105,
+  "potential_ability": 110,
+  "contract": {
+    "salary": 80860,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 85010212, "p": 0 },
+    { "s": 2016, "c": 216, "p": 24, "g": 1 },
+    { "s": 2016, "c": 844, "p": 0 },
+    { "s": 2017, "c": 216, "p": 22 },
+    { "s": 2018, "c": 216, "p": 27 },
+    { "s": 2019, "c": 216, "p": 20, "g": 1 },
+    { "s": 2020, "c": 216, "p": 12 },
+    { "s": 2021, "c": 216, "p": 18 },
+    { "s": 2022, "c": 169, "p": 28, "g": 1 },
+    { "s": 2024, "c": 169, "p": 22 }
+  ]
+}

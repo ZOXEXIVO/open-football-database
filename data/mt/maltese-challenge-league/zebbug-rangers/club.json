@@ -1,0 +1,57 @@
+{
+  "id": 47038754,
+  "name": "Zebbug Rangers",
+  "location": {
+    "city_id": 5468
+  },
+  "finance": {
+    "balance": 177800
+  },
+  "teams": [
+    {
+      "id": 47038754,
+      "name": "Zebbug Rangers",
+      "slug": "zebbug-rangers",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1400,
+        "national": 1400,
+        "world": 1400
+      }
+    },
+    {
+      "id": 94400001,
+      "name": "Zebbug Rangers",
+      "slug": "zebbug-rangers-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 420,
+        "national": 420,
+        "world": 420
+      }
+    },
+    {
+      "id": 94400002,
+      "name": "Zebbug Rangers",
+      "slug": "zebbug-rangers-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 280,
+        "national": 280,
+        "world": 280
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#3c8c57"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Limited",
+    "academy": "Basic",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 150
+}

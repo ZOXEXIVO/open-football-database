@@ -1,0 +1,46 @@
+{
+  "id": 91188470,
+  "first_name": "Ron",
+  "last_name": "Schallenberg",
+  "birth_date": "1998-10-06",
+  "country_id": 771,
+  "club_id": 920,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 125,
+  "potential_ability": 134,
+  "contract": {
+    "salary": 517088,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 121198, "p": 0 },
+    { "s": 2016, "c": 893051, "p": 21 },
+    { "s": 2017, "c": 893051, "p": 20 },
+    { "s": 2018, "c": 121196, "p": 27, "g": 4 },
+    { "s": 2019, "c": 121196, "p": 21, "g": 4 },
+    { "s": 2020, "c": 121198, "p": 31, "g": 1 },
+    { "s": 2021, "c": 121198, "p": 31, "g": 3 },
+    { "s": 2022, "c": 121198, "p": 33, "g": 3 },
+    { "s": 2023, "c": 920, "p": 26 },
+    { "s": 2024, "c": 920, "p": 31, "g": 3 }
+  ]
+}

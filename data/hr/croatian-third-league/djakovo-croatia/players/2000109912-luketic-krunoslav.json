@@ -1,0 +1,31 @@
+{
+  "id": 2000109912,
+  "first_name": "Krunoslav",
+  "last_name": "Luketić",
+  "birth_date": "2000-10-25",
+  "country_id": 761,
+  "club_id": 24038155,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 77,
+  "potential_ability": 84,
+  "history": [
+    { "s": 2020, "c": 24063701, "p": 17 },
+    { "s": 2021, "c": 24063701, "p": 32 },
+    { "s": 2022, "c": 24038155, "p": 29, "g": 2 },
+    { "s": 2023, "c": 24038155, "p": 28 },
+    { "s": 2024, "c": 24038155, "p": 28, "g": 1 }
+  ]
+}

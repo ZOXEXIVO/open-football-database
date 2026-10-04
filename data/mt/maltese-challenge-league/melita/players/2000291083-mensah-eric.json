@@ -1,0 +1,37 @@
+{
+  "id": 2000291083,
+  "first_name": "Eric",
+  "last_name": "Mensah",
+  "birth_date": "2004-08-10",
+  "country_id": 21,
+  "club_id": 47017457,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 57,
+  "potential_ability": 72,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 133179, "p": 11, "g": 1 },
+    { "s": 2024, "c": 47041732, "p": 19, "g": 2 }
+  ]
+}

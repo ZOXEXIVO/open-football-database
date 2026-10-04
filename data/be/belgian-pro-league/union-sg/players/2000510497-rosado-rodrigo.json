@@ -1,0 +1,28 @@
+{
+  "id": 2000510497,
+  "first_name": "Rodrigo",
+  "last_name": "Rosado",
+  "birth_date": "2009-04-20",
+  "country_id": 788,
+  "club_id": 288,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 288, "p": 0 }
+  ]
+}

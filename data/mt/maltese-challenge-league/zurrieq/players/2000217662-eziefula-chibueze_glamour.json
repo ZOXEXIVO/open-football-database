@@ -1,0 +1,30 @@
+{
+  "id": 2000217662,
+  "first_name": "Chibueze Glamour",
+  "last_name": "Eziefula",
+  "birth_date": "2003-02-15",
+  "country_id": 38,
+  "club_id": 1251,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 64,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 133179, "p": 7 },
+    { "s": 2023, "c": 1251, "p": 25, "g": 3 },
+    { "s": 2024, "c": 1251, "p": 14 }
+  ]
+}

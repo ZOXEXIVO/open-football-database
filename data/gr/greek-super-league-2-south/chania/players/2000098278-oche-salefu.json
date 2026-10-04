@@ -1,0 +1,50 @@
+{
+  "id": 2000098278,
+  "first_name": "Salefu",
+  "last_name": "Oche",
+  "birth_date": "2001-10-13",
+  "country_id": 38,
+  "club_id": 36043527,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 120,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 5340760, "p": 18, "g": 1 },
+    { "s": 2020, "c": 5340760, "p": 26, "g": 6 },
+    { "s": 2021, "c": 2387, "p": 13, "g": 1 },
+    { "s": 2022, "c": 2387, "p": 30, "g": 5 },
+    { "s": 2023, "c": 2387, "p": 28, "g": 4 },
+    { "s": 2024, "c": 2000028043, "p": 0 },
+    { "s": 2025, "c": 1088, "p": 19, "g": 3 }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 37060575,
+  "name": "Jong Utrecht",
+  "parent_club": {
+    "id": 1010,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 3104
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 37060575,
+      "name": "Jong Utrecht",
+      "slug": "jong-utrecht",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e2001a",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 700
+}

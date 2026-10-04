@@ -1,0 +1,57 @@
+{
+  "id": 676958,
+  "name": "Makedonikos",
+  "location": {
+    "city_id": 5489
+  },
+  "finance": {
+    "balance": 29210
+  },
+  "teams": [
+    {
+      "id": 676958,
+      "name": "Makedonikos",
+      "slug": "makedonikos",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 94500011,
+      "name": "Makedonikos",
+      "slug": "makedonikos-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 94500012,
+      "name": "Makedonikos",
+      "slug": "makedonikos-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#008c64",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Adequate",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 800
+}

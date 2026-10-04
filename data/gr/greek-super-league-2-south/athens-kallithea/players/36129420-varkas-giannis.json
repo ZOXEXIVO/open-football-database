@@ -1,0 +1,56 @@
+{
+  "id": 36129420,
+  "first_name": "Giannis",
+  "last_name": "Varkas",
+  "birth_date": "1998-03-27",
+  "country_id": 772,
+  "club_id": 129661,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 3, "u21_goals": 0},
+  "history": [
+    { "s": 2014, "c": 981, "p": 0 },
+    { "s": 2015, "c": 981, "p": 0 },
+    { "s": 2016, "c": 981, "p": 0 },
+    { "s": 2017, "c": 981, "p": 0 },
+    { "s": 2018, "c": 968, "p": 15 },
+    { "s": 2019, "c": 968, "p": 14, "g": 1 },
+    { "s": 2020, "c": 968, "p": 6 },
+    { "s": 2021, "c": 36043527, "p": 28, "g": 2 },
+    { "s": 2022, "c": 36000499, "p": 23, "g": 4 },
+    { "s": 2023, "c": 129657, "p": 30, "g": 1 },
+    { "s": 2024, "c": 129657, "p": 24, "g": 6 },
+    { "s": 2025, "c": 129657, "p": 13, "g": 2 }
+  ]
+}

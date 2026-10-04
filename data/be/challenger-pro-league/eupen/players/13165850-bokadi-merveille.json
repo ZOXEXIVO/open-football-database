@@ -1,0 +1,44 @@
+{
+  "id": 13165850,
+  "first_name": "Merveille",
+  "last_name": "Bokadi",
+  "birth_date": "1996-05-21",
+  "country_id": 53,
+  "club_id": 194,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 122,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 28, "goals": 1, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2016, "c": 250, "p": 2 },
+    { "s": 2017, "c": 250, "p": 8 },
+    { "s": 2018, "c": 250, "p": 13, "g": 1 },
+    { "s": 2019, "c": 250, "p": 6 },
+    { "s": 2020, "c": 250, "p": 31, "g": 4 },
+    { "s": 2021, "c": 250, "p": 19, "g": 1 },
+    { "s": 2022, "c": 250, "p": 37, "g": 1 },
+    { "s": 2023, "c": 250, "p": 18, "g": 1 }
+  ]
+}

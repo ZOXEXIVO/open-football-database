@@ -1,0 +1,53 @@
+{
+  "id": 2000366875,
+  "first_name": "Matej",
+  "last_name": "Gašpar",
+  "birth_date": "2005-08-22",
+  "country_id": 761,
+  "club_id": 129858,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2027-06-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 652649, "p": 0 },
+    { "s": 2022, "c": 652649, "p": 0 },
+    { "s": 2023, "c": 433, "p": 0 },
+    { "s": 2023, "c": 652649, "p": 3 },
+    { "s": 2024, "c": 8403736, "p": 7 },
+    { "s": 2024, "c": 24005249, "p": 14 }
+  ]
+}

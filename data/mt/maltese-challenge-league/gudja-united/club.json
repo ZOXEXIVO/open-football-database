@@ -1,0 +1,57 @@
+{
+  "id": 47020810,
+  "name": "Gudja United",
+  "location": {
+    "city_id": 5476
+  },
+  "finance": {
+    "balance": 165100
+  },
+  "teams": [
+    {
+      "id": 47020810,
+      "name": "Gudja United",
+      "slug": "gudja-united",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1300,
+        "national": 1300,
+        "world": 1300
+      }
+    },
+    {
+      "id": 94400017,
+      "name": "Gudja United",
+      "slug": "gudja-united-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 390,
+        "national": 390,
+        "world": 390
+      }
+    },
+    {
+      "id": 94400018,
+      "name": "Gudja United",
+      "slug": "gudja-united-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 260,
+        "national": 260,
+        "world": 260
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3862e0",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Poor",
+    "academy": "Poor",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 120
+}

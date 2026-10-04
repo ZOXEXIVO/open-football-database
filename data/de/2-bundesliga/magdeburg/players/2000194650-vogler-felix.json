@@ -1,0 +1,43 @@
+{
+  "id": 2000194650,
+  "first_name": "Felix",
+  "last_name": "Vogler",
+  "birth_date": "2003-04-12",
+  "country_id": 771,
+  "club_id": 2233,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 110,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 121183, "p": 0 },
+    { "s": 2022, "c": 8723276, "p": 34, "g": 15 },
+    { "s": 2023, "c": 8723276, "p": 27, "g": 4 },
+    { "s": 2024, "c": 8723276, "p": 20 }
+  ]
+}

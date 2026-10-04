@@ -1,0 +1,45 @@
+{
+  "id": 36160674,
+  "first_name": "Petros",
+  "last_name": "Kaloutsikidis",
+  "birth_date": "2001-03-28",
+  "country_id": 772,
+  "club_id": 1300567,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 110,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 982, "p": 0 },
+    { "s": 2017, "c": 982, "p": 0 },
+    { "s": 2018, "c": 982, "p": 0 },
+    { "s": 2019, "c": 982, "p": 0 },
+    { "s": 2020, "c": 982, "p": 0 },
+    { "s": 2020, "c": 129704, "p": 14 },
+    { "s": 2021, "c": 2000110737, "p": 20, "g": 1 },
+    { "s": 2022, "c": 978, "p": 22, "g": 1 },
+    { "s": 2023, "c": 978, "p": 26 },
+    { "s": 2024, "c": 976, "p": 25 }
+  ]
+}

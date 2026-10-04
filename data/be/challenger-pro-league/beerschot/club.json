@@ -1,0 +1,57 @@
+{
+  "id": 298,
+  "name": "Beerschot",
+  "location": {
+    "city_id": 5463
+  },
+  "finance": {
+    "balance": 885190
+  },
+  "teams": [
+    {
+      "id": 298,
+      "name": "Beerschot",
+      "slug": "beerschot",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 94300013,
+      "name": "Beerschot",
+      "slug": "beerschot-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 94300014,
+      "name": "Beerschot",
+      "slug": "beerschot-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#663ebd",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Average"
+  },
+  "average_attendance": 7500
+}

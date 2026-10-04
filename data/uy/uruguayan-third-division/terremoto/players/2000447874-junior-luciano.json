@@ -1,0 +1,30 @@
+{
+  "id": 2000447874,
+  "first_name": "Luciano",
+  "last_name": "Junior",
+  "birth_date": "2006-11-22",
+  "country_id": 1651,
+  "club_id": 78037929,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 79,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2022, "c": 19382026, "p": 0 },
+    { "s": 2023, "c": 340, "p": 0 },
+    { "s": 2024, "c": 2000053639, "p": 0 },
+    { "s": 2025, "c": 78037929, "p": 0 }
+  ]
+}

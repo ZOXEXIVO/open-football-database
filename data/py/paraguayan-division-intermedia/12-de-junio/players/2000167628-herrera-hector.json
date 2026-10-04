@@ -1,0 +1,34 @@
+{
+  "id": 2000167628,
+  "first_name": "Héctor",
+  "last_name": "Herrera",
+  "birth_date": "2002-02-27",
+  "country_id": 1649,
+  "club_id": 2000321167,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 99,
+  "potential_ability": 108,
+  "history": [
+    { "s": 2023, "c": 956891, "p": 17 },
+    { "s": 2024, "c": 956891, "p": 2 },
+    { "s": 2025, "c": 956891, "p": 0 },
+    { "s": 2025, "c": 5280347, "p": 10 }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2000500654,
+  "first_name": "Lars",
+  "last_name": "van de Giessen",
+  "birth_date": "2005-09-14",
+  "country_id": 784,
+  "club_id": 1001,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 49046901,
+  "first_name": "Yannis",
+  "last_name": "M'Bemba",
+  "birth_date": "2001-07-01",
+  "country_id": 19,
+  "club_id": 1001,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 116,
+  "contract": {
+    "salary": 67392,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 1, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2017, "c": 846, "p": 0 },
+    { "s": 2018, "c": 846, "p": 0 },
+    { "s": 2019, "c": 846, "p": 0 },
+    { "s": 2020, "c": 846, "p": 0 },
+    { "s": 2020, "c": 48038844, "p": 3 },
+    { "s": 2021, "c": 846, "p": 2 },
+    { "s": 2021, "c": 48038844, "p": 20, "g": 1 },
+    { "s": 2022, "c": 85060443, "p": 24 },
+    { "s": 2023, "c": 846, "p": 0 },
+    { "s": 2023, "c": 48038844, "p": 25, "g": 1 },
+    { "s": 2024, "c": 1001, "p": 30 }
+  ]
+}

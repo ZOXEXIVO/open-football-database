@@ -1,0 +1,39 @@
+{
+  "id": 2000122327,
+  "first_name": "Dimitris",
+  "last_name": "Tatsis",
+  "birth_date": "2000-03-28",
+  "country_id": 772,
+  "club_id": 129657,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 80,
+  "potential_ability": 95,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 129667, "p": 0 },
+    { "s": 2017, "c": 129667, "p": 0 },
+    { "s": 2018, "c": 129667, "p": 0 },
+    { "s": 2019, "c": 36036606, "p": 21 },
+    { "s": 2021, "c": 678102, "p": 27 },
+    { "s": 2022, "c": 678102, "p": 26, "g": 1 },
+    { "s": 2023, "c": 129699, "p": 27 },
+    { "s": 2024, "c": 129657, "p": 19 }
+  ]
+}

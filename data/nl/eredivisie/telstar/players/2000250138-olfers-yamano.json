@@ -1,0 +1,33 @@
+{
+  "id": 2000250138,
+  "first_name": "Yamano",
+  "last_name": "Olfers",
+  "birth_date": "2006-08-02",
+  "country_id": 387,
+  "club_id": 1043,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 30316,
+    "expiration": "2025-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1043, "p": 2 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 129886,
+  "name": "Radnik Krizevci",
+  "location": {
+    "city_id": 5525
+  },
+  "finance": {
+    "balance": 10160
+  },
+  "teams": [
+    {
+      "id": 129886,
+      "name": "Radnik Krizevci",
+      "slug": "radnik-krizevci",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3300,
+        "national": 3300,
+        "world": 3300
+      }
+    },
+    {
+      "id": 94700009,
+      "name": "Radnik Krizevci",
+      "slug": "radnik-krizevci-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 990,
+        "national": 990,
+        "world": 990
+      }
+    },
+    {
+      "id": 94700010,
+      "name": "Radnik Krizevci",
+      "slug": "radnik-krizevci-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 300
+}

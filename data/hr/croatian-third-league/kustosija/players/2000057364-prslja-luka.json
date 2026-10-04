@@ -1,0 +1,27 @@
+{
+  "id": 2000057364,
+  "first_name": "Luka",
+  "last_name": "Pršlja",
+  "birth_date": "2004-03-02",
+  "country_id": 761,
+  "club_id": 24005249,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": 112,
+  "history": [
+    { "s": 2020, "c": 432, "p": 0 },
+    { "s": 2023, "c": 129873, "p": 31 },
+    { "s": 2024, "c": 129873, "p": 15 },
+    { "s": 2024, "c": 8403736, "p": 6 },
+    { "s": 2025, "c": 24059190, "p": 2 }
+  ]
+}

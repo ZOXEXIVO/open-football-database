@@ -1,0 +1,29 @@
+{
+  "id": 2000373078,
+  "first_name": "Yuneiker",
+  "last_name": "Ríos",
+  "birth_date": "2001-05-15",
+  "country_id": 1658,
+  "club_id": 5280339,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 110,
+  "history": [
+    { "s": 2024, "c": 5280218, "p": 10, "g": 2 },
+    { "s": 2025, "c": 5280218, "p": 1 },
+    { "s": 2025, "c": 2000322990, "p": 10 }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000047175,
+  "first_name": "Rodrigo",
+  "last_name": "Rey",
+  "birth_date": "2004-10-18",
+  "country_id": 1657,
+  "club_id": 78014831,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 113,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 130849, "p": 0 },
+    { "s": 2021, "c": 130849, "p": 4 },
+    { "s": 2022, "c": 130849, "p": 13 },
+    { "s": 2023, "c": 130849, "p": 19, "g": 2 },
+    { "s": 2023, "c": 5512780, "p": 13, "g": 3 },
+    { "s": 2024, "c": 130849, "p": 0 },
+    { "s": 2024, "c": 5512782, "p": 24, "g": 5 },
+    { "s": 2025, "c": 5512789, "p": 23, "g": 2 }
+  ]
+}

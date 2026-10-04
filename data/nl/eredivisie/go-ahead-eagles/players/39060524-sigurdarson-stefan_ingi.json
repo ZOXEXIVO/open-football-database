@@ -1,0 +1,38 @@
+{
+  "id": 39060524,
+  "first_name": "Stefán Ingi",
+  "last_name": "Sigurðarson",
+  "birth_date": "2001-01-27",
+  "country_id": 774,
+  "club_id": 1015,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 70
+  },
+  "current_ability": 116,
+  "potential_ability": 128,
+  "contract": {
+    "salary": 190944,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1069, "p": 0 },
+    { "s": 2019, "c": 39005278, "p": 4, "g": 3 },
+    { "s": 2020, "c": 1069, "p": 4 },
+    { "s": 2020, "c": 1300640, "p": 6, "g": 3 },
+    { "s": 2021, "c": 1074, "p": 10, "g": 3 },
+    { "s": 2022, "c": 7840140, "p": 13, "g": 10 },
+    { "s": 2023, "c": 248, "p": 23, "g": 8 },
+    { "s": 2023, "c": 1069, "p": 12, "g": 10 },
+    { "s": 2024, "c": 1380, "p": 15, "g": 4 },
+    { "s": 2025, "c": 1380, "p": 27, "g": 15 }
+  ]
+}

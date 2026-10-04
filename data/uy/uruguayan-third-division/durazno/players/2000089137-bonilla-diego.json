@@ -1,0 +1,30 @@
+{
+  "id": 2000089137,
+  "first_name": "Diego",
+  "last_name": "Bonilla",
+  "birth_date": "2002-02-11",
+  "country_id": 1657,
+  "club_id": 78009701,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 90,
+  "history": [
+    { "s": 2021, "c": 15048180, "p": 11 },
+    { "s": 2023, "c": 78009701, "p": 9, "g": 3 },
+    { "s": 2024, "c": 78009701, "p": 1 },
+    { "s": 2025, "c": 78009701, "p": 10, "g": 3 }
+  ]
+}

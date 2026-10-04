@@ -1,0 +1,39 @@
+{
+  "id": 856118,
+  "name": "Jong Ajax",
+  "parent_club": {
+    "id": 992,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 3100
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 856118,
+      "name": "Jong Ajax",
+      "slug": "jong-ajax",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5200,
+        "national": 5200,
+        "world": 5200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e2001a",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Superb",
+    "youth": "Excellent",
+    "academy": "Excellent",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 1200
+}

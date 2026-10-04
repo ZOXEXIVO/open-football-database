@@ -1,0 +1,41 @@
+{
+  "id": 2000176653,
+  "first_name": "Felix",
+  "last_name": "Hagmann",
+  "birth_date": "2004-01-29",
+  "country_id": 771,
+  "club_id": 904,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 132,
+  "contract": {
+    "salary": 86164,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 893061, "p": 10 },
+    { "s": 2022, "c": 893061, "p": 27, "g": 1 },
+    { "s": 2023, "c": 893061, "p": 24 },
+    { "s": 2024, "c": 904, "p": 23, "g": 1 },
+    { "s": 2024, "c": 893061, "p": 4 }
+  ]
+}

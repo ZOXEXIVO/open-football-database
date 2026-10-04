@@ -1,0 +1,39 @@
+{
+  "id": 2000173149,
+  "name": "Jong Genk",
+  "parent_club": {
+    "id": 258,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 3403
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 2000173149,
+      "name": "Jong Genk",
+      "slug": "jong-genk",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#003da5",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Excellent",
+    "academy": "Good",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 400
+}

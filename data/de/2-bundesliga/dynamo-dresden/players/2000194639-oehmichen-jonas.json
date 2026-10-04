@@ -1,0 +1,50 @@
+{
+  "id": 2000194639,
+  "first_name": "Jonas",
+  "last_name": "Oehmichen",
+  "birth_date": "2004-03-03",
+  "country_id": 771,
+  "club_id": 911,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 126,
+  "contract": {
+    "salary": 68900,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 911, "p": 0 },
+    { "s": 2022, "c": 911, "p": 10 },
+    { "s": 2023, "c": 911, "p": 15 },
+    { "s": 2024, "c": 911, "p": 20, "g": 3 },
+    { "s": 2025, "c": 911, "p": 10 },
+    { "s": 2025, "c": 879685, "p": 3, "g": 2 }
+  ]
+}

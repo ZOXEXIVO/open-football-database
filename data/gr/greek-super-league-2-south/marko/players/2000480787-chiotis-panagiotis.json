@@ -1,0 +1,28 @@
+{
+  "id": 2000480787,
+  "first_name": "Panagiotis",
+  "last_name": "Chiotis",
+  "birth_date": "2004-04-06",
+  "country_id": 772,
+  "club_id": 129701,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 85,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 36103970, "p": 0 },
+    { "s": 2020, "c": 36103970, "p": 0 },
+    { "s": 2021, "c": 150839, "p": 7 },
+    { "s": 2022, "c": 36046299, "p": 20 },
+    { "s": 2023, "c": 36046299, "p": 24 }
+  ]
+}

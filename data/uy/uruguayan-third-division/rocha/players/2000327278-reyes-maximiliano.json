@@ -1,0 +1,25 @@
+{
+  "id": 2000327278,
+  "first_name": "Maximiliano",
+  "last_name": "Reyes",
+  "birth_date": "2003-12-05",
+  "country_id": 1652,
+  "club_id": 130847,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": 79,
+  "history": [
+    { "s": 2023, "c": 75016830, "p": 0 },
+    { "s": 2024, "c": 75016830, "p": 0 },
+    { "s": 2025, "c": 130847, "p": 7 }
+  ]
+}

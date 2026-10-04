@@ -1,0 +1,29 @@
+{
+  "id": 2000134080,
+  "first_name": "Juan",
+  "last_name": "Silvera",
+  "birth_date": "1997-08-15",
+  "country_id": 1657,
+  "club_id": 8825221,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 85,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 8825222, "p": 11, "g": 1 },
+    { "s": 2025, "c": 8825221, "p": 15 }
+  ]
+}

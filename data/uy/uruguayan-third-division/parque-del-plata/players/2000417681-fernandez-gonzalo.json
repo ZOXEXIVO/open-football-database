@@ -1,0 +1,25 @@
+{
+  "id": 2000417681,
+  "first_name": "Gonzalo",
+  "last_name": "Fernández",
+  "birth_date": "1998-09-07",
+  "country_id": 1657,
+  "club_id": 5512790,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 71,
+  "history": [
+    { "s": 2017, "c": 116315, "p": 0 },
+    { "s": 2024, "c": 5512790, "p": 7 },
+    { "s": 2025, "c": 5512790, "p": 1 }
+  ]
+}

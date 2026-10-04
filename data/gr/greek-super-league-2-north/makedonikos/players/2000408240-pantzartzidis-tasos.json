@@ -1,0 +1,27 @@
+{
+  "id": 2000408240,
+  "first_name": "Tasos",
+  "last_name": "Pantzartzidis",
+  "birth_date": "2004-03-28",
+  "country_id": 772,
+  "club_id": 676958,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 677142, "p": 0 },
+    { "s": 2022, "c": 676958, "p": 0 },
+    { "s": 2023, "c": 676958, "p": 0 },
+    { "s": 2024, "c": 676958, "p": 2 }
+  ]
+}

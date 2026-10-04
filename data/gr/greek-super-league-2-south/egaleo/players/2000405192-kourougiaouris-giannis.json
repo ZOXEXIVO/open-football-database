@@ -1,0 +1,29 @@
+{
+  "id": 2000405192,
+  "first_name": "Giannis",
+  "last_name": "Kourougiaouris",
+  "birth_date": "2008-01-15",
+  "country_id": 772,
+  "club_id": 129657,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 129657, "p": 0 },
+    { "s": 2024, "c": 129657, "p": 1 }
+  ]
+}

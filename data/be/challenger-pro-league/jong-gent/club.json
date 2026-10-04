@@ -1,0 +1,39 @@
+{
+  "id": 2000181439,
+  "name": "Jong Gent",
+  "parent_club": {
+    "id": 168,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 3402
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 2000181439,
+      "name": "Jong Gent",
+      "slug": "jong-gent",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#003da5",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Average"
+  },
+  "average_attendance": 400
+}

@@ -1,0 +1,34 @@
+{
+  "id": 79035388,
+  "first_name": "Héctor",
+  "last_name": "Villamayor",
+  "birth_date": "1997-08-03",
+  "country_id": 1655,
+  "club_id": 5280181,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 101,
+  "potential_ability": 110,
+  "history": [
+    { "s": 2020, "c": 5280160, "p": 3 },
+    { "s": 2023, "c": 79003052, "p": 15 },
+    { "s": 2024, "c": 79003052, "p": 22, "g": 2 },
+    { "s": 2025, "c": 5280181, "p": 21, "g": 4 }
+  ]
+}

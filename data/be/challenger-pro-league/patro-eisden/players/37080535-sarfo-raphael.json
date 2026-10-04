@@ -1,0 +1,39 @@
+{
+  "id": 37080535,
+  "first_name": "Raphaël",
+  "last_name": "Sarfo",
+  "birth_date": "2004-01-08",
+  "country_id": 784,
+  "club_id": 248,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 123,
+  "contract": {
+    "salary": 53924,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 856118, "p": 1 },
+    { "s": 2023, "c": 856118, "p": 29, "g": 1 },
+    { "s": 2024, "c": 248, "p": 10, "g": 1 }
+  ]
+}

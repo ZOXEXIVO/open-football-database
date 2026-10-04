@@ -1,0 +1,38 @@
+{
+  "id": 2000150573,
+  "first_name": "Feyzi",
+  "last_name": "Hasanoglu",
+  "birth_date": "1999-12-29",
+  "country_id": 772,
+  "club_id": 36043527,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 95,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 985, "p": 0 },
+    { "s": 2018, "c": 36010475, "p": 25, "g": 1 },
+    { "s": 2021, "c": 676958, "p": 19, "g": 1 },
+    { "s": 2022, "c": 676958, "p": 15 },
+    { "s": 2023, "c": 676958, "p": 16 },
+    { "s": 2024, "c": 676958, "p": 12, "g": 1 },
+    { "s": 2025, "c": 676958, "p": 16 }
+  ]
+}

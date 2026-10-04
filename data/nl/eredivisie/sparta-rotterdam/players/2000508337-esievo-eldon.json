@@ -1,0 +1,29 @@
+{
+  "id": 2000508337,
+  "first_name": "Eldon",
+  "last_name": "Esievo",
+  "birth_date": "2009-08-05",
+  "country_id": 784,
+  "club_id": 1039,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 73,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

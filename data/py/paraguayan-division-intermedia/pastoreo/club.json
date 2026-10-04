@@ -1,0 +1,57 @@
+{
+  "id": 2000014036,
+  "name": "Pastoreo",
+  "location": {
+    "city_id": 5550
+  },
+  "finance": {
+    "balance": 304800
+  },
+  "teams": [
+    {
+      "id": 2000014036,
+      "name": "Pastoreo",
+      "slug": "pastoreo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2400,
+        "national": 2400,
+        "world": 2400
+      }
+    },
+    {
+      "id": 94800023,
+      "name": "Pastoreo",
+      "slug": "pastoreo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 720,
+        "national": 720,
+        "world": 720
+      }
+    },
+    {
+      "id": 94800024,
+      "name": "Pastoreo",
+      "slug": "pastoreo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 480,
+        "national": 480,
+        "world": 480
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 300
+}

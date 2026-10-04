@@ -1,0 +1,40 @@
+{
+  "id": 2000162708,
+  "first_name": "Spyros",
+  "last_name": "Kostopoulos",
+  "birth_date": "2000-07-27",
+  "country_id": 772,
+  "club_id": 129657,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 95,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 36043756, "p": 6 },
+    { "s": 2019, "c": 36093027, "p": 13 },
+    { "s": 2020, "c": 2000020020, "p": 3 },
+    { "s": 2021, "c": 36000499, "p": 19, "g": 1 },
+    { "s": 2022, "c": 36000499, "p": 16 },
+    { "s": 2023, "c": 976, "p": 14, "g": 1 },
+    { "s": 2023, "c": 36000499, "p": 0 },
+    { "s": 2023, "c": 36006475, "p": 12 },
+    { "s": 2024, "c": 129657, "p": 22 }
+  ]
+}

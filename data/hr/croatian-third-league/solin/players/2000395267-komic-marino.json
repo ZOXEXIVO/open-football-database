@@ -1,0 +1,28 @@
+{
+  "id": 2000395267,
+  "first_name": "Marino",
+  "last_name": "Komić",
+  "birth_date": "2007-04-03",
+  "country_id": 761,
+  "club_id": 126423,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 61,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 126423, "p": 0 }
+  ]
+}

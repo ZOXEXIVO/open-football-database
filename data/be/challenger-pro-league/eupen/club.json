@@ -1,0 +1,57 @@
+{
+  "id": 194,
+  "name": "Eupen",
+  "location": {
+    "city_id": 5467
+  },
+  "finance": {
+    "balance": 516890
+  },
+  "teams": [
+    {
+      "id": 194,
+      "name": "Eupen",
+      "slug": "eupen",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 94300021,
+      "name": "Eupen",
+      "slug": "eupen-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1470,
+        "national": 1470,
+        "world": 1470
+      }
+    },
+    {
+      "id": 94300022,
+      "name": "Eupen",
+      "slug": "eupen-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 980,
+        "national": 980,
+        "world": 980
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2500
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1015,
+  "name": "Go Ahead Eagles",
+  "location": {
+    "city_id": 5441
+  },
+  "finance": {
+    "balance": 5080000
+  },
+  "teams": [
+    {
+      "id": 1015,
+      "name": "Go Ahead Eagles",
+      "slug": "go-ahead-eagles",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5900,
+        "national": 5900,
+        "world": 5900
+      }
+    },
+    {
+      "id": 90200047,
+      "name": "Go Ahead Eagles",
+      "slug": "go-ahead-eagles-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1770,
+        "national": 1770,
+        "world": 1770
+      }
+    },
+    {
+      "id": 90200048,
+      "name": "Go Ahead Eagles",
+      "slug": "go-ahead-eagles-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1180,
+        "national": 1180,
+        "world": 1180
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#ffe252"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 9900
+}

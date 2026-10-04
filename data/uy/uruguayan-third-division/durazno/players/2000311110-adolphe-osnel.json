@@ -1,0 +1,29 @@
+{
+  "id": 2000311110,
+  "first_name": "Osnel",
+  "last_name": "Adolphe",
+  "birth_date": "2003-12-09",
+  "country_id": 375,
+  "club_id": 78009701,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": 90,
+  "history": [
+    { "s": 2023, "c": 78009701, "p": 18, "g": 2 },
+    { "s": 2024, "c": 78009701, "p": 10, "g": 1 },
+    { "s": 2025, "c": 78009701, "p": 8 }
+  ]
+}

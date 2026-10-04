@@ -1,0 +1,57 @@
+{
+  "id": 1017,
+  "name": "Helmond Sport",
+  "location": {
+    "city_id": 5450
+  },
+  "finance": {
+    "balance": 764540
+  },
+  "teams": [
+    {
+      "id": 1017,
+      "name": "Helmond Sport",
+      "slug": "helmond-sport",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 94200017,
+      "name": "Helmond Sport",
+      "slug": "helmond-sport-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 94200018,
+      "name": "Helmond Sport",
+      "slug": "helmond-sport-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2500
+}

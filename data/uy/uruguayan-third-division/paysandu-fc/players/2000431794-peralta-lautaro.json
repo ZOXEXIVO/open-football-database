@@ -1,0 +1,32 @@
+{
+  "id": 2000431794,
+  "first_name": "Lautaro",
+  "last_name": "Peralta",
+  "birth_date": "2004-06-18",
+  "country_id": 1657,
+  "club_id": 8825221,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 75,
+  "potential_ability": 92,
+  "contract": {
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 78023541, "p": 0 },
+    { "s": 2020, "c": 78072205, "p": 0 },
+    { "s": 2023, "c": 8825221, "p": 0 },
+    { "s": 2024, "c": 8825221, "p": 9 },
+    { "s": 2025, "c": 8825221, "p": 2 }
+  ]
+}

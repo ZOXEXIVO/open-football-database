@@ -1,0 +1,29 @@
+{
+  "id": 2000508090,
+  "first_name": "Sulaimon",
+  "last_name": "Lawal",
+  "birth_date": "2003-10-31",
+  "country_id": 38,
+  "club_id": 676958,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": 85,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

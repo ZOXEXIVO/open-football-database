@@ -1,0 +1,33 @@
+{
+  "id": 2000144506,
+  "first_name": "Corijn",
+  "last_name": "Kokkeel",
+  "birth_date": "2004-07-27",
+  "country_id": 784,
+  "club_id": 1024,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

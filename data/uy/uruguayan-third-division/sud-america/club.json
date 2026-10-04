@@ -1,0 +1,57 @@
+{
+  "id": 5512556,
+  "name": "Sud America",
+  "location": {
+    "city_id": 5558
+  },
+  "finance": {
+    "balance": 3810
+  },
+  "teams": [
+    {
+      "id": 5512556,
+      "name": "Sud America",
+      "slug": "sud-america",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2900,
+        "national": 2900,
+        "world": 2900
+      }
+    },
+    {
+      "id": 95000011,
+      "name": "Sud America",
+      "slug": "sud-america-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 870,
+        "national": 870,
+        "world": 870
+      }
+    },
+    {
+      "id": 95000012,
+      "name": "Sud America",
+      "slug": "sud-america-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 580,
+        "national": 580,
+        "world": 580
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f27641",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 300
+}

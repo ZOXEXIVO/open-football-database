@@ -1,0 +1,37 @@
+{
+  "id": 2000368824,
+  "first_name": "Joël-Anthony",
+  "last_name": "Keptoukoua",
+  "birth_date": "2007-09-13",
+  "country_id": 757,
+  "club_id": 257,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 250, "p": 0 },
+    { "s": 2024, "c": 250, "p": 0 }
+  ]
+}

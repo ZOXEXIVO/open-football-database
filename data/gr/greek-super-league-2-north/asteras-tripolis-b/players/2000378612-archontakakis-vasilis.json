@@ -1,0 +1,28 @@
+{
+  "id": 2000378612,
+  "first_name": "Vasilis",
+  "last_name": "Archontakakis",
+  "birth_date": "2006-10-13",
+  "country_id": 772,
+  "club_id": 2000375864,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 982, "p": 0 },
+    { "s": 2022, "c": 694366, "p": 0 },
+    { "s": 2023, "c": 694366, "p": 0 },
+    { "s": 2024, "c": 694366, "p": 0 },
+    { "s": 2024, "c": 2000375864, "p": 5 }
+  ]
+}

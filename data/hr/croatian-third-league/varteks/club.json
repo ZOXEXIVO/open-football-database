@@ -1,0 +1,57 @@
+{
+  "id": 24052492,
+  "name": "Varteks",
+  "location": {
+    "city_id": 5533
+  },
+  "finance": {
+    "balance": 12700
+  },
+  "teams": [
+    {
+      "id": 24052492,
+      "name": "Varteks",
+      "slug": "varteks",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2900,
+        "national": 2900,
+        "world": 2900
+      }
+    },
+    {
+      "id": 94700025,
+      "name": "Varteks",
+      "slug": "varteks-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 870,
+        "national": 870,
+        "world": 870
+      }
+    },
+    {
+      "id": 94700026,
+      "name": "Varteks",
+      "slug": "varteks-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 580,
+        "national": 580,
+        "world": 580
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f27641",
+    "foreground": "#2f55b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 800
+}

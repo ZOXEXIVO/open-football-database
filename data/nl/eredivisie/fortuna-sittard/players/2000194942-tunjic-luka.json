@@ -1,0 +1,42 @@
+{
+  "id": 2000194942,
+  "first_name": "Luka",
+  "last_name": "Tunjić",
+  "birth_date": "2005-11-19",
+  "country_id": 761,
+  "club_id": 1014,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 91,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 67392,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 3, "u21_goals": 1},
+  "history": [
+    { "s": 2024, "c": 1014, "p": 12, "g": 1 }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2000061671,
+  "first_name": "Dorian",
+  "last_name": "Jakupak",
+  "birth_date": "2001-03-15",
+  "country_id": 761,
+  "club_id": 24052492,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 88,
+  "history": [
+    { "s": 2019, "c": 106749, "p": 0 },
+    { "s": 2020, "c": 658299, "p": 24 },
+    { "s": 2021, "c": 658299, "p": 23 },
+    { "s": 2022, "c": 24052492, "p": 26, "g": 2 },
+    { "s": 2023, "c": 24052492, "p": 23, "g": 1 },
+    { "s": 2024, "c": 24052492, "p": 1 }
+  ]
+}

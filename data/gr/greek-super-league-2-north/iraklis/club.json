@@ -1,0 +1,57 @@
+{
+  "id": 976,
+  "name": "Iraklis",
+  "location": {
+    "city_id": 5484
+  },
+  "finance": {
+    "balance": 535940
+  },
+  "teams": [
+    {
+      "id": 976,
+      "name": "Iraklis",
+      "slug": "iraklis",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5300,
+        "national": 5300,
+        "world": 5300
+      }
+    },
+    {
+      "id": 94500001,
+      "name": "Iraklis",
+      "slug": "iraklis-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1590,
+        "national": 1590,
+        "world": 1590
+      }
+    },
+    {
+      "id": 94500002,
+      "name": "Iraklis",
+      "slug": "iraklis-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1060,
+        "national": 1060,
+        "world": 1060
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 6000
+}

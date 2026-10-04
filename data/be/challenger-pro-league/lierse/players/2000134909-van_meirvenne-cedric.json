@@ -1,0 +1,40 @@
+{
+  "id": 2000134909,
+  "first_name": "Cedric",
+  "last_name": "Van Meirvenne",
+  "birth_date": "2005-04-18",
+  "country_id": 757,
+  "club_id": 18008817,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -45,
+  "contract": {
+    "salary": 42640,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 298, "p": 0 },
+    { "s": 2022, "c": 2000181451, "p": 3 },
+    { "s": 2023, "c": 2000181439, "p": 21 },
+    { "s": 2024, "c": 255, "p": 29, "g": 8 }
+  ]
+}

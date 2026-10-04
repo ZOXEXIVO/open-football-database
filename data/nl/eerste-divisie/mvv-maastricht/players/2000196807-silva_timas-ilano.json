@@ -1,0 +1,41 @@
+{
+  "id": 2000196807,
+  "first_name": "Ilano",
+  "last_name": "Silva Timas",
+  "birth_date": "2002-09-29",
+  "country_id": 12,
+  "club_id": 1022,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 105,
+  "potential_ability": 120,
+  "contract": {
+    "salary": 66248,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 1, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2021, "c": 2340, "p": 1 },
+    { "s": 2022, "c": 2340, "p": 11 },
+    { "s": 2024, "c": 1022, "p": 33, "g": 5 },
+    { "s": 2024, "c": 2340, "p": 0 }
+  ]
+}

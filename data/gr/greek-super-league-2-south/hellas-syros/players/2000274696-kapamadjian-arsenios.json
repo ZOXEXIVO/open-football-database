@@ -1,0 +1,33 @@
+{
+  "id": 2000274696,
+  "first_name": "Arsenios",
+  "last_name": "Kapamadjian",
+  "birth_date": "2004-05-03",
+  "country_id": 772,
+  "club_id": 2000003468,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 70,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 983, "p": 0 },
+    { "s": 2020, "c": 983, "p": 0 },
+    { "s": 2021, "c": 36077318, "p": 0 },
+    { "s": 2022, "c": 36055040, "p": 6 },
+    { "s": 2024, "c": 678226, "p": 11 },
+    { "s": 2024, "c": 36018133, "p": 7, "g": 1 }
+  ]
+}

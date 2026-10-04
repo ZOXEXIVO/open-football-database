@@ -1,0 +1,57 @@
+{
+  "id": 931,
+  "name": "Karlsruher SC",
+  "location": {
+    "city_id": 5433
+  },
+  "finance": {
+    "balance": 10160000
+  },
+  "teams": [
+    {
+      "id": 931,
+      "name": "Karlsruher SC",
+      "slug": "karlsruher-sc",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6000,
+        "national": 6000,
+        "world": 6000
+      }
+    },
+    {
+      "id": 94100031,
+      "name": "Karlsruher SC",
+      "slug": "karlsruher-sc-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1800,
+        "national": 1800,
+        "world": 1800
+      }
+    },
+    {
+      "id": 94100032,
+      "name": "Karlsruher SC",
+      "slug": "karlsruher-sc-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#004b93",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Good",
+    "academy": "Good",
+    "recruitment": "Average"
+  },
+  "average_attendance": 27500
+}

@@ -1,0 +1,57 @@
+{
+  "id": 257,
+  "name": "RWDM",
+  "location": {
+    "city_id": 5461
+  },
+  "finance": {
+    "balance": 1098550
+  },
+  "teams": [
+    {
+      "id": 257,
+      "name": "RWDM",
+      "slug": "rwdm",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5300,
+        "national": 5300,
+        "world": 5300
+      }
+    },
+    {
+      "id": 94300009,
+      "name": "RWDM",
+      "slug": "rwdm-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1590,
+        "national": 1590,
+        "world": 1590
+      }
+    },
+    {
+      "id": 94300010,
+      "name": "RWDM",
+      "slug": "rwdm-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1060,
+        "national": 1060,
+        "world": 1060
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 3500
+}

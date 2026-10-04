@@ -1,0 +1,25 @@
+{
+  "id": 2000428599,
+  "first_name": "Rubén",
+  "last_name": "Pérez",
+  "birth_date": "2003-11-04",
+  "country_id": 1655,
+  "club_id": 5280215,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 100,
+  "history": [
+    { "s": 2024, "c": 5280215, "p": 2 },
+    { "s": 2025, "c": 5280215, "p": 2 },
+    { "s": 2025, "c": 5280347, "p": 7 }
+  ]
+}

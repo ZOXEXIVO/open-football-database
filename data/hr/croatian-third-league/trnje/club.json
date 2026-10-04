@@ -1,0 +1,57 @@
+{
+  "id": 129866,
+  "name": "Trnje",
+  "location": {
+    "city_id": 5532
+  },
+  "finance": {
+    "balance": 7620
+  },
+  "teams": [
+    {
+      "id": 129866,
+      "name": "Trnje",
+      "slug": "trnje",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3200,
+        "national": 3200,
+        "world": 3200
+      }
+    },
+    {
+      "id": 94700023,
+      "name": "Trnje",
+      "slug": "trnje-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    },
+    {
+      "id": 94700024,
+      "name": "Trnje",
+      "slug": "trnje-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 640,
+        "national": 640,
+        "world": 640
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 150
+}

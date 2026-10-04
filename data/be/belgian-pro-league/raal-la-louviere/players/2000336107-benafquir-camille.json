@@ -1,0 +1,30 @@
+{
+  "id": 2000336107,
+  "first_name": "Camille",
+  "last_name": "Benafquir",
+  "birth_date": "2005-05-21",
+  "country_id": 769,
+  "club_id": 169,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 2072, "p": 0 },
+    { "s": 2023, "c": 2072, "p": 0 },
+    { "s": 2024, "c": 169, "p": 0 }
+  ]
+}

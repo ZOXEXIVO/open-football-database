@@ -1,0 +1,36 @@
+{
+  "id": 2000053505,
+  "first_name": "Robbin",
+  "last_name": "Weijenberg",
+  "birth_date": "2004-11-08",
+  "country_id": 784,
+  "club_id": 1015,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 125,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1015, "p": 18 }
+  ]
+}

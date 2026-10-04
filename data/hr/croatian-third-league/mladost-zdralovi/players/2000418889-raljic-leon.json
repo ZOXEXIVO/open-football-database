@@ -1,0 +1,39 @@
+{
+  "id": 2000418889,
+  "first_name": "Leon",
+  "last_name": "Raljić",
+  "birth_date": "2006-01-24",
+  "country_id": 761,
+  "club_id": 129887,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2024, "c": 129887, "p": 0 }
+  ]
+}

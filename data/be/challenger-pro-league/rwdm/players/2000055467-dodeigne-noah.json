@@ -1,0 +1,38 @@
+{
+  "id": 2000055467,
+  "first_name": "Noah",
+  "last_name": "Dodeigne",
+  "birth_date": "2003-01-21",
+  "country_id": 757,
+  "club_id": 257,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 97,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 78624,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 250, "p": 0 },
+    { "s": 2022, "c": 2000173154, "p": 18, "g": 1 },
+    { "s": 2023, "c": 250, "p": 2 },
+    { "s": 2023, "c": 2000173154, "p": 21 },
+    { "s": 2024, "c": 250, "p": 0 },
+    { "s": 2024, "c": 257, "p": 21 }
+  ]
+}

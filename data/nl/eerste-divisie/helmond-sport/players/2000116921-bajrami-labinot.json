@@ -1,0 +1,33 @@
+{
+  "id": 2000116921,
+  "first_name": "Labinot",
+  "last_name": "Bajrami",
+  "birth_date": "2005-06-04",
+  "country_id": 798,
+  "club_id": 1017,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 78624,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 98000664, "p": 29, "g": 10 },
+    { "s": 2023, "c": 98000664, "p": 21, "g": 18 },
+    { "s": 2024, "c": 1200101, "p": 21, "g": 4 },
+    { "s": 2024, "c": 98000664, "p": 3 },
+    { "s": 2024, "c": 98000668, "p": 1, "g": 2 }
+  ]
+}

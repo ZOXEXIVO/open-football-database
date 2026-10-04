@@ -1,0 +1,30 @@
+{
+  "id": 2000059316,
+  "first_name": "Chedi",
+  "last_name": "Afifeh",
+  "birth_date": "2004-09-17",
+  "country_id": 137,
+  "club_id": 298,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 539089, "p": 0 },
+    { "s": 2021, "c": 298, "p": 0 },
+    { "s": 2022, "c": 2000181451, "p": 16, "g": 4 }
+  ]
+}

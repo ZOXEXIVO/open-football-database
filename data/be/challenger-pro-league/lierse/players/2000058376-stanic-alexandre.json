@@ -1,0 +1,36 @@
+{
+  "id": 2000058376,
+  "first_name": "Alexandre",
+  "last_name": "Stanić",
+  "birth_date": "2004-12-28",
+  "country_id": 757,
+  "club_id": 18008817,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 265, "p": 0 },
+    { "s": 2019, "c": 232, "p": 0 },
+    { "s": 2020, "c": 232, "p": 0 },
+    { "s": 2021, "c": 232, "p": 0 },
+    { "s": 2021, "c": 2215, "p": 0 },
+    { "s": 2023, "c": 2000181441, "p": 32, "g": 16 },
+    { "s": 2024, "c": 262, "p": 0 },
+    { "s": 2024, "c": 263, "p": 0 },
+    { "s": 2024, "c": 2000181440, "p": 11, "g": 4 }
+  ]
+}

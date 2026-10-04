@@ -1,0 +1,57 @@
+{
+  "id": 129873,
+  "name": "Jadran Luka Ploce",
+  "location": {
+    "city_id": 5531
+  },
+  "finance": {
+    "balance": 238760
+  },
+  "teams": [
+    {
+      "id": 129873,
+      "name": "Jadran Luka Ploce",
+      "slug": "jadran-luka-ploce",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 94700021,
+      "name": "Jadran Luka Ploce",
+      "slug": "jadran-luka-ploce-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 94700022,
+      "name": "Jadran Luka Ploce",
+      "slug": "jadran-luka-ploce-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 300
+}

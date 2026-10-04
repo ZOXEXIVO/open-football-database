@@ -1,0 +1,32 @@
+{
+  "id": 2000393326,
+  "first_name": "Leo",
+  "last_name": "Bartolović",
+  "birth_date": "2007-02-25",
+  "country_id": 761,
+  "club_id": 24005249,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 71,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 2000152204, "p": 6 }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000055915,
+  "first_name": "Lucien",
+  "last_name": "Delaigle",
+  "birth_date": "2004-03-31",
+  "country_id": 10,
+  "club_id": 257,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": 104,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 1, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2020, "c": 168, "p": 0 },
+    { "s": 2022, "c": 168, "p": 0 },
+    { "s": 2023, "c": 257, "p": 0 },
+    { "s": 2024, "c": 8151525, "p": 14 }
+  ]
+}

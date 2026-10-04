@@ -1,0 +1,36 @@
+{
+  "id": 2000332767,
+  "first_name": "Tyrese",
+  "last_name": "Zeigler",
+  "birth_date": "2006-10-30",
+  "country_id": 776,
+  "club_id": 945,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 81,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 945, "p": 0 }
+  ]
+}

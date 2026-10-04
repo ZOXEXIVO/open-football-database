@@ -1,0 +1,38 @@
+{
+  "id": 18081239,
+  "first_name": "Nick",
+  "last_name": "Gillekens",
+  "birth_date": "1995-07-05",
+  "country_id": 757,
+  "club_id": 216,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 109,
+  "potential_ability": 115,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2014, "c": 280, "p": 1 },
+    { "s": 2015, "c": 280, "p": 0 },
+    { "s": 2016, "c": 280, "p": 22 },
+    { "s": 2017, "c": 280, "p": 26 },
+    { "s": 2018, "c": 280, "p": 9 },
+    { "s": 2019, "c": 8154758, "p": 0 },
+    { "s": 2020, "c": 8154758, "p": 0 },
+    { "s": 2021, "c": 8154758, "p": 19 },
+    { "s": 2022, "c": 289, "p": 4 },
+    { "s": 2023, "c": 289, "p": 4 },
+    { "s": 2024, "c": 289, "p": 1 }
+  ]
+}

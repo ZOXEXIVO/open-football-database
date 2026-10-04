@@ -1,0 +1,26 @@
+{
+  "id": 2000362394,
+  "first_name": "Julián",
+  "last_name": "López",
+  "birth_date": "1997-06-11",
+  "country_id": 1649,
+  "club_id": 79030602,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 81,
+  "potential_ability": 81,
+  "history": [
+    { "s": 2023, "c": 2000119817, "p": 4 },
+    { "s": 2024, "c": 14014469, "p": 5, "g": 1 },
+    { "s": 2024, "c": 14158099, "p": 10 },
+    { "s": 2025, "c": 79030602, "p": 5 }
+  ]
+}

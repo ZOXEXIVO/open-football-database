@@ -1,0 +1,48 @@
+{
+  "id": 2000180947,
+  "first_name": "Niklas",
+  "last_name": "Niehoff",
+  "birth_date": "2004-08-20",
+  "country_id": 771,
+  "club_id": 2245,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 115,
+  "potential_ability": 136,
+  "contract": {
+    "salary": 129272,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 919, "p": 0 },
+    { "s": 2020, "c": 2245, "p": 0 },
+    { "s": 2021, "c": 2245, "p": 0 },
+    { "s": 2021, "c": 879398, "p": 7, "g": 2 },
+    { "s": 2022, "c": 879398, "p": 27, "g": 7 },
+    { "s": 2023, "c": 2245, "p": 4, "g": 1 },
+    { "s": 2023, "c": 879398, "p": 26, "g": 8 },
+    { "s": 2024, "c": 937, "p": 33, "g": 2 }
+  ]
+}

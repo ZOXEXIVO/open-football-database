@@ -1,0 +1,29 @@
+{
+  "id": 2000503427,
+  "first_name": "Petar",
+  "last_name": "Brebrić",
+  "birth_date": "2009-03-02",
+  "country_id": 761,
+  "club_id": 129858,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 59,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-06-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 129858, "p": 0 },
+    { "s": 2024, "c": 129858, "p": 0 }
+  ]
+}

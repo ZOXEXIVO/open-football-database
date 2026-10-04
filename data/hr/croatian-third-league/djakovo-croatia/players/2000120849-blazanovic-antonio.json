@@ -1,0 +1,25 @@
+{
+  "id": 2000120849,
+  "first_name": "Antonio",
+  "last_name": "Blažanović",
+  "birth_date": "2004-05-17",
+  "country_id": 761,
+  "club_id": 24038155,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 78,
+  "potential_ability": 97,
+  "history": [
+    { "s": 2023, "c": 430, "p": 9, "g": 1 },
+    { "s": 2023, "c": 24038155, "p": 13, "g": 6 },
+    { "s": 2024, "c": 24038155, "p": 28, "g": 16 }
+  ]
+}

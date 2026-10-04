@@ -1,0 +1,39 @@
+{
+  "id": 2000110737,
+  "name": "PAOK B",
+  "parent_club": {
+    "id": 982,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 1303
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 2000110737,
+      "name": "PAOK B",
+      "slug": "paok-b",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Excellent",
+    "academy": "Good",
+    "recruitment": "Exceptional"
+  },
+  "average_attendance": 400
+}

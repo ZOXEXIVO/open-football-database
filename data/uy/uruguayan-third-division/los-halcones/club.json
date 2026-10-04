@@ -1,0 +1,57 @@
+{
+  "id": 78072260,
+  "name": "Los Halcones",
+  "location": {
+    "city_id": 5575
+  },
+  "finance": {
+    "balance": 277
+  },
+  "teams": [
+    {
+      "id": 78072260,
+      "name": "Los Halcones",
+      "slug": "los-halcones",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 95000045,
+      "name": "Los Halcones",
+      "slug": "los-halcones-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 360,
+        "national": 360,
+        "world": 360
+      }
+    },
+    {
+      "id": 95000046,
+      "name": "Los Halcones",
+      "slug": "los-halcones-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 240,
+        "national": 240,
+        "world": 240
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#cdcdcd"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Poor",
+    "youth": "Poor",
+    "academy": "Poor",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 100
+}

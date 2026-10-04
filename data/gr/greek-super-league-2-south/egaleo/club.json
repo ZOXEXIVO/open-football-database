@@ -1,0 +1,57 @@
+{
+  "id": 129657,
+  "name": "Egaleo",
+  "location": {
+    "city_id": 5496
+  },
+  "finance": {
+    "balance": 38100
+  },
+  "teams": [
+    {
+      "id": 129657,
+      "name": "Egaleo",
+      "slug": "egaleo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 94600009,
+      "name": "Egaleo",
+      "slug": "egaleo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 94600010,
+      "name": "Egaleo",
+      "slug": "egaleo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1500
+}

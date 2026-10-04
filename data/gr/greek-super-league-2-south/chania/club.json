@@ -1,0 +1,57 @@
+{
+  "id": 36043527,
+  "name": "Chania",
+  "location": {
+    "city_id": 5492
+  },
+  "finance": {
+    "balance": 127000
+  },
+  "teams": [
+    {
+      "id": 36043527,
+      "name": "Chania",
+      "slug": "chania",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 94600001,
+      "name": "Chania",
+      "slug": "chania-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 94600002,
+      "name": "Chania",
+      "slug": "chania-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1500
+}

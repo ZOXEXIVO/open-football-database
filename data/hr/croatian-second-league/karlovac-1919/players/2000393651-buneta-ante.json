@@ -1,0 +1,28 @@
+{
+  "id": 2000393651,
+  "first_name": "Ante",
+  "last_name": "Buneta",
+  "birth_date": "2006-06-10",
+  "country_id": 761,
+  "club_id": 129858,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-06-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 129858, "p": 14, "g": 3 }
+  ]
+}

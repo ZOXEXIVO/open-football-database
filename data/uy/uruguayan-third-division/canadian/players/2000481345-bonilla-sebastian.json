@@ -1,0 +1,28 @@
+{
+  "id": 2000481345,
+  "first_name": "Sebastián",
+  "last_name": "Bonilla",
+  "birth_date": "2002-11-15",
+  "country_id": 1657,
+  "club_id": 78046974,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 51,
+  "potential_ability": 65,
+  "history": [
+    { "s": 2019, "c": 130848, "p": 0 },
+    { "s": 2025, "c": 78046974, "p": 0 }
+  ]
+}

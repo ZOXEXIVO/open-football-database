@@ -1,0 +1,37 @@
+{
+  "id": 2000046493,
+  "first_name": "Ángello",
+  "last_name": "Pose",
+  "birth_date": "1997-09-05",
+  "country_id": 1657,
+  "club_id": 5512790,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 57,
+  "potential_ability": 69,
+  "history": [
+    { "s": 2018, "c": 78046974, "p": 2 },
+    { "s": 2019, "c": 5512786, "p": 0 },
+    { "s": 2020, "c": 78014919, "p": 1 },
+    { "s": 2021, "c": 78060036, "p": 3 },
+    { "s": 2022, "c": 78060036, "p": 7 },
+    { "s": 2024, "c": 5512790, "p": 9 },
+    { "s": 2025, "c": 5512790, "p": 3 }
+  ]
+}

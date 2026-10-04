@@ -1,0 +1,57 @@
+{
+  "id": 5280347,
+  "name": "Independiente CG",
+  "location": {
+    "city_id": 5544
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 5280347,
+      "name": "Independiente CG",
+      "slug": "independiente-cg",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3200,
+        "national": 3200,
+        "world": 3200
+      }
+    },
+    {
+      "id": 94800011,
+      "name": "Independiente CG",
+      "slug": "independiente-cg-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    },
+    {
+      "id": 94800012,
+      "name": "Independiente CG",
+      "slug": "independiente-cg-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 640,
+        "national": 640,
+        "world": 640
+      }
+    }
+  ],
+  "colors": {
+    "background": "#293fad",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 300
+}

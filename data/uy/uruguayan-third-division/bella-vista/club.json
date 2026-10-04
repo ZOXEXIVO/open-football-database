@@ -1,0 +1,57 @@
+{
+  "id": 1915,
+  "name": "Bella Vista",
+  "location": {
+    "city_id": 5554
+  },
+  "finance": {
+    "balance": 1270
+  },
+  "teams": [
+    {
+      "id": 1915,
+      "name": "Bella Vista",
+      "slug": "bella-vista",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3100,
+        "national": 3100,
+        "world": 3100
+      }
+    },
+    {
+      "id": 95000003,
+      "name": "Bella Vista",
+      "slug": "bella-vista-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 930,
+        "national": 930,
+        "world": 930
+      }
+    },
+    {
+      "id": 95000004,
+      "name": "Bella Vista",
+      "slug": "bella-vista-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 620,
+        "national": 620,
+        "world": 620
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#2f55b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 400
+}

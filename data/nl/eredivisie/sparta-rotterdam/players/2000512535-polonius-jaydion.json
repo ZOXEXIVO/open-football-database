@@ -1,0 +1,29 @@
+{
+  "id": 2000512535,
+  "first_name": "Jaydion",
+  "last_name": "Polonius",
+  "birth_date": "2008-09-05",
+  "country_id": 380,
+  "club_id": 1039,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 67,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

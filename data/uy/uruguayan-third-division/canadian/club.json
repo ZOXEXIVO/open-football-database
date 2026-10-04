@@ -1,0 +1,57 @@
+{
+  "id": 78046974,
+  "name": "Canadian",
+  "location": {
+    "city_id": 5574
+  },
+  "finance": {
+    "balance": 2540
+  },
+  "teams": [
+    {
+      "id": 78046974,
+      "name": "Canadian",
+      "slug": "canadian",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2000,
+        "national": 2000,
+        "world": 2000
+      }
+    },
+    {
+      "id": 95000043,
+      "name": "Canadian",
+      "slug": "canadian-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    },
+    {
+      "id": 95000044,
+      "name": "Canadian",
+      "slug": "canadian-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Poor",
+    "youth": "Poor",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 100
+}

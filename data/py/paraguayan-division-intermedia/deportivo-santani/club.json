@@ -1,0 +1,57 @@
+{
+  "id": 79012073,
+  "name": "Deportivo Santani",
+  "location": {
+    "city_id": 5545
+  },
+  "finance": {
+    "balance": 22860
+  },
+  "teams": [
+    {
+      "id": 79012073,
+      "name": "Deportivo Santani",
+      "slug": "deportivo-santani",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    },
+    {
+      "id": 94800013,
+      "name": "Deportivo Santani",
+      "slug": "deportivo-santani-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    },
+    {
+      "id": 94800014,
+      "name": "Deportivo Santani",
+      "slug": "deportivo-santani-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 560,
+        "national": 560,
+        "world": 560
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 400
+}

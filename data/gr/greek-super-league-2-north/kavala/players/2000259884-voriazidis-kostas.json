@@ -1,0 +1,40 @@
+{
+  "id": 2000259884,
+  "first_name": "Kostas",
+  "last_name": "Voriazidis",
+  "birth_date": "2002-07-05",
+  "country_id": 772,
+  "club_id": 977,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 95,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 36053453, "p": 13, "g": 1 },
+    { "s": 2021, "c": 36053453, "p": 21, "g": 1 },
+    { "s": 2022, "c": 129699, "p": 18, "g": 1 },
+    { "s": 2022, "c": 36053453, "p": 0 },
+    { "s": 2023, "c": 129699, "p": 7 }
+  ]
+}

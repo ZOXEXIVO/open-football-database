@@ -1,0 +1,28 @@
+{
+  "id": 2000410859,
+  "first_name": "Majeed",
+  "last_name": "Oseni",
+  "birth_date": "2004-11-17",
+  "country_id": 38,
+  "club_id": 5512636,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 71,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2024, "c": 5512636, "p": 7 },
+    { "s": 2025, "c": 5512636, "p": 3, "g": 1 }
+  ]
+}

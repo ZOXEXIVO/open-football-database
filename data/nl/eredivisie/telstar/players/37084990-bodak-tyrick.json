@@ -1,0 +1,34 @@
+{
+  "id": 37084990,
+  "first_name": "Tyrick",
+  "last_name": "Bodak",
+  "birth_date": "2002-05-15",
+  "country_id": 380,
+  "club_id": 1043,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 95,
+  "contract": {
+    "salary": 35932,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 4, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2021, "c": 37044806, "p": 0 },
+    { "s": 2022, "c": 1028, "p": 0 },
+    { "s": 2022, "c": 37044806, "p": 0 },
+    { "s": 2023, "c": 994, "p": 0 },
+    { "s": 2024, "c": 1043, "p": 0 }
+  ]
+}

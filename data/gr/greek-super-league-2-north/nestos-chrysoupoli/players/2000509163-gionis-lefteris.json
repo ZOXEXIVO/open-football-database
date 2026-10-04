@@ -1,0 +1,25 @@
+{
+  "id": 2000509163,
+  "first_name": "Lefteris",
+  "last_name": "Gionis",
+  "birth_date": "2005-04-01",
+  "country_id": 772,
+  "club_id": 678209,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 129668, "p": 0 },
+    { "s": 2024, "c": 678209, "p": 15, "g": 2 }
+  ]
+}

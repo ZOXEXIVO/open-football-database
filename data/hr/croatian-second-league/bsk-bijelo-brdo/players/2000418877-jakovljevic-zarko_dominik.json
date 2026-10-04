@@ -1,0 +1,34 @@
+{
+  "id": 2000418877,
+  "first_name": "Žarko Dominik",
+  "last_name": "Jakovljević",
+  "birth_date": "2006-01-27",
+  "country_id": 761,
+  "club_id": 24021028,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 73,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2028-07-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 653169, "p": 26, "g": 3 },
+    { "s": 2024, "c": 129886, "p": 15, "g": 2 },
+    { "s": 2024, "c": 129887, "p": 0 }
+  ]
+}

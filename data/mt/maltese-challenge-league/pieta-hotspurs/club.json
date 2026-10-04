@@ -1,0 +1,57 @@
+{
+  "id": 1245,
+  "name": "Pieta Hotspurs",
+  "location": {
+    "city_id": 5481
+  },
+  "finance": {
+    "balance": 190500
+  },
+  "teams": [
+    {
+      "id": 1245,
+      "name": "Pieta Hotspurs",
+      "slug": "pieta-hotspurs",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 94400027,
+      "name": "Pieta Hotspurs",
+      "slug": "pieta-hotspurs-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 450,
+        "national": 450,
+        "world": 450
+      }
+    },
+    {
+      "id": 94400028,
+      "name": "Pieta Hotspurs",
+      "slug": "pieta-hotspurs-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 300,
+        "national": 300,
+        "world": 300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Poor",
+    "academy": "Average",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 100
+}

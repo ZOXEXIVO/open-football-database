@@ -1,0 +1,57 @@
+{
+  "id": 977,
+  "name": "Kavala",
+  "location": {
+    "city_id": 5485
+  },
+  "finance": {
+    "balance": 67310
+  },
+  "teams": [
+    {
+      "id": 977,
+      "name": "Kavala",
+      "slug": "kavala",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 94500003,
+      "name": "Kavala",
+      "slug": "kavala-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 94500004,
+      "name": "Kavala",
+      "slug": "kavala-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 3000
+}

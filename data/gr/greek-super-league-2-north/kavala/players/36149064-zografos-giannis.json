@@ -1,0 +1,34 @@
+{
+  "id": 36149064,
+  "first_name": "Giannis",
+  "last_name": "Zografos",
+  "birth_date": "2000-05-28",
+  "country_id": 772,
+  "club_id": 977,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": 75,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 979, "p": 0 },
+    { "s": 2017, "c": 979, "p": 0 },
+    { "s": 2018, "c": 979, "p": 0 },
+    { "s": 2019, "c": 36118773, "p": 13 },
+    { "s": 2020, "c": 36047760, "p": 13 },
+    { "s": 2022, "c": 687641, "p": 8 },
+    { "s": 2023, "c": 36017905, "p": 14 }
+  ]
+}

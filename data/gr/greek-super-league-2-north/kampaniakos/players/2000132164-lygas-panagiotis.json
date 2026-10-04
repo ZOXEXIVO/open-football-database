@@ -1,0 +1,39 @@
+{
+  "id": 2000132164,
+  "first_name": "Panagiotis",
+  "last_name": "Lygas",
+  "birth_date": "2003-09-17",
+  "country_id": 772,
+  "club_id": 687626,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 36036606, "p": 4, "g": 1 },
+    { "s": 2019, "c": 968, "p": 0 },
+    { "s": 2020, "c": 36020292, "p": 4 },
+    { "s": 2021, "c": 129707, "p": 23 },
+    { "s": 2022, "c": 129707, "p": 19 },
+    { "s": 2023, "c": 976, "p": 7 },
+    { "s": 2024, "c": 677316, "p": 20 },
+    { "s": 2025, "c": 129667, "p": 10 }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000425767,
+  "first_name": "Michiel",
+  "last_name": "Lindner",
+  "birth_date": "2007-05-25",
+  "country_id": 757,
+  "club_id": 288,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 59,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

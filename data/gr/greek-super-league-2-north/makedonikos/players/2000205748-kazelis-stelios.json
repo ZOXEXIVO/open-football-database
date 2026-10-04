@@ -1,0 +1,28 @@
+{
+  "id": 2000205748,
+  "first_name": "Stelios",
+  "last_name": "Kazelis",
+  "birth_date": "2002-08-07",
+  "country_id": 772,
+  "club_id": 676958,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 90,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 676958, "p": 0 },
+    { "s": 2022, "c": 677142, "p": 14 },
+    { "s": 2023, "c": 676958, "p": 0 },
+    { "s": 2023, "c": 36037550, "p": 20 },
+    { "s": 2024, "c": 676958, "p": 3 }
+  ]
+}

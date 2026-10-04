@@ -1,0 +1,57 @@
+{
+  "id": 5280210,
+  "name": "Resistencia",
+  "location": {
+    "city_id": 5546
+  },
+  "finance": {
+    "balance": 15240
+  },
+  "teams": [
+    {
+      "id": 5280210,
+      "name": "Resistencia",
+      "slug": "resistencia",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3400,
+        "national": 3400,
+        "world": 3400
+      }
+    },
+    {
+      "id": 94800015,
+      "name": "Resistencia",
+      "slug": "resistencia-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    },
+    {
+      "id": 94800016,
+      "name": "Resistencia",
+      "slug": "resistencia-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 680,
+        "national": 680,
+        "world": 680
+      }
+    }
+  ],
+  "colors": {
+    "background": "#8cd1f3",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 300
+}

@@ -1,0 +1,40 @@
+{
+  "id": 37084898,
+  "first_name": "Lasse",
+  "last_name": "Wehmeyer",
+  "birth_date": "2002-01-02",
+  "country_id": 771,
+  "club_id": 1044,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 103,
+  "potential_ability": 114,
+  "contract": {
+    "salary": 78624,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1009, "p": 0 },
+    { "s": 2022, "c": 1037, "p": 20, "g": 4 },
+    { "s": 2023, "c": 1037, "p": 7 },
+    { "s": 2024, "c": 1044, "p": 34, "g": 3 }
+  ]
+}

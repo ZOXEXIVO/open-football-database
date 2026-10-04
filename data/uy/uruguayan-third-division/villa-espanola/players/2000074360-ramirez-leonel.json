@@ -1,0 +1,32 @@
+{
+  "id": 2000074360,
+  "first_name": "Leonel",
+  "last_name": "Ramírez",
+  "birth_date": "2001-06-01",
+  "country_id": 1649,
+  "club_id": 130851,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 81,
+  "potential_ability": 82,
+  "history": [
+    { "s": 2020, "c": 952730, "p": 3, "g": 1 },
+    { "s": 2021, "c": 952730, "p": 11, "g": 3 },
+    { "s": 2022, "c": 952730, "p": 1 },
+    { "s": 2023, "c": 952752, "p": 7 },
+    { "s": 2024, "c": 2000259345, "p": 2 },
+    { "s": 2025, "c": 14052692, "p": 4, "g": 2 }
+  ]
+}

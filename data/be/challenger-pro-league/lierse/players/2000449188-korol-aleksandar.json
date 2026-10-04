@@ -1,0 +1,28 @@
+{
+  "id": 2000449188,
+  "first_name": "Aleksandar",
+  "last_name": "Korol",
+  "birth_date": "2008-12-11",
+  "country_id": 757,
+  "club_id": 18008817,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 54,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 18008817, "p": 0 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 5280218,
+  "name": "Recoleta",
+  "location": {
+    "city_id": 5537
+  },
+  "finance": {
+    "balance": 965200
+  },
+  "teams": [
+    {
+      "id": 5280218,
+      "name": "Recoleta",
+      "slug": "recoleta",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3300,
+        "national": 3300,
+        "world": 3300
+      }
+    },
+    {
+      "id": 94900007,
+      "name": "Recoleta",
+      "slug": "recoleta-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 990,
+        "national": 990,
+        "world": 990
+      }
+    },
+    {
+      "id": 94900008,
+      "name": "Recoleta",
+      "slug": "recoleta-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 400
+}

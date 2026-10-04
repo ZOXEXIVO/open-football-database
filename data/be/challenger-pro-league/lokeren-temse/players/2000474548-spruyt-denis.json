@@ -1,0 +1,29 @@
+{
+  "id": 2000474548,
+  "first_name": "Denis",
+  "last_name": "Spruyt",
+  "birth_date": "2008-01-26",
+  "country_id": 757,
+  "club_id": 536364,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 536364, "p": 0 },
+    { "s": 2024, "c": 536364, "p": 0 }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 2000123793,
+  "first_name": "Moussa",
+  "last_name": "Soumano",
+  "birth_date": "2005-07-09",
+  "country_id": 769,
+  "club_id": 1024,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 109,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 134784,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 400362, "p": 0 },
+    { "s": 2022, "c": 400362, "p": 14, "g": 1 },
+    { "s": 2022, "c": 48038855, "p": 12, "g": 4 },
+    { "s": 2023, "c": 400362, "p": 23 },
+    { "s": 2023, "c": 48038855, "p": 4, "g": 4 },
+    { "s": 2024, "c": 400362, "p": 27, "g": 4 }
+  ]
+}

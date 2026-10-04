@@ -1,0 +1,28 @@
+{
+  "id": 2000424409,
+  "first_name": "Ruud",
+  "last_name": "Geerinck",
+  "birth_date": "2007-07-30",
+  "country_id": 757,
+  "club_id": 1022,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2000181441, "p": 0 }
+  ]
+}

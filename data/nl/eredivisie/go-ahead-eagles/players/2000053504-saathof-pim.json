@@ -1,0 +1,44 @@
+{
+  "id": 2000053504,
+  "first_name": "Pim",
+  "last_name": "Saathof",
+  "birth_date": "2003-12-28",
+  "country_id": 784,
+  "club_id": 1015,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 116,
+  "contract": {
+    "salary": 50544,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1015, "p": 3 },
+    { "s": 2023, "c": 1015, "p": 4 },
+    { "s": 2024, "c": 1015, "p": 1 },
+    { "s": 2025, "c": 1336, "p": 8 }
+  ]
+}

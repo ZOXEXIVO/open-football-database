@@ -1,0 +1,57 @@
+{
+  "id": 911,
+  "name": "Dynamo Dresden",
+  "location": {
+    "city_id": 5428
+  },
+  "finance": {
+    "balance": 10160000
+  },
+  "teams": [
+    {
+      "id": 911,
+      "name": "Dynamo Dresden",
+      "slug": "dynamo-dresden",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6000,
+        "national": 6000,
+        "world": 6000
+      }
+    },
+    {
+      "id": 94100021,
+      "name": "Dynamo Dresden",
+      "slug": "dynamo-dresden-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1800,
+        "national": 1800,
+        "world": 1800
+      }
+    },
+    {
+      "id": 94100022,
+      "name": "Dynamo Dresden",
+      "slug": "dynamo-dresden-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffcd00",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 29500
+}

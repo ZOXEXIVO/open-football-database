@@ -1,0 +1,57 @@
+{
+  "id": 2000442392,
+  "name": "Guarani de Fram",
+  "location": {
+    "city_id": 5542
+  },
+  "finance": {
+    "balance": 355600
+  },
+  "teams": [
+    {
+      "id": 2000442392,
+      "name": "Guarani de Fram",
+      "slug": "guarani-de-fram",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    },
+    {
+      "id": 94800007,
+      "name": "Guarani de Fram",
+      "slug": "guarani-de-fram-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    },
+    {
+      "id": 94800008,
+      "name": "Guarani de Fram",
+      "slug": "guarani-de-fram-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 560,
+        "national": 560,
+        "world": 560
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd642",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Limited",
+    "academy": "Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 300
+}

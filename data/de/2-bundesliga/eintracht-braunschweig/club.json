@@ -1,0 +1,57 @@
+{
+  "id": 2237,
+  "name": "Eintracht Braunschweig",
+  "location": {
+    "city_id": 5423
+  },
+  "finance": {
+    "balance": 6350000
+  },
+  "teams": [
+    {
+      "id": 2237,
+      "name": "Eintracht Braunschweig",
+      "slug": "eintracht-braunschweig",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5700,
+        "national": 5700,
+        "world": 5700
+      }
+    },
+    {
+      "id": 94100011,
+      "name": "Eintracht Braunschweig",
+      "slug": "eintracht-braunschweig-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1710,
+        "national": 1710,
+        "world": 1710
+      }
+    },
+    {
+      "id": 94100012,
+      "name": "Eintracht Braunschweig",
+      "slug": "eintracht-braunschweig-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0062ad",
+    "foreground": "#ffcc00"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 21000
+}

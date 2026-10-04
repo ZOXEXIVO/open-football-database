@@ -1,0 +1,52 @@
+{
+  "id": 2000282231,
+  "first_name": "Daniel",
+  "last_name": "Pantschenko",
+  "birth_date": "2003-01-16",
+  "country_id": 771,
+  "club_id": 121200,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 110,
+  "contract": {
+    "salary": 25792,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 121200, "p": 0 },
+    { "s": 2020, "c": 121200, "p": 0 },
+    { "s": 2021, "c": 121200, "p": 0 },
+    { "s": 2022, "c": 8723264, "p": 19 },
+    { "s": 2023, "c": 121200, "p": 0 },
+    { "s": 2023, "c": 52077895, "p": 17 },
+    { "s": 2024, "c": 121200, "p": 0 },
+    { "s": 2024, "c": 8723264, "p": 16 }
+  ]
+}

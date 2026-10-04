@@ -1,0 +1,56 @@
+{
+  "id": 39045934,
+  "first_name": "Jón Dagur",
+  "last_name": "Þorsteinsson",
+  "birth_date": "1998-11-26",
+  "country_id": 774,
+  "club_id": 2247,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 123,
+  "contract": {
+    "salary": 517088,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 46, "goals": 6, "u21_apps": 23, "u21_goals": 5},
+  "history": [
+    { "s": 2014, "c": 7840140, "p": 3 },
+    { "s": 2015, "c": 654, "p": 0 },
+    { "s": 2015, "c": 7840140, "p": 5 },
+    { "s": 2016, "c": 654, "p": 0 },
+    { "s": 2017, "c": 654, "p": 0 },
+    { "s": 2018, "c": 521, "p": 24, "g": 3 },
+    { "s": 2018, "c": 654, "p": 0 },
+    { "s": 2019, "c": 482, "p": 30, "g": 8 },
+    { "s": 2020, "c": 482, "p": 31, "g": 6 },
+    { "s": 2021, "c": 482, "p": 23, "g": 3 },
+    { "s": 2022, "c": 280, "p": 31, "g": 12 },
+    { "s": 2023, "c": 280, "p": 37, "g": 7 },
+    { "s": 2024, "c": 280, "p": 3, "g": 1 },
+    { "s": 2024, "c": 2247, "p": 18 },
+    { "s": 2025, "c": 2247, "p": 10 }
+  ]
+}

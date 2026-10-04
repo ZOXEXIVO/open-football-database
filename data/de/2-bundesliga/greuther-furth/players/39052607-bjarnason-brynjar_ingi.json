@@ -1,0 +1,41 @@
+{
+  "id": 39052607,
+  "first_name": "Brynjar Ingi",
+  "last_name": "Bjarnason",
+  "birth_date": "1999-12-06",
+  "country_id": 774,
+  "club_id": 2253,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 123,
+  "contract": {
+    "salary": 215436,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 17, "goals": 2, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2016, "c": 4300030, "p": 0 },
+    { "s": 2017, "c": 7842707, "p": 0 },
+    { "s": 2017, "c": 7842822, "p": 1 },
+    { "s": 2018, "c": 7842822, "p": 15 },
+    { "s": 2019, "c": 4300030, "p": 12 },
+    { "s": 2020, "c": 4300030, "p": 18, "g": 2 },
+    { "s": 2021, "c": 1141, "p": 1 },
+    { "s": 2021, "c": 4300030, "p": 10, "g": 1 },
+    { "s": 2022, "c": 1426, "p": 14 },
+    { "s": 2023, "c": 103283, "p": 23, "g": 1 },
+    { "s": 2024, "c": 103283, "p": 25, "g": 2 },
+    { "s": 2025, "c": 103283, "p": 13 }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 37044806,
+  "name": "Jong PSV",
+  "parent_club": {
+    "id": 1028,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 3101
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 37044806,
+      "name": "Jong PSV",
+      "slug": "jong-psv",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e2001a",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Superb",
+    "youth": "Superb",
+    "academy": "Excellent",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 800
+}

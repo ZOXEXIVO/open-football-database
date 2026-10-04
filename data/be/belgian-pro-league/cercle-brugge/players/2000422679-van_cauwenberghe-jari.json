@@ -1,0 +1,32 @@
+{
+  "id": 2000422679,
+  "first_name": "Jari",
+  "last_name": "Van Cauwenberghe",
+  "birth_date": "2008-02-13",
+  "country_id": 757,
+  "club_id": 184,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 69,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 184, "p": 0 }
+  ]
+}

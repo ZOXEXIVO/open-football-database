@@ -1,0 +1,36 @@
+{
+  "id": 91204482,
+  "first_name": "Daniel",
+  "last_name": "Kasper",
+  "birth_date": "2002-06-23",
+  "country_id": 771,
+  "club_id": 194,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 107,
+  "potential_ability": 116,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 108997, "p": 0 },
+    { "s": 2019, "c": 108997, "p": 0 },
+    { "s": 2020, "c": 108997, "p": 0 },
+    { "s": 2021, "c": 877219, "p": 28, "g": 5 },
+    { "s": 2022, "c": 877219, "p": 17, "g": 3 },
+    { "s": 2023, "c": 877219, "p": 30, "g": 21 },
+    { "s": 2024, "c": 2253, "p": 3 },
+    { "s": 2024, "c": 877165, "p": 21, "g": 18 },
+    { "s": 2025, "c": 2253, "p": 0 }
+  ]
+}

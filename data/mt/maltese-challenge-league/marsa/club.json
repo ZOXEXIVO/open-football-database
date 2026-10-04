@@ -1,0 +1,57 @@
+{
+  "id": 133178,
+  "name": "Marsa",
+  "location": {
+    "city_id": 5479
+  },
+  "finance": {
+    "balance": 71120
+  },
+  "teams": [
+    {
+      "id": 133178,
+      "name": "Marsa",
+      "slug": "marsa",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 94400023,
+      "name": "Marsa",
+      "slug": "marsa-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 450,
+        "national": 450,
+        "world": 450
+      }
+    },
+    {
+      "id": 94400024,
+      "name": "Marsa",
+      "slug": "marsa-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 300,
+        "national": 300,
+        "world": 300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3862e0",
+    "foreground": "#f26549"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Poor",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 100
+}

@@ -1,0 +1,57 @@
+{
+  "id": 984,
+  "name": "Panionios",
+  "location": {
+    "city_id": 5498
+  },
+  "finance": {
+    "balance": 407670
+  },
+  "teams": [
+    {
+      "id": 984,
+      "name": "Panionios",
+      "slug": "panionios",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5300,
+        "national": 5300,
+        "world": 5300
+      }
+    },
+    {
+      "id": 94600013,
+      "name": "Panionios",
+      "slug": "panionios-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1590,
+        "national": 1590,
+        "world": 1590
+      }
+    },
+    {
+      "id": 94600014,
+      "name": "Panionios",
+      "slug": "panionios-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1060,
+        "national": 1060,
+        "world": 1060
+      }
+    }
+  ],
+  "colors": {
+    "background": "#9e2530",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 3000
+}

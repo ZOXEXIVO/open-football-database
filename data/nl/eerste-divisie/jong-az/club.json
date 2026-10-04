@@ -1,0 +1,39 @@
+{
+  "id": 37060576,
+  "name": "Jong AZ",
+  "parent_club": {
+    "id": 991,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 3103
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 37060576,
+      "name": "Jong AZ",
+      "slug": "jong-az",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e2001a",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Superb",
+    "youth": "Superb",
+    "academy": "Excellent",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 600
+}

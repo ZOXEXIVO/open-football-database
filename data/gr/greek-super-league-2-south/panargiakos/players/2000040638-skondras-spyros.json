@@ -1,0 +1,46 @@
+{
+  "id": 2000040638,
+  "first_name": "Spyros",
+  "last_name": "Skondras",
+  "birth_date": "2001-04-06",
+  "country_id": 772,
+  "club_id": 677316,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 75,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 129665, "p": 0 },
+    { "s": 2020, "c": 129665, "p": 0 },
+    { "s": 2021, "c": 36010589, "p": 20 },
+    { "s": 2022, "c": 2000110742, "p": 18, "g": 1 },
+    { "s": 2023, "c": 2000110742, "p": 14, "g": 1 },
+    { "s": 2024, "c": 1300565, "p": 8 },
+    { "s": 2025, "c": 2000003468, "p": 1 }
+  ]
+}

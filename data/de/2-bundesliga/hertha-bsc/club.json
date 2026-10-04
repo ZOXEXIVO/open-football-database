@@ -1,0 +1,57 @@
+{
+  "id": 2247,
+  "name": "Hertha BSC",
+  "location": {
+    "city_id": 5435
+  },
+  "finance": {
+    "balance": 26670000
+  },
+  "teams": [
+    {
+      "id": 2247,
+      "name": "Hertha BSC",
+      "slug": "hertha-bsc",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6900,
+        "national": 6900,
+        "world": 6900
+      }
+    },
+    {
+      "id": 94100035,
+      "name": "Hertha BSC",
+      "slug": "hertha-bsc-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 2070,
+        "national": 2070,
+        "world": 2070
+      }
+    },
+    {
+      "id": 94100036,
+      "name": "Hertha BSC",
+      "slug": "hertha-bsc-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0069b4",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Great",
+    "academy": "Excellent",
+    "recruitment": "Good"
+  },
+  "average_attendance": 50000
+}

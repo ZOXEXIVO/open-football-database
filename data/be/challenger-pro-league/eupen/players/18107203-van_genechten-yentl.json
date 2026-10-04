@@ -1,0 +1,40 @@
+{
+  "id": 18107203,
+  "first_name": "Yentl",
+  "last_name": "Van Genechten",
+  "birth_date": "2000-08-18",
+  "country_id": 757,
+  "club_id": 194,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 103,
+  "potential_ability": 110,
+  "contract": {
+    "salary": 83096,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 289, "p": 1 },
+    { "s": 2018, "c": 289, "p": 4 },
+    { "s": 2019, "c": 8160007, "p": 16 },
+    { "s": 2020, "c": 18008817, "p": 25, "g": 1 },
+    { "s": 2021, "c": 258, "p": 0 },
+    { "s": 2022, "c": 194, "p": 33 },
+    { "s": 2023, "c": 194, "p": 28, "g": 2 },
+    { "s": 2024, "c": 194, "p": 28, "g": 4 }
+  ]
+}

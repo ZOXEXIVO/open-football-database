@@ -1,0 +1,46 @@
+{
+  "id": 2000107265,
+  "first_name": "Marko",
+  "last_name": "Ivezić",
+  "birth_date": "2001-12-02",
+  "country_id": 802,
+  "club_id": 2245,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 132,
+  "contract": {
+    "salary": 301600,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 1, "goals": 0, "u21_apps": 4, "u21_goals": 0},
+  "history": [
+    { "s": 2016, "c": 5742700, "p": 0 },
+    { "s": 2017, "c": 16027118, "p": 0 },
+    { "s": 2018, "c": 16027118, "p": 0 },
+    { "s": 2019, "c": 5744631, "p": 0 },
+    { "s": 2020, "c": 5744631, "p": 5 },
+    { "s": 2021, "c": 5744631, "p": 34, "g": 3 },
+    { "s": 2022, "c": 5744631, "p": 29 },
+    { "s": 2023, "c": 2245, "p": 29, "g": 1 },
+    { "s": 2024, "c": 2245, "p": 23 }
+  ]
+}

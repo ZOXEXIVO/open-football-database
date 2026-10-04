@@ -1,0 +1,57 @@
+{
+  "id": 1011,
+  "name": "Volendam",
+  "location": {
+    "city_id": 5440
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 1011,
+      "name": "Volendam",
+      "slug": "volendam",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5300,
+        "national": 5300,
+        "world": 5300
+      }
+    },
+    {
+      "id": 90200045,
+      "name": "Volendam",
+      "slug": "volendam-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1590,
+        "national": 1590,
+        "world": 1590
+      }
+    },
+    {
+      "id": 90200046,
+      "name": "Volendam",
+      "slug": "volendam-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1060,
+        "national": 1060,
+        "world": 1060
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f27641",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Good",
+    "academy": "Good",
+    "recruitment": "Average"
+  },
+  "average_attendance": 6300
+}

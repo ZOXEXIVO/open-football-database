@@ -1,0 +1,39 @@
+{
+  "id": 36159909,
+  "first_name": "Tilemachos",
+  "last_name": "Karabas",
+  "birth_date": "2001-04-05",
+  "country_id": 772,
+  "club_id": 129657,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 979, "p": 0 },
+    { "s": 2019, "c": 979, "p": 0 },
+    { "s": 2020, "c": 979, "p": 0 },
+    { "s": 2021, "c": 979, "p": 0 },
+    { "s": 2021, "c": 2000110750, "p": 9 },
+    { "s": 2022, "c": 2000110750, "p": 19 },
+    { "s": 2023, "c": 2000110750, "p": 27, "g": 1 },
+    { "s": 2024, "c": 129657, "p": 19 }
+  ]
+}

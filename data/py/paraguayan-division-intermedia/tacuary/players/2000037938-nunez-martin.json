@@ -1,0 +1,27 @@
+{
+  "id": 2000037938,
+  "first_name": "Martín",
+  "last_name": "Núñez",
+  "birth_date": "2001-05-05",
+  "country_id": 1655,
+  "club_id": 5280339,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 105,
+  "history": [
+    { "s": 2020, "c": 5280337, "p": 1 },
+    { "s": 2021, "c": 5280337, "p": 0 },
+    { "s": 2022, "c": 5280337, "p": 21, "g": 1 },
+    { "s": 2023, "c": 5280339, "p": 10 },
+    { "s": 2024, "c": 5280339, "p": 12 }
+  ]
+}

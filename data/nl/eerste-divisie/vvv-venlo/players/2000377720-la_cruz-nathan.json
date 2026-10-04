@@ -1,0 +1,29 @@
+{
+  "id": 2000377720,
+  "first_name": "Nathan",
+  "last_name": "la Cruz",
+  "birth_date": "2006-05-09",
+  "country_id": 360,
+  "club_id": 1044,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2000181699,
+  "first_name": "Kostas",
+  "last_name": "Myrtollari",
+  "birth_date": "2002-07-13",
+  "country_id": 772,
+  "club_id": 677316,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 75,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 43076718, "p": 12, "g": 1 },
+    { "s": 2022, "c": 829171, "p": 14 },
+    { "s": 2022, "c": 43058699, "p": 10 },
+    { "s": 2023, "c": 2000020747, "p": 26, "g": 3 },
+    { "s": 2024, "c": 7980797, "p": 28, "g": 4 },
+    { "s": 2025, "c": 43076718, "p": 16, "g": 2 }
+  ]
+}

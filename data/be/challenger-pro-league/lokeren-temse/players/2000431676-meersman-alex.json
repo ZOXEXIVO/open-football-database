@@ -1,0 +1,28 @@
+{
+  "id": 2000431676,
+  "first_name": "Alex",
+  "last_name": "Meersman",
+  "birth_date": "2005-10-13",
+  "country_id": 757,
+  "club_id": 536364,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 67,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 536364, "p": 0 }
+  ]
+}

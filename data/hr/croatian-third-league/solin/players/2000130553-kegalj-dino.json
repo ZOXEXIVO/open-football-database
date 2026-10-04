@@ -1,0 +1,28 @@
+{
+  "id": 2000130553,
+  "first_name": "Dino",
+  "last_name": "Kegalj",
+  "birth_date": "2005-03-23",
+  "country_id": 761,
+  "club_id": 126423,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 77,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2024, "c": 126423, "p": 7, "g": 1 },
+    { "s": 2024, "c": 661680, "p": 1 }
+  ]
+}

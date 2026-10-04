@@ -1,0 +1,32 @@
+{
+  "id": 2000432521,
+  "first_name": "Alessio",
+  "last_name": "Schiavo",
+  "birth_date": "2005-11-25",
+  "country_id": 757,
+  "club_id": 254,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 254, "p": 0 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 248,
+  "name": "Patro Eisden",
+  "location": {
+    "city_id": 5459
+  },
+  "finance": {
+    "balance": 93980
+  },
+  "teams": [
+    {
+      "id": 248,
+      "name": "Patro Eisden",
+      "slug": "patro-eisden",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 94300005,
+      "name": "Patro Eisden",
+      "slug": "patro-eisden-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 94300006,
+      "name": "Patro Eisden",
+      "slug": "patro-eisden-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#663ebd",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Good",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2000
+}

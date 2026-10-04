@@ -1,0 +1,28 @@
+{
+  "id": 2000449184,
+  "first_name": "Louis",
+  "last_name": "Daems",
+  "birth_date": "2009-01-14",
+  "country_id": 757,
+  "club_id": 18008817,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 18008817, "p": 0 }
+  ]
+}

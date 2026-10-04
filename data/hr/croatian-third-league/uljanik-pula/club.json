@@ -1,0 +1,57 @@
+{
+  "id": 129852,
+  "name": "Uljanik Pula",
+  "location": {
+    "city_id": 5527
+  },
+  "finance": {
+    "balance": 12700
+  },
+  "teams": [
+    {
+      "id": 129852,
+      "name": "Uljanik Pula",
+      "slug": "uljanik-pula",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3100,
+        "national": 3100,
+        "world": 3100
+      }
+    },
+    {
+      "id": 94700013,
+      "name": "Uljanik Pula",
+      "slug": "uljanik-pula-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 930,
+        "national": 930,
+        "world": 930
+      }
+    },
+    {
+      "id": 94700014,
+      "name": "Uljanik Pula",
+      "slug": "uljanik-pula-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 620,
+        "national": 620,
+        "world": 620
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 300
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1002,
+  "name": "FC Eindhoven",
+  "location": {
+    "city_id": 5449
+  },
+  "finance": {
+    "balance": 717550
+  },
+  "teams": [
+    {
+      "id": 1002,
+      "name": "FC Eindhoven",
+      "slug": "fc-eindhoven",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    },
+    {
+      "id": 94200015,
+      "name": "FC Eindhoven",
+      "slug": "fc-eindhoven-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
+      }
+    },
+    {
+      "id": 94200016,
+      "name": "FC Eindhoven",
+      "slug": "fc-eindhoven-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 880,
+        "national": 880,
+        "world": 880
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3862e0",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 3200
+}

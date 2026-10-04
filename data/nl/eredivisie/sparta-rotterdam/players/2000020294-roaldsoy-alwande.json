@@ -1,0 +1,47 @@
+{
+  "id": 2000020294,
+  "first_name": "Alwande",
+  "last_name": "Roaldsøy",
+  "birth_date": "2004-06-09",
+  "country_id": 786,
+  "club_id": 1039,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 115,
+  "potential_ability": 138,
+  "contract": {
+    "salary": 179712,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 3, "u21_goals": 0},
+  "history": [
+    { "s": 2018, "c": 1300, "p": 0 },
+    { "s": 2019, "c": 1300, "p": 15 },
+    { "s": 2020, "c": 1106, "p": 0 },
+    { "s": 2021, "c": 1106, "p": 0 },
+    { "s": 2022, "c": 1106, "p": 0 },
+    { "s": 2023, "c": 2000277208, "p": 6 },
+    { "s": 2024, "c": 1353, "p": 8 },
+    { "s": 2024, "c": 109106, "p": 10 },
+    { "s": 2025, "c": 1353, "p": 8, "g": 1 },
+    { "s": 2025, "c": 103283, "p": 19, "g": 4 }
+  ]
+}

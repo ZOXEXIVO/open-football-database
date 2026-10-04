@@ -1,0 +1,45 @@
+{
+  "id": 2000180877,
+  "first_name": "Charles",
+  "last_name": "Herrmann",
+  "birth_date": "2006-01-21",
+  "country_id": 771,
+  "club_id": 184,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 102,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 157248,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 907, "p": 0 },
+    { "s": 2024, "c": 908, "p": 0 },
+    { "s": 2024, "c": 876858, "p": 32, "g": 2 },
+    { "s": 2025, "c": 908, "p": 1 },
+    { "s": 2025, "c": 876858, "p": 13, "g": 1 }
+  ]
+}

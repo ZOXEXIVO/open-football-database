@@ -1,0 +1,57 @@
+{
+  "id": 78012164,
+  "name": "Villa Teresa",
+  "location": {
+    "city_id": 5567
+  },
+  "finance": {
+    "balance": 1270
+  },
+  "teams": [
+    {
+      "id": 78012164,
+      "name": "Villa Teresa",
+      "slug": "villa-teresa",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2900,
+        "national": 2900,
+        "world": 2900
+      }
+    },
+    {
+      "id": 95000029,
+      "name": "Villa Teresa",
+      "slug": "villa-teresa-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 870,
+        "national": 870,
+        "world": 870
+      }
+    },
+    {
+      "id": 95000030,
+      "name": "Villa Teresa",
+      "slug": "villa-teresa-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 580,
+        "national": 580,
+        "world": 580
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Limited",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 150
+}

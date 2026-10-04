@@ -1,0 +1,28 @@
+{
+  "id": 2000223866,
+  "first_name": "Michalis",
+  "last_name": "Ladias",
+  "birth_date": "2003-12-15",
+  "country_id": 772,
+  "club_id": 129667,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 75,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 129667, "p": 0 },
+    { "s": 2021, "c": 129667, "p": 0 },
+    { "s": 2022, "c": 129707, "p": 2 },
+    { "s": 2023, "c": 36010589, "p": 3 },
+    { "s": 2023, "c": 36045474, "p": 5 }
+  ]
+}

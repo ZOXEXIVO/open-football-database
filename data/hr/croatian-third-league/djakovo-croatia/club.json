@@ -1,0 +1,57 @@
+{
+  "id": 24038155,
+  "name": "Djakovo Croatia",
+  "location": {
+    "city_id": 5528
+  },
+  "finance": {
+    "balance": 205740
+  },
+  "teams": [
+    {
+      "id": 24038155,
+      "name": "Djakovo Croatia",
+      "slug": "djakovo-croatia",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2900,
+        "national": 2900,
+        "world": 2900
+      }
+    },
+    {
+      "id": 94700015,
+      "name": "Djakovo Croatia",
+      "slug": "djakovo-croatia-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 870,
+        "national": 870,
+        "world": 870
+      }
+    },
+    {
+      "id": 94700016,
+      "name": "Djakovo Croatia",
+      "slug": "djakovo-croatia-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 580,
+        "national": 580,
+        "world": 580
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2e6091",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 400
+}

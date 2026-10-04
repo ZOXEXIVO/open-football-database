@@ -1,0 +1,28 @@
+{
+  "id": 2000258664,
+  "first_name": "Tim",
+  "last_name": "Schunck",
+  "birth_date": "2006-01-31",
+  "country_id": 771,
+  "club_id": 931,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 931, "p": 0 }
+  ]
+}

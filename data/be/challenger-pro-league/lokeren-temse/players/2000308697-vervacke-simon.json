@@ -1,0 +1,32 @@
+{
+  "id": 2000308697,
+  "first_name": "Simon",
+  "last_name": "Vervacke",
+  "birth_date": "2006-09-10",
+  "country_id": 757,
+  "club_id": 536364,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 68,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 60632,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 168, "p": 0 },
+    { "s": 2023, "c": 228, "p": 0 },
+    { "s": 2024, "c": 228, "p": 3 },
+    { "s": 2024, "c": 536364, "p": 0 }
+  ]
+}

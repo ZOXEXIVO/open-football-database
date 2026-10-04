@@ -1,0 +1,36 @@
+{
+  "id": 2000063812,
+  "first_name": "Andreas",
+  "last_name": "Spegelaere",
+  "birth_date": "2003-02-02",
+  "country_id": 757,
+  "club_id": 536364,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 112,
+  "contract": {
+    "salary": 44928,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 228, "p": 2 },
+    { "s": 2023, "c": 228, "p": 8 },
+    { "s": 2024, "c": 228, "p": 3 },
+    { "s": 2024, "c": 536364, "p": 6 }
+  ]
+}

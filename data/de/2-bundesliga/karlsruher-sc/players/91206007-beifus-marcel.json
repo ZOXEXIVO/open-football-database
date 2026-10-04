@@ -1,0 +1,36 @@
+{
+  "id": 91206007,
+  "first_name": "Marcel",
+  "last_name": "Beifus",
+  "birth_date": "2002-10-27",
+  "country_id": 771,
+  "club_id": 931,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 115,
+  "potential_ability": 130,
+  "contract": {
+    "salary": 215436,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 961, "p": 0 },
+    { "s": 2018, "c": 961, "p": 0 },
+    { "s": 2019, "c": 6002501, "p": 0 },
+    { "s": 2020, "c": 6002501, "p": 7, "g": 1 },
+    { "s": 2021, "c": 946, "p": 11, "g": 1 },
+    { "s": 2022, "c": 946, "p": 9 },
+    { "s": 2023, "c": 931, "p": 21, "g": 1 },
+    { "s": 2024, "c": 931, "p": 31 }
+  ]
+}

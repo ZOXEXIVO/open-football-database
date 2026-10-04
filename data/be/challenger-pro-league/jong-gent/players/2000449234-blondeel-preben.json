@@ -1,0 +1,29 @@
+{
+  "id": 2000449234,
+  "first_name": "Preben",
+  "last_name": "Blondeel",
+  "birth_date": "2009-01-07",
+  "country_id": 757,
+  "club_id": 2000181439,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 77,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 62868,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 168, "p": 0 }
+  ]
+}

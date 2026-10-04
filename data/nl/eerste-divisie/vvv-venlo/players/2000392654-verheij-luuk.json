@@ -1,0 +1,37 @@
+{
+  "id": 2000392654,
+  "first_name": "Luuk",
+  "last_name": "Verheij",
+  "birth_date": "2005-07-23",
+  "country_id": 784,
+  "club_id": 1044,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 44928,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1002, "p": 19, "g": 1 }
+  ]
+}

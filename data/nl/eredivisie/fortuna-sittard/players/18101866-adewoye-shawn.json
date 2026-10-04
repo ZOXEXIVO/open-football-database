@@ -1,0 +1,35 @@
+{
+  "id": 18101866,
+  "first_name": "Shawn",
+  "last_name": "Adewoye",
+  "birth_date": "2000-06-29",
+  "country_id": 757,
+  "club_id": 1014,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 125,
+  "contract": {
+    "salary": 112320,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 258, "p": 0 },
+    { "s": 2020, "c": 258, "p": 0 },
+    { "s": 2020, "c": 1032, "p": 3 },
+    { "s": 2021, "c": 1032, "p": 22 },
+    { "s": 2022, "c": 1032, "p": 33, "g": 1 },
+    { "s": 2023, "c": 1032, "p": 29, "g": 1 },
+    { "s": 2024, "c": 1014, "p": 24, "g": 1 }
+  ]
+}

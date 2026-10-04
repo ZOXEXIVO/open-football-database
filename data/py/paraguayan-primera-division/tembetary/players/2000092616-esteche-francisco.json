@@ -1,0 +1,27 @@
+{
+  "id": 2000092616,
+  "first_name": "Francisco",
+  "last_name": "Esteche",
+  "birth_date": "2002-04-15",
+  "country_id": 1649,
+  "club_id": 5280215,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 115,
+  "history": [
+    { "s": 2021, "c": 14006366, "p": 16, "g": 3 },
+    { "s": 2022, "c": 14006366, "p": 19, "g": 1 },
+    { "s": 2023, "c": 14006366, "p": 26, "g": 1 },
+    { "s": 2024, "c": 5280215, "p": 29, "g": 2 },
+    { "s": 2025, "c": 5280215, "p": 43, "g": 1 }
+  ]
+}

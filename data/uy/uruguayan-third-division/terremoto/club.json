@@ -1,0 +1,57 @@
+{
+  "id": 78037929,
+  "name": "Terremoto",
+  "location": {
+    "city_id": 5571
+  },
+  "finance": {
+    "balance": 1237
+  },
+  "teams": [
+    {
+      "id": 78037929,
+      "name": "Terremoto",
+      "slug": "terremoto",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    },
+    {
+      "id": 95000037,
+      "name": "Terremoto",
+      "slug": "terremoto-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    },
+    {
+      "id": 95000038,
+      "name": "Terremoto",
+      "slug": "terremoto-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 100
+}

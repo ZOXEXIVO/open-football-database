@@ -1,0 +1,29 @@
+{
+  "id": 2000161687,
+  "first_name": "David",
+  "last_name": "Silva",
+  "birth_date": "2001-07-22",
+  "country_id": 390,
+  "club_id": 130851,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 75,
+  "potential_ability": 79,
+  "history": [
+    { "s": 2017, "c": 1918, "p": 0 },
+    { "s": 2018, "c": 1918, "p": 0 },
+    { "s": 2019, "c": 115039, "p": 0 },
+    { "s": 2020, "c": 115039, "p": 0 },
+    { "s": 2021, "c": 115039, "p": 0 },
+    { "s": 2022, "c": 8825225, "p": 0 },
+    { "s": 2025, "c": 130851, "p": 6 }
+  ]
+}

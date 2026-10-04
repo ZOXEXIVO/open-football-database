@@ -1,0 +1,30 @@
+{
+  "id": 2000194926,
+  "first_name": "Tyler",
+  "last_name": "Doğan",
+  "birth_date": "2005-11-18",
+  "country_id": 799,
+  "club_id": 2245,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 43056,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 879398, "p": 9 },
+    { "s": 2024, "c": 879398, "p": 16 }
+  ]
+}

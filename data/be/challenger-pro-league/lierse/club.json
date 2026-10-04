@@ -1,0 +1,57 @@
+{
+  "id": 18008817,
+  "name": "Lierse",
+  "location": {
+    "city_id": 5466
+  },
+  "finance": {
+    "balance": 445770
+  },
+  "teams": [
+    {
+      "id": 18008817,
+      "name": "Lierse",
+      "slug": "lierse",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 94300019,
+      "name": "Lierse",
+      "slug": "lierse-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 94300020,
+      "name": "Lierse",
+      "slug": "lierse-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Good",
+    "academy": "Good",
+    "recruitment": "Average"
+  },
+  "average_attendance": 4500
+}

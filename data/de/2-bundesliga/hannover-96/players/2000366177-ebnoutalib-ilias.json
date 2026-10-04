@@ -1,0 +1,32 @@
+{
+  "id": 2000366177,
+  "first_name": "Ilias",
+  "last_name": "Ebnoutalib",
+  "birth_date": "2005-09-06",
+  "country_id": 771,
+  "club_id": 927,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 95,
+  "potential_ability": 125,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 930, "p": 0 },
+    { "s": 2021, "c": 877209, "p": 0 },
+    { "s": 2022, "c": 877209, "p": 0 },
+    { "s": 2023, "c": 1157, "p": 0 },
+    { "s": 2024, "c": 35140218, "p": 24, "g": 2 }
+  ]
+}

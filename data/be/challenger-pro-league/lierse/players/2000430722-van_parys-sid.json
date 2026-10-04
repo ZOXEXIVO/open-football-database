@@ -1,0 +1,32 @@
+{
+  "id": 2000430722,
+  "first_name": "Sid",
+  "last_name": "Van Parys",
+  "birth_date": "2008-02-22",
+  "country_id": 757,
+  "club_id": 18008817,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 61,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 18008817, "p": 0 }
+  ]
+}

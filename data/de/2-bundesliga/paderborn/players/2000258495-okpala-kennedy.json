@@ -1,0 +1,41 @@
+{
+  "id": 2000258495,
+  "first_name": "Kennedy",
+  "last_name": "Okpala",
+  "birth_date": "2004-12-17",
+  "country_id": 771,
+  "club_id": 121198,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 138,
+  "contract": {
+    "salary": 344708,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 943, "p": 0 },
+    { "s": 2022, "c": 880326, "p": 1 },
+    { "s": 2023, "c": 943, "p": 23, "g": 5 },
+    { "s": 2024, "c": 943, "p": 30, "g": 4 },
+    { "s": 2025, "c": 943, "p": 18, "g": 7 }
+  ]
+}

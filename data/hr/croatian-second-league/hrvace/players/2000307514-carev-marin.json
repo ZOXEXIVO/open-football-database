@@ -1,0 +1,40 @@
+{
+  "id": 2000307514,
+  "first_name": "Marin",
+  "last_name": "Carev",
+  "birth_date": "2005-06-06",
+  "country_id": 761,
+  "club_id": 663045,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 77,
+  "potential_ability": 97,
+  "contract": {
+    "expiration": "2026-06-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 663045, "p": 26, "g": 6 }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 37057962,
+  "first_name": "Clint",
+  "last_name": "Essers",
+  "birth_date": "1997-01-21",
+  "country_id": 784,
+  "club_id": 1002,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 97,
+  "potential_ability": 104,
+  "contract": {
+    "salary": 39312,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 1014, "p": 1 },
+    { "s": 2017, "c": 1014, "p": 30 },
+    { "s": 2018, "c": 1014, "p": 15 },
+    { "s": 2019, "c": 1014, "p": 18 },
+    { "s": 2020, "c": 1014, "p": 4 },
+    { "s": 2021, "c": 1022, "p": 15, "g": 1 },
+    { "s": 2022, "c": 1022, "p": 20, "g": 1 },
+    { "s": 2023, "c": 35140224, "p": 13 },
+    { "s": 2024, "c": 35140224, "p": 19 }
+  ]
+}

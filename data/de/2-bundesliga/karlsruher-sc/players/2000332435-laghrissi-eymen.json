@@ -1,0 +1,33 @@
+{
+  "id": 2000332435,
+  "first_name": "Eymen",
+  "last_name": "Laghrissi",
+  "birth_date": "2008-06-04",
+  "country_id": 771,
+  "club_id": 931,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": -75,
+  "contract": {
+    "salary": 172380,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 931, "p": 0 }
+  ]
+}

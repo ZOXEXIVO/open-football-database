@@ -1,0 +1,25 @@
+{
+  "id": 2000384808,
+  "first_name": "Grigoris",
+  "last_name": "Komlias",
+  "birth_date": "2006-10-16",
+  "country_id": 772,
+  "club_id": 678209,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 977, "p": 1 },
+    { "s": 2025, "c": 678209, "p": 0 }
+  ]
+}

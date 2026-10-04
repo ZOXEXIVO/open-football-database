@@ -1,0 +1,57 @@
+{
+  "id": 652830,
+  "name": "Uskok",
+  "location": {
+    "city_id": 5523
+  },
+  "finance": {
+    "balance": 5080
+  },
+  "teams": [
+    {
+      "id": 652830,
+      "name": "Uskok",
+      "slug": "uskok",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    },
+    {
+      "id": 94700005,
+      "name": "Uskok",
+      "slug": "uskok-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    },
+    {
+      "id": 94700006,
+      "name": "Uskok",
+      "slug": "uskok-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 560,
+        "national": 560,
+        "world": 560
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 300
+}

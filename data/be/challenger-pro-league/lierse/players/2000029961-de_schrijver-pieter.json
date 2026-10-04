@@ -1,0 +1,32 @@
+{
+  "id": 2000029961,
+  "first_name": "Pieter",
+  "last_name": "De Schrijver",
+  "birth_date": "2000-09-07",
+  "country_id": 757,
+  "club_id": 18008817,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": 91,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 18008817, "p": 0 },
+    { "s": 2020, "c": 18008817, "p": 2 },
+    { "s": 2021, "c": 18008817, "p": 11 },
+    { "s": 2022, "c": 18008817, "p": 29, "g": 1 },
+    { "s": 2024, "c": 18008817, "p": 9, "g": 2 }
+  ]
+}

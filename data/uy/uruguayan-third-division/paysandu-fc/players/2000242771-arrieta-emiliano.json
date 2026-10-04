@@ -1,0 +1,50 @@
+{
+  "id": 2000242771,
+  "first_name": "Emiliano",
+  "last_name": "Arrieta",
+  "birth_date": "2004-04-27",
+  "country_id": 1649,
+  "club_id": 8825221,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 90,
+  "potential_ability": 108,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 90, "p": 0 },
+    { "s": 2021, "c": 90, "p": 0 },
+    { "s": 2022, "c": 90, "p": 0 },
+    { "s": 2022, "c": 480, "p": 1 },
+    { "s": 2023, "c": 480, "p": 4 },
+    { "s": 2024, "c": 952697, "p": 34, "g": 1 },
+    { "s": 2025, "c": 8825221, "p": 15, "g": 2 }
+  ]
+}

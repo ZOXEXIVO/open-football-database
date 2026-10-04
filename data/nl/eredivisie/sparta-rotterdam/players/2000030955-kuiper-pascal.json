@@ -1,0 +1,32 @@
+{
+  "id": 2000030955,
+  "first_name": "Pascal",
+  "last_name": "Kuiper",
+  "birth_date": "2004-03-17",
+  "country_id": 784,
+  "club_id": 1039,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 44928,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1004, "p": 2 },
+    { "s": 2022, "c": 1004, "p": 0 },
+    { "s": 2023, "c": 1004, "p": 0 },
+    { "s": 2024, "c": 1004, "p": 3 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 129701,
+  "name": "Marko",
+  "location": {
+    "city_id": 5497
+  },
+  "finance": {
+    "balance": 135890
+  },
+  "teams": [
+    {
+      "id": 129701,
+      "name": "Marko",
+      "slug": "marko",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 94600011,
+      "name": "Marko",
+      "slug": "marko-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 94600012,
+      "name": "Marko",
+      "slug": "marko-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3cb571",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 500
+}

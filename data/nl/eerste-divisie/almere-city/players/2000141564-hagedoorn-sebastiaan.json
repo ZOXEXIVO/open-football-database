@@ -1,0 +1,30 @@
+{
+  "id": 2000141564,
+  "first_name": "Sebastiaan",
+  "last_name": "Hagedoorn",
+  "birth_date": "2004-11-30",
+  "country_id": 784,
+  "club_id": 850022,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 29172,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1043, "p": 16 },
+    { "s": 2025, "c": 1043, "p": 8 }
+  ]
+}

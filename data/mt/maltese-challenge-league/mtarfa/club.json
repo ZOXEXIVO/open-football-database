@@ -1,0 +1,57 @@
+{
+  "id": 47041732,
+  "name": "Mtarfa",
+  "location": {
+    "city_id": 5473
+  },
+  "finance": {
+    "balance": 165100
+  },
+  "teams": [
+    {
+      "id": 47041732,
+      "name": "Mtarfa",
+      "slug": "mtarfa",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1300,
+        "national": 1300,
+        "world": 1300
+      }
+    },
+    {
+      "id": 94400011,
+      "name": "Mtarfa",
+      "slug": "mtarfa-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 390,
+        "national": 390,
+        "world": 390
+      }
+    },
+    {
+      "id": 94400012,
+      "name": "Mtarfa",
+      "slug": "mtarfa-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 260,
+        "national": 260,
+        "world": 260
+      }
+    }
+  ],
+  "colors": {
+    "background": "#62883b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Poor",
+    "youth": "Poor",
+    "academy": "Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 80
+}

@@ -1,0 +1,57 @@
+{
+  "id": 121200,
+  "name": "SV Elversberg",
+  "location": {
+    "city_id": 5429
+  },
+  "finance": {
+    "balance": 6350000
+  },
+  "teams": [
+    {
+      "id": 121200,
+      "name": "SV Elversberg",
+      "slug": "elversberg",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5000,
+        "national": 5000,
+        "world": 5000
+      }
+    },
+    {
+      "id": 94100023,
+      "name": "SV Elversberg",
+      "slug": "elversberg-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 94100024,
+      "name": "SV Elversberg",
+      "slug": "elversberg-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d2be8c",
+    "foreground": "#141414"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 8000
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000305654,
+  "first_name": "Avanesh",
+  "last_name": "Satheskumar",
+  "birth_date": "2005-06-07",
+  "country_id": 771,
+  "club_id": 1044,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1044, "p": 0 }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 91187792,
+  "first_name": "Lasse",
+  "last_name": "Rosenboom",
+  "birth_date": "2002-01-19",
+  "country_id": 771,
+  "club_id": 2245,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 130,
+  "contract": {
+    "salary": 301600,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 91176189, "p": 0 },
+    { "s": 2017, "c": 948, "p": 0 },
+    { "s": 2018, "c": 948, "p": 0 },
+    { "s": 2019, "c": 948, "p": 0 },
+    { "s": 2020, "c": 948, "p": 0 },
+    { "s": 2021, "c": 103285, "p": 25, "g": 1 },
+    { "s": 2022, "c": 103285, "p": 27, "g": 1 },
+    { "s": 2023, "c": 2245, "p": 11 },
+    { "s": 2023, "c": 879398, "p": 14 },
+    { "s": 2024, "c": 2245, "p": 26, "g": 2 },
+    { "s": 2024, "c": 879398, "p": 4, "g": 2 }
+  ]
+}

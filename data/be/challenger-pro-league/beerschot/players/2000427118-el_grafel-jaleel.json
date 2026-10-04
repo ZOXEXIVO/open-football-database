@@ -1,0 +1,29 @@
+{
+  "id": 2000427118,
+  "first_name": "Jaleel",
+  "last_name": "El Grafel",
+  "birth_date": "2007-07-31",
+  "country_id": 757,
+  "club_id": 298,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 62,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 298, "p": 0 },
+    { "s": 2024, "c": 2000181451, "p": 28, "g": 1 }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000480338,
+  "first_name": "Saad",
+  "last_name": "Grain",
+  "birth_date": "2009-01-05",
+  "country_id": 757,
+  "club_id": 262,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

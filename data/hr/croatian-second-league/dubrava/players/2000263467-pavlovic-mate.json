@@ -1,0 +1,29 @@
+{
+  "id": 2000263467,
+  "first_name": "Mate",
+  "last_name": "Pavlović",
+  "birth_date": "2003-02-02",
+  "country_id": 761,
+  "club_id": 650441,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": 103,
+  "history": [
+    { "s": 2022, "c": 650441, "p": 9 },
+    { "s": 2023, "c": 650441, "p": 18, "g": 4 },
+    { "s": 2024, "c": 650441, "p": 9 }
+  ]
+}

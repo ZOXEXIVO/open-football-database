@@ -1,0 +1,35 @@
+{
+  "id": 2000177071,
+  "first_name": "Gentian",
+  "last_name": "Belaj",
+  "birth_date": "2006-02-21",
+  "country_id": 752,
+  "club_id": 1002,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 232, "p": 0 },
+    { "s": 2022, "c": 232, "p": 0 },
+    { "s": 2023, "c": 232, "p": 0 },
+    { "s": 2024, "c": 1002, "p": 0 }
+  ]
+}

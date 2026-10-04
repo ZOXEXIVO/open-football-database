@@ -1,0 +1,57 @@
+{
+  "id": 1251,
+  "name": "Zurrieq",
+  "location": {
+    "city_id": 5475
+  },
+  "finance": {
+    "balance": 190500
+  },
+  "teams": [
+    {
+      "id": 1251,
+      "name": "Zurrieq",
+      "slug": "zurrieq",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 94400015,
+      "name": "Zurrieq",
+      "slug": "zurrieq-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 450,
+        "national": 450,
+        "world": 450
+      }
+    },
+    {
+      "id": 94400016,
+      "name": "Zurrieq",
+      "slug": "zurrieq-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 300,
+        "national": 300,
+        "world": 300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Poor",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 100
+}

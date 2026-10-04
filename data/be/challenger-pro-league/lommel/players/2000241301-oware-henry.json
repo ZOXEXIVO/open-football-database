@@ -1,0 +1,36 @@
+{
+  "id": 2000241301,
+  "first_name": "Henry",
+  "last_name": "Oware",
+  "birth_date": "2004-04-01",
+  "country_id": 21,
+  "club_id": 8157175,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 92,
+  "potential_ability": 128,
+  "contract": {
+    "salary": 172380,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1971, "p": 0 },
+    { "s": 2023, "c": 1971, "p": 0 },
+    { "s": 2023, "c": 8157175, "p": 8 },
+    { "s": 2024, "c": 8157175, "p": 16 }
+  ]
+}

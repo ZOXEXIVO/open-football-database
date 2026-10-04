@@ -1,0 +1,57 @@
+{
+  "id": 129887,
+  "name": "Mladost Zdralovi",
+  "location": {
+    "city_id": 5522
+  },
+  "finance": {
+    "balance": 27940
+  },
+  "teams": [
+    {
+      "id": 129887,
+      "name": "Mladost Zdralovi",
+      "slug": "mladost-zdralovi",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 94700003,
+      "name": "Mladost Zdralovi",
+      "slug": "mladost-zdralovi-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 94700004,
+      "name": "Mladost Zdralovi",
+      "slug": "mladost-zdralovi-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 200
+}

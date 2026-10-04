@@ -1,0 +1,35 @@
+{
+  "id": 152,
+  "enabled": true,
+  "slug": "croatian-third-league",
+  "name": "Treca HNL",
+  "reputation": 2500,
+  "tier": 3,
+  "promotion_spots": 1,
+  "relegation_spots": 0,
+  "sub_leagues_competitions": ["U18"],
+  "settings": {
+    "season_starting_half": {
+      "from_day": 20,
+      "from_month": 7,
+      "to_day": 15,
+      "to_month": 12
+    },
+    "season_ending_half": {
+      "from_day": 1,
+      "from_month": 2,
+      "to_day": 25,
+      "to_month": 5
+    }
+  },
+  "foreign_players": [
+    {
+      "country_id": 776,
+      "weight": 2
+    },
+    {
+      "country_id": 791,
+      "weight": 1
+    }
+  ]
+}

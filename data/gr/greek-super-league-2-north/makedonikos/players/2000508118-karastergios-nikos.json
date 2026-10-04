@@ -1,0 +1,32 @@
+{
+  "id": 2000508118,
+  "first_name": "Nikos",
+  "last_name": "Karastergios",
+  "birth_date": "2004-04-26",
+  "country_id": 772,
+  "club_id": 676958,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": 75,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 36159703, "p": 0 },
+    { "s": 2019, "c": 967, "p": 0 },
+    { "s": 2020, "c": 967, "p": 0 },
+    { "s": 2021, "c": 36136195, "p": 0 },
+    { "s": 2022, "c": 36136195, "p": 0 }
+  ]
+}

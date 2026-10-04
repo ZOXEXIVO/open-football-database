@@ -1,0 +1,57 @@
+{
+  "id": 945,
+  "name": "Kaiserslautern",
+  "location": {
+    "city_id": 5421
+  },
+  "finance": {
+    "balance": 24130000
+  },
+  "teams": [
+    {
+      "id": 945,
+      "name": "Kaiserslautern",
+      "slug": "kaiserslautern",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6300,
+        "national": 6300,
+        "world": 6300
+      }
+    },
+    {
+      "id": 94100007,
+      "name": "Kaiserslautern",
+      "slug": "kaiserslautern-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1890,
+        "national": 1890,
+        "world": 1890
+      }
+    },
+    {
+      "id": 94100008,
+      "name": "Kaiserslautern",
+      "slug": "kaiserslautern-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ff0000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 45000
+}

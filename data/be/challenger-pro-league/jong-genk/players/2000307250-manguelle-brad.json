@@ -1,0 +1,33 @@
+{
+  "id": 2000307250,
+  "first_name": "Brad",
+  "last_name": "Manguelle",
+  "birth_date": "2007-11-27",
+  "country_id": 757,
+  "club_id": 2000173149,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": -8,
+  "contract": {
+    "salary": 107692,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 539882, "p": 0 },
+    { "s": 2022, "c": 258, "p": 0 },
+    { "s": 2023, "c": 258, "p": 0 },
+    { "s": 2023, "c": 2000173149, "p": 20 },
+    { "s": 2024, "c": 2000173149, "p": 17, "g": 1 }
+  ]
+}

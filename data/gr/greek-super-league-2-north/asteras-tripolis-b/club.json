@@ -1,0 +1,39 @@
+{
+  "id": 2000375864,
+  "name": "Asteras Tripolis B",
+  "parent_club": {
+    "id": 694366,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 1305
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 2000375864,
+      "name": "Asteras Tripolis B",
+      "slug": "asteras-tripolis-b",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3100,
+        "national": 3100,
+        "world": 3100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd700",
+    "foreground": "#003da5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 200
+}

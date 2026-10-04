@@ -1,0 +1,57 @@
+{
+  "id": 2233,
+  "name": "Magdeburg",
+  "location": {
+    "city_id": 5434
+  },
+  "finance": {
+    "balance": 11430000
+  },
+  "teams": [
+    {
+      "id": 2233,
+      "name": "Magdeburg",
+      "slug": "magdeburg",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5500,
+        "national": 5500,
+        "world": 5500
+      }
+    },
+    {
+      "id": 94100033,
+      "name": "Magdeburg",
+      "slug": "magdeburg-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1650,
+        "national": 1650,
+        "world": 1650
+      }
+    },
+    {
+      "id": 94100034,
+      "name": "Magdeburg",
+      "slug": "magdeburg-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0058b8",
+    "foreground": "#28334a"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 25500
+}

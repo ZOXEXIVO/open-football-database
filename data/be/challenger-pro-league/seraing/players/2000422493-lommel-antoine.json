@@ -1,0 +1,28 @@
+{
+  "id": 2000422493,
+  "first_name": "Antoine",
+  "last_name": "Lommel",
+  "birth_date": "2007-01-22",
+  "country_id": 757,
+  "club_id": 216,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2000181450, "p": 20, "g": 2 }
+  ]
+}

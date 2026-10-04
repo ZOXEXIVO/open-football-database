@@ -1,0 +1,40 @@
+{
+  "id": 2000174834,
+  "first_name": "Kerem",
+  "last_name": "Yalçin",
+  "birth_date": "2004-12-02",
+  "country_id": 771,
+  "club_id": 121198,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 128,
+  "contract": {
+    "salary": 86164,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2251, "p": 0 },
+    { "s": 2022, "c": 2251, "p": 7 },
+    { "s": 2023, "c": 2251, "p": 26, "g": 2 },
+    { "s": 2024, "c": 2251, "p": 31, "g": 3 }
+  ]
+}

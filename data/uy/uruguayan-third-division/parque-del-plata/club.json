@@ -1,0 +1,57 @@
+{
+  "id": 5512790,
+  "name": "Parque del Plata",
+  "location": {
+    "city_id": 5562
+  },
+  "finance": {
+    "balance": 714
+  },
+  "teams": [
+    {
+      "id": 5512790,
+      "name": "Parque del Plata",
+      "slug": "parque-del-plata",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    },
+    {
+      "id": 95000019,
+      "name": "Parque del Plata",
+      "slug": "parque-del-plata-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 300,
+        "national": 300,
+        "world": 300
+      }
+    },
+    {
+      "id": 95000020,
+      "name": "Parque del Plata",
+      "slug": "parque-del-plata-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 200,
+        "national": 200,
+        "world": 200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c8c57",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Poor",
+    "academy": "Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 100
+}

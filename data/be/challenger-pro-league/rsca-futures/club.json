@@ -1,0 +1,39 @@
+{
+  "id": 2000173150,
+  "name": "RSCA Futures",
+  "parent_club": {
+    "id": 256,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 3401
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 2000173150,
+      "name": "RSCA Futures",
+      "slug": "rsca-futures",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#7b1c7a",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Superb",
+    "youth": "Excellent",
+    "academy": "Excellent",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 500
+}

@@ -1,0 +1,58 @@
+{
+  "id": 37062918,
+  "first_name": "Juan",
+  "last_name": "Familia-Castillo",
+  "birth_date": "2000-01-13",
+  "country_id": 142527,
+  "club_id": 1032,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 104,
+  "potential_ability": 113,
+  "contract": {
+    "salary": 89856,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 5, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2016, "c": 630, "p": 0 },
+    { "s": 2017, "c": 630, "p": 0 },
+    { "s": 2018, "c": 630, "p": 0 },
+    { "s": 2019, "c": 992, "p": 0 },
+    { "s": 2019, "c": 856118, "p": 23 },
+    { "s": 2020, "c": 986, "p": 16 },
+    { "s": 2020, "c": 991, "p": 1 },
+    { "s": 2020, "c": 37060576, "p": 6 },
+    { "s": 2021, "c": 609, "p": 3 },
+    { "s": 2021, "c": 628, "p": 2 },
+    { "s": 2021, "c": 630, "p": 0 },
+    { "s": 2022, "c": 630, "p": 0 },
+    { "s": 2024, "c": 1032, "p": 24 }
+  ]
+}

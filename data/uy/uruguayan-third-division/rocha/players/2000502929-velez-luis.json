@@ -1,0 +1,25 @@
+{
+  "id": 2000502929,
+  "first_name": "Luis",
+  "last_name": "Vélez",
+  "birth_date": "2003-09-04",
+  "country_id": 1653,
+  "club_id": 130847,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": 86,
+  "history": [
+    { "s": 2018, "c": 76058672, "p": 0 },
+    { "s": 2021, "c": 2000262654, "p": 0 },
+    { "s": 2025, "c": 130847, "p": 6 }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000422680,
+  "first_name": "Matthis",
+  "last_name": "Decaesstecker",
+  "birth_date": "2008-01-14",
+  "country_id": 757,
+  "club_id": 184,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 63,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 184, "p": 0 }
+  ]
+}

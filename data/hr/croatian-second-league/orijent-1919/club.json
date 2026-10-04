@@ -1,0 +1,57 @@
+{
+  "id": 1300245,
+  "name": "Orijent 1919",
+  "location": {
+    "city_id": 5519
+  },
+  "finance": {
+    "balance": 127000
+  },
+  "teams": [
+    {
+      "id": 1300245,
+      "name": "Orijent 1919",
+      "slug": "orijent-1919",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 92100033,
+      "name": "Orijent 1919",
+      "slug": "orijent-1919-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 92100034,
+      "name": "Orijent 1919",
+      "slug": "orijent-1919-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 1000
+}

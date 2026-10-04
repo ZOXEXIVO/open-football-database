@@ -1,0 +1,29 @@
+{
+  "id": 2000380012,
+  "first_name": "Andrea",
+  "last_name": "Piron",
+  "birth_date": "2005-10-26",
+  "country_id": 757,
+  "club_id": 194,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 83,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 42640,
+    "expiration": "2026-06-29",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 194, "p": 3 }
+  ]
+}

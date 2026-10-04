@@ -1,0 +1,28 @@
+{
+  "id": 2000420814,
+  "first_name": "Alexandre",
+  "last_name": "Petitjean",
+  "birth_date": "2007-01-01",
+  "country_id": 757,
+  "club_id": 257,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 62,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 257, "p": 0 }
+  ]
+}

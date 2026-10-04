@@ -1,0 +1,36 @@
+{
+  "id": 25062429,
+  "first_name": "Jakub",
+  "last_name": "Hruštinec",
+  "birth_date": "1998-12-01",
+  "country_id": 763,
+  "club_id": 977,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 90,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 1300309, "p": 0 },
+    { "s": 2018, "c": 136201, "p": 0 },
+    { "s": 2019, "c": 25004976, "p": 8, "g": 1 },
+    { "s": 2020, "c": 25004976, "p": 12, "g": 1 },
+    { "s": 2021, "c": 25004976, "p": 13 },
+    { "s": 2022, "c": 973, "p": 8 },
+    { "s": 2022, "c": 25004976, "p": 15, "g": 1 },
+    { "s": 2023, "c": 973, "p": 26, "g": 2 },
+    { "s": 2024, "c": 984, "p": 12 }
+  ]
+}

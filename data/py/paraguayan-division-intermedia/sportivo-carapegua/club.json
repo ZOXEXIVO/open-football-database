@@ -1,0 +1,57 @@
+{
+  "id": 79012659,
+  "name": "Sportivo Carapegua",
+  "location": {
+    "city_id": 5548
+  },
+  "finance": {
+    "balance": 30480
+  },
+  "teams": [
+    {
+      "id": 79012659,
+      "name": "Sportivo Carapegua",
+      "slug": "sportivo-carapegua",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2700,
+        "national": 2700,
+        "world": 2700
+      }
+    },
+    {
+      "id": 94800019,
+      "name": "Sportivo Carapegua",
+      "slug": "sportivo-carapegua-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 810,
+        "national": 810,
+        "world": 810
+      }
+    },
+    {
+      "id": 94800020,
+      "name": "Sportivo Carapegua",
+      "slug": "sportivo-carapegua-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 540,
+        "national": 540,
+        "world": 540
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 300
+}

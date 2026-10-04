@@ -1,0 +1,31 @@
+{
+  "id": 2000330237,
+  "first_name": "Amar",
+  "last_name": "Ibrišimović",
+  "birth_date": "2007-04-17",
+  "country_id": 759,
+  "club_id": 920,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 92,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 86164,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 2, "u21_goals": 0},
+  "history": [
+    { "s": 2023, "c": 961, "p": 0 },
+    { "s": 2024, "c": 961, "p": 0 }
+  ]
+}

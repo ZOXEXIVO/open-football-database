@@ -1,0 +1,39 @@
+{
+  "id": 2000263913,
+  "first_name": "Petar",
+  "last_name": "Korov",
+  "birth_date": "2004-11-24",
+  "country_id": 761,
+  "club_id": 24021028,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 108,
+  "contract": {
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 24059986, "p": 25, "g": 4 },
+    { "s": 2023, "c": 24059986, "p": 28, "g": 3 },
+    { "s": 2024, "c": 24014012, "p": 13 },
+    { "s": 2024, "c": 24059986, "p": 16, "g": 1 }
+  ]
+}

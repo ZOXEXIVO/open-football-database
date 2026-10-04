@@ -1,0 +1,41 @@
+{
+  "id": 2000022826,
+  "first_name": "Aurelio",
+  "last_name": "Oehlers",
+  "birth_date": "2004-02-05",
+  "country_id": 784,
+  "club_id": 1011,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 107,
+  "potential_ability": 125,
+  "contract": {
+    "salary": 39312,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 37060575, "p": 6, "g": 1 },
+    { "s": 2021, "c": 37060575, "p": 2 },
+    { "s": 2022, "c": 37060575, "p": 17, "g": 1 },
+    { "s": 2023, "c": 37060575, "p": 19, "g": 1 },
+    { "s": 2024, "c": 1011, "p": 27, "g": 6 }
+  ]
+}

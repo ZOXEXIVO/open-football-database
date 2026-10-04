@@ -1,0 +1,26 @@
+{
+  "id": 2000422581,
+  "first_name": "Cameron",
+  "last_name": "Manang",
+  "birth_date": "2005-04-12",
+  "country_id": 757,
+  "club_id": 216,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 2000181450, "p": 6 },
+    { "s": 2023, "c": 2000181450, "p": 22, "g": 5 },
+    { "s": 2024, "c": 2000257717, "p": 20, "g": 2 }
+  ]
+}

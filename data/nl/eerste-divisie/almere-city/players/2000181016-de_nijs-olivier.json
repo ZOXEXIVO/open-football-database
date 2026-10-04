@@ -1,0 +1,35 @@
+{
+  "id": 2000181016,
+  "first_name": "Olivier",
+  "last_name": "de Nijs",
+  "birth_date": "2004-11-09",
+  "country_id": 784,
+  "club_id": 850022,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 33696,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 862783, "p": 21, "g": 2 },
+    { "s": 2024, "c": 850022, "p": 2 },
+    { "s": 2024, "c": 862783, "p": 23, "g": 15 }
+  ]
+}

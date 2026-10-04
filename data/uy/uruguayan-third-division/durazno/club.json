@@ -1,0 +1,57 @@
+{
+  "id": 78009701,
+  "name": "Durazno",
+  "location": {
+    "city_id": 5566
+  },
+  "finance": {
+    "balance": 22860
+  },
+  "teams": [
+    {
+      "id": 78009701,
+      "name": "Durazno",
+      "slug": "durazno",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    },
+    {
+      "id": 95000027,
+      "name": "Durazno",
+      "slug": "durazno-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    },
+    {
+      "id": 95000028,
+      "name": "Durazno",
+      "slug": "durazno-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 300
+}

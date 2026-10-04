@@ -1,0 +1,57 @@
+{
+  "id": 78004207,
+  "name": "Salus",
+  "location": {
+    "city_id": 5565
+  },
+  "finance": {
+    "balance": 555
+  },
+  "teams": [
+    {
+      "id": 78004207,
+      "name": "Salus",
+      "slug": "salus",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2200,
+        "national": 2200,
+        "world": 2200
+      }
+    },
+    {
+      "id": 95000025,
+      "name": "Salus",
+      "slug": "salus-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    },
+    {
+      "id": 95000026,
+      "name": "Salus",
+      "slug": "salus-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 440,
+        "national": 440,
+        "world": 440
+      }
+    }
+  ],
+  "colors": {
+    "background": "#17285c",
+    "foreground": "#d42424"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Poor",
+    "academy": "Poor",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 100
+}

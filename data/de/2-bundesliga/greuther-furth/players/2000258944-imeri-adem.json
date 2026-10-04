@@ -1,0 +1,43 @@
+{
+  "id": 2000258944,
+  "first_name": "Adem",
+  "last_name": "Imeri",
+  "birth_date": "2006-02-13",
+  "country_id": 771,
+  "club_id": 2253,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 68900,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 2253, "p": 0 },
+    { "s": 2024, "c": 2253, "p": 0 },
+    { "s": 2024, "c": 877165, "p": 18, "g": 1 }
+  ]
+}

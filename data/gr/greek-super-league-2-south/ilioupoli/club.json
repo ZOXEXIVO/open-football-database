@@ -1,0 +1,57 @@
+{
+  "id": 36000499,
+  "name": "Ilioupoli",
+  "location": {
+    "city_id": 5493
+  },
+  "finance": {
+    "balance": 68580
+  },
+  "teams": [
+    {
+      "id": 36000499,
+      "name": "Ilioupoli",
+      "slug": "ilioupoli",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3800,
+        "national": 3800,
+        "world": 3800
+      }
+    },
+    {
+      "id": 94600003,
+      "name": "Ilioupoli",
+      "slug": "ilioupoli-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    },
+    {
+      "id": 94600004,
+      "name": "Ilioupoli",
+      "slug": "ilioupoli-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 760,
+        "national": 760,
+        "world": 760
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 800
+}

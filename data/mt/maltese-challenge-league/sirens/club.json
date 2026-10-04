@@ -1,0 +1,57 @@
+{
+  "id": 47041726,
+  "name": "Sirens",
+  "location": {
+    "city_id": 5482
+  },
+  "finance": {
+    "balance": 27940
+  },
+  "teams": [
+    {
+      "id": 47041726,
+      "name": "Sirens",
+      "slug": "sirens",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1400,
+        "national": 1400,
+        "world": 1400
+      }
+    },
+    {
+      "id": 94400029,
+      "name": "Sirens",
+      "slug": "sirens-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 420,
+        "national": 420,
+        "world": 420
+      }
+    },
+    {
+      "id": 94400030,
+      "name": "Sirens",
+      "slug": "sirens-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 280,
+        "national": 280,
+        "world": 280
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1b2454",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Poor",
+    "academy": "Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 100
+}

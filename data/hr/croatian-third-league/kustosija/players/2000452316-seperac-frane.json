@@ -1,0 +1,37 @@
+{
+  "id": 2000452316,
+  "first_name": "Frane",
+  "last_name": "Šeperac",
+  "birth_date": "2008-04-11",
+  "country_id": 761,
+  "club_id": 24005249,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 61,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 432, "p": 0 },
+    { "s": 2024, "c": 24005249, "p": 0 }
+  ]
+}

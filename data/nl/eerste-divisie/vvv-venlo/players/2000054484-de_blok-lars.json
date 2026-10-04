@@ -1,0 +1,29 @@
+{
+  "id": 2000054484,
+  "first_name": "Lars",
+  "last_name": "de Blok",
+  "birth_date": "2004-06-14",
+  "country_id": 784,
+  "club_id": 1044,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 91,
+  "potential_ability": 106,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000105789,
+  "first_name": "Labros",
+  "last_name": "Antonopoulos",
+  "birth_date": "2005-05-27",
+  "country_id": 772,
+  "club_id": 129658,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 978, "p": 0 },
+    { "s": 2021, "c": 978, "p": 0 },
+    { "s": 2022, "c": 978, "p": 1 },
+    { "s": 2023, "c": 978, "p": 0 }
+  ]
+}

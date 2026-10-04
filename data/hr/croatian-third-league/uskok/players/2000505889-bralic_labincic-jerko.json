@@ -1,0 +1,34 @@
+{
+  "id": 2000505889,
+  "first_name": "Jerko",
+  "last_name": "Bralić-Labinčić",
+  "birth_date": "2006-02-01",
+  "country_id": 761,
+  "club_id": 652830,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2021, "c": 126423, "p": 0 },
+    { "s": 2022, "c": 126423, "p": 0 },
+    { "s": 2023, "c": 652830, "p": 10 },
+    { "s": 2024, "c": 652830, "p": 18, "g": 10 }
+  ]
+}

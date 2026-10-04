@@ -1,0 +1,46 @@
+{
+  "id": 2000070595,
+  "first_name": "Julian",
+  "last_name": "Hettwer",
+  "birth_date": "2003-06-15",
+  "country_id": 771,
+  "club_id": 921,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 115,
+  "potential_ability": 135,
+  "contract": {
+    "salary": 430872,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 933, "p": 0 },
+    { "s": 2020, "c": 933, "p": 9, "g": 1 },
+    { "s": 2021, "c": 933, "p": 26, "g": 1 },
+    { "s": 2022, "c": 933, "p": 25, "g": 5 },
+    { "s": 2023, "c": 121201, "p": 36, "g": 7 },
+    { "s": 2024, "c": 121201, "p": 26, "g": 14 }
+  ]
+}

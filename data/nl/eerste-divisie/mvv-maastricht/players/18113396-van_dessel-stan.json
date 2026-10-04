@@ -1,0 +1,42 @@
+{
+  "id": 18113396,
+  "first_name": "Stan",
+  "last_name": "Van Dessel",
+  "birth_date": "2001-07-24",
+  "country_id": 757,
+  "club_id": 1022,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 111,
+  "contract": {
+    "salary": 52780,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 280, "p": 0 },
+    { "s": 2017, "c": 278, "p": 0 },
+    { "s": 2018, "c": 278, "p": 0 },
+    { "s": 2019, "c": 278, "p": 5 },
+    { "s": 2020, "c": 278, "p": 6 },
+    { "s": 2021, "c": 278, "p": 5 },
+    { "s": 2022, "c": 278, "p": 20 },
+    { "s": 2023, "c": 278, "p": 4 },
+    { "s": 2023, "c": 18008817, "p": 20, "g": 2 },
+    { "s": 2024, "c": 1022, "p": 7, "g": 1 }
+  ]
+}

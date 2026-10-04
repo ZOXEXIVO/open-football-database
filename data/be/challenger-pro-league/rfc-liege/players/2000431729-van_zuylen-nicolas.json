@@ -1,0 +1,28 @@
+{
+  "id": 2000431729,
+  "first_name": "Nicolas",
+  "last_name": "Van Zuylen",
+  "birth_date": "2005-01-12",
+  "country_id": 757,
+  "club_id": 254,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 254, "p": 0 }
+  ]
+}

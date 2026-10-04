@@ -1,0 +1,30 @@
+{
+  "id": 2000254112,
+  "first_name": "Hossni",
+  "last_name": "Soye Ndime",
+  "birth_date": "2007-08-24",
+  "country_id": 757,
+  "club_id": 527945,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 278, "p": 0 },
+    { "s": 2023, "c": 278, "p": 0 },
+    { "s": 2024, "c": 2000181442, "p": 28, "g": 14 }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 161,
+  "enabled": true,
+  "slug": "greek-super-league-2-north",
+  "name": "Super League 2 North",
+  "reputation": 3500,
+  "tier": 2,
+  "promotion_spots": 1,
+  "relegation_spots": 0,
+  "sub_leagues_competitions": ["U18"],
+  "league_group": {
+    "name": "North",
+    "competition": "Super League 2",
+    "total_groups": 2
+  },
+  "settings": {
+    "season_starting_half": {
+      "from_day": 24,
+      "from_month": 8,
+      "to_day": 22,
+      "to_month": 12
+    },
+    "season_ending_half": {
+      "from_day": 5,
+      "from_month": 1,
+      "to_day": 18,
+      "to_month": 5
+    }
+  },
+  "foreign_players": [
+    {
+      "country_id": 776,
+      "weight": 3
+    },
+    {
+      "country_id": 1649,
+      "weight": 2
+    },
+    {
+      "country_id": 1651,
+      "weight": 2
+    },
+    {
+      "country_id": 769,
+      "weight": 1
+    }
+  ]
+}

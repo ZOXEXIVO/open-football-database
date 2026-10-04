@@ -1,0 +1,57 @@
+{
+  "id": 24005249,
+  "name": "Kustosija",
+  "location": {
+    "city_id": 5521
+  },
+  "finance": {
+    "balance": 1051560
+  },
+  "teams": [
+    {
+      "id": 24005249,
+      "name": "Kustosija",
+      "slug": "kustosija",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3600,
+        "national": 3600,
+        "world": 3600
+      }
+    },
+    {
+      "id": 94700001,
+      "name": "Kustosija",
+      "slug": "kustosija-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    },
+    {
+      "id": 94700002,
+      "name": "Kustosija",
+      "slug": "kustosija-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 720,
+        "national": 720,
+        "world": 720
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Good"
+  },
+  "average_attendance": 200
+}

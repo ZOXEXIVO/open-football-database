@@ -1,0 +1,57 @@
+{
+  "id": 47041728,
+  "name": "Santa Lucia",
+  "location": {
+    "city_id": 5472
+  },
+  "finance": {
+    "balance": 4
+  },
+  "teams": [
+    {
+      "id": 47041728,
+      "name": "Santa Lucia",
+      "slug": "santa-lucia",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 94400009,
+      "name": "Santa Lucia",
+      "slug": "santa-lucia-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 450,
+        "national": 450,
+        "world": 450
+      }
+    },
+    {
+      "id": 94400010,
+      "name": "Santa Lucia",
+      "slug": "santa-lucia-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 300,
+        "national": 300,
+        "world": 300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#ffe252"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Poor",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 100
+}

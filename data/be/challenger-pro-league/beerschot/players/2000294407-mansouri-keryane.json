@@ -1,0 +1,35 @@
+{
+  "id": 2000294407,
+  "first_name": "Keryane",
+  "last_name": "Mansouri",
+  "birth_date": "2006-07-03",
+  "country_id": 5,
+  "club_id": 298,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 2047, "p": 0 },
+    { "s": 2023, "c": 2047, "p": 0 },
+    { "s": 2024, "c": 2047, "p": 0 },
+    { "s": 2024, "c": 48038849, "p": 3 }
+  ]
+}

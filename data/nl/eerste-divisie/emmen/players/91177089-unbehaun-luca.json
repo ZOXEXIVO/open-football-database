@@ -1,0 +1,38 @@
+{
+  "id": 91177089,
+  "first_name": "Luca",
+  "last_name": "Unbehaun",
+  "birth_date": "2001-02-27",
+  "country_id": 771,
+  "club_id": 1003,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 123,
+  "contract": {
+    "salary": 89856,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 905, "p": 0 },
+    { "s": 2016, "c": 907, "p": 0 },
+    { "s": 2017, "c": 907, "p": 0 },
+    { "s": 2018, "c": 907, "p": 0 },
+    { "s": 2019, "c": 121201, "p": 5 },
+    { "s": 2020, "c": 121201, "p": 26 },
+    { "s": 2021, "c": 121201, "p": 22 },
+    { "s": 2022, "c": 121201, "p": 6 },
+    { "s": 2023, "c": 121196, "p": 33 },
+    { "s": 2024, "c": 1003, "p": 33 }
+  ]
+}

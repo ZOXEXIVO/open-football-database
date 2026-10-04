@@ -1,0 +1,47 @@
+{
+  "id": 2000259413,
+  "first_name": "Kilian",
+  "last_name": "Sauck",
+  "birth_date": "2007-03-27",
+  "country_id": 771,
+  "club_id": 921,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": -75,
+  "contract": {
+    "salary": 172380,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 908, "p": 0 },
+    { "s": 2024, "c": 876858, "p": 3 },
+    { "s": 2025, "c": 876858, "p": 16, "g": 2 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1914,
+  "name": "Basanez",
+  "location": {
+    "city_id": 5553
+  },
+  "finance": {
+    "balance": 916
+  },
+  "teams": [
+    {
+      "id": 1914,
+      "name": "Basanez",
+      "slug": "basanez",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2500,
+        "national": 2500,
+        "world": 2500
+      }
+    },
+    {
+      "id": 95000001,
+      "name": "Basanez",
+      "slug": "basanez-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 750,
+        "national": 750,
+        "world": 750
+      }
+    },
+    {
+      "id": 95000002,
+      "name": "Basanez",
+      "slug": "basanez-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 500,
+        "national": 500,
+        "world": 500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 150
+}

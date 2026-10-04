@@ -1,0 +1,57 @@
+{
+  "id": 678209,
+  "name": "Nestos Chrysoupoli",
+  "location": {
+    "city_id": 5490
+  },
+  "finance": {
+    "balance": 74930
+  },
+  "teams": [
+    {
+      "id": 678209,
+      "name": "Nestos Chrysoupoli",
+      "slug": "nestos-chrysoupoli",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3800,
+        "national": 3800,
+        "world": 3800
+      }
+    },
+    {
+      "id": 94500013,
+      "name": "Nestos Chrysoupoli",
+      "slug": "nestos-chrysoupoli-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    },
+    {
+      "id": 94500014,
+      "name": "Nestos Chrysoupoli",
+      "slug": "nestos-chrysoupoli-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 760,
+        "national": 760,
+        "world": 760
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 800
+}

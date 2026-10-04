@@ -1,0 +1,46 @@
+{
+  "id": 2000158243,
+  "first_name": "Dion",
+  "last_name": "Ajvazi",
+  "birth_date": "2004-02-10",
+  "country_id": 752,
+  "club_id": 2247,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 126,
+  "contract": {
+    "salary": 86164,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 6, "u21_goals": 0},
+  "history": [
+    { "s": 2021, "c": 2247, "p": 0 },
+    { "s": 2022, "c": 2247, "p": 0 },
+    { "s": 2022, "c": 121190, "p": 3 },
+    { "s": 2023, "c": 2247, "p": 0 },
+    { "s": 2023, "c": 121190, "p": 9, "g": 2 }
+  ]
+}

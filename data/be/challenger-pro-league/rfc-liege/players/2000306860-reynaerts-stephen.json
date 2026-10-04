@@ -1,0 +1,29 @@
+{
+  "id": 2000306860,
+  "first_name": "Stephen",
+  "last_name": "Reynaerts",
+  "birth_date": "2005-06-17",
+  "country_id": 757,
+  "club_id": 254,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 75,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 278, "p": 0 },
+    { "s": 2024, "c": 2000181442, "p": 14 }
+  ]
+}

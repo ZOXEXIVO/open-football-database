@@ -1,0 +1,41 @@
+{
+  "id": 36157506,
+  "first_name": "Renild",
+  "last_name": "Kasemi",
+  "birth_date": "2003-04-05",
+  "country_id": 752,
+  "club_id": 129667,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 981, "p": 0 },
+    { "s": 2019, "c": 981, "p": 0 },
+    { "s": 2020, "c": 981, "p": 0 },
+    { "s": 2021, "c": 981, "p": 0 },
+    { "s": 2022, "c": 979, "p": 0 },
+    { "s": 2022, "c": 1300559, "p": 7 },
+    { "s": 2023, "c": 979, "p": 3 },
+    { "s": 2024, "c": 977, "p": 24, "g": 3 },
+    { "s": 2024, "c": 979, "p": 0 },
+    { "s": 2025, "c": 979, "p": 0 }
+  ]
+}

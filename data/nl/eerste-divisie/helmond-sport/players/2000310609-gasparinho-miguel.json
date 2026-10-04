@@ -1,0 +1,33 @@
+{
+  "id": 2000310609,
+  "first_name": "Miguel",
+  "last_name": "Gasparinho",
+  "birth_date": "2007-01-16",
+  "country_id": 788,
+  "club_id": 1017,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

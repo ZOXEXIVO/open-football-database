@@ -1,0 +1,44 @@
+{
+  "id": 2000056056,
+  "first_name": "Jamie",
+  "last_name": "Carbone",
+  "birth_date": "2002-08-16",
+  "country_id": 782,
+  "club_id": 47020810,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 43,
+  "potential_ability": 62,
+  "contract": {
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 11, "u21_goals": 0},
+  "history": [
+    { "s": 2018, "c": 1243, "p": 0 },
+    { "s": 2019, "c": 1243, "p": 0 },
+    { "s": 2020, "c": 47038754, "p": 16, "g": 2 },
+    { "s": 2021, "c": 47041728, "p": 8 },
+    { "s": 2022, "c": 47041728, "p": 17, "g": 1 },
+    { "s": 2023, "c": 47017457, "p": 13, "g": 2 },
+    { "s": 2023, "c": 47041728, "p": 5 },
+    { "s": 2024, "c": 47038754, "p": 19, "g": 1 }
+  ]
+}

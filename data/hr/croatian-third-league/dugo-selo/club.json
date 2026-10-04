@@ -1,0 +1,57 @@
+{
+  "id": 129856,
+  "name": "Dugo Selo",
+  "location": {
+    "city_id": 5530
+  },
+  "finance": {
+    "balance": 8
+  },
+  "teams": [
+    {
+      "id": 129856,
+      "name": "Dugo Selo",
+      "slug": "dugo-selo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    },
+    {
+      "id": 94700019,
+      "name": "Dugo Selo",
+      "slug": "dugo-selo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    },
+    {
+      "id": 94700020,
+      "name": "Dugo Selo",
+      "slug": "dugo-selo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Adequate",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 200
+}

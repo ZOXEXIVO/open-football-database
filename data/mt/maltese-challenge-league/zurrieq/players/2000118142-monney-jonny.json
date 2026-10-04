@@ -1,0 +1,26 @@
+{
+  "id": 2000118142,
+  "first_name": "Jonny",
+  "last_name": "Monney",
+  "birth_date": "2000-11-29",
+  "country_id": 364,
+  "club_id": 1251,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 73,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2000080153, "p": 6, "g": 5 },
+    { "s": 2022, "c": 2000080153, "p": 14, "g": 9 },
+    { "s": 2025, "c": 20041720, "p": 6 }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000138948,
+  "first_name": "Lukas",
+  "last_name": "De Clerck",
+  "birth_date": "2005-01-21",
+  "country_id": 757,
+  "club_id": 18008817,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 18008817, "p": 0 },
+    { "s": 2023, "c": 18008817, "p": 0 }
+  ]
+}

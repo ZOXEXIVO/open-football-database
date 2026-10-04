@@ -1,0 +1,57 @@
+{
+  "id": 121198,
+  "name": "SC Paderborn",
+  "location": {
+    "city_id": 5425
+  },
+  "finance": {
+    "balance": 6350000
+  },
+  "teams": [
+    {
+      "id": 121198,
+      "name": "SC Paderborn",
+      "slug": "paderborn",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5900,
+        "national": 5900,
+        "world": 5900
+      }
+    },
+    {
+      "id": 94100015,
+      "name": "SC Paderborn",
+      "slug": "paderborn-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1770,
+        "national": 1770,
+        "world": 1770
+      }
+    },
+    {
+      "id": 94100016,
+      "name": "SC Paderborn",
+      "slug": "paderborn-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1180,
+        "national": 1180,
+        "world": 1180
+      }
+    }
+  ],
+  "colors": {
+    "background": "#006db3",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 13000
+}

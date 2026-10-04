@@ -1,0 +1,32 @@
+{
+  "id": 2000225313,
+  "first_name": "Amar",
+  "last_name": "Zahirović",
+  "birth_date": "2005-06-17",
+  "country_id": 759,
+  "club_id": 24059190,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 106,
+  "history": [
+    { "s": 2023, "c": 440, "p": 2 },
+    { "s": 2024, "c": 24059190, "p": 24, "g": 3 }
+  ]
+}

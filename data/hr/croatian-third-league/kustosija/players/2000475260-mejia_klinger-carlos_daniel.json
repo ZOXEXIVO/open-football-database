@@ -1,0 +1,29 @@
+{
+  "id": 2000475260,
+  "first_name": "Carlos Daniel",
+  "last_name": "Mejia Klinger",
+  "birth_date": "2007-07-24",
+  "country_id": 1654,
+  "club_id": 24005249,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

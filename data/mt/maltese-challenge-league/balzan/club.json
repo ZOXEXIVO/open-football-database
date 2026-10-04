@@ -1,0 +1,57 @@
+{
+  "id": 138199,
+  "name": "Balzan",
+  "location": {
+    "city_id": 5480
+  },
+  "finance": {
+    "balance": 71120
+  },
+  "teams": [
+    {
+      "id": 138199,
+      "name": "Balzan",
+      "slug": "balzan",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1600,
+        "national": 1600,
+        "world": 1600
+      }
+    },
+    {
+      "id": 94400025,
+      "name": "Balzan",
+      "slug": "balzan-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 480,
+        "national": 480,
+        "world": 480
+      }
+    },
+    {
+      "id": 94400026,
+      "name": "Balzan",
+      "slug": "balzan-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 320,
+        "national": 320,
+        "world": 320
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Poor",
+    "academy": "Basic",
+    "recruitment": "Average"
+  },
+  "average_attendance": 250
+}

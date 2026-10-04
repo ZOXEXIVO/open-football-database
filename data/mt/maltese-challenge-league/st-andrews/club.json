@@ -1,0 +1,57 @@
+{
+  "id": 1248,
+  "name": "St. Andrews",
+  "location": {
+    "city_id": 5474
+  },
+  "finance": {
+    "balance": 190500
+  },
+  "teams": [
+    {
+      "id": 1248,
+      "name": "St. Andrews",
+      "slug": "st-andrews",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 94400013,
+      "name": "St. Andrews",
+      "slug": "st-andrews-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 450,
+        "national": 450,
+        "world": 450
+      }
+    },
+    {
+      "id": 94400014,
+      "name": "St. Andrews",
+      "slug": "st-andrews-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 300,
+        "national": 300,
+        "world": 300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#5b11a6",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Poor",
+    "academy": "Average",
+    "recruitment": "Good"
+  },
+  "average_attendance": 100
+}
