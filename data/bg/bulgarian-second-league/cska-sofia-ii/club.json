@@ -1,0 +1,39 @@
+{
+  "id": 22069940,
+  "name": "CSKA Sofia II",
+  "parent_club": {
+    "id": 22069955,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 22069940,
+      "name": "CSKA Sofia II",
+      "slug": "cska-sofia-ii",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3300,
+        "national": 3300,
+        "world": 3300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cc0000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Good",
+    "academy": "Good",
+    "recruitment": "Exceptional"
+  },
+  "average_attendance": 300
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2000224926,
+  "first_name": "Mutalif",
+  "last_name": "",
+  "birth_date": "2004-03-18",
+  "country_id": 110,
+  "club_id": 23447397,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2027-02-28",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 2, "u21_goals": 0},
+  "history": [
+    { "s": 2019, "c": 2000473022, "p": 0 },
+    { "s": 2020, "c": 2000473022, "p": 0 },
+    { "s": 2021, "c": 23447397, "p": 0 },
+    { "s": 2022, "c": 23447397, "p": 22, "g": 3 },
+    { "s": 2023, "c": 23447397, "p": 10 },
+    { "s": 2024, "c": 23447397, "p": 9, "g": 1 },
+    { "s": 2025, "c": 23447397, "p": 1 },
+    { "s": 2025, "c": 34039025, "p": 12 }
+  ]
+}

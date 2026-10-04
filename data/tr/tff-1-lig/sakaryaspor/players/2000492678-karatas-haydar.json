@@ -1,0 +1,29 @@
+{
+  "id": 2000492678,
+  "first_name": "Haydar",
+  "last_name": "Karataş",
+  "birth_date": "2007-03-13",
+  "country_id": 799,
+  "club_id": 130346,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

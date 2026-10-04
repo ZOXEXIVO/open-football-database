@@ -1,0 +1,22 @@
+{
+  "id": 2000272160,
+  "first_name": "Martin",
+  "last_name": "Georgiev",
+  "birth_date": "2005-05-27",
+  "country_id": 760,
+  "club_id": 354,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2023, "c": 354, "p": 6, "g": 1 },
+    { "s": 2024, "c": 341, "p": 2 },
+    { "s": 2024, "c": 354, "p": 0 },
+    { "s": 2025, "c": 341, "p": 2 }
+  ]
+}

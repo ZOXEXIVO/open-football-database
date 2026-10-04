@@ -1,0 +1,25 @@
+{
+  "id": 2000336714,
+  "first_name": "Yunus",
+  "last_name": "Yılboğa",
+  "birth_date": "1998-11-01",
+  "country_id": 799,
+  "club_id": 1881,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 10,
+  "potential_ability": 30,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 1881, "p": 0 },
+    { "s": 2024, "c": 1881, "p": 0 }
+  ]
+}

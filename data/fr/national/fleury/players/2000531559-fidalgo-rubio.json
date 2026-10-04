@@ -1,0 +1,30 @@
+{
+  "id": 2000531559,
+  "first_name": "Rubio",
+  "last_name": "Fidalgo",
+  "birth_date": "2004-12-12",
+  "country_id": 769,
+  "club_id": 50039209,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": 89,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 8430454, "p": 3 },
+    { "s": 2023, "c": 8430454, "p": 1 },
+    { "s": 2024, "c": 8162172, "p": 0 }
+  ]
+}

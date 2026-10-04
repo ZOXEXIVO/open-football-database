@@ -1,0 +1,30 @@
+{
+  "id": 2000212860,
+  "first_name": "Mihail",
+  "last_name": "Mihov",
+  "birth_date": "2005-03-30",
+  "country_id": 760,
+  "club_id": 22067423,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 11492,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 7500915, "p": 4 },
+    { "s": 2023, "c": 2000180825, "p": 9, "g": 1 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2000328113,
+  "name": "Shenzhen Peng City",
+  "location": {
+    "city_id": 5647
+  },
+  "finance": {
+    "balance": 15240000
+  },
+  "teams": [
+    {
+      "id": 2000328113,
+      "name": "Shenzhen Peng City",
+      "slug": "shenzhen-peng-city",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 95300031,
+      "name": "Shenzhen Peng City",
+      "slug": "shenzhen-peng-city-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 95300032,
+      "name": "Shenzhen Peng City",
+      "slug": "shenzhen-peng-city-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#86bbf0",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 15000
+}

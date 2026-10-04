@@ -1,0 +1,38 @@
+{
+  "id": 16337587,
+  "first_name": "Cem",
+  "last_name": "Üstündag",
+  "birth_date": "2001-01-20",
+  "country_id": 755,
+  "club_id": 455675,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 114,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 16324775, "p": 15, "g": 1 },
+    { "s": 2020, "c": 16324775, "p": 14 },
+    { "s": 2021, "c": 16324775, "p": 30, "g": 2 },
+    { "s": 2022, "c": 16324690, "p": 6 },
+    { "s": 2022, "c": 16324775, "p": 17, "g": 2 },
+    { "s": 2023, "c": 16324690, "p": 21 },
+    { "s": 2024, "c": 16324690, "p": 25, "g": 2 }
+  ]
+}

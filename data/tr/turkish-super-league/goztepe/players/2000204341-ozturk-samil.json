@@ -1,0 +1,30 @@
+{
+  "id": 2000204341,
+  "first_name": "Şamil",
+  "last_name": "Öztürk",
+  "birth_date": "2005-05-09",
+  "country_id": 799,
+  "club_id": 130338,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1875, "p": 0 },
+    { "s": 2023, "c": 1875, "p": 1 },
+    { "s": 2024, "c": 1875, "p": 0 }
+  ]
+}

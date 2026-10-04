@@ -1,0 +1,57 @@
+{
+  "id": 70042969,
+  "name": "Manisa FK",
+  "location": {
+    "city_id": 5596
+  },
+  "finance": {
+    "balance": 3810000
+  },
+  "teams": [
+    {
+      "id": 70042969,
+      "name": "Manisa FK",
+      "slug": "manisa-fk",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 95100021,
+      "name": "Manisa FK",
+      "slug": "manisa-fk-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 95100022,
+      "name": "Manisa FK",
+      "slug": "manisa-fk-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 3000
+}

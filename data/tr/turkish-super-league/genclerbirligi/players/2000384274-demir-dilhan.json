@@ -1,0 +1,42 @@
+{
+  "id": 2000384274,
+  "first_name": "Dilhan",
+  "last_name": "Demir",
+  "birth_date": "2003-06-28",
+  "country_id": 799,
+  "club_id": 1873,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 95,
+  "potential_ability": 120,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 963, "p": 0 },
+    { "s": 2019, "c": 2259, "p": 0 },
+    { "s": 2020, "c": 879956, "p": 0 },
+    { "s": 2021, "c": 879313, "p": 18, "g": 8 },
+    { "s": 2022, "c": 893051, "p": 24, "g": 1 },
+    { "s": 2023, "c": 2000074854, "p": 28, "g": 4 },
+    { "s": 2024, "c": 2259, "p": 12, "g": 1 }
+  ]
+}

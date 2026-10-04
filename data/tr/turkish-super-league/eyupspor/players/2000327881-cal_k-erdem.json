@@ -1,0 +1,26 @@
+{
+  "id": 2000327881,
+  "first_name": "Erdem",
+  "last_name": "Çalık",
+  "birth_date": "2006-06-05",
+  "country_id": 799,
+  "club_id": 130289,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 130362, "p": 0 },
+    { "s": 2024, "c": 130289, "p": 1 },
+    { "s": 2024, "c": 130362, "p": 5, "g": 1 }
+  ]
+}

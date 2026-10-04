@@ -1,0 +1,57 @@
+{
+  "id": 412,
+  "name": "Qingdao Hainiu",
+  "location": {
+    "city_id": 5641
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 412,
+      "name": "Qingdao Hainiu",
+      "slug": "qingdao-hainiu",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3800,
+        "national": 3800,
+        "world": 3800
+      }
+    },
+    {
+      "id": 95300019,
+      "name": "Qingdao Hainiu",
+      "slug": "qingdao-hainiu-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    },
+    {
+      "id": 95300020,
+      "name": "Qingdao Hainiu",
+      "slug": "qingdao-hainiu-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 760,
+        "national": 760,
+        "world": 760
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e66c40",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 15000
+}

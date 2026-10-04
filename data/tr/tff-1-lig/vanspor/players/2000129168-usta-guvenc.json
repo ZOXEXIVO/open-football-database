@@ -1,0 +1,35 @@
+{
+  "id": 2000129168,
+  "first_name": "Güvenç",
+  "last_name": "Usta",
+  "birth_date": "2004-04-01",
+  "country_id": 799,
+  "club_id": 1881,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 75,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 130366, "p": 1 },
+    { "s": 2022, "c": 450626, "p": 25 },
+    { "s": 2023, "c": 130366, "p": 1 },
+    { "s": 2024, "c": 130300, "p": 23, "g": 1 }
+  ]
+}

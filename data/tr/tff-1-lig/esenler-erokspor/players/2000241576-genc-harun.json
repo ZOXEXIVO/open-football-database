@@ -1,0 +1,43 @@
+{
+  "id": 2000241576,
+  "first_name": "Harun",
+  "last_name": "Genç",
+  "birth_date": "2004-02-29",
+  "country_id": 799,
+  "club_id": 70095984,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 85,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 70095984, "p": 2 },
+    { "s": 2023, "c": 70042974, "p": 20, "g": 1 },
+    { "s": 2024, "c": 70042972, "p": 27, "g": 6 },
+    { "s": 2025, "c": 70095984, "p": 4 }
+  ]
+}

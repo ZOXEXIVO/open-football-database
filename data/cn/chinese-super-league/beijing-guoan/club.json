@@ -1,0 +1,57 @@
+{
+  "id": 406,
+  "name": "Beijing Guoan",
+  "location": {
+    "city_id": 5632
+  },
+  "finance": {
+    "balance": 12700000
+  },
+  "teams": [
+    {
+      "id": 406,
+      "name": "Beijing Guoan",
+      "slug": "beijing-guoan",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5600,
+        "national": 5600,
+        "world": 5600
+      }
+    },
+    {
+      "id": 95300001,
+      "name": "Beijing Guoan",
+      "slug": "beijing-guoan-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1680,
+        "national": 1680,
+        "world": 1680
+      }
+    },
+    {
+      "id": 95300002,
+      "name": "Beijing Guoan",
+      "slug": "beijing-guoan-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1120,
+        "national": 1120,
+        "world": 1120
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c8c57",
+    "foreground": "#ffe252"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 40000
+}

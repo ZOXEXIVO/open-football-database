@@ -1,0 +1,44 @@
+{
+  "id": 57168149,
+  "first_name": "Valentin",
+  "last_name": "Mihăilă",
+  "birth_date": "2000-02-02",
+  "country_id": 790,
+  "club_id": 130366,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 137,
+  "contract": {
+    "salary": 1626768,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 31, "goals": 5, "u21_apps": 6, "u21_goals": 5},
+  "history": [
+    { "s": 2017, "c": 57111101, "p": 0 },
+    { "s": 2017, "c": 57117617, "p": 15, "g": 6 },
+    { "s": 2018, "c": 57111101, "p": 29, "g": 1 },
+    { "s": 2019, "c": 57111101, "p": 27, "g": 7 },
+    { "s": 2020, "c": 1156, "p": 16, "g": 3 },
+    { "s": 2020, "c": 57111101, "p": 5 },
+    { "s": 2021, "c": 1106, "p": 5 },
+    { "s": 2021, "c": 1156, "p": 13, "g": 2 },
+    { "s": 2022, "c": 1156, "p": 15, "g": 2 },
+    { "s": 2023, "c": 1156, "p": 32, "g": 6 },
+    { "s": 2024, "c": 1156, "p": 21 }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000533042,
+  "first_name": "Deng",
+  "last_name": "Jiefu",
+  "birth_date": "2007-06-28",
+  "country_id": 110,
+  "club_id": 406,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 67,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2025, "c": 2000337865, "p": 0 }
+  ]
+}

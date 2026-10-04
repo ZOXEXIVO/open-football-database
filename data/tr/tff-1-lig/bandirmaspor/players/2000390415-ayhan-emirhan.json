@@ -1,0 +1,32 @@
+{
+  "id": 2000390415,
+  "first_name": "Emirhan",
+  "last_name": "Ayhan",
+  "birth_date": "2006-06-22",
+  "country_id": 799,
+  "club_id": 130304,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 130304, "p": 0 }
+  ]
+}

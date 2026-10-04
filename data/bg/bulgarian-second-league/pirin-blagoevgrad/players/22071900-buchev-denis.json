@@ -1,0 +1,35 @@
+{
+  "id": 22071900,
+  "first_name": "Denis",
+  "last_name": "Buchev",
+  "birth_date": "1999-06-23",
+  "country_id": 760,
+  "club_id": 354,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 15,
+    "right": 100
+  },
+  "current_ability": 69,
+  "potential_ability": 86,
+  "contract": {
+    "salary": 9828,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 356, "p": 0 },
+    { "s": 2017, "c": 356, "p": 0 },
+    { "s": 2024, "c": 354, "p": 30 }
+  ]
+}

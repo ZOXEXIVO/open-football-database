@@ -1,0 +1,57 @@
+{
+  "id": 130346,
+  "name": "Sakaryaspor",
+  "location": {
+    "city_id": 5590
+  },
+  "finance": {
+    "balance": 8890000
+  },
+  "teams": [
+    {
+      "id": 130346,
+      "name": "Sakaryaspor",
+      "slug": "sakaryaspor",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 95100009,
+      "name": "Sakaryaspor",
+      "slug": "sakaryaspor-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 95100010,
+      "name": "Sakaryaspor",
+      "slug": "sakaryaspor-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#52b561"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 9000
+}

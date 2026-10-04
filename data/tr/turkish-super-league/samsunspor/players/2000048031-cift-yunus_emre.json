@@ -1,0 +1,34 @@
+{
+  "id": 2000048031,
+  "first_name": "Yunus Emre",
+  "last_name": "Çift",
+  "birth_date": "2003-09-01",
+  "country_id": 799,
+  "club_id": 1878,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 105,
+  "potential_ability": 120,
+  "contract": {
+    "salary": 108004,
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 1, "u21_goals": 0},
+  "history": [
+    { "s": 2020, "c": 1878, "p": 0 },
+    { "s": 2021, "c": 1878, "p": 21 },
+    { "s": 2022, "c": 1878, "p": 26, "g": 1 },
+    { "s": 2023, "c": 1878, "p": 9 },
+    { "s": 2024, "c": 1878, "p": 14 }
+  ]
+}

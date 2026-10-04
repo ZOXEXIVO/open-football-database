@@ -1,0 +1,34 @@
+{
+  "id": 2000527455,
+  "first_name": "Rubén",
+  "last_name": "Lamela",
+  "birth_date": "2006-06-15",
+  "country_id": 1657,
+  "club_id": 8825221,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 63,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 78023541, "p": 0 },
+    { "s": 2022, "c": 78023541, "p": 0 },
+    { "s": 2022, "c": 78072637, "p": 0 },
+    { "s": 2023, "c": 8825221, "p": 0 },
+    { "s": 2023, "c": 78072637, "p": 0 },
+    { "s": 2024, "c": 8825221, "p": 0 },
+    { "s": 2025, "c": 8825221, "p": 0 }
+  ]
+}

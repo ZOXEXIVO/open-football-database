@@ -1,0 +1,57 @@
+{
+  "id": 131162,
+  "name": "Henan FC",
+  "location": {
+    "city_id": 5634
+  },
+  "finance": {
+    "balance": 7620000
+  },
+  "teams": [
+    {
+      "id": 131162,
+      "name": "Henan FC",
+      "slug": "henan-fc",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 95300005,
+      "name": "Henan FC",
+      "slug": "henan-fc-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 95300006,
+      "name": "Henan FC",
+      "slug": "henan-fc-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#9e2530",
+    "foreground": "#3c8c57"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 20000
+}

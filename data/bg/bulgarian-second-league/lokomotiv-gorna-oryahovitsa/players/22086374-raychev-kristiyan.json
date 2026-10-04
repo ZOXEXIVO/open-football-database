@@ -1,0 +1,37 @@
+{
+  "id": 22086374,
+  "first_name": "Kristiyan",
+  "last_name": "Raychev",
+  "birth_date": "1999-02-24",
+  "country_id": 760,
+  "club_id": 350,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 10,
+    "right": 100
+  },
+  "current_ability": 77,
+  "potential_ability": 89,
+  "contract": {
+    "salary": 11232,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 350, "p": 20 },
+    { "s": 2020, "c": 350, "p": 16 },
+    { "s": 2020, "c": 22066452, "p": 14 },
+    { "s": 2021, "c": 22066452, "p": 16 },
+    { "s": 2024, "c": 350, "p": 35, "g": 1 }
+  ]
+}

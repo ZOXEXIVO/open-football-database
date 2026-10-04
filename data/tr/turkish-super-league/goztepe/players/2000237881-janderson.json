@@ -1,0 +1,40 @@
+{
+  "id": 2000237881,
+  "first_name": "Janderson",
+  "last_name": "",
+  "birth_date": "1999-05-06",
+  "country_id": 1651,
+  "club_id": 130338,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 125,
+  "potential_ability": 132,
+  "contract": {
+    "salary": 674076,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 320262, "p": 15, "g": 7 },
+    { "s": 2023, "c": 316, "p": 18, "g": 1 },
+    { "s": 2024, "c": 340, "p": 28, "g": 3 },
+    { "s": 2025, "c": 340, "p": 11, "g": 1 }
+  ]
+}

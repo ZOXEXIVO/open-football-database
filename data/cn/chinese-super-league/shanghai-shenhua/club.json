@@ -1,0 +1,57 @@
+{
+  "id": 414,
+  "name": "Shanghai Shenhua",
+  "location": {
+    "city_id": 5635
+  },
+  "finance": {
+    "balance": 17780000
+  },
+  "teams": [
+    {
+      "id": 414,
+      "name": "Shanghai Shenhua",
+      "slug": "shanghai-shenhua",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5500,
+        "national": 5500,
+        "world": 5500
+      }
+    },
+    {
+      "id": 95300007,
+      "name": "Shanghai Shenhua",
+      "slug": "shanghai-shenhua-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1650,
+        "national": 1650,
+        "world": 1650
+      }
+    },
+    {
+      "id": 95300008,
+      "name": "Shanghai Shenhua",
+      "slug": "shanghai-shenhua-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3862e0",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 30000
+}

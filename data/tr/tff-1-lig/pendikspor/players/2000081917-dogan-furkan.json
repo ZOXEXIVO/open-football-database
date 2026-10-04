@@ -1,0 +1,37 @@
+{
+  "id": 2000081917,
+  "first_name": "Furkan",
+  "last_name": "Doğan",
+  "birth_date": "2001-11-22",
+  "country_id": 799,
+  "club_id": 130362,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 95,
+  "potential_ability": 120,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 70061827, "p": 0 },
+    { "s": 2021, "c": 70101873, "p": 17 },
+    { "s": 2022, "c": 70081025, "p": 31, "g": 1 },
+    { "s": 2023, "c": 130362, "p": 0 },
+    { "s": 2023, "c": 70042969, "p": 6 },
+    { "s": 2024, "c": 130362, "p": 18 }
+  ]
+}

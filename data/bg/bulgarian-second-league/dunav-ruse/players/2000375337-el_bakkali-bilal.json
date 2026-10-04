@@ -1,0 +1,39 @@
+{
+  "id": 2000375337,
+  "first_name": "Bilal",
+  "last_name": "El Bakkali",
+  "birth_date": "2000-11-29",
+  "country_id": 796,
+  "club_id": 22040114,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 85,
+  "contract": {
+    "salary": 11492,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 67181498, "p": 8 },
+    { "s": 2021, "c": 16027118, "p": 22, "g": 6 },
+    { "s": 2021, "c": 67181498, "p": 3 },
+    { "s": 2022, "c": 16027118, "p": 14, "g": 4 },
+    { "s": 2022, "c": 67019846, "p": 16, "g": 2 },
+    { "s": 2023, "c": 7441065, "p": 26, "g": 21 },
+    { "s": 2024, "c": 47000014, "p": 25, "g": 5 }
+  ]
+}

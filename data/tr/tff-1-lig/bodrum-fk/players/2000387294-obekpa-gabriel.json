@@ -1,0 +1,37 @@
+{
+  "id": 2000387294,
+  "first_name": "Gabriel",
+  "last_name": "Obekpa",
+  "birth_date": "2004-05-24",
+  "country_id": 38,
+  "club_id": 70016859,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 80,
+  "potential_ability": 120,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 62030404, "p": 0 },
+    { "s": 2023, "c": 5754056, "p": 6 },
+    { "s": 2023, "c": 62030404, "p": 0 },
+    { "s": 2024, "c": 1268, "p": 7 },
+    { "s": 2024, "c": 1301374, "p": 0 },
+    { "s": 2024, "c": 70016859, "p": 3 }
+  ]
+}

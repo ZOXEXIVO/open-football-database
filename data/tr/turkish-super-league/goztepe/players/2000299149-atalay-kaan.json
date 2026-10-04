@@ -1,0 +1,29 @@
+{
+  "id": 2000299149,
+  "first_name": "Kaan",
+  "last_name": "Atalay",
+  "birth_date": "2008-07-03",
+  "country_id": 799,
+  "club_id": 130338,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 130338, "p": 0 },
+    { "s": 2024, "c": 130338, "p": 0 }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": 110,
+  "code": "cn",
+  "slug": "china",
+  "name": "China",
+  "continent_id": 4,
+  "reputation": 5000,
+  "settings": {
+    "pricing": {
+      "price_level": 0.65
+    }
+  },
+  "background_color": "#de2910",
+  "foreground_color": "#ffde00",
+  "skin_colors": {
+    "white": 15,
+    "black": 1,
+    "metis": 84
+  },
+  "transfers": {
+    "source": "derived",
+    "import": [
+      {
+        "country": "br",
+        "weight": 30
+      },
+      {
+        "country": "hk",
+        "weight": 7
+      },
+      {
+        "country": "es",
+        "weight": 3
+      },
+      {
+        "country": "ro",
+        "weight": 2
+      },
+      {
+        "country": "pt",
+        "weight": 2
+      },
+      {
+        "country": "rs",
+        "weight": 1
+      },
+      {
+        "country": "gh",
+        "weight": 1
+      },
+      {
+        "country": "hr",
+        "weight": 1
+      },
+      {
+        "country": "fr",
+        "weight": 1
+      },
+      {
+        "country": "ao",
+        "weight": 1
+      },
+      {
+        "country": "ml",
+        "weight": 1
+      }
+    ],
+    "export": [
+      {
+        "country": "gb",
+        "weight": 30
+      },
+      {
+        "country": "pt",
+        "weight": 16
+      },
+      {
+        "country": "es",
+        "weight": 14
+      },
+      {
+        "country": "hr",
+        "weight": 7
+      },
+      {
+        "country": "fr",
+        "weight": 2
+      },
+      {
+        "country": "de",
+        "weight": 1
+      },
+      {
+        "country": "nl",
+        "weight": 1
+      },
+      {
+        "country": "jp",
+        "weight": 1
+      },
+      {
+        "country": "ch",
+        "weight": 1
+      },
+      {
+        "country": "no",
+        "weight": 1
+      }
+    ],
+    "diaspora": [],
+    "foreign_share": 0.168
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000043520,
+  "first_name": "Konstantin",
+  "last_name": "Kostadinov",
+  "birth_date": "2003-06-05",
+  "country_id": 760,
+  "club_id": 138447,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": 114,
+  "history": [
+    { "s": 2020, "c": 138447, "p": 6 },
+    { "s": 2020, "c": 1300203, "p": 1 },
+    { "s": 2021, "c": 138447, "p": 9 },
+    { "s": 2023, "c": 138447, "p": 33 },
+    { "s": 2024, "c": 138447, "p": 36 }
+  ]
+}

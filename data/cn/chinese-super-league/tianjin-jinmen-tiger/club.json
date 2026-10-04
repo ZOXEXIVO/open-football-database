@@ -1,0 +1,57 @@
+{
+  "id": 416,
+  "name": "Tianjin Jinmen Tiger",
+  "location": {
+    "city_id": 5642
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 416,
+      "name": "Tianjin Jinmen Tiger",
+      "slug": "tianjin-jinmen-tiger",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 95300021,
+      "name": "Tianjin Jinmen Tiger",
+      "slug": "tianjin-jinmen-tiger-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 95300022,
+      "name": "Tianjin Jinmen Tiger",
+      "slug": "tianjin-jinmen-tiger-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#663ebd",
+    "foreground": "#f19128"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 20000
+}

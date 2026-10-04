@@ -1,0 +1,43 @@
+{
+  "id": 2000212363,
+  "first_name": "Li",
+  "last_name": "Suda",
+  "birth_date": "2004-02-09",
+  "country_id": 110,
+  "club_id": 412,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 64,
+  "potential_ability": -4,
+  "international": {"apps": 0, "goals": 0, "u21_apps": 5, "u21_goals": 0},
+  "history": [
+    { "s": 2019, "c": 1019157, "p": 0 },
+    { "s": 2020, "c": 1019157, "p": 0 },
+    { "s": 2021, "c": 412, "p": 0 },
+    { "s": 2022, "c": 412, "p": 0 },
+    { "s": 2023, "c": 2000082636, "p": 25, "g": 1 },
+    { "s": 2024, "c": 412, "p": 0 },
+    { "s": 2024, "c": 23366052, "p": 15 },
+    { "s": 2025, "c": 2000439194, "p": 27, "g": 1 }
+  ]
+}

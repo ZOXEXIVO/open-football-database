@@ -1,0 +1,36 @@
+{
+  "id": 23450135,
+  "first_name": "Xue",
+  "last_name": "Qinghao",
+  "birth_date": "2000-09-26",
+  "country_id": 110,
+  "club_id": 414,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": 87,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 128051, "p": 0 },
+    { "s": 2019, "c": 128051, "p": 0 },
+    { "s": 2020, "c": 34053971, "p": 0 },
+    { "s": 2021, "c": 414, "p": 1 },
+    { "s": 2022, "c": 414, "p": 2 },
+    { "s": 2023, "c": 414, "p": 0 },
+    { "s": 2023, "c": 23340823, "p": 11 },
+    { "s": 2024, "c": 23340823, "p": 23 },
+    { "s": 2025, "c": 414, "p": 22 }
+  ]
+}

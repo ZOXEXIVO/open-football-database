@@ -1,0 +1,38 @@
+{
+  "id": 37085125,
+  "first_name": "Li",
+  "last_name": "Sirong",
+  "birth_date": "2003-05-04",
+  "country_id": 110,
+  "club_id": 416,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": 94,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 986, "p": 0 },
+    { "s": 2022, "c": 986, "p": 0 },
+    { "s": 2022, "c": 2142, "p": 1 },
+    { "s": 2023, "c": 2142, "p": 0 },
+    { "s": 2023, "c": 650441, "p": 8 },
+    { "s": 2024, "c": 1300245, "p": 16 },
+    { "s": 2025, "c": 416, "p": 1, "g": 1 }
+  ]
+}

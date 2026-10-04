@@ -1,0 +1,40 @@
+{
+  "id": 70111198,
+  "first_name": "Ogün",
+  "last_name": "Bayrak",
+  "birth_date": "1998-10-10",
+  "country_id": 799,
+  "club_id": 130338,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 115,
+  "potential_ability": 125,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 464624, "p": 18 },
+    { "s": 2018, "c": 70078650, "p": 29 },
+    { "s": 2019, "c": 70054525, "p": 21, "g": 1 },
+    { "s": 2020, "c": 454840, "p": 13 },
+    { "s": 2020, "c": 70054525, "p": 2 },
+    { "s": 2021, "c": 454840, "p": 28 },
+    { "s": 2022, "c": 70078171, "p": 29 },
+    { "s": 2023, "c": 130338, "p": 31, "g": 1 },
+    { "s": 2024, "c": 130338, "p": 24 }
+  ]
+}

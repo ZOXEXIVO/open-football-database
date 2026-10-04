@@ -1,0 +1,33 @@
+{
+  "id": 2000527214,
+  "first_name": "Amidou",
+  "last_name": "Badji",
+  "birth_date": "2006-06-28",
+  "country_id": 41,
+  "club_id": 130304,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

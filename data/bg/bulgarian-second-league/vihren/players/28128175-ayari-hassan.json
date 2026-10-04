@@ -1,0 +1,38 @@
+{
+  "id": 28128175,
+  "first_name": "Hassan",
+  "last_name": "Ayari",
+  "birth_date": "2002-12-09",
+  "country_id": 51,
+  "club_id": 7500917,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 125,
+  "international": {"apps": 0, "goals": 0, "u21_apps": 9, "u21_goals": 1},
+  "history": [
+    { "s": 2019, "c": 708, "p": 0 },
+    { "s": 2020, "c": 708, "p": 0 },
+    { "s": 2021, "c": 708, "p": 0 },
+    { "s": 2022, "c": 708, "p": 0 },
+    { "s": 2022, "c": 30021186, "p": 4 },
+    { "s": 2024, "c": 72043492, "p": 23, "g": 6 },
+    { "s": 2025, "c": 72043492, "p": 27, "g": 6 }
+  ]
+}

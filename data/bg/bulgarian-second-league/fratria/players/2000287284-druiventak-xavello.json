@@ -1,0 +1,40 @@
+{
+  "id": 2000287284,
+  "first_name": "Xavello",
+  "last_name": "Druiventak",
+  "birth_date": "2004-05-03",
+  "country_id": 784,
+  "club_id": 2000273450,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 110,
+  "contract": {
+    "salary": 15496,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 2000086210, "p": 11, "g": 4 },
+    { "s": 2024, "c": 1300738, "p": 14, "g": 5 },
+    { "s": 2024, "c": 2000273450, "p": 22, "g": 6 },
+    { "s": 2024, "c": 2000463022, "p": 3 }
+  ]
+}

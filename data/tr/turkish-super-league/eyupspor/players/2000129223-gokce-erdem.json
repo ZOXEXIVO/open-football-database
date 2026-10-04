@@ -1,0 +1,38 @@
+{
+  "id": 2000129223,
+  "first_name": "Erdem",
+  "last_name": "Gökçe",
+  "birth_date": "2003-08-20",
+  "country_id": 799,
+  "club_id": 130289,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 130300, "p": 28, "g": 1 },
+    { "s": 2022, "c": 130289, "p": 4 },
+    { "s": 2022, "c": 8478376, "p": 7 },
+    { "s": 2023, "c": 130289, "p": 1 },
+    { "s": 2023, "c": 1301256, "p": 11 },
+    { "s": 2023, "c": 70108557, "p": 4 },
+    { "s": 2024, "c": 130289, "p": 0 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 354,
+  "name": "Pirin Blagoevgrad",
+  "location": {
+    "city_id": 5625
+  },
+  "finance": {
+    "balance": 200660
+  },
+  "teams": [
+    {
+      "id": 354,
+      "name": "Pirin Blagoevgrad",
+      "slug": "pirin-blagoevgrad",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 95200017,
+      "name": "Pirin Blagoevgrad",
+      "slug": "pirin-blagoevgrad-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 95200018,
+      "name": "Pirin Blagoevgrad",
+      "slug": "pirin-blagoevgrad-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c8c57",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Good"
+  },
+  "average_attendance": 2000
+}

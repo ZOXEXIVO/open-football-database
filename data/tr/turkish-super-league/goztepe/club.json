@@ -1,0 +1,57 @@
+{
+  "id": 130338,
+  "name": "Goztepe",
+  "location": {
+    "city_id": 5585
+  },
+  "finance": {
+    "balance": 24130000
+  },
+  "teams": [
+    {
+      "id": 130338,
+      "name": "Goztepe",
+      "slug": "goztepe",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6100,
+        "national": 6100,
+        "world": 6100
+      }
+    },
+    {
+      "id": 88600049,
+      "name": "Goztepe",
+      "slug": "goztepe-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1830,
+        "national": 1830,
+        "world": 1830
+      }
+    },
+    {
+      "id": 88600050,
+      "name": "Goztepe",
+      "slug": "goztepe-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1220,
+        "national": 1220,
+        "world": 1220
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#ffe252"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 15000
+}

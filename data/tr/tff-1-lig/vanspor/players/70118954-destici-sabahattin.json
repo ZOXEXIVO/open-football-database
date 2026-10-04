@@ -1,0 +1,46 @@
+{
+  "id": 70118954,
+  "first_name": "Sabahattin",
+  "last_name": "Destici",
+  "birth_date": "2000-06-05",
+  "country_id": 799,
+  "club_id": 1881,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 115,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 130348, "p": 22, "g": 1 },
+    { "s": 2020, "c": 70078177, "p": 7, "g": 2 },
+    { "s": 2020, "c": 70078180, "p": 10, "g": 1 },
+    { "s": 2021, "c": 130349, "p": 11 },
+    { "s": 2023, "c": 70081386, "p": 27, "g": 2 },
+    { "s": 2024, "c": 1881, "p": 10 },
+    { "s": 2024, "c": 70081386, "p": 15, "g": 5 }
+  ]
+}

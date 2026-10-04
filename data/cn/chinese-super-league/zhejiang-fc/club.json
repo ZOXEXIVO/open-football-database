@@ -1,0 +1,57 @@
+{
+  "id": 131229,
+  "name": "Zhejiang FC",
+  "location": {
+    "city_id": 5638
+  },
+  "finance": {
+    "balance": 7620000
+  },
+  "teams": [
+    {
+      "id": 131229,
+      "name": "Zhejiang FC",
+      "slug": "zhejiang-fc",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 95300013,
+      "name": "Zhejiang FC",
+      "slug": "zhejiang-fc-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 95300014,
+      "name": "Zhejiang FC",
+      "slug": "zhejiang-fc-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3f9075",
+    "foreground": "#f6d28a"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 18000
+}

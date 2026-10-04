@@ -1,0 +1,24 @@
+{
+  "id": 2000318679,
+  "first_name": "Stefan",
+  "last_name": "Stefanov",
+  "birth_date": "2007-02-24",
+  "country_id": 760,
+  "club_id": 22040114,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2023, "c": 22040114, "p": 3 },
+    { "s": 2024, "c": 22040114, "p": 6 }
+  ]
+}

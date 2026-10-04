@@ -1,0 +1,57 @@
+{
+  "id": 2000273450,
+  "name": "Fratria",
+  "location": {
+    "city_id": 5626
+  },
+  "finance": {
+    "balance": 391160
+  },
+  "teams": [
+    {
+      "id": 2000273450,
+      "name": "Fratria",
+      "slug": "fratria",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3600,
+        "national": 3600,
+        "world": 3600
+      }
+    },
+    {
+      "id": 95200019,
+      "name": "Fratria",
+      "slug": "fratria-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    },
+    {
+      "id": 95200020,
+      "name": "Fratria",
+      "slug": "fratria-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 720,
+        "national": 720,
+        "world": 720
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 400
+}

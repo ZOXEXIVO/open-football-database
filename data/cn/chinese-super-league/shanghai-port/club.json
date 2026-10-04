@@ -1,0 +1,57 @@
+{
+  "id": 23292170,
+  "name": "Shanghai Port",
+  "location": {
+    "city_id": 5636
+  },
+  "finance": {
+    "balance": 21590000
+  },
+  "teams": [
+    {
+      "id": 23292170,
+      "name": "Shanghai Port",
+      "slug": "shanghai-port",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5900,
+        "national": 5900,
+        "world": 5900
+      }
+    },
+    {
+      "id": 95300009,
+      "name": "Shanghai Port",
+      "slug": "shanghai-port-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1770,
+        "national": 1770,
+        "world": 1770
+      }
+    },
+    {
+      "id": 95300010,
+      "name": "Shanghai Port",
+      "slug": "shanghai-port-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1180,
+        "national": 1180,
+        "world": 1180
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Below Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 25000
+}

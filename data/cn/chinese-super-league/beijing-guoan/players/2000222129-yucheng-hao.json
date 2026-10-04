@@ -1,0 +1,38 @@
+{
+  "id": 2000222129,
+  "first_name": "Hao",
+  "last_name": "Yucheng",
+  "birth_date": "2004-10-24",
+  "country_id": 110,
+  "club_id": 406,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": -4,
+  "history": [
+    { "s": 2018, "c": 406, "p": 0 },
+    { "s": 2019, "c": 406, "p": 0 },
+    { "s": 2020, "c": 406, "p": 0 },
+    { "s": 2021, "c": 406, "p": 0 },
+    { "s": 2022, "c": 406, "p": 0 },
+    { "s": 2023, "c": 406, "p": 0 },
+    { "s": 2024, "c": 406, "p": 0 },
+    { "s": 2025, "c": 23359269, "p": 13 }
+  ]
+}

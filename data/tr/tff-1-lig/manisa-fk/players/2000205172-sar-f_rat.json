@@ -1,0 +1,35 @@
+{
+  "id": 2000205172,
+  "first_name": "Fırat",
+  "last_name": "Sarı",
+  "birth_date": "2004-08-10",
+  "country_id": 799,
+  "club_id": 70042969,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 450548, "p": 5 },
+    { "s": 2022, "c": 70042969, "p": 5 },
+    { "s": 2023, "c": 70061827, "p": 27 },
+    { "s": 2024, "c": 70061806, "p": 25, "g": 1 }
+  ]
+}

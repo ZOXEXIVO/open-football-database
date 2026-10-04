@@ -1,0 +1,41 @@
+{
+  "id": 2000258107,
+  "first_name": "Anas",
+  "last_name": "Slimani",
+  "birth_date": "2007-07-20",
+  "country_id": 34,
+  "club_id": 921,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 86164,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 921, "p": 0 }
+  ]
+}

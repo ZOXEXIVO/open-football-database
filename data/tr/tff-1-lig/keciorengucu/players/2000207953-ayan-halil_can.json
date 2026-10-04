@@ -1,0 +1,45 @@
+{
+  "id": 2000207953,
+  "first_name": "Halil Can",
+  "last_name": "Ayan",
+  "birth_date": "2002-02-26",
+  "country_id": 799,
+  "club_id": 454840,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 95,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 70043217, "p": 15, "g": 1 },
+    { "s": 2022, "c": 70043217, "p": 29, "g": 4 },
+    { "s": 2023, "c": 454840, "p": 0 },
+    { "s": 2023, "c": 70078189, "p": 11, "g": 1 },
+    { "s": 2024, "c": 454840, "p": 11, "g": 1 },
+    { "s": 2024, "c": 70028001, "p": 12 }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 2000242953,
+  "first_name": "Zhang",
+  "last_name": "Tao",
+  "birth_date": "2003-08-05",
+  "country_id": 110,
+  "club_id": 23487243,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -35,
+  "contract": {
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 23487243, "p": 0 },
+    { "s": 2020, "c": 23487243, "p": 0 },
+    { "s": 2021, "c": 23487243, "p": 0 },
+    { "s": 2022, "c": 2000183925, "p": 13 },
+    { "s": 2023, "c": 23487243, "p": 0 },
+    { "s": 2023, "c": 2000183925, "p": 11 },
+    { "s": 2024, "c": 23487243, "p": 13 },
+    { "s": 2025, "c": 23487243, "p": 3 }
+  ]
+}

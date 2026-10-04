@@ -1,0 +1,57 @@
+{
+  "id": 22067423,
+  "name": "Chernomorets Burgas",
+  "location": {
+    "city_id": 5622
+  },
+  "finance": {
+    "balance": 198120
+  },
+  "teams": [
+    {
+      "id": 22067423,
+      "name": "Chernomorets Burgas",
+      "slug": "chernomorets-burgas",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 95200011,
+      "name": "Chernomorets Burgas",
+      "slug": "chernomorets-burgas-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 95200012,
+      "name": "Chernomorets Burgas",
+      "slug": "chernomorets-burgas-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c72de",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2000
+}

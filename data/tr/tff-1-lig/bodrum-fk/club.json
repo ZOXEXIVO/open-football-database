@@ -1,0 +1,57 @@
+{
+  "id": 70016859,
+  "name": "Bodrum FK",
+  "location": {
+    "city_id": 5599
+  },
+  "finance": {
+    "balance": 6350000
+  },
+  "teams": [
+    {
+      "id": 70016859,
+      "name": "Bodrum FK",
+      "slug": "bodrum-fk",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 95100027,
+      "name": "Bodrum FK",
+      "slug": "bodrum-fk-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 95100028,
+      "name": "Bodrum FK",
+      "slug": "bodrum-fk-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c8c57",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 4000
+}

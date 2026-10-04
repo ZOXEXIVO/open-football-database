@@ -1,0 +1,49 @@
+{
+  "id": 2000242985,
+  "first_name": "Lyu",
+  "last_name": "Kaiwen",
+  "birth_date": "2003-02-08",
+  "country_id": 110,
+  "club_id": 131135,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 49,
+  "potential_ability": -3,
+  "history": [
+    { "s": 2022, "c": 2000183926, "p": 4, "g": 2 },
+    { "s": 2023, "c": 23463130, "p": 3 },
+    { "s": 2025, "c": 23359269, "p": 21, "g": 2 }
+  ]
+}

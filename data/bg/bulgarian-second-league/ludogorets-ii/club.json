@@ -1,0 +1,39 @@
+{
+  "id": 22066452,
+  "name": "Ludogorets II",
+  "parent_club": {
+    "id": 22003969,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 22066452,
+      "name": "Ludogorets II",
+      "slug": "ludogorets-ii",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3900,
+        "national": 3900,
+        "world": 3900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#006633",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Excellent",
+    "academy": "Good",
+    "recruitment": "Exceptional"
+  },
+  "average_attendance": 300
+}

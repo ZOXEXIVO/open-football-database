@@ -1,0 +1,41 @@
+{
+  "id": 2000254584,
+  "first_name": "Xia",
+  "last_name": "Xiaoxi",
+  "birth_date": "2005-01-08",
+  "country_id": 110,
+  "club_id": 23487243,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 23487243, "p": 0 },
+    { "s": 2020, "c": 23487243, "p": 0 },
+    { "s": 2021, "c": 23487243, "p": 0 },
+    { "s": 2022, "c": 23487243, "p": 0 },
+    { "s": 2023, "c": 23487243, "p": 0 },
+    { "s": 2024, "c": 23487243, "p": 0 }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 2000222381,
+  "first_name": "Hugo",
+  "last_name": "De Llanos",
+  "birth_date": "2005-03-18",
+  "country_id": 796,
+  "club_id": 1737,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -75,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1737, "p": 0 },
+    { "s": 2023, "c": 1738, "p": 0 },
+    { "s": 2024, "c": 1737, "p": 16, "g": 2 }
+  ]
+}

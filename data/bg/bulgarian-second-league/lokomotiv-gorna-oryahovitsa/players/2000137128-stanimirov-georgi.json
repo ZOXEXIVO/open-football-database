@@ -1,0 +1,31 @@
+{
+  "id": 2000137128,
+  "first_name": "Georgi",
+  "last_name": "Stanimirov",
+  "birth_date": "2001-10-02",
+  "country_id": 760,
+  "club_id": 350,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 61,
+  "potential_ability": 76,
+  "history": [
+    { "s": 2020, "c": 2000053968, "p": 6, "g": 1 },
+    { "s": 2021, "c": 740512, "p": 30, "g": 4 },
+    { "s": 2022, "c": 130856, "p": 5 },
+    { "s": 2022, "c": 7506018, "p": 15, "g": 1 },
+    { "s": 2023, "c": 7500394, "p": 14 }
+  ]
+}

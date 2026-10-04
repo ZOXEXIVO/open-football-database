@@ -1,0 +1,51 @@
+{
+  "id": 2000212368,
+  "first_name": "Liu",
+  "last_name": "Baiyang",
+  "birth_date": "2003-04-06",
+  "country_id": 110,
+  "club_id": 23292170,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2019, "c": 23485773, "p": 0 },
+    { "s": 2021, "c": 23292170, "p": 0 },
+    { "s": 2022, "c": 23292170, "p": 8, "g": 2 },
+    { "s": 2023, "c": 23463130, "p": 28, "g": 6 },
+    { "s": 2025, "c": 34039025, "p": 6 }
+  ]
+}

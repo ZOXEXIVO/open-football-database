@@ -1,0 +1,40 @@
+{
+  "id": 2000303997,
+  "first_name": "Wu",
+  "last_name": "Jin",
+  "birth_date": "2003-12-15",
+  "country_id": 110,
+  "club_id": 23292170,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 38,
+  "potential_ability": -3,
+  "history": [
+    { "s": 2018, "c": 23292170, "p": 0 },
+    { "s": 2019, "c": 23292170, "p": 0 },
+    { "s": 2020, "c": 23292170, "p": 0 },
+    { "s": 2021, "c": 23292170, "p": 0 },
+    { "s": 2022, "c": 23292170, "p": 0 },
+    { "s": 2023, "c": 23292170, "p": 0 }
+  ]
+}

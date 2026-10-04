@@ -1,0 +1,35 @@
+{
+  "id": 2000311874,
+  "first_name": "Zaid",
+  "last_name": "Seha",
+  "birth_date": "2007-01-25",
+  "country_id": 769,
+  "club_id": 1878,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 824, "p": 0 },
+    { "s": 2024, "c": 824, "p": 0 },
+    { "s": 2024, "c": 48038856, "p": 13 },
+    { "s": 2025, "c": 1878, "p": 0 }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2000303541,
+  "first_name": "Wang",
+  "last_name": "Haobin",
+  "birth_date": "2006-08-11",
+  "country_id": 110,
+  "club_id": 116403,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 71,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2025, "c": 116403, "p": 2 }
+  ]
+}

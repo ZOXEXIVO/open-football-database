@@ -1,0 +1,57 @@
+{
+  "id": 131135,
+  "name": "Changchun Yatai",
+  "location": {
+    "city_id": 5637
+  },
+  "finance": {
+    "balance": 8890000
+  },
+  "teams": [
+    {
+      "id": 131135,
+      "name": "Changchun Yatai",
+      "slug": "changchun-yatai",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    },
+    {
+      "id": 95300011,
+      "name": "Changchun Yatai",
+      "slug": "changchun-yatai-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
+      }
+    },
+    {
+      "id": 95300012,
+      "name": "Changchun Yatai",
+      "slug": "changchun-yatai-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 880,
+        "national": 880,
+        "world": 880
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 18000
+}

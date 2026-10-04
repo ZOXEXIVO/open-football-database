@@ -1,0 +1,32 @@
+{
+  "id": 2000304004,
+  "first_name": "Fan",
+  "last_name": "Yangyang",
+  "birth_date": "2003-10-01",
+  "country_id": 110,
+  "club_id": 23292170,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 51,
+  "potential_ability": -3,
+  "history": [
+    { "s": 2018, "c": 23292170, "p": 0 },
+    { "s": 2019, "c": 23292170, "p": 0 },
+    { "s": 2020, "c": 23292170, "p": 0 },
+    { "s": 2021, "c": 23292170, "p": 0 },
+    { "s": 2022, "c": 23292170, "p": 0 },
+    { "s": 2023, "c": 23292170, "p": 0 }
+  ]
+}

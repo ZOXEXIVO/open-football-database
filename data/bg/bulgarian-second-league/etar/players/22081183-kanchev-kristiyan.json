@@ -1,0 +1,29 @@
+{
+  "id": 22081183,
+  "first_name": "Kristiyan",
+  "last_name": "Kanchev",
+  "birth_date": "2000-02-09",
+  "country_id": 760,
+  "club_id": 7501927,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 80,
+  "history": [
+    { "s": 2018, "c": 22066452, "p": 2 },
+    { "s": 2021, "c": 7501927, "p": 21, "g": 1 },
+    { "s": 2022, "c": 7501927, "p": 6 }
+  ]
+}

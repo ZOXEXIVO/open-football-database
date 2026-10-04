@@ -1,0 +1,35 @@
+{
+  "id": 2000535110,
+  "first_name": "Pang",
+  "last_name": "Kaiyuan",
+  "birth_date": "2006-06-05",
+  "country_id": 110,
+  "club_id": 414,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 62,
+  "potential_ability": -4,
+  "history": [
+    { "s": 2025, "c": 414, "p": 0 }
+  ]
+}

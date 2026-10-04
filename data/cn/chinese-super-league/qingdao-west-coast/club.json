@@ -1,0 +1,57 @@
+{
+  "id": 34039025,
+  "name": "Qingdao West Coast",
+  "location": {
+    "city_id": 5646
+  },
+  "finance": {
+    "balance": 1253490
+  },
+  "teams": [
+    {
+      "id": 34039025,
+      "name": "Qingdao West Coast",
+      "slug": "qingdao-west-coast",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3800,
+        "national": 3800,
+        "world": 3800
+      }
+    },
+    {
+      "id": 95300029,
+      "name": "Qingdao West Coast",
+      "slug": "qingdao-west-coast-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    },
+    {
+      "id": 95300030,
+      "name": "Qingdao West Coast",
+      "slug": "qingdao-west-coast-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 760,
+        "national": 760,
+        "world": 760
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 10000
+}

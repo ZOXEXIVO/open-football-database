@@ -1,0 +1,49 @@
+{
+  "id": 2000494071,
+  "first_name": "Li",
+  "last_name": "Xinxiang",
+  "birth_date": "2005-11-30",
+  "country_id": 110,
+  "club_id": 23292170,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 23292170, "p": 0 },
+    { "s": 2020, "c": 23292170, "p": 0 },
+    { "s": 2021, "c": 23292170, "p": 0 },
+    { "s": 2022, "c": 23292170, "p": 0 },
+    { "s": 2023, "c": 23292170, "p": 0 },
+    { "s": 2025, "c": 23292170, "p": 23, "g": 6 }
+  ]
+}

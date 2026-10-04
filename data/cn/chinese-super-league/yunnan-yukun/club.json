@@ -1,0 +1,57 @@
+{
+  "id": 2000319417,
+  "name": "Yunnan Yukun",
+  "location": {
+    "city_id": 5640
+  },
+  "finance": {
+    "balance": 240030
+  },
+  "teams": [
+    {
+      "id": 2000319417,
+      "name": "Yunnan Yukun",
+      "slug": "yunnan-yukun",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3700,
+        "national": 3700,
+        "world": 3700
+      }
+    },
+    {
+      "id": 95300017,
+      "name": "Yunnan Yukun",
+      "slug": "yunnan-yukun-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1110,
+        "national": 1110,
+        "world": 1110
+      }
+    },
+    {
+      "id": 95300018,
+      "name": "Yunnan Yukun",
+      "slug": "yunnan-yukun-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 740,
+        "national": 740,
+        "world": 740
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f27641",
+    "foreground": "#2f55b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Unknown",
+    "recruitment": "Unknown"
+  },
+  "average_attendance": 25000
+}

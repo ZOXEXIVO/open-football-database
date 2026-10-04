@@ -1,0 +1,27 @@
+{
+  "id": 2000088497,
+  "first_name": "Vasil",
+  "last_name": "Hristov",
+  "birth_date": "2005-12-05",
+  "country_id": 760,
+  "club_id": 1300203,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2021, "c": 354, "p": 1, "g": 1 },
+    { "s": 2022, "c": 354, "p": 0 },
+    { "s": 2022, "c": 1174, "p": 0 },
+    { "s": 2023, "c": 354, "p": 1 },
+    { "s": 2023, "c": 22085455, "p": 1 }
+  ]
+}

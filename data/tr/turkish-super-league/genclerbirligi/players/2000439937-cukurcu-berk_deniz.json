@@ -1,0 +1,28 @@
+{
+  "id": 2000439937,
+  "first_name": "Berk Deniz",
+  "last_name": "Çukurcu",
+  "birth_date": "2008-01-02",
+  "country_id": 799,
+  "club_id": 1873,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1873, "p": 0 }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 22028035,
+  "first_name": "Dobrin",
+  "last_name": "Petrov",
+  "birth_date": "1993-06-17",
+  "country_id": 760,
+  "club_id": 22067410,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 10,
+    "right": 100
+  },
+  "current_ability": 61,
+  "potential_ability": 87,
+  "contract": {
+    "salary": 11492,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2011, "c": 138448, "p": 1 },
+    { "s": 2013, "c": 138438, "p": 10 }
+  ]
+}

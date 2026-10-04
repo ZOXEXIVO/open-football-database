@@ -1,0 +1,57 @@
+{
+  "id": 130304,
+  "name": "Bandirmaspor",
+  "location": {
+    "city_id": 5592
+  },
+  "finance": {
+    "balance": 5080000
+  },
+  "teams": [
+    {
+      "id": 130304,
+      "name": "Bandirmaspor",
+      "slug": "bandirmaspor",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 95100013,
+      "name": "Bandirmaspor",
+      "slug": "bandirmaspor-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 95100014,
+      "name": "Bandirmaspor",
+      "slug": "bandirmaspor-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#972626",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 3000
+}

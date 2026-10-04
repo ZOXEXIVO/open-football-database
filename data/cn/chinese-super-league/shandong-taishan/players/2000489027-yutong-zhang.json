@@ -1,0 +1,39 @@
+{
+  "id": 2000489027,
+  "first_name": "Zhang",
+  "last_name": "Yutong",
+  "birth_date": "2006-05-24",
+  "country_id": 110,
+  "club_id": 116403,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2023, "c": 1955, "p": 0 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 7500915,
+  "name": "Sportist Svoge",
+  "location": {
+    "city_id": 5618
+  },
+  "finance": {
+    "balance": 140970
+  },
+  "teams": [
+    {
+      "id": 7500915,
+      "name": "Sportist Svoge",
+      "slug": "sportist-svoge",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 95200003,
+      "name": "Sportist Svoge",
+      "slug": "sportist-svoge-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 95200004,
+      "name": "Sportist Svoge",
+      "slug": "sportist-svoge-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 500
+}

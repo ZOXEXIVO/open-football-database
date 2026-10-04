@@ -1,0 +1,40 @@
+{
+  "id": 83254092,
+  "first_name": "Marius",
+  "last_name": "Mouandilmadji",
+  "birth_date": "1998-01-22",
+  "country_id": 14,
+  "club_id": 1878,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 130,
+  "contract": {
+    "salary": 756132,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 21, "goals": 2, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2018, "c": 1478, "p": 1, "g": 1 },
+    { "s": 2018, "c": 5340779, "p": 16, "g": 12 },
+    { "s": 2018, "c": 55000308, "p": 18, "g": 5 },
+    { "s": 2019, "c": 55000308, "p": 5, "g": 1 },
+    { "s": 2019, "c": 2000032966, "p": 12 },
+    { "s": 2020, "c": 55000308, "p": 0 },
+    { "s": 2021, "c": 216, "p": 31, "g": 2 },
+    { "s": 2022, "c": 216, "p": 26, "g": 11 },
+    { "s": 2022, "c": 2000181450, "p": 1 },
+    { "s": 2023, "c": 1878, "p": 30, "g": 9 },
+    { "s": 2024, "c": 1878, "p": 34, "g": 10 }
+  ]
+}

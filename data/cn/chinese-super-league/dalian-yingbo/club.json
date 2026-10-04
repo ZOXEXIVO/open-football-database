@@ -1,0 +1,57 @@
+{
+  "id": 2000337865,
+  "name": "Dalian Yingbo",
+  "location": {
+    "city_id": 5633
+  },
+  "finance": {
+    "balance": 822960
+  },
+  "teams": [
+    {
+      "id": 2000337865,
+      "name": "Dalian Yingbo",
+      "slug": "dalian-yingbo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3600,
+        "national": 3600,
+        "world": 3600
+      }
+    },
+    {
+      "id": 95300003,
+      "name": "Dalian Yingbo",
+      "slug": "dalian-yingbo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    },
+    {
+      "id": 95300004,
+      "name": "Dalian Yingbo",
+      "slug": "dalian-yingbo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 720,
+        "national": 720,
+        "world": 720
+      }
+    }
+  ],
+  "colors": {
+    "background": "#4a99e8",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Unknown",
+    "recruitment": "Unknown"
+  },
+  "average_attendance": 35000
+}

@@ -1,0 +1,57 @@
+{
+  "id": 7500388,
+  "name": "Hebar",
+  "location": {
+    "city_id": 5621
+  },
+  "finance": {
+    "balance": 382270
+  },
+  "teams": [
+    {
+      "id": 7500388,
+      "name": "Hebar",
+      "slug": "hebar",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 95200009,
+      "name": "Hebar",
+      "slug": "hebar-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 95200010,
+      "name": "Hebar",
+      "slug": "hebar-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3e8c4b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2000
+}

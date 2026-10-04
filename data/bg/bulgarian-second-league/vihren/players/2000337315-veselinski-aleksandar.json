@@ -1,0 +1,30 @@
+{
+  "id": 2000337315,
+  "first_name": "Aleksandar",
+  "last_name": "Veselinski",
+  "birth_date": "2005-06-23",
+  "country_id": 760,
+  "club_id": 7500917,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 67,
+  "potential_ability": 86,
+  "contract": {
+    "salary": 10296,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 138447, "p": 16 },
+    { "s": 2024, "c": 7500915, "p": 20 }
+  ]
+}

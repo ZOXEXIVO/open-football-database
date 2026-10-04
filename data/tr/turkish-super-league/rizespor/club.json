@@ -1,0 +1,57 @@
+{
+  "id": 130366,
+  "name": "Rizespor",
+  "location": {
+    "city_id": 5582
+  },
+  "finance": {
+    "balance": 21590000
+  },
+  "teams": [
+    {
+      "id": 130366,
+      "name": "Rizespor",
+      "slug": "rizespor",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5900,
+        "national": 5900,
+        "world": 5900
+      }
+    },
+    {
+      "id": 88600043,
+      "name": "Rizespor",
+      "slug": "rizespor-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1770,
+        "national": 1770,
+        "world": 1770
+      }
+    },
+    {
+      "id": 88600044,
+      "name": "Rizespor",
+      "slug": "rizespor-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1180,
+        "national": 1180,
+        "world": 1180
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#63e078"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 9000
+}

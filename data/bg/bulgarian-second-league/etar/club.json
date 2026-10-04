@@ -1,0 +1,57 @@
+{
+  "id": 7501927,
+  "name": "Etar",
+  "location": {
+    "city_id": 5629
+  },
+  "finance": {
+    "balance": 455930
+  },
+  "teams": [
+    {
+      "id": 7501927,
+      "name": "Etar",
+      "slug": "etar",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 95200025,
+      "name": "Etar",
+      "slug": "etar-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 95200026,
+      "name": "Etar",
+      "slug": "etar-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#523194",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2500
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000096507,
+  "first_name": "Umut",
+  "last_name": "Keseci",
+  "birth_date": "2004-02-05",
+  "country_id": 799,
+  "club_id": 130289,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 8478376, "p": 0 },
+    { "s": 2021, "c": 8478376, "p": 0 },
+    { "s": 2022, "c": 8478376, "p": 0 },
+    { "s": 2023, "c": 8478376, "p": 0 },
+    { "s": 2024, "c": 70061779, "p": 20 }
+  ]
+}

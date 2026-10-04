@@ -1,0 +1,29 @@
+{
+  "id": 22080160,
+  "first_name": "Denis",
+  "last_name": "Kadir",
+  "birth_date": "1999-07-02",
+  "country_id": 760,
+  "club_id": 2000273450,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 61,
+  "potential_ability": 80,
+  "history": [
+    { "s": 2018, "c": 22019542, "p": 18, "g": 1 },
+    { "s": 2020, "c": 22019542, "p": 15 },
+    { "s": 2024, "c": 2000273450, "p": 34, "g": 2 }
+  ]
+}

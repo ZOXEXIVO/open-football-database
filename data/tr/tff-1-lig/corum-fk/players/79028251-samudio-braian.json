@@ -1,0 +1,46 @@
+{
+  "id": 79028251,
+  "first_name": "Braian",
+  "last_name": "Samudio",
+  "birth_date": "1995-12-23",
+  "country_id": 1655,
+  "club_id": 70055738,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 115,
+  "potential_ability": 120,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 14, "goals": 1, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2014, "c": 5280336, "p": 0 },
+    { "s": 2017, "c": 130366, "p": 33, "g": 20 },
+    { "s": 2018, "c": 130366, "p": 29, "g": 5 },
+    { "s": 2019, "c": 130366, "p": 31, "g": 5 },
+    { "s": 2020, "c": 130366, "p": 37, "g": 8 },
+    { "s": 2021, "c": 102355, "p": 27, "g": 2 },
+    { "s": 2022, "c": 1445, "p": 22, "g": 5 },
+    { "s": 2023, "c": 1258, "p": 22, "g": 4 },
+    { "s": 2023, "c": 1445, "p": 18, "g": 5 },
+    { "s": 2024, "c": 1865, "p": 35, "g": 7 }
+  ]
+}

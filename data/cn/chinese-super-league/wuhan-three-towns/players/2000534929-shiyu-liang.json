@@ -1,0 +1,37 @@
+{
+  "id": 2000534929,
+  "first_name": "Liang",
+  "last_name": "Shiyu",
+  "birth_date": "2009-05-06",
+  "country_id": 110,
+  "club_id": 23487243,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -4,
+  "history": [
+    { "s": 2023, "c": 23487243, "p": 0 },
+    { "s": 2024, "c": 23487243, "p": 0 },
+    { "s": 2025, "c": 23487243, "p": 0 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1876,
+  "name": "Kocaelispor",
+  "location": {
+    "city_id": 5584
+  },
+  "finance": {
+    "balance": 16510000
+  },
+  "teams": [
+    {
+      "id": 1876,
+      "name": "Kocaelispor",
+      "slug": "kocaelispor",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 88600047,
+      "name": "Kocaelispor",
+      "slug": "kocaelispor-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 88600048,
+      "name": "Kocaelispor",
+      "slug": "kocaelispor-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3cb571",
+    "foreground": "#444444"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 18000
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2000095263,
+  "first_name": "Afrdin",
+  "last_name": "",
+  "birth_date": "2003-09-15",
+  "country_id": 110,
+  "club_id": 23292170,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": 87,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 2, "goals": 1, "u21_apps": 7, "u21_goals": 3},
+  "history": [
+    { "s": 2018, "c": 1194, "p": 0 },
+    { "s": 2020, "c": 23082837, "p": 0 },
+    { "s": 2021, "c": 23318347, "p": 24, "g": 2 },
+    { "s": 2022, "c": 409, "p": 23 },
+    { "s": 2023, "c": 409, "p": 10, "g": 3 },
+    { "s": 2023, "c": 1817, "p": 0 },
+    { "s": 2024, "c": 23487243, "p": 16 },
+    { "s": 2025, "c": 131135, "p": 11, "g": 1 },
+    { "s": 2025, "c": 23292170, "p": 1 }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 2000204325,
+  "first_name": "Bora",
+  "last_name": "Aydınlık",
+  "birth_date": "2005-05-09",
+  "country_id": 799,
+  "club_id": 70042969,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 1870, "p": 0 },
+    { "s": 2021, "c": 1870, "p": 0 },
+    { "s": 2022, "c": 1870, "p": 0 },
+    { "s": 2023, "c": 665, "p": 0 },
+    { "s": 2024, "c": 70081334, "p": 30, "g": 2 }
+  ]
+}

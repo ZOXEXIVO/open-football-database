@@ -1,0 +1,36 @@
+{
+  "id": 2000531996,
+  "first_name": "Liu",
+  "last_name": "Shuai",
+  "birth_date": "2004-11-26",
+  "country_id": 110,
+  "club_id": 416,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 67,
+  "potential_ability": -35,
+  "history": [
+    { "s": 2024, "c": 131135, "p": 0 },
+    { "s": 2025, "c": 2000337867, "p": 27, "g": 5 }
+  ]
+}

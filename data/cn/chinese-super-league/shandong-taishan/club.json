@@ -1,0 +1,57 @@
+{
+  "id": 116403,
+  "name": "Shandong Taishan",
+  "location": {
+    "city_id": 5639
+  },
+  "finance": {
+    "balance": 12700000
+  },
+  "teams": [
+    {
+      "id": 116403,
+      "name": "Shandong Taishan",
+      "slug": "shandong-taishan",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5000,
+        "national": 5000,
+        "world": 5000
+      }
+    },
+    {
+      "id": 95300015,
+      "name": "Shandong Taishan",
+      "slug": "shandong-taishan-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 95300016,
+      "name": "Shandong Taishan",
+      "slug": "shandong-taishan-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f27641",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Great",
+    "academy": "Average",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 30000
+}

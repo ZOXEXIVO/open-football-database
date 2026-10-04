@@ -1,0 +1,38 @@
+{
+  "id": 70121980,
+  "first_name": "Tunahan",
+  "last_name": "Ergül",
+  "birth_date": "2000-02-07",
+  "country_id": 799,
+  "club_id": 70108557,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 100,
+  "potential_ability": 125,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1879, "p": 0 },
+    { "s": 2019, "c": 130364, "p": 28, "g": 1 },
+    { "s": 2020, "c": 70042997, "p": 30, "g": 1 },
+    { "s": 2021, "c": 70061824, "p": 33 },
+    { "s": 2022, "c": 70061824, "p": 36, "g": 2 },
+    { "s": 2023, "c": 70061824, "p": 34, "g": 1 },
+    { "s": 2024, "c": 70055738, "p": 26, "g": 3 }
+  ]
+}

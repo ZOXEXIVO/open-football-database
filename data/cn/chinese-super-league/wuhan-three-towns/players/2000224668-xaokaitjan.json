@@ -1,0 +1,45 @@
+{
+  "id": 2000224668,
+  "first_name": "Xaokaitjan",
+  "last_name": "",
+  "birth_date": "2001-05-11",
+  "country_id": 110,
+  "club_id": 23487243,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": 64,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 23487243, "p": 0 },
+    { "s": 2023, "c": 2000183925, "p": 18, "g": 1 },
+    { "s": 2024, "c": 23487243, "p": 1 },
+    { "s": 2024, "c": 34039002, "p": 11 },
+    { "s": 2025, "c": 23487243, "p": 1 },
+    { "s": 2025, "c": 34039002, "p": 7 }
+  ]
+}

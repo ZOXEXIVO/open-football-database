@@ -1,0 +1,49 @@
+{
+  "id": 13223983,
+  "first_name": "Ibrahim",
+  "last_name": "Olawoyin",
+  "birth_date": "1997-12-01",
+  "country_id": 38,
+  "club_id": 130366,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 125,
+  "potential_ability": 134,
+  "contract": {
+    "salary": 1258244,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 2, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2019, "c": 5340761, "p": 19, "g": 5 },
+    { "s": 2019, "c": 13145304, "p": 21, "g": 3 },
+    { "s": 2020, "c": 5340761, "p": 15, "g": 2 },
+    { "s": 2021, "c": 454840, "p": 33, "g": 8 },
+    { "s": 2022, "c": 130366, "p": 16, "g": 3 },
+    { "s": 2022, "c": 454840, "p": 17, "g": 4 },
+    { "s": 2023, "c": 130366, "p": 36, "g": 8 },
+    { "s": 2024, "c": 130366, "p": 32, "g": 6 }
+  ]
+}

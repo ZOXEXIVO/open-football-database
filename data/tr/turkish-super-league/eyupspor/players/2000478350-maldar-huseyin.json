@@ -1,0 +1,36 @@
+{
+  "id": 2000478350,
+  "first_name": "Hüseyin",
+  "last_name": "Maldar",
+  "birth_date": "2007-01-26",
+  "country_id": 799,
+  "club_id": 130289,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 130289, "p": 9 }
+  ]
+}

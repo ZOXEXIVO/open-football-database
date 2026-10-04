@@ -1,0 +1,38 @@
+{
+  "id": 2000069244,
+  "first_name": "İshak",
+  "last_name": "Karaoğul",
+  "birth_date": "2002-03-30",
+  "country_id": 771,
+  "club_id": 454840,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 121220, "p": 0 },
+    { "s": 2020, "c": 8714658, "p": 0 },
+    { "s": 2021, "c": 35007252, "p": 35, "g": 4 },
+    { "s": 2022, "c": 35007252, "p": 34, "g": 3 },
+    { "s": 2023, "c": 130354, "p": 10 },
+    { "s": 2023, "c": 91149098, "p": 19, "g": 1 },
+    { "s": 2024, "c": 130354, "p": 23, "g": 1 }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000504941,
+  "first_name": "Muhammet",
+  "last_name": "Akyüz",
+  "birth_date": "2008-12-19",
+  "country_id": 799,
+  "club_id": 1878,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

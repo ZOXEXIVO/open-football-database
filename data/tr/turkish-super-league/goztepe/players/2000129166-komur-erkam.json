@@ -1,0 +1,35 @@
+{
+  "id": 2000129166,
+  "first_name": "Erkam",
+  "last_name": "Kömür",
+  "birth_date": "2002-07-15",
+  "country_id": 799,
+  "club_id": 130338,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 130338, "p": 0 },
+    { "s": 2021, "c": 8491577, "p": 12 },
+    { "s": 2022, "c": 130338, "p": 0 },
+    { "s": 2022, "c": 70108717, "p": 29, "g": 1 },
+    { "s": 2023, "c": 450550, "p": 20 },
+    { "s": 2023, "c": 70061824, "p": 14 },
+    { "s": 2024, "c": 130304, "p": 1 },
+    { "s": 2025, "c": 450550, "p": 12 }
+  ]
+}

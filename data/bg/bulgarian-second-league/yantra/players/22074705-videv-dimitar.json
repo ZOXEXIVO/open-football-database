@@ -1,0 +1,36 @@
+{
+  "id": 22074705,
+  "first_name": "Dimitar",
+  "last_name": "Videv",
+  "birth_date": "1997-11-25",
+  "country_id": 760,
+  "club_id": 7500389,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": 83,
+  "history": [
+    { "s": 2016, "c": 7508916, "p": 3 },
+    { "s": 2017, "c": 7508916, "p": 8 },
+    { "s": 2019, "c": 2013, "p": 3 },
+    { "s": 2020, "c": 7500389, "p": 14 },
+    { "s": 2021, "c": 22085455, "p": 3 },
+    { "s": 2024, "c": 7500389, "p": 7 }
+  ]
+}

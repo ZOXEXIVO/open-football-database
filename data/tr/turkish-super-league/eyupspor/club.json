@@ -1,0 +1,57 @@
+{
+  "id": 130289,
+  "name": "Eyupspor",
+  "location": {
+    "city_id": 5583
+  },
+  "finance": {
+    "balance": 13970000
+  },
+  "teams": [
+    {
+      "id": 130289,
+      "name": "Eyupspor",
+      "slug": "eyupspor",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 88600045,
+      "name": "Eyupspor",
+      "slug": "eyupspor-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 88600046,
+      "name": "Eyupspor",
+      "slug": "eyupspor-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#663ebd",
+    "foreground": "#ffe252"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 4000
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2000443782,
+  "first_name": "Muhammet Ali",
+  "last_name": "Demir",
+  "birth_date": "2006-04-14",
+  "country_id": 799,
+  "club_id": 70016859,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 70016859, "p": 0 },
+    { "s": 2025, "c": 70009355, "p": 13, "g": 1 }
+  ]
+}

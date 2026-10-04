@@ -1,0 +1,40 @@
+{
+  "id": 2000254589,
+  "first_name": "Ye",
+  "last_name": "Daoxin",
+  "birth_date": "2005-11-03",
+  "country_id": 110,
+  "club_id": 131229,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 54,
+  "potential_ability": -35,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 131166, "p": 0 },
+    { "s": 2020, "c": 131166, "p": 0 },
+    { "s": 2021, "c": 131229, "p": 0 },
+    { "s": 2022, "c": 131229, "p": 0 },
+    { "s": 2023, "c": 131229, "p": 0 },
+    { "s": 2024, "c": 131229, "p": 0 },
+    { "s": 2024, "c": 23318347, "p": 8 },
+    { "s": 2025, "c": 131229, "p": 0 },
+    { "s": 2025, "c": 2000439194, "p": 0 }
+  ]
+}

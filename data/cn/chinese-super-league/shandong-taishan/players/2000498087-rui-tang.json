@@ -1,0 +1,38 @@
+{
+  "id": 2000498087,
+  "first_name": "Tang",
+  "last_name": "Rui",
+  "birth_date": "2005-07-12",
+  "country_id": 110,
+  "club_id": 116403,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -35,
+  "international": {"apps": 4, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2021, "c": 116403, "p": 0 },
+    { "s": 2022, "c": 116403, "p": 0 },
+    { "s": 2023, "c": 116403, "p": 0 }
+  ]
+}

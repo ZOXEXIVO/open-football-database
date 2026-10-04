@@ -1,0 +1,57 @@
+{
+  "id": 454840,
+  "name": "Keciorengucu",
+  "location": {
+    "city_id": 5587
+  },
+  "finance": {
+    "balance": 3810000
+  },
+  "teams": [
+    {
+      "id": 454840,
+      "name": "Keciorengucu",
+      "slug": "keciorengucu",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 95100003,
+      "name": "Keciorengucu",
+      "slug": "keciorengucu-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 95100004,
+      "name": "Keciorengucu",
+      "slug": "keciorengucu-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#663ebd",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2000
+}

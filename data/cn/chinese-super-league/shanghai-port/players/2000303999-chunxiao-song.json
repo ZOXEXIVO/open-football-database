@@ -1,0 +1,40 @@
+{
+  "id": 2000303999,
+  "first_name": "Song",
+  "last_name": "Chunxiao",
+  "birth_date": "2002-05-03",
+  "country_id": 110,
+  "club_id": 23292170,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 63,
+  "potential_ability": 72,
+  "history": [
+    { "s": 2018, "c": 23292170, "p": 0 },
+    { "s": 2019, "c": 23292170, "p": 0 },
+    { "s": 2020, "c": 23292170, "p": 0 },
+    { "s": 2021, "c": 23292170, "p": 0 },
+    { "s": 2022, "c": 23292170, "p": 0 },
+    { "s": 2023, "c": 23292170, "p": 0 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 70054558,
+  "name": "Erzurumspor",
+  "location": {
+    "city_id": 5588
+  },
+  "finance": {
+    "balance": 6350000
+  },
+  "teams": [
+    {
+      "id": 70054558,
+      "name": "Erzurumspor",
+      "slug": "erzurumspor",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    },
+    {
+      "id": 95100005,
+      "name": "Erzurumspor",
+      "slug": "erzurumspor-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1530,
+        "national": 1530,
+        "world": 1530
+      }
+    },
+    {
+      "id": 95100006,
+      "name": "Erzurumspor",
+      "slug": "erzurumspor-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 7000
+}

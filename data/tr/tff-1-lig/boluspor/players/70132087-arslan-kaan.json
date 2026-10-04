@@ -1,0 +1,34 @@
+{
+  "id": 70132087,
+  "first_name": "Kaan",
+  "last_name": "Arslan",
+  "birth_date": "2001-01-28",
+  "country_id": 799,
+  "club_id": 130354,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 1871, "p": 0 },
+    { "s": 2020, "c": 70054578, "p": 17, "g": 1 },
+    { "s": 2021, "c": 1871, "p": 1 },
+    { "s": 2022, "c": 1301254, "p": 24, "g": 1 },
+    { "s": 2023, "c": 1881, "p": 9 },
+    { "s": 2023, "c": 457419, "p": 14 },
+    { "s": 2024, "c": 130354, "p": 15 }
+  ]
+}

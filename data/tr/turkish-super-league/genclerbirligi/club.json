@@ -1,0 +1,57 @@
+{
+  "id": 1873,
+  "name": "Genclerbirligi",
+  "location": {
+    "city_id": 5580
+  },
+  "finance": {
+    "balance": 10160000
+  },
+  "teams": [
+    {
+      "id": 1873,
+      "name": "Genclerbirligi",
+      "slug": "genclerbirligi",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 88600039,
+      "name": "Genclerbirligi",
+      "slug": "genclerbirligi-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 88600040,
+      "name": "Genclerbirligi",
+      "slug": "genclerbirligi-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Great",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 8000
+}

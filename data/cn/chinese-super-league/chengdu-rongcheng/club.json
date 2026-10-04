@@ -1,0 +1,57 @@
+{
+  "id": 23447397,
+  "name": "Chengdu Rongcheng",
+  "location": {
+    "city_id": 5644
+  },
+  "finance": {
+    "balance": 15240000
+  },
+  "teams": [
+    {
+      "id": 23447397,
+      "name": "Chengdu Rongcheng",
+      "slug": "chengdu-rongcheng",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 95300025,
+      "name": "Chengdu Rongcheng",
+      "slug": "chengdu-rongcheng-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 95300026,
+      "name": "Chengdu Rongcheng",
+      "slug": "chengdu-rongcheng-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 40000
+}

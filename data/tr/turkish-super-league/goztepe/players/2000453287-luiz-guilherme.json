@@ -1,0 +1,28 @@
+{
+  "id": 2000453287,
+  "first_name": "Guilherme",
+  "last_name": "Luiz",
+  "birth_date": "2005-04-25",
+  "country_id": 1651,
+  "club_id": 130338,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 107,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 104749, "p": 7 }
+  ]
+}

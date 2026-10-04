@@ -1,0 +1,27 @@
+{
+  "id": 2000183315,
+  "first_name": "Mario",
+  "last_name": "Dadakov",
+  "birth_date": "2005-10-25",
+  "country_id": 760,
+  "club_id": 7500388,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 63,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2024, "c": 1300203, "p": 21, "g": 1 }
+  ]
+}

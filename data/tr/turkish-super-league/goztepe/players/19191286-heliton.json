@@ -1,0 +1,36 @@
+{
+  "id": 19191286,
+  "first_name": "Héliton",
+  "last_name": "",
+  "birth_date": "1995-11-13",
+  "country_id": 1651,
+  "club_id": 130338,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 130,
+  "potential_ability": 135,
+  "contract": {
+    "salary": 719004,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 301306, "p": 5 },
+    { "s": 2020, "c": 107205, "p": 3 },
+    { "s": 2021, "c": 2395, "p": 29, "g": 4 },
+    { "s": 2021, "c": 107205, "p": 3, "g": 1 },
+    { "s": 2022, "c": 22070174, "p": 27, "g": 4 },
+    { "s": 2023, "c": 130338, "p": 16, "g": 1 },
+    { "s": 2023, "c": 22070174, "p": 18, "g": 2 },
+    { "s": 2024, "c": 130338, "p": 34, "g": 1 }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 2000305619,
+  "first_name": "Kaan",
+  "last_name": "Akyazı",
+  "birth_date": "2005-08-27",
+  "country_id": 799,
+  "club_id": 130304,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 1870, "p": 0 },
+    { "s": 2024, "c": 1870, "p": 0 },
+    { "s": 2024, "c": 130344, "p": 2 }
+  ]
+}

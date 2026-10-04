@@ -1,0 +1,39 @@
+{
+  "id": 70121602,
+  "first_name": "Kerem",
+  "last_name": "Kalafat",
+  "birth_date": "2001-03-09",
+  "country_id": 799,
+  "club_id": 70055738,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 115,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1866, "p": 0 },
+    { "s": 2019, "c": 1866, "p": 0 },
+    { "s": 2020, "c": 130367, "p": 28 },
+    { "s": 2021, "c": 1866, "p": 2 },
+    { "s": 2021, "c": 70043025, "p": 16 },
+    { "s": 2022, "c": 130366, "p": 10 },
+    { "s": 2023, "c": 70055738, "p": 25 },
+    { "s": 2024, "c": 70055738, "p": 32, "g": 1 }
+  ]
+}

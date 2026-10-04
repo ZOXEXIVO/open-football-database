@@ -1,0 +1,57 @@
+{
+  "id": 7500917,
+  "name": "Vihren",
+  "location": {
+    "city_id": 5623
+  },
+  "finance": {
+    "balance": 199390
+  },
+  "teams": [
+    {
+      "id": 7500917,
+      "name": "Vihren",
+      "slug": "vihren",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3600,
+        "national": 3600,
+        "world": 3600
+      }
+    },
+    {
+      "id": 95200013,
+      "name": "Vihren",
+      "slug": "vihren-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    },
+    {
+      "id": 95200014,
+      "name": "Vihren",
+      "slug": "vihren-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 720,
+        "national": 720,
+        "world": 720
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c8c57",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 800
+}

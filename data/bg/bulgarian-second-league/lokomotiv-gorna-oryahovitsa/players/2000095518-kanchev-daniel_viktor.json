@@ -1,0 +1,28 @@
+{
+  "id": 2000095518,
+  "first_name": "Daniel-Viktor",
+  "last_name": "Kanchev",
+  "birth_date": "2002-04-08",
+  "country_id": 760,
+  "club_id": 350,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 57,
+  "potential_ability": 77,
+  "history": [
+    { "s": 2020, "c": 2000018226, "p": 12, "g": 1 },
+    { "s": 2024, "c": 350, "p": 3 }
+  ]
+}

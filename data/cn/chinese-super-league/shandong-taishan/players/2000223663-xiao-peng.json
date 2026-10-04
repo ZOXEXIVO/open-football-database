@@ -1,0 +1,34 @@
+{
+  "id": 2000223663,
+  "first_name": "Peng",
+  "last_name": "Xiao",
+  "birth_date": "2005-07-28",
+  "country_id": 110,
+  "club_id": 116403,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 23295505, "p": 0 },
+    { "s": 2023, "c": 116403, "p": 0 },
+    { "s": 2025, "c": 116403, "p": 11 }
+  ]
+}

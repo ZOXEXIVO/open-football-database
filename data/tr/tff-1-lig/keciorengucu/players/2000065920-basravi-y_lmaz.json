@@ -1,0 +1,46 @@
+{
+  "id": 2000065920,
+  "first_name": "Yılmaz",
+  "last_name": "Basravi",
+  "birth_date": "2000-03-13",
+  "country_id": 799,
+  "club_id": 454840,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 130338, "p": 1 },
+    { "s": 2021, "c": 453649, "p": 27, "g": 3 },
+    { "s": 2022, "c": 130351, "p": 9, "g": 2 },
+    { "s": 2022, "c": 70081025, "p": 15, "g": 7 },
+    { "s": 2023, "c": 457415, "p": 25, "g": 11 },
+    { "s": 2024, "c": 130355, "p": 15, "g": 7 },
+    { "s": 2024, "c": 454840, "p": 9 }
+  ]
+}
