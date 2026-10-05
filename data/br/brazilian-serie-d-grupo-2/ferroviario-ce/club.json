@@ -1,0 +1,57 @@
+{
+  "id": 301129,
+  "name": "Ferroviário",
+  "location": {
+    "city_id": 5699
+  },
+  "finance": {
+    "balance": 309880
+  },
+  "teams": [
+    {
+      "id": 301129,
+      "name": "Ferroviário",
+      "slug": "ferroviario-ce",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 95600005,
+      "name": "Ferroviário",
+      "slug": "ferroviario-ce-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 95600006,
+      "name": "Ferroviário",
+      "slug": "ferroviario-ce-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#c8102e"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 3000
+}

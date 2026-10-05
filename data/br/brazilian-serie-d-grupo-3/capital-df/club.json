@@ -1,0 +1,57 @@
+{
+  "id": 19005469,
+  "name": "Capital",
+  "location": {
+    "city_id": 5716
+  },
+  "finance": {
+    "balance": 304800
+  },
+  "teams": [
+    {
+      "id": 19005469,
+      "name": "Capital",
+      "slug": "capital-df",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2400,
+        "national": 2400,
+        "world": 2400
+      }
+    },
+    {
+      "id": 95700009,
+      "name": "Capital",
+      "slug": "capital-df-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 720,
+        "national": 720,
+        "world": 720
+      }
+    },
+    {
+      "id": 95700010,
+      "name": "Capital",
+      "slug": "capital-df-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 480,
+        "national": 480,
+        "world": 480
+      }
+    }
+  ],
+  "colors": {
+    "background": "#41b6e6",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1000
+}

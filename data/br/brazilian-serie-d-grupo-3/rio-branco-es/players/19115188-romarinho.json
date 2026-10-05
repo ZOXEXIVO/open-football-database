@@ -1,0 +1,30 @@
+{
+  "id": 19115188,
+  "first_name": "Romarinho",
+  "last_name": "",
+  "birth_date": "1992-11-15",
+  "country_id": 1651,
+  "club_id": 301142,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 110,
+  "history": [
+    { "s": 2014, "c": 107222, "p": 0 },
+    { "s": 2016, "c": 107222, "p": 10 },
+    { "s": 2024, "c": 19079916, "p": 10 },
+    { "s": 2025, "c": 301142, "p": 15, "g": 1 }
+  ]
+}

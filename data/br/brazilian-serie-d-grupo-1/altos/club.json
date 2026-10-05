@@ -1,0 +1,57 @@
+{
+  "id": 19273578,
+  "name": "Altos",
+  "location": {
+    "city_id": 5690
+  },
+  "finance": {
+    "balance": 775970
+  },
+  "teams": [
+    {
+      "id": 19273578,
+      "name": "Altos",
+      "slug": "altos",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 95500017,
+      "name": "Altos",
+      "slug": "altos-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 95500018,
+      "name": "Altos",
+      "slug": "altos-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#00843d",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1500
+}

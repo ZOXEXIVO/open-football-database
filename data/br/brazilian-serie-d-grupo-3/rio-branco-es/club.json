@@ -1,0 +1,57 @@
+{
+  "id": 301142,
+  "name": "Rio Branco",
+  "location": {
+    "city_id": 5721
+  },
+  "finance": {
+    "balance": 1046480
+  },
+  "teams": [
+    {
+      "id": 301142,
+      "name": "Rio Branco",
+      "slug": "rio-branco-es",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2500,
+        "national": 2500,
+        "world": 2500
+      }
+    },
+    {
+      "id": 95700019,
+      "name": "Rio Branco",
+      "slug": "rio-branco-es-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 750,
+        "national": 750,
+        "world": 750
+      }
+    },
+    {
+      "id": 95700020,
+      "name": "Rio Branco",
+      "slug": "rio-branco-es-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 500,
+        "national": 500,
+        "world": 500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1500
+}

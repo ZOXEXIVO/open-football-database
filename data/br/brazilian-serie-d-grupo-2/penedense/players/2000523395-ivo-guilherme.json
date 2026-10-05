@@ -1,0 +1,29 @@
+{
+  "id": 2000523395,
+  "first_name": "Guilherme",
+  "last_name": "Ivo",
+  "birth_date": "2001-02-25",
+  "country_id": 1651,
+  "club_id": 309361,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 73,
+  "potential_ability": 96,
+  "contract": {
+    "expiration": "2026-03-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

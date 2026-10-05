@@ -1,0 +1,33 @@
+{
+  "id": 2000128779,
+  "first_name": "Rickelme",
+  "last_name": "Lopes",
+  "birth_date": "2001-10-08",
+  "country_id": 1651,
+  "club_id": 311107,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 87,
+  "potential_ability": 104,
+  "contract": {
+    "expiration": "2026-09-20",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 312324, "p": 14, "g": 3 },
+    { "s": 2025, "c": 301321, "p": 12, "g": 2 }
+  ]
+}

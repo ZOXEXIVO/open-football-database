@@ -1,0 +1,29 @@
+{
+  "id": 2000306795,
+  "first_name": "Bruno",
+  "last_name": "Tesouro",
+  "birth_date": "2001-03-07",
+  "country_id": 1651,
+  "club_id": 313305,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": 80,
+  "history": [
+    { "s": 2020, "c": 107210, "p": 1 },
+    { "s": 2021, "c": 301182, "p": 5 },
+    { "s": 2022, "c": 313251, "p": 12, "g": 1 }
+  ]
+}

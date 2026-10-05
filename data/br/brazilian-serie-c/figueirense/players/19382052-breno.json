@@ -1,0 +1,42 @@
+{
+  "id": 19382052,
+  "first_name": "Breno",
+  "last_name": "",
+  "birth_date": "2000-09-01",
+  "country_id": 1651,
+  "club_id": 301306,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 111,
+  "contract": {
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 102555, "p": 11 },
+    { "s": 2020, "c": 102555, "p": 29 },
+    { "s": 2021, "c": 102555, "p": 14 },
+    { "s": 2023, "c": 316, "p": 1 },
+    { "s": 2023, "c": 104749, "p": 9 },
+    { "s": 2024, "c": 2106553, "p": 4 },
+    { "s": 2025, "c": 301306, "p": 1 }
+  ]
+}

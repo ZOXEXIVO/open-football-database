@@ -1,0 +1,28 @@
+{
+  "id": 2000029868,
+  "first_name": "Wesley",
+  "last_name": "Bolinha",
+  "birth_date": "1997-08-28",
+  "country_id": 1651,
+  "club_id": 2000112366,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": 92,
+  "history": [
+    { "s": 2022, "c": 19270038, "p": 14 },
+    { "s": 2025, "c": 19273578, "p": 12, "g": 2 }
+  ]
+}

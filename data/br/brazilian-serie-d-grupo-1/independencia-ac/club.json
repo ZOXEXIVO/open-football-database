@@ -1,0 +1,57 @@
+{
+  "id": 104874,
+  "name": "Independência",
+  "location": {
+    "city_id": 5685
+  },
+  "finance": {
+    "balance": 584200
+  },
+  "teams": [
+    {
+      "id": 104874,
+      "name": "Independência",
+      "slug": "independencia-ac",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 95500007,
+      "name": "Independência",
+      "slug": "independencia-ac-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 450,
+        "national": 450,
+        "world": 450
+      }
+    },
+    {
+      "id": 95500008,
+      "name": "Independência",
+      "slug": "independencia-ac-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 300,
+        "national": 300,
+        "world": 300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#c8102e",
+    "foreground": "#006b3f"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 500
+}

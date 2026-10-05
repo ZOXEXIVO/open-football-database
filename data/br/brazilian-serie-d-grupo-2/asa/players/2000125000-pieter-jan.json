@@ -1,0 +1,25 @@
+{
+  "id": 2000125000,
+  "first_name": "Jan",
+  "last_name": "Pieter",
+  "birth_date": "1999-08-25",
+  "country_id": 1651,
+  "club_id": 301100,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": 95,
+  "history": [
+    { "s": 2020, "c": 301325, "p": 2 },
+    { "s": 2021, "c": 107203, "p": 3 },
+    { "s": 2024, "c": 301100, "p": 6 }
+  ]
+}

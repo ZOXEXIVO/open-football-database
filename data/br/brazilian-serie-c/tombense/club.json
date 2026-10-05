@@ -1,0 +1,57 @@
+{
+  "id": 318860,
+  "name": "Tombense",
+  "location": {
+    "city_id": 5675
+  },
+  "finance": {
+    "balance": 521970
+  },
+  "teams": [
+    {
+      "id": 318860,
+      "name": "Tombense",
+      "slug": "tombense",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 95400023,
+      "name": "Tombense",
+      "slug": "tombense-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 95400024,
+      "name": "Tombense",
+      "slug": "tombense-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d50000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1000
+}

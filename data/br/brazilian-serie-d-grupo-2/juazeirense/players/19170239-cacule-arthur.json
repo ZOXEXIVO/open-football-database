@@ -1,0 +1,35 @@
+{
+  "id": 19170239,
+  "first_name": "Arthur",
+  "last_name": "Caculé",
+  "birth_date": "1992-04-18",
+  "country_id": 1651,
+  "club_id": 19079916,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 109,
+  "history": [
+    { "s": 2015, "c": 19057187, "p": 3 },
+    { "s": 2019, "c": 900678, "p": 14, "g": 2 },
+    { "s": 2022, "c": 301321, "p": 3 },
+    { "s": 2023, "c": 301321, "p": 6 },
+    { "s": 2025, "c": 19079916, "p": 6, "g": 1 }
+  ]
+}

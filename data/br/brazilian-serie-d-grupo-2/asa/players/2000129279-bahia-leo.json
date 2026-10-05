@@ -1,0 +1,27 @@
+{
+  "id": 2000129279,
+  "first_name": "Léo",
+  "last_name": "Bahia",
+  "birth_date": "2003-12-07",
+  "country_id": 1651,
+  "club_id": 301100,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2025, "c": 301100, "p": 1 }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000437228,
+  "first_name": "Matheus",
+  "last_name": "Galdino",
+  "birth_date": "2005-03-03",
+  "country_id": 1651,
+  "club_id": 311086,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 79,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2025, "c": 311086, "p": 1 }
+  ]
+}

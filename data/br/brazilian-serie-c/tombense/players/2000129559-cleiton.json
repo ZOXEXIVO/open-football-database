@@ -1,0 +1,31 @@
+{
+  "id": 2000129559,
+  "first_name": "Cleiton",
+  "last_name": "",
+  "birth_date": "1998-04-22",
+  "country_id": 1651,
+  "club_id": 318860,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 95,
+  "history": [
+    { "s": 2021, "c": 301325, "p": 15, "g": 4 },
+    { "s": 2022, "c": 19112334, "p": 5, "g": 2 },
+    { "s": 2023, "c": 301184, "p": 0 },
+    { "s": 2024, "c": 301325, "p": 21, "g": 7 },
+    { "s": 2025, "c": 318860, "p": 7 }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000246454,
+  "first_name": "Brandão",
+  "last_name": "",
+  "birth_date": "2004-06-25",
+  "country_id": 1651,
+  "club_id": 104776,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 116,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 900678, "p": 8 },
+    { "s": 2024, "c": 2384, "p": 10, "g": 2 },
+    { "s": 2024, "c": 104776, "p": 19, "g": 2 },
+    { "s": 2025, "c": 1918, "p": 11 }
+  ]
+}

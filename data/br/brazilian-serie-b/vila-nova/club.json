@@ -1,0 +1,57 @@
+{
+  "id": 107236,
+  "name": "Vila Nova",
+  "location": {
+    "city_id": 5656
+  },
+  "finance": {
+    "balance": 1186180
+  },
+  "teams": [
+    {
+      "id": 107236,
+      "name": "Vila Nova",
+      "slug": "vila-nova",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5500,
+        "national": 5500,
+        "world": 5500
+      }
+    },
+    {
+      "id": 90400049,
+      "name": "Vila Nova",
+      "slug": "vila-nova-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1650,
+        "national": 1650,
+        "world": 1650
+      }
+    },
+    {
+      "id": 90400050,
+      "name": "Vila Nova",
+      "slug": "vila-nova-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d50000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 10000
+}

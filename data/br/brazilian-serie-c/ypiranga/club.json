@@ -1,0 +1,57 @@
+{
+  "id": 319160,
+  "name": "Ypiranga",
+  "location": {
+    "city_id": 5681
+  },
+  "finance": {
+    "balance": 482600
+  },
+  "teams": [
+    {
+      "id": 319160,
+      "name": "Ypiranga",
+      "slug": "ypiranga",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 95400035,
+      "name": "Ypiranga",
+      "slug": "ypiranga-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 95400036,
+      "name": "Ypiranga",
+      "slug": "ypiranga-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#008f3c",
+    "foreground": "#ffd100"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2500
+}

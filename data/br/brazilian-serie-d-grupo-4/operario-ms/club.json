@@ -1,0 +1,57 @@
+{
+  "id": 107242,
+  "name": "Operário-MS",
+  "location": {
+    "city_id": 5743
+  },
+  "finance": {
+    "balance": 275590
+  },
+  "teams": [
+    {
+      "id": 107242,
+      "name": "Operário-MS",
+      "slug": "operario-ms",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2100,
+        "national": 2100,
+        "world": 2100
+      }
+    },
+    {
+      "id": 95800031,
+      "name": "Operário-MS",
+      "slug": "operario-ms-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 630,
+        "national": 630,
+        "world": 630
+      }
+    },
+    {
+      "id": 95800032,
+      "name": "Operário-MS",
+      "slug": "operario-ms-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 420,
+        "national": 420,
+        "world": 420
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1500
+}

@@ -1,0 +1,57 @@
+{
+  "id": 19079916,
+  "name": "Juazeirense",
+  "location": {
+    "city_id": 5707
+  },
+  "finance": {
+    "balance": 774700
+  },
+  "teams": [
+    {
+      "id": 19079916,
+      "name": "Juazeirense",
+      "slug": "juazeirense",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3200,
+        "national": 3200,
+        "world": 3200
+      }
+    },
+    {
+      "id": 95600021,
+      "name": "Juazeirense",
+      "slug": "juazeirense-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    },
+    {
+      "id": 95600022,
+      "name": "Juazeirense",
+      "slug": "juazeirense-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 640,
+        "national": 640,
+        "world": 640
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd100",
+    "foreground": "#c8102e"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1500
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2000230043,
+  "first_name": "João",
+  "last_name": "Cruz",
+  "birth_date": "2006-05-12",
+  "country_id": 1651,
+  "club_id": 107206,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 111,
+  "potential_ability": -8,
+  "contract": {
+    "expiration": "2028-01-28",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 7, "u21_goals": 1},
+  "history": [
+    { "s": 2024, "c": 107206, "p": 18, "g": 1 },
+    { "s": 2025, "c": 107206, "p": 16, "g": 2 }
+  ]
+}

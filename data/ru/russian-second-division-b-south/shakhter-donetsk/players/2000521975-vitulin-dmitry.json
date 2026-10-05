@@ -1,0 +1,25 @@
+{
+  "id": 2000521975,
+  "first_name": "Dmitry",
+  "last_name": "Vitulin",
+  "birth_date": "2004-05-16",
+  "country_id": 791,
+  "club_id": 2000533930,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 47,
+  "potential_ability": -4,
+  "history": [
+    { "s": 2024, "c": 2000099796, "p": 5, "g": 1 },
+    { "s": 2025, "c": 58151454, "p": 11 },
+    { "s": 2025, "c": 2000175579, "p": 18, "g": 8 }
+  ]
+}

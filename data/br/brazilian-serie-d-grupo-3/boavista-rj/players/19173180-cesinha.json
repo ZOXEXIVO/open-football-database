@@ -1,0 +1,40 @@
+{
+  "id": 19173180,
+  "first_name": "Cesinha",
+  "last_name": "",
+  "birth_date": "1994-03-31",
+  "country_id": 1651,
+  "club_id": 309137,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 108,
+  "contract": {
+    "expiration": "2026-04-06",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2012, "c": 329, "p": 0 },
+    { "s": 2016, "c": 333, "p": 15 },
+    { "s": 2017, "c": 317, "p": 0 },
+    { "s": 2018, "c": 301200, "p": 5 },
+    { "s": 2019, "c": 107232, "p": 12 },
+    { "s": 2020, "c": 19220160, "p": 4 },
+    { "s": 2022, "c": 301210, "p": 2 },
+    { "s": 2022, "c": 301242, "p": 8 },
+    { "s": 2023, "c": 19023455, "p": 5 }
+  ]
+}

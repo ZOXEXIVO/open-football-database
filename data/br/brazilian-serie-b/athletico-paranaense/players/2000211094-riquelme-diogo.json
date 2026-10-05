@@ -1,0 +1,27 @@
+{
+  "id": 2000211094,
+  "first_name": "Diogo",
+  "last_name": "Riquelme",
+  "birth_date": "2005-04-23",
+  "country_id": 1651,
+  "club_id": 107206,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 95,
+  "potential_ability": -65,
+  "history": [
+    { "s": 2025, "c": 107206, "p": 4 }
+  ]
+}

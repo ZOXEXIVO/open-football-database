@@ -1,0 +1,27 @@
+{
+  "id": 2000324318,
+  "first_name": "Sérgio",
+  "last_name": "Silva",
+  "birth_date": "2003-05-12",
+  "country_id": 1651,
+  "club_id": 301200,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": 87,
+  "history": [
+    { "s": 2025, "c": 301200, "p": 8, "g": 2 }
+  ]
+}

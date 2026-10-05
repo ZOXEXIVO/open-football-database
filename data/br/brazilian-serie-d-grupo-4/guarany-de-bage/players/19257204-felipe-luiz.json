@@ -1,0 +1,37 @@
+{
+  "id": 19257204,
+  "first_name": "Luiz",
+  "last_name": "Felipe",
+  "birth_date": "1996-10-05",
+  "country_id": 1651,
+  "club_id": 142370,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 88,
+  "potential_ability": 115,
+  "history": [
+    { "s": 2017, "c": 2106553, "p": 4, "g": 2 },
+    { "s": 2019, "c": 107232, "p": 2 },
+    { "s": 2020, "c": 331, "p": 13 },
+    { "s": 2021, "c": 319160, "p": 18, "g": 1 },
+    { "s": 2022, "c": 19220160, "p": 14 },
+    { "s": 2022, "c": 19270038, "p": 14 },
+    { "s": 2025, "c": 142370, "p": 8 }
+  ]
+}

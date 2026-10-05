@@ -1,0 +1,32 @@
+{
+  "id": 2000125290,
+  "first_name": "Mateus",
+  "last_name": "Cantarelli",
+  "birth_date": "2005-06-21",
+  "country_id": 1651,
+  "club_id": 302144,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 302144, "p": 4 }
+  ]
+}

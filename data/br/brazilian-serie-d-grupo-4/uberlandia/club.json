@@ -1,0 +1,57 @@
+{
+  "id": 301200,
+  "name": "Uberlândia",
+  "location": {
+    "city_id": 5739
+  },
+  "finance": {
+    "balance": 330200
+  },
+  "teams": [
+    {
+      "id": 301200,
+      "name": "Uberlândia",
+      "slug": "uberlandia",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2600,
+        "national": 2600,
+        "world": 2600
+      }
+    },
+    {
+      "id": 95800023,
+      "name": "Uberlândia",
+      "slug": "uberlandia-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 780,
+        "national": 780,
+        "world": 780
+      }
+    },
+    {
+      "id": 95800024,
+      "name": "Uberlândia",
+      "slug": "uberlandia-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 520,
+        "national": 520,
+        "world": 520
+      }
+    }
+  ],
+  "colors": {
+    "background": "#006b3f",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2000
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000414344,
+  "first_name": "Kayke",
+  "last_name": "Santos",
+  "birth_date": "2008-04-26",
+  "country_id": 1651,
+  "club_id": 107206,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2026-10-04",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 107206, "p": 1 }
+  ]
+}

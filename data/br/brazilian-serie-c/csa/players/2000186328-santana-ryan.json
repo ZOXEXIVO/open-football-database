@@ -1,0 +1,28 @@
+{
+  "id": 2000186328,
+  "first_name": "Ryan",
+  "last_name": "Santana",
+  "birth_date": "2001-01-23",
+  "country_id": 1651,
+  "club_id": 107210,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 123,
+  "history": [
+    { "s": 2024, "c": 312324, "p": 15, "g": 1 },
+    { "s": 2025, "c": 314206, "p": 13, "g": 4 }
+  ]
+}

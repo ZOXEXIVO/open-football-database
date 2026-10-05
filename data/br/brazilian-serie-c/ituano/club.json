@@ -1,0 +1,57 @@
+{
+  "id": 107216,
+  "name": "Ituano",
+  "location": {
+    "city_id": 5664
+  },
+  "finance": {
+    "balance": 835660
+  },
+  "teams": [
+    {
+      "id": 107216,
+      "name": "Ituano",
+      "slug": "ituano",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 95400001,
+      "name": "Ituano",
+      "slug": "ituano-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 95400002,
+      "name": "Ituano",
+      "slug": "ituano-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d50000",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2500
+}

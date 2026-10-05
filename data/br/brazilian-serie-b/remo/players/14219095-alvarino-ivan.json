@@ -1,0 +1,41 @@
+{
+  "id": 14219095,
+  "first_name": "Iván",
+  "last_name": "Alvariño",
+  "birth_date": "2001-02-01",
+  "country_id": 1649,
+  "club_id": 334,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 118,
+  "history": [
+    { "s": 2021, "c": 82, "p": 1 },
+    { "s": 2022, "c": 82, "p": 0 },
+    { "s": 2022, "c": 325, "p": 6 },
+    { "s": 2023, "c": 325, "p": 13 },
+    { "s": 2024, "c": 19398655, "p": 29, "g": 1 },
+    { "s": 2025, "c": 334, "p": 4 },
+    { "s": 2025, "c": 19398655, "p": 17 }
+  ]
+}

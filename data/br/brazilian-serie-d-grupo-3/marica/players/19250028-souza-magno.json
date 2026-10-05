@@ -1,0 +1,38 @@
+{
+  "id": 19250028,
+  "first_name": "Magno",
+  "last_name": "Souza",
+  "birth_date": "1990-07-26",
+  "country_id": 1651,
+  "club_id": 19344101,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 91,
+  "potential_ability": 112,
+  "contract": {
+    "expiration": "2026-11-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 301210, "p": 8 },
+    { "s": 2016, "c": 301210, "p": 10 },
+    { "s": 2017, "c": 301208, "p": 14, "g": 1 },
+    { "s": 2020, "c": 301129, "p": 8 },
+    { "s": 2022, "c": 301210, "p": 16 },
+    { "s": 2023, "c": 301321, "p": 8 },
+    { "s": 2025, "c": 19344101, "p": 10 }
+  ]
+}

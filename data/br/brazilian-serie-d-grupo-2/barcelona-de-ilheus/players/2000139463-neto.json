@@ -1,0 +1,28 @@
+{
+  "id": 2000139463,
+  "first_name": "Neto",
+  "last_name": "",
+  "birth_date": "2002-01-14",
+  "country_id": 1651,
+  "club_id": 2000053639,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 95,
+  "history": [
+    { "s": 2022, "c": 19112334, "p": 3, "g": 1 },
+    { "s": 2025, "c": 314206, "p": 11 }
+  ]
+}

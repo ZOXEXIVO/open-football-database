@@ -1,0 +1,30 @@
+{
+  "id": 19311309,
+  "first_name": "Herbert",
+  "last_name": "",
+  "birth_date": "1999-11-10",
+  "country_id": 1651,
+  "club_id": 325,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 95,
+  "contract": {
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 104749, "p": 0 },
+    { "s": 2018, "c": 309142, "p": 1 },
+    { "s": 2025, "c": 107203, "p": 25, "g": 6 }
+  ]
+}

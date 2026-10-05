@@ -1,0 +1,29 @@
+{
+  "id": 19328205,
+  "first_name": "Júlio",
+  "last_name": "Vaz",
+  "birth_date": "1997-07-28",
+  "country_id": 1651,
+  "club_id": 301208,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 114,
+  "contract": {
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 19200887, "p": 11 },
+    { "s": 2025, "c": 19270038, "p": 19, "g": 1 }
+  ]
+}

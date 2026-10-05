@@ -1,0 +1,25 @@
+{
+  "id": 2000305272,
+  "first_name": "João",
+  "last_name": "Pantera",
+  "birth_date": "2007-03-24",
+  "country_id": 1651,
+  "club_id": 107216,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 108,
+  "contract": {
+    "expiration": "2028-03-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

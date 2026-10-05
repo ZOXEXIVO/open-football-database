@@ -1,0 +1,57 @@
+{
+  "id": 301264,
+  "name": "Brasil de Pelotas",
+  "location": {
+    "city_id": 5735
+  },
+  "finance": {
+    "balance": 482600
+  },
+  "teams": [
+    {
+      "id": 301264,
+      "name": "Brasil de Pelotas",
+      "slug": "brasil-de-pelotas",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3800,
+        "national": 3800,
+        "world": 3800
+      }
+    },
+    {
+      "id": 95800015,
+      "name": "Brasil de Pelotas",
+      "slug": "brasil-de-pelotas-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    },
+    {
+      "id": 95800016,
+      "name": "Brasil de Pelotas",
+      "slug": "brasil-de-pelotas-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 760,
+        "national": 760,
+        "world": 760
+      }
+    }
+  ],
+  "colors": {
+    "background": "#c8102e",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 4000
+}

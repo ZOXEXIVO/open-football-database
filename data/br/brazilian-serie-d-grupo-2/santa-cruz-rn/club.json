@@ -1,0 +1,57 @@
+{
+  "id": 19277538,
+  "name": "Santa Cruz de Natal",
+  "location": {
+    "city_id": 5701
+  },
+  "finance": {
+    "balance": 504190
+  },
+  "teams": [
+    {
+      "id": 19277538,
+      "name": "Santa Cruz de Natal",
+      "slug": "santa-cruz-rn",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2200,
+        "national": 2200,
+        "world": 2200
+      }
+    },
+    {
+      "id": 95600009,
+      "name": "Santa Cruz de Natal",
+      "slug": "santa-cruz-rn-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    },
+    {
+      "id": 95600010,
+      "name": "Santa Cruz de Natal",
+      "slug": "santa-cruz-rn-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 440,
+        "national": 440,
+        "world": 440
+      }
+    }
+  ],
+  "colors": {
+    "background": "#c8102e",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 800
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2000326950,
+  "first_name": "Thalles",
+  "last_name": "",
+  "birth_date": "2005-04-23",
+  "country_id": 1651,
+  "club_id": 121265,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 121265, "p": 2 },
+    { "s": 2025, "c": 121265, "p": 0 },
+    { "s": 2025, "c": 20041349, "p": 15, "g": 5 }
+  ]
+}

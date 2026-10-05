@@ -1,0 +1,28 @@
+{
+  "id": 2000452591,
+  "first_name": "Zanella",
+  "last_name": "",
+  "birth_date": "2004-05-12",
+  "country_id": 1651,
+  "club_id": 900678,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 112,
+  "contract": {
+    "expiration": "2028-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 318903, "p": 12 }
+  ]
+}

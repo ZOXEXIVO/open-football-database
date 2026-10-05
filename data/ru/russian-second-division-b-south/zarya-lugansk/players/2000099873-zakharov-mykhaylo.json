@@ -1,0 +1,29 @@
+{
+  "id": 2000099873,
+  "first_name": "Mykhaylo",
+  "last_name": "Zakharov",
+  "birth_date": "1995-06-03",
+  "country_id": 791,
+  "club_id": 2000453108,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 70,
+  "potential_ability": 70,
+  "history": [
+    { "s": 2021, "c": 1300111, "p": 15, "g": 2 },
+    { "s": 2021, "c": 7483392, "p": 13, "g": 5 },
+    { "s": 2022, "c": 7483392, "p": 5, "g": 2 }
+  ]
+}

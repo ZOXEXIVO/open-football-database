@@ -1,0 +1,29 @@
+{
+  "id": 2000054189,
+  "first_name": "Wander",
+  "last_name": "",
+  "birth_date": "1992-09-02",
+  "country_id": 1651,
+  "club_id": 107234,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 86,
+  "history": [
+    { "s": 2018, "c": 19019859, "p": 1, "g": 1 },
+    { "s": 2019, "c": 313901, "p": 4 },
+    { "s": 2020, "c": 107238, "p": 10, "g": 2 }
+  ]
+}

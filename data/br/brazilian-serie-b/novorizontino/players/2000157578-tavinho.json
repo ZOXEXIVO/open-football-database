@@ -1,0 +1,32 @@
+{
+  "id": 2000157578,
+  "first_name": "Tavinho",
+  "last_name": "",
+  "birth_date": "2004-07-19",
+  "country_id": 1651,
+  "club_id": 19144990,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 105,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 19144990, "p": 12, "g": 1 }
+  ]
+}

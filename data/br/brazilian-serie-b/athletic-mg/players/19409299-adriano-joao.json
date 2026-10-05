@@ -1,0 +1,37 @@
+{
+  "id": 19409299,
+  "first_name": "João",
+  "last_name": "Adriano",
+  "birth_date": "2003-03-09",
+  "country_id": 1651,
+  "club_id": 19342677,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 91,
+  "potential_ability": 116,
+  "history": [
+    { "s": 2020, "c": 337, "p": 0 },
+    { "s": 2021, "c": 337, "p": 0 },
+    { "s": 2022, "c": 337, "p": 0 }
+  ]
+}

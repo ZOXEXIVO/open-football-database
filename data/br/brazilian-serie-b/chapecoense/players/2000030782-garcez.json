@@ -1,0 +1,39 @@
+{
+  "id": 2000030782,
+  "first_name": "Garcez",
+  "last_name": "",
+  "birth_date": "1997-03-16",
+  "country_id": 1651,
+  "club_id": 301304,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 115,
+  "potential_ability": 117,
+  "contract": {
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 301302, "p": 19, "g": 5 },
+    { "s": 2021, "c": 301302, "p": 29, "g": 6 },
+    { "s": 2021, "c": 22069955, "p": 10, "g": 1 },
+    { "s": 2022, "c": 22069955, "p": 31, "g": 10 },
+    { "s": 2023, "c": 104776, "p": 14, "g": 1 },
+    { "s": 2024, "c": 107208, "p": 33, "g": 5 },
+    { "s": 2025, "c": 327, "p": 3 },
+    { "s": 2025, "c": 331, "p": 22, "g": 7 }
+  ]
+}

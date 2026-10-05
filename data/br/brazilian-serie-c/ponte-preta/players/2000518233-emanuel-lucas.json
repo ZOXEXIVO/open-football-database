@@ -1,0 +1,29 @@
+{
+  "id": 2000518233,
+  "first_name": "Lucas",
+  "last_name": "Emanuel",
+  "birth_date": "2008-09-29",
+  "country_id": 1651,
+  "club_id": 332,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 79,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-10-22",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

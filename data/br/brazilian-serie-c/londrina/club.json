@@ -1,0 +1,57 @@
+{
+  "id": 900678,
+  "name": "Londrina",
+  "location": {
+    "city_id": 5669
+  },
+  "finance": {
+    "balance": 905510
+  },
+  "teams": [
+    {
+      "id": 900678,
+      "name": "Londrina",
+      "slug": "londrina",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 95400011,
+      "name": "Londrina",
+      "slug": "londrina-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1470,
+        "national": 1470,
+        "world": 1470
+      }
+    },
+    {
+      "id": 95400012,
+      "name": "Londrina",
+      "slug": "londrina-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 980,
+        "national": 980,
+        "world": 980
+      }
+    }
+  ],
+  "colors": {
+    "background": "#41b6e6",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 4000
+}

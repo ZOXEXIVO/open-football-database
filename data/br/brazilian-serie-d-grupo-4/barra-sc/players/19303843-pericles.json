@@ -1,0 +1,30 @@
+{
+  "id": 19303843,
+  "first_name": "Péricles",
+  "last_name": "",
+  "birth_date": "1999-05-04",
+  "country_id": 1651,
+  "club_id": 19213392,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 87,
+  "potential_ability": 91,
+  "history": [
+    { "s": 2021, "c": 1300736, "p": 9, "g": 1 },
+    { "s": 2022, "c": 1300736, "p": 21, "g": 2 },
+    { "s": 2024, "c": 8832365, "p": 10 },
+    { "s": 2025, "c": 19213392, "p": 19 }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 19382035,
+  "first_name": "João",
+  "last_name": "Fernando",
+  "birth_date": "2001-03-01",
+  "country_id": 1651,
+  "club_id": 309137,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 115,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 322, "p": 0 },
+    { "s": 2022, "c": 322, "p": 0 },
+    { "s": 2025, "c": 309137, "p": 4 }
+  ]
+}

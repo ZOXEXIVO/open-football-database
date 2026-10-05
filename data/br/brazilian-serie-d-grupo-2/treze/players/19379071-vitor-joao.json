@@ -1,0 +1,25 @@
+{
+  "id": 19379071,
+  "first_name": "João",
+  "last_name": "Vitor",
+  "birth_date": "1999-09-17",
+  "country_id": 1651,
+  "club_id": 301212,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": 80,
+  "history": [
+    { "s": 2022, "c": 309146, "p": 12 },
+    { "s": 2024, "c": 309146, "p": 13 },
+    { "s": 2025, "c": 301129, "p": 10 }
+  ]
+}

@@ -3,17 +3,17 @@
   "enabled": true,
   "slug": "russian-second-division-b-ural-volga",
   "name": "Second Division B Ural-Volga",
-  "reputation": 1500,
-  "tier": 3,
-  "promotion_spots": 0,
-  "relegation_spots": 2,
+  "reputation": 1000,
+  "tier": 4,
+  "promotion_spots": 1,
+  "relegation_spots": 0,
   "sub_leagues_competitions": [
     "U19"
   ],
   "league_group": {
-    "name": "B Ural-Volga",
-    "competition": "Second Division",
-    "total_groups": 6
+    "name": "Ural-Volga",
+    "competition": "Second Division B",
+    "total_groups": 4
   },
   "settings": {
     "season_starting_half": {

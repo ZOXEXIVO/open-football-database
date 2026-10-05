@@ -3,17 +3,17 @@
   "enabled": true,
   "slug": "russian-second-division-b-south",
   "name": "Second Division B South",
-  "reputation": 1500,
-  "tier": 3,
-  "promotion_spots": 0,
-  "relegation_spots": 2,
+  "reputation": 1000,
+  "tier": 4,
+  "promotion_spots": 1,
+  "relegation_spots": 0,
   "sub_leagues_competitions": [
     "U19"
   ],
   "league_group": {
-    "name": "B South",
-    "competition": "Second Division",
-    "total_groups": 6
+    "name": "South",
+    "competition": "Second Division B",
+    "total_groups": 4
   },
   "settings": {
     "season_starting_half": {

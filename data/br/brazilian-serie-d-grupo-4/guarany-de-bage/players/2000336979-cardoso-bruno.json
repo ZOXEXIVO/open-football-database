@@ -1,0 +1,29 @@
+{
+  "id": 2000336979,
+  "first_name": "Bruno",
+  "last_name": "Cardoso",
+  "birth_date": "2000-11-09",
+  "country_id": 1651,
+  "club_id": 142370,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 88,
+  "potential_ability": 104,
+  "history": [
+    { "s": 2024, "c": 107210, "p": 4, "g": 1 },
+    { "s": 2024, "c": 309670, "p": 3 },
+    { "s": 2025, "c": 142370, "p": 12 }
+  ]
+}

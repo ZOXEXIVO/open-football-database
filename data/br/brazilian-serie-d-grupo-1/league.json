@@ -1,0 +1,40 @@
+{
+  "id": 103,
+  "enabled": true,
+  "slug": "brazilian-serie-d-grupo-1",
+  "name": "Série D Grupo 1",
+  "reputation": 2800,
+  "tier": 4,
+  "promotion_spots": 1,
+  "relegation_spots": 0,
+  "sub_leagues_competitions": ["U18"],
+  "league_group": {
+    "name": "Grupo 1",
+    "competition": "Série D",
+    "total_groups": 4
+  },
+  "settings": {
+    "season_starting_half": {
+      "from_day": 15,
+      "from_month": 4,
+      "to_day": 30,
+      "to_month": 8
+    },
+    "season_ending_half": {
+      "from_day": 1,
+      "from_month": 9,
+      "to_day": 8,
+      "to_month": 12
+    }
+  },
+  "foreign_players": [
+    {
+      "country_id": 1649,
+      "weight": 4
+    },
+    {
+      "country_id": 796,
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 107234,
+  "name": "Tuna Luso",
+  "location": {
+    "city_id": 5682
+  },
+  "finance": {
+    "balance": 273050
+  },
+  "teams": [
+    {
+      "id": 107234,
+      "name": "Tuna Luso",
+      "slug": "tuna-luso",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2300,
+        "national": 2300,
+        "world": 2300
+      }
+    },
+    {
+      "id": 95500001,
+      "name": "Tuna Luso",
+      "slug": "tuna-luso-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 690,
+        "national": 690,
+        "world": 690
+      }
+    },
+    {
+      "id": 95500002,
+      "name": "Tuna Luso",
+      "slug": "tuna-luso-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 460,
+        "national": 460,
+        "world": 460
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#00843d"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1500
+}

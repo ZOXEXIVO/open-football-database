@@ -1,0 +1,44 @@
+{
+  "id": 19290412,
+  "first_name": "Ygor",
+  "last_name": "Catatau",
+  "birth_date": "1995-07-01",
+  "country_id": 1651,
+  "club_id": 107240,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 113,
+  "contract": {
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 107220, "p": 1 },
+    { "s": 2016, "c": 107220, "p": 4 },
+    { "s": 2018, "c": 310700, "p": 8 },
+    { "s": 2020, "c": 339, "p": 15, "g": 1 },
+    { "s": 2021, "c": 340, "p": 8, "g": 1 },
+    { "s": 2021, "c": 40026653, "p": 11, "g": 3 },
+    { "s": 2022, "c": 107230, "p": 11, "g": 3 },
+    { "s": 2022, "c": 5512191, "p": 11, "g": 1 },
+    { "s": 2025, "c": 107240, "p": 12, "g": 2 }
+  ]
+}

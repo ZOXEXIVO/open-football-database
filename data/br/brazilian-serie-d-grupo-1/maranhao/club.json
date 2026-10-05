@@ -1,0 +1,57 @@
+{
+  "id": 301171,
+  "name": "Maranhão",
+  "location": {
+    "city_id": 5692
+  },
+  "finance": {
+    "balance": 779780
+  },
+  "teams": [
+    {
+      "id": 301171,
+      "name": "Maranhão",
+      "slug": "maranhao",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2500,
+        "national": 2500,
+        "world": 2500
+      }
+    },
+    {
+      "id": 95500021,
+      "name": "Maranhão",
+      "slug": "maranhao-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 750,
+        "national": 750,
+        "world": 750
+      }
+    },
+    {
+      "id": 95500022,
+      "name": "Maranhão",
+      "slug": "maranhao-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 500,
+        "national": 500,
+        "world": 500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0033a0",
+    "foreground": "#c8102e"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1500
+}

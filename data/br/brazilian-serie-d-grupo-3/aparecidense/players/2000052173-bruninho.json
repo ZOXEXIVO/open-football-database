@@ -1,0 +1,32 @@
+{
+  "id": 2000052173,
+  "first_name": "Bruninho",
+  "last_name": "",
+  "birth_date": "2001-02-09",
+  "country_id": 1651,
+  "club_id": 319141,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 90,
+  "potential_ability": 100,
+  "history": [
+    { "s": 2024, "c": 19076257, "p": 7 },
+    { "s": 2025, "c": 19344101, "p": 8 }
+  ]
+}

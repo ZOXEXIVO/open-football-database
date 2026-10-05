@@ -1,0 +1,27 @@
+{
+  "id": 2000172273,
+  "first_name": "Bremer",
+  "last_name": "",
+  "birth_date": "1994-06-06",
+  "country_id": 1651,
+  "club_id": 2000053639,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 95,
+  "history": [
+    { "s": 2015, "c": 317347, "p": 2 },
+    { "s": 2020, "c": 301113, "p": 2 },
+    { "s": 2021, "c": 301113, "p": 14, "g": 1 },
+    { "s": 2022, "c": 301113, "p": 10 },
+    { "s": 2022, "c": 301210, "p": 6 }
+  ]
+}

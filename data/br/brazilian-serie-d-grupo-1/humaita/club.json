@@ -1,0 +1,57 @@
+{
+  "id": 19300082,
+  "name": "Humaitá",
+  "location": {
+    "city_id": 5689
+  },
+  "finance": {
+    "balance": 190500
+  },
+  "teams": [
+    {
+      "id": 19300082,
+      "name": "Humaitá",
+      "slug": "humaita",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 95500015,
+      "name": "Humaitá",
+      "slug": "humaita-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 450,
+        "national": 450,
+        "world": 450
+      }
+    },
+    {
+      "id": 95500016,
+      "name": "Humaitá",
+      "slug": "humaita-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 300,
+        "national": 300,
+        "world": 300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#7b1e2b",
+    "foreground": "#00843d"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 400
+}

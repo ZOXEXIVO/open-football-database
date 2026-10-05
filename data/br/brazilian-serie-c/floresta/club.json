@@ -1,0 +1,57 @@
+{
+  "id": 19270038,
+  "name": "Floresta",
+  "location": {
+    "city_id": 5671
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 19270038,
+      "name": "Floresta",
+      "slug": "floresta",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 95400015,
+      "name": "Floresta",
+      "slug": "floresta-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 95400016,
+      "name": "Floresta",
+      "slug": "floresta-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#008f39",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2000
+}

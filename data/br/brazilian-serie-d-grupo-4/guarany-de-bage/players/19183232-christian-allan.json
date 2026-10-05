@@ -1,0 +1,31 @@
+{
+  "id": 19183232,
+  "first_name": "Allan",
+  "last_name": "Christian",
+  "birth_date": "1994-02-24",
+  "country_id": 1651,
+  "club_id": 142370,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 96,
+  "history": [
+    { "s": 2012, "c": 337, "p": 0 },
+    { "s": 2013, "c": 337, "p": 0 },
+    { "s": 2016, "c": 337, "p": 0 },
+    { "s": 2021, "c": 312326, "p": 11 },
+    { "s": 2025, "c": 142370, "p": 6, "g": 1 }
+  ]
+}

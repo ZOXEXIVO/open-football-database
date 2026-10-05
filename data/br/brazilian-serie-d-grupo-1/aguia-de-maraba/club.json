@@ -1,0 +1,57 @@
+{
+  "id": 308939,
+  "name": "Águia de Marabá",
+  "location": {
+    "city_id": 5686
+  },
+  "finance": {
+    "balance": 275590
+  },
+  "teams": [
+    {
+      "id": 308939,
+      "name": "Águia de Marabá",
+      "slug": "aguia-de-maraba",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2500,
+        "national": 2500,
+        "world": 2500
+      }
+    },
+    {
+      "id": 95500009,
+      "name": "Águia de Marabá",
+      "slug": "aguia-de-maraba-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 750,
+        "national": 750,
+        "world": 750
+      }
+    },
+    {
+      "id": 95500010,
+      "name": "Águia de Marabá",
+      "slug": "aguia-de-maraba-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 500,
+        "national": 500,
+        "world": 500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0033a0",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1500
+}

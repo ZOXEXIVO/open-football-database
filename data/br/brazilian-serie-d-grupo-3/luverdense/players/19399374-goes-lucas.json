@@ -1,0 +1,29 @@
+{
+  "id": 19399374,
+  "first_name": "Lucas",
+  "last_name": "Góes",
+  "birth_date": "2000-03-19",
+  "country_id": 1651,
+  "club_id": 8832317,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 93,
+  "history": [
+    { "s": 2021, "c": 301310, "p": 3 },
+    { "s": 2022, "c": 301310, "p": 0 },
+    { "s": 2024, "c": 313259, "p": 13, "g": 3 }
+  ]
+}

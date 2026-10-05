@@ -1,0 +1,29 @@
+{
+  "id": 2000333107,
+  "first_name": "João",
+  "last_name": "Vitor",
+  "birth_date": "2002-07-25",
+  "country_id": 1651,
+  "club_id": 333,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 108,
+  "contract": {
+    "expiration": "2027-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 301157, "p": 2 },
+    { "s": 2025, "c": 900678, "p": 21 }
+  ]
+}

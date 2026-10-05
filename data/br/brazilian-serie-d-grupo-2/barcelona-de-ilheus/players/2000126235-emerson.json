@@ -1,0 +1,29 @@
+{
+  "id": 2000126235,
+  "first_name": "Emerson",
+  "last_name": "",
+  "birth_date": "1998-05-28",
+  "country_id": 1651,
+  "club_id": 2000053639,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 96,
+  "history": [
+    { "s": 2021, "c": 301113, "p": 12, "g": 5 },
+    { "s": 2022, "c": 301113, "p": 11 },
+    { "s": 2025, "c": 313305, "p": 11 }
+  ]
+}

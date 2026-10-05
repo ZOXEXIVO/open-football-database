@@ -1,0 +1,57 @@
+{
+  "id": 301169,
+  "name": "Imperatriz",
+  "location": {
+    "city_id": 5691
+  },
+  "finance": {
+    "balance": 254000
+  },
+  "teams": [
+    {
+      "id": 301169,
+      "name": "Imperatriz",
+      "slug": "imperatriz",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2000,
+        "national": 2000,
+        "world": 2000
+      }
+    },
+    {
+      "id": 95500019,
+      "name": "Imperatriz",
+      "slug": "imperatriz-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    },
+    {
+      "id": 95500020,
+      "name": "Imperatriz",
+      "slug": "imperatriz-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#c8102e",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2000
+}

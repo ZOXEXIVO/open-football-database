@@ -1,0 +1,57 @@
+{
+  "id": 318915,
+  "name": "Cuiabá",
+  "location": {
+    "city_id": 5659
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 318915,
+      "name": "Cuiabá",
+      "slug": "cuiaba",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6000,
+        "national": 6000,
+        "world": 6000
+      }
+    },
+    {
+      "id": 90400055,
+      "name": "Cuiabá",
+      "slug": "cuiaba-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1800,
+        "national": 1800,
+        "world": 1800
+      }
+    },
+    {
+      "id": 90400056,
+      "name": "Cuiabá",
+      "slug": "cuiaba-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd100",
+    "foreground": "#006b3f"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 5000
+}

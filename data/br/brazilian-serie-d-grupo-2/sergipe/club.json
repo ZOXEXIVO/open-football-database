@@ -1,0 +1,57 @@
+{
+  "id": 301321,
+  "name": "Sergipe",
+  "location": {
+    "city_id": 5706
+  },
+  "finance": {
+    "balance": 419100
+  },
+  "teams": [
+    {
+      "id": 301321,
+      "name": "Sergipe",
+      "slug": "sergipe",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3300,
+        "national": 3300,
+        "world": 3300
+      }
+    },
+    {
+      "id": 95600019,
+      "name": "Sergipe",
+      "slug": "sergipe-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 990,
+        "national": 990,
+        "world": 990
+      }
+    },
+    {
+      "id": 95600020,
+      "name": "Sergipe",
+      "slug": "sergipe-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    }
+  ],
+  "colors": {
+    "background": "#c8102e",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2500
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2000088968,
+  "first_name": "Kayan",
+  "last_name": "",
+  "birth_date": "2000-11-22",
+  "country_id": 1651,
+  "club_id": 301325,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 93,
+  "potential_ability": 125,
+  "history": [
+    { "s": 2021, "c": 302142, "p": 13, "g": 1 },
+    { "s": 2022, "c": 301352, "p": 8 },
+    { "s": 2023, "c": 301284, "p": 18 },
+    { "s": 2025, "c": 301284, "p": 12, "g": 2 }
+  ]
+}

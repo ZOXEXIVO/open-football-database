@@ -1,0 +1,32 @@
+{
+  "id": 19234325,
+  "first_name": "Danilo",
+  "last_name": "Cirqueira",
+  "birth_date": "1992-02-02",
+  "country_id": 1651,
+  "club_id": 313343,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 89,
+  "history": [
+    { "s": 2013, "c": 107232, "p": 0 },
+    { "s": 2013, "c": 314979, "p": 3 },
+    { "s": 2016, "c": 313259, "p": 8 },
+    { "s": 2021, "c": 310642, "p": 17 },
+    { "s": 2023, "c": 308939, "p": 11 },
+    { "s": 2025, "c": 301331, "p": 4 }
+  ]
+}

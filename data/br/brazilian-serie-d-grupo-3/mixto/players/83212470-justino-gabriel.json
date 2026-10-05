@@ -1,0 +1,29 @@
+{
+  "id": 83212470,
+  "first_name": "Gabriel",
+  "last_name": "Justino",
+  "birth_date": "1998-09-17",
+  "country_id": 1651,
+  "club_id": 309644,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 102,
+  "history": [
+    { "s": 2017, "c": 55056925, "p": 2 },
+    { "s": 2018, "c": 55056925, "p": 8, "g": 2 },
+    { "s": 2025, "c": 309644, "p": 16, "g": 3 }
+  ]
+}

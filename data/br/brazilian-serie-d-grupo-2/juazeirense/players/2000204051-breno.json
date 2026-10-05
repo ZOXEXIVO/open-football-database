@@ -1,0 +1,28 @@
+{
+  "id": 2000204051,
+  "first_name": "Breno",
+  "last_name": "",
+  "birth_date": "2002-01-04",
+  "country_id": 1651,
+  "club_id": 19079916,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": 85,
+  "history": [
+    { "s": 2022, "c": 19079916, "p": 1 },
+    { "s": 2022, "c": 84107055, "p": 14 }
+  ]
+}

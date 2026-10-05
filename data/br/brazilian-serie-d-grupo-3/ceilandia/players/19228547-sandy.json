@@ -1,0 +1,37 @@
+{
+  "id": 19228547,
+  "first_name": "Sandy",
+  "last_name": "",
+  "birth_date": "1994-06-09",
+  "country_id": 1651,
+  "club_id": 311000,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 85,
+  "history": [
+    { "s": 2017, "c": 313267, "p": 0 },
+    { "s": 2020, "c": 309670, "p": 5 },
+    { "s": 2021, "c": 309670, "p": 12, "g": 1 }
+  ]
+}

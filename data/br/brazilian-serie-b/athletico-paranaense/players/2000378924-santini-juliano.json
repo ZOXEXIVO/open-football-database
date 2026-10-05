@@ -1,0 +1,29 @@
+{
+  "id": 2000378924,
+  "first_name": "Juliano",
+  "last_name": "Santini",
+  "birth_date": "2007-02-23",
+  "country_id": 1651,
+  "club_id": 107206,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-06-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 47087482,
+  "first_name": "Victor",
+  "last_name": "Hugo",
+  "birth_date": "1993-01-19",
+  "country_id": 1651,
+  "club_id": 301142,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 75,
+  "history": [
+    { "s": 2018, "c": 47063489, "p": 13, "g": 6 },
+    { "s": 2018, "c": 47084798, "p": 11, "g": 5 },
+    { "s": 2019, "c": 47084798, "p": 12, "g": 2 },
+    { "s": 2021, "c": 59009348, "p": 13, "g": 3 }
+  ]
+}

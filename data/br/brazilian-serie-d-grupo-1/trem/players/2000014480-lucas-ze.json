@@ -1,0 +1,33 @@
+{
+  "id": 2000014480,
+  "first_name": "Zé",
+  "last_name": "Lucas",
+  "birth_date": "1999-07-25",
+  "country_id": 1651,
+  "club_id": 313350,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 69,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2017, "c": 313350, "p": 4 },
+    { "s": 2022, "c": 313350, "p": 4 },
+    { "s": 2025, "c": 313350, "p": 4 }
+  ]
+}

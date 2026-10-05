@@ -1,0 +1,57 @@
+{
+  "id": 107206,
+  "name": "Athletico Paranaense",
+  "location": {
+    "city_id": 5648
+  },
+  "finance": {
+    "balance": 3810000
+  },
+  "teams": [
+    {
+      "id": 107206,
+      "name": "Athletico Paranaense",
+      "slug": "athletico-paranaense",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6400,
+        "national": 6400,
+        "world": 6400
+      }
+    },
+    {
+      "id": 90400033,
+      "name": "Athletico Paranaense",
+      "slug": "athletico-paranaense-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1920,
+        "national": 1920,
+        "world": 1920
+      }
+    },
+    {
+      "id": 90400034,
+      "name": "Athletico Paranaense",
+      "slug": "athletico-paranaense-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1280,
+        "national": 1280,
+        "world": 1280
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e30613",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Superb",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 22000
+}

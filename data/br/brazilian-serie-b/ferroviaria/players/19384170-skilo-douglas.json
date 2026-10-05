@@ -1,0 +1,43 @@
+{
+  "id": 19384170,
+  "first_name": "Douglas",
+  "last_name": "Skilo",
+  "birth_date": "1994-11-13",
+  "country_id": 1651,
+  "club_id": 302144,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 97,
+  "contract": {
+    "expiration": "2026-10-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 301321, "p": 4 },
+    { "s": 2017, "c": 301202, "p": 12, "g": 1 },
+    { "s": 2018, "c": 319160, "p": 12, "g": 3 },
+    { "s": 2020, "c": 301251, "p": 14, "g": 3 },
+    { "s": 2022, "c": 301251, "p": 17, "g": 4 },
+    { "s": 2023, "c": 107240, "p": 23, "g": 6 },
+    { "s": 2024, "c": 107240, "p": 23, "g": 2 },
+    { "s": 2025, "c": 301266, "p": 22, "g": 1 }
+  ]
+}

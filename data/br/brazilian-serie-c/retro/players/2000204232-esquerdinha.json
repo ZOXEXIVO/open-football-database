@@ -1,0 +1,25 @@
+{
+  "id": 2000204232,
+  "first_name": "Esquerdinha",
+  "last_name": "",
+  "birth_date": "2003-04-08",
+  "country_id": 1651,
+  "club_id": 19382040,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 77,
+  "potential_ability": 112,
+  "history": [
+    { "s": 2024, "c": 19382040, "p": 3 },
+    { "s": 2025, "c": 301212, "p": 1 },
+    { "s": 2025, "c": 19382040, "p": 3 }
+  ]
+}

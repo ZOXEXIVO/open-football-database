@@ -1,0 +1,57 @@
+{
+  "id": 311000,
+  "name": "Ceilândia",
+  "location": {
+    "city_id": 5713
+  },
+  "finance": {
+    "balance": 275590
+  },
+  "teams": [
+    {
+      "id": 311000,
+      "name": "Ceilândia",
+      "slug": "ceilandia",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2600,
+        "national": 2600,
+        "world": 2600
+      }
+    },
+    {
+      "id": 95700003,
+      "name": "Ceilândia",
+      "slug": "ceilandia-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 780,
+        "national": 780,
+        "world": 780
+      }
+    },
+    {
+      "id": 95700004,
+      "name": "Ceilândia",
+      "slug": "ceilandia-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 520,
+        "national": 520,
+        "world": 520
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1500
+}

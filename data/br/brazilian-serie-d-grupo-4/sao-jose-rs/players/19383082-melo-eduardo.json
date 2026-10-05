@@ -1,0 +1,30 @@
+{
+  "id": 19383082,
+  "first_name": "Eduardo",
+  "last_name": "Melo",
+  "birth_date": "1994-05-13",
+  "country_id": 1651,
+  "club_id": 301284,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 90,
+  "history": [
+    { "s": 2017, "c": 19023857, "p": 6 },
+    { "s": 2018, "c": 309771, "p": 3 },
+    { "s": 2020, "c": 301310, "p": 4 },
+    { "s": 2021, "c": 104979, "p": 3 }
+  ]
+}

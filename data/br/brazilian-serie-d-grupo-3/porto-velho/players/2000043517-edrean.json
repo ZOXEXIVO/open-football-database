@@ -1,0 +1,32 @@
+{
+  "id": 2000043517,
+  "first_name": "Edrean",
+  "last_name": "",
+  "birth_date": "1996-05-02",
+  "country_id": 1651,
+  "club_id": 19366445,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 87,
+  "potential_ability": 106,
+  "history": [
+    { "s": 2020, "c": 301172, "p": 10, "g": 2 },
+    { "s": 2020, "c": 900678, "p": 2 },
+    { "s": 2023, "c": 107234, "p": 8, "g": 1 },
+    { "s": 2024, "c": 107230, "p": 3 },
+    { "s": 2024, "c": 301245, "p": 7, "g": 1 },
+    { "s": 2025, "c": 19366445, "p": 7 }
+  ]
+}

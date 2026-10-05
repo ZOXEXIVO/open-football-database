@@ -1,0 +1,57 @@
+{
+  "id": 301331,
+  "name": "Tocantinópolis",
+  "location": {
+    "city_id": 5694
+  },
+  "finance": {
+    "balance": 275590
+  },
+  "teams": [
+    {
+      "id": 301331,
+      "name": "Tocantinópolis",
+      "slug": "tocantinopolis",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2200,
+        "national": 2200,
+        "world": 2200
+      }
+    },
+    {
+      "id": 95500025,
+      "name": "Tocantinópolis",
+      "slug": "tocantinopolis-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    },
+    {
+      "id": 95500026,
+      "name": "Tocantinópolis",
+      "slug": "tocantinopolis-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 440,
+        "national": 440,
+        "world": 440
+      }
+    }
+  ],
+  "colors": {
+    "background": "#006b3f",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 800
+}

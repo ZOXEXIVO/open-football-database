@@ -1,0 +1,35 @@
+{
+  "id": 2000063461,
+  "first_name": "Igor",
+  "last_name": "Silva",
+  "birth_date": "1996-04-05",
+  "country_id": 1651,
+  "club_id": 319160,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 93,
+  "potential_ability": 93,
+  "history": [
+    { "s": 2022, "c": 301264, "p": 3 },
+    { "s": 2024, "c": 309743, "p": 10, "g": 1 },
+    { "s": 2024, "c": 319160, "p": 4 },
+    { "s": 2025, "c": 142370, "p": 14, "g": 1 },
+    { "s": 2025, "c": 319160, "p": 4 }
+  ]
+}

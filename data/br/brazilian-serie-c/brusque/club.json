@@ -1,0 +1,57 @@
+{
+  "id": 301302,
+  "name": "Brusque",
+  "location": {
+    "city_id": 5672
+  },
+  "finance": {
+    "balance": 167640
+  },
+  "teams": [
+    {
+      "id": 301302,
+      "name": "Brusque",
+      "slug": "brusque",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 95400017,
+      "name": "Brusque",
+      "slug": "brusque-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1470,
+        "national": 1470,
+        "world": 1470
+      }
+    },
+    {
+      "id": 95400018,
+      "name": "Brusque",
+      "slug": "brusque-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 980,
+        "national": 980,
+        "world": 980
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd100",
+    "foreground": "#00843d"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2500
+}

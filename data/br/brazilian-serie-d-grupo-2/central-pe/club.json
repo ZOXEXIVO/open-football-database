@@ -1,0 +1,57 @@
+{
+  "id": 301230,
+  "name": "Central",
+  "location": {
+    "city_id": 5698
+  },
+  "finance": {
+    "balance": 317500
+  },
+  "teams": [
+    {
+      "id": 301230,
+      "name": "Central",
+      "slug": "central-pe",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2500,
+        "national": 2500,
+        "world": 2500
+      }
+    },
+    {
+      "id": 95600003,
+      "name": "Central",
+      "slug": "central-pe-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 750,
+        "national": 750,
+        "world": 750
+      }
+    },
+    {
+      "id": 95600004,
+      "name": "Central",
+      "slug": "central-pe-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 500,
+        "national": 500,
+        "world": 500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2500
+}

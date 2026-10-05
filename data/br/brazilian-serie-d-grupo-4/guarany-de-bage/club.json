@@ -1,0 +1,57 @@
+{
+  "id": 142370,
+  "name": "Guarany de Bagé",
+  "location": {
+    "city_id": 5741
+  },
+  "finance": {
+    "balance": 355600
+  },
+  "teams": [
+    {
+      "id": 142370,
+      "name": "Guarany de Bagé",
+      "slug": "guarany-de-bage",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    },
+    {
+      "id": 95800027,
+      "name": "Guarany de Bagé",
+      "slug": "guarany-de-bage-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    },
+    {
+      "id": 95800028,
+      "name": "Guarany de Bagé",
+      "slug": "guarany-de-bage-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 560,
+        "national": 560,
+        "world": 560
+      }
+    }
+  ],
+  "colors": {
+    "background": "#c8102e",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1500
+}

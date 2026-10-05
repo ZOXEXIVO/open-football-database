@@ -1,0 +1,29 @@
+{
+  "id": 2000043397,
+  "first_name": "Gabriel",
+  "last_name": "Chagas",
+  "birth_date": "2001-03-22",
+  "country_id": 1651,
+  "club_id": 314600,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 79,
+  "potential_ability": 91,
+  "history": [
+    { "s": 2023, "c": 2463, "p": 21, "g": 3 },
+    { "s": 2023, "c": 301357, "p": 0 },
+    { "s": 2025, "c": 301310, "p": 5 }
+  ]
+}

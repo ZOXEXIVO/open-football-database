@@ -1,0 +1,29 @@
+{
+  "id": 2000263530,
+  "first_name": "Tutu",
+  "last_name": "",
+  "birth_date": "2006-02-08",
+  "country_id": 1651,
+  "club_id": 19144990,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2027-10-03",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

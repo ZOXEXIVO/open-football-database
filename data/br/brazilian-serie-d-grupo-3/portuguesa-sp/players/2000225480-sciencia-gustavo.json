@@ -1,0 +1,33 @@
+{
+  "id": 2000225480,
+  "first_name": "Gustavo",
+  "last_name": "Sciencia",
+  "birth_date": "2004-01-01",
+  "country_id": 1651,
+  "club_id": 333,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 104749, "p": 0 },
+    { "s": 2025, "c": 333, "p": 6 }
+  ]
+}

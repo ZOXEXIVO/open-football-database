@@ -1,0 +1,41 @@
+{
+  "id": 19306011,
+  "first_name": "Emerson",
+  "last_name": "Barbosa",
+  "birth_date": "1998-08-18",
+  "country_id": 1651,
+  "club_id": 325,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 98,
+  "potential_ability": 116,
+  "contract": {
+    "expiration": "2028-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 335, "p": 1 },
+    { "s": 2019, "c": 313273, "p": 9 },
+    { "s": 2020, "c": 313273, "p": 12 },
+    { "s": 2021, "c": 301129, "p": 13 },
+    { "s": 2022, "c": 301129, "p": 17 },
+    { "s": 2022, "c": 318860, "p": 6 },
+    { "s": 2023, "c": 318860, "p": 8 },
+    { "s": 2024, "c": 325, "p": 10 },
+    { "s": 2024, "c": 318860, "p": 17, "g": 1 },
+    { "s": 2025, "c": 325, "p": 24, "g": 2 }
+  ]
+}

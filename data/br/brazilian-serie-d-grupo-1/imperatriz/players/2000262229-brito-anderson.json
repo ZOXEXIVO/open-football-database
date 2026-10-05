@@ -1,0 +1,29 @@
+{
+  "id": 2000262229,
+  "first_name": "Anderson",
+  "last_name": "Brito",
+  "birth_date": "2001-11-27",
+  "country_id": 1651,
+  "club_id": 301169,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 98,
+  "history": [
+    { "s": 2024, "c": 19300082, "p": 11, "g": 3 },
+    { "s": 2025, "c": 104874, "p": 10, "g": 3 },
+    { "s": 2025, "c": 135356, "p": 3 }
+  ]
+}

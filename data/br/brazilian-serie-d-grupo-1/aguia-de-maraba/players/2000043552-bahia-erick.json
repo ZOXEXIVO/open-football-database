@@ -1,0 +1,30 @@
+{
+  "id": 2000043552,
+  "first_name": "Erick",
+  "last_name": "Bahia",
+  "birth_date": "1995-01-12",
+  "country_id": 1651,
+  "club_id": 308939,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": 94,
+  "history": [
+    { "s": 2014, "c": 19020572, "p": 4 },
+    { "s": 2019, "c": 19295431, "p": 7, "g": 1 },
+    { "s": 2020, "c": 301247, "p": 12, "g": 1 },
+    { "s": 2022, "c": 301148, "p": 13, "g": 3 }
+  ]
+}

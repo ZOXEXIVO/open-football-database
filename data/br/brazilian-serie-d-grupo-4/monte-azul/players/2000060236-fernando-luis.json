@@ -1,0 +1,32 @@
+{
+  "id": 2000060236,
+  "first_name": "Luís",
+  "last_name": "Fernando",
+  "birth_date": "2000-12-27",
+  "country_id": 1651,
+  "club_id": 318903,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": 87,
+  "contract": {
+    "expiration": "2026-04-05",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 19145268, "p": 3 }
+  ]
+}

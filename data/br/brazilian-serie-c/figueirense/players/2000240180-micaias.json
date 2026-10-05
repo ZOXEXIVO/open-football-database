@@ -1,0 +1,32 @@
+{
+  "id": 2000240180,
+  "first_name": "Micaías",
+  "last_name": "",
+  "birth_date": "2003-06-24",
+  "country_id": 1651,
+  "club_id": 301306,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 95,
+  "history": [
+    { "s": 2024, "c": 301306, "p": 0 },
+    { "s": 2025, "c": 19112334, "p": 6 }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2000098426,
+  "first_name": "Petterson",
+  "last_name": "",
+  "birth_date": "2004-01-04",
+  "country_id": 1651,
+  "club_id": 301302,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 117,
+  "history": [
+    { "s": 2022, "c": 322, "p": 2 },
+    { "s": 2024, "c": 2000030636, "p": 3 },
+    { "s": 2025, "c": 327, "p": 2 },
+    { "s": 2025, "c": 331, "p": 10, "g": 1 }
+  ]
+}

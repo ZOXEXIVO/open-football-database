@@ -1,0 +1,30 @@
+{
+  "id": 19392772,
+  "first_name": "Felipinho",
+  "last_name": "",
+  "birth_date": "2002-07-18",
+  "country_id": 1651,
+  "club_id": 318860,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 103,
+  "potential_ability": 128,
+  "history": [
+    { "s": 2022, "c": 107208, "p": 2 },
+    { "s": 2023, "c": 107208, "p": 24, "g": 2 },
+    { "s": 2024, "c": 121265, "p": 5 },
+    { "s": 2024, "c": 318860, "p": 13, "g": 2 }
+  ]
+}

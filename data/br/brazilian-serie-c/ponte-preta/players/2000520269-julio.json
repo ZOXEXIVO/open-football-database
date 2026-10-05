@@ -1,0 +1,29 @@
+{
+  "id": 2000520269,
+  "first_name": "Júlio",
+  "last_name": "",
+  "birth_date": "2007-06-25",
+  "country_id": 1651,
+  "club_id": 332,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2026-07-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

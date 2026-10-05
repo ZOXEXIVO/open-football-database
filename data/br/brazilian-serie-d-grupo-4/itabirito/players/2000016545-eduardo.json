@@ -1,0 +1,44 @@
+{
+  "id": 2000016545,
+  "first_name": "Eduardo",
+  "last_name": "",
+  "birth_date": "2001-01-10",
+  "country_id": 1651,
+  "club_id": 2000193910,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 96,
+  "contract": {
+    "expiration": "2026-03-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 2438, "p": 0 },
+    { "s": 2020, "c": 301151, "p": 0 },
+    { "s": 2021, "c": 2438, "p": 0 },
+    { "s": 2022, "c": 2395, "p": 2 },
+    { "s": 2022, "c": 2438, "p": 0 },
+    { "s": 2022, "c": 96136752, "p": 7, "g": 4 },
+    { "s": 2023, "c": 2463, "p": 1 },
+    { "s": 2023, "c": 2000053380, "p": 1 },
+    { "s": 2024, "c": 83111318, "p": 22 }
+  ]
+}

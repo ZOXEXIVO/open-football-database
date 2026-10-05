@@ -1,0 +1,57 @@
+{
+  "id": 19043091,
+  "name": "Maracanã",
+  "location": {
+    "city_id": 5696
+  },
+  "finance": {
+    "balance": 266700
+  },
+  "teams": [
+    {
+      "id": 19043091,
+      "name": "Maracanã",
+      "slug": "maracana-ce",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2100,
+        "national": 2100,
+        "world": 2100
+      }
+    },
+    {
+      "id": 95500029,
+      "name": "Maracanã",
+      "slug": "maracana-ce-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 630,
+        "national": 630,
+        "world": 630
+      }
+    },
+    {
+      "id": 95500030,
+      "name": "Maracanã",
+      "slug": "maracana-ce-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 420,
+        "national": 420,
+        "world": 420
+      }
+    }
+  ],
+  "colors": {
+    "background": "#41b6e6",
+    "foreground": "#002855"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 800
+}

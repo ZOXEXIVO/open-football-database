@@ -1,0 +1,27 @@
+{
+  "id": 2000262884,
+  "first_name": "Flávio",
+  "last_name": "Nunes",
+  "birth_date": "1999-08-20",
+  "country_id": 1651,
+  "club_id": 301100,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 95,
+  "history": [
+    { "s": 2021, "c": 301206, "p": 5 },
+    { "s": 2022, "c": 19222407, "p": 14, "g": 1 },
+    { "s": 2023, "c": 309641, "p": 17 },
+    { "s": 2025, "c": 301100, "p": 4 },
+    { "s": 2025, "c": 19277538, "p": 3 }
+  ]
+}

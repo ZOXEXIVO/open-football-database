@@ -1,0 +1,57 @@
+{
+  "id": 2106553,
+  "name": "São Bernardo",
+  "location": {
+    "city_id": 5676
+  },
+  "finance": {
+    "balance": 792480
+  },
+  "teams": [
+    {
+      "id": 2106553,
+      "name": "São Bernardo",
+      "slug": "sao-bernardo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 95400025,
+      "name": "São Bernardo",
+      "slug": "sao-bernardo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 95400026,
+      "name": "São Bernardo",
+      "slug": "sao-bernardo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd100",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2500
+}

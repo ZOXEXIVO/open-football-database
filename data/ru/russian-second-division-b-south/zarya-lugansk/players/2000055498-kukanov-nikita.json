@@ -1,0 +1,29 @@
+{
+  "id": 2000055498,
+  "first_name": "Nikita",
+  "last_name": "Kukanov",
+  "birth_date": "2002-09-08",
+  "country_id": 791,
+  "club_id": 2000453108,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "current_ability": 61,
+  "potential_ability": 80,
+  "history": [
+    { "s": 2020, "c": 71017851, "p": 6 },
+    { "s": 2021, "c": 71017851, "p": 1 },
+    { "s": 2024, "c": 2000255430, "p": 29, "g": 4 }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000268590,
+  "first_name": "Talles",
+  "last_name": "",
+  "birth_date": "1997-11-08",
+  "country_id": 1651,
+  "club_id": 142370,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 87,
+  "history": [
+    { "s": 2018, "c": 319115, "p": 2 },
+    { "s": 2021, "c": 301325, "p": 9, "g": 1 },
+    { "s": 2022, "c": 19222407, "p": 11 },
+    { "s": 2023, "c": 313293, "p": 11 },
+    { "s": 2024, "c": 313251, "p": 13, "g": 1 },
+    { "s": 2025, "c": 142370, "p": 12, "g": 1 }
+  ]
+}

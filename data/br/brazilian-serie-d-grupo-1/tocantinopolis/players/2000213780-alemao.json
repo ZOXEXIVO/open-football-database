@@ -1,0 +1,36 @@
+{
+  "id": 2000213780,
+  "first_name": "Alemão",
+  "last_name": "",
+  "birth_date": "2001-01-26",
+  "country_id": 1651,
+  "club_id": 301331,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 105,
+  "history": [
+    { "s": 2020, "c": 328, "p": 0 },
+    { "s": 2021, "c": 328, "p": 0 },
+    { "s": 2022, "c": 328, "p": 1 },
+    { "s": 2022, "c": 7880049, "p": 28 },
+    { "s": 2024, "c": 314594, "p": 7, "g": 1 },
+    { "s": 2025, "c": 2000434698, "p": 12 }
+  ]
+}

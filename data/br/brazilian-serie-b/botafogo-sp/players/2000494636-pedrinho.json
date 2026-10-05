@@ -1,0 +1,29 @@
+{
+  "id": 2000494636,
+  "first_name": "Pedrinho",
+  "last_name": "",
+  "birth_date": "2006-10-23",
+  "country_id": 1651,
+  "club_id": 121265,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 73,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

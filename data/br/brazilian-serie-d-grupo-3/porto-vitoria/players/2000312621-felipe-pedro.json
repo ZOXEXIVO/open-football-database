@@ -1,0 +1,26 @@
+{
+  "id": 2000312621,
+  "first_name": "Pedro",
+  "last_name": "Felipe",
+  "birth_date": "1994-11-23",
+  "country_id": 1651,
+  "club_id": 2000060543,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 90,
+  "history": [
+    { "s": 2016, "c": 301202, "p": 8 },
+    { "s": 2019, "c": 301151, "p": 4 },
+    { "s": 2023, "c": 313293, "p": 5, "g": 1 },
+    { "s": 2025, "c": 2000193910, "p": 5 }
+  ]
+}

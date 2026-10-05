@@ -1,0 +1,28 @@
+{
+  "id": 2000364774,
+  "first_name": "Pedro",
+  "last_name": "Balotelli",
+  "birth_date": "2005-01-15",
+  "country_id": 1651,
+  "club_id": 19144990,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-07-25",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 19144990, "p": 1 }
+  ]
+}

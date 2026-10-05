@@ -1,0 +1,32 @@
+{
+  "id": 2000217690,
+  "first_name": "Daniel",
+  "last_name": "Bolt",
+  "birth_date": "2005-09-05",
+  "country_id": 1651,
+  "club_id": 900678,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 79,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-01-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 900678, "p": 1 }
+  ]
+}

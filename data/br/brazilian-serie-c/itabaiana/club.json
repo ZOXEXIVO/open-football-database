@@ -1,0 +1,57 @@
+{
+  "id": 301325,
+  "name": "Itabaiana",
+  "location": {
+    "city_id": 5678
+  },
+  "finance": {
+    "balance": 932180
+  },
+  "teams": [
+    {
+      "id": 301325,
+      "name": "Itabaiana",
+      "slug": "itabaiana",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3900,
+        "national": 3900,
+        "world": 3900
+      }
+    },
+    {
+      "id": 95400029,
+      "name": "Itabaiana",
+      "slug": "itabaiana-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1170,
+        "national": 1170,
+        "world": 1170
+      }
+    },
+    {
+      "id": 95400030,
+      "name": "Itabaiana",
+      "slug": "itabaiana-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 780,
+        "national": 780,
+        "world": 780
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0033a0",
+    "foreground": "#d50000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 4000
+}

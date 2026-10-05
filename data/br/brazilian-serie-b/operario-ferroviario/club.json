@@ -1,0 +1,57 @@
+{
+  "id": 311086,
+  "name": "Operário Ferroviário",
+  "location": {
+    "city_id": 5658
+  },
+  "finance": {
+    "balance": 939800
+  },
+  "teams": [
+    {
+      "id": 311086,
+      "name": "Operário Ferroviário",
+      "slug": "operario-ferroviario",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 90400053,
+      "name": "Operário Ferroviário",
+      "slug": "operario-ferroviario-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 90400054,
+      "name": "Operário Ferroviário",
+      "slug": "operario-ferroviario-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 7000
+}

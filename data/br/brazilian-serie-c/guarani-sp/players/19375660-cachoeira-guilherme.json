@@ -1,0 +1,42 @@
+{
+  "id": 19375660,
+  "first_name": "Guilherme",
+  "last_name": "Cachoeira",
+  "birth_date": "2002-04-25",
+  "country_id": 1651,
+  "club_id": 325,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 99,
+  "potential_ability": 121,
+  "contract": {
+    "expiration": "2027-04-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 337, "p": 0 },
+    { "s": 2020, "c": 337, "p": 0 },
+    { "s": 2021, "c": 337, "p": 0 },
+    { "s": 2024, "c": 334, "p": 8 },
+    { "s": 2024, "c": 104750, "p": 0 },
+    { "s": 2025, "c": 107210, "p": 19, "g": 1 },
+    { "s": 2025, "c": 19342677, "p": 10 }
+  ]
+}

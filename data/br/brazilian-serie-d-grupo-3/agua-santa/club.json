@@ -1,0 +1,57 @@
+{
+  "id": 19200887,
+  "name": "Água Santa",
+  "location": {
+    "city_id": 5722
+  },
+  "finance": {
+    "balance": 419100
+  },
+  "teams": [
+    {
+      "id": 19200887,
+      "name": "Água Santa",
+      "slug": "agua-santa",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3300,
+        "national": 3300,
+        "world": 3300
+      }
+    },
+    {
+      "id": 95700021,
+      "name": "Água Santa",
+      "slug": "agua-santa-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 990,
+        "national": 990,
+        "world": 990
+      }
+    },
+    {
+      "id": 95700022,
+      "name": "Água Santa",
+      "slug": "agua-santa-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#0033a0"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 800
+}

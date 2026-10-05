@@ -1,0 +1,29 @@
+{
+  "id": 2000285813,
+  "first_name": "Jorge",
+  "last_name": "Rocha",
+  "birth_date": "1997-12-09",
+  "country_id": 1651,
+  "club_id": 301171,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": 85,
+  "history": [
+    { "s": 2023, "c": 301171, "p": 18, "g": 1 },
+    { "s": 2024, "c": 301172, "p": 8 },
+    { "s": 2025, "c": 301171, "p": 16, "g": 1 }
+  ]
+}

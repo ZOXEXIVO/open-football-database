@@ -1,0 +1,29 @@
+{
+  "id": 2000523876,
+  "first_name": "Vitinho",
+  "last_name": "",
+  "birth_date": "2008-03-29",
+  "country_id": 1651,
+  "club_id": 332,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2028-04-06",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

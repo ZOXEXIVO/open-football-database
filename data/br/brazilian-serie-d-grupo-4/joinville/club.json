@@ -1,0 +1,57 @@
+{
+  "id": 301310,
+  "name": "Joinville",
+  "location": {
+    "city_id": 5730
+  },
+  "finance": {
+    "balance": 355600
+  },
+  "teams": [
+    {
+      "id": 301310,
+      "name": "Joinville",
+      "slug": "joinville",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    },
+    {
+      "id": 95800005,
+      "name": "Joinville",
+      "slug": "joinville-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    },
+    {
+      "id": 95800006,
+      "name": "Joinville",
+      "slug": "joinville-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 560,
+        "national": 560,
+        "world": 560
+      }
+    }
+  ],
+  "colors": {
+    "background": "#c8102e",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 5000
+}

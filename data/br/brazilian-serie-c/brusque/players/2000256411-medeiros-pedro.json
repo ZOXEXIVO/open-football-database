@@ -1,0 +1,31 @@
+{
+  "id": 2000256411,
+  "first_name": "Pedro",
+  "last_name": "Medeiros",
+  "birth_date": "2002-03-13",
+  "country_id": 1651,
+  "club_id": 301302,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 94,
+  "history": [
+    { "s": 2024, "c": 19076257, "p": 7 }
+  ]
+}

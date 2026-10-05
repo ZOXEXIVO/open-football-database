@@ -1,0 +1,36 @@
+{
+  "id": 19360873,
+  "first_name": "Pablo",
+  "last_name": "Thomaz",
+  "birth_date": "1999-09-07",
+  "country_id": 1651,
+  "club_id": 19344101,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 107,
+  "potential_ability": 118,
+  "contract": {
+    "expiration": "2027-10-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 104776, "p": 0 },
+    { "s": 2018, "c": 104776, "p": 5 },
+    { "s": 2019, "c": 104776, "p": 0 },
+    { "s": 2020, "c": 104776, "p": 13 },
+    { "s": 2022, "c": 330, "p": 8 },
+    { "s": 2023, "c": 325, "p": 13, "g": 1 },
+    { "s": 2023, "c": 313902, "p": 13, "g": 12 },
+    { "s": 2025, "c": 121265, "p": 6 },
+    { "s": 2025, "c": 19344101, "p": 3, "g": 2 }
+  ]
+}

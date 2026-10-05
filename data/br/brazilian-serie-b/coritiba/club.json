@@ -1,0 +1,57 @@
+{
+  "id": 104776,
+  "name": "Coritiba",
+  "location": {
+    "city_id": 5650
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 104776,
+      "name": "Coritiba",
+      "slug": "coritiba",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5900,
+        "national": 5900,
+        "world": 5900
+      }
+    },
+    {
+      "id": 90400037,
+      "name": "Coritiba",
+      "slug": "coritiba-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1770,
+        "national": 1770,
+        "world": 1770
+      }
+    },
+    {
+      "id": 90400038,
+      "name": "Coritiba",
+      "slug": "coritiba-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1180,
+        "national": 1180,
+        "world": 1180
+      }
+    }
+  ],
+  "colors": {
+    "background": "#00563f",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 20000
+}

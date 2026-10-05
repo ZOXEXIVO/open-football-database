@@ -1,0 +1,32 @@
+{
+  "id": 19272403,
+  "first_name": "Lucas",
+  "last_name": "Pereira",
+  "birth_date": "1998-06-21",
+  "country_id": 1651,
+  "club_id": 19144990,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 97,
+  "potential_ability": 120,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 301151, "p": 0 },
+    { "s": 2019, "c": 301151, "p": 0 },
+    { "s": 2020, "c": 19144990, "p": 1 },
+    { "s": 2021, "c": 19144990, "p": 3 },
+    { "s": 2022, "c": 19144990, "p": 4 }
+  ]
+}

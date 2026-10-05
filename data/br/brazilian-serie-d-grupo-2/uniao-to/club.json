@@ -1,0 +1,57 @@
+{
+  "id": 313343,
+  "name": "União",
+  "location": {
+    "city_id": 5708
+  },
+  "finance": {
+    "balance": 275590
+  },
+  "teams": [
+    {
+      "id": 313343,
+      "name": "União",
+      "slug": "uniao-to",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1300,
+        "national": 1300,
+        "world": 1300
+      }
+    },
+    {
+      "id": 95600023,
+      "name": "União",
+      "slug": "uniao-to-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 390,
+        "national": 390,
+        "world": 390
+      }
+    },
+    {
+      "id": 95600024,
+      "name": "União",
+      "slug": "uniao-to-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 260,
+        "national": 260,
+        "world": 260
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0033a0",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Limited",
+    "academy": "Fairly Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 500
+}

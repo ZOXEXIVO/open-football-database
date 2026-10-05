@@ -1,0 +1,29 @@
+{
+  "id": 83304189,
+  "first_name": "Erick",
+  "last_name": "Rocha",
+  "birth_date": "1999-01-08",
+  "country_id": 1651,
+  "club_id": 2000060543,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": 100,
+  "history": [
+    { "s": 2019, "c": 2384, "p": 9, "g": 1 },
+    { "s": 2019, "c": 2401, "p": 4, "g": 1 },
+    { "s": 2025, "c": 2000060543, "p": 1 }
+  ]
+}

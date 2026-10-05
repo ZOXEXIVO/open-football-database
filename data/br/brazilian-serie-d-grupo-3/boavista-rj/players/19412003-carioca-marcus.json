@@ -1,0 +1,36 @@
+{
+  "id": 19412003,
+  "first_name": "Marcus",
+  "last_name": "Carioca",
+  "birth_date": "1994-01-07",
+  "country_id": 1651,
+  "club_id": 309137,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 92,
+  "potential_ability": 103,
+  "contract": {
+    "expiration": "2026-03-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 309638, "p": 2 },
+    { "s": 2019, "c": 313279, "p": 0 },
+    { "s": 2020, "c": 19140720, "p": 5 },
+    { "s": 2023, "c": 107232, "p": 11 },
+    { "s": 2024, "c": 19200887, "p": 7 }
+  ]
+}

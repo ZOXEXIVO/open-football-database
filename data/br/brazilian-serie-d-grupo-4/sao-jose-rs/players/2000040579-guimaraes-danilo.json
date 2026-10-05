@@ -1,0 +1,30 @@
+{
+  "id": 2000040579,
+  "first_name": "Danilo",
+  "last_name": "Guimarães",
+  "birth_date": "1997-08-19",
+  "country_id": 1651,
+  "club_id": 301284,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 101,
+  "history": [
+    { "s": 2020, "c": 107230, "p": 0 },
+    { "s": 2022, "c": 301314, "p": 11 },
+    { "s": 2024, "c": 301264, "p": 13 },
+    { "s": 2025, "c": 19392509, "p": 13 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 301286,
+  "name": "São Luiz",
+  "location": {
+    "city_id": 5738
+  },
+  "finance": {
+    "balance": 275590
+  },
+  "teams": [
+    {
+      "id": 301286,
+      "name": "São Luiz",
+      "slug": "sao-luiz",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    },
+    {
+      "id": 95800021,
+      "name": "São Luiz",
+      "slug": "sao-luiz-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    },
+    {
+      "id": 95800022,
+      "name": "São Luiz",
+      "slug": "sao-luiz-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 560,
+        "national": 560,
+        "world": 560
+      }
+    }
+  ],
+  "colors": {
+    "background": "#c8102e",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1500
+}

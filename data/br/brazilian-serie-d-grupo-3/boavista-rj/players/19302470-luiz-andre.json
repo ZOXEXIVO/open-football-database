@@ -1,0 +1,26 @@
+{
+  "id": 19302470,
+  "first_name": "André",
+  "last_name": "Luiz",
+  "birth_date": "2000-03-13",
+  "country_id": 1651,
+  "club_id": 309137,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 95,
+  "potential_ability": 122,
+  "contract": {
+    "expiration": "2026-04-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 104749, "p": 0 },
+    { "s": 2023, "c": 104749, "p": 6 },
+    { "s": 2025, "c": 309137, "p": 9 }
+  ]
+}

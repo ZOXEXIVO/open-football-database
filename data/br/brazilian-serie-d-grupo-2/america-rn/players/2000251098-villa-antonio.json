@@ -1,0 +1,28 @@
+{
+  "id": 2000251098,
+  "first_name": "Antônio",
+  "last_name": "Villa",
+  "birth_date": "2002-07-22",
+  "country_id": 1651,
+  "club_id": 107203,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 91,
+  "potential_ability": -65,
+  "history": [
+    { "s": 2024, "c": 107203, "p": 9 },
+    { "s": 2025, "c": 107203, "p": 9 }
+  ]
+}

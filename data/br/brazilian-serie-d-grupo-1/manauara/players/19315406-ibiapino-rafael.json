@@ -1,0 +1,36 @@
+{
+  "id": 19315406,
+  "first_name": "Rafael",
+  "last_name": "Ibiapino",
+  "birth_date": "1992-05-04",
+  "country_id": 1651,
+  "club_id": 2000112366,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 97,
+  "potential_ability": 105,
+  "history": [
+    { "s": 2012, "c": 301210, "p": 2 },
+    { "s": 2019, "c": 301208, "p": 0 },
+    { "s": 2020, "c": 301210, "p": 13, "g": 1 },
+    { "s": 2022, "c": 19220160, "p": 11, "g": 2 },
+    { "s": 2024, "c": 19220160, "p": 16, "g": 6 },
+    { "s": 2025, "c": 2000112366, "p": 10, "g": 2 }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000463532,
+  "first_name": "Pedro",
+  "last_name": "Belém",
+  "birth_date": "2004-10-07",
+  "country_id": 1651,
+  "club_id": 19112334,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 113,
+  "history": [
+    { "s": 2025, "c": 301325, "p": 7 },
+    { "s": 2025, "c": 19112334, "p": 7 }
+  ]
+}

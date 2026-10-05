@@ -1,0 +1,32 @@
+{
+  "id": 2000026915,
+  "first_name": "Pedro",
+  "last_name": "Thomaz",
+  "birth_date": "2000-02-23",
+  "country_id": 1651,
+  "club_id": 311107,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 103,
+  "contract": {
+    "expiration": "2026-09-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 107240, "p": 4 },
+    { "s": 2021, "c": 107240, "p": 1 },
+    { "s": 2022, "c": 107240, "p": 5 },
+    { "s": 2023, "c": 301210, "p": 7 },
+    { "s": 2024, "c": 301148, "p": 13 }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2000178564,
+  "first_name": "Alexey",
+  "last_name": "Gusev",
+  "birth_date": "2004-05-17",
+  "country_id": 791,
+  "club_id": 2000453108,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 57,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2021, "c": 58058016, "p": 10 },
+    { "s": 2022, "c": 58145316, "p": 0 },
+    { "s": 2023, "c": 2000095019, "p": 15, "g": 1 },
+    { "s": 2024, "c": 2000095019, "p": 22 }
+  ]
+}

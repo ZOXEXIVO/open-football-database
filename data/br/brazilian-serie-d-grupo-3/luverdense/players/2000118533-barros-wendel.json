@@ -1,0 +1,30 @@
+{
+  "id": 2000118533,
+  "first_name": "Wendel",
+  "last_name": "Barros",
+  "birth_date": "2000-09-17",
+  "country_id": 1651,
+  "club_id": 8832317,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": 96,
+  "history": [
+    { "s": 2020, "c": 301245, "p": 12 },
+    { "s": 2021, "c": 301210, "p": 5, "g": 1 },
+    { "s": 2024, "c": 1242, "p": 9 },
+    { "s": 2025, "c": 301157, "p": 2 }
+  ]
+}

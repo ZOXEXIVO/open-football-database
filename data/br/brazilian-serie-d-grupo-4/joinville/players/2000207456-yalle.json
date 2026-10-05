@@ -1,0 +1,28 @@
+{
+  "id": 2000207456,
+  "first_name": "Yalle",
+  "last_name": "",
+  "birth_date": "2003-01-15",
+  "country_id": 1651,
+  "club_id": 301310,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": 101,
+  "history": [
+    { "s": 2023, "c": 335, "p": 0 },
+    { "s": 2025, "c": 301310, "p": 10 }
+  ]
+}

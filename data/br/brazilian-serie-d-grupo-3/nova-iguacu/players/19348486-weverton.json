@@ -1,0 +1,41 @@
+{
+  "id": 19348486,
+  "first_name": "Weverton",
+  "last_name": "",
+  "birth_date": "2002-06-29",
+  "country_id": 1651,
+  "club_id": 311107,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 74,
+  "potential_ability": 120,
+  "contract": {
+    "expiration": "2026-09-20",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2393, "p": 0 },
+    { "s": 2022, "c": 322, "p": 0 },
+    { "s": 2022, "c": 2000015603, "p": 4 },
+    { "s": 2023, "c": 2000015603, "p": 15 },
+    { "s": 2024, "c": 1188, "p": 0 },
+    { "s": 2025, "c": 788933, "p": 4 }
+  ]
+}

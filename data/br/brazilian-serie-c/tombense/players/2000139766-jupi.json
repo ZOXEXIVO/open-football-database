@@ -1,0 +1,32 @@
+{
+  "id": 2000139766,
+  "first_name": "Jupi",
+  "last_name": "",
+  "birth_date": "2003-09-10",
+  "country_id": 1651,
+  "club_id": 318860,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2024, "c": 301325, "p": 13, "g": 3 },
+    { "s": 2025, "c": 318860, "p": 5, "g": 1 }
+  ]
+}

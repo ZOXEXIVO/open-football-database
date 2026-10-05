@@ -1,0 +1,32 @@
+{
+  "id": 2000253767,
+  "first_name": "Jadson",
+  "last_name": "",
+  "birth_date": "2005-08-10",
+  "country_id": 1651,
+  "club_id": 318915,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -65,
+  "history": [
+    { "s": 2024, "c": 318915, "p": 7 },
+    { "s": 2025, "c": 318915, "p": 18 }
+  ]
+}

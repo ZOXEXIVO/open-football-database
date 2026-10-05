@@ -1,0 +1,46 @@
+{
+  "id": 2000453108,
+  "name": "Zarya Lugansk",
+  "location": {
+    "city_id": 791
+  },
+  "finance": {
+    "balance": 500000
+  },
+  "teams": [
+    {
+      "id": 2000453108,
+      "name": "Zarya Lugansk",
+      "slug": "zarya-lugansk",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 2099453108,
+      "name": "Zarya Lugansk",
+      "slug": "zarya-lugansk-u19",
+      "team_type": "U19",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1500
+}

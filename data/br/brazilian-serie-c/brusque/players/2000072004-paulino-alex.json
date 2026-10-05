@@ -1,0 +1,28 @@
+{
+  "id": 2000072004,
+  "first_name": "Alex",
+  "last_name": "Paulino",
+  "birth_date": "2002-02-21",
+  "country_id": 1651,
+  "club_id": 301302,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 106,
+  "history": [
+    { "s": 2024, "c": 311869, "p": 6 },
+    { "s": 2025, "c": 301302, "p": 17 }
+  ]
+}

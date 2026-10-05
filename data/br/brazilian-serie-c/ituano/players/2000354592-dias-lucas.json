@@ -1,0 +1,28 @@
+{
+  "id": 2000354592,
+  "first_name": "Lucas",
+  "last_name": "Dias",
+  "birth_date": "2005-03-10",
+  "country_id": 1651,
+  "club_id": 107216,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 107216, "p": 3 }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2000215080,
+  "first_name": "João",
+  "last_name": "Tavares",
+  "birth_date": "2004-02-23",
+  "country_id": 1651,
+  "club_id": 900678,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 900678, "p": 13 }
+  ]
+}

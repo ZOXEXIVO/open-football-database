@@ -1,0 +1,28 @@
+{
+  "id": 2000437823,
+  "first_name": "Wendel",
+  "last_name": "",
+  "birth_date": "2005-05-11",
+  "country_id": 1651,
+  "club_id": 19344101,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": 95,
+  "contract": {
+    "expiration": "2026-11-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 19344101, "p": 3 }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 83277122,
+  "first_name": "Bruno",
+  "last_name": "Gabriel",
+  "birth_date": "1998-02-09",
+  "country_id": 1651,
+  "club_id": 104979,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 74,
+  "potential_ability": 90,
+  "contract": {
+    "expiration": "2026-10-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 84107171, "p": 12, "g": 1 },
+    { "s": 2019, "c": 55020409, "p": 6 },
+    { "s": 2019, "c": 84107128, "p": 4 },
+    { "s": 2024, "c": 301129, "p": 5 },
+    { "s": 2024, "c": 301264, "p": 6 },
+    { "s": 2025, "c": 104979, "p": 7 }
+  ]
+}

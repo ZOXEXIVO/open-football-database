@@ -1,0 +1,28 @@
+{
+  "id": 2000192546,
+  "first_name": "Saymon",
+  "last_name": "",
+  "birth_date": "2004-06-22",
+  "country_id": 1651,
+  "club_id": 19213392,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 87,
+  "potential_ability": 113,
+  "history": [
+    { "s": 2024, "c": 19213392, "p": 3 },
+    { "s": 2025, "c": 19213392, "p": 22, "g": 6 }
+  ]
+}

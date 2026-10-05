@@ -1,0 +1,28 @@
+{
+  "id": 2000333109,
+  "first_name": "David",
+  "last_name": "Cunha",
+  "birth_date": "1995-07-12",
+  "country_id": 1651,
+  "club_id": 142370,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 94,
+  "history": [
+    { "s": 2020, "c": 107238, "p": 1 },
+    { "s": 2025, "c": 142370, "p": 2 }
+  ]
+}

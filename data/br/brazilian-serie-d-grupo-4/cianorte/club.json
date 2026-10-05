@@ -1,0 +1,57 @@
+{
+  "id": 314600,
+  "name": "Cianorte",
+  "location": {
+    "city_id": 5732
+  },
+  "finance": {
+    "balance": 406400
+  },
+  "teams": [
+    {
+      "id": 314600,
+      "name": "Cianorte",
+      "slug": "cianorte",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3200,
+        "national": 3200,
+        "world": 3200
+      }
+    },
+    {
+      "id": 95800009,
+      "name": "Cianorte",
+      "slug": "cianorte-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    },
+    {
+      "id": 95800010,
+      "name": "Cianorte",
+      "slug": "cianorte-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 640,
+        "national": 640,
+        "world": 640
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0033a0",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1500
+}

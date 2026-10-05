@@ -1,0 +1,57 @@
+{
+  "id": 325,
+  "name": "Guarani",
+  "location": {
+    "city_id": 5665
+  },
+  "finance": {
+    "balance": 725170
+  },
+  "teams": [
+    {
+      "id": 325,
+      "name": "Guarani",
+      "slug": "guarani-sp",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5300,
+        "national": 5300,
+        "world": 5300
+      }
+    },
+    {
+      "id": 95400003,
+      "name": "Guarani",
+      "slug": "guarani-sp-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1590,
+        "national": 1590,
+        "world": 1590
+      }
+    },
+    {
+      "id": 95400004,
+      "name": "Guarani",
+      "slug": "guarani-sp-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1060,
+        "national": 1060,
+        "world": 1060
+      }
+    }
+  ],
+  "colors": {
+    "background": "#006b3f",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 9000
+}

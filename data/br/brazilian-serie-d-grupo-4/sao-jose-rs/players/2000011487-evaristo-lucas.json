@@ -1,0 +1,31 @@
+{
+  "id": 2000011487,
+  "first_name": "Lucas",
+  "last_name": "Evaristo",
+  "birth_date": "2001-04-04",
+  "country_id": 1651,
+  "club_id": 301284,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": 105,
+  "history": [
+    { "s": 2019, "c": 83216646, "p": 2 }
+  ]
+}

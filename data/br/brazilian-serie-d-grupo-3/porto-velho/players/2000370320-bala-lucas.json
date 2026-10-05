@@ -1,0 +1,28 @@
+{
+  "id": 2000370320,
+  "first_name": "Lucas",
+  "last_name": "Bala",
+  "birth_date": "1998-01-27",
+  "country_id": 1651,
+  "club_id": 19366445,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": 90,
+  "history": [
+    { "s": 2024, "c": 19366445, "p": 3 },
+    { "s": 2025, "c": 19366445, "p": 12 }
+  ]
+}

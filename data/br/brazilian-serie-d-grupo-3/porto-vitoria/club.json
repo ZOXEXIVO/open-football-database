@@ -1,0 +1,57 @@
+{
+  "id": 2000060543,
+  "name": "Porto Vitória",
+  "location": {
+    "city_id": 5725
+  },
+  "finance": {
+    "balance": 215900
+  },
+  "teams": [
+    {
+      "id": 2000060543,
+      "name": "Porto Vitória",
+      "slug": "porto-vitoria",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1700,
+        "national": 1700,
+        "world": 1700
+      }
+    },
+    {
+      "id": 95700027,
+      "name": "Porto Vitória",
+      "slug": "porto-vitoria-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 510,
+        "national": 510,
+        "world": 510
+      }
+    },
+    {
+      "id": 95700028,
+      "name": "Porto Vitória",
+      "slug": "porto-vitoria-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 340,
+        "national": 340,
+        "world": 340
+      }
+    }
+  ],
+  "colors": {
+    "background": "#00843d",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 500
+}

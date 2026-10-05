@@ -1,0 +1,57 @@
+{
+  "id": 301298,
+  "name": "GAS",
+  "location": {
+    "city_id": 5688
+  },
+  "finance": {
+    "balance": 320040
+  },
+  "teams": [
+    {
+      "id": 301298,
+      "name": "GAS",
+      "slug": "gas",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1300,
+        "national": 1300,
+        "world": 1300
+      }
+    },
+    {
+      "id": 95500013,
+      "name": "GAS",
+      "slug": "gas-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 390,
+        "national": 390,
+        "world": 390
+      }
+    },
+    {
+      "id": 95500014,
+      "name": "GAS",
+      "slug": "gas-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 260,
+        "national": 260,
+        "world": 260
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd100",
+    "foreground": "#0033a0"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Limited",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 500
+}

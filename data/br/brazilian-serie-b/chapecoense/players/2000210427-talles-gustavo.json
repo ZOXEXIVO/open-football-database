@@ -1,0 +1,33 @@
+{
+  "id": 2000210427,
+  "first_name": "Gustavo",
+  "last_name": "Talles",
+  "birth_date": "2003-07-14",
+  "country_id": 1651,
+  "club_id": 301304,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 112,
+  "contract": {
+    "expiration": "2026-04-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 107208, "p": 3 },
+    { "s": 2025, "c": 333, "p": 9 }
+  ]
+}

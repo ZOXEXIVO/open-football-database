@@ -1,0 +1,38 @@
+{
+  "id": 19084775,
+  "first_name": "Dinda",
+  "last_name": "",
+  "birth_date": "1989-04-03",
+  "country_id": 1651,
+  "club_id": 309361,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": 96,
+  "contract": {
+    "expiration": "2026-03-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2009, "c": 328, "p": 3 },
+    { "s": 2010, "c": 328, "p": 7 },
+    { "s": 2021, "c": 301100, "p": 1 }
+  ]
+}

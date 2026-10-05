@@ -1,0 +1,34 @@
+{
+  "id": 2000136474,
+  "first_name": "Cleyton",
+  "last_name": "",
+  "birth_date": "1997-11-20",
+  "country_id": 1651,
+  "club_id": 311000,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": 89,
+  "history": [
+    { "s": 2016, "c": 301171, "p": 2 },
+    { "s": 2020, "c": 19006291, "p": 14 },
+    { "s": 2021, "c": 19006291, "p": 11 },
+    { "s": 2025, "c": 19019881, "p": 13, "g": 1 }
+  ]
+}

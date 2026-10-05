@@ -1,0 +1,33 @@
+{
+  "id": 2000492573,
+  "first_name": "Kewen",
+  "last_name": "",
+  "birth_date": "2005-01-07",
+  "country_id": 1651,
+  "club_id": 325,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 87,
+  "potential_ability": 118,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

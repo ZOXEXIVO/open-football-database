@@ -1,0 +1,28 @@
+{
+  "id": 2000383851,
+  "first_name": "Valery",
+  "last_name": "Titarenko",
+  "birth_date": "1997-02-15",
+  "country_id": 791,
+  "club_id": 2000453108,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 66,
+  "potential_ability": 70,
+  "history": [
+    { "s": 2024, "c": 2000023737, "p": 11, "g": 1 },
+    { "s": 2024, "c": 2000255430, "p": 30, "g": 4 }
+  ]
+}

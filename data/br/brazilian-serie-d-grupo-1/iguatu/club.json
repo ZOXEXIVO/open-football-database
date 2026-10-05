@@ -1,0 +1,57 @@
+{
+  "id": 19189354,
+  "name": "Iguatu",
+  "location": {
+    "city_id": 5693
+  },
+  "finance": {
+    "balance": 31750
+  },
+  "teams": [
+    {
+      "id": 19189354,
+      "name": "Iguatu",
+      "slug": "iguatu",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2300,
+        "national": 2300,
+        "world": 2300
+      }
+    },
+    {
+      "id": 95500023,
+      "name": "Iguatu",
+      "slug": "iguatu-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 690,
+        "national": 690,
+        "world": 690
+      }
+    },
+    {
+      "id": 95500024,
+      "name": "Iguatu",
+      "slug": "iguatu-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 460,
+        "national": 460,
+        "world": 460
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0033a0",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1500
+}

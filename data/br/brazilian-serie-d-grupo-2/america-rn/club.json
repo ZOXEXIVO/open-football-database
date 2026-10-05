@@ -1,0 +1,57 @@
+{
+  "id": 107203,
+  "name": "América de Natal",
+  "location": {
+    "city_id": 5697
+  },
+  "finance": {
+    "balance": 299720
+  },
+  "teams": [
+    {
+      "id": 107203,
+      "name": "América de Natal",
+      "slug": "america-rn",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 95600001,
+      "name": "América de Natal",
+      "slug": "america-rn-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 95600002,
+      "name": "América de Natal",
+      "slug": "america-rn-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#c8102e",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 5000
+}

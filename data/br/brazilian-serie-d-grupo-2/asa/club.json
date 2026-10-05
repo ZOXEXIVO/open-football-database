@@ -1,0 +1,57 @@
+{
+  "id": 301100,
+  "name": "ASA",
+  "location": {
+    "city_id": 5704
+  },
+  "finance": {
+    "balance": 311150
+  },
+  "teams": [
+    {
+      "id": 301100,
+      "name": "ASA",
+      "slug": "asa",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3100,
+        "national": 3100,
+        "world": 3100
+      }
+    },
+    {
+      "id": 95600015,
+      "name": "ASA",
+      "slug": "asa-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 930,
+        "national": 930,
+        "world": 930
+      }
+    },
+    {
+      "id": 95600016,
+      "name": "ASA",
+      "slug": "asa-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 620,
+        "national": 620,
+        "world": 620
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 3000
+}

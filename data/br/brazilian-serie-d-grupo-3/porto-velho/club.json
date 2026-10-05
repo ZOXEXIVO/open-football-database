@@ -1,0 +1,57 @@
+{
+  "id": 19366445,
+  "name": "Porto Velho",
+  "location": {
+    "city_id": 5719
+  },
+  "finance": {
+    "balance": 275590
+  },
+  "teams": [
+    {
+      "id": 19366445,
+      "name": "Porto Velho",
+      "slug": "porto-velho",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 95700015,
+      "name": "Porto Velho",
+      "slug": "porto-velho-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 450,
+        "national": 450,
+        "world": 450
+      }
+    },
+    {
+      "id": 95700016,
+      "name": "Porto Velho",
+      "slug": "porto-velho-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 300,
+        "national": 300,
+        "world": 300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#c8102e"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 800
+}

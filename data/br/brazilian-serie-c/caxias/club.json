@@ -1,0 +1,57 @@
+{
+  "id": 301266,
+  "name": "Caxias",
+  "location": {
+    "city_id": 5673
+  },
+  "finance": {
+    "balance": 1198880
+  },
+  "teams": [
+    {
+      "id": 301266,
+      "name": "Caxias",
+      "slug": "caxias",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 95400019,
+      "name": "Caxias",
+      "slug": "caxias-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 95400020,
+      "name": "Caxias",
+      "slug": "caxias-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#7b1e2b",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 6000
+}

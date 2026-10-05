@@ -1,0 +1,31 @@
+{
+  "id": 2000049602,
+  "first_name": "Gustavo",
+  "last_name": "Nicola",
+  "birth_date": "1998-10-27",
+  "country_id": 1651,
+  "club_id": 301323,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 119,
+  "history": [
+    { "s": 2022, "c": 311107, "p": 7 },
+    { "s": 2024, "c": 107210, "p": 10 },
+    { "s": 2024, "c": 301356, "p": 2 },
+    { "s": 2025, "c": 331, "p": 4 },
+    { "s": 2025, "c": 107210, "p": 16 }
+  ]
+}

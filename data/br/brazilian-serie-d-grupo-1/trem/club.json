@@ -1,0 +1,57 @@
+{
+  "id": 313350,
+  "name": "Trem",
+  "location": {
+    "city_id": 5687
+  },
+  "finance": {
+    "balance": 275590
+  },
+  "teams": [
+    {
+      "id": 313350,
+      "name": "Trem",
+      "slug": "trem",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 95500011,
+      "name": "Trem",
+      "slug": "trem-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 450,
+        "national": 450,
+        "world": 450
+      }
+    },
+    {
+      "id": 95500012,
+      "name": "Trem",
+      "slug": "trem-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 300,
+        "national": 300,
+        "world": 300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#c8102e",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 800
+}

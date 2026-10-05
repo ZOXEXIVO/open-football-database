@@ -1,0 +1,57 @@
+{
+  "id": 302144,
+  "name": "Ferroviária",
+  "location": {
+    "city_id": 5654
+  },
+  "finance": {
+    "balance": 105410
+  },
+  "teams": [
+    {
+      "id": 302144,
+      "name": "Ferroviária",
+      "slug": "ferroviaria",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5000,
+        "national": 5000,
+        "world": 5000
+      }
+    },
+    {
+      "id": 90400045,
+      "name": "Ferroviária",
+      "slug": "ferroviaria-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 90400046,
+      "name": "Ferroviária",
+      "slug": "ferroviaria-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#7b1e2b",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 4000
+}

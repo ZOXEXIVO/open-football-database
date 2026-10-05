@@ -1,0 +1,57 @@
+{
+  "id": 102555,
+  "name": "Goiás",
+  "location": {
+    "city_id": 5655
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 102555,
+      "name": "Goiás",
+      "slug": "goias",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6000,
+        "national": 6000,
+        "world": 6000
+      }
+    },
+    {
+      "id": 90400047,
+      "name": "Goiás",
+      "slug": "goias-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1800,
+        "national": 1800,
+        "world": 1800
+      }
+    },
+    {
+      "id": 90400048,
+      "name": "Goiás",
+      "slug": "goias-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#006b3f",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 11000
+}

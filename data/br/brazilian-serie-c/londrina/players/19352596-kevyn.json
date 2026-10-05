@@ -1,0 +1,40 @@
+{
+  "id": 19352596,
+  "first_name": "Kevyn",
+  "last_name": "",
+  "birth_date": "1997-12-28",
+  "country_id": 1651,
+  "club_id": 900678,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 100,
+  "potential_ability": 112,
+  "contract": {
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 328, "p": 2 },
+    { "s": 2019, "c": 19005119, "p": 1 },
+    { "s": 2020, "c": 328, "p": 20 },
+    { "s": 2021, "c": 107210, "p": 14 },
+    { "s": 2022, "c": 19392509, "p": 2 },
+    { "s": 2023, "c": 331, "p": 12, "g": 2 },
+    { "s": 2024, "c": 331, "p": 31, "g": 2 },
+    { "s": 2025, "c": 331, "p": 1 },
+    { "s": 2025, "c": 332, "p": 8 }
+  ]
+}

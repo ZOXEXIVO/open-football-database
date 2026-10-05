@@ -1,0 +1,57 @@
+{
+  "id": 301155,
+  "name": "Goianésia",
+  "location": {
+    "city_id": 5718
+  },
+  "finance": {
+    "balance": 304800
+  },
+  "teams": [
+    {
+      "id": 301155,
+      "name": "Goianésia",
+      "slug": "goianesia",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2400,
+        "national": 2400,
+        "world": 2400
+      }
+    },
+    {
+      "id": 95700013,
+      "name": "Goianésia",
+      "slug": "goianesia-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 720,
+        "national": 720,
+        "world": 720
+      }
+    },
+    {
+      "id": 95700014,
+      "name": "Goianésia",
+      "slug": "goianesia-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 480,
+        "national": 480,
+        "world": 480
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0033a0",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Limited",
+    "academy": "Fairly Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 1000
+}

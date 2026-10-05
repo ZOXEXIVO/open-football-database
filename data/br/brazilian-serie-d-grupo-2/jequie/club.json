@@ -1,0 +1,57 @@
+{
+  "id": 314206,
+  "name": "Jequié",
+  "location": {
+    "city_id": 5709
+  },
+  "finance": {
+    "balance": 266700
+  },
+  "teams": [
+    {
+      "id": 314206,
+      "name": "Jequié",
+      "slug": "jequie",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2100,
+        "national": 2100,
+        "world": 2100
+      }
+    },
+    {
+      "id": 95600025,
+      "name": "Jequié",
+      "slug": "jequie-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 630,
+        "national": 630,
+        "world": 630
+      }
+    },
+    {
+      "id": 95600026,
+      "name": "Jequié",
+      "slug": "jequie-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 420,
+        "national": 420,
+        "world": 420
+      }
+    }
+  ],
+  "colors": {
+    "background": "#002855",
+    "foreground": "#ffd100"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Limited",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1000
+}

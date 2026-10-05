@@ -1,0 +1,39 @@
+{
+  "id": 2000095730,
+  "name": "Chaika M",
+  "parent_club": {
+    "id": 58117053,
+    "team_type": "Second"
+  },
+  "location": {
+    "city_id": 791
+  },
+  "finance": {
+    "balance": 500000
+  },
+  "teams": [
+    {
+      "id": 2000095730,
+      "name": "Chaika M",
+      "slug": "chaika-m",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1a5276",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1500
+}

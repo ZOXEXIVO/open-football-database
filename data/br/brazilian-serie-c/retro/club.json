@@ -1,0 +1,57 @@
+{
+  "id": 19382040,
+  "name": "Retrô",
+  "location": {
+    "city_id": 5666
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 19382040,
+      "name": "Retrô",
+      "slug": "retro",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 95400005,
+      "name": "Retrô",
+      "slug": "retro-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 95400006,
+      "name": "Retrô",
+      "slug": "retro-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0033a0",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 3000
+}

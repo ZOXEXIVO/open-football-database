@@ -1,0 +1,33 @@
+{
+  "id": 2000243199,
+  "first_name": "Lucas",
+  "last_name": "Stefanello",
+  "birth_date": "2005-02-16",
+  "country_id": 1651,
+  "club_id": 107216,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-04-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

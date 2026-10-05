@@ -1,0 +1,31 @@
+{
+  "id": 2000246591,
+  "first_name": "João",
+  "last_name": "Borim",
+  "birth_date": "2002-02-25",
+  "country_id": 1651,
+  "club_id": 301148,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 58,
+  "potential_ability": 83,
+  "history": [
+    { "s": 2019, "c": 332, "p": 0 },
+    { "s": 2020, "c": 332, "p": 0 },
+    { "s": 2021, "c": 19056649, "p": 3 },
+    { "s": 2022, "c": 2000235124, "p": 19, "g": 1 },
+    { "s": 2025, "c": 301148, "p": 11 }
+  ]
+}

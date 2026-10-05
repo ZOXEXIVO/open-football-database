@@ -1,0 +1,27 @@
+{
+  "id": 2000305591,
+  "first_name": "Lucas",
+  "last_name": "Matheus",
+  "birth_date": "2005-01-27",
+  "country_id": 1651,
+  "club_id": 19392509,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 105,
+  "history": [
+    { "s": 2025, "c": 19392509, "p": 3 }
+  ]
+}

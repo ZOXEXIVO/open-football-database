@@ -1,0 +1,38 @@
+{
+  "id": 2000238611,
+  "first_name": "Ronald",
+  "last_name": "Camarão",
+  "birth_date": "2000-07-06",
+  "country_id": 1651,
+  "club_id": 19145268,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 98,
+  "potential_ability": 105,
+  "history": [
+    { "s": 2022, "c": 301172, "p": 16, "g": 4 },
+    { "s": 2024, "c": 121265, "p": 7 },
+    { "s": 2024, "c": 301171, "p": 12, "g": 4 },
+    { "s": 2025, "c": 301323, "p": 19, "g": 1 }
+  ]
+}

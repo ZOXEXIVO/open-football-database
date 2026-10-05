@@ -2,11 +2,11 @@
   "id": 101,
   "enabled": true,
   "slug": "brazilian-serie-b",
-  "name": "Serie B",
+  "name": "Série B",
   "reputation": 5800,
   "tier": 2,
   "promotion_spots": 4,
-  "relegation_spots": 0,
+  "relegation_spots": 4,
   "sub_leagues_competitions": ["U18"],
   "settings": {
     "season_starting_half": {

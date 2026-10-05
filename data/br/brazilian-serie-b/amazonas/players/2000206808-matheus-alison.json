@@ -1,0 +1,33 @@
+{
+  "id": 2000206808,
+  "first_name": "Alison",
+  "last_name": "Matheus",
+  "birth_date": "2004-02-02",
+  "country_id": 1651,
+  "club_id": 19398655,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 100,
+  "history": [
+    { "s": 2020, "c": 335, "p": 0 },
+    { "s": 2021, "c": 335, "p": 0 },
+    { "s": 2022, "c": 335, "p": 0 },
+    { "s": 2022, "c": 2388, "p": 0 },
+    { "s": 2023, "c": 135455, "p": 0 },
+    { "s": 2024, "c": 135455, "p": 0 },
+    { "s": 2025, "c": 135455, "p": 0 }
+  ]
+}

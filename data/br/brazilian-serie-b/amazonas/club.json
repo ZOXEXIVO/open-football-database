@@ -1,0 +1,57 @@
+{
+  "id": 19398655,
+  "name": "Amazonas",
+  "location": {
+    "city_id": 5653
+  },
+  "finance": {
+    "balance": 1184910
+  },
+  "teams": [
+    {
+      "id": 19398655,
+      "name": "Amazonas",
+      "slug": "amazonas",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    },
+    {
+      "id": 90400043,
+      "name": "Amazonas",
+      "slug": "amazonas-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1530,
+        "national": 1530,
+        "world": 1530
+      }
+    },
+    {
+      "id": 90400044,
+      "name": "Amazonas",
+      "slug": "amazonas-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd100",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 6000
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000300381,
+  "first_name": "Yuri",
+  "last_name": "Duarte",
+  "birth_date": "1997-05-22",
+  "country_id": 1651,
+  "club_id": 19344101,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 87,
+  "contract": {
+    "expiration": "2026-11-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 19344101, "p": 2 },
+    { "s": 2021, "c": 314332, "p": 14 },
+    { "s": 2022, "c": 2000106913, "p": 1 },
+    { "s": 2023, "c": 2000194009, "p": 7 }
+  ]
+}

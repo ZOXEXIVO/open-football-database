@@ -1,0 +1,31 @@
+{
+  "id": 2000394829,
+  "first_name": "Léo",
+  "last_name": "Reis",
+  "birth_date": "2001-03-09",
+  "country_id": 1651,
+  "club_id": 301200,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 94,
+  "history": [
+    { "s": 2025, "c": 107208, "p": 12, "g": 1 }
+  ]
+}

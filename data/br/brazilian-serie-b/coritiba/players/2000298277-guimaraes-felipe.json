@@ -1,0 +1,28 @@
+{
+  "id": 2000298277,
+  "first_name": "Felipe",
+  "last_name": "Guimarães",
+  "birth_date": "2004-04-08",
+  "country_id": 1651,
+  "club_id": 104776,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": -65,
+  "history": [
+    { "s": 2024, "c": 104776, "p": 2 },
+    { "s": 2025, "c": 104776, "p": 3 }
+  ]
+}

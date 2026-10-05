@@ -1,0 +1,57 @@
+{
+  "id": 301208,
+  "name": "Botafogo-PB",
+  "location": {
+    "city_id": 5674
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 301208,
+      "name": "Botafogo-PB",
+      "slug": "botafogo-pb",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 95400021,
+      "name": "Botafogo-PB",
+      "slug": "botafogo-pb-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 95400022,
+      "name": "Botafogo-PB",
+      "slug": "botafogo-pb-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 8000
+}

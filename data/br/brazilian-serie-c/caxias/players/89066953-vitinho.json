@@ -1,0 +1,33 @@
+{
+  "id": 89066953,
+  "first_name": "Vitinho",
+  "last_name": "",
+  "birth_date": "2001-09-15",
+  "country_id": 1651,
+  "club_id": 301266,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 102,
+  "potential_ability": 118,
+  "history": [
+    { "s": 2018, "c": 330, "p": 0 },
+    { "s": 2022, "c": 319160, "p": 19, "g": 3 },
+    { "s": 2023, "c": 107230, "p": 29 }
+  ]
+}

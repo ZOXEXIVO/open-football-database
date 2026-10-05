@@ -1,0 +1,28 @@
+{
+  "id": 2000509191,
+  "first_name": "Railson",
+  "last_name": "",
+  "birth_date": "1999-12-23",
+  "country_id": 1651,
+  "club_id": 301171,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 110,
+  "history": [
+    { "s": 2024, "c": 301172, "p": 8 },
+    { "s": 2025, "c": 301171, "p": 17 }
+  ]
+}

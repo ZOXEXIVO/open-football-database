@@ -1,0 +1,57 @@
+{
+  "id": 311107,
+  "name": "Nova Iguaçu",
+  "location": {
+    "city_id": 5726
+  },
+  "finance": {
+    "balance": 274320
+  },
+  "teams": [
+    {
+      "id": 311107,
+      "name": "Nova Iguaçu",
+      "slug": "nova-iguacu",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3700,
+        "national": 3700,
+        "world": 3700
+      }
+    },
+    {
+      "id": 95700029,
+      "name": "Nova Iguaçu",
+      "slug": "nova-iguacu-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1110,
+        "national": 1110,
+        "world": 1110
+      }
+    },
+    {
+      "id": 95700030,
+      "name": "Nova Iguaçu",
+      "slug": "nova-iguacu-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 740,
+        "national": 740,
+        "world": 740
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ff6f00",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 1500
+}

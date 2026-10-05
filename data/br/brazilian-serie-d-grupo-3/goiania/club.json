@@ -1,0 +1,57 @@
+{
+  "id": 301157,
+  "name": "Goiânia",
+  "location": {
+    "city_id": 5717
+  },
+  "finance": {
+    "balance": 279400
+  },
+  "teams": [
+    {
+      "id": 301157,
+      "name": "Goiânia",
+      "slug": "goiania",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2200,
+        "national": 2200,
+        "world": 2200
+      }
+    },
+    {
+      "id": 95700011,
+      "name": "Goiânia",
+      "slug": "goiania-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    },
+    {
+      "id": 95700012,
+      "name": "Goiânia",
+      "slug": "goiania-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 440,
+        "national": 440,
+        "world": 440
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1000
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2000181801,
+  "first_name": "Braga",
+  "last_name": "",
+  "birth_date": "2001-07-26",
+  "country_id": 1651,
+  "club_id": 301142,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 123,
+  "history": [
+    { "s": 2022, "c": 314600, "p": 7, "g": 2 },
+    { "s": 2024, "c": 308939, "p": 8, "g": 1 },
+    { "s": 2024, "c": 59008177, "p": 17, "g": 2 },
+    { "s": 2025, "c": 301142, "p": 8 }
+  ]
+}

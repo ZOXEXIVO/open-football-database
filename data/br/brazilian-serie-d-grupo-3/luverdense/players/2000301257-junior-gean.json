@@ -1,0 +1,35 @@
+{
+  "id": 2000301257,
+  "first_name": "Gean",
+  "last_name": "Junior",
+  "birth_date": "2004-11-05",
+  "country_id": 1651,
+  "club_id": 8832317,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 63,
+  "potential_ability": 106,
+  "history": [
+    { "s": 2025, "c": 8832317, "p": 1 }
+  ]
+}

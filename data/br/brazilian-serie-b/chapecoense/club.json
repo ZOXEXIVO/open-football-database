@@ -1,0 +1,57 @@
+{
+  "id": 301304,
+  "name": "Chapecoense",
+  "location": {
+    "city_id": 5649
+  },
+  "finance": {
+    "balance": 548640
+  },
+  "teams": [
+    {
+      "id": 301304,
+      "name": "Chapecoense",
+      "slug": "chapecoense",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5600,
+        "national": 5600,
+        "world": 5600
+      }
+    },
+    {
+      "id": 90400035,
+      "name": "Chapecoense",
+      "slug": "chapecoense-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1680,
+        "national": 1680,
+        "world": 1680
+      }
+    },
+    {
+      "id": 90400036,
+      "name": "Chapecoense",
+      "slug": "chapecoense-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1120,
+        "national": 1120,
+        "world": 1120
+      }
+    }
+  ],
+  "colors": {
+    "background": "#00843d",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 9000
+}

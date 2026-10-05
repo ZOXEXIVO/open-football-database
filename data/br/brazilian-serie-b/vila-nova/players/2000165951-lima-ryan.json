@@ -1,0 +1,34 @@
+{
+  "id": 2000165951,
+  "first_name": "Ryan",
+  "last_name": "Lima",
+  "birth_date": "2001-06-18",
+  "country_id": 1651,
+  "club_id": 107236,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 95,
+  "potential_ability": 107,
+  "history": [
+    { "s": 2022, "c": 2000015603, "p": 22, "g": 4 },
+    { "s": 2024, "c": 301172, "p": 13, "g": 3 },
+    { "s": 2024, "c": 19342677, "p": 3 },
+    { "s": 2025, "c": 301171, "p": 19, "g": 5 }
+  ]
+}

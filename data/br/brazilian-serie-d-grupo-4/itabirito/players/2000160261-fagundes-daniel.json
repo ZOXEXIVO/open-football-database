@@ -1,0 +1,27 @@
+{
+  "id": 2000160261,
+  "first_name": "Daniel",
+  "last_name": "Fagundes",
+  "birth_date": "2002-07-06",
+  "country_id": 1651,
+  "club_id": 2000193910,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 95,
+  "history": [
+    { "s": 2025, "c": 2000193910, "p": 4 }
+  ]
+}

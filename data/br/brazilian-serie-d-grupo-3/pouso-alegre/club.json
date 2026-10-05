@@ -1,0 +1,57 @@
+{
+  "id": 19363420,
+  "name": "Pouso Alegre",
+  "location": {
+    "city_id": 5724
+  },
+  "finance": {
+    "balance": 275590
+  },
+  "teams": [
+    {
+      "id": 19363420,
+      "name": "Pouso Alegre",
+      "slug": "pouso-alegre",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3100,
+        "national": 3100,
+        "world": 3100
+      }
+    },
+    {
+      "id": 95700025,
+      "name": "Pouso Alegre",
+      "slug": "pouso-alegre-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 930,
+        "national": 930,
+        "world": 930
+      }
+    },
+    {
+      "id": 95700026,
+      "name": "Pouso Alegre",
+      "slug": "pouso-alegre-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 620,
+        "national": 620,
+        "world": 620
+      }
+    }
+  ],
+  "colors": {
+    "background": "#c8102e",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2000
+}

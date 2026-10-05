@@ -1,0 +1,32 @@
+{
+  "id": 2000518234,
+  "first_name": "Matheus",
+  "last_name": "Henrique",
+  "birth_date": "2008-01-26",
+  "country_id": 1651,
+  "club_id": 332,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 332, "p": 1 }
+  ]
+}

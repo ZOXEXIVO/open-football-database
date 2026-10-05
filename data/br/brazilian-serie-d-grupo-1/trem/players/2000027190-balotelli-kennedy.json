@@ -1,0 +1,33 @@
+{
+  "id": 2000027190,
+  "first_name": "Kennedy",
+  "last_name": "Balotelli",
+  "birth_date": "1996-08-23",
+  "country_id": 1651,
+  "club_id": 313350,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 88,
+  "history": [
+    { "s": 2016, "c": 308942, "p": 3 },
+    { "s": 2017, "c": 308942, "p": 11 },
+    { "s": 2018, "c": 19184583, "p": 1 },
+    { "s": 2019, "c": 2429, "p": 5, "g": 4 },
+    { "s": 2019, "c": 309140, "p": 5 },
+    { "s": 2022, "c": 107234, "p": 8, "g": 2 },
+    { "s": 2024, "c": 19112044, "p": 1 }
+  ]
+}

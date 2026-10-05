@@ -1,0 +1,26 @@
+{
+  "id": 19251719,
+  "first_name": "Alexandre",
+  "last_name": "",
+  "birth_date": "1990-09-05",
+  "country_id": 1651,
+  "club_id": 309361,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 91,
+  "potential_ability": 100,
+  "contract": {
+    "expiration": "2026-03-10",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 301321, "p": 3 },
+    { "s": 2020, "c": 8832327, "p": 13 },
+    { "s": 2025, "c": 309361, "p": 10 }
+  ]
+}

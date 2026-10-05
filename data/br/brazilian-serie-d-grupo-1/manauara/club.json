@@ -1,0 +1,57 @@
+{
+  "id": 2000112366,
+  "name": "Manauara",
+  "location": {
+    "city_id": 5683
+  },
+  "finance": {
+    "balance": 228600
+  },
+  "teams": [
+    {
+      "id": 2000112366,
+      "name": "Manauara",
+      "slug": "manauara",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1800,
+        "national": 1800,
+        "world": 1800
+      }
+    },
+    {
+      "id": 95500003,
+      "name": "Manauara",
+      "slug": "manauara-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 540,
+        "national": 540,
+        "world": 540
+      }
+    },
+    {
+      "id": 95500004,
+      "name": "Manauara",
+      "slug": "manauara-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 360,
+        "national": 360,
+        "world": 360
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ff6f00",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 500
+}

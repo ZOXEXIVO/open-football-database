@@ -1,0 +1,27 @@
+{
+  "id": 2000053848,
+  "first_name": "Vitor",
+  "last_name": "Oliveira",
+  "birth_date": "1998-06-03",
+  "country_id": 1651,
+  "club_id": 142370,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 67,
+  "potential_ability": 87,
+  "history": [
+    { "s": 2025, "c": 142370, "p": 10 }
+  ]
+}

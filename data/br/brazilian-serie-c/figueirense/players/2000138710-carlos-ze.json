@@ -1,0 +1,31 @@
+{
+  "id": 2000138710,
+  "first_name": "Zé",
+  "last_name": "Carlos",
+  "birth_date": "2003-08-19",
+  "country_id": 1651,
+  "club_id": 301306,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": 92,
+  "history": [
+    { "s": 2025, "c": 2000060543, "p": 1 }
+  ]
+}

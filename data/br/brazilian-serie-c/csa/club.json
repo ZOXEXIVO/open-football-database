@@ -1,0 +1,57 @@
+{
+  "id": 107210,
+  "name": "CSA",
+  "location": {
+    "city_id": 5670
+  },
+  "finance": {
+    "balance": 474980
+  },
+  "teams": [
+    {
+      "id": 107210,
+      "name": "CSA",
+      "slug": "csa",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 95400013,
+      "name": "CSA",
+      "slug": "csa-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1470,
+        "national": 1470,
+        "world": 1470
+      }
+    },
+    {
+      "id": 95400014,
+      "name": "CSA",
+      "slug": "csa-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 980,
+        "national": 980,
+        "world": 980
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0033a0",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 8000
+}

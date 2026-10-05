@@ -1,0 +1,25 @@
+{
+  "id": 19320551,
+  "first_name": "Carlos",
+  "last_name": "Henrique",
+  "birth_date": "1996-04-12",
+  "country_id": 1651,
+  "club_id": 311000,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 84,
+  "history": [
+    { "s": 2019, "c": 301100, "p": 1 },
+    { "s": 2021, "c": 309358, "p": 11 },
+    { "s": 2025, "c": 301200, "p": 4 }
+  ]
+}

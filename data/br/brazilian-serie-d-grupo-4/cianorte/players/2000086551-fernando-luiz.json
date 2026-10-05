@@ -1,0 +1,28 @@
+{
+  "id": 2000086551,
+  "first_name": "Luiz",
+  "last_name": "Fernando",
+  "birth_date": "1998-01-08",
+  "country_id": 1651,
+  "club_id": 314600,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 91,
+  "potential_ability": 103,
+  "history": [
+    { "s": 2019, "c": 318860, "p": 6 },
+    { "s": 2020, "c": 330, "p": 1 },
+    { "s": 2021, "c": 301264, "p": 10 },
+    { "s": 2022, "c": 301306, "p": 7 },
+    { "s": 2025, "c": 301208, "p": 3 },
+    { "s": 2025, "c": 19145268, "p": 8, "g": 1 }
+  ]
+}

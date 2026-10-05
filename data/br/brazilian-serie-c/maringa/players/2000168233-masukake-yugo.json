@@ -1,0 +1,38 @@
+{
+  "id": 2000168233,
+  "first_name": "Yugo",
+  "last_name": "Masukake",
+  "birth_date": "2003-08-24",
+  "country_id": 116,
+  "club_id": 19145268,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 79,
+  "potential_ability": 106,
+  "history": [
+    { "s": 2019, "c": 1190, "p": 0 },
+    { "s": 2020, "c": 1190, "p": 0 },
+    { "s": 2021, "c": 1190, "p": 0 },
+    { "s": 2022, "c": 1190, "p": 10 },
+    { "s": 2023, "c": 1190, "p": 0 },
+    { "s": 2023, "c": 776288, "p": 5 },
+    { "s": 2024, "c": 1190, "p": 1 },
+    { "s": 2025, "c": 19145268, "p": 1 }
+  ]
+}

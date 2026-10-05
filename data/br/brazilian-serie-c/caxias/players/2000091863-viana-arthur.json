@@ -1,0 +1,32 @@
+{
+  "id": 2000091863,
+  "first_name": "Arthur",
+  "last_name": "Viana",
+  "birth_date": "2004-02-12",
+  "country_id": 1651,
+  "club_id": 301266,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2024, "c": 321, "p": 3 },
+    { "s": 2025, "c": 776288, "p": 5 }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000041195,
+  "first_name": "Patrick",
+  "last_name": "Moura",
+  "birth_date": "2000-03-09",
+  "country_id": 1651,
+  "club_id": 301200,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 96,
+  "history": [
+    { "s": 2021, "c": 2406, "p": 0 },
+    { "s": 2022, "c": 2463, "p": 12, "g": 7 },
+    { "s": 2022, "c": 55056925, "p": 9, "g": 2 },
+    { "s": 2023, "c": 19342677, "p": 2 },
+    { "s": 2025, "c": 301200, "p": 2 }
+  ]
+}

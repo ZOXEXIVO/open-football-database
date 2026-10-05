@@ -1,0 +1,57 @@
+{
+  "id": 19392509,
+  "name": "Azuriz",
+  "location": {
+    "city_id": 5734
+  },
+  "finance": {
+    "balance": 317500
+  },
+  "teams": [
+    {
+      "id": 19392509,
+      "name": "Azuriz",
+      "slug": "azuriz",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2500,
+        "national": 2500,
+        "world": 2500
+      }
+    },
+    {
+      "id": 95800013,
+      "name": "Azuriz",
+      "slug": "azuriz-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 750,
+        "national": 750,
+        "world": 750
+      }
+    },
+    {
+      "id": 95800014,
+      "name": "Azuriz",
+      "slug": "azuriz-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 500,
+        "national": 500,
+        "world": 500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0072ce",
+    "foreground": "#c9a227"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 500
+}

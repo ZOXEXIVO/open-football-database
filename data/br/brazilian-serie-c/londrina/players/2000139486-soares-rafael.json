@@ -1,0 +1,32 @@
+{
+  "id": 2000139486,
+  "first_name": "Rafael",
+  "last_name": "Soares",
+  "birth_date": "2004-12-27",
+  "country_id": 1651,
+  "club_id": 900678,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 77,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-02-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 900678, "p": 3 }
+  ]
+}

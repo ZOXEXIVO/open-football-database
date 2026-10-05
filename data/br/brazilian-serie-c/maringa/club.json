@@ -1,0 +1,57 @@
+{
+  "id": 19145268,
+  "name": "Maringá",
+  "location": {
+    "city_id": 5679
+  },
+  "finance": {
+    "balance": 867410
+  },
+  "teams": [
+    {
+      "id": 19145268,
+      "name": "Maringá",
+      "slug": "maringa",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 95400031,
+      "name": "Maringá",
+      "slug": "maringa-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 95400032,
+      "name": "Maringá",
+      "slug": "maringa-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#00843d"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 4000
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2000155623,
+  "first_name": "Luan",
+  "last_name": "Freire",
+  "birth_date": "2003-04-29",
+  "country_id": 1651,
+  "club_id": 301212,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 84,
+  "potential_ability": 103,
+  "history": [
+    { "s": 2021, "c": 328, "p": 1 },
+    { "s": 2024, "c": 328, "p": 3 }
+  ]
+}

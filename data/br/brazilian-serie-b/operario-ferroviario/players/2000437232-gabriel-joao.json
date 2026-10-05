@@ -1,0 +1,27 @@
+{
+  "id": 2000437232,
+  "first_name": "João",
+  "last_name": "Gabriel",
+  "birth_date": "2006-05-25",
+  "country_id": 1651,
+  "club_id": 311086,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2025, "c": 311086, "p": 1 }
+  ]
+}

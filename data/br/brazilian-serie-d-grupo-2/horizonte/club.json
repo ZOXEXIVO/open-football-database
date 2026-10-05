@@ -1,0 +1,57 @@
+{
+  "id": 19019881,
+  "name": "Horizonte",
+  "location": {
+    "city_id": 5700
+  },
+  "finance": {
+    "balance": 24130
+  },
+  "teams": [
+    {
+      "id": 19019881,
+      "name": "Horizonte",
+      "slug": "horizonte",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2100,
+        "national": 2100,
+        "world": 2100
+      }
+    },
+    {
+      "id": 95600007,
+      "name": "Horizonte",
+      "slug": "horizonte-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 630,
+        "national": 630,
+        "world": 630
+      }
+    },
+    {
+      "id": 95600008,
+      "name": "Horizonte",
+      "slug": "horizonte-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 420,
+        "national": 420,
+        "world": 420
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd100",
+    "foreground": "#002855"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 800
+}

@@ -1,0 +1,32 @@
+{
+  "id": 19272393,
+  "first_name": "Gabriel",
+  "last_name": "Terra",
+  "birth_date": "1997-04-05",
+  "country_id": 1651,
+  "club_id": 301310,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 87,
+  "potential_ability": 96,
+  "history": [
+    { "s": 2019, "c": 303013, "p": 5, "g": 1 },
+    { "s": 2020, "c": 327, "p": 10 },
+    { "s": 2021, "c": 301264, "p": 25, "g": 1 },
+    { "s": 2024, "c": 301284, "p": 6 },
+    { "s": 2024, "c": 301325, "p": 11 },
+    { "s": 2025, "c": 319160, "p": 10 }
+  ]
+}

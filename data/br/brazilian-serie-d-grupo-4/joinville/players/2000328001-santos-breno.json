@@ -1,0 +1,33 @@
+{
+  "id": 2000328001,
+  "first_name": "Breno",
+  "last_name": "Santos",
+  "birth_date": "1998-01-12",
+  "country_id": 1651,
+  "club_id": 301310,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 94,
+  "history": [
+    { "s": 2024, "c": 310392, "p": 15, "g": 1 },
+    { "s": 2025, "c": 301310, "p": 7 },
+    { "s": 2025, "c": 302144, "p": 0 }
+  ]
+}

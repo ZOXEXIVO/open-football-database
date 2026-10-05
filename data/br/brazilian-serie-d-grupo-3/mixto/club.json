@@ -1,0 +1,57 @@
+{
+  "id": 309644,
+  "name": "Mixto",
+  "location": {
+    "city_id": 5715
+  },
+  "finance": {
+    "balance": 279400
+  },
+  "teams": [
+    {
+      "id": 309644,
+      "name": "Mixto",
+      "slug": "mixto",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2200,
+        "national": 2200,
+        "world": 2200
+      }
+    },
+    {
+      "id": 95700007,
+      "name": "Mixto",
+      "slug": "mixto-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    },
+    {
+      "id": 95700008,
+      "name": "Mixto",
+      "slug": "mixto-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 440,
+        "national": 440,
+        "world": 440
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1500
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2000520997,
+  "first_name": "Luiz",
+  "last_name": "Fernando",
+  "birth_date": "2001-03-22",
+  "country_id": 1651,
+  "club_id": 8832317,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": 86,
+  "history": [
+    { "s": 2024, "c": 19220160, "p": 2 },
+    { "s": 2025, "c": 8832317, "p": 7 }
+  ]
+}

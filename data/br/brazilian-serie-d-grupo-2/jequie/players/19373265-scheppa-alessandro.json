@@ -1,0 +1,30 @@
+{
+  "id": 19373265,
+  "first_name": "Alessandro",
+  "last_name": "Scheppa",
+  "birth_date": "1997-06-14",
+  "country_id": 1651,
+  "club_id": 314206,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 116,
+  "history": [
+    { "s": 2018, "c": 316, "p": 0 },
+    { "s": 2018, "c": 19088838, "p": 3 },
+    { "s": 2019, "c": 2391, "p": 6, "g": 3 },
+    { "s": 2024, "c": 301144, "p": 13, "g": 2 }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000487760,
+  "first_name": "Dyego",
+  "last_name": "",
+  "birth_date": "2003-01-02",
+  "country_id": 1651,
+  "club_id": 318860,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 113,
+  "history": [
+    { "s": 2024, "c": 319141, "p": 1 },
+    { "s": 2025, "c": 319141, "p": 15, "g": 4 }
+  ]
+}

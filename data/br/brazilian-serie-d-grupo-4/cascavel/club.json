@@ -1,0 +1,57 @@
+{
+  "id": 19072706,
+  "name": "Cascavel",
+  "location": {
+    "city_id": 5731
+  },
+  "finance": {
+    "balance": 444500
+  },
+  "teams": [
+    {
+      "id": 19072706,
+      "name": "Cascavel",
+      "slug": "cascavel",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 95800007,
+      "name": "Cascavel",
+      "slug": "cascavel-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 95800008,
+      "name": "Cascavel",
+      "slug": "cascavel-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd100",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Below Average",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2500
+}

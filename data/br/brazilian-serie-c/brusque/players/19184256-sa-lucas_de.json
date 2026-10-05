@@ -1,0 +1,32 @@
+{
+  "id": 19184256,
+  "first_name": "Lucas de",
+  "last_name": "Sá",
+  "birth_date": "1996-01-04",
+  "country_id": 1651,
+  "club_id": 301302,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 87,
+  "potential_ability": 104,
+  "history": [
+    { "s": 2012, "c": 107208, "p": 0 },
+    { "s": 2016, "c": 107208, "p": 10 },
+    { "s": 2017, "c": 318860, "p": 9 },
+    { "s": 2019, "c": 318860, "p": 10 },
+    { "s": 2020, "c": 301310, "p": 13, "g": 3 },
+    { "s": 2021, "c": 318860, "p": 0 }
+  ]
+}

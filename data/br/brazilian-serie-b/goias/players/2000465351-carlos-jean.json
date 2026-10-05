@@ -1,0 +1,27 @@
+{
+  "id": 2000465351,
+  "first_name": "Jean",
+  "last_name": "Carlos",
+  "birth_date": "2005-05-08",
+  "country_id": 1651,
+  "club_id": 102555,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 99,
+  "potential_ability": 118,
+  "history": [
+    { "s": 2025, "c": 102555, "p": 10, "g": 1 }
+  ]
+}

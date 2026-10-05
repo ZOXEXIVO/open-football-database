@@ -1,0 +1,39 @@
+{
+  "id": 2000038054,
+  "first_name": "Luís",
+  "last_name": "Araujo",
+  "birth_date": "2000-10-24",
+  "country_id": 1651,
+  "club_id": 2000193910,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": 98,
+  "contract": {
+    "expiration": "2026-03-01",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 104775, "p": 16, "g": 3 },
+    { "s": 2022, "c": 107236, "p": 0 },
+    { "s": 2023, "c": 319141, "p": 5 },
+    { "s": 2025, "c": 19072706, "p": 12, "g": 1 }
+  ]
+}

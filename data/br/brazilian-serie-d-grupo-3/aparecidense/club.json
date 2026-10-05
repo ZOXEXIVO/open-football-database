@@ -1,0 +1,57 @@
+{
+  "id": 319141,
+  "name": "Aparecidense",
+  "location": {
+    "city_id": 5712
+  },
+  "finance": {
+    "balance": 444500
+  },
+  "teams": [
+    {
+      "id": 319141,
+      "name": "Aparecidense",
+      "slug": "aparecidense",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 95700001,
+      "name": "Aparecidense",
+      "slug": "aparecidense-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 95700002,
+      "name": "Aparecidense",
+      "slug": "aparecidense-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#002855",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Limited",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1000
+}
