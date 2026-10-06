@@ -1,0 +1,33 @@
+{
+  "id": 2000523432,
+  "first_name": "Håkon",
+  "last_name": "Myhre",
+  "birth_date": "2007-03-26",
+  "country_id": 786,
+  "club_id": 1344,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 10,
+    "right": 100
+  },
+  "current_ability": 61,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2023, "c": 1426, "p": 0 },
+    { "s": 2024, "c": 53025475, "p": 11, "g": 5 },
+    { "s": 2025, "c": 53025475, "p": 9, "g": 1 }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 2000048215,
+  "first_name": "Elmin",
+  "last_name": "Bayramov",
+  "birth_date": "2000-07-29",
+  "country_id": 756,
+  "club_id": 2000193941,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 80,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 162, "p": 1 },
+    { "s": 2016, "c": 162, "p": 0 },
+    { "s": 2017, "c": 162, "p": 8 },
+    { "s": 2018, "c": 162, "p": 0 },
+    { "s": 2019, "c": 162, "p": 0 },
+    { "s": 2020, "c": 162, "p": 4 },
+    { "s": 2021, "c": 162, "p": 21, "g": 1 }
+  ]
+}

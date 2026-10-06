@@ -1,0 +1,26 @@
+{
+  "id": 2000275514,
+  "first_name": "Sergej",
+  "last_name": "Lazarević",
+  "birth_date": "2006-03-03",
+  "country_id": 795,
+  "club_id": 7580709,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 71,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2022, "c": 7580709, "p": 0 },
+    { "s": 2023, "c": 7580709, "p": 1 },
+    { "s": 2024, "c": 7580709, "p": 2 },
+    { "s": 2025, "c": 64000750, "p": 14, "g": 1 }
+  ]
+}

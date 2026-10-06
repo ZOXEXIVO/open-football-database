@@ -1,0 +1,57 @@
+{
+  "id": 2471,
+  "name": "União de Santarém",
+  "location": {
+    "city_id": 5959
+  },
+  "finance": {
+    "balance": 270510
+  },
+  "teams": [
+    {
+      "id": 2471,
+      "name": "União de Santarém",
+      "slug": "uniao-de-santarem",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 97700019,
+      "name": "União de Santarém",
+      "slug": "uniao-de-santarem-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 97700020,
+      "name": "União de Santarém",
+      "slug": "uniao-de-santarem-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 480
+}

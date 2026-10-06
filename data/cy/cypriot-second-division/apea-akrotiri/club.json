@@ -1,0 +1,57 @@
+{
+  "id": 26036766,
+  "name": "APEA Akrotiri",
+  "location": {
+    "city_id": 5885
+  },
+  "finance": {
+    "balance": 440690
+  },
+  "teams": [
+    {
+      "id": 26036766,
+      "name": "APEA Akrotiri",
+      "slug": "apea-akrotiri",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3300,
+        "national": 3300,
+        "world": 3300
+      }
+    },
+    {
+      "id": 97000023,
+      "name": "APEA Akrotiri",
+      "slug": "apea-akrotiri-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 990,
+        "national": 990,
+        "world": 990
+      }
+    },
+    {
+      "id": 97000024,
+      "name": "APEA Akrotiri",
+      "slug": "apea-akrotiri-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    }
+  ],
+  "colors": {
+    "background": "#26488b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 150
+}

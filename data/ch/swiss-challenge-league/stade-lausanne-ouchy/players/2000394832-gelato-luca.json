@@ -1,0 +1,27 @@
+{
+  "id": 2000394832,
+  "first_name": "Luca",
+  "last_name": "Gelato",
+  "birth_date": "2005-01-16",
+  "country_id": 776,
+  "club_id": 137904,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 79,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2024, "c": 137904, "p": 3 }
+  ]
+}

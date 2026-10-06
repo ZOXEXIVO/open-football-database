@@ -1,0 +1,32 @@
+{
+  "id": 2000375871,
+  "first_name": "Ştefan",
+  "last_name": "Opriş",
+  "birth_date": "2007-01-06",
+  "country_id": 790,
+  "club_id": 1515,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1515, "p": 1 }
+  ]
+}

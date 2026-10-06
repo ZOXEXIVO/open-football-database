@@ -1,0 +1,29 @@
+{
+  "id": 2000205780,
+  "first_name": "Omar",
+  "last_name": "Shatla",
+  "birth_date": "2003-11-20",
+  "country_id": 16,
+  "club_id": 459,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 106,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1004, "p": 0 },
+    { "s": 2024, "c": 459, "p": 0 }
+  ]
+}

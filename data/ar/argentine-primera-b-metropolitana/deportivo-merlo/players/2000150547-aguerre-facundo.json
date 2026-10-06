@@ -1,0 +1,37 @@
+{
+  "id": 2000150547,
+  "first_name": "Facundo",
+  "last_name": "Aguerre",
+  "birth_date": "1996-11-22",
+  "country_id": 1649,
+  "club_id": 950231,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 99,
+  "potential_ability": 99,
+  "contract": {
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 14189554, "p": 6, "g": 4 },
+    { "s": 2020, "c": 965375, "p": 5, "g": 1 },
+    { "s": 2022, "c": 14256018, "p": 26, "g": 1 },
+    { "s": 2023, "c": 14256018, "p": 20 },
+    { "s": 2024, "c": 950231, "p": 24 },
+    { "s": 2025, "c": 950231, "p": 35, "g": 6 }
+  ]
+}

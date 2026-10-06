@@ -1,0 +1,36 @@
+{
+  "id": 2000280339,
+  "first_name": "Raúl",
+  "last_name": "Stefan",
+  "birth_date": "2004-06-11",
+  "country_id": 773,
+  "club_id": 38013478,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 38069430, "p": 17 },
+    { "s": 2023, "c": 38013478, "p": 16 },
+    { "s": 2023, "c": 38069430, "p": 9 },
+    { "s": 2024, "c": 38013478, "p": 17 },
+    { "s": 2024, "c": 38069430, "p": 1, "g": 1 }
+  ]
+}

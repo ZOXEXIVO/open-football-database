@@ -1,0 +1,29 @@
+{
+  "id": 2000189103,
+  "first_name": "Joachim",
+  "last_name": "Amijekori",
+  "birth_date": "2004-02-14",
+  "country_id": 769,
+  "club_id": 59006799,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 106,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1231, "p": 8 },
+    { "s": 2023, "c": 1231, "p": 14 }
+  ]
+}

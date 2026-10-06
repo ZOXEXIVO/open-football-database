@@ -1,0 +1,40 @@
+{
+  "id": 2000421826,
+  "first_name": "Valo",
+  "last_name": "Konttas",
+  "birth_date": "2007-08-07",
+  "country_id": 768,
+  "club_id": 8503181,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2027-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 8503181, "p": 17, "g": 1 }
+  ]
+}

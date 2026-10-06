@@ -1,0 +1,32 @@
+{
+  "id": 2000473155,
+  "first_name": "Onişor",
+  "last_name": "Covaci",
+  "birth_date": "2008-09-05",
+  "country_id": 790,
+  "club_id": 2000117848,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 40,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2000117848, "p": 1 }
+  ]
+}

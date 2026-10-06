@@ -1,0 +1,47 @@
+{
+  "id": 93122444,
+  "first_name": "Jonathan",
+  "last_name": "Westerberg",
+  "birth_date": "2002-01-05",
+  "country_id": 797,
+  "club_id": 1101813,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 105,
+  "contract": {
+    "salary": 32188,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 2157, "p": 0 },
+    { "s": 2018, "c": 2157, "p": 0 },
+    { "s": 2019, "c": 2157, "p": 0 },
+    { "s": 2020, "c": 1787, "p": 0 },
+    { "s": 2021, "c": 1787, "p": 0 },
+    { "s": 2022, "c": 36512955, "p": 5 },
+    { "s": 2022, "c": 68012711, "p": 24, "g": 2 },
+    { "s": 2023, "c": 33033965, "p": 6, "g": 1 },
+    { "s": 2023, "c": 36512955, "p": 9, "g": 1 },
+    { "s": 2024, "c": 68012711, "p": 23 },
+    { "s": 2025, "c": 68012711, "p": 27 }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2000203165,
+  "first_name": "Amel",
+  "last_name": "Avdić",
+  "birth_date": "2007-04-07",
+  "country_id": 759,
+  "club_id": 16123919,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 16123919, "p": 0 }
+  ]
+}

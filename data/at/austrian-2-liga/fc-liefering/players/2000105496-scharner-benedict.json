@@ -1,0 +1,37 @@
+{
+  "id": 2000105496,
+  "first_name": "Benedict",
+  "last_name": "Scharner",
+  "birth_date": "2005-04-12",
+  "country_id": 755,
+  "club_id": 16123919,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 160, "p": 22, "g": 4 },
+    { "s": 2022, "c": 16017134, "p": 1 },
+    { "s": 2023, "c": 160, "p": 6 },
+    { "s": 2024, "c": 160, "p": 1 },
+    { "s": 2024, "c": 2201, "p": 0 },
+    { "s": 2024, "c": 16017134, "p": 2 }
+  ]
+}

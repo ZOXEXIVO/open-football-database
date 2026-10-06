@@ -1,0 +1,57 @@
+{
+  "id": 57113687,
+  "name": "UTA Arad",
+  "location": {
+    "city_id": 5800
+  },
+  "finance": {
+    "balance": 439420
+  },
+  "teams": [
+    {
+      "id": 57113687,
+      "name": "UTA Arad",
+      "slug": "uta-arad",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 91200029,
+      "name": "UTA Arad",
+      "slug": "uta-arad-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 91200030,
+      "name": "UTA Arad",
+      "slug": "uta-arad-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e21a23",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Good",
+    "academy": "Good",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 4150
+}

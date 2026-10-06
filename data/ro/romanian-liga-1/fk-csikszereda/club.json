@@ -1,0 +1,57 @@
+{
+  "id": 57110301,
+  "name": "FK Csíkszereda",
+  "location": {
+    "city_id": 5805
+  },
+  "finance": {
+    "balance": 247650
+  },
+  "teams": [
+    {
+      "id": 57110301,
+      "name": "FK Csíkszereda",
+      "slug": "fk-csikszereda",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 91200039,
+      "name": "FK Csíkszereda",
+      "slug": "fk-csikszereda-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 91200040,
+      "name": "FK Csíkszereda",
+      "slug": "fk-csikszereda-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e21a23",
+    "foreground": "#101820"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Excellent",
+    "academy": "Good",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 2100
+}

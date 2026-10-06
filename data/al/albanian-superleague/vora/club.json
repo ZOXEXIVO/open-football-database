@@ -1,0 +1,35 @@
+{
+  "id": 11035510,
+  "name": "Vora",
+  "location": {
+    "city_id": 5928
+  },
+  "finance": {
+    "balance": 292100
+  },
+  "teams": [
+    {
+      "id": 11035510,
+      "name": "Vora",
+      "slug": "vora",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2300,
+        "national": 2300,
+        "world": 2300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#91e3f3",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 340
+}

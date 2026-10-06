@@ -1,0 +1,32 @@
+{
+  "id": 2000485504,
+  "first_name": "Hugo",
+  "last_name": "Sochůrek",
+  "birth_date": "2008-06-07",
+  "country_id": 763,
+  "club_id": 136174,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -75,
+  "contract": {
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 476, "p": 0 }
+  ]
+}

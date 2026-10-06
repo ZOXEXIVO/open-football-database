@@ -1,0 +1,57 @@
+{
+  "id": 57057243,
+  "name": "CS Afumați",
+  "location": {
+    "city_id": 5823
+  },
+  "finance": {
+    "balance": 495300
+  },
+  "teams": [
+    {
+      "id": 57057243,
+      "name": "CS Afumați",
+      "slug": "cs-afumati",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3900,
+        "national": 3900,
+        "world": 3900
+      }
+    },
+    {
+      "id": 96400033,
+      "name": "CS Afumați",
+      "slug": "cs-afumati-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1170,
+        "national": 1170,
+        "world": 1170
+      }
+    },
+    {
+      "id": 96400034,
+      "name": "CS Afumați",
+      "slug": "cs-afumati-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 780,
+        "national": 780,
+        "world": 780
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#324ed9"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Limited",
+    "academy": "Fairly Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 750
+}

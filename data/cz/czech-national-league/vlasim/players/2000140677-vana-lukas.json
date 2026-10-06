@@ -1,0 +1,37 @@
+{
+  "id": 2000140677,
+  "first_name": "Lukáš",
+  "last_name": "Váňa",
+  "birth_date": "2003-05-15",
+  "country_id": 763,
+  "club_id": 25001307,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 100,
+  "contract": {
+    "salary": 14664,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 476, "p": 0 },
+    { "s": 2022, "c": 136174, "p": 22 },
+    { "s": 2023, "c": 136174, "p": 26 },
+    { "s": 2024, "c": 136174, "p": 3 },
+    { "s": 2024, "c": 136205, "p": 16, "g": 2 }
+  ]
+}

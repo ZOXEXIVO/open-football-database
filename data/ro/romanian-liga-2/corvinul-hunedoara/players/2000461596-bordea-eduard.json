@@ -1,0 +1,28 @@
+{
+  "id": 2000461596,
+  "first_name": "Eduard",
+  "last_name": "Bordea",
+  "birth_date": "2009-03-23",
+  "country_id": 790,
+  "club_id": 57153289,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 40,
+  "potential_ability": -35,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 57153289, "p": 0 }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 63002927,
+  "name": "MSK Zilina B",
+  "parent_club": {
+    "id": 1620,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 4201
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 63002927,
+      "name": "MSK Zilina B",
+      "slug": "msk-zilina-b",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3100,
+        "national": 3100,
+        "world": 3100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#4c8e3f"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 180
+}

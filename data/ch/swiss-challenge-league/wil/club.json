@@ -1,0 +1,57 @@
+{
+  "id": 130820,
+  "name": "Wil",
+  "location": {
+    "city_id": 5967
+  },
+  "finance": {
+    "balance": 769620
+  },
+  "teams": [
+    {
+      "id": 130820,
+      "name": "Wil",
+      "slug": "wil",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 97800009,
+      "name": "Wil",
+      "slug": "wil-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 97800010,
+      "name": "Wil",
+      "slug": "wil-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2750
+}

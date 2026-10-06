@@ -1,0 +1,29 @@
+{
+  "id": 2000230360,
+  "first_name": "Francisco",
+  "last_name": "Olivares",
+  "birth_date": "2005-06-06",
+  "country_id": 1652,
+  "club_id": 130796,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2022, "c": 130796, "p": 0 },
+    { "s": 2023, "c": 130796, "p": 0 },
+    { "s": 2024, "c": 130796, "p": 0 }
+  ]
+}

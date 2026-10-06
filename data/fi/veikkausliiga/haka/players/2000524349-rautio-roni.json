@@ -1,0 +1,32 @@
+{
+  "id": 2000524349,
+  "first_name": "Roni",
+  "last_name": "Rautio",
+  "birth_date": "2006-07-12",
+  "country_id": 768,
+  "club_id": 817,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 2000121405, "p": 3 },
+    { "s": 2023, "c": 2000121405, "p": 1 },
+    { "s": 2024, "c": 2000121405, "p": 18, "g": 17 },
+    { "s": 2025, "c": 817, "p": 0 },
+    { "s": 2025, "c": 2000121405, "p": 14, "g": 12 }
+  ]
+}

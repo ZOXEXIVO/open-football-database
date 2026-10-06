@@ -1,0 +1,35 @@
+{
+  "id": 2000083982,
+  "first_name": "Roope",
+  "last_name": "Pakkanen",
+  "birth_date": "2002-06-15",
+  "country_id": 768,
+  "club_id": 514046,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": 94,
+  "contract": {
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 822, "p": 0 },
+    { "s": 2020, "c": 33080416, "p": 9 },
+    { "s": 2021, "c": 822, "p": 0 },
+    { "s": 2021, "c": 33080416, "p": 9 },
+    { "s": 2022, "c": 822, "p": 22, "g": 1 },
+    { "s": 2023, "c": 822, "p": 21, "g": 1 },
+    { "s": 2024, "c": 822, "p": 10 },
+    { "s": 2025, "c": 514046, "p": 17 }
+  ]
+}

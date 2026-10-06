@@ -1,0 +1,35 @@
+{
+  "id": 14108900,
+  "first_name": "Alejo",
+  "last_name": "Lloyaiy",
+  "birth_date": "1997-11-22",
+  "country_id": 1649,
+  "club_id": 952755,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 952755, "p": 29, "g": 5 },
+    { "s": 2019, "c": 952755, "p": 3 },
+    { "s": 2020, "c": 952755, "p": 4 },
+    { "s": 2021, "c": 952755, "p": 15, "g": 1 },
+    { "s": 2022, "c": 952755, "p": 9 },
+    { "s": 2023, "c": 952755, "p": 3 },
+    { "s": 2024, "c": 952755, "p": 14, "g": 1 },
+    { "s": 2025, "c": 952755, "p": 36, "g": 4 }
+  ]
+}

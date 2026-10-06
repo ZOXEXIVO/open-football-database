@@ -1,0 +1,52 @@
+{
+  "id": 2000155895,
+  "first_name": "Adam",
+  "last_name": "Stroud",
+  "birth_date": "2005-04-12",
+  "country_id": 797,
+  "club_id": 2157,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 48308,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 4300206, "p": 5, "g": 1 },
+    { "s": 2020, "c": 4300206, "p": 9, "g": 1 },
+    { "s": 2021, "c": 4300206, "p": 10, "g": 5 },
+    { "s": 2022, "c": 1808, "p": 12 },
+    { "s": 2023, "c": 1808, "p": 14, "g": 2 },
+    { "s": 2024, "c": 1808, "p": 6 },
+    { "s": 2025, "c": 1808, "p": 12 },
+    { "s": 2025, "c": 2157, "p": 0 }
+  ]
+}

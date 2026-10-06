@@ -1,0 +1,37 @@
+{
+  "id": 27164321,
+  "first_name": "Frederik",
+  "last_name": "Heiselberg",
+  "birth_date": "2003-02-11",
+  "country_id": 764,
+  "club_id": 520,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 65
+  },
+  "current_ability": 94,
+  "potential_ability": 110,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 27048330, "p": 0 },
+    { "s": 2018, "c": 526, "p": 0 },
+    { "s": 2019, "c": 526, "p": 0 },
+    { "s": 2020, "c": 526, "p": 0 },
+    { "s": 2021, "c": 526, "p": 0 },
+    { "s": 2022, "c": 504, "p": 16, "g": 3 },
+    { "s": 2022, "c": 526, "p": 10, "g": 1 },
+    { "s": 2023, "c": 481, "p": 17 },
+    { "s": 2024, "c": 526, "p": 0 },
+    { "s": 2025, "c": 1289, "p": 24, "g": 2 }
+  ]
+}

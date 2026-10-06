@@ -1,0 +1,57 @@
+{
+  "id": 2153,
+  "name": "GAIS",
+  "location": {
+    "city_id": 5972
+  },
+  "finance": {
+    "balance": 3810000
+  },
+  "teams": [
+    {
+      "id": 2153,
+      "name": "GAIS",
+      "slug": "gais",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 91500033,
+      "name": "GAIS",
+      "slug": "gais-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 91500034,
+      "name": "GAIS",
+      "slug": "gais-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3cb571",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 5800
+}

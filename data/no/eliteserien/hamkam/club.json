@@ -1,0 +1,57 @@
+{
+  "id": 103283,
+  "name": "HamKam",
+  "location": {
+    "city_id": 6057
+  },
+  "finance": {
+    "balance": 612140
+  },
+  "teams": [
+    {
+      "id": 103283,
+      "name": "HamKam",
+      "slug": "hamkam",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5500,
+        "national": 5500,
+        "world": 5500
+      }
+    },
+    {
+      "id": 91700037,
+      "name": "HamKam",
+      "slug": "hamkam-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1650,
+        "national": 1650,
+        "world": 1650
+      }
+    },
+    {
+      "id": 91700038,
+      "name": "HamKam",
+      "slug": "hamkam-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#3cb571"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Good"
+  },
+  "average_attendance": 5050
+}

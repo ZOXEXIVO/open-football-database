@@ -1,0 +1,57 @@
+{
+  "id": 63010804,
+  "name": "MFK Zvolen",
+  "location": {
+    "city_id": 6016
+  },
+  "finance": {
+    "balance": 381000
+  },
+  "teams": [
+    {
+      "id": 63010804,
+      "name": "MFK Zvolen",
+      "slug": "mfk-zvolen",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    },
+    {
+      "id": 98100015,
+      "name": "MFK Zvolen",
+      "slug": "mfk-zvolen-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    },
+    {
+      "id": 98100016,
+      "name": "MFK Zvolen",
+      "slug": "mfk-zvolen-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 250
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000515601,
+  "first_name": "Vicente",
+  "last_name": "Álvarez",
+  "birth_date": "2006-12-14",
+  "country_id": 1652,
+  "club_id": 75034130,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -7,
+  "international": {"apps": 0, "goals": 0, "u21_apps": 4, "u21_goals": 0},
+  "history": [
+    { "s": 2024, "c": 130784, "p": 0 },
+    { "s": 2025, "c": 130784, "p": 19, "g": 1 }
+  ]
+}

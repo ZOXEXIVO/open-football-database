@@ -1,0 +1,57 @@
+{
+  "id": 1301,
+  "name": "Egersund",
+  "location": {
+    "city_id": 6064
+  },
+  "finance": {
+    "balance": 801370
+  },
+  "teams": [
+    {
+      "id": 1301,
+      "name": "Egersund",
+      "slug": "egersund",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 98400007,
+      "name": "Egersund",
+      "slug": "egersund-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 98400008,
+      "name": "Egersund",
+      "slug": "egersund-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 1350
+}

@@ -1,0 +1,57 @@
+{
+  "id": 925050,
+  "name": "Aarhus Fremad",
+  "location": {
+    "city_id": 5857
+  },
+  "finance": {
+    "balance": 535940
+  },
+  "teams": [
+    {
+      "id": 925050,
+      "name": "Aarhus Fremad",
+      "slug": "aarhus-fremad",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 96800013,
+      "name": "Aarhus Fremad",
+      "slug": "aarhus-fremad-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 96800014,
+      "name": "Aarhus Fremad",
+      "slug": "aarhus-fremad-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#ffe252"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Limited",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1250
+}

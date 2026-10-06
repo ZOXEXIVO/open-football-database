@@ -1,0 +1,30 @@
+{
+  "id": 2000332877,
+  "first_name": "Kalle",
+  "last_name": "Huhta",
+  "birth_date": "2007-04-17",
+  "country_id": 768,
+  "club_id": 8503181,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 8507951, "p": 8, "g": 2 },
+    { "s": 2025, "c": 1300376, "p": 3 },
+    { "s": 2025, "c": 8507951, "p": 15, "g": 4 }
+  ]
+}

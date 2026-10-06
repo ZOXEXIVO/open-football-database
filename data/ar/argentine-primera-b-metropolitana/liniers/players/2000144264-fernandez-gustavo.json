@@ -1,0 +1,31 @@
+{
+  "id": 2000144264,
+  "first_name": "Gustavo",
+  "last_name": "Fernández",
+  "birth_date": "2003-04-15",
+  "country_id": 1649,
+  "club_id": 952716,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 93,
+  "potential_ability": 115,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 102486, "p": 1 },
+    { "s": 2023, "c": 102486, "p": 0 },
+    { "s": 2024, "c": 102486, "p": 6 },
+    { "s": 2025, "c": 102486, "p": 13, "g": 1 }
+  ]
+}

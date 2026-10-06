@@ -1,0 +1,37 @@
+{
+  "id": 2000049731,
+  "first_name": "Pedro",
+  "last_name": "Castorani",
+  "birth_date": "2003-04-24",
+  "country_id": 1649,
+  "club_id": 952710,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 105,
+  "potential_ability": 125,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 952710, "p": 16 },
+    { "s": 2025, "c": 952710, "p": 33 }
+  ]
+}

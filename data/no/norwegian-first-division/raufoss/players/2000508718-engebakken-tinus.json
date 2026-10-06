@@ -1,0 +1,35 @@
+{
+  "id": 2000508718,
+  "first_name": "Tinus",
+  "last_name": "Engebakken",
+  "birth_date": "2009-07-14",
+  "country_id": 786,
+  "club_id": 1374,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 73,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 16900,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 53088559, "p": 8, "g": 1 },
+    { "s": 2025, "c": 1374, "p": 2 },
+    { "s": 2025, "c": 53088559, "p": 13 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 130823,
+  "name": "Nyíregyháza",
+  "location": {
+    "city_id": 5760
+  },
+  "finance": {
+    "balance": 668020
+  },
+  "teams": [
+    {
+      "id": 130823,
+      "name": "Nyíregyháza",
+      "slug": "nyiregyhaza",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    },
+    {
+      "id": 89800031,
+      "name": "Nyíregyháza",
+      "slug": "nyiregyhaza-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1530,
+        "national": 1530,
+        "world": 1530
+      }
+    },
+    {
+      "id": 89800032,
+      "name": "Nyíregyháza",
+      "slug": "nyiregyhaza-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#1b2454"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2350
+}

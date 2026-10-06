@@ -1,0 +1,39 @@
+{
+  "id": 2000287055,
+  "name": "Noah-2",
+  "parent_club": {
+    "id": 59127607,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 2103
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 2000287055,
+      "name": "Noah-2",
+      "slug": "noah-2",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2700,
+        "national": 2700,
+        "world": 2700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 100
+}

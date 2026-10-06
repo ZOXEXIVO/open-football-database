@@ -1,0 +1,28 @@
+{
+  "id": 2000438203,
+  "first_name": "Joaquín",
+  "last_name": "Pérez",
+  "birth_date": "2004-04-01",
+  "country_id": 1649,
+  "club_id": 3101508,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 14057731, "p": 4 }
+  ]
+}

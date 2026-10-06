@@ -1,0 +1,57 @@
+{
+  "id": 7521319,
+  "name": "Karcag",
+  "location": {
+    "city_id": 5773
+  },
+  "finance": {
+    "balance": 189230
+  },
+  "teams": [
+    {
+      "id": 7521319,
+      "name": "Karcag",
+      "slug": "karcag",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 96200023,
+      "name": "Karcag",
+      "slug": "karcag-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 96200024,
+      "name": "Karcag",
+      "slug": "karcag-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#3d7bb8"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 670
+}

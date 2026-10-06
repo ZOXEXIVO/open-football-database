@@ -1,0 +1,30 @@
+{
+  "id": 2000248751,
+  "first_name": "Emmanuel",
+  "last_name": "Asibey",
+  "birth_date": "2004-07-02",
+  "country_id": 21,
+  "club_id": 57151105,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 77,
+  "potential_ability": 103,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 57121813, "p": 9 },
+    { "s": 2023, "c": 57121813, "p": 20, "g": 5 },
+    { "s": 2024, "c": 57151105, "p": 21, "g": 1 }
+  ]
+}

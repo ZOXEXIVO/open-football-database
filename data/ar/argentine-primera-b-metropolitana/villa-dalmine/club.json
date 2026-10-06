@@ -1,0 +1,57 @@
+{
+  "id": 952724,
+  "name": "Villa Dálmine",
+  "location": {
+    "city_id": 6116
+  },
+  "finance": {
+    "balance": 39370
+  },
+  "teams": [
+    {
+      "id": 952724,
+      "name": "Villa Dálmine",
+      "slug": "villa-dalmine",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 98700005,
+      "name": "Villa Dálmine",
+      "slug": "villa-dalmine-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 98700006,
+      "name": "Villa Dálmine",
+      "slug": "villa-dalmine-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#8e27c2",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1650
+}

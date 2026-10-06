@@ -1,0 +1,38 @@
+{
+  "id": 2000468678,
+  "first_name": "Modou Lamin",
+  "last_name": "Marong",
+  "birth_date": "2005-11-27",
+  "country_id": 20,
+  "club_id": 63011666,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 130823, "p": 3 },
+    { "s": 2024, "c": 38013515, "p": 13, "g": 4 },
+    { "s": 2025, "c": 63011666, "p": 15, "g": 6 }
+  ]
+}

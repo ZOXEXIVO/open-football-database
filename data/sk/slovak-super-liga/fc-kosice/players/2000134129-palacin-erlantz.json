@@ -1,0 +1,48 @@
+{
+  "id": 2000134129,
+  "first_name": "Erlantz",
+  "last_name": "Palacín",
+  "birth_date": "2003-02-10",
+  "country_id": 796,
+  "club_id": 63035357,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": 103,
+  "contract": {
+    "expiration": "2028-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1664, "p": 0 },
+    { "s": 2019, "c": 1664, "p": 0 },
+    { "s": 2020, "c": 1664, "p": 0 },
+    { "s": 2021, "c": 1664, "p": 0 },
+    { "s": 2022, "c": 1665, "p": 3, "g": 1 },
+    { "s": 2022, "c": 102014, "p": 17 },
+    { "s": 2023, "c": 1665, "p": 18, "g": 1 },
+    { "s": 2024, "c": 109005, "p": 2 },
+    { "s": 2024, "c": 6706369, "p": 6 }
+  ]
+}

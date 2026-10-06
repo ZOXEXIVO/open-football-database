@@ -1,0 +1,29 @@
+{
+  "id": 2000250086,
+  "first_name": "Alonso",
+  "last_name": "Barría",
+  "birth_date": "2005-02-13",
+  "country_id": 1652,
+  "club_id": 130797,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2023, "c": 130797, "p": 3 },
+    { "s": 2024, "c": 130797, "p": 3 },
+    { "s": 2025, "c": 130797, "p": 11 }
+  ]
+}

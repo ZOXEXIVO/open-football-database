@@ -1,0 +1,35 @@
+{
+  "id": 2000182018,
+  "first_name": "Filip",
+  "last_name": "Järlesand",
+  "birth_date": "2004-03-29",
+  "country_id": 797,
+  "club_id": 1808,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 74,
+  "potential_ability": 95,
+  "contract": {
+    "salary": 28184,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 1786, "p": 0 },
+    { "s": 2021, "c": 1786, "p": 0 },
+    { "s": 2022, "c": 1786, "p": 0 },
+    { "s": 2022, "c": 6400254, "p": 4 },
+    { "s": 2023, "c": 2180, "p": 0 },
+    { "s": 2024, "c": 1786, "p": 0 },
+    { "s": 2025, "c": 2180, "p": 18 }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2000250911,
+  "first_name": "Waliu",
+  "last_name": "Ojetoye",
+  "birth_date": "2004-04-29",
+  "country_id": 38,
+  "club_id": 25001307,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 114,
+  "international": {"apps": 1, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2024, "c": 13174363, "p": 32 },
+    { "s": 2025, "c": 1300671, "p": 0 },
+    { "s": 2025, "c": 13174363, "p": 15 }
+  ]
+}

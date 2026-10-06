@@ -1,0 +1,31 @@
+{
+  "id": 2000129385,
+  "first_name": "Ignacio",
+  "last_name": "Parada",
+  "birth_date": "2003-01-25",
+  "country_id": 1652,
+  "club_id": 75035851,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 90,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 404, "p": 0 },
+    { "s": 2022, "c": 404, "p": 0 },
+    { "s": 2023, "c": 404, "p": 0 },
+    { "s": 2024, "c": 130784, "p": 0 }
+  ]
+}

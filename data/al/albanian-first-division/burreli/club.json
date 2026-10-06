@@ -1,0 +1,35 @@
+{
+  "id": 8351384,
+  "name": "Burreli",
+  "location": {
+    "city_id": 5937
+  },
+  "finance": {
+    "balance": 381000
+  },
+  "teams": [
+    {
+      "id": 8351384,
+      "name": "Burreli",
+      "slug": "burreli",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd900",
+    "foreground": "#324ed9"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 750
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000515325,
+  "first_name": "Daniel",
+  "last_name": "Robles-Larsen",
+  "birth_date": "2009-08-17",
+  "country_id": 786,
+  "club_id": 800118,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2025, "c": 1366, "p": 8 }
+  ]
+}

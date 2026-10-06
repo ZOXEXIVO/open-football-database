@@ -1,0 +1,57 @@
+{
+  "id": 5250445,
+  "name": "Curicó Unido",
+  "location": {
+    "city_id": 6082
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 5250445,
+      "name": "Curicó Unido",
+      "slug": "curico-unido",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 98500013,
+      "name": "Curicó Unido",
+      "slug": "curico-unido-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 98500014,
+      "name": "Curicó Unido",
+      "slug": "curico-unido-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 1600
+}

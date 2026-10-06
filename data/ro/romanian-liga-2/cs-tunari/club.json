@@ -1,0 +1,57 @@
+{
+  "id": 57053599,
+  "name": "CS Tunari",
+  "location": {
+    "city_id": 5820
+  },
+  "finance": {
+    "balance": 43180
+  },
+  "teams": [
+    {
+      "id": 57053599,
+      "name": "CS Tunari",
+      "slug": "cs-tunari",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 96400027,
+      "name": "CS Tunari",
+      "slug": "cs-tunari-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 96400028,
+      "name": "CS Tunari",
+      "slug": "cs-tunari-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 850
+}

@@ -1,0 +1,39 @@
+{
+  "id": 7560713,
+  "name": "Slovan Bratislava U21",
+  "parent_club": {
+    "id": 1622,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 4200
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 7560713,
+      "name": "Slovan Bratislava U21",
+      "slug": "slovan-bratislava-u21",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#5ad5ed",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 350
+}

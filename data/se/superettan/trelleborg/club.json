@@ -1,0 +1,57 @@
+{
+  "id": 1831,
+  "name": "Trelleborg",
+  "location": {
+    "city_id": 5983
+  },
+  "finance": {
+    "balance": 162560
+  },
+  "teams": [
+    {
+      "id": 1831,
+      "name": "Trelleborg",
+      "slug": "trelleborg",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 97900009,
+      "name": "Trelleborg",
+      "slug": "trelleborg-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 97900010,
+      "name": "Trelleborg",
+      "slug": "trelleborg-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2950
+}

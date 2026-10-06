@@ -1,0 +1,36 @@
+{
+  "id": 2000454295,
+  "first_name": "Altin",
+  "last_name": "Azemi",
+  "birth_date": "2009-04-29",
+  "country_id": 798,
+  "club_id": 1857,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": -75,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1857, "p": 7, "g": 1 }
+  ]
+}

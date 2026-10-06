@@ -1,0 +1,57 @@
+{
+  "id": 817,
+  "name": "Haka",
+  "location": {
+    "city_id": 5838
+  },
+  "finance": {
+    "balance": 77470
+  },
+  "teams": [
+    {
+      "id": 817,
+      "name": "Haka",
+      "slug": "haka",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 90800025,
+      "name": "Haka",
+      "slug": "haka-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 90800026,
+      "name": "Haka",
+      "slug": "haka-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1850
+}

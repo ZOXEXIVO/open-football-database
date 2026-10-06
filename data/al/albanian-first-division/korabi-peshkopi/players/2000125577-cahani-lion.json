@@ -1,0 +1,30 @@
+{
+  "id": 2000125577,
+  "first_name": "Lion",
+  "last_name": "Cahani",
+  "birth_date": "2002-01-11",
+  "country_id": 752,
+  "club_id": 11025585,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 62,
+  "potential_ability": 87,
+  "history": [
+    { "s": 2021, "c": 129858, "p": 15, "g": 2 },
+    { "s": 2021, "c": 129866, "p": 14, "g": 3 },
+    { "s": 2022, "c": 126415, "p": 0 },
+    { "s": 2022, "c": 2000032828, "p": 11, "g": 2 }
+  ]
+}

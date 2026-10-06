@@ -1,0 +1,57 @@
+{
+  "id": 2000260278,
+  "name": "Malženice",
+  "location": {
+    "city_id": 6018
+  },
+  "finance": {
+    "balance": 355600
+  },
+  "teams": [
+    {
+      "id": 2000260278,
+      "name": "Malženice",
+      "slug": "malzenice",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    },
+    {
+      "id": 98100019,
+      "name": "Malženice",
+      "slug": "malzenice-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    },
+    {
+      "id": 98100020,
+      "name": "Malženice",
+      "slug": "malzenice-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 560,
+        "national": 560,
+        "world": 560
+      }
+    }
+  ],
+  "colors": {
+    "background": "#62883b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 200
+}

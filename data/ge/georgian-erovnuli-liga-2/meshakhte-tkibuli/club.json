@@ -1,0 +1,57 @@
+{
+  "id": 8062319,
+  "name": "Meshakhte Tkibuli",
+  "location": {
+    "city_id": 5836
+  },
+  "finance": {
+    "balance": 342900
+  },
+  "teams": [
+    {
+      "id": 8062319,
+      "name": "Meshakhte Tkibuli",
+      "slug": "meshakhte-tkibuli",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2700,
+        "national": 2700,
+        "world": 2700
+      }
+    },
+    {
+      "id": 96600005,
+      "name": "Meshakhte Tkibuli",
+      "slug": "meshakhte-tkibuli-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 810,
+        "national": 810,
+        "world": 810
+      }
+    },
+    {
+      "id": 96600006,
+      "name": "Meshakhte Tkibuli",
+      "slug": "meshakhte-tkibuli-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 540,
+        "national": 540,
+        "world": 540
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3f9075",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 120
+}

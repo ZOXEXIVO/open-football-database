@@ -1,0 +1,46 @@
+{
+  "id": 27119205,
+  "first_name": "Thomas",
+  "last_name": "Santos",
+  "birth_date": "1998-10-10",
+  "country_id": 764,
+  "club_id": 714221,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 111,
+  "potential_ability": 120,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 551, "p": 0 },
+    { "s": 2016, "c": 551, "p": 0 },
+    { "s": 2017, "c": 552, "p": 17, "g": 1 },
+    { "s": 2018, "c": 552, "p": 29, "g": 4 },
+    { "s": 2019, "c": 552, "p": 27, "g": 2 },
+    { "s": 2020, "c": 552, "p": 30, "g": 6 },
+    { "s": 2021, "c": 481, "p": 31 },
+    { "s": 2022, "c": 481, "p": 30, "g": 4 },
+    { "s": 2023, "c": 1803, "p": 17, "g": 1 },
+    { "s": 2024, "c": 1803, "p": 20, "g": 2 },
+    { "s": 2025, "c": 1803, "p": 28, "g": 1 }
+  ]
+}

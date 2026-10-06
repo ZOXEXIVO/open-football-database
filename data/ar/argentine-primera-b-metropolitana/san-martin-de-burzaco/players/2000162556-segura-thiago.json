@@ -1,0 +1,32 @@
+{
+  "id": 2000162556,
+  "first_name": "Thiago",
+  "last_name": "Segura",
+  "birth_date": "2005-05-19",
+  "country_id": 1649,
+  "club_id": 952721,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2024, "c": 952721, "p": 1 },
+    { "s": 2025, "c": 952721, "p": 0 }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2000495437,
+  "first_name": "Adrian",
+  "last_name": "Hukkelås-Dørdal",
+  "birth_date": "2007-09-18",
+  "country_id": 786,
+  "club_id": 763464,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 77,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2022, "c": 53087816, "p": 2 },
+    { "s": 2023, "c": 763464, "p": 0 },
+    { "s": 2023, "c": 53087816, "p": 0 },
+    { "s": 2024, "c": 763464, "p": 0 },
+    { "s": 2025, "c": 53088689, "p": 16 }
+  ]
+}

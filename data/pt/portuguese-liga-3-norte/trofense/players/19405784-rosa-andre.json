@@ -1,0 +1,36 @@
+{
+  "id": 19405784,
+  "first_name": "André",
+  "last_name": "Rosa",
+  "birth_date": "2001-07-05",
+  "country_id": 1651,
+  "club_id": 2456,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 101,
+  "contract": {
+    "salary": 13468,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 301310, "p": 0 },
+    { "s": 2023, "c": 2456, "p": 11 },
+    { "s": 2023, "c": 2000293294, "p": 7, "g": 2 },
+    { "s": 2024, "c": 2456, "p": 2 }
+  ]
+}

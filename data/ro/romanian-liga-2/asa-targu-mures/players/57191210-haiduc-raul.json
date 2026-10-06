@@ -1,0 +1,38 @@
+{
+  "id": 57191210,
+  "first_name": "Raul",
+  "last_name": "Haiduc",
+  "birth_date": "2002-10-09",
+  "country_id": 790,
+  "club_id": 2000132627,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": 95,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 57022261, "p": 1 },
+    { "s": 2019, "c": 57022261, "p": 1 },
+    { "s": 2020, "c": 7540205, "p": 0 },
+    { "s": 2021, "c": 57022261, "p": 15, "g": 2 },
+    { "s": 2022, "c": 57022261, "p": 8 },
+    { "s": 2023, "c": 57034210, "p": 11, "g": 2 },
+    { "s": 2024, "c": 57034797, "p": 12 }
+  ]
+}

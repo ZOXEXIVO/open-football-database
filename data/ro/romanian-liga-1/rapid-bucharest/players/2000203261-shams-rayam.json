@@ -1,0 +1,32 @@
+{
+  "id": 2000203261,
+  "first_name": "Rayam",
+  "last_name": "Shams",
+  "birth_date": "2006-07-29",
+  "country_id": 790,
+  "club_id": 57171586,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 35,
+  "potential_ability": -3,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 57171586, "p": 0 }
+  ]
+}

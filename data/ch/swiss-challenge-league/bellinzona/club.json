@@ -1,0 +1,57 @@
+{
+  "id": 1101431,
+  "name": "Bellinzona",
+  "location": {
+    "city_id": 5968
+  },
+  "finance": {
+    "balance": 433070
+  },
+  "teams": [
+    {
+      "id": 1101431,
+      "name": "Bellinzona",
+      "slug": "bellinzona",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 97800011,
+      "name": "Bellinzona",
+      "slug": "bellinzona-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 97800012,
+      "name": "Bellinzona",
+      "slug": "bellinzona-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#8b2435",
+    "foreground": "#8cd1f3"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2750
+}

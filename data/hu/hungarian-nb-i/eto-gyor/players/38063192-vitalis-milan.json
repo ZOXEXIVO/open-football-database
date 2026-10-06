@@ -1,0 +1,45 @@
+{
+  "id": 38063192,
+  "first_name": "Milán",
+  "last_name": "Vitális",
+  "birth_date": "2002-01-28",
+  "country_id": 773,
+  "club_id": 1054,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 116,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 5, "u21_goals": 2},
+  "history": [
+    { "s": 2017, "c": 1054, "p": 0 },
+    { "s": 2018, "c": 1054, "p": 1 },
+    { "s": 2019, "c": 1054, "p": 2 },
+    { "s": 2020, "c": 1054, "p": 38, "g": 6 },
+    { "s": 2021, "c": 1054, "p": 37, "g": 4 },
+    { "s": 2022, "c": 1054, "p": 37, "g": 2 },
+    { "s": 2023, "c": 1614, "p": 24, "g": 3 },
+    { "s": 2024, "c": 1054, "p": 13, "g": 1 },
+    { "s": 2024, "c": 1614, "p": 16, "g": 2 }
+  ]
+}

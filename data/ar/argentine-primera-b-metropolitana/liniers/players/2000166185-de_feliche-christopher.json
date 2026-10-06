@@ -1,0 +1,35 @@
+{
+  "id": 2000166185,
+  "first_name": "Christopher",
+  "last_name": "De Feliche",
+  "birth_date": "1993-06-25",
+  "country_id": 1649,
+  "club_id": 952716,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 99,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 14123517, "p": 16 },
+    { "s": 2018, "c": 14123517, "p": 4 },
+    { "s": 2022, "c": 952716, "p": 10 },
+    { "s": 2022, "c": 14093856, "p": 8 },
+    { "s": 2023, "c": 952716, "p": 32 },
+    { "s": 2024, "c": 952721, "p": 16 },
+    { "s": 2024, "c": 14064649, "p": 13 },
+    { "s": 2025, "c": 2000308155, "p": 25 }
+  ]
+}

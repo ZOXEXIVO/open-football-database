@@ -1,0 +1,57 @@
+{
+  "id": 4102502,
+  "name": "Paredes",
+  "location": {
+    "city_id": 5948
+  },
+  "finance": {
+    "balance": 90170
+  },
+  "teams": [
+    {
+      "id": 4102502,
+      "name": "Paredes",
+      "slug": "paredes",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 97600013,
+      "name": "Paredes",
+      "slug": "paredes-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 97600014,
+      "name": "Paredes",
+      "slug": "paredes-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#4a99e8",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 530
+}

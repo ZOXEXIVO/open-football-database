@@ -1,0 +1,46 @@
+{
+  "id": 2000046131,
+  "first_name": "Samir",
+  "last_name": "Abdullayev",
+  "birth_date": "2002-04-24",
+  "country_id": 756,
+  "club_id": 5321693,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 75,
+  "potential_ability": 100,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 16, "u21_goals": 2},
+  "history": [
+    { "s": 2019, "c": 485430, "p": 0 },
+    { "s": 2019, "c": 59136625, "p": 10 },
+    { "s": 2020, "c": 485430, "p": 0 },
+    { "s": 2020, "c": 59136625, "p": 12, "g": 3 },
+    { "s": 2021, "c": 2000172513, "p": 6 },
+    { "s": 2021, "c": 2000172514, "p": 18, "g": 2 },
+    { "s": 2022, "c": 59008318, "p": 21 },
+    { "s": 2022, "c": 59008334, "p": 1 },
+    { "s": 2023, "c": 59008318, "p": 22, "g": 1 },
+    { "s": 2024, "c": 59008318, "p": 23, "g": 1 }
+  ]
+}

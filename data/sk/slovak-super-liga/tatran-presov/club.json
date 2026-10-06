@@ -1,0 +1,57 @@
+{
+  "id": 1624,
+  "name": "Tatran Prešov",
+  "location": {
+    "city_id": 5992
+  },
+  "finance": {
+    "balance": 95250
+  },
+  "teams": [
+    {
+      "id": 1624,
+      "name": "Tatran Prešov",
+      "slug": "tatran-presov",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 91300029,
+      "name": "Tatran Prešov",
+      "slug": "tatran-presov-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 91300030,
+      "name": "Tatran Prešov",
+      "slug": "tatran-presov-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3cb571",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1100
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2000237243,
+  "first_name": "Leo",
+  "last_name": "Cavallius",
+  "birth_date": "2005-02-20",
+  "country_id": 797,
+  "club_id": 2157,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 128,
+  "contract": {
+    "salary": 36244,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 2157, "p": 0 },
+    { "s": 2020, "c": 2157, "p": 0 },
+    { "s": 2021, "c": 93097541, "p": 0 },
+    { "s": 2022, "c": 93097541, "p": 0 },
+    { "s": 2023, "c": 93097541, "p": 0 },
+    { "s": 2024, "c": 2157, "p": 0 },
+    { "s": 2024, "c": 93097541, "p": 18 },
+    { "s": 2025, "c": 2157, "p": 12 }
+  ]
+}

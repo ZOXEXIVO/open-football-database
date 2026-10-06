@@ -1,0 +1,38 @@
+{
+  "id": 57141946,
+  "first_name": "Andrei",
+  "last_name": "Tofan",
+  "birth_date": "1996-08-02",
+  "country_id": 790,
+  "club_id": 1502,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 56212,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 57057245, "p": 10 },
+    { "s": 2016, "c": 57110237, "p": 15, "g": 1 },
+    { "s": 2017, "c": 1502, "p": 20 },
+    { "s": 2018, "c": 1502, "p": 28 },
+    { "s": 2019, "c": 1502, "p": 23 },
+    { "s": 2020, "c": 1502, "p": 31 },
+    { "s": 2021, "c": 1502, "p": 33 },
+    { "s": 2022, "c": 1502, "p": 34, "g": 1 },
+    { "s": 2023, "c": 1502, "p": 24, "g": 1 },
+    { "s": 2024, "c": 1502, "p": 16 }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 57149442,
+  "first_name": "Stephan",
+  "last_name": "Drăghici",
+  "birth_date": "1998-01-30",
+  "country_id": 790,
+  "club_id": 57141891,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 1, "u21_goals": 0},
+  "history": [
+    { "s": 2016, "c": 7547031, "p": 8 },
+    { "s": 2017, "c": 7540450, "p": 15 },
+    { "s": 2017, "c": 57141886, "p": 9, "g": 2 },
+    { "s": 2018, "c": 57110237, "p": 20 },
+    { "s": 2018, "c": 57111101, "p": 6 },
+    { "s": 2019, "c": 138153, "p": 15 },
+    { "s": 2020, "c": 1502, "p": 26, "g": 2 },
+    { "s": 2021, "c": 57141891, "p": 15, "g": 1 },
+    { "s": 2022, "c": 57141891, "p": 22, "g": 2 },
+    { "s": 2023, "c": 57141891, "p": 24, "g": 2 },
+    { "s": 2024, "c": 57141891, "p": 27 }
+  ]
+}

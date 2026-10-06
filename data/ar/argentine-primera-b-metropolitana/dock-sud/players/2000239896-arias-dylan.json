@@ -1,0 +1,31 @@
+{
+  "id": 2000239896,
+  "first_name": "Dylan",
+  "last_name": "Arias",
+  "birth_date": "2003-03-03",
+  "country_id": 1649,
+  "club_id": 3101506,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 123,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 3101506, "p": 0 },
+    { "s": 2023, "c": 3101506, "p": 0 },
+    { "s": 2024, "c": 3101506, "p": 14, "g": 1 },
+    { "s": 2025, "c": 3101506, "p": 15 }
+  ]
+}

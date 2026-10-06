@@ -1,0 +1,29 @@
+{
+  "id": 2000478688,
+  "first_name": "Lőrinc",
+  "last_name": "Hajós",
+  "birth_date": "2009-01-27",
+  "country_id": 773,
+  "club_id": 1049,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 58,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

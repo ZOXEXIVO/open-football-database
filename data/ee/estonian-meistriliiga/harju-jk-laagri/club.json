@@ -1,0 +1,57 @@
+{
+  "id": 2000085394,
+  "name": "Harju JK Laagri",
+  "location": {
+    "city_id": 5863
+  },
+  "finance": {
+    "balance": 58420
+  },
+  "teams": [
+    {
+      "id": 2000085394,
+      "name": "Harju JK Laagri",
+      "slug": "harju-jk-laagri",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2000,
+        "national": 2000,
+        "world": 2000
+      }
+    },
+    {
+      "id": 92000047,
+      "name": "Harju JK Laagri",
+      "slug": "harju-jk-laagri-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    },
+    {
+      "id": 92000048,
+      "name": "Harju JK Laagri",
+      "slug": "harju-jk-laagri-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Limited",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 110
+}

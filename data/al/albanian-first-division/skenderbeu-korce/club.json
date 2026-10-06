@@ -1,0 +1,35 @@
+{
+  "id": 1300034,
+  "name": "Skënderbeu Korçë",
+  "location": {
+    "city_id": 5931
+  },
+  "finance": {
+    "balance": 495300
+  },
+  "teams": [
+    {
+      "id": 1300034,
+      "name": "Skënderbeu Korçë",
+      "slug": "skenderbeu-korce",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3900,
+        "national": 3900,
+        "world": 3900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Good"
+  },
+  "average_attendance": 2100
+}

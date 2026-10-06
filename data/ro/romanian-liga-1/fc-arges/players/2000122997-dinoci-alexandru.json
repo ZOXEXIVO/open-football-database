@@ -1,0 +1,37 @@
+{
+  "id": 2000122997,
+  "first_name": "Alexandru",
+  "last_name": "Dinoci",
+  "birth_date": "2005-05-06",
+  "country_id": 790,
+  "club_id": 1502,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 61,
+  "potential_ability": 85,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1502, "p": 0 },
+    { "s": 2021, "c": 57002816, "p": 25 },
+    { "s": 2022, "c": 1502, "p": 0 },
+    { "s": 2023, "c": 1502, "p": 7 },
+    { "s": 2024, "c": 1502, "p": 1 },
+    { "s": 2024, "c": 57170885, "p": 8 }
+  ]
+}

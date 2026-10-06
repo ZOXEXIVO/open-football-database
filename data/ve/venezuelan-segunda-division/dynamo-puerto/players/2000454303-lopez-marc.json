@@ -1,0 +1,28 @@
+{
+  "id": 2000454303,
+  "first_name": "Marc",
+  "last_name": "López",
+  "birth_date": "2003-01-03",
+  "country_id": 1658,
+  "club_id": 86075324,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 90,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 86075324, "p": 10 }
+  ]
+}

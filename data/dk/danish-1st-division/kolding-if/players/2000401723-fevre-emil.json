@@ -1,0 +1,28 @@
+{
+  "id": 2000401723,
+  "first_name": "Emil",
+  "last_name": "Fevre",
+  "birth_date": "2008-05-14",
+  "country_id": 764,
+  "club_id": 2121,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 36,
+  "potential_ability": -4,
+  "history": [
+    { "s": 2023, "c": 2121, "p": 0 },
+    { "s": 2024, "c": 2121, "p": 0 }
+  ]
+}

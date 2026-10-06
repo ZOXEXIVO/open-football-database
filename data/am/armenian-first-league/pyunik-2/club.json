@@ -1,0 +1,39 @@
+{
+  "id": 59006209,
+  "name": "Pyunik-2",
+  "parent_club": {
+    "id": 102,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 2100
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 59006209,
+      "name": "Pyunik-2",
+      "slug": "pyunik-2",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2700,
+        "national": 2700,
+        "world": 2700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ce0a17",
+    "foreground": "#fab900"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 100
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000200484,
+  "first_name": "Isak",
+  "last_name": "Vojić",
+  "birth_date": "2006-01-09",
+  "country_id": 755,
+  "club_id": 6002479,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 28756,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 6002479, "p": 14 }
+  ]
+}

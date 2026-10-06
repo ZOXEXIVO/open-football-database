@@ -1,0 +1,57 @@
+{
+  "id": 106363,
+  "name": "Austria Lustenau",
+  "location": {
+    "city_id": 5911
+  },
+  "finance": {
+    "balance": 264160
+  },
+  "teams": [
+    {
+      "id": 106363,
+      "name": "Austria Lustenau",
+      "slug": "austria-lustenau",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 97300007,
+      "name": "Austria Lustenau",
+      "slug": "austria-lustenau-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 97300008,
+      "name": "Austria Lustenau",
+      "slug": "austria-lustenau-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c8c57",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2500
+}

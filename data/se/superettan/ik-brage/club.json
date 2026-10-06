@@ -1,0 +1,57 @@
+{
+  "id": 1807,
+  "name": "IK Brage",
+  "location": {
+    "city_id": 5982
+  },
+  "finance": {
+    "balance": 467360
+  },
+  "teams": [
+    {
+      "id": 1807,
+      "name": "IK Brage",
+      "slug": "ik-brage",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 97900007,
+      "name": "IK Brage",
+      "slug": "ik-brage-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 97900008,
+      "name": "IK Brage",
+      "slug": "ik-brage-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3e8c4b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 3300
+}

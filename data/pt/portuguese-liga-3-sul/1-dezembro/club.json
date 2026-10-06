@@ -1,0 +1,57 @@
+{
+  "id": 55001110,
+  "name": "1º Dezembro",
+  "location": {
+    "city_id": 5957
+  },
+  "finance": {
+    "balance": 115570
+  },
+  "teams": [
+    {
+      "id": 55001110,
+      "name": "1º Dezembro",
+      "slug": "1-dezembro",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 97700015,
+      "name": "1º Dezembro",
+      "slug": "1-dezembro-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 97700016,
+      "name": "1º Dezembro",
+      "slug": "1-dezembro-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 670
+}

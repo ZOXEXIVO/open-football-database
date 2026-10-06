@@ -1,0 +1,57 @@
+{
+  "id": 2000117848,
+  "name": "Gloria Bistrița",
+  "location": {
+    "city_id": 5818
+  },
+  "finance": {
+    "balance": 39370
+  },
+  "teams": [
+    {
+      "id": 2000117848,
+      "name": "Gloria Bistrița",
+      "slug": "gloria-bistrita",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 96400023,
+      "name": "Gloria Bistrița",
+      "slug": "gloria-bistrita-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 96400024,
+      "name": "Gloria Bistrița",
+      "slug": "gloria-bistrita-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 950
+}

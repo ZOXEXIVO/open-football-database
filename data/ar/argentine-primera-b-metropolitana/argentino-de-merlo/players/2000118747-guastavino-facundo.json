@@ -1,0 +1,31 @@
+{
+  "id": 2000118747,
+  "first_name": "Facundo",
+  "last_name": "Guastavino",
+  "birth_date": "2004-04-21",
+  "country_id": 1649,
+  "club_id": 952693,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2025, "c": 952693, "p": 0 }
+  ]
+}

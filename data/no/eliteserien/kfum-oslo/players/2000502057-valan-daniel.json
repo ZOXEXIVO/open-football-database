@@ -1,0 +1,32 @@
+{
+  "id": 2000502057,
+  "first_name": "Daniel",
+  "last_name": "Valan",
+  "birth_date": "2009-08-21",
+  "country_id": 786,
+  "club_id": 800118,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 73,
+  "potential_ability": -65,
+  "history": [
+    { "s": 2024, "c": 1396, "p": 0 },
+    { "s": 2025, "c": 800118, "p": 0 }
+  ]
+}

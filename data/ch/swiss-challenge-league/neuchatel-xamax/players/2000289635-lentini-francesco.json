@@ -1,0 +1,35 @@
+{
+  "id": 2000289635,
+  "first_name": "Francesco",
+  "last_name": "Lentini",
+  "birth_date": "2006-10-24",
+  "country_id": 798,
+  "club_id": 1857,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2024, "c": 1857, "p": 23, "g": 3 }
+  ]
+}

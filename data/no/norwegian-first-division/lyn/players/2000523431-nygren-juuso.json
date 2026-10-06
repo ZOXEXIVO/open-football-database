@@ -1,0 +1,32 @@
+{
+  "id": 2000523431,
+  "first_name": "Juuso",
+  "last_name": "Nygren",
+  "birth_date": "2008-09-14",
+  "country_id": 786,
+  "club_id": 1344,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2024, "c": 53025475, "p": 2 },
+    { "s": 2025, "c": 53025475, "p": 12 }
+  ]
+}

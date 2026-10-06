@@ -1,0 +1,38 @@
+{
+  "id": 93069880,
+  "first_name": "Jerome",
+  "last_name": "Tibbling Ugwo",
+  "birth_date": "1998-11-12",
+  "country_id": 797,
+  "club_id": 1843,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 87,
+  "contract": {
+    "salary": 23140,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2013, "c": 2150, "p": 0 },
+    { "s": 2014, "c": 2150, "p": 0 },
+    { "s": 2015, "c": 2150, "p": 3 },
+    { "s": 2016, "c": 2150, "p": 2 },
+    { "s": 2016, "c": 68012711, "p": 6, "g": 3 },
+    { "s": 2017, "c": 2150, "p": 5, "g": 1 },
+    { "s": 2018, "c": 1833, "p": 11, "g": 1 },
+    { "s": 2023, "c": 149279, "p": 0 },
+    { "s": 2024, "c": 2150, "p": 24, "g": 5 },
+    { "s": 2025, "c": 2150, "p": 29, "g": 13 }
+  ]
+}

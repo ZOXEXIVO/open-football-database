@@ -1,0 +1,41 @@
+{
+  "id": 2000197934,
+  "first_name": "Csongor",
+  "last_name": "Papp",
+  "birth_date": "2005-02-22",
+  "country_id": 773,
+  "club_id": 1068,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 90,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 38006336, "p": 24, "g": 1 },
+    { "s": 2022, "c": 1068, "p": 1 },
+    { "s": 2022, "c": 38006336, "p": 31, "g": 5 },
+    { "s": 2023, "c": 1066, "p": 1 },
+    { "s": 2023, "c": 38013521, "p": 18 },
+    { "s": 2024, "c": 7521338, "p": 19, "g": 1 }
+  ]
+}

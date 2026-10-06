@@ -1,0 +1,47 @@
+{
+  "id": 2000019879,
+  "first_name": "Rafael",
+  "last_name": "Moreira",
+  "birth_date": "2002-04-05",
+  "country_id": 788,
+  "club_id": 736258,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 118,
+  "contract": {
+    "salary": 17940,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 1490, "p": 0 },
+    { "s": 2018, "c": 1490, "p": 0 },
+    { "s": 2019, "c": 83202722, "p": 2 },
+    { "s": 2020, "c": 1489, "p": 0 },
+    { "s": 2021, "c": 1489, "p": 0 },
+    { "s": 2022, "c": 451, "p": 6 },
+    { "s": 2022, "c": 461, "p": 3 },
+    { "s": 2023, "c": 451, "p": 0 },
+    { "s": 2023, "c": 458, "p": 19, "g": 5 },
+    { "s": 2024, "c": 451, "p": 0 },
+    { "s": 2024, "c": 459, "p": 10 }
+  ]
+}

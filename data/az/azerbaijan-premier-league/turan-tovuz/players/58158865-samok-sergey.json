@@ -1,0 +1,36 @@
+{
+  "id": 58158865,
+  "first_name": "Sergey",
+  "last_name": "Samok",
+  "birth_date": "2001-02-15",
+  "country_id": 791,
+  "club_id": 162,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 100,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 58145347, "p": 0 },
+    { "s": 2020, "c": 58145347, "p": 0 },
+    { "s": 2021, "c": 130561, "p": 7 },
+    { "s": 2021, "c": 2000177313, "p": 4 },
+    { "s": 2022, "c": 1527, "p": 11 },
+    { "s": 2022, "c": 58155660, "p": 5 },
+    { "s": 2023, "c": 1522, "p": 9 },
+    { "s": 2023, "c": 1527, "p": 4 },
+    { "s": 2024, "c": 162, "p": 14 }
+  ]
+}

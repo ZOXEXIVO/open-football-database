@@ -1,0 +1,43 @@
+{
+  "id": 2000274750,
+  "first_name": "Xavier",
+  "last_name": "Odhiambo",
+  "birth_date": "2004-10-17",
+  "country_id": 797,
+  "club_id": 1811,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 91,
+  "potential_ability": 119,
+  "contract": {
+    "salary": 20124,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 1811, "p": 0 },
+    { "s": 2021, "c": 1811, "p": 0 },
+    { "s": 2022, "c": 1811, "p": 0 },
+    { "s": 2023, "c": 1811, "p": 6 },
+    { "s": 2024, "c": 1811, "p": 3 },
+    { "s": 2024, "c": 4300693, "p": 2 },
+    { "s": 2025, "c": 1811, "p": 25, "g": 5 }
+  ]
+}

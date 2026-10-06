@@ -1,0 +1,38 @@
+{
+  "id": 2000368648,
+  "first_name": "Antonio",
+  "last_name": "Suciu",
+  "birth_date": "2006-12-16",
+  "country_id": 790,
+  "club_id": 1515,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 1515, "p": 1 },
+    { "s": 2024, "c": 1515, "p": 0 },
+    { "s": 2024, "c": 57175414, "p": 23, "g": 5 }
+  ]
+}

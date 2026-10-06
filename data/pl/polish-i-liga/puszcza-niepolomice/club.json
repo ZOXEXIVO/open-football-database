@@ -1,0 +1,57 @@
+{
+  "id": 96012813,
+  "name": "Puszcza Niepołomice",
+  "location": {
+    "city_id": 5785
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 96012813,
+      "name": "Puszcza Niepołomice",
+      "slug": "puszcza-niepolomice",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 96300007,
+      "name": "Puszcza Niepołomice",
+      "slug": "puszcza-niepolomice-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 96300008,
+      "name": "Puszcza Niepołomice",
+      "slug": "puszcza-niepolomice-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#408e40"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1700
+}

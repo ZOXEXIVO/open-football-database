@@ -1,0 +1,28 @@
+{
+  "id": 2000310327,
+  "first_name": "Frederick",
+  "last_name": "Wolff",
+  "birth_date": "2006-11-08",
+  "country_id": 794,
+  "club_id": 130127,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 900, "p": 0 }
+  ]
+}

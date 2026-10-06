@@ -1,0 +1,52 @@
+{
+  "id": 2000030656,
+  "first_name": "Yanis",
+  "last_name": "Guermouche",
+  "birth_date": "2001-04-15",
+  "country_id": 5,
+  "club_id": 356,
+  "attrs": {
+    "person": {"ada": 12},
+    "player": {
+      "technical": {"cro": 9, "dri": 12, "fin": 11, "hea": 12, "lon": 10, "mar": 6, "pas": 11, "pen": 13, "tck": 7, "fir": 12, "tec": 13, "cor": 8, "fre": 11},
+      "mental": {"otb": 11, "vis": 12, "ant": 12, "dec": 11, "pos": 8, "fla": 13, "tea": 10, "wor": 10, "ldr": 7, "bra": 9, "agg": 8, "cmp": 11, "cnt": 10},
+      "physical": {"acc": 10, "str": 11, "sta": 9, "pac": 10, "jum": 16, "bal": 12, "agi": 11, "nat": 10},
+      "hidden": {"dir": 7, "cns": 13, "inj": 9, "ver": 12}
+    }
+  },
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 116,
+  "value": 207000,
+  "contract": {
+    "salary": 24804,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 2, "u21_goals": 0},
+  "history": [
+    { "s": 2019, "c": 859, "p": 0 },
+    { "s": 2020, "c": 859, "p": 0 },
+    { "s": 2021, "c": 859, "p": 3 },
+    { "s": 2022, "c": 855, "p": 11 },
+    { "s": 2022, "c": 859, "p": 0 },
+    { "s": 2023, "c": 859, "p": 0 },
+    { "s": 2023, "c": 976, "p": 12, "g": 2 },
+    { "s": 2024, "c": 7500388, "p": 15, "g": 2 },
+    { "s": 2024, "c": 22087833, "p": 10 },
+    { "s": 2025, "c": 356, "p": 33, "g": 6 }
+  ],
+  "ids": {
+    "transfermarkt.com": "876034"
+  }
+}

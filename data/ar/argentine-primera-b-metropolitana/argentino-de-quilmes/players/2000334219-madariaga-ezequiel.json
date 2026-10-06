@@ -1,0 +1,29 @@
+{
+  "id": 2000334219,
+  "first_name": "Ezequiel",
+  "last_name": "Madariaga",
+  "birth_date": "2003-01-30",
+  "country_id": 1649,
+  "club_id": 3101496,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 113,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 3101496, "p": 6 },
+    { "s": 2025, "c": 3101496, "p": 3 }
+  ]
+}

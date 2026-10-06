@@ -1,0 +1,30 @@
+{
+  "id": 2000385820,
+  "first_name": "Phillip",
+  "last_name": "Appiah",
+  "birth_date": "2004-11-20",
+  "country_id": 21,
+  "club_id": 1833,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 52,
+  "potential_ability": 77,
+  "contract": {
+    "salary": 16068,
+    "expiration": "2028-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 27155310, "p": 3 },
+    { "s": 2025, "c": 1490, "p": 2 }
+  ]
+}

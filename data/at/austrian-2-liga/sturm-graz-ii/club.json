@@ -1,0 +1,39 @@
+{
+  "id": 5602973,
+  "name": "Sturm Graz II",
+  "parent_club": {
+    "id": 156,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 3003
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 5602973,
+      "name": "Sturm Graz II",
+      "slug": "sturm-graz-ii",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Excellent",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 740
+}

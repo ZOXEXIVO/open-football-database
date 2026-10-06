@@ -1,0 +1,28 @@
+{
+  "id": 2000404584,
+  "first_name": "Joakim",
+  "last_name": "Halsnes Knudsen",
+  "birth_date": "2007-10-27",
+  "country_id": 786,
+  "club_id": 1355,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 53088522, "p": 15, "g": 10 }
+  ]
+}

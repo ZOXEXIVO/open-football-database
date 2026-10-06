@@ -1,0 +1,39 @@
+{
+  "id": 31000544,
+  "name": "Tallinna Kalev U21",
+  "parent_club": {
+    "id": 7681958,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 5864
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 31000544,
+      "name": "Tallinna Kalev U21",
+      "slug": "tallinna-kalev-u21",
+      "team_type": "Main",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3d7bb8",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 100
+}

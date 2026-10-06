@@ -1,0 +1,57 @@
+{
+  "id": 26001619,
+  "name": "AEZ Zakakiou",
+  "location": {
+    "city_id": 5876
+  },
+  "finance": {
+    "balance": 179070
+  },
+  "teams": [
+    {
+      "id": 26001619,
+      "name": "AEZ Zakakiou",
+      "slug": "aez-zakakiou",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 97000005,
+      "name": "AEZ Zakakiou",
+      "slug": "aez-zakakiou-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 97000006,
+      "name": "AEZ Zakakiou",
+      "slug": "aez-zakakiou-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3cb571",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 740
+}

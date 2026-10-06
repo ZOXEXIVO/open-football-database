@@ -1,0 +1,35 @@
+{
+  "id": 2000332426,
+  "first_name": "Vladimír",
+  "last_name": "Vaľko",
+  "birth_date": "2005-01-13",
+  "country_id": 794,
+  "club_id": 63002927,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 63002927, "p": 4, "g": 1 },
+    { "s": 2022, "c": 63002927, "p": 4 },
+    { "s": 2023, "c": 63002927, "p": 9, "g": 5 },
+    { "s": 2024, "c": 63002927, "p": 10 }
+  ]
+}

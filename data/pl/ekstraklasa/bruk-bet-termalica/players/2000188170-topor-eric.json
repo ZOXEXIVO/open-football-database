@@ -1,0 +1,31 @@
+{
+  "id": 2000188170,
+  "first_name": "Eric",
+  "last_name": "Topór",
+  "birth_date": "2005-02-12",
+  "country_id": 787,
+  "club_id": 96000060,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 79,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 2000185018, "p": 17 },
+    { "s": 2023, "c": 96000060, "p": 6 },
+    { "s": 2024, "c": 96020194, "p": 0 },
+    { "s": 2025, "c": 96000060, "p": 0 }
+  ]
+}

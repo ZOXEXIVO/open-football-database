@@ -1,0 +1,57 @@
+{
+  "id": 104361,
+  "name": "Deportes Concepción",
+  "location": {
+    "city_id": 6081
+  },
+  "finance": {
+    "balance": 25400
+  },
+  "teams": [
+    {
+      "id": 104361,
+      "name": "Deportes Concepción",
+      "slug": "deportes-concepcion",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 98500011,
+      "name": "Deportes Concepción",
+      "slug": "deportes-concepcion-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 98500012,
+      "name": "Deportes Concepción",
+      "slug": "deportes-concepcion-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#7427c2",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1800
+}

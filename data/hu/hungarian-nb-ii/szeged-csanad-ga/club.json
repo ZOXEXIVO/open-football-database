@@ -1,0 +1,57 @@
+{
+  "id": 38017639,
+  "name": "Szeged-Csanád GA",
+  "location": {
+    "city_id": 5764
+  },
+  "finance": {
+    "balance": 622300
+  },
+  "teams": [
+    {
+      "id": 38017639,
+      "name": "Szeged-Csanád GA",
+      "slug": "szeged-csanad-ga",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 96200005,
+      "name": "Szeged-Csanád GA",
+      "slug": "szeged-csanad-ga-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 96200006,
+      "name": "Szeged-Csanád GA",
+      "slug": "szeged-csanad-ga-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1300
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000303229,
+  "first_name": "Milán",
+  "last_name": "Ináncsi",
+  "birth_date": "2005-07-09",
+  "country_id": 773,
+  "club_id": 38004842,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 38069428, "p": 10 },
+    { "s": 2023, "c": 38004842, "p": 2, "g": 1 },
+    { "s": 2024, "c": 38004842, "p": 1 },
+    { "s": 2024, "c": 38060137, "p": 12, "g": 1 }
+  ]
+}

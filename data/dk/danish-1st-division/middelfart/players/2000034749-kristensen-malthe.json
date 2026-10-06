@@ -1,0 +1,35 @@
+{
+  "id": 2000034749,
+  "first_name": "Malthe",
+  "last_name": "Kristensen",
+  "birth_date": "2004-07-03",
+  "country_id": 764,
+  "club_id": 930248,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 100,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 502, "p": 0 },
+    { "s": 2020, "c": 502, "p": 0 },
+    { "s": 2021, "c": 502, "p": 4 },
+    { "s": 2022, "c": 502, "p": 1 },
+    { "s": 2023, "c": 502, "p": 0 },
+    { "s": 2023, "c": 1702245, "p": 5, "g": 1 },
+    { "s": 2024, "c": 930248, "p": 24, "g": 1 },
+    { "s": 2024, "c": 27093545, "p": 1 }
+  ]
+}

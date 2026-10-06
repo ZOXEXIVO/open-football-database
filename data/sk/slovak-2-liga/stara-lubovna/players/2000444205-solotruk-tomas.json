@@ -1,0 +1,25 @@
+{
+  "id": 2000444205,
+  "first_name": "Tomáš",
+  "last_name": "Solotruk",
+  "birth_date": "2001-12-30",
+  "country_id": 794,
+  "club_id": 63000897,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 70,
+  "potential_ability": 81,
+  "history": [
+    { "s": 2022, "c": 16009480, "p": 10 },
+    { "s": 2024, "c": 16079320, "p": 15, "g": 4 },
+    { "s": 2025, "c": 16079320, "p": 14, "g": 3 }
+  ]
+}

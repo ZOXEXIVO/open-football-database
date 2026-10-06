@@ -1,0 +1,37 @@
+{
+  "id": 2000046117,
+  "first_name": "Fərid",
+  "last_name": "Yusifli",
+  "birth_date": "2002-02-20",
+  "country_id": 756,
+  "club_id": 162,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 4, "u21_goals": 0},
+  "history": [
+    { "s": 2019, "c": 167, "p": 0 },
+    { "s": 2020, "c": 167, "p": 1 },
+    { "s": 2020, "c": 59006990, "p": 12, "g": 1 },
+    { "s": 2021, "c": 167, "p": 8 },
+    { "s": 2021, "c": 59006990, "p": 9, "g": 2 },
+    { "s": 2022, "c": 167, "p": 19 },
+    { "s": 2022, "c": 59006990, "p": 1 },
+    { "s": 2023, "c": 162, "p": 10 },
+    { "s": 2024, "c": 162, "p": 16 }
+  ]
+}

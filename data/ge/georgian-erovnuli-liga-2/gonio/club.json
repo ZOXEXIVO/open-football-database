@@ -1,0 +1,57 @@
+{
+  "id": 2000124551,
+  "name": "Gonio",
+  "location": {
+    "city_id": 5837
+  },
+  "finance": {
+    "balance": 266700
+  },
+  "teams": [
+    {
+      "id": 2000124551,
+      "name": "Gonio",
+      "slug": "gonio",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2100,
+        "national": 2100,
+        "world": 2100
+      }
+    },
+    {
+      "id": 96600007,
+      "name": "Gonio",
+      "slug": "gonio-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 630,
+        "national": 630,
+        "world": 630
+      }
+    },
+    {
+      "id": 96600008,
+      "name": "Gonio",
+      "slug": "gonio-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 420,
+        "national": 420,
+        "world": 420
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Limited",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 100
+}

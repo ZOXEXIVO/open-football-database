@@ -1,0 +1,39 @@
+{
+  "id": 2000304499,
+  "first_name": "Jore",
+  "last_name": "Nikkilä",
+  "birth_date": "2006-03-04",
+  "country_id": 768,
+  "club_id": 33064668,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 63,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 515941, "p": 0 },
+    { "s": 2022, "c": 33007394, "p": 0 },
+    { "s": 2022, "c": 33084514, "p": 1 },
+    { "s": 2023, "c": 33007394, "p": 0 },
+    { "s": 2023, "c": 33064668, "p": 1 },
+    { "s": 2023, "c": 2000266290, "p": 13, "g": 5 },
+    { "s": 2024, "c": 33064668, "p": 17 },
+    { "s": 2024, "c": 2000266290, "p": 7 }
+  ]
+}

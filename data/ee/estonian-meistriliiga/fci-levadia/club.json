@@ -1,0 +1,57 @@
+{
+  "id": 47081043,
+  "name": "FCI Levadia",
+  "location": {
+    "city_id": 5860
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 47081043,
+      "name": "FCI Levadia",
+      "slug": "fci-levadia",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3400,
+        "national": 3400,
+        "world": 3400
+      }
+    },
+    {
+      "id": 92000041,
+      "name": "FCI Levadia",
+      "slug": "fci-levadia-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    },
+    {
+      "id": 92000042,
+      "name": "FCI Levadia",
+      "slug": "fci-levadia-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 680,
+        "national": 680,
+        "world": 680
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3e8c4b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 530
+}

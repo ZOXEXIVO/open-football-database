@@ -1,0 +1,57 @@
+{
+  "id": 5740900,
+  "name": "Loznica",
+  "location": {
+    "city_id": 6046
+  },
+  "finance": {
+    "balance": 252730
+  },
+  "teams": [
+    {
+      "id": 5740900,
+      "name": "Loznica",
+      "slug": "loznica",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2900,
+        "national": 2900,
+        "world": 2900
+      }
+    },
+    {
+      "id": 98300015,
+      "name": "Loznica",
+      "slug": "loznica-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 870,
+        "national": 870,
+        "world": 870
+      }
+    },
+    {
+      "id": 98300016,
+      "name": "Loznica",
+      "slug": "loznica-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 580,
+        "national": 580,
+        "world": 580
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#53b853"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 190
+}

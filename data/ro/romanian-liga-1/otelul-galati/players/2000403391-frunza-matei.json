@@ -1,0 +1,35 @@
+{
+  "id": 2000403391,
+  "first_name": "Matei",
+  "last_name": "Frunză",
+  "birth_date": "2006-03-12",
+  "country_id": 790,
+  "club_id": 57152989,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 13468,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 57057233, "p": 24, "g": 4 },
+    { "s": 2025, "c": 57152989, "p": 7 },
+    { "s": 2025, "c": 2000310076, "p": 2, "g": 1 }
+  ]
+}

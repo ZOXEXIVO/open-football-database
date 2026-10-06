@@ -1,0 +1,41 @@
+{
+  "id": 2000366559,
+  "first_name": "Sondre",
+  "last_name": "Moksnes",
+  "birth_date": "2008-03-21",
+  "country_id": 786,
+  "club_id": 763464,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 15,
+    "right": 100
+  },
+  "current_ability": 63,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2024, "c": 53154304, "p": 2, "g": 1 },
+    { "s": 2025, "c": 53088689, "p": 12 },
+    { "s": 2025, "c": 53154304, "p": 7 }
+  ]
+}

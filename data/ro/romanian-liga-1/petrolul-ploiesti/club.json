@@ -1,0 +1,57 @@
+{
+  "id": 57151160,
+  "name": "Petrolul Ploiești",
+  "location": {
+    "city_id": 5799
+  },
+  "finance": {
+    "balance": 55880
+  },
+  "teams": [
+    {
+      "id": 57151160,
+      "name": "Petrolul Ploiești",
+      "slug": "petrolul-ploiesti",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 91200027,
+      "name": "Petrolul Ploiești",
+      "slug": "petrolul-ploiesti-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 91200028,
+      "name": "Petrolul Ploiești",
+      "slug": "petrolul-ploiesti-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#324ed9",
+    "foreground": "#ffd900"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 4150
+}

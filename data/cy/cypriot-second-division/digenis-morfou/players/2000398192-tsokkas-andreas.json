@@ -1,0 +1,41 @@
+{
+  "id": 2000398192,
+  "first_name": "Andreas",
+  "last_name": "Tsokkas",
+  "birth_date": "2000-07-25",
+  "country_id": 762,
+  "club_id": 138183,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 72,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 452, "p": 0 },
+    { "s": 2016, "c": 26031118, "p": 0 },
+    { "s": 2017, "c": 26031118, "p": 0 },
+    { "s": 2018, "c": 26031118, "p": 0 },
+    { "s": 2019, "c": 26031118, "p": 0 },
+    { "s": 2020, "c": 149275, "p": 21 },
+    { "s": 2021, "c": 149275, "p": 10, "g": 1 },
+    { "s": 2022, "c": 138181, "p": 12 },
+    { "s": 2023, "c": 138183, "p": 23 },
+    { "s": 2024, "c": 138183, "p": 23 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2000183268,
+  "name": "Považská Bystrica",
+  "location": {
+    "city_id": 5998
+  },
+  "finance": {
+    "balance": 381000
+  },
+  "teams": [
+    {
+      "id": 2000183268,
+      "name": "Považská Bystrica",
+      "slug": "povazska-bystrica",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    },
+    {
+      "id": 98100011,
+      "name": "Považská Bystrica",
+      "slug": "povazska-bystrica-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    },
+    {
+      "id": 98100012,
+      "name": "Považská Bystrica",
+      "slug": "povazska-bystrica-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 250
+}

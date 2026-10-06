@@ -1,0 +1,40 @@
+{
+  "id": 2000205501,
+  "first_name": "Oliwier",
+  "last_name": "Kwiatkowski",
+  "birth_date": "2005-05-02",
+  "country_id": 787,
+  "club_id": 129569,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 91,
+  "potential_ability": 110,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 710027, "p": 11, "g": 2 },
+    { "s": 2021, "c": 710027, "p": 29, "g": 15 },
+    { "s": 2022, "c": 710027, "p": 29, "g": 7 },
+    { "s": 2023, "c": 710027, "p": 19, "g": 9 },
+    { "s": 2024, "c": 129569, "p": 19, "g": 4 }
+  ]
+}

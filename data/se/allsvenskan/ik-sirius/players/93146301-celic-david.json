@@ -1,0 +1,37 @@
+{
+  "id": 93146301,
+  "first_name": "David",
+  "last_name": "Čelić",
+  "birth_date": "2003-03-08",
+  "country_id": 797,
+  "club_id": 2164,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 93,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 38220,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 1787, "p": 0 },
+    { "s": 2018, "c": 1787, "p": 0 },
+    { "s": 2019, "c": 1787, "p": 0 },
+    { "s": 2020, "c": 1787, "p": 0 },
+    { "s": 2021, "c": 1787, "p": 0 },
+    { "s": 2022, "c": 68012711, "p": 18 },
+    { "s": 2023, "c": 6410547, "p": 13 },
+    { "s": 2024, "c": 2164, "p": 1 },
+    { "s": 2025, "c": 2164, "p": 15 }
+  ]
+}

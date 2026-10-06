@@ -1,0 +1,57 @@
+{
+  "id": 137904,
+  "name": "Stade Lausanne-Ouchy",
+  "location": {
+    "city_id": 5964
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 137904,
+      "name": "Stade Lausanne-Ouchy",
+      "slug": "stade-lausanne-ouchy",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5200,
+        "national": 5200,
+        "world": 5200
+      }
+    },
+    {
+      "id": 97800003,
+      "name": "Stade Lausanne-Ouchy",
+      "slug": "stade-lausanne-ouchy-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1560,
+        "national": 1560,
+        "world": 1560
+      }
+    },
+    {
+      "id": 97800004,
+      "name": "Stade Lausanne-Ouchy",
+      "slug": "stade-lausanne-ouchy-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1040,
+        "national": 1040,
+        "world": 1040
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1600
+}

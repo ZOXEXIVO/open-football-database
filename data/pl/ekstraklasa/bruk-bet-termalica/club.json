@@ -1,0 +1,57 @@
+{
+  "id": 96000060,
+  "name": "Bruk-Bet Termalica",
+  "location": {
+    "city_id": 5781
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 96000060,
+      "name": "Bruk-Bet Termalica",
+      "slug": "bruk-bet-termalica",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 89500047,
+      "name": "Bruk-Bet Termalica",
+      "slug": "bruk-bet-termalica-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 89500048,
+      "name": "Bruk-Bet Termalica",
+      "slug": "bruk-bet-termalica-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f26549",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 3750
+}

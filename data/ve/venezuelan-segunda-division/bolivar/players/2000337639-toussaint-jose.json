@@ -1,0 +1,30 @@
+{
+  "id": 2000337639,
+  "first_name": "José",
+  "last_name": "Toussaint",
+  "birth_date": "2002-07-15",
+  "country_id": 1658,
+  "club_id": 2000094829,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 100,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 2000094829, "p": 1 },
+    { "s": 2024, "c": 2000094829, "p": 19 },
+    { "s": 2025, "c": 5300359, "p": 8 }
+  ]
+}

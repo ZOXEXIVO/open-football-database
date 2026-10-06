@@ -1,0 +1,57 @@
+{
+  "id": 952704,
+  "name": "Deportivo Laferrere",
+  "location": {
+    "city_id": 6130
+  },
+  "finance": {
+    "balance": 520700
+  },
+  "teams": [
+    {
+      "id": 952704,
+      "name": "Deportivo Laferrere",
+      "slug": "deportivo-laferrere",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 98700033,
+      "name": "Deportivo Laferrere",
+      "slug": "deportivo-laferrere-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 98700034,
+      "name": "Deportivo Laferrere",
+      "slug": "deportivo-laferrere-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#52b561",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Fairly Basic",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 840
+}

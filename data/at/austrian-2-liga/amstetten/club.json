@@ -1,0 +1,57 @@
+{
+  "id": 5601448,
+  "name": "Amstetten",
+  "location": {
+    "city_id": 5916
+  },
+  "finance": {
+    "balance": 570230
+  },
+  "teams": [
+    {
+      "id": 5601448,
+      "name": "Amstetten",
+      "slug": "amstetten",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5200,
+        "national": 5200,
+        "world": 5200
+      }
+    },
+    {
+      "id": 97300017,
+      "name": "Amstetten",
+      "slug": "amstetten-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1560,
+        "national": 1560,
+        "world": 1560
+      }
+    },
+    {
+      "id": 97300018,
+      "name": "Amstetten",
+      "slug": "amstetten-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1040,
+        "national": 1040,
+        "world": 1040
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#2f55b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2000
+}

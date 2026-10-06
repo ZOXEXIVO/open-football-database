@@ -1,0 +1,30 @@
+{
+  "id": 2000241390,
+  "first_name": "Diego",
+  "last_name": "Farcaş",
+  "birth_date": "2005-11-22",
+  "country_id": 790,
+  "club_id": 57086204,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 57086204, "p": 0 },
+    { "s": 2024, "c": 57072161, "p": 14, "g": 2 },
+    { "s": 2024, "c": 2000207583, "p": 13, "g": 1 }
+  ]
+}

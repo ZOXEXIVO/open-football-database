@@ -1,0 +1,33 @@
+{
+  "id": 2000330211,
+  "first_name": "Lautaro",
+  "last_name": "Rodríguez",
+  "birth_date": "2003-01-02",
+  "country_id": 1649,
+  "club_id": 952691,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 82,
+  "potential_ability": 102,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 955208, "p": 7 },
+    { "s": 2025, "c": 952691, "p": 0 }
+  ]
+}

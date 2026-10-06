@@ -1,0 +1,34 @@
+{
+  "id": 2000244906,
+  "first_name": "Elis",
+  "last_name": "Jäger",
+  "birth_date": "2005-08-23",
+  "country_id": 797,
+  "club_id": 1839,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 24128,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2627, "p": 0 },
+    { "s": 2022, "c": 2627, "p": 0 },
+    { "s": 2023, "c": 2627, "p": 1 },
+    { "s": 2024, "c": 2627, "p": 26 },
+    { "s": 2025, "c": 1839, "p": 3 },
+    { "s": 2025, "c": 2627, "p": 23 }
+  ]
+}

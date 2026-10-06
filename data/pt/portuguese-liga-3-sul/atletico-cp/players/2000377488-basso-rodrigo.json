@@ -1,0 +1,29 @@
+{
+  "id": 2000377488,
+  "first_name": "Rodrigo",
+  "last_name": "Basso",
+  "birth_date": "2007-05-28",
+  "country_id": 788,
+  "club_id": 2440,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 35,
+  "potential_ability": -35,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 2477, "p": 0 },
+    { "s": 2024, "c": 2440, "p": 0 }
+  ]
+}

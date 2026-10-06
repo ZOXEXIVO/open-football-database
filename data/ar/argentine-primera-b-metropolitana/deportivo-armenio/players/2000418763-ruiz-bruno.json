@@ -1,0 +1,32 @@
+{
+  "id": 2000418763,
+  "first_name": "Bruno",
+  "last_name": "Ruíz",
+  "birth_date": "2006-09-30",
+  "country_id": 1649,
+  "club_id": 108578,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 67,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 952728, "p": 0 },
+    { "s": 2023, "c": 108578, "p": 0 },
+    { "s": 2023, "c": 952728, "p": 0 },
+    { "s": 2024, "c": 108578, "p": 0 },
+    { "s": 2025, "c": 108578, "p": 0 }
+  ]
+}

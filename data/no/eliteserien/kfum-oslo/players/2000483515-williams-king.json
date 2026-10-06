@@ -1,0 +1,30 @@
+{
+  "id": 2000483515,
+  "first_name": "King",
+  "last_name": "Williams",
+  "birth_date": "2008-02-20",
+  "country_id": 786,
+  "club_id": 800118,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 58,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 53174941, "p": 3 },
+    { "s": 2025, "c": 53088516, "p": 0 },
+    { "s": 2025, "c": 53174941, "p": 7 }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 2000018573,
+  "first_name": "Gonçalo",
+  "last_name": "Pinto",
+  "birth_date": "2003-04-01",
+  "country_id": 788,
+  "club_id": 2410,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": 103,
+  "contract": {
+    "salary": 12324,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 1494, "p": 0 },
+    { "s": 2020, "c": 1494, "p": 0 },
+    { "s": 2021, "c": 1494, "p": 0 },
+    { "s": 2022, "c": 55056925, "p": 19 },
+    { "s": 2023, "c": 55056925, "p": 12, "g": 1 },
+    { "s": 2024, "c": 55056925, "p": 14 }
+  ]
+}

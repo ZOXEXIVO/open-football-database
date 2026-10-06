@@ -1,0 +1,29 @@
+{
+  "id": 2000307567,
+  "first_name": "Saba",
+  "last_name": "Gegiadze",
+  "birth_date": "2004-01-21",
+  "country_id": 770,
+  "club_id": 59126511,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 110,
+  "history": [
+    { "s": 2023, "c": 59126511, "p": 23, "g": 5 },
+    { "s": 2024, "c": 59126511, "p": 34, "g": 10 },
+    { "s": 2025, "c": 59126511, "p": 35, "g": 13 }
+  ]
+}

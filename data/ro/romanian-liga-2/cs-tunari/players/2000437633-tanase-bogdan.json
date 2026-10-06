@@ -1,0 +1,30 @@
+{
+  "id": 2000437633,
+  "first_name": "Bogdan",
+  "last_name": "Tănase",
+  "birth_date": "2005-12-13",
+  "country_id": 790,
+  "club_id": 57053599,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 57053599, "p": 3 },
+    { "s": 2024, "c": 2000207626, "p": 13, "g": 14 },
+    { "s": 2025, "c": 2000207626, "p": 12, "g": 7 }
+  ]
+}

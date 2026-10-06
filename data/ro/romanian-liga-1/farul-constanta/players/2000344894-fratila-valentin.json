@@ -1,0 +1,29 @@
+{
+  "id": 2000344894,
+  "first_name": "Valentin",
+  "last_name": "Frăţilă",
+  "birth_date": "2008-04-18",
+  "country_id": 790,
+  "club_id": 2000104441,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2000104441, "p": 0 },
+    { "s": 2025, "c": 2000195268, "p": 4 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 160,
+  "name": "St. Pölten",
+  "location": {
+    "city_id": 5910
+  },
+  "finance": {
+    "balance": 698500
+  },
+  "teams": [
+    {
+      "id": 160,
+      "name": "St. Pölten",
+      "slug": "st-polten",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5500,
+        "national": 5500,
+        "world": 5500
+      }
+    },
+    {
+      "id": 97300005,
+      "name": "St. Pölten",
+      "slug": "st-polten-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1650,
+        "national": 1650,
+        "world": 1650
+      }
+    },
+    {
+      "id": 97300006,
+      "name": "St. Pölten",
+      "slug": "st-polten-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#2f55b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 2800
+}

@@ -1,0 +1,57 @@
+{
+  "id": 483918,
+  "name": "Araks Ararat",
+  "location": {
+    "city_id": 5924
+  },
+  "finance": {
+    "balance": 292100
+  },
+  "teams": [
+    {
+      "id": 483918,
+      "name": "Araks Ararat",
+      "slug": "araks-ararat",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2300,
+        "national": 2300,
+        "world": 2300
+      }
+    },
+    {
+      "id": 97400009,
+      "name": "Araks Ararat",
+      "slug": "araks-ararat-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 690,
+        "national": 690,
+        "world": 690
+      }
+    },
+    {
+      "id": 97400010,
+      "name": "Araks Ararat",
+      "slug": "araks-ararat-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 460,
+        "national": 460,
+        "world": 460
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#98f0f0"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Limited",
+    "academy": "Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 100
+}

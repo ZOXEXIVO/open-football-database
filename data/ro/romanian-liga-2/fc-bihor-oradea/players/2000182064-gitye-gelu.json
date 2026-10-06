@@ -1,0 +1,36 @@
+{
+  "id": 2000182064,
+  "first_name": "Gelu",
+  "last_name": "Gitye",
+  "birth_date": "2006-06-27",
+  "country_id": 790,
+  "club_id": 57189800,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 73,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2000111717, "p": 3 },
+    { "s": 2022, "c": 2000111717, "p": 24, "g": 3 },
+    { "s": 2023, "c": 2000111717, "p": 24, "g": 1 },
+    { "s": 2024, "c": 57189800, "p": 19 },
+    { "s": 2025, "c": 57189800, "p": 3 }
+  ]
+}

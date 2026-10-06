@@ -1,0 +1,57 @@
+{
+  "id": 504,
+  "name": "FC Fredericia",
+  "location": {
+    "city_id": 5850
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 504,
+      "name": "FC Fredericia",
+      "slug": "fc-fredericia",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 90600029,
+      "name": "FC Fredericia",
+      "slug": "fc-fredericia-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 90600030,
+      "name": "FC Fredericia",
+      "slug": "fc-fredericia-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2500
+}

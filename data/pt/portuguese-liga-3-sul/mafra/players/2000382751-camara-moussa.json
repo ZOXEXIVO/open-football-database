@@ -1,0 +1,29 @@
+{
+  "id": 2000382751,
+  "first_name": "Moussa",
+  "last_name": "Camara",
+  "birth_date": "2004-06-12",
+  "country_id": 31,
+  "club_id": 736258,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 97,
+  "potential_ability": 136,
+  "contract": {
+    "salary": 15704,
+    "expiration": "2031-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 736258, "p": 3 }
+  ]
+}

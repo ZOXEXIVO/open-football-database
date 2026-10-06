@@ -1,0 +1,57 @@
+{
+  "id": 59118778,
+  "name": "Kolkheti-1913 Poti",
+  "location": {
+    "city_id": 5833
+  },
+  "finance": {
+    "balance": 689610
+  },
+  "teams": [
+    {
+      "id": 59118778,
+      "name": "Kolkheti-1913 Poti",
+      "slug": "kolkheti-1913-poti",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 89100043,
+      "name": "Kolkheti-1913 Poti",
+      "slug": "kolkheti-1913-poti-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 89100044,
+      "name": "Kolkheti-1913 Poti",
+      "slug": "kolkheti-1913-poti-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#ffc62c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 730
+}

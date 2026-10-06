@@ -1,0 +1,57 @@
+{
+  "id": 63011669,
+  "name": "Pohronie",
+  "location": {
+    "city_id": 5997
+  },
+  "finance": {
+    "balance": 381000
+  },
+  "teams": [
+    {
+      "id": 63011669,
+      "name": "Pohronie",
+      "slug": "pohronie",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    },
+    {
+      "id": 98100009,
+      "name": "Pohronie",
+      "slug": "pohronie-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    },
+    {
+      "id": 98100010,
+      "name": "Pohronie",
+      "slug": "pohronie-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 250
+}

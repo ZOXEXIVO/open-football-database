@@ -1,0 +1,57 @@
+{
+  "id": 16324690,
+  "name": "WSG Tirol",
+  "location": {
+    "city_id": 5904
+  },
+  "finance": {
+    "balance": 1007110
+  },
+  "teams": [
+    {
+      "id": 16324690,
+      "name": "WSG Tirol",
+      "slug": "wsg-tirol",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6100,
+        "national": 6100,
+        "world": 6100
+      }
+    },
+    {
+      "id": 90100023,
+      "name": "WSG Tirol",
+      "slug": "wsg-tirol-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1830,
+        "national": 1830,
+        "world": 1830
+      }
+    },
+    {
+      "id": 90100024,
+      "name": "WSG Tirol",
+      "slug": "wsg-tirol-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1220,
+        "national": 1220,
+        "world": 1220
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c8c57",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 5550
+}

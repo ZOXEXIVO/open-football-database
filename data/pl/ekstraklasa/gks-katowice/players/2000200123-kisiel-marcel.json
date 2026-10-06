@@ -1,0 +1,27 @@
+{
+  "id": 2000200123,
+  "first_name": "Marcel",
+  "last_name": "Kisiel",
+  "birth_date": "2005-07-01",
+  "country_id": 787,
+  "club_id": 1451,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 48,
+  "potential_ability": 79,
+  "history": [
+    { "s": 2024, "c": 1451, "p": 0 }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000219857,
+  "first_name": "Soulemane",
+  "last_name": "Ba",
+  "birth_date": "2003-08-19",
+  "country_id": 776,
+  "club_id": 26035636,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 45,
+  "potential_ability": 68,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 36500003, "p": 1 },
+    { "s": 2023, "c": 138181, "p": 0 },
+    { "s": 2023, "c": 25060571, "p": 0 },
+    { "s": 2025, "c": 52077895, "p": 0 }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 32029659,
+  "first_name": "Poul",
+  "last_name": "Kallsberg",
+  "birth_date": "2003-02-04",
+  "country_id": 767,
+  "club_id": 520,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 85,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 1, "goals": 0, "u21_apps": 6, "u21_goals": 0},
+  "history": [
+    { "s": 2019, "c": 7960003, "p": 2 },
+    { "s": 2019, "c": 32020991, "p": 18, "g": 3 },
+    { "s": 2020, "c": 7960003, "p": 27, "g": 2 },
+    { "s": 2021, "c": 7960003, "p": 26, "g": 8 },
+    { "s": 2022, "c": 7960003, "p": 25, "g": 6 },
+    { "s": 2023, "c": 32000519, "p": 24, "g": 5 },
+    { "s": 2023, "c": 32008108, "p": 7, "g": 2 },
+    { "s": 2024, "c": 32000519, "p": 22, "g": 12 },
+    { "s": 2025, "c": 520, "p": 11, "g": 2 },
+    { "s": 2025, "c": 32000519, "p": 16, "g": 6 }
+  ]
+}

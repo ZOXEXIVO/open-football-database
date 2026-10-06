@@ -1,0 +1,35 @@
+{
+  "id": 47104272,
+  "first_name": "Aleksejs",
+  "last_name": "Kudeļkins",
+  "birth_date": "2002-05-08",
+  "country_id": 777,
+  "club_id": 57050239,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 63,
+  "potential_ability": 79,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 11, "u21_goals": 0},
+  "history": [
+    { "s": 2019, "c": 47001127, "p": 0 },
+    { "s": 2020, "c": 47001127, "p": 3 },
+    { "s": 2021, "c": 47001127, "p": 15 },
+    { "s": 2022, "c": 47001127, "p": 24 },
+    { "s": 2023, "c": 47001127, "p": 20 },
+    { "s": 2024, "c": 47001127, "p": 31, "g": 1 },
+    { "s": 2025, "c": 47001127, "p": 29, "g": 1 }
+  ]
+}

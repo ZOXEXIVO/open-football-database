@@ -1,0 +1,50 @@
+{
+  "id": 85145335,
+  "first_name": "Hakim",
+  "last_name": "Abdallah",
+  "birth_date": "1998-01-09",
+  "country_id": 29,
+  "club_id": 57113687,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 107,
+  "potential_ability": 107,
+  "contract": {
+    "salary": 107848,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 15, "goals": 1, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2014, "c": 2061, "p": 0 },
+    { "s": 2015, "c": 721, "p": 0 },
+    { "s": 2015, "c": 2061, "p": 0 },
+    { "s": 2016, "c": 2068, "p": 13, "g": 4 },
+    { "s": 2017, "c": 721, "p": 0 },
+    { "s": 2017, "c": 67182750, "p": 11 },
+    { "s": 2018, "c": 846, "p": 0 },
+    { "s": 2019, "c": 846, "p": 0 },
+    { "s": 2020, "c": 1230, "p": 26, "g": 23 },
+    { "s": 2021, "c": 18008817, "p": 27, "g": 7 },
+    { "s": 2022, "c": 292, "p": 29, "g": 4 },
+    { "s": 2023, "c": 1500, "p": 35, "g": 5 },
+    { "s": 2024, "c": 1500, "p": 31, "g": 4 }
+  ]
+}

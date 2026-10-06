@@ -1,0 +1,57 @@
+{
+  "id": 2000106823,
+  "name": "Omonia 29M",
+  "location": {
+    "city_id": 5875
+  },
+  "finance": {
+    "balance": 381000
+  },
+  "teams": [
+    {
+      "id": 2000106823,
+      "name": "Omonia 29M",
+      "slug": "omonia-29m",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 97000003,
+      "name": "Omonia 29M",
+      "slug": "omonia-29m-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 97000004,
+      "name": "Omonia 29M",
+      "slug": "omonia-29m-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3cb571",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 740
+}

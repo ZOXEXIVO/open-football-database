@@ -1,0 +1,35 @@
+{
+  "id": 2000436580,
+  "first_name": "August",
+  "last_name": "Ny",
+  "birth_date": "2007-05-10",
+  "country_id": 797,
+  "club_id": 1843,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2022, "c": 1843, "p": 0 },
+    { "s": 2023, "c": 1843, "p": 0 },
+    { "s": 2024, "c": 1783, "p": 0 },
+    { "s": 2024, "c": 1843, "p": 0 },
+    { "s": 2025, "c": 1843, "p": 0 }
+  ]
+}

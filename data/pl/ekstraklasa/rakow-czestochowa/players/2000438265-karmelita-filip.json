@@ -1,0 +1,31 @@
+{
+  "id": 2000438265,
+  "first_name": "Filip",
+  "last_name": "Karmelita",
+  "birth_date": "2008-12-08",
+  "country_id": 787,
+  "club_id": 722115,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2024, "c": 2000008356, "p": 17, "g": 1 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 136468,
+  "name": "Dubočica",
+  "location": {
+    "city_id": 6051
+  },
+  "finance": {
+    "balance": 165100
+  },
+  "teams": [
+    {
+      "id": 136468,
+      "name": "Dubočica",
+      "slug": "dubocica",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    },
+    {
+      "id": 98300025,
+      "name": "Dubočica",
+      "slug": "dubocica-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    },
+    {
+      "id": 98300026,
+      "name": "Dubočica",
+      "slug": "dubocica-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 560,
+        "national": 560,
+        "world": 560
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 170
+}

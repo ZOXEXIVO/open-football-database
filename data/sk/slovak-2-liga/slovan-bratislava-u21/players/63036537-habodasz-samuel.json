@@ -1,0 +1,32 @@
+{
+  "id": 63036537,
+  "first_name": "Samuel",
+  "last_name": "Habodasz",
+  "birth_date": "2000-05-26",
+  "country_id": 794,
+  "club_id": 7560713,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 95,
+  "history": [
+    { "s": 2019, "c": 7560713, "p": 17 },
+    { "s": 2020, "c": 7560713, "p": 24 },
+    { "s": 2021, "c": 7560713, "p": 27, "g": 3 },
+    { "s": 2022, "c": 7560713, "p": 27, "g": 1 },
+    { "s": 2023, "c": 7560713, "p": 28, "g": 2 },
+    { "s": 2024, "c": 7560713, "p": 23, "g": 1 }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000176172,
+  "first_name": "Bautista",
+  "last_name": "González",
+  "birth_date": "2004-02-28",
+  "country_id": 1649,
+  "club_id": 3101508,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 3101508, "p": 4 },
+    { "s": 2025, "c": 3101508, "p": 26, "g": 2 }
+  ]
+}

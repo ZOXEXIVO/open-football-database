@@ -1,0 +1,39 @@
+{
+  "id": 59006212,
+  "name": "Ararat-2",
+  "parent_club": {
+    "id": 99,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 2104
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 59006212,
+      "name": "Ararat-2",
+      "slug": "ararat-2",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2100,
+        "national": 2100,
+        "world": 2100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 100
+}

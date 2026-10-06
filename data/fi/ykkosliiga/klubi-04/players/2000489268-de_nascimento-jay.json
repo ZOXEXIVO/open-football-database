@@ -1,0 +1,28 @@
+{
+  "id": 2000489268,
+  "first_name": "Jay",
+  "last_name": "De Nascimento",
+  "birth_date": "2009-01-03",
+  "country_id": 768,
+  "club_id": 8503181,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 8503181, "p": 2 }
+  ]
+}

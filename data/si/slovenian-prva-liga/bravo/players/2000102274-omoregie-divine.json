@@ -1,0 +1,41 @@
+{
+  "id": 2000102274,
+  "first_name": "Divine",
+  "last_name": "Omoregie",
+  "birth_date": "2005-01-19",
+  "country_id": 776,
+  "club_id": 64000753,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 93,
+  "potential_ability": 118,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1111, "p": 0 },
+    { "s": 2022, "c": 2195, "p": 0 },
+    { "s": 2023, "c": 2195, "p": 0 },
+    { "s": 2024, "c": 7580828, "p": 25, "g": 9 },
+    { "s": 2025, "c": 128652, "p": 12 },
+    { "s": 2025, "c": 7580828, "p": 0 }
+  ]
+}

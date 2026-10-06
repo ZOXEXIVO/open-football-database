@@ -1,0 +1,32 @@
+{
+  "id": 2000467032,
+  "first_name": "Bence",
+  "last_name": "Bogdán",
+  "birth_date": "2006-05-01",
+  "country_id": 773,
+  "club_id": 7521283,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 7521283, "p": 1 }
+  ]
+}

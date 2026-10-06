@@ -1,0 +1,35 @@
+{
+  "id": 83297611,
+  "first_name": "Tomás",
+  "last_name": "Igreja",
+  "birth_date": "2002-03-29",
+  "country_id": 788,
+  "club_id": 2395,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": 88,
+  "contract": {
+    "salary": 11232,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 1480, "p": 0 },
+    { "s": 2020, "c": 1480, "p": 0 },
+    { "s": 2021, "c": 2438, "p": 0 },
+    { "s": 2021, "c": 55038918, "p": 4 },
+    { "s": 2022, "c": 2438, "p": 0 },
+    { "s": 2023, "c": 2438, "p": 0 },
+    { "s": 2024, "c": 725010, "p": 4 }
+  ]
+}

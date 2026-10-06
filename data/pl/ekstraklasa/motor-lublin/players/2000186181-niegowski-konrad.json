@@ -1,0 +1,30 @@
+{
+  "id": 2000186181,
+  "first_name": "Konrad",
+  "last_name": "Niegowski",
+  "birth_date": "1998-06-26",
+  "country_id": 787,
+  "club_id": 714221,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 73,
+  "potential_ability": 90,
+  "history": [
+    { "s": 2019, "c": 96130302, "p": 8 },
+    { "s": 2021, "c": 96053467, "p": 31 },
+    { "s": 2022, "c": 96053467, "p": 7 },
+    { "s": 2024, "c": 96049674, "p": 8 }
+  ]
+}

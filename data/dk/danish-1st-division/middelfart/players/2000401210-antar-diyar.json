@@ -1,0 +1,29 @@
+{
+  "id": 2000401210,
+  "first_name": "Diyar",
+  "last_name": "Antar",
+  "birth_date": "2007-01-19",
+  "country_id": 764,
+  "club_id": 930248,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "current_ability": 30,
+  "potential_ability": -35,
+  "history": [
+    { "s": 2023, "c": 504, "p": 0 },
+    { "s": 2023, "c": 930248, "p": 0 },
+    { "s": 2024, "c": 930248, "p": 0 }
+  ]
+}

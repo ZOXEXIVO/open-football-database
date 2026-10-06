@@ -1,0 +1,57 @@
+{
+  "id": 129580,
+  "name": "Arka Gdynia",
+  "location": {
+    "city_id": 5779
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 129580,
+      "name": "Arka Gdynia",
+      "slug": "arka-gdynia",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 89500043,
+      "name": "Arka Gdynia",
+      "slug": "arka-gdynia-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 89500044,
+      "name": "Arka Gdynia",
+      "slug": "arka-gdynia-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#2f55b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 7450
+}

@@ -1,0 +1,30 @@
+{
+  "id": 57213004,
+  "first_name": "Patrik",
+  "last_name": "Kis",
+  "birth_date": "2005-02-02",
+  "country_id": 790,
+  "club_id": 1515,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 90,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 2000056224, "p": 24 },
+    { "s": 2024, "c": 1515, "p": 0 },
+    { "s": 2024, "c": 2000056224, "p": 13 }
+  ]
+}

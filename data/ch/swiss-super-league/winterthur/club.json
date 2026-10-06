@@ -1,0 +1,57 @@
+{
+  "id": 1200101,
+  "name": "Winterthur",
+  "location": {
+    "city_id": 5962
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 1200101,
+      "name": "Winterthur",
+      "slug": "winterthur",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5500,
+        "national": 5500,
+        "world": 5500
+      }
+    },
+    {
+      "id": 93200025,
+      "name": "Winterthur",
+      "slug": "winterthur-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1650,
+        "national": 1650,
+        "world": 1650
+      }
+    },
+    {
+      "id": 93200026,
+      "name": "Winterthur",
+      "slug": "winterthur-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 6800
+}

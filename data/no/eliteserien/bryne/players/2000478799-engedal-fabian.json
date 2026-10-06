@@ -1,0 +1,33 @@
+{
+  "id": 2000478799,
+  "first_name": "Fabian",
+  "last_name": "Engedal",
+  "birth_date": "2005-01-16",
+  "country_id": 786,
+  "club_id": 1295,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 83,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 26312,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1423, "p": 1 },
+    { "s": 2022, "c": 1423, "p": 16, "g": 2 },
+    { "s": 2023, "c": 1423, "p": 17 },
+    { "s": 2024, "c": 1423, "p": 25, "g": 1 },
+    { "s": 2025, "c": 1423, "p": 23, "g": 1 }
+  ]
+}

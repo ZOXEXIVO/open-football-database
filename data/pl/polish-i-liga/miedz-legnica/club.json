@@ -1,0 +1,57 @@
+{
+  "id": 710017,
+  "name": "Miedź Legnica",
+  "location": {
+    "city_id": 5784
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 710017,
+      "name": "Miedź Legnica",
+      "slug": "miedz-legnica",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 96300005,
+      "name": "Miedź Legnica",
+      "slug": "miedz-legnica-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 96300006,
+      "name": "Miedź Legnica",
+      "slug": "miedz-legnica-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 4200
+}

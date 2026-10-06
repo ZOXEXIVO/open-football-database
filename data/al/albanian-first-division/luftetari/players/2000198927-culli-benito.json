@@ -1,0 +1,29 @@
+{
+  "id": 2000198927,
+  "first_name": "Benito",
+  "last_name": "Çulli",
+  "birth_date": "2000-04-10",
+  "country_id": 752,
+  "club_id": 2000435643,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 79,
+  "potential_ability": 95,
+  "history": [
+    { "s": 2019, "c": 11010795, "p": 2 },
+    { "s": 2021, "c": 11010795, "p": 10 },
+    { "s": 2023, "c": 2000435643, "p": 1 }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000390473,
+  "first_name": "Julius",
+  "last_name": "Lockhart",
+  "birth_date": "2007-07-05",
+  "country_id": 764,
+  "club_id": 524,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 44,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 524, "p": 0 },
+    { "s": 2023, "c": 524, "p": 0 },
+    { "s": 2024, "c": 27030664, "p": 1 },
+    { "s": 2025, "c": 524, "p": 0 }
+  ]
+}

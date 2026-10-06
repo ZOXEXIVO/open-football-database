@@ -1,0 +1,29 @@
+{
+  "id": 2000222034,
+  "first_name": "István",
+  "last_name": "Vojtko",
+  "birth_date": "2005-06-28",
+  "country_id": 773,
+  "club_id": 63032360,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2022, "c": 38013513, "p": 3 },
+    { "s": 2023, "c": 38013513, "p": 18 },
+    { "s": 2024, "c": 38013513, "p": 6 }
+  ]
+}

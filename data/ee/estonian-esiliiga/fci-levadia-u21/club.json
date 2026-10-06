@@ -1,0 +1,39 @@
+{
+  "id": 47081060,
+  "name": "FCI Levadia U21",
+  "parent_club": {
+    "id": 47081043,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 5860
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 47081060,
+      "name": "FCI Levadia U21",
+      "slug": "fci-levadia-u21",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3e8c4b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 100
+}

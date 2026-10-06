@@ -1,0 +1,57 @@
+{
+  "id": 59008221,
+  "name": "Araz-Nakhchivan",
+  "location": {
+    "city_id": 5888
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 59008221,
+      "name": "Araz-Nakhchivan",
+      "slug": "araz-nakhchivan",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    },
+    {
+      "id": 93500023,
+      "name": "Araz-Nakhchivan",
+      "slug": "araz-nakhchivan-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1530,
+        "national": 1530,
+        "world": 1530
+      }
+    },
+    {
+      "id": 93500024,
+      "name": "Araz-Nakhchivan",
+      "slug": "araz-nakhchivan-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    }
+  ],
+  "colors": {
+    "background": "#eb0024",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 1250
+}

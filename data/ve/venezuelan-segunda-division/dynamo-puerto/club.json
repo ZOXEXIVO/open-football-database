@@ -1,0 +1,57 @@
+{
+  "id": 86075324,
+  "name": "Dynamo Puerto",
+  "location": {
+    "city_id": 6096
+  },
+  "finance": {
+    "balance": 444500
+  },
+  "teams": [
+    {
+      "id": 86075324,
+      "name": "Dynamo Puerto",
+      "slug": "dynamo-puerto",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 98600007,
+      "name": "Dynamo Puerto",
+      "slug": "dynamo-puerto-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 98600008,
+      "name": "Dynamo Puerto",
+      "slug": "dynamo-puerto-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd642",
+    "foreground": "#86bbf0"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1050
+}

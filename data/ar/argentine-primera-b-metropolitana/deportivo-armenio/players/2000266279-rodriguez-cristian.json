@@ -1,0 +1,34 @@
+{
+  "id": 2000266279,
+  "first_name": "Cristian",
+  "last_name": "Rodríguez",
+  "birth_date": "2004-01-30",
+  "country_id": 1649,
+  "club_id": 108578,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 108578, "p": 1 },
+    { "s": 2024, "c": 108578, "p": 18 },
+    { "s": 2025, "c": 108578, "p": 14 }
+  ]
+}

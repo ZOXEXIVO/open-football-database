@@ -1,0 +1,57 @@
+{
+  "id": 2000467935,
+  "name": "Baník Lehota pod Vtáčnikom",
+  "location": {
+    "city_id": 6020
+  },
+  "finance": {
+    "balance": 317500
+  },
+  "teams": [
+    {
+      "id": 2000467935,
+      "name": "Baník Lehota pod Vtáčnikom",
+      "slug": "banik-lehota-pod-vtacnikom",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2500,
+        "national": 2500,
+        "world": 2500
+      }
+    },
+    {
+      "id": 98100023,
+      "name": "Baník Lehota pod Vtáčnikom",
+      "slug": "banik-lehota-pod-vtacnikom-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 750,
+        "national": 750,
+        "world": 750
+      }
+    },
+    {
+      "id": 98100024,
+      "name": "Baník Lehota pod Vtáčnikom",
+      "slug": "banik-lehota-pod-vtacnikom-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 500,
+        "national": 500,
+        "world": 500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 140
+}

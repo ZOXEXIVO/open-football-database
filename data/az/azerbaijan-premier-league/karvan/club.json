@@ -1,0 +1,57 @@
+{
+  "id": 5321693,
+  "name": "Karvan",
+  "location": {
+    "city_id": 5891
+  },
+  "finance": {
+    "balance": 1134110
+  },
+  "teams": [
+    {
+      "id": 5321693,
+      "name": "Karvan",
+      "slug": "karvan",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 93500029,
+      "name": "Karvan",
+      "slug": "karvan-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 93500030,
+      "name": "Karvan",
+      "slug": "karvan-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 500
+}

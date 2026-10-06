@@ -1,0 +1,40 @@
+{
+  "id": 2000109223,
+  "first_name": "Marek",
+  "last_name": "Kejř",
+  "birth_date": "2001-07-12",
+  "country_id": 763,
+  "club_id": 136197,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 79,
+  "potential_ability": 93,
+  "contract": {
+    "salary": 18356,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 472, "p": 0 },
+    { "s": 2020, "c": 472, "p": 3 },
+    { "s": 2021, "c": 136197, "p": 14 },
+    { "s": 2021, "c": 136204, "p": 13, "g": 3 },
+    { "s": 2022, "c": 136197, "p": 15 },
+    { "s": 2023, "c": 136204, "p": 15, "g": 1 },
+    { "s": 2023, "c": 25060557, "p": 14, "g": 2 },
+    { "s": 2024, "c": 136197, "p": 28, "g": 4 }
+  ]
+}

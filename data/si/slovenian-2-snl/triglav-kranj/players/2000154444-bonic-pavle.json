@@ -1,0 +1,29 @@
+{
+  "id": 2000154444,
+  "first_name": "Pavle",
+  "last_name": "Bonić",
+  "birth_date": "2003-07-19",
+  "country_id": 759,
+  "club_id": 1641,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 98,
+  "history": [
+    { "s": 2020, "c": 650047, "p": 0 },
+    { "s": 2021, "c": 24053788, "p": 1 },
+    { "s": 2022, "c": 62014877, "p": 29, "g": 2 }
+  ]
+}

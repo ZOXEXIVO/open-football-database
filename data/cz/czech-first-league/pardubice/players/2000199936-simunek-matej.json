@@ -1,0 +1,27 @@
+{
+  "id": 2000199936,
+  "first_name": "Matěj",
+  "last_name": "Šimůnek",
+  "birth_date": "2004-06-24",
+  "country_id": 763,
+  "club_id": 5647950,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": 104,
+  "contract": {
+    "salary": 27560,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 5647950, "p": 0 },
+    { "s": 2021, "c": 5647950, "p": 0 },
+    { "s": 2022, "c": 25021185, "p": 2 }
+  ]
+}

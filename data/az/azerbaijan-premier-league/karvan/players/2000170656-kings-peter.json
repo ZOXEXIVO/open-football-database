@@ -1,0 +1,28 @@
+{
+  "id": 2000170656,
+  "first_name": "Peter",
+  "last_name": "Kings",
+  "birth_date": "2001-04-04",
+  "country_id": 38,
+  "club_id": 5321693,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 85,
+  "potential_ability": 100,
+  "history": [
+    { "s": 2022, "c": 17004083, "p": 0 },
+    { "s": 2022, "c": 96500962, "p": 21, "g": 6 }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000507904,
+  "first_name": "Elias",
+  "last_name": "Flo",
+  "birth_date": "2008-06-23",
+  "country_id": 786,
+  "club_id": 1392,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 73,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2024, "c": 53087587, "p": 3, "g": 1 },
+    { "s": 2025, "c": 1392, "p": 1 },
+    { "s": 2025, "c": 53087587, "p": 21, "g": 18 }
+  ]
+}

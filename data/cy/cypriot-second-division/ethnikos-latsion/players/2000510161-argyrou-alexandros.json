@@ -1,0 +1,35 @@
+{
+  "id": 2000510161,
+  "first_name": "Alexandros",
+  "last_name": "Argyrou",
+  "birth_date": "2005-01-11",
+  "country_id": 762,
+  "club_id": 26035636,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": -35,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 460, "p": 0 },
+    { "s": 2022, "c": 138180, "p": 0 },
+    { "s": 2023, "c": 138180, "p": 1 },
+    { "s": 2024, "c": 138180, "p": 2 }
+  ]
+}

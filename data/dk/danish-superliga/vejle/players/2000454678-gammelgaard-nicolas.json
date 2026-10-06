@@ -1,0 +1,37 @@
+{
+  "id": 2000454678,
+  "first_name": "Nicolas",
+  "last_name": "Gammelgaard",
+  "birth_date": "2008-11-06",
+  "country_id": 764,
+  "club_id": 2142,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 80,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 30056,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2142, "p": 0 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2440,
+  "name": "Atlético CP",
+  "location": {
+    "city_id": 5953
+  },
+  "finance": {
+    "balance": 113030
+  },
+  "teams": [
+    {
+      "id": 2440,
+      "name": "Atlético CP",
+      "slug": "atletico-cp",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 97700007,
+      "name": "Atlético CP",
+      "slug": "atletico-cp-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 97700008,
+      "name": "Atlético CP",
+      "slug": "atletico-cp-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd900",
+    "foreground": "#324ed9"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 950
+}

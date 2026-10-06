@@ -1,0 +1,57 @@
+{
+  "id": 952708,
+  "name": "Excursionistas",
+  "location": {
+    "city_id": 6131
+  },
+  "finance": {
+    "balance": 520700
+  },
+  "teams": [
+    {
+      "id": 952708,
+      "name": "Excursionistas",
+      "slug": "excursionistas",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 98700035,
+      "name": "Excursionistas",
+      "slug": "excursionistas-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 98700036,
+      "name": "Excursionistas",
+      "slug": "excursionistas-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c8c57",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Fairly Basic",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 840
+}

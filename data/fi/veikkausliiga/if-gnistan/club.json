@@ -1,0 +1,57 @@
+{
+  "id": 129168,
+  "name": "IF Gnistan",
+  "location": {
+    "city_id": 5840
+  },
+  "finance": {
+    "balance": 64770
+  },
+  "teams": [
+    {
+      "id": 129168,
+      "name": "IF Gnistan",
+      "slug": "if-gnistan",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 90800029,
+      "name": "IF Gnistan",
+      "slug": "if-gnistan-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 90800030,
+      "name": "IF Gnistan",
+      "slug": "if-gnistan-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1200
+}

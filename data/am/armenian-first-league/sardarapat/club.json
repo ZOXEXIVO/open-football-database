@@ -1,0 +1,57 @@
+{
+  "id": 2000472565,
+  "name": "Sardarapat",
+  "location": {
+    "city_id": 5927
+  },
+  "finance": {
+    "balance": 12700
+  },
+  "teams": [
+    {
+      "id": 2000472565,
+      "name": "Sardarapat",
+      "slug": "sardarapat",
+      "team_type": "Main",
+      "reputation": {
+        "home": 100,
+        "national": 100,
+        "world": 100
+      }
+    },
+    {
+      "id": 97400015,
+      "name": "Sardarapat",
+      "slug": "sardarapat-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 30,
+        "national": 30,
+        "world": 30
+      }
+    },
+    {
+      "id": 97400016,
+      "name": "Sardarapat",
+      "slug": "sardarapat-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 20,
+        "national": 20,
+        "world": 20
+      }
+    }
+  ],
+  "colors": {
+    "background": "#eee5ac",
+    "foreground": "#972626"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Poor",
+    "academy": "Poor",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 100
+}

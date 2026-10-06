@@ -1,0 +1,21 @@
+{
+  "id": 2000195876,
+  "first_name": "Arvo",
+  "last_name": "Käkk",
+  "birth_date": "1993-03-05",
+  "country_id": 766,
+  "club_id": 5220102,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 30,
+  "potential_ability": 32,
+  "history": [
+    { "s": 2022, "c": 5220102, "p": 0 },
+    { "s": 2023, "c": 5220102, "p": 1 },
+    { "s": 2024, "c": 5220102, "p": 0 }
+  ]
+}

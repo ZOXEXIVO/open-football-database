@@ -1,0 +1,57 @@
+{
+  "id": 5743879,
+  "name": "Grafičar",
+  "location": {
+    "city_id": 6044
+  },
+  "finance": {
+    "balance": 262890
+  },
+  "teams": [
+    {
+      "id": 5743879,
+      "name": "Grafičar",
+      "slug": "graficar",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3100,
+        "national": 3100,
+        "world": 3100
+      }
+    },
+    {
+      "id": 98300011,
+      "name": "Grafičar",
+      "slug": "graficar-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 930,
+        "national": 930,
+        "world": 930
+      }
+    },
+    {
+      "id": 98300012,
+      "name": "Grafičar",
+      "slug": "graficar-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 620,
+        "national": 620,
+        "world": 620
+      }
+    }
+  ],
+  "colors": {
+    "background": "#7427c2",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 240
+}

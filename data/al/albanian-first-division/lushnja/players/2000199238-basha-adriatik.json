@@ -1,0 +1,22 @@
+{
+  "id": 2000199238,
+  "first_name": "Adriatik",
+  "last_name": "Basha",
+  "birth_date": "1999-02-26",
+  "country_id": 752,
+  "club_id": 1300086,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 81,
+  "history": [
+    { "s": 2020, "c": 1300086, "p": 1 },
+    { "s": 2021, "c": 1300086, "p": 7 },
+    { "s": 2022, "c": 1300086, "p": 25, "g": 1 },
+    { "s": 2023, "c": 1300086, "p": 17, "g": 1 }
+  ]
+}

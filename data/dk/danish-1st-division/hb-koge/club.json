@@ -1,0 +1,57 @@
+{
+  "id": 27035536,
+  "name": "HB Køge",
+  "location": {
+    "city_id": 5854
+  },
+  "finance": {
+    "balance": 40640
+  },
+  "teams": [
+    {
+      "id": 27035536,
+      "name": "HB Køge",
+      "slug": "hb-koge",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 96800007,
+      "name": "HB Køge",
+      "slug": "hb-koge-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 96800008,
+      "name": "HB Køge",
+      "slug": "hb-koge-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#3c72de"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2000
+}

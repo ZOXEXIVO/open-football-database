@@ -1,0 +1,39 @@
+{
+  "id": 136207,
+  "name": "Slavia Prague B",
+  "parent_club": {
+    "id": 474,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 2601
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 136207,
+      "name": "Slavia Prague B",
+      "slug": "slavia-prague-b",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Excellent",
+    "academy": "Excellent",
+    "recruitment": "Good"
+  },
+  "average_attendance": 910
+}

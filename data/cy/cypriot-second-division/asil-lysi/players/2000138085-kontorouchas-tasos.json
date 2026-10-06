@@ -1,0 +1,34 @@
+{
+  "id": 2000138085,
+  "first_name": "Tasos",
+  "last_name": "Kontorouchas",
+  "birth_date": "2005-03-09",
+  "country_id": 772,
+  "club_id": 149276,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 36074947, "p": 0 },
+    { "s": 2020, "c": 36074947, "p": 0 },
+    { "s": 2021, "c": 967, "p": 0 },
+    { "s": 2022, "c": 967, "p": 0 },
+    { "s": 2023, "c": 2000110742, "p": 10 },
+    { "s": 2024, "c": 967, "p": 0 },
+    { "s": 2024, "c": 5410639, "p": 12, "g": 1 }
+  ]
+}

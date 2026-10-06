@@ -1,0 +1,33 @@
+{
+  "id": 2000240559,
+  "first_name": "Gersi",
+  "last_name": "Diamanti",
+  "birth_date": "1999-10-15",
+  "country_id": 752,
+  "club_id": 2000435643,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 80,
+  "history": [
+    { "s": 2018, "c": 63, "p": 3 },
+    { "s": 2019, "c": 63, "p": 16, "g": 1 },
+    { "s": 2020, "c": 63, "p": 15, "g": 4 },
+    { "s": 2021, "c": 63, "p": 6, "g": 3 },
+    { "s": 2022, "c": 8350953, "p": 0 },
+    { "s": 2023, "c": 63, "p": 18, "g": 1 },
+    { "s": 2023, "c": 1300027, "p": 17, "g": 4 }
+  ]
+}

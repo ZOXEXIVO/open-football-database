@@ -1,0 +1,35 @@
+{
+  "id": 68,
+  "name": "Laçi",
+  "location": {
+    "city_id": 5932
+  },
+  "finance": {
+    "balance": 482600
+  },
+  "teams": [
+    {
+      "id": 68,
+      "name": "Laçi",
+      "slug": "laci",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3800,
+        "national": 3800,
+        "world": 3800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1850
+}

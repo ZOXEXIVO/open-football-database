@@ -1,0 +1,39 @@
+{
+  "id": 2000085809,
+  "first_name": "Edvin",
+  "last_name": "Tellgren",
+  "birth_date": "2005-01-19",
+  "country_id": 797,
+  "club_id": 2677,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 128,
+  "contract": {
+    "salary": 36244,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 2598, "p": 0 },
+    { "s": 2020, "c": 2598, "p": 14, "g": 1 },
+    { "s": 2021, "c": 1806, "p": 1 },
+    { "s": 2021, "c": 2598, "p": 7 },
+    { "s": 2022, "c": 1806, "p": 0 },
+    { "s": 2022, "c": 2158, "p": 2 },
+    { "s": 2023, "c": 1806, "p": 0 },
+    { "s": 2023, "c": 2158, "p": 27 },
+    { "s": 2024, "c": 1806, "p": 0 },
+    { "s": 2024, "c": 2180, "p": 30 },
+    { "s": 2025, "c": 2677, "p": 29, "g": 1 }
+  ]
+}

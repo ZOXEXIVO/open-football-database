@@ -1,0 +1,57 @@
+{
+  "id": 2428,
+  "name": "Sanjoanense",
+  "location": {
+    "city_id": 5946
+  },
+  "finance": {
+    "balance": 641350
+  },
+  "teams": [
+    {
+      "id": 2428,
+      "name": "Sanjoanense",
+      "slug": "sanjoanense",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    },
+    {
+      "id": 97600009,
+      "name": "Sanjoanense",
+      "slug": "sanjoanense-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
+      }
+    },
+    {
+      "id": 97600010,
+      "name": "Sanjoanense",
+      "slug": "sanjoanense-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 880,
+        "national": 880,
+        "world": 880
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 750
+}

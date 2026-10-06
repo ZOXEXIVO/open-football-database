@@ -1,0 +1,26 @@
+{
+  "id": 2000230320,
+  "first_name": "Jairo",
+  "last_name": "Ortiz",
+  "birth_date": "2005-05-11",
+  "country_id": 1652,
+  "club_id": 5250445,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2022, "c": 5250445, "p": 0 },
+    { "s": 2023, "c": 5250445, "p": 0 },
+    { "s": 2024, "c": 5250445, "p": 0 },
+    { "s": 2025, "c": 5250445, "p": 0 }
+  ]
+}

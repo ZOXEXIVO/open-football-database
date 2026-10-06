@@ -1,0 +1,57 @@
+{
+  "id": 86049076,
+  "name": "Real Frontera",
+  "location": {
+    "city_id": 6113
+  },
+  "finance": {
+    "balance": 381000
+  },
+  "teams": [
+    {
+      "id": 86049076,
+      "name": "Real Frontera",
+      "slug": "real-frontera",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    },
+    {
+      "id": 98600021,
+      "name": "Real Frontera",
+      "slug": "real-frontera-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    },
+    {
+      "id": 98600022,
+      "name": "Real Frontera",
+      "slug": "real-frontera-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#d42424"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 590
+}

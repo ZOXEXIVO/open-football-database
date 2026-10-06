@@ -1,0 +1,32 @@
+{
+  "id": 2000274521,
+  "first_name": "Stiven",
+  "last_name": "Puçi",
+  "birth_date": "1998-05-03",
+  "country_id": 752,
+  "club_id": 2000435643,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 68,
+  "history": [
+    { "s": 2016, "c": 5756224, "p": 2 },
+    { "s": 2017, "c": 5756224, "p": 3 },
+    { "s": 2018, "c": 490410, "p": 1 },
+    { "s": 2019, "c": 5756224, "p": 21 },
+    { "s": 2022, "c": 36043160, "p": 2 },
+    { "s": 2023, "c": 2000435643, "p": 1 }
+  ]
+}

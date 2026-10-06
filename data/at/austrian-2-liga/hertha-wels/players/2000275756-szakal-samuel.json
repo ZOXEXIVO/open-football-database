@@ -1,0 +1,30 @@
+{
+  "id": 2000275756,
+  "first_name": "Samuel",
+  "last_name": "Szakál",
+  "birth_date": "2005-10-02",
+  "country_id": 794,
+  "club_id": 2000263051,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 79,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 16238407, "p": 3 },
+    { "s": 2024, "c": 2000263051, "p": 7 },
+    { "s": 2024, "c": 2000273245, "p": 14 }
+  ]
+}

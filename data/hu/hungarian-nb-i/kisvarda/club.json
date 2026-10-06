@@ -1,0 +1,57 @@
+{
+  "id": 38013478,
+  "name": "Kisvárda",
+  "location": {
+    "city_id": 5759
+  },
+  "finance": {
+    "balance": 899160
+  },
+  "teams": [
+    {
+      "id": 38013478,
+      "name": "Kisvárda",
+      "slug": "kisvarda",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    },
+    {
+      "id": 89800029,
+      "name": "Kisvárda",
+      "slug": "kisvarda-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1530,
+        "national": 1530,
+        "world": 1530
+      }
+    },
+    {
+      "id": 89800030,
+      "name": "Kisvárda",
+      "slug": "kisvarda-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    }
+  ],
+  "colors": {
+    "background": "#9e2530",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2250
+}

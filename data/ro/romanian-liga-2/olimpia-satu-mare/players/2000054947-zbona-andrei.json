@@ -1,0 +1,37 @@
+{
+  "id": 2000054947,
+  "first_name": "Andrei",
+  "last_name": "Zbona",
+  "birth_date": "2004-12-30",
+  "country_id": 790,
+  "club_id": 57191025,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 52,
+  "potential_ability": -35,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 57022261, "p": 0 },
+    { "s": 2022, "c": 57022261, "p": 15 },
+    { "s": 2023, "c": 57189817, "p": 12, "g": 2 },
+    { "s": 2023, "c": 57191025, "p": 10, "g": 1 },
+    { "s": 2024, "c": 57191025, "p": 0 },
+    { "s": 2025, "c": 57068914, "p": 4, "g": 2 }
+  ]
+}

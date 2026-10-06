@@ -1,0 +1,36 @@
+{
+  "id": 2000297639,
+  "first_name": "Anej",
+  "last_name": "Lorbek",
+  "birth_date": "2006-08-17",
+  "country_id": 795,
+  "club_id": 1641,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1629, "p": 0 },
+    { "s": 2022, "c": 1629, "p": 0 },
+    { "s": 2023, "c": 1629, "p": 6 },
+    { "s": 2024, "c": 1629, "p": 2 },
+    { "s": 2025, "c": 1629, "p": 0 }
+  ]
+}

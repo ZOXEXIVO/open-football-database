@@ -1,0 +1,29 @@
+{
+  "id": 2000512270,
+  "first_name": "Dragoş",
+  "last_name": "Enache",
+  "birth_date": "2007-02-02",
+  "country_id": 790,
+  "club_id": 1515,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 40,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 57190748, "p": 3 },
+    { "s": 2025, "c": 2000207543, "p": 2 }
+  ]
+}

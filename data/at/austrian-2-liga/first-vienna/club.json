@@ -1,0 +1,57 @@
+{
+  "id": 101154,
+  "name": "First Vienna",
+  "location": {
+    "city_id": 5909
+  },
+  "finance": {
+    "balance": 762000
+  },
+  "teams": [
+    {
+      "id": 101154,
+      "name": "First Vienna",
+      "slug": "first-vienna",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5500,
+        "national": 5500,
+        "world": 5500
+      }
+    },
+    {
+      "id": 97300003,
+      "name": "First Vienna",
+      "slug": "first-vienna-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1650,
+        "national": 1650,
+        "world": 1650
+      }
+    },
+    {
+      "id": 97300004,
+      "name": "First Vienna",
+      "slug": "first-vienna-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fff200",
+    "foreground": "#2f55b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2800
+}

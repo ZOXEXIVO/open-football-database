@@ -1,0 +1,32 @@
+{
+  "id": 2000438903,
+  "first_name": "Nemanja",
+  "last_name": "Kalat",
+  "birth_date": "2005-10-13",
+  "country_id": 802,
+  "club_id": 1949,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 99,
+  "potential_ability": -65,
+  "history": [
+    { "s": 2023, "c": 1949, "p": 0 },
+    { "s": 2024, "c": 1949, "p": 12, "g": 1 }
+  ]
+}

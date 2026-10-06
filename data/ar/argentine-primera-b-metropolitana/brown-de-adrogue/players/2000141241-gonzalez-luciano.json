@@ -1,0 +1,39 @@
+{
+  "id": 2000141241,
+  "first_name": "Luciano",
+  "last_name": "González",
+  "birth_date": "2003-06-25",
+  "country_id": 1649,
+  "club_id": 3101502,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 95, "p": 0 },
+    { "s": 2023, "c": 5512793, "p": 0 },
+    { "s": 2024, "c": 5512793, "p": 0 },
+    { "s": 2025, "c": 3101502, "p": 12, "g": 1 }
+  ]
+}

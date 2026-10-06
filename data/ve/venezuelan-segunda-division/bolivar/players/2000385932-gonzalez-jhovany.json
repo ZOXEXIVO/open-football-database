@@ -1,0 +1,30 @@
+{
+  "id": 2000385932,
+  "first_name": "Jhovany",
+  "last_name": "González",
+  "birth_date": "2006-09-02",
+  "country_id": 1658,
+  "club_id": 2000094829,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 5300223, "p": 0 },
+    { "s": 2024, "c": 2000094829, "p": 4 },
+    { "s": 2025, "c": 2000094829, "p": 16 }
+  ]
+}

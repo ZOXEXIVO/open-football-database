@@ -1,0 +1,57 @@
+{
+  "id": 5250434,
+  "name": "Deportes Copiapó",
+  "location": {
+    "city_id": 6080
+  },
+  "finance": {
+    "balance": 31750
+  },
+  "teams": [
+    {
+      "id": 5250434,
+      "name": "Deportes Copiapó",
+      "slug": "deportes-copiapo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 98500009,
+      "name": "Deportes Copiapó",
+      "slug": "deportes-copiapo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 98500010,
+      "name": "Deportes Copiapó",
+      "slug": "deportes-copiapo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 2000
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2000103029,
+  "first_name": "Nicola",
+  "last_name": "Wojnar",
+  "birth_date": "2005-10-02",
+  "country_id": 755,
+  "club_id": 16273047,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 22464,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 16273047, "p": 17, "g": 3 },
+    { "s": 2024, "c": 16273047, "p": 27, "g": 1 }
+  ]
+}

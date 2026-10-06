@@ -1,0 +1,57 @@
+{
+  "id": 130796,
+  "name": "Deportes La Serena",
+  "location": {
+    "city_id": 6074
+  },
+  "finance": {
+    "balance": 148590
+  },
+  "teams": [
+    {
+      "id": 130796,
+      "name": "Deportes La Serena",
+      "slug": "deportes-la-serena",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 90300039,
+      "name": "Deportes La Serena",
+      "slug": "deportes-la-serena-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1470,
+        "national": 1470,
+        "world": 1470
+      }
+    },
+    {
+      "id": 90300040,
+      "name": "Deportes La Serena",
+      "slug": "deportes-la-serena-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 980,
+        "national": 980,
+        "world": 980
+      }
+    }
+  ],
+  "colors": {
+    "background": "#9e2530",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2550
+}

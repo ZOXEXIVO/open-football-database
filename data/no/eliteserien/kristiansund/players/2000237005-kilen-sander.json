@@ -1,0 +1,45 @@
+{
+  "id": 2000237005,
+  "first_name": "Sander",
+  "last_name": "Kilen",
+  "birth_date": "2005-05-30",
+  "country_id": 786,
+  "club_id": 763464,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 127,
+  "contract": {
+    "salary": 45136,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 53087587, "p": 6 },
+    { "s": 2022, "c": 53087587, "p": 17, "g": 3 },
+    { "s": 2023, "c": 1289, "p": 1 },
+    { "s": 2024, "c": 1289, "p": 23, "g": 4 },
+    { "s": 2025, "c": 763464, "p": 30, "g": 5 }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000360247,
+  "first_name": "Danylo",
+  "last_name": "Moiseiev",
+  "birth_date": "2007-07-26",
+  "country_id": 800,
+  "club_id": 63011666,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 71044337, "p": 0 },
+    { "s": 2021, "c": 71044337, "p": 0 },
+    { "s": 2023, "c": 71044337, "p": 0 },
+    { "s": 2024, "c": 1885, "p": 0 }
+  ]
+}

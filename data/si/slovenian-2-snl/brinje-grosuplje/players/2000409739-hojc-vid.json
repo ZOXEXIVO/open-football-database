@@ -1,0 +1,30 @@
+{
+  "id": 2000409739,
+  "first_name": "Vid",
+  "last_name": "Hojč",
+  "birth_date": "2005-03-30",
+  "country_id": 795,
+  "club_id": 7580709,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2021, "c": 7580709, "p": 0 },
+    { "s": 2022, "c": 7580709, "p": 0 },
+    { "s": 2023, "c": 64000753, "p": 0 },
+    { "s": 2024, "c": 64000753, "p": 0 }
+  ]
+}

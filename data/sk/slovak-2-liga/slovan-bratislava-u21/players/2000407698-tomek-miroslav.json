@@ -1,0 +1,25 @@
+{
+  "id": 2000407698,
+  "first_name": "Miroslav",
+  "last_name": "Tomek",
+  "birth_date": "2001-11-01",
+  "country_id": 763,
+  "club_id": 7560713,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 84,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 16036198, "p": 27, "g": 5 },
+    { "s": 2025, "c": 7560050, "p": 5, "g": 1 }
+  ]
+}

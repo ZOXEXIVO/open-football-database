@@ -1,0 +1,27 @@
+{
+  "id": 2000229305,
+  "first_name": "Chabuki",
+  "last_name": "Labadze",
+  "birth_date": "2004-02-01",
+  "country_id": 770,
+  "club_id": 2000350943,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": 95,
+  "history": [
+    { "s": 2022, "c": 59121254, "p": 5, "g": 1 },
+    { "s": 2024, "c": 59126511, "p": 22 },
+    { "s": 2024, "c": 2000350943, "p": 0 },
+    { "s": 2025, "c": 2000350943, "p": 0 },
+    { "s": 2025, "c": 2000350959, "p": 22, "g": 1 }
+  ]
+}

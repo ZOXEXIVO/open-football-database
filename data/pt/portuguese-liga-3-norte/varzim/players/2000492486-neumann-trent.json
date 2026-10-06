@@ -1,0 +1,29 @@
+{
+  "id": 2000492486,
+  "first_name": "Trent",
+  "last_name": "Neumann",
+  "birth_date": "2006-07-06",
+  "country_id": 364,
+  "club_id": 2394,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 10088,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 84107052, "p": 10, "g": 3 }
+  ]
+}

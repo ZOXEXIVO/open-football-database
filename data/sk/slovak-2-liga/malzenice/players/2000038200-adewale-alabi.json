@@ -1,0 +1,27 @@
+{
+  "id": 2000038200,
+  "first_name": "Alabi",
+  "last_name": "Adewale",
+  "birth_date": "2001-01-03",
+  "country_id": 38,
+  "club_id": 2000260278,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 70,
+  "potential_ability": 80,
+  "history": [
+    { "s": 2020, "c": 454840, "p": 2 }
+  ]
+}

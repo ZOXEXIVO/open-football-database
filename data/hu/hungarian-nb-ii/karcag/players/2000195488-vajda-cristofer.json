@@ -1,0 +1,31 @@
+{
+  "id": 2000195488,
+  "first_name": "Cristofer",
+  "last_name": "Vajda",
+  "birth_date": "2004-01-10",
+  "country_id": 773,
+  "club_id": 7521319,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 38060023, "p": 8 },
+    { "s": 2022, "c": 7522812, "p": 37, "g": 6 },
+    { "s": 2023, "c": 7521288, "p": 3, "g": 1 },
+    { "s": 2023, "c": 7521319, "p": 14 }
+  ]
+}

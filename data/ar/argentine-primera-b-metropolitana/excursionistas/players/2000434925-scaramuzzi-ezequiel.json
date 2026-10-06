@@ -1,0 +1,32 @@
+{
+  "id": 2000434925,
+  "first_name": "Ezequiel",
+  "last_name": "Scaramuzzi",
+  "birth_date": "2004-08-19",
+  "country_id": 1649,
+  "club_id": 952708,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2024, "c": 952708, "p": 0 },
+    { "s": 2025, "c": 952708, "p": 17 }
+  ]
+}

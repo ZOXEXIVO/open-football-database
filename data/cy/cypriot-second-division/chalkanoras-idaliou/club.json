@@ -1,0 +1,57 @@
+{
+  "id": 694452,
+  "name": "Chalkanoras Idaliou",
+  "location": {
+    "city_id": 5882
+  },
+  "finance": {
+    "balance": 186690
+  },
+  "teams": [
+    {
+      "id": 694452,
+      "name": "Chalkanoras Idaliou",
+      "slug": "chalkanoras-idaliou",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 97000017,
+      "name": "Chalkanoras Idaliou",
+      "slug": "chalkanoras-idaliou-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 97000018,
+      "name": "Chalkanoras Idaliou",
+      "slug": "chalkanoras-idaliou-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 190
+}

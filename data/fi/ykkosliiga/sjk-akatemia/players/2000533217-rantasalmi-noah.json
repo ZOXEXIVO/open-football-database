@@ -1,0 +1,35 @@
+{
+  "id": 2000533217,
+  "first_name": "Noah",
+  "last_name": "Rantasalmi",
+  "birth_date": "2008-07-13",
+  "country_id": 768,
+  "club_id": 33064668,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 513014, "p": 4, "g": 3 },
+    { "s": 2025, "c": 33007394, "p": 0 },
+    { "s": 2025, "c": 33064668, "p": 3 },
+    { "s": 2025, "c": 2000266290, "p": 17, "g": 6 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 59020471,
+  "name": "Gareji Sagarejo",
+  "location": {
+    "city_id": 5832
+  },
+  "finance": {
+    "balance": 383540
+  },
+  "teams": [
+    {
+      "id": 59020471,
+      "name": "Gareji Sagarejo",
+      "slug": "gareji-sagarejo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 89100041,
+      "name": "Gareji Sagarejo",
+      "slug": "gareji-sagarejo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 89100042,
+      "name": "Gareji Sagarejo",
+      "slug": "gareji-sagarejo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#eee5ac"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 730
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2000180636,
+  "first_name": "Robert",
+  "last_name": "Lăpădătescu",
+  "birth_date": "2006-11-08",
+  "country_id": 790,
+  "club_id": 57055056,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 57117617, "p": 1 },
+    { "s": 2022, "c": 57117617, "p": 7 },
+    { "s": 2023, "c": 57111101, "p": 0 },
+    { "s": 2023, "c": 57117617, "p": 21, "g": 1 },
+    { "s": 2024, "c": 57111101, "p": 0 }
+  ]
+}

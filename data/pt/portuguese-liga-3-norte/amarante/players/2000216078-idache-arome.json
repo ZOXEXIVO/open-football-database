@@ -1,0 +1,41 @@
+{
+  "id": 2000216078,
+  "first_name": "Arome",
+  "last_name": "Idache",
+  "birth_date": "2002-01-04",
+  "country_id": 38,
+  "club_id": 109042,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 101,
+  "contract": {
+    "salary": 10088,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 16027118, "p": 0 },
+    { "s": 2019, "c": 16027118, "p": 0 },
+    { "s": 2020, "c": 16027118, "p": 0 },
+    { "s": 2021, "c": 2406, "p": 0 },
+    { "s": 2021, "c": 83208746, "p": 7, "g": 12 },
+    { "s": 2022, "c": 2406, "p": 2 },
+    { "s": 2022, "c": 83208746, "p": 6, "g": 4 },
+    { "s": 2023, "c": 2406, "p": 3 },
+    { "s": 2023, "c": 83208746, "p": 20, "g": 11 }
+  ]
+}

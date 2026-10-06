@@ -1,0 +1,57 @@
+{
+  "id": 715911,
+  "name": "Stal Mielec",
+  "location": {
+    "city_id": 5782
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 715911,
+      "name": "Stal Mielec",
+      "slug": "stal-mielec",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 96300001,
+      "name": "Stal Mielec",
+      "slug": "stal-mielec-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 96300002,
+      "name": "Stal Mielec",
+      "slug": "stal-mielec-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 5500
+}

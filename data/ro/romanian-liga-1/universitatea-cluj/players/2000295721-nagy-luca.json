@@ -1,0 +1,29 @@
+{
+  "id": 2000295721,
+  "first_name": "Luca",
+  "last_name": "Nagy",
+  "birth_date": "2006-02-20",
+  "country_id": 790,
+  "club_id": 1515,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 1515, "p": 0 },
+    { "s": 2024, "c": 57207780, "p": 23, "g": 2 }
+  ]
+}

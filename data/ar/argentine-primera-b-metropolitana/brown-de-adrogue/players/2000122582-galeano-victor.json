@@ -1,0 +1,29 @@
+{
+  "id": 2000122582,
+  "first_name": "Víctor",
+  "last_name": "Galeano",
+  "birth_date": "2005-01-11",
+  "country_id": 1655,
+  "club_id": 3101502,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

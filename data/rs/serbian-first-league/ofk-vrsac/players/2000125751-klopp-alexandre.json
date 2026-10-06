@@ -1,0 +1,38 @@
+{
+  "id": 2000125751,
+  "first_name": "Alexandre",
+  "last_name": "Klopp",
+  "birth_date": "2000-03-07",
+  "country_id": 769,
+  "club_id": 62085128,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 90,
+  "history": [
+    { "s": 2020, "c": 129878, "p": 28 },
+    { "s": 2021, "c": 442, "p": 6 },
+    { "s": 2023, "c": 661680, "p": 15, "g": 1 },
+    { "s": 2024, "c": 661680, "p": 31, "g": 4 }
+  ]
+}

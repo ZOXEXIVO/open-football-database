@@ -1,0 +1,26 @@
+{
+  "id": 2000513000,
+  "first_name": "Brayan",
+  "last_name": "Diaz",
+  "birth_date": "2003-03-16",
+  "country_id": 1653,
+  "club_id": 2428,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 95,
+  "contract": {
+    "salary": 10088,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 57000252,
+  "name": "Concordia Chiajna",
+  "location": {
+    "city_id": 5812
+  },
+  "finance": {
+    "balance": 584200
+  },
+  "teams": [
+    {
+      "id": 57000252,
+      "name": "Concordia Chiajna",
+      "slug": "concordia-chiajna",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 96400011,
+      "name": "Concordia Chiajna",
+      "slug": "concordia-chiajna-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 96400012,
+      "name": "Concordia Chiajna",
+      "slug": "concordia-chiajna-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#00be14",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1650
+}

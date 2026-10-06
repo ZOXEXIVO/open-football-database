@@ -1,0 +1,49 @@
+{
+  "id": 2000085648,
+  "first_name": "Kacper",
+  "last_name": "Masiak",
+  "birth_date": "2005-01-11",
+  "country_id": 787,
+  "club_id": 130127,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 81,
+  "potential_ability": 110,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1469, "p": 1 },
+    { "s": 2021, "c": 96069349, "p": 8 },
+    { "s": 2022, "c": 96069349, "p": 23, "g": 1 },
+    { "s": 2023, "c": 96069349, "p": 19 },
+    { "s": 2023, "c": 2000008356, "p": 9, "g": 1 },
+    { "s": 2024, "c": 717835, "p": 23, "g": 1 }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2000318428,
+  "first_name": "Kristian",
+  "last_name": "Pallesen Knudsen",
+  "birth_date": "2005-06-24",
+  "country_id": 786,
+  "club_id": 1378,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2022, "c": 53088756, "p": 11 },
+    { "s": 2023, "c": 53088756, "p": 23, "g": 2 },
+    { "s": 2024, "c": 53138184, "p": 8, "g": 1 },
+    { "s": 2024, "c": 2000319239, "p": 15 },
+    { "s": 2025, "c": 53072646, "p": 11 }
+  ]
+}

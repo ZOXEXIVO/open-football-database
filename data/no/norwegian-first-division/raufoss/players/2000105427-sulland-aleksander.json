@@ -1,0 +1,44 @@
+{
+  "id": 2000105427,
+  "first_name": "Aleksander",
+  "last_name": "Sulland",
+  "birth_date": "2006-06-04",
+  "country_id": 786,
+  "club_id": 1374,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 15,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 11284,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 139376, "p": 4 },
+    { "s": 2022, "c": 139376, "p": 1 },
+    { "s": 2022, "c": 53088559, "p": 1 },
+    { "s": 2023, "c": 53087904, "p": 1 },
+    { "s": 2024, "c": 139376, "p": 12, "g": 7 },
+    { "s": 2024, "c": 53087904, "p": 7 },
+    { "s": 2025, "c": 1316, "p": 8 },
+    { "s": 2025, "c": 139376, "p": 11, "g": 8 }
+  ]
+}

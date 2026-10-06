@@ -1,0 +1,57 @@
+{
+  "id": 1300530,
+  "name": "Samgurali Tskaltubo",
+  "location": {
+    "city_id": 5829
+  },
+  "finance": {
+    "balance": 824230
+  },
+  "teams": [
+    {
+      "id": 1300530,
+      "name": "Samgurali Tskaltubo",
+      "slug": "samgurali-tskaltubo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 89100035,
+      "name": "Samgurali Tskaltubo",
+      "slug": "samgurali-tskaltubo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 89100036,
+      "name": "Samgurali Tskaltubo",
+      "slug": "samgurali-tskaltubo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f19128",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1000
+}

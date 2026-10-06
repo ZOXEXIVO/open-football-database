@@ -1,0 +1,35 @@
+{
+  "id": 2000167679,
+  "first_name": "Viorel",
+  "last_name": "Gîrbăcea",
+  "birth_date": "2006-03-18",
+  "country_id": 790,
+  "club_id": 57000777,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 57000777, "p": 1 },
+    { "s": 2022, "c": 57000777, "p": 1 },
+    { "s": 2023, "c": 57000777, "p": 1 },
+    { "s": 2024, "c": 57072054, "p": 23, "g": 4 }
+  ]
+}

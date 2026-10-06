@@ -1,0 +1,36 @@
+{
+  "id": 57160781,
+  "first_name": "Deniz",
+  "last_name": "Giafer",
+  "birth_date": "2001-05-11",
+  "country_id": 790,
+  "club_id": 57189800,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": 110,
+  "contract": {
+    "salary": 15496,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 7540046, "p": 10, "g": 1 },
+    { "s": 2021, "c": 1500, "p": 15 },
+    { "s": 2021, "c": 7540046, "p": 6 },
+    { "s": 2022, "c": 1500, "p": 28, "g": 2 },
+    { "s": 2023, "c": 1500, "p": 4 },
+    { "s": 2023, "c": 57053599, "p": 8 },
+    { "s": 2024, "c": 57189800, "p": 13 },
+    { "s": 2024, "c": 2000105301, "p": 7 }
+  ]
+}

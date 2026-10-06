@@ -1,0 +1,57 @@
+{
+  "id": 102479,
+  "name": "Sportivo Italiano",
+  "location": {
+    "city_id": 6126
+  },
+  "finance": {
+    "balance": 533400
+  },
+  "teams": [
+    {
+      "id": 102479,
+      "name": "Sportivo Italiano",
+      "slug": "sportivo-italiano",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 98700025,
+      "name": "Sportivo Italiano",
+      "slug": "sportivo-italiano-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 98700026,
+      "name": "Sportivo Italiano",
+      "slug": "sportivo-italiano-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 940
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000089308,
+  "first_name": "Sten Marten",
+  "last_name": "Viira",
+  "birth_date": "2004-04-24",
+  "country_id": 766,
+  "club_id": 47052802,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 48,
+  "potential_ability": -35,
+  "history": [
+    { "s": 2020, "c": 750, "p": 2 },
+    { "s": 2021, "c": 750, "p": 12 },
+    { "s": 2022, "c": 750, "p": 17, "g": 1 }
+  ]
+}

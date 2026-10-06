@@ -1,0 +1,45 @@
+{
+  "id": 2000236189,
+  "first_name": "Awet",
+  "last_name": "Alemseged",
+  "birth_date": "2004-04-27",
+  "country_id": 786,
+  "club_id": 763464,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 22568,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 53088689, "p": 11, "g": 5 },
+    { "s": 2022, "c": 53088689, "p": 23, "g": 13 },
+    { "s": 2023, "c": 763464, "p": 9 },
+    { "s": 2023, "c": 53088689, "p": 18, "g": 12 },
+    { "s": 2024, "c": 750633, "p": 0 },
+    { "s": 2024, "c": 759312, "p": 8 },
+    { "s": 2024, "c": 53088689, "p": 9 },
+    { "s": 2025, "c": 1399, "p": 13, "g": 1 },
+    { "s": 2025, "c": 53088689, "p": 6 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 521643,
+  "name": "AC Oulu",
+  "location": {
+    "city_id": 5839
+  },
+  "finance": {
+    "balance": 50800
+  },
+  "teams": [
+    {
+      "id": 521643,
+      "name": "AC Oulu",
+      "slug": "ac-oulu",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 90800027,
+      "name": "AC Oulu",
+      "slug": "ac-oulu-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 90800028,
+      "name": "AC Oulu",
+      "slug": "ac-oulu-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#26488b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Basic",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1850
+}

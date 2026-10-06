@@ -1,0 +1,31 @@
+{
+  "id": 2000330319,
+  "first_name": "Vitalii",
+  "last_name": "Diachenko",
+  "birth_date": "2006-01-09",
+  "country_id": 800,
+  "club_id": 710017,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 73,
+  "potential_ability": 85,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 71045065, "p": 0 },
+    { "s": 2022, "c": 710017, "p": 0 },
+    { "s": 2023, "c": 710017, "p": 0 },
+    { "s": 2024, "c": 96089671, "p": 5 }
+  ]
+}

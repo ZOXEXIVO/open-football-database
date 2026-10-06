@@ -1,0 +1,39 @@
+{
+  "id": 2000350959,
+  "name": "Iberia 1999-2",
+  "parent_club": {
+    "id": 2000350943,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 5828
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 2000350959,
+      "name": "Iberia 1999-2",
+      "slug": "iberia-1999-2",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2700,
+        "national": 2700,
+        "world": 2700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 130
+}

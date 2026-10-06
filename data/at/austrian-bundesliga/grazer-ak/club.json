@@ -1,0 +1,57 @@
+{
+  "id": 16309710,
+  "name": "Grazer AK",
+  "location": {
+    "city_id": 5906
+  },
+  "finance": {
+    "balance": 411480
+  },
+  "teams": [
+    {
+      "id": 16309710,
+      "name": "Grazer AK",
+      "slug": "grazer-ak",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6000,
+        "national": 6000,
+        "world": 6000
+      }
+    },
+    {
+      "id": 90100027,
+      "name": "Grazer AK",
+      "slug": "grazer-ak-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1800,
+        "national": 1800,
+        "world": 1800
+      }
+    },
+    {
+      "id": 90100028,
+      "name": "Grazer AK",
+      "slug": "grazer-ak-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 4950
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2000132627,
+  "name": "ASA Târgu Mureș",
+  "location": {
+    "city_id": 5819
+  },
+  "finance": {
+    "balance": 57150
+  },
+  "teams": [
+    {
+      "id": 2000132627,
+      "name": "ASA Târgu Mureș",
+      "slug": "asa-targu-mures",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 96400025,
+      "name": "ASA Târgu Mureș",
+      "slug": "asa-targu-mures-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 96400026,
+      "name": "ASA Târgu Mureș",
+      "slug": "asa-targu-mures-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c72de",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 850
+}

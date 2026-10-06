@@ -1,0 +1,33 @@
+{
+  "id": 2000457277,
+  "first_name": "Dioner",
+  "last_name": "Fuentes",
+  "birth_date": "2008-06-05",
+  "country_id": 1658,
+  "club_id": 5300223,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2000094597, "p": 0 },
+    { "s": 2025, "c": 5300223, "p": 0 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 14188356,
+  "name": "Real Pilar",
+  "location": {
+    "city_id": 6134
+  },
+  "finance": {
+    "balance": 482600
+  },
+  "teams": [
+    {
+      "id": 14188356,
+      "name": "Real Pilar",
+      "slug": "real-pilar",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3800,
+        "national": 3800,
+        "world": 3800
+      }
+    },
+    {
+      "id": 98700041,
+      "name": "Real Pilar",
+      "slug": "real-pilar-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    },
+    {
+      "id": 98700042,
+      "name": "Real Pilar",
+      "slug": "real-pilar-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 760,
+        "national": 760,
+        "world": 760
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 600
+}

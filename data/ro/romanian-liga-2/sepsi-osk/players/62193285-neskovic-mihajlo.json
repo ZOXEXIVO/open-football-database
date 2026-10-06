@@ -1,0 +1,54 @@
+{
+  "id": 62193285,
+  "first_name": "Mihajlo",
+  "last_name": "Nešković",
+  "birth_date": "2000-02-09",
+  "country_id": 802,
+  "club_id": 57110237,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 101,
+  "contract": {
+    "salary": 78624,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 3, "u21_goals": 0},
+  "history": [
+    { "s": 2014, "c": 1957, "p": 0 },
+    { "s": 2015, "c": 1957, "p": 0 },
+    { "s": 2016, "c": 1957, "p": 4 },
+    { "s": 2017, "c": 1957, "p": 9 },
+    { "s": 2018, "c": 1957, "p": 13 },
+    { "s": 2019, "c": 1957, "p": 14, "g": 2 },
+    { "s": 2020, "c": 5745180, "p": 35, "g": 4 },
+    { "s": 2021, "c": 1957, "p": 17, "g": 1 },
+    { "s": 2022, "c": 1957, "p": 7 },
+    { "s": 2022, "c": 5744631, "p": 23, "g": 2 },
+    { "s": 2023, "c": 5744631, "p": 35, "g": 5 },
+    { "s": 2024, "c": 57110237, "p": 35, "g": 2 },
+    { "s": 2025, "c": 57110237, "p": 11 }
+  ]
+}

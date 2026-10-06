@@ -1,0 +1,35 @@
+{
+  "id": 1300027,
+  "name": "Kastrioti Krujë",
+  "location": {
+    "city_id": 5933
+  },
+  "finance": {
+    "balance": 457200
+  },
+  "teams": [
+    {
+      "id": 1300027,
+      "name": "Kastrioti Krujë",
+      "slug": "kastrioti-kruje",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3600,
+        "national": 3600,
+        "world": 3600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 1500
+}

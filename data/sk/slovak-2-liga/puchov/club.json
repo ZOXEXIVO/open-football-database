@@ -1,0 +1,57 @@
+{
+  "id": 138174,
+  "name": "Púchov",
+  "location": {
+    "city_id": 5996
+  },
+  "finance": {
+    "balance": 419100
+  },
+  "teams": [
+    {
+      "id": 138174,
+      "name": "Púchov",
+      "slug": "puchov",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3300,
+        "national": 3300,
+        "world": 3300
+      }
+    },
+    {
+      "id": 98100007,
+      "name": "Púchov",
+      "slug": "puchov-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 990,
+        "national": 990,
+        "world": 990
+      }
+    },
+    {
+      "id": 98100008,
+      "name": "Púchov",
+      "slug": "puchov-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 360
+}

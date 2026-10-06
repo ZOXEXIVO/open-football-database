@@ -1,0 +1,28 @@
+{
+  "id": 2000332404,
+  "first_name": "Mitja",
+  "last_name": "Haapanen",
+  "birth_date": "2007-08-04",
+  "country_id": 768,
+  "club_id": 8503181,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 8503181, "p": 7 }
+  ]
+}

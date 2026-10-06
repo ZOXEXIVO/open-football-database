@@ -1,0 +1,32 @@
+{
+  "id": 2000202251,
+  "first_name": "Uroš",
+  "last_name": "Stevančević",
+  "birth_date": "2005-08-24",
+  "country_id": 802,
+  "club_id": 62085128,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2020, "c": 5743000, "p": 0 },
+    { "s": 2021, "c": 5743000, "p": 0 },
+    { "s": 2022, "c": 5743000, "p": 29, "g": 1 },
+    { "s": 2023, "c": 5743000, "p": 12 },
+    { "s": 2024, "c": 5743000, "p": 23 },
+    { "s": 2025, "c": 136461, "p": 14, "g": 4 }
+  ]
+}

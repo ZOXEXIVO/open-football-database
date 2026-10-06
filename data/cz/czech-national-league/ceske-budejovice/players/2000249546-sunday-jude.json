@@ -1,0 +1,43 @@
+{
+  "id": 2000249546,
+  "first_name": "Jude",
+  "last_name": "Sunday",
+  "birth_date": "2004-10-04",
+  "country_id": 38,
+  "club_id": 470,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 55120,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 130872, "p": 28 },
+    { "s": 2024, "c": 130872, "p": 22 },
+    { "s": 2025, "c": 130872, "p": 3 }
+  ]
+}

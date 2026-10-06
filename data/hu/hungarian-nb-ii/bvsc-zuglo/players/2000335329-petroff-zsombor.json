@@ -1,0 +1,28 @@
+{
+  "id": 2000335329,
+  "first_name": "Zsombor",
+  "last_name": "Petroff",
+  "birth_date": "2006-07-06",
+  "country_id": 773,
+  "club_id": 1049,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1049, "p": 2 }
+  ]
+}

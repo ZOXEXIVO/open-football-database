@@ -1,0 +1,57 @@
+{
+  "id": 5220102,
+  "name": "Elva",
+  "location": {
+    "city_id": 5867
+  },
+  "finance": {
+    "balance": 177800
+  },
+  "teams": [
+    {
+      "id": 5220102,
+      "name": "Elva",
+      "slug": "elva",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1400,
+        "national": 1400,
+        "world": 1400
+      }
+    },
+    {
+      "id": 96900005,
+      "name": "Elva",
+      "slug": "elva-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 420,
+        "national": 420,
+        "world": 420
+      }
+    },
+    {
+      "id": 96900006,
+      "name": "Elva",
+      "slug": "elva-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 280,
+        "national": 280,
+        "world": 280
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3cb571",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 100
+}

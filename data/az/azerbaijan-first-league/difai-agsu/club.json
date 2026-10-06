@@ -1,0 +1,57 @@
+{
+  "id": 2000284826,
+  "name": "DIFAI Agsu",
+  "location": {
+    "city_id": 5899
+  },
+  "finance": {
+    "balance": 254000
+  },
+  "teams": [
+    {
+      "id": 2000284826,
+      "name": "DIFAI Agsu",
+      "slug": "difai-agsu",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2000,
+        "national": 2000,
+        "world": 2000
+      }
+    },
+    {
+      "id": 97100013,
+      "name": "DIFAI Agsu",
+      "slug": "difai-agsu-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    },
+    {
+      "id": 97100014,
+      "name": "DIFAI Agsu",
+      "slug": "difai-agsu-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 400,
+        "national": 400,
+        "world": 400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 100
+}

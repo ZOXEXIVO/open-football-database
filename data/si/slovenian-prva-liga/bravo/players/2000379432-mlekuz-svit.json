@@ -1,0 +1,29 @@
+{
+  "id": 2000379432,
+  "first_name": "Svit",
+  "last_name": "Mlekuž",
+  "birth_date": "2008-06-10",
+  "country_id": 795,
+  "club_id": 64000753,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 7580943, "p": 0 },
+    { "s": 2024, "c": 64000753, "p": 0 }
+  ]
+}

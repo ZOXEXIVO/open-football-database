@@ -1,0 +1,30 @@
+{
+  "id": 2000443222,
+  "first_name": "Andrej",
+  "last_name": "Popov",
+  "birth_date": "2007-02-21",
+  "country_id": 802,
+  "club_id": 62085128,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 1301374, "p": 0 },
+    { "s": 2024, "c": 1301374, "p": 0 },
+    { "s": 2024, "c": 62085128, "p": 5 }
+  ]
+}

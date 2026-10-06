@@ -1,0 +1,32 @@
+{
+  "id": 57213005,
+  "first_name": "Rareş",
+  "last_name": "Scocîlcă",
+  "birth_date": "2004-06-22",
+  "country_id": 790,
+  "club_id": 1515,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": 85,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1515, "p": 0 },
+    { "s": 2022, "c": 57152989, "p": 8 },
+    { "s": 2023, "c": 7542454, "p": 1 },
+    { "s": 2023, "c": 57207780, "p": 1 },
+    { "s": 2024, "c": 57189540, "p": 9 }
+  ]
+}

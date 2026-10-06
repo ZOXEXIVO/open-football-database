@@ -1,0 +1,33 @@
+{
+  "id": 2000104544,
+  "first_name": "Alin",
+  "last_name": "Ferenţi",
+  "birth_date": "2005-06-06",
+  "country_id": 790,
+  "club_id": 57191025,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 40,
+  "potential_ability": 72,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1515, "p": 0 },
+    { "s": 2022, "c": 57022261, "p": 4 },
+    { "s": 2023, "c": 57191025, "p": 8 },
+    { "s": 2023, "c": 2000117848, "p": 0 },
+    { "s": 2024, "c": 57172393, "p": 1 },
+    { "s": 2024, "c": 57191025, "p": 8, "g": 1 }
+  ]
+}

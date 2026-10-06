@@ -1,0 +1,45 @@
+{
+  "id": 83273039,
+  "first_name": "Vitinha",
+  "last_name": "",
+  "birth_date": "1999-01-30",
+  "country_id": 788,
+  "club_id": 2428,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 93,
+  "potential_ability": 98,
+  "contract": {
+    "salary": 17940,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 2386, "p": 0 },
+    { "s": 2017, "c": 2386, "p": 0 },
+    { "s": 2018, "c": 1490, "p": 22 },
+    { "s": 2019, "c": 2404, "p": 24, "g": 1 },
+    { "s": 2020, "c": 1477, "p": 9 },
+    { "s": 2021, "c": 1477, "p": 14, "g": 1 },
+    { "s": 2022, "c": 2484, "p": 10, "g": 1 },
+    { "s": 2023, "c": 2393, "p": 8 },
+    { "s": 2024, "c": 2428, "p": 25, "g": 2 }
+  ]
+}

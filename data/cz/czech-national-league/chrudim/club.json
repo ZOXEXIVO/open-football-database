@@ -1,0 +1,57 @@
+{
+  "id": 136197,
+  "name": "Chrudim",
+  "location": {
+    "city_id": 5755
+  },
+  "finance": {
+    "balance": 872490
+  },
+  "teams": [
+    {
+      "id": 136197,
+      "name": "Chrudim",
+      "slug": "chrudim",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 95900017,
+      "name": "Chrudim",
+      "slug": "chrudim-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 95900018,
+      "name": "Chrudim",
+      "slug": "chrudim-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 760
+}

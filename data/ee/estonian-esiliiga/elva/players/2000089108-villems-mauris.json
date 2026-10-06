@@ -1,0 +1,33 @@
+{
+  "id": 2000089108,
+  "first_name": "Mauris",
+  "last_name": "Villems",
+  "birth_date": "2003-09-19",
+  "country_id": 766,
+  "club_id": 5220102,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 30,
+  "potential_ability": 42,
+  "history": [
+    { "s": 2024, "c": 5220102, "p": 34, "g": 12 },
+    { "s": 2025, "c": 5220102, "p": 19, "g": 7 },
+    { "s": 2025, "c": 2000020049, "p": 6, "g": 3 }
+  ]
+}

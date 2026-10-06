@@ -1,0 +1,41 @@
+{
+  "id": 2000251927,
+  "first_name": "Isaac",
+  "last_name": "Yawe Höök",
+  "birth_date": "2007-04-03",
+  "country_id": 797,
+  "club_id": 2164,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 18096,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 610750, "p": 0 },
+    { "s": 2023, "c": 68002700, "p": 3 },
+    { "s": 2024, "c": 2164, "p": 0 },
+    { "s": 2025, "c": 2152, "p": 11, "g": 1 },
+    { "s": 2025, "c": 2164, "p": 2 }
+  ]
+}

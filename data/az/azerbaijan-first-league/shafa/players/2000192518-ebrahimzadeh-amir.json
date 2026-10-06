@@ -1,0 +1,35 @@
+{
+  "id": 2000192518,
+  "first_name": "Amir",
+  "last_name": "Ebrahimzadeh",
+  "birth_date": "2004-01-31",
+  "country_id": 114,
+  "club_id": 130844,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 8, "u21_goals": 7},
+  "history": [
+    { "s": 2018, "c": 5512156, "p": 0 },
+    { "s": 2019, "c": 5512156, "p": 0 },
+    { "s": 2020, "c": 5512156, "p": 0 },
+    { "s": 2021, "c": 5512156, "p": 1 },
+    { "s": 2022, "c": 5512156, "p": 1 },
+    { "s": 2023, "c": 5512156, "p": 2, "g": 1 },
+    { "s": 2024, "c": 23114195, "p": 3 }
+  ]
+}

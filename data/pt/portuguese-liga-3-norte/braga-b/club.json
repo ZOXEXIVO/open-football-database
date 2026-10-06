@@ -1,0 +1,39 @@
+{
+  "id": 55000307,
+  "name": "Braga B",
+  "parent_club": {
+    "id": 1488,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 1403
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 55000307,
+      "name": "Braga B",
+      "slug": "braga-b",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Superb",
+    "youth": "Excellent",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 690
+}

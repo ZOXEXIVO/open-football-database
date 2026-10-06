@@ -1,0 +1,34 @@
+{
+  "id": 2000311918,
+  "first_name": "Ionuţ",
+  "last_name": "Uleia",
+  "birth_date": "2006-02-21",
+  "country_id": 790,
+  "club_id": 2000121091,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 2000121091, "p": 2 },
+    { "s": 2023, "c": 2000121091, "p": 25 },
+    { "s": 2024, "c": 2000121091, "p": 22 }
+  ]
+}

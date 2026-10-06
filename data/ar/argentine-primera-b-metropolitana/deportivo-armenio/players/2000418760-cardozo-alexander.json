@@ -1,0 +1,29 @@
+{
+  "id": 2000418760,
+  "first_name": "Alexander",
+  "last_name": "Cardozo",
+  "birth_date": "2005-08-01",
+  "country_id": 1655,
+  "club_id": 108578,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 108578, "p": 0 },
+    { "s": 2025, "c": 108578, "p": 0 }
+  ]
+}

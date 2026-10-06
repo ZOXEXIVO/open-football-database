@@ -1,0 +1,39 @@
+{
+  "id": 2000210467,
+  "first_name": "Killian",
+  "last_name": "Sueldo",
+  "birth_date": "2004-08-17",
+  "country_id": 1649,
+  "club_id": 102479,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 87,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 102479, "p": 0 },
+    { "s": 2023, "c": 102479, "p": 23 },
+    { "s": 2024, "c": 102479, "p": 5 },
+    { "s": 2025, "c": 102479, "p": 0 }
+  ]
+}

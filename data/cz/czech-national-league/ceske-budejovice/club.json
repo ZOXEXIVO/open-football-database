@@ -1,0 +1,57 @@
+{
+  "id": 470,
+  "name": "České Budějovice",
+  "location": {
+    "city_id": 5747
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 470,
+      "name": "České Budějovice",
+      "slug": "ceske-budejovice",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 95900001,
+      "name": "České Budějovice",
+      "slug": "ceske-budejovice-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 95900002,
+      "name": "České Budějovice",
+      "slug": "ceske-budejovice-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 3350
+}

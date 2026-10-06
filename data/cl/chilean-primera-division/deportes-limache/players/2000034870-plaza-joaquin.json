@@ -1,0 +1,36 @@
+{
+  "id": 2000034870,
+  "first_name": "Joaquín",
+  "last_name": "Plaza",
+  "birth_date": "2004-07-23",
+  "country_id": 1649,
+  "club_id": 75034130,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 14031203, "p": 7 },
+    { "s": 2023, "c": 14209375, "p": 1 },
+    { "s": 2024, "c": 91, "p": 0 },
+    { "s": 2025, "c": 91, "p": 2 },
+    { "s": 2025, "c": 75034130, "p": 6, "g": 1 }
+  ]
+}

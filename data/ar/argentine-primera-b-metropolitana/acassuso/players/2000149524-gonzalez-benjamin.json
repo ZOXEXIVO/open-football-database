@@ -1,0 +1,29 @@
+{
+  "id": 2000149524,
+  "first_name": "Benjamín",
+  "last_name": "González",
+  "birth_date": "2004-06-29",
+  "country_id": 1649,
+  "club_id": 952691,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 952691, "p": 7 },
+    { "s": 2025, "c": 952691, "p": 11, "g": 1 }
+  ]
+}

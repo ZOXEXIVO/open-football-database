@@ -1,0 +1,42 @@
+{
+  "id": 33083683,
+  "first_name": "Isak",
+  "last_name": "Vidjeskog",
+  "birth_date": "2004-03-28",
+  "country_id": 768,
+  "club_id": 2677,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 32188,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 813, "p": 0 },
+    { "s": 2020, "c": 813, "p": 0 },
+    { "s": 2020, "c": 1809, "p": 0 },
+    { "s": 2020, "c": 129206, "p": 5, "g": 1 },
+    { "s": 2021, "c": 1809, "p": 1 },
+    { "s": 2022, "c": 1809, "p": 0 },
+    { "s": 2023, "c": 1809, "p": 0 },
+    { "s": 2023, "c": 2180, "p": 22, "g": 5 },
+    { "s": 2024, "c": 2677, "p": 5 },
+    { "s": 2025, "c": 2677, "p": 27, "g": 4 }
+  ]
+}

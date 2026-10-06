@@ -1,0 +1,57 @@
+{
+  "id": 26035636,
+  "name": "Ethnikos Latsion",
+  "location": {
+    "city_id": 5884
+  },
+  "finance": {
+    "balance": 210820
+  },
+  "teams": [
+    {
+      "id": 26035636,
+      "name": "Ethnikos Latsion",
+      "slug": "ethnikos-latsion",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3400,
+        "national": 3400,
+        "world": 3400
+      }
+    },
+    {
+      "id": 97000021,
+      "name": "Ethnikos Latsion",
+      "slug": "ethnikos-latsion-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    },
+    {
+      "id": 97000022,
+      "name": "Ethnikos Latsion",
+      "slug": "ethnikos-latsion-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 680,
+        "national": 680,
+        "world": 680
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 170
+}

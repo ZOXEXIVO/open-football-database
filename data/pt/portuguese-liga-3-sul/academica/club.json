@@ -1,0 +1,57 @@
+{
+  "id": 2393,
+  "name": "Académica",
+  "location": {
+    "city_id": 5950
+  },
+  "finance": {
+    "balance": 660400
+  },
+  "teams": [
+    {
+      "id": 2393,
+      "name": "Académica",
+      "slug": "academica",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5200,
+        "national": 5200,
+        "world": 5200
+      }
+    },
+    {
+      "id": 97700001,
+      "name": "Académica",
+      "slug": "academica-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1560,
+        "national": 1560,
+        "world": 1560
+      }
+    },
+    {
+      "id": 97700002,
+      "name": "Académica",
+      "slug": "academica-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1040,
+        "national": 1040,
+        "world": 1040
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1850
+}

@@ -1,0 +1,57 @@
+{
+  "id": 104363,
+  "name": "Deportes Temuco",
+  "location": {
+    "city_id": 6078
+  },
+  "finance": {
+    "balance": 101600
+  },
+  "teams": [
+    {
+      "id": 104363,
+      "name": "Deportes Temuco",
+      "slug": "deportes-temuco",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 98500005,
+      "name": "Deportes Temuco",
+      "slug": "deportes-temuco-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 98500006,
+      "name": "Deportes Temuco",
+      "slug": "deportes-temuco-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#3e8c4b"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2000
+}

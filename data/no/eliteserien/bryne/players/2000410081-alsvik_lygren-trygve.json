@@ -1,0 +1,29 @@
+{
+  "id": 2000410081,
+  "first_name": "Trygve",
+  "last_name": "Alsvik Lygren",
+  "birth_date": "2007-09-26",
+  "country_id": 786,
+  "club_id": 1295,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 58,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2023, "c": 1295, "p": 0 },
+    { "s": 2024, "c": 53088594, "p": 4 },
+    { "s": 2025, "c": 53088594, "p": 17, "g": 1 }
+  ]
+}

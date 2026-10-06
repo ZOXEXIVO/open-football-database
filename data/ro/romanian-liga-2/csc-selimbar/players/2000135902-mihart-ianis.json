@@ -1,0 +1,38 @@
+{
+  "id": 2000135902,
+  "first_name": "Ianis",
+  "last_name": "Mihart",
+  "birth_date": "2004-09-23",
+  "country_id": 790,
+  "club_id": 2000105301,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 73,
+  "potential_ability": 100,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 7540205, "p": 1 },
+    { "s": 2021, "c": 7546743, "p": 2 },
+    { "s": 2022, "c": 7546743, "p": 11, "g": 1 },
+    { "s": 2022, "c": 57061123, "p": 14, "g": 1 },
+    { "s": 2023, "c": 7540044, "p": 16 },
+    { "s": 2024, "c": 57143011, "p": 0 },
+    { "s": 2025, "c": 57143011, "p": 0 }
+  ]
+}

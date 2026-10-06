@@ -1,0 +1,35 @@
+{
+  "id": 83288815,
+  "first_name": "Rui",
+  "last_name": "Carreira",
+  "birth_date": "2004-01-22",
+  "country_id": 788,
+  "club_id": 2420,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 79,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 9620,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1489, "p": 0 },
+    { "s": 2019, "c": 1489, "p": 0 },
+    { "s": 2020, "c": 1489, "p": 0 },
+    { "s": 2021, "c": 2403, "p": 0 },
+    { "s": 2022, "c": 2403, "p": 0 },
+    { "s": 2023, "c": 2403, "p": 0 },
+    { "s": 2024, "c": 2463, "p": 17 }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 63037905,
+  "first_name": "Jakub",
+  "last_name": "Tancík",
+  "birth_date": "2000-01-04",
+  "country_id": 794,
+  "club_id": 2000183268,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 90,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 1301175, "p": 3 },
+    { "s": 2020, "c": 1301175, "p": 15, "g": 1 },
+    { "s": 2021, "c": 130873, "p": 8 },
+    { "s": 2022, "c": 63010727, "p": 28, "g": 1 },
+    { "s": 2023, "c": 63010727, "p": 14, "g": 3 },
+    { "s": 2023, "c": 2000183268, "p": 13, "g": 4 },
+    { "s": 2024, "c": 2000183268, "p": 24, "g": 5 }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000444580,
+  "first_name": "Teodor",
+  "last_name": "Staník",
+  "birth_date": "2006-04-17",
+  "country_id": 794,
+  "club_id": 63002927,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 63002927, "p": 3 }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 43384716,
+  "first_name": "Joseph",
+  "last_name": "Zawko",
+  "birth_date": "1997-11-24",
+  "country_id": 1435,
+  "club_id": 2000195268,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 15,
+    "right": 100
+  },
+  "current_ability": 62,
+  "potential_ability": 75,
+  "contract": {
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2014, "c": 15044421, "p": 0 },
+    { "s": 2015, "c": 426842, "p": 7, "g": 1 },
+    { "s": 2016, "c": 426830, "p": 11, "g": 6 },
+    { "s": 2020, "c": 43607833, "p": 0 }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2000413303,
+  "first_name": "Marek",
+  "last_name": "Lipovský",
+  "birth_date": "2005-01-10",
+  "country_id": 794,
+  "club_id": 2000260278,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2000260278, "p": 12, "g": 1 }
+  ]
+}

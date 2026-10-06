@@ -1,0 +1,30 @@
+{
+  "id": 43599194,
+  "first_name": "Rene",
+  "last_name": "Kogoi",
+  "birth_date": "2001-08-16",
+  "country_id": 776,
+  "club_id": 7580828,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 15,
+    "right": 100
+  },
+  "current_ability": 91,
+  "potential_ability": 91,
+  "history": [
+    { "s": 2018, "c": 43106410, "p": 0 },
+    { "s": 2021, "c": 64000674, "p": 22, "g": 1 },
+    { "s": 2022, "c": 64000674, "p": 19 },
+    { "s": 2023, "c": 64000674, "p": 17, "g": 1 }
+  ]
+}

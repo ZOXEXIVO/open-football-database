@@ -1,0 +1,28 @@
+{
+  "id": 2000507333,
+  "first_name": "Victor",
+  "last_name": "Mangerud",
+  "birth_date": "2008-02-01",
+  "country_id": 786,
+  "club_id": 1344,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 15,
+    "right": 100
+  },
+  "current_ability": 61,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2024, "c": 53028362, "p": 1 },
+    { "s": 2025, "c": 53088512, "p": 15, "g": 3 }
+  ]
+}

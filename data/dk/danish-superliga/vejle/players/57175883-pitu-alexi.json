@@ -1,0 +1,43 @@
+{
+  "id": 57175883,
+  "first_name": "Alexi",
+  "last_name": "Pitu",
+  "birth_date": "2002-06-05",
+  "country_id": 790,
+  "club_id": 2142,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 135,
+  "contract": {
+    "salary": 216684,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 7, "u21_goals": 0},
+  "history": [
+    { "s": 2017, "c": 57047936, "p": 0 },
+    { "s": 2018, "c": 57047936, "p": 5 },
+    { "s": 2019, "c": 57047936, "p": 9 },
+    { "s": 2020, "c": 57047936, "p": 17 },
+    { "s": 2020, "c": 57129082, "p": 6, "g": 3 },
+    { "s": 2021, "c": 2000104441, "p": 32 },
+    { "s": 2022, "c": 851, "p": 16 },
+    { "s": 2022, "c": 2000104441, "p": 20, "g": 5 },
+    { "s": 2023, "c": 851, "p": 25, "g": 1 },
+    { "s": 2024, "c": 2072, "p": 5 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1949,
+  "name": "Zemun",
+  "location": {
+    "city_id": 6041
+  },
+  "finance": {
+    "balance": 229870
+  },
+  "teams": [
+    {
+      "id": 1949,
+      "name": "Zemun",
+      "slug": "zemun",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 98300005,
+      "name": "Zemun",
+      "slug": "zemun-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 98300006,
+      "name": "Zemun",
+      "slug": "zemun-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2e6091",
+    "foreground": "#53b853"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 370
+}

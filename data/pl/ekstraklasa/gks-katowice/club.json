@@ -1,0 +1,57 @@
+{
+  "id": 1451,
+  "name": "GKS Katowice",
+  "location": {
+    "city_id": 5780
+  },
+  "finance": {
+    "balance": 3810000
+  },
+  "teams": [
+    {
+      "id": 1451,
+      "name": "GKS Katowice",
+      "slug": "gks-katowice",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 89500045,
+      "name": "GKS Katowice",
+      "slug": "gks-katowice-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 89500046,
+      "name": "GKS Katowice",
+      "slug": "gks-katowice-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 7450
+}

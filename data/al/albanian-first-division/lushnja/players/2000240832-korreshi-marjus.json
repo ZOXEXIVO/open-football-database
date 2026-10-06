@@ -1,0 +1,23 @@
+{
+  "id": 2000240832,
+  "first_name": "Marjus",
+  "last_name": "Korreshi",
+  "birth_date": "1999-05-05",
+  "country_id": 752,
+  "club_id": 1300086,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": 71,
+  "history": [
+    { "s": 2018, "c": 1300086, "p": 3 },
+    { "s": 2021, "c": 121212, "p": 8, "g": 1 },
+    { "s": 2022, "c": 1300086, "p": 7, "g": 1 },
+    { "s": 2023, "c": 880326, "p": 0 },
+    { "s": 2024, "c": 1300086, "p": 30, "g": 2 }
+  ]
+}

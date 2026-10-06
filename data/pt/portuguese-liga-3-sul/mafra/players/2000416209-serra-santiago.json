@@ -1,0 +1,33 @@
+{
+  "id": 2000416209,
+  "first_name": "Santiago",
+  "last_name": "Serra",
+  "birth_date": "2007-01-23",
+  "country_id": 788,
+  "club_id": 736258,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 78,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 11232,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 736258, "p": 0 }
+  ]
+}

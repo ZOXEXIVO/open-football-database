@@ -1,0 +1,36 @@
+{
+  "id": 16337075,
+  "first_name": "Tolgahan",
+  "last_name": "Sahin",
+  "birth_date": "2004-10-10",
+  "country_id": 755,
+  "club_id": 2000263051,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 80,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 16123919, "p": 15 },
+    { "s": 2022, "c": 16123919, "p": 25 },
+    { "s": 2023, "c": 16123919, "p": 2 },
+    { "s": 2024, "c": 16123919, "p": 21, "g": 2 },
+    { "s": 2025, "c": 16077360, "p": 0 }
+  ]
+}

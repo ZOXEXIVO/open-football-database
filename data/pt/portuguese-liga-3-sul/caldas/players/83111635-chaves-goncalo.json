@@ -1,0 +1,38 @@
+{
+  "id": 83111635,
+  "first_name": "Gonçalo",
+  "last_name": "Chaves",
+  "birth_date": "1999-05-14",
+  "country_id": 788,
+  "club_id": 2420,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 79,
+  "potential_ability": 98,
+  "contract": {
+    "salary": 10088,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 1493, "p": 0 },
+    { "s": 2016, "c": 2393, "p": 0 },
+    { "s": 2017, "c": 1488, "p": 0 },
+    { "s": 2018, "c": 2473, "p": 29, "g": 3 },
+    { "s": 2019, "c": 2393, "p": 0 },
+    { "s": 2020, "c": 84107118, "p": 24, "g": 7 },
+    { "s": 2021, "c": 2420, "p": 4 },
+    { "s": 2022, "c": 2420, "p": 8 },
+    { "s": 2023, "c": 2420, "p": 17, "g": 4 },
+    { "s": 2024, "c": 2420, "p": 0 }
+  ]
+}

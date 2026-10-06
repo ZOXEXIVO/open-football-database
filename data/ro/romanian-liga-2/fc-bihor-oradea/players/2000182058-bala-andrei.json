@@ -1,0 +1,29 @@
+{
+  "id": 2000182058,
+  "first_name": "Andrei",
+  "last_name": "Bala",
+  "birth_date": "2007-11-30",
+  "country_id": 790,
+  "club_id": 57189800,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 10,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2000111717, "p": 1 },
+    { "s": 2022, "c": 57189800, "p": 1 }
+  ]
+}

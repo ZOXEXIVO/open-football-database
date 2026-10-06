@@ -1,0 +1,31 @@
+{
+  "id": 2000438266,
+  "first_name": "Kacper",
+  "last_name": "Kotala",
+  "birth_date": "2006-05-31",
+  "country_id": 787,
+  "club_id": 722115,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 64,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2024, "c": 2000008356, "p": 31, "g": 1 }
+  ]
+}

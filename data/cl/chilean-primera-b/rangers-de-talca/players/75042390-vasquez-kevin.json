@@ -1,0 +1,49 @@
+{
+  "id": 75042390,
+  "first_name": "Kevin",
+  "last_name": "Vásquez",
+  "birth_date": "1997-06-27",
+  "country_id": 1652,
+  "club_id": 130788,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 112,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 120921, "p": 9 },
+    { "s": 2017, "c": 5250019, "p": 14 },
+    { "s": 2018, "c": 120921, "p": 0 },
+    { "s": 2019, "c": 5250019, "p": 3 },
+    { "s": 2020, "c": 130797, "p": 21 },
+    { "s": 2021, "c": 130779, "p": 32, "g": 1 },
+    { "s": 2022, "c": 130779, "p": 24, "g": 1 },
+    { "s": 2023, "c": 120921, "p": 13 },
+    { "s": 2024, "c": 120921, "p": 17 },
+    { "s": 2025, "c": 130779, "p": 26, "g": 2 }
+  ]
+}

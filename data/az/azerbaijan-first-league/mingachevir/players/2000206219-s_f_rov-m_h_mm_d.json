@@ -1,0 +1,25 @@
+{
+  "id": 2000206219,
+  "first_name": "Məhəmməd",
+  "last_name": "Səfərov",
+  "birth_date": "2003-05-13",
+  "country_id": 756,
+  "club_id": 2000193941,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 68,
+  "history": [
+    { "s": 2019, "c": 59136627, "p": 3 },
+    { "s": 2020, "c": 59091534, "p": 0 },
+    { "s": 2021, "c": 59136627, "p": 21, "g": 2 }
+  ]
+}

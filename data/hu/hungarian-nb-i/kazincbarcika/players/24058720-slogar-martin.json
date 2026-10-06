@@ -1,0 +1,44 @@
+{
+  "id": 24058720,
+  "first_name": "Martin",
+  "last_name": "Šlogar",
+  "birth_date": "2000-09-21",
+  "country_id": 761,
+  "club_id": 7521266,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 99,
+  "potential_ability": 106,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 659403, "p": 2 },
+    { "s": 2018, "c": 659403, "p": 0 },
+    { "s": 2019, "c": 24005249, "p": 16, "g": 3 },
+    { "s": 2020, "c": 24005249, "p": 32, "g": 7 },
+    { "s": 2021, "c": 453, "p": 8, "g": 1 },
+    { "s": 2022, "c": 453, "p": 3 },
+    { "s": 2022, "c": 458, "p": 20, "g": 1 },
+    { "s": 2023, "c": 26001619, "p": 33, "g": 3 },
+    { "s": 2024, "c": 24013516, "p": 26, "g": 4 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 130779,
+  "name": "Santiago Morning",
+  "location": {
+    "city_id": 6084
+  },
+  "finance": {
+    "balance": 52070
+  },
+  "teams": [
+    {
+      "id": 130779,
+      "name": "Santiago Morning",
+      "slug": "santiago-morning",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    },
+    {
+      "id": 98500017,
+      "name": "Santiago Morning",
+      "slug": "santiago-morning-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
+      }
+    },
+    {
+      "id": 98500018,
+      "name": "Santiago Morning",
+      "slug": "santiago-morning-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 880,
+        "national": 880,
+        "world": 880
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1450
+}

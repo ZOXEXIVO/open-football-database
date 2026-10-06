@@ -1,0 +1,33 @@
+{
+  "id": 2000371174,
+  "first_name": "Mario",
+  "last_name": "Dudu",
+  "birth_date": "2006-09-27",
+  "country_id": 790,
+  "club_id": 57151160,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -3,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 57120205, "p": 11 },
+    { "s": 2024, "c": 2000298580, "p": 24, "g": 1 }
+  ]
+}

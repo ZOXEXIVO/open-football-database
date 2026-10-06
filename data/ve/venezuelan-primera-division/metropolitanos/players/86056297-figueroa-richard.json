@@ -1,0 +1,57 @@
+{
+  "id": 86056297,
+  "first_name": "Richard",
+  "last_name": "Figueroa",
+  "birth_date": "1996-08-04",
+  "country_id": 1658,
+  "club_id": 5300232,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 10, "dri": 12, "fin": 10, "hea": 8, "lon": 10, "mar": 5, "pas": 8, "pen": 12, "tck": 6, "fir": 11, "tec": 11, "cor": 7, "lth": 5, "fre": 11},
+      "mental": {"otb": 11, "vis": 10, "ant": 10, "dec": 8, "pos": 5, "fla": 12, "tea": 13, "wor": 14, "ldr": 8, "bra": 10, "agg": 14, "cmp": 9, "cnt": 9},
+      "physical": {"acc": 14, "str": 8, "sta": 13, "pac": 11, "jum": 7, "bal": 12, "agi": 12, "nat": 14},
+      "hidden": {"cns": 8, "inj": 5, "ver": 13}
+    }
+  },
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 116,
+  "value": 147000,
+  "contract": {    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 86000289, "p": 6 },
+    { "s": 2018, "c": 86000032, "p": 33, "g": 8 },
+    { "s": 2019, "c": 76003517, "p": 16, "g": 1 },
+    { "s": 2019, "c": 76004125, "p": 15, "g": 2 },
+    { "s": 2020, "c": 76003517, "p": 14, "g": 1 },
+    { "s": 2021, "c": 76003517, "p": 22, "g": 9 },
+    { "s": 2022, "c": 120998, "p": 30, "g": 2 },
+    { "s": 2023, "c": 86047464, "p": 28 },
+    { "s": 2024, "c": 109188, "p": 6 },
+    { "s": 2024, "c": 76003517, "p": 14, "g": 1 },
+    { "s": 2025, "c": 5300232, "p": 29, "g": 4 }
+  ],
+  "ids": {
+    "transfermarkt.com": "485405"
+  }
+}

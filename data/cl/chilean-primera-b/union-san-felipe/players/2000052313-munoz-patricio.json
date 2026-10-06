@@ -1,0 +1,34 @@
+{
+  "id": 2000052313,
+  "first_name": "Patricio",
+  "last_name": "Muñoz",
+  "birth_date": "2001-11-05",
+  "country_id": 1652,
+  "club_id": 130784,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 96,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 130797, "p": 0 },
+    { "s": 2021, "c": 130797, "p": 1 },
+    { "s": 2022, "c": 5251715, "p": 17, "g": 1 }
+  ]
+}

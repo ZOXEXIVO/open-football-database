@@ -1,0 +1,29 @@
+{
+  "id": 2000138594,
+  "first_name": "João",
+  "last_name": "Vitor",
+  "birth_date": "2005-07-23",
+  "country_id": 1651,
+  "club_id": 1615,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 77,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2021, "c": 337, "p": 0 },
+    { "s": 2022, "c": 337, "p": 0 },
+    { "s": 2024, "c": 4200575, "p": 1 }
+  ]
+}

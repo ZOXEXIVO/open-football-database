@@ -1,0 +1,57 @@
+{
+  "id": 54003060,
+  "name": "GKS Tychy",
+  "location": {
+    "city_id": 5786
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 54003060,
+      "name": "GKS Tychy",
+      "slug": "gks-tychy",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 96300009,
+      "name": "GKS Tychy",
+      "slug": "gks-tychy-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 96300010,
+      "name": "GKS Tychy",
+      "slug": "gks-tychy-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 3000
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2000033994,
+  "first_name": "Yuk",
+  "last_name": "Jin-young",
+  "birth_date": "2001-09-13",
+  "country_id": 135,
+  "club_id": 4102502,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 84,
+  "potential_ability": 99,
+  "contract": {
+    "salary": 17940,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 136434, "p": 0 },
+    { "s": 2018, "c": 136434, "p": 0 },
+    { "s": 2019, "c": 2433, "p": 0 },
+    { "s": 2020, "c": 2477, "p": 19, "g": 3 },
+    { "s": 2021, "c": 2477, "p": 24, "g": 2 },
+    { "s": 2022, "c": 55056925, "p": 14, "g": 2 },
+    { "s": 2023, "c": 1479, "p": 24, "g": 5 },
+    { "s": 2024, "c": 55056925, "p": 25, "g": 7 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1374,
+  "name": "Raufoss",
+  "location": {
+    "city_id": 6068
+  },
+  "finance": {
+    "balance": 571500
+  },
+  "teams": [
+    {
+      "id": 1374,
+      "name": "Raufoss",
+      "slug": "raufoss",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 98400015,
+      "name": "Raufoss",
+      "slug": "raufoss-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 98400016,
+      "name": "Raufoss",
+      "slug": "raufoss-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1600
+}

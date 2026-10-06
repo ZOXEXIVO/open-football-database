@@ -1,0 +1,33 @@
+{
+  "id": 2000105774,
+  "first_name": "Maj",
+  "last_name": "Fogec",
+  "birth_date": "2002-07-01",
+  "country_id": 795,
+  "club_id": 1636,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 98,
+  "potential_ability": 110,
+  "history": [
+    { "s": 2019, "c": 1639, "p": 0 },
+    { "s": 2020, "c": 1639, "p": 1 },
+    { "s": 2021, "c": 1639, "p": 0 },
+    { "s": 2021, "c": 5410642, "p": 4 },
+    { "s": 2022, "c": 1636, "p": 16 },
+    { "s": 2023, "c": 1636, "p": 26, "g": 1 },
+    { "s": 2024, "c": 1636, "p": 23 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 120783,
+  "name": "Smederevo 1924",
+  "location": {
+    "city_id": 6043
+  },
+  "finance": {
+    "balance": 267970
+  },
+  "teams": [
+    {
+      "id": 120783,
+      "name": "Smederevo 1924",
+      "slug": "smederevo-1924",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3300,
+        "national": 3300,
+        "world": 3300
+      }
+    },
+    {
+      "id": 98300009,
+      "name": "Smederevo 1924",
+      "slug": "smederevo-1924-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 990,
+        "national": 990,
+        "world": 990
+      }
+    },
+    {
+      "id": 98300010,
+      "name": "Smederevo 1924",
+      "slug": "smederevo-1924-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    }
+  ],
+  "colors": {
+    "background": "#17285c",
+    "foreground": "#53baed"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 300
+}

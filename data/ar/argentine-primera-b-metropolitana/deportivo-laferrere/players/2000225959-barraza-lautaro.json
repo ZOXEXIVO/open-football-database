@@ -1,0 +1,29 @@
+{
+  "id": 2000225959,
+  "first_name": "Lautaro",
+  "last_name": "Barraza",
+  "birth_date": "2003-09-18",
+  "country_id": 1649,
+  "club_id": 952704,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 114,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 952713, "p": 12 },
+    { "s": 2025, "c": 952713, "p": 14 }
+  ]
+}

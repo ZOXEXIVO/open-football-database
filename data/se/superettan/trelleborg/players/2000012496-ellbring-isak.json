@@ -1,0 +1,42 @@
+{
+  "id": 2000012496,
+  "first_name": "Isak",
+  "last_name": "Ellbring",
+  "birth_date": "2004-07-18",
+  "country_id": 797,
+  "club_id": 1831,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 110,
+  "history": [
+    { "s": 2019, "c": 6410547, "p": 0 },
+    { "s": 2020, "c": 1806, "p": 0 },
+    { "s": 2021, "c": 1806, "p": 0 },
+    { "s": 2022, "c": 1806, "p": 0 },
+    { "s": 2023, "c": 1806, "p": 0 },
+    { "s": 2023, "c": 2158, "p": 2 },
+    { "s": 2024, "c": 6410547, "p": 29, "g": 3 },
+    { "s": 2025, "c": 6410547, "p": 28, "g": 2 }
+  ]
+}

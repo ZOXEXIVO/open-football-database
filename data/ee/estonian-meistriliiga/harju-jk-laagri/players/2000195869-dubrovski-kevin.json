@@ -1,0 +1,27 @@
+{
+  "id": 2000195869,
+  "first_name": "Kevin",
+  "last_name": "Dubrovski",
+  "birth_date": "2004-07-30",
+  "country_id": 766,
+  "club_id": 2000085394,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 38,
+  "potential_ability": -3,
+  "history": [
+    { "s": 2022, "c": 2000085394, "p": 23 }
+  ]
+}

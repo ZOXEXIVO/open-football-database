@@ -1,0 +1,34 @@
+{
+  "id": 2000058285,
+  "first_name": "Duarte",
+  "last_name": "Maneta",
+  "birth_date": "2003-02-23",
+  "country_id": 788,
+  "club_id": 2420,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 107,
+  "contract": {
+    "salary": 11232,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 2477, "p": 0 },
+    { "s": 2020, "c": 2397, "p": 0 },
+    { "s": 2021, "c": 2397, "p": 0 },
+    { "s": 2022, "c": 725027, "p": 22 },
+    { "s": 2023, "c": 2484, "p": 13 },
+    { "s": 2024, "c": 2428, "p": 17 }
+  ]
+}

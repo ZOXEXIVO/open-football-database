@@ -1,0 +1,42 @@
+{
+  "id": 83226775,
+  "first_name": "Bura",
+  "last_name": "",
+  "birth_date": "1995-12-22",
+  "country_id": 23,
+  "club_id": 2471,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 103,
+  "contract": {
+    "salary": 11232,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 33, "goals": 2, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2012, "c": 5390104, "p": 0 },
+    { "s": 2017, "c": 2444, "p": 28, "g": 8 },
+    { "s": 2018, "c": 2000032966, "p": 0 },
+    { "s": 2019, "c": 1485, "p": 10 },
+    { "s": 2020, "c": 1485, "p": 15 },
+    { "s": 2021, "c": 1485, "p": 14 },
+    { "s": 2022, "c": 144839, "p": 18 },
+    { "s": 2024, "c": 20041486, "p": 21, "g": 1 },
+    { "s": 2025, "c": 5340958, "p": 23, "g": 2 }
+  ]
+}

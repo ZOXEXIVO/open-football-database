@@ -1,0 +1,29 @@
+{
+  "id": 2000053255,
+  "first_name": "Balamirzə",
+  "last_name": "Soltanov",
+  "birth_date": "2002-03-17",
+  "country_id": 756,
+  "club_id": 2000264629,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2019, "c": 59136626, "p": 10, "g": 1 },
+    { "s": 2020, "c": 59136626, "p": 1 },
+    { "s": 2021, "c": 59136626, "p": 9 }
+  ]
+}

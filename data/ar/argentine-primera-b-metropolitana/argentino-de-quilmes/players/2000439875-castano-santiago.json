@@ -1,0 +1,32 @@
+{
+  "id": 2000439875,
+  "first_name": "Santiago",
+  "last_name": "Castaño",
+  "birth_date": "2004-02-05",
+  "country_id": 1649,
+  "club_id": 3101496,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 3101496, "p": 18 }
+  ]
+}

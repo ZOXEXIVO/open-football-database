@@ -1,0 +1,52 @@
+{
+  "id": 16184634,
+  "first_name": "Nemanja",
+  "last_name": "Čelić",
+  "birth_date": "1999-04-26",
+  "country_id": 755,
+  "club_id": 160,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 97,
+  "potential_ability": 116,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 1, "u21_goals": 0},
+  "history": [
+    { "s": 2016, "c": 16156494, "p": 15, "g": 1 },
+    { "s": 2017, "c": 154, "p": 2 },
+    { "s": 2017, "c": 16249945, "p": 20, "g": 3 },
+    { "s": 2018, "c": 16249945, "p": 23, "g": 1 },
+    { "s": 2019, "c": 154, "p": 1 },
+    { "s": 2019, "c": 16249945, "p": 12 },
+    { "s": 2020, "c": 16324690, "p": 29, "g": 1 },
+    { "s": 2021, "c": 108997, "p": 14 },
+    { "s": 2022, "c": 154, "p": 7 },
+    { "s": 2022, "c": 2000179934, "p": 3 },
+    { "s": 2023, "c": 159, "p": 22 },
+    { "s": 2024, "c": 159, "p": 23 }
+  ]
+}

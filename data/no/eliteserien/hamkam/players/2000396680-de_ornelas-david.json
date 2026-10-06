@@ -1,0 +1,46 @@
+{
+  "id": 2000396680,
+  "first_name": "David",
+  "last_name": "de Ornelas",
+  "birth_date": "2008-06-25",
+  "country_id": 786,
+  "club_id": 103283,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -75,
+  "history": [
+    { "s": 2023, "c": 53045792, "p": 0 },
+    { "s": 2024, "c": 750770, "p": 5 },
+    { "s": 2025, "c": 103283, "p": 1 },
+    { "s": 2025, "c": 53087904, "p": 20, "g": 1 }
+  ]
+}

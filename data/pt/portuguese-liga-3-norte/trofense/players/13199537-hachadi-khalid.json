@@ -1,0 +1,35 @@
+{
+  "id": 13199537,
+  "first_name": "Khalid",
+  "last_name": "Hachadi",
+  "birth_date": "1998-05-30",
+  "country_id": 34,
+  "club_id": 2456,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 92,
+  "potential_ability": 99,
+  "contract": {
+    "salary": 19084,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 5380015, "p": 4 },
+    { "s": 2017, "c": 5380015, "p": 9 },
+    { "s": 2018, "c": 5380015, "p": 23, "g": 13 },
+    { "s": 2019, "c": 1495, "p": 18, "g": 1 },
+    { "s": 2021, "c": 8631278, "p": 8 },
+    { "s": 2023, "c": 2391, "p": 28, "g": 3 },
+    { "s": 2024, "c": 2393, "p": 28, "g": 7 }
+  ]
+}

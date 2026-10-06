@@ -1,0 +1,39 @@
+{
+  "id": 2000195393,
+  "first_name": "Abdoulie",
+  "last_name": "Manneh",
+  "birth_date": "2005-09-29",
+  "country_id": 20,
+  "club_id": 1817,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 119,
+  "potential_ability": -75,
+  "contract": {
+    "salary": 56368,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 4, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2024, "c": 1817, "p": 21, "g": 2 },
+    { "s": 2025, "c": 1817, "p": 28, "g": 7 }
+  ]
+}

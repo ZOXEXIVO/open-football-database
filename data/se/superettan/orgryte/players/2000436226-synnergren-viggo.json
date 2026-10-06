@@ -1,0 +1,25 @@
+{
+  "id": 2000436226,
+  "first_name": "Viggo",
+  "last_name": "Synnergren",
+  "birth_date": "2008-01-08",
+  "country_id": 797,
+  "club_id": 1843,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2023, "c": 1843, "p": 0 },
+    { "s": 2024, "c": 1843, "p": 0 },
+    { "s": 2025, "c": 1843, "p": 0 }
+  ]
+}

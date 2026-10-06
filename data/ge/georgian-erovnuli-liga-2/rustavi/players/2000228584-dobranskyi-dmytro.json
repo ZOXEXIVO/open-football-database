@@ -1,0 +1,22 @@
+{
+  "id": 2000228584,
+  "first_name": "Dmytro",
+  "last_name": "Dobranskyi",
+  "birth_date": "2003-06-04",
+  "country_id": 800,
+  "club_id": 8715219,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2021, "c": 63011666, "p": 1 },
+    { "s": 2022, "c": 63011666, "p": 14 },
+    { "s": 2024, "c": 8715219, "p": 10, "g": 1 },
+    { "s": 2025, "c": 8715219, "p": 28, "g": 2 }
+  ]
+}

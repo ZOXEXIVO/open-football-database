@@ -1,0 +1,34 @@
+{
+  "id": 2000319034,
+  "first_name": "José",
+  "last_name": "Castillo",
+  "birth_date": "2004-01-01",
+  "country_id": 1658,
+  "club_id": 86005820,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 2000255137, "p": 7, "g": 1 },
+    { "s": 2024, "c": 2000255137, "p": 7 },
+    { "s": 2025, "c": 2000255137, "p": 26, "g": 3 }
+  ]
+}

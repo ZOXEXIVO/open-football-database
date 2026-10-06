@@ -1,0 +1,57 @@
+{
+  "id": 3101506,
+  "name": "Dock Sud",
+  "location": {
+    "city_id": 6127
+  },
+  "finance": {
+    "balance": 533400
+  },
+  "teams": [
+    {
+      "id": 3101506,
+      "name": "Dock Sud",
+      "slug": "dock-sud",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 98700027,
+      "name": "Dock Sud",
+      "slug": "dock-sud-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 98700028,
+      "name": "Dock Sud",
+      "slug": "dock-sud-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#26488b"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Below Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 940
+}

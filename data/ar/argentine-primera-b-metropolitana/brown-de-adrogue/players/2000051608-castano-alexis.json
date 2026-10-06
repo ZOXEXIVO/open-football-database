@@ -1,0 +1,33 @@
+{
+  "id": 2000051608,
+  "first_name": "Alexis",
+  "last_name": "Castaño",
+  "birth_date": "1999-03-09",
+  "country_id": 1649,
+  "club_id": 3101502,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 103,
+  "contract": {
+    "salary": 6552,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 3101502, "p": 2 },
+    { "s": 2022, "c": 3101502, "p": 6 },
+    { "s": 2023, "c": 3101502, "p": 8 },
+    { "s": 2024, "c": 3101506, "p": 16 },
+    { "s": 2025, "c": 3101502, "p": 30 }
+  ]
+}

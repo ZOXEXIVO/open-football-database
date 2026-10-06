@@ -1,0 +1,39 @@
+{
+  "id": 5605434,
+  "name": "Rapid Wien II",
+  "parent_club": {
+    "id": 155,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 3001
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 5605434,
+      "name": "Rapid Wien II",
+      "slug": "rapid-wien-ii",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5000,
+        "national": 5000,
+        "world": 5000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c8c57",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Excellent",
+    "academy": "Excellent",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 940
+}

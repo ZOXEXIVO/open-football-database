@@ -1,0 +1,36 @@
+{
+  "id": 83174732,
+  "first_name": "João",
+  "last_name": "Gonçalo",
+  "birth_date": "2000-04-15",
+  "country_id": 788,
+  "club_id": 2410,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": 95,
+  "contract": {
+    "salary": 13468,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 1478, "p": 0 },
+    { "s": 2018, "c": 1478, "p": 0 },
+    { "s": 2019, "c": 2383, "p": 0 },
+    { "s": 2020, "c": 55001075, "p": 13 },
+    { "s": 2021, "c": 84107055, "p": 26 },
+    { "s": 2022, "c": 2410, "p": 10 },
+    { "s": 2023, "c": 2395, "p": 14 },
+    { "s": 2024, "c": 2395, "p": 18 }
+  ]
+}

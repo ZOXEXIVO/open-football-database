@@ -1,0 +1,33 @@
+{
+  "id": 2000091418,
+  "first_name": "Márk",
+  "last_name": "Karácsony",
+  "birth_date": "2003-07-07",
+  "country_id": 790,
+  "club_id": 57191025,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": 95,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 57110301, "p": 0 },
+    { "s": 2022, "c": 57110301, "p": 3 },
+    { "s": 2022, "c": 57159183, "p": 8 },
+    { "s": 2023, "c": 57110301, "p": 3 },
+    { "s": 2024, "c": 57110301, "p": 1 },
+    { "s": 2025, "c": 57110301, "p": 0 }
+  ]
+}

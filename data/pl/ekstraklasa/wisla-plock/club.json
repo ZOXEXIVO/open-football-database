@@ -1,0 +1,57 @@
+{
+  "id": 1458,
+  "name": "Wisła Płock",
+  "location": {
+    "city_id": 5776
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 1458,
+      "name": "Wisła Płock",
+      "slug": "wisla-plock",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    },
+    {
+      "id": 89500037,
+      "name": "Wisła Płock",
+      "slug": "wisla-plock-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1530,
+        "national": 1530,
+        "world": 1530
+      }
+    },
+    {
+      "id": 89500038,
+      "name": "Wisła Płock",
+      "slug": "wisla-plock-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c72de",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 10500
+}

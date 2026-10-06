@@ -1,0 +1,32 @@
+{
+  "id": 2000518083,
+  "first_name": "Hjalmar",
+  "last_name": "Teixeira Gomes",
+  "birth_date": "2007-01-15",
+  "country_id": 797,
+  "club_id": 2164,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 1976,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 2164, "p": 0 },
+    { "s": 2023, "c": 2164, "p": 0 },
+    { "s": 2024, "c": 2164, "p": 0 },
+    { "s": 2025, "c": 2164, "p": 0 }
+  ]
+}

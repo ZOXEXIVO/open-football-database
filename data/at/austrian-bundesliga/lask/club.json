@@ -1,0 +1,57 @@
+{
+  "id": 154,
+  "name": "LASK",
+  "location": {
+    "city_id": 5903
+  },
+  "finance": {
+    "balance": 43180000
+  },
+  "teams": [
+    {
+      "id": 154,
+      "name": "LASK",
+      "slug": "lask",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6400,
+        "national": 6400,
+        "world": 6400
+      }
+    },
+    {
+      "id": 90100021,
+      "name": "LASK",
+      "slug": "lask-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1920,
+        "national": 1920,
+        "world": 1920
+      }
+    },
+    {
+      "id": 90100022,
+      "name": "LASK",
+      "slug": "lask-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1280,
+        "national": 1280,
+        "world": 1280
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 7800
+}

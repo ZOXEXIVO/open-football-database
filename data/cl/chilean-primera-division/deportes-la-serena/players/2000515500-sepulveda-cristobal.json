@@ -1,0 +1,29 @@
+{
+  "id": 2000515500,
+  "first_name": "Cristóbal",
+  "last_name": "Sepúlveda",
+  "birth_date": "2008-01-16",
+  "country_id": 1652,
+  "club_id": 130796,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 60,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2023, "c": 130796, "p": 0 },
+    { "s": 2024, "c": 130796, "p": 0 },
+    { "s": 2025, "c": 130796, "p": 0 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2000284844,
+  "name": "Sporting Baku",
+  "location": {
+    "city_id": 5898
+  },
+  "finance": {
+    "balance": 292100
+  },
+  "teams": [
+    {
+      "id": 2000284844,
+      "name": "Sporting Baku",
+      "slug": "sporting-baku",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2300,
+        "national": 2300,
+        "world": 2300
+      }
+    },
+    {
+      "id": 97100011,
+      "name": "Sporting Baku",
+      "slug": "sporting-baku-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 690,
+        "national": 690,
+        "world": 690
+      }
+    },
+    {
+      "id": 97100012,
+      "name": "Sporting Baku",
+      "slug": "sporting-baku-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 460,
+        "national": 460,
+        "world": 460
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2e6091",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 100
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000438789,
+  "first_name": "Gela",
+  "last_name": "Sadghobelashvili",
+  "birth_date": "2005-01-19",
+  "country_id": 770,
+  "club_id": 59007876,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 892, "p": 0 },
+    { "s": 2024, "c": 59007890, "p": 26, "g": 1 },
+    { "s": 2025, "c": 892, "p": 11 },
+    { "s": 2025, "c": 59007890, "p": 5 }
+  ]
+}

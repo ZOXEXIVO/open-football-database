@@ -1,0 +1,33 @@
+{
+  "id": 2000050042,
+  "first_name": "Nicolás",
+  "last_name": "Stepanovitch",
+  "birth_date": "2004-02-14",
+  "country_id": 1649,
+  "club_id": 952691,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 80,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000489430,
+  "first_name": "Jamie",
+  "last_name": "Okonkwo",
+  "birth_date": "2009-06-25",
+  "country_id": 764,
+  "club_id": 493,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 32,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2025, "c": 493, "p": 0 }
+  ]
+}

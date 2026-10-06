@@ -1,0 +1,57 @@
+{
+  "id": 136472,
+  "name": "Trayal Kruševac",
+  "location": {
+    "city_id": 6050
+  },
+  "finance": {
+    "balance": 201930
+  },
+  "teams": [
+    {
+      "id": 136472,
+      "name": "Trayal Kruševac",
+      "slug": "trayal-krusevac",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2900,
+        "national": 2900,
+        "world": 2900
+      }
+    },
+    {
+      "id": 98300023,
+      "name": "Trayal Kruševac",
+      "slug": "trayal-krusevac-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 870,
+        "national": 870,
+        "world": 870
+      }
+    },
+    {
+      "id": 98300024,
+      "name": "Trayal Kruševac",
+      "slug": "trayal-krusevac-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 580,
+        "national": 580,
+        "world": 580
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 190
+}

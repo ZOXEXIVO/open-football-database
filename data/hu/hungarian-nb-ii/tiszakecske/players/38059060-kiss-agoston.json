@@ -1,0 +1,35 @@
+{
+  "id": 38059060,
+  "first_name": "Ágoston",
+  "last_name": "Kiss",
+  "birth_date": "2001-03-14",
+  "country_id": 773,
+  "club_id": 38037178,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 114,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 38032696, "p": 0 },
+    { "s": 2020, "c": 38041490, "p": 12 },
+    { "s": 2021, "c": 38032696, "p": 0 },
+    { "s": 2021, "c": 38041490, "p": 20 },
+    { "s": 2022, "c": 5410637, "p": 29 },
+    { "s": 2023, "c": 38037178, "p": 26 },
+    { "s": 2024, "c": 1066, "p": 20 },
+    { "s": 2025, "c": 1066, "p": 3 }
+  ]
+}

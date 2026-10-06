@@ -1,0 +1,57 @@
+{
+  "id": 136249,
+  "name": "Ústí nad Labem",
+  "location": {
+    "city_id": 5752
+  },
+  "finance": {
+    "balance": 415290
+  },
+  "teams": [
+    {
+      "id": 136249,
+      "name": "Ústí nad Labem",
+      "slug": "usti-nad-labem",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 95900011,
+      "name": "Ústí nad Labem",
+      "slug": "usti-nad-labem-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 95900012,
+      "name": "Ústí nad Labem",
+      "slug": "usti-nad-labem-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 960
+}

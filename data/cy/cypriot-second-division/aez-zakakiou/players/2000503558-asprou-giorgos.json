@@ -1,0 +1,34 @@
+{
+  "id": 2000503558,
+  "first_name": "Giorgos",
+  "last_name": "Asprou",
+  "birth_date": "2002-12-13",
+  "country_id": 762,
+  "club_id": 26001619,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 93,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1300271, "p": 0 },
+    { "s": 2019, "c": 1300271, "p": 0 },
+    { "s": 2020, "c": 1300271, "p": 0 },
+    { "s": 2021, "c": 1300271, "p": 1 },
+    { "s": 2022, "c": 26038572, "p": 18 },
+    { "s": 2023, "c": 2000261880, "p": 21, "g": 1 },
+    { "s": 2024, "c": 2000261880, "p": 19, "g": 1 }
+  ]
+}

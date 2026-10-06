@@ -1,0 +1,57 @@
+{
+  "id": 2456,
+  "name": "Trofense",
+  "location": {
+    "city_id": 5943
+  },
+  "finance": {
+    "balance": 267970
+  },
+  "teams": [
+    {
+      "id": 2456,
+      "name": "Trofense",
+      "slug": "trofense",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 97600003,
+      "name": "Trofense",
+      "slug": "trofense-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 97600004,
+      "name": "Trofense",
+      "slug": "trofense-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1050
+}

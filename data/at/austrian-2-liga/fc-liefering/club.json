@@ -1,0 +1,39 @@
+{
+  "id": 16123919,
+  "name": "FC Liefering",
+  "parent_club": {
+    "id": 158,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 3000
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 16123919,
+      "name": "FC Liefering",
+      "slug": "fc-liefering",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#9e2530"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Superb",
+    "youth": "Superb",
+    "academy": "Excellent",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 600
+}

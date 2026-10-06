@@ -1,0 +1,31 @@
+{
+  "id": 2000507349,
+  "first_name": "Olve",
+  "last_name": "Hall",
+  "birth_date": "2007-01-09",
+  "country_id": 786,
+  "club_id": 1387,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 10,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": -4,
+  "history": [
+    { "s": 2022, "c": 1387, "p": 0 },
+    { "s": 2022, "c": 53017606, "p": 0 },
+    { "s": 2023, "c": 1387, "p": 0 },
+    { "s": 2024, "c": 1387, "p": 0 },
+    { "s": 2025, "c": 53088512, "p": 18, "g": 5 }
+  ]
+}

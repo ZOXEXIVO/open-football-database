@@ -1,0 +1,39 @@
+{
+  "id": 16273047,
+  "name": "Young Violets",
+  "parent_club": {
+    "id": 152,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 3002
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 16273047,
+      "name": "Young Violets",
+      "slug": "young-violets",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#663ebd",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Excellent",
+    "academy": "Excellent",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 660
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2000050580,
+  "first_name": "Filipe",
+  "last_name": "de Carvalho",
+  "birth_date": "2003-12-01",
+  "country_id": 798,
+  "club_id": 137943,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 118,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 1855, "p": 1 },
+    { "s": 2020, "c": 98000666, "p": 7, "g": 2 },
+    { "s": 2021, "c": 1855, "p": 1 },
+    { "s": 2022, "c": 1855, "p": 18, "g": 1 },
+    { "s": 2022, "c": 98000666, "p": 8, "g": 1 },
+    { "s": 2023, "c": 1855, "p": 32, "g": 3 },
+    { "s": 2024, "c": 1855, "p": 7 },
+    { "s": 2024, "c": 98000666, "p": 14, "g": 8 }
+  ]
+}

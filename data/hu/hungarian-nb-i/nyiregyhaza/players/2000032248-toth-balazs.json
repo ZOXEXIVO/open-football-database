@@ -1,0 +1,34 @@
+{
+  "id": 2000032248,
+  "first_name": "Balázs",
+  "last_name": "Tóth",
+  "birth_date": "2004-04-29",
+  "country_id": 773,
+  "club_id": 130823,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 95,
+  "potential_ability": 130,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 2, "u21_goals": 0},
+  "history": [
+    { "s": 2021, "c": 16123919, "p": 1 },
+    { "s": 2022, "c": 16123919, "p": 5 },
+    { "s": 2023, "c": 130821, "p": 0 },
+    { "s": 2023, "c": 7521266, "p": 14 },
+    { "s": 2024, "c": 130823, "p": 25 },
+    { "s": 2024, "c": 38013515, "p": 2 }
+  ]
+}

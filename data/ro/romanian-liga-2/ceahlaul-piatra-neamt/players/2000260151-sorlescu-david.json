@@ -1,0 +1,36 @@
+{
+  "id": 2000260151,
+  "first_name": "David",
+  "last_name": "Sorlescu",
+  "birth_date": "2005-09-09",
+  "country_id": 790,
+  "club_id": 57151105,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 10,
+  "potential_ability": 60,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 57151105, "p": 1 }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 63027469,
+  "first_name": "Filip",
+  "last_name": "Kis",
+  "birth_date": "1994-02-23",
+  "country_id": 794,
+  "club_id": 2000128726,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 80,
+  "history": [
+    { "s": 2019, "c": 63035357, "p": 16, "g": 1 },
+    { "s": 2020, "c": 63035357, "p": 24 },
+    { "s": 2021, "c": 63035357, "p": 16 }
+  ]
+}

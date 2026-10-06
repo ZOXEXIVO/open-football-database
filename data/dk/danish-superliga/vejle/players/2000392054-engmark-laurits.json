@@ -1,0 +1,33 @@
+{
+  "id": 2000392054,
+  "first_name": "Laurits",
+  "last_name": "Engmark",
+  "birth_date": "2008-04-26",
+  "country_id": 764,
+  "club_id": 2142,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 61,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 18044,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2142, "p": 0 }
+  ]
+}

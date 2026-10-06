@@ -1,0 +1,33 @@
+{
+  "id": 14248160,
+  "first_name": "Santiago",
+  "last_name": "Díaz",
+  "birth_date": "1998-01-04",
+  "country_id": 1649,
+  "club_id": 102479,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 91,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 14252211, "p": 3 },
+    { "s": 2025, "c": 102479, "p": 10 }
+  ]
+}

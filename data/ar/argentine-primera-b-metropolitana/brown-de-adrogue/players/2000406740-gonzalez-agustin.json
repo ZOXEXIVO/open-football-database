@@ -1,0 +1,33 @@
+{
+  "id": 2000406740,
+  "first_name": "Agustín",
+  "last_name": "Gonzalez",
+  "birth_date": "2004-07-31",
+  "country_id": 1649,
+  "club_id": 3101502,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 4576,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 3101502, "p": 12 }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 83231166,
+  "first_name": "Miguel",
+  "last_name": "Rodeia",
+  "birth_date": "2000-06-24",
+  "country_id": 788,
+  "club_id": 2471,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 76,
+  "potential_ability": 92,
+  "contract": {
+    "salary": 13468,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 1495, "p": 0 },
+    { "s": 2018, "c": 1495, "p": 0 },
+    { "s": 2019, "c": 2487, "p": 0 },
+    { "s": 2020, "c": 2444, "p": 2 },
+    { "s": 2021, "c": 8872068, "p": 20 },
+    { "s": 2022, "c": 55027091, "p": 31, "g": 2 },
+    { "s": 2023, "c": 55027091, "p": 23, "g": 3 },
+    { "s": 2024, "c": 981817, "p": 17, "g": 1 },
+    { "s": 2024, "c": 83222916, "p": 5, "g": 1 }
+  ]
+}

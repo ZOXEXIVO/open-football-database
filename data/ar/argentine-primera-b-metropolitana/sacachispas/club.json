@@ -1,0 +1,57 @@
+{
+  "id": 952751,
+  "name": "Sacachispas",
+  "location": {
+    "city_id": 6119
+  },
+  "finance": {
+    "balance": 571500
+  },
+  "teams": [
+    {
+      "id": 952751,
+      "name": "Sacachispas",
+      "slug": "sacachispas",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 98700011,
+      "name": "Sacachispas",
+      "slug": "sacachispas-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 98700012,
+      "name": "Sacachispas",
+      "slug": "sacachispas-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#9d4ced",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1350
+}

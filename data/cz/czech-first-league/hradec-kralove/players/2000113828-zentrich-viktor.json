@@ -1,0 +1,43 @@
+{
+  "id": 2000113828,
+  "first_name": "Viktor",
+  "last_name": "Zentrich",
+  "birth_date": "2003-06-13",
+  "country_id": 763,
+  "club_id": 472,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 128,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 958, "p": 0 },
+    { "s": 2018, "c": 958, "p": 0 },
+    { "s": 2019, "c": 958, "p": 0 },
+    { "s": 2020, "c": 958, "p": 1 },
+    { "s": 2021, "c": 958, "p": 26, "g": 1 },
+    { "s": 2022, "c": 958, "p": 29 },
+    { "s": 2023, "c": 958, "p": 12 },
+    { "s": 2024, "c": 958, "p": 13 }
+  ]
+}

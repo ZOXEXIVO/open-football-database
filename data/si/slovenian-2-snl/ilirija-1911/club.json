@@ -1,0 +1,57 @@
+{
+  "id": 5777059,
+  "name": "Ilirija 1911",
+  "location": {
+    "city_id": 6037
+  },
+  "finance": {
+    "balance": 121920
+  },
+  "teams": [
+    {
+      "id": 5777059,
+      "name": "Ilirija 1911",
+      "slug": "ilirija-1911",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2400,
+        "national": 2400,
+        "world": 2400
+      }
+    },
+    {
+      "id": 98200021,
+      "name": "Ilirija 1911",
+      "slug": "ilirija-1911-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 720,
+        "national": 720,
+        "world": 720
+      }
+    },
+    {
+      "id": 98200022,
+      "name": "Ilirija 1911",
+      "slug": "ilirija-1911-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 480,
+        "national": 480,
+        "world": 480
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3e8c4b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Good"
+  },
+  "average_attendance": 110
+}

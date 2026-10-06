@@ -1,0 +1,28 @@
+{
+  "id": 2000490616,
+  "first_name": "Iver",
+  "last_name": "Elseth",
+  "birth_date": "2008-04-01",
+  "country_id": 786,
+  "club_id": 1336,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 53,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2024, "c": 53087568, "p": 5 },
+    { "s": 2025, "c": 53087568, "p": 10 }
+  ]
+}

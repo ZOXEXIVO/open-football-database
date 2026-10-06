@@ -1,0 +1,27 @@
+{
+  "id": 2000505691,
+  "first_name": "Nikola",
+  "last_name": "Terzić",
+  "birth_date": "2002-12-30",
+  "country_id": 802,
+  "club_id": 62160090,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": 99,
+  "history": [
+    { "s": 2020, "c": 1952, "p": 0 },
+    { "s": 2021, "c": 136465, "p": 0 },
+    { "s": 2022, "c": 5751524, "p": 9 },
+    { "s": 2023, "c": 5751524, "p": 28 },
+    { "s": 2024, "c": 5751524, "p": 21 }
+  ]
+}

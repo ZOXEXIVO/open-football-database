@@ -1,0 +1,57 @@
+{
+  "id": 86008546,
+  "name": "Angostura",
+  "location": {
+    "city_id": 6095
+  },
+  "finance": {
+    "balance": 264160
+  },
+  "teams": [
+    {
+      "id": 86008546,
+      "name": "Angostura",
+      "slug": "angostura",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 98600005,
+      "name": "Angostura",
+      "slug": "angostura-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 98600006,
+      "name": "Angostura",
+      "slug": "angostura-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#26488b",
+    "foreground": "#ffe252"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1050
+}

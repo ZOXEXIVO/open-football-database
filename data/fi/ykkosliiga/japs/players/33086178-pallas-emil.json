@@ -1,0 +1,49 @@
+{
+  "id": 33086178,
+  "first_name": "Emil",
+  "last_name": "Pallas",
+  "birth_date": "2001-02-09",
+  "country_id": 768,
+  "club_id": 514129,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 95,
+  "contract": {
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 129170, "p": 1 },
+    { "s": 2019, "c": 513007, "p": 13, "g": 1 },
+    { "s": 2020, "c": 518938, "p": 10, "g": 2 },
+    { "s": 2021, "c": 129170, "p": 5 },
+    { "s": 2022, "c": 513014, "p": 19, "g": 3 },
+    { "s": 2023, "c": 129129, "p": 19, "g": 2 },
+    { "s": 2024, "c": 514046, "p": 20, "g": 1 },
+    { "s": 2024, "c": 33033965, "p": 1, "g": 1 },
+    { "s": 2025, "c": 510218, "p": 14 },
+    { "s": 2025, "c": 514129, "p": 12, "g": 4 }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2000430791,
+  "first_name": "Smaïl",
+  "last_name": "Bakhty",
+  "birth_date": "2006-11-29",
+  "country_id": 34,
+  "club_id": 5602973,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 27300,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 7, "u21_goals": 1},
+  "history": [
+    { "s": 2024, "c": 5602973, "p": 0 }
+  ]
+}

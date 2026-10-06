@@ -1,0 +1,39 @@
+{
+  "id": 7681696,
+  "name": "Tammeka U21",
+  "parent_club": {
+    "id": 5220196,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 4906
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 7681696,
+      "name": "Tammeka U21",
+      "slug": "tammeka-u21",
+      "team_type": "Main",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3d7bb8",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 100
+}

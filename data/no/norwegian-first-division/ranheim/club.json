@@ -1,0 +1,57 @@
+{
+  "id": 1300612,
+  "name": "Ranheim",
+  "location": {
+    "city_id": 6067
+  },
+  "finance": {
+    "balance": 539750
+  },
+  "teams": [
+    {
+      "id": 1300612,
+      "name": "Ranheim",
+      "slug": "ranheim",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 98400013,
+      "name": "Ranheim",
+      "slug": "ranheim-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 98400014,
+      "name": "Ranheim",
+      "slug": "ranheim-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1750
+}

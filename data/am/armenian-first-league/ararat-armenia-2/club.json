@@ -1,0 +1,39 @@
+{
+  "id": 59136077,
+  "name": "Ararat-Armenia-2",
+  "parent_club": {
+    "id": 59136074,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 2101
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 59136077,
+      "name": "Ararat-Armenia-2",
+      "slug": "ararat-armenia-2",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2300,
+        "national": 2300,
+        "world": 2300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 100
+}

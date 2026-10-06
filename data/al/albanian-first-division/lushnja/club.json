@@ -1,0 +1,35 @@
+{
+  "id": 1300086,
+  "name": "Lushnja",
+  "location": {
+    "city_id": 5936
+  },
+  "finance": {
+    "balance": 381000
+  },
+  "teams": [
+    {
+      "id": 1300086,
+      "name": "Lushnja",
+      "slug": "lushnja",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c8c57",
+    "foreground": "#ffd900"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 750
+}

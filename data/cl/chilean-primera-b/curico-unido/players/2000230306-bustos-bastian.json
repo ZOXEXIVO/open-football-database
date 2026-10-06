@@ -1,0 +1,30 @@
+{
+  "id": 2000230306,
+  "first_name": "Bastián",
+  "last_name": "Bustos",
+  "birth_date": "2005-11-18",
+  "country_id": 1652,
+  "club_id": 5250445,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2022, "c": 120064, "p": 0 },
+    { "s": 2023, "c": 120064, "p": 0 },
+    { "s": 2024, "c": 5250445, "p": 1 },
+    { "s": 2025, "c": 5250445, "p": 0 }
+  ]
+}

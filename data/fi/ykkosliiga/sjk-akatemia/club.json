@@ -1,0 +1,39 @@
+{
+  "id": 33064668,
+  "name": "SJK Akatemia",
+  "parent_club": {
+    "id": 33007394,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 3710
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 33064668,
+      "name": "SJK Akatemia",
+      "slug": "sjk-akatemia",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2300,
+        "national": 2300,
+        "world": 2300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#ffd642"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 110
+}

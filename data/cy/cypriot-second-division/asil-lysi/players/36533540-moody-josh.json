@@ -1,0 +1,33 @@
+{
+  "id": 36533540,
+  "first_name": "Josh",
+  "last_name": "Moody",
+  "birth_date": "1999-08-26",
+  "country_id": 390,
+  "club_id": 149276,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 49,
+  "potential_ability": 56,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 36512955, "p": 2, "g": 1 },
+    { "s": 2022, "c": 2000197611, "p": 2 }
+  ]
+}

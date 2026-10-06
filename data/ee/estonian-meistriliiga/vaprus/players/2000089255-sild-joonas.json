@@ -1,0 +1,37 @@
+{
+  "id": 2000089255,
+  "first_name": "Joonas",
+  "last_name": "Sild",
+  "birth_date": "2000-11-19",
+  "country_id": 766,
+  "club_id": 47070349,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 63,
+  "potential_ability": 76,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 47058821, "p": 27, "g": 4 },
+    { "s": 2021, "c": 47058821, "p": 30, "g": 4 },
+    { "s": 2022, "c": 47058821, "p": 27, "g": 2 },
+    { "s": 2023, "c": 47070349, "p": 34, "g": 1 },
+    { "s": 2024, "c": 47070349, "p": 35 },
+    { "s": 2025, "c": 47070349, "p": 34, "g": 1 }
+  ]
+}

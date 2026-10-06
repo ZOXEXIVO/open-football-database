@@ -1,0 +1,32 @@
+{
+  "id": 2000466544,
+  "first_name": "Oruc",
+  "last_name": "Mammadov",
+  "birth_date": "2004-09-14",
+  "country_id": 756,
+  "club_id": 2000172513,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 59008318, "p": 14 }
+  ]
+}

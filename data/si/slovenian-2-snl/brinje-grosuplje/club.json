@@ -1,0 +1,57 @@
+{
+  "id": 7580709,
+  "name": "Brinje Grosuplje",
+  "location": {
+    "city_id": 6028
+  },
+  "finance": {
+    "balance": 171450
+  },
+  "teams": [
+    {
+      "id": 7580709,
+      "name": "Brinje Grosuplje",
+      "slug": "brinje-grosuplje",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3400,
+        "national": 3400,
+        "world": 3400
+      }
+    },
+    {
+      "id": 98200003,
+      "name": "Brinje Grosuplje",
+      "slug": "brinje-grosuplje-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    },
+    {
+      "id": 98200004,
+      "name": "Brinje Grosuplje",
+      "slug": "brinje-grosuplje-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 680,
+        "national": 680,
+        "world": 680
+      }
+    }
+  ],
+  "colors": {
+    "background": "#26488b",
+    "foreground": "#ffe252"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 350
+}

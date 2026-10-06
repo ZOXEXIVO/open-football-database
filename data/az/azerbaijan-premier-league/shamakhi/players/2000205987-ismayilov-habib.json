@@ -1,0 +1,28 @@
+{
+  "id": 2000205987,
+  "first_name": "Habib",
+  "last_name": "İsmayilov",
+  "birth_date": "2003-11-14",
+  "country_id": 756,
+  "club_id": 2000172513,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 85,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 59008336, "p": 22, "g": 4 }
+  ]
+}

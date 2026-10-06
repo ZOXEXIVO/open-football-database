@@ -1,0 +1,30 @@
+{
+  "id": 2000508503,
+  "first_name": "Topias",
+  "last_name": "Töllinen",
+  "birth_date": "2008-12-16",
+  "country_id": 768,
+  "club_id": 33064668,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 6708,
+    "expiration": "2027-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 33000579, "p": 0 },
+    { "s": 2025, "c": 33000579, "p": 4 }
+  ]
+}

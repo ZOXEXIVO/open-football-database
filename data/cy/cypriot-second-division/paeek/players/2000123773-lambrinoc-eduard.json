@@ -1,0 +1,42 @@
+{
+  "id": 2000123773,
+  "first_name": "Eduard",
+  "last_name": "Lambrinoc",
+  "birth_date": "2004-07-11",
+  "country_id": 790,
+  "club_id": 149279,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": 85,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 57024436, "p": 12 },
+    { "s": 2021, "c": 2000105297, "p": 8, "g": 2 },
+    { "s": 2022, "c": 2000105297, "p": 20, "g": 3 },
+    { "s": 2023, "c": 57065222, "p": 5 },
+    { "s": 2023, "c": 57071690, "p": 18, "g": 4 },
+    { "s": 2024, "c": 57050239, "p": 2 },
+    { "s": 2024, "c": 57065222, "p": 3, "g": 1 }
+  ]
+}

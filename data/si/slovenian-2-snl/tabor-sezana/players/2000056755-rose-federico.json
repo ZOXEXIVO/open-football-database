@@ -1,0 +1,38 @@
+{
+  "id": 2000056755,
+  "first_name": "Federico",
+  "last_name": "Rose",
+  "birth_date": "2004-08-07",
+  "country_id": 364,
+  "club_id": 138169,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 117,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 98, "p": 0 },
+    { "s": 2021, "c": 98, "p": 0 },
+    { "s": 2022, "c": 98, "p": 0 },
+    { "s": 2023, "c": 98, "p": 0 },
+    { "s": 2023, "c": 26031118, "p": 0 },
+    { "s": 2024, "c": 138169, "p": 24, "g": 6 },
+    { "s": 2025, "c": 138169, "p": 15, "g": 6 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1049,
+  "name": "BVSC-Zugló",
+  "location": {
+    "city_id": 5767
+  },
+  "finance": {
+    "balance": 255270
+  },
+  "teams": [
+    {
+      "id": 1049,
+      "name": "BVSC-Zugló",
+      "slug": "bvsc-zuglo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 96200011,
+      "name": "BVSC-Zugló",
+      "slug": "bvsc-zuglo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 96200012,
+      "name": "BVSC-Zugló",
+      "slug": "bvsc-zuglo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2e6091",
+    "foreground": "#ffe252"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 940
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2000094829,
+  "name": "Bolívar",
+  "location": {
+    "city_id": 6110
+  },
+  "finance": {
+    "balance": 419100
+  },
+  "teams": [
+    {
+      "id": 2000094829,
+      "name": "Bolívar",
+      "slug": "bolivar",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3300,
+        "national": 3300,
+        "world": 3300
+      }
+    },
+    {
+      "id": 98600015,
+      "name": "Bolívar",
+      "slug": "bolivar-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 990,
+        "national": 990,
+        "world": 990
+      }
+    },
+    {
+      "id": 98600016,
+      "name": "Bolívar",
+      "slug": "bolivar-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    }
+  ],
+  "colors": {
+    "background": "#4a99e8",
+    "foreground": "#ffe252"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 830
+}

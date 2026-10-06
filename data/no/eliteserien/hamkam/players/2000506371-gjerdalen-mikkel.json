@@ -1,0 +1,32 @@
+{
+  "id": 2000506371,
+  "first_name": "Mikkel",
+  "last_name": "Gjerdalen",
+  "birth_date": "2007-06-03",
+  "country_id": 786,
+  "club_id": 103283,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 15,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2024, "c": 53087904, "p": 3 },
+    { "s": 2025, "c": 53087904, "p": 22, "g": 2 }
+  ]
+}

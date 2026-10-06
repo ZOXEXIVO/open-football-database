@@ -1,0 +1,47 @@
+{
+  "id": 86059424,
+  "first_name": "José Rafael",
+  "last_name": "Reyes",
+  "birth_date": "2000-03-25",
+  "country_id": 1658,
+  "club_id": 8351387,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 87,
+  "potential_ability": 107,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 120998, "p": 13, "g": 2 },
+    { "s": 2018, "c": 120998, "p": 13, "g": 2 },
+    { "s": 2019, "c": 120998, "p": 3 },
+    { "s": 2020, "c": 120998, "p": 0 },
+    { "s": 2020, "c": 67156323, "p": 0 },
+    { "s": 2023, "c": 2000169166, "p": 20, "g": 1 },
+    { "s": 2024, "c": 2000169166, "p": 17, "g": 2 },
+    { "s": 2025, "c": 2000169166, "p": 24, "g": 6 }
+  ]
+}

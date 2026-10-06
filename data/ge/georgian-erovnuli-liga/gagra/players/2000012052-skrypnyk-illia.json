@@ -1,0 +1,31 @@
+{
+  "id": 2000012052,
+  "first_name": "Illia",
+  "last_name": "Skrypnyk",
+  "birth_date": "2003-06-25",
+  "country_id": 800,
+  "club_id": 59007876,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2019, "c": 1885, "p": 0 },
+    { "s": 2020, "c": 1885, "p": 0 },
+    { "s": 2021, "c": 1885, "p": 0 },
+    { "s": 2022, "c": 484458, "p": 18, "g": 4 },
+    { "s": 2025, "c": 59007876, "p": 17 }
+  ]
+}

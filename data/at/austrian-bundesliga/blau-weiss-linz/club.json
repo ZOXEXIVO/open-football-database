@@ -1,0 +1,57 @@
+{
+  "id": 137962,
+  "name": "Blau-Weiß Linz",
+  "location": {
+    "city_id": 5905
+  },
+  "finance": {
+    "balance": 762000
+  },
+  "teams": [
+    {
+      "id": 137962,
+      "name": "Blau-Weiß Linz",
+      "slug": "blau-weiss-linz",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6000,
+        "national": 6000,
+        "world": 6000
+      }
+    },
+    {
+      "id": 90100025,
+      "name": "Blau-Weiß Linz",
+      "slug": "blau-weiss-linz-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1800,
+        "national": 1800,
+        "world": 1800
+      }
+    },
+    {
+      "id": 90100026,
+      "name": "Blau-Weiß Linz",
+      "slug": "blau-weiss-linz-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 4500
+}

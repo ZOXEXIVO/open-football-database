@@ -1,0 +1,57 @@
+{
+  "id": 2410,
+  "name": "Fafe",
+  "location": {
+    "city_id": 5944
+  },
+  "finance": {
+    "balance": 264160
+  },
+  "teams": [
+    {
+      "id": 2410,
+      "name": "Fafe",
+      "slug": "fafe",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 97600005,
+      "name": "Fafe",
+      "slug": "fafe-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 97600006,
+      "name": "Fafe",
+      "slug": "fafe-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd900",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 950
+}

@@ -1,0 +1,57 @@
+{
+  "id": 16184680,
+  "first_name": "Manuel",
+  "last_name": "Thurnwald",
+  "birth_date": "1998-07-16",
+  "country_id": 755,
+  "club_id": 2000263051,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 125,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 6, "u21_goals": 1},
+  "history": [
+    { "s": 2015, "c": 5605434, "p": 9 },
+    { "s": 2016, "c": 155, "p": 11 },
+    { "s": 2016, "c": 5605434, "p": 17 },
+    { "s": 2017, "c": 155, "p": 10 },
+    { "s": 2017, "c": 5605434, "p": 4 },
+    { "s": 2018, "c": 155, "p": 6 },
+    { "s": 2018, "c": 5605434, "p": 3 },
+    { "s": 2019, "c": 137973, "p": 27 },
+    { "s": 2020, "c": 137973, "p": 24, "g": 2 },
+    { "s": 2021, "c": 137973, "p": 21, "g": 1 },
+    { "s": 2021, "c": 5609017, "p": 2, "g": 1 },
+    { "s": 2022, "c": 137973, "p": 21 },
+    { "s": 2024, "c": 137947, "p": 8 }
+  ]
+}

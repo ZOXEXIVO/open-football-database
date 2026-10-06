@@ -1,0 +1,39 @@
+{
+  "id": 2000112010,
+  "first_name": "Andor",
+  "last_name": "Lovas",
+  "birth_date": "2004-12-02",
+  "country_id": 773,
+  "club_id": 38037178,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 38037178, "p": 1 },
+    { "s": 2022, "c": 38013511, "p": 10 },
+    { "s": 2022, "c": 38037178, "p": 4 },
+    { "s": 2023, "c": 38037178, "p": 0 }
+  ]
+}

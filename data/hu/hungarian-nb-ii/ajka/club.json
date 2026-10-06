@@ -1,0 +1,57 @@
+{
+  "id": 7521304,
+  "name": "Ajka",
+  "location": {
+    "city_id": 5770
+  },
+  "finance": {
+    "balance": 260350
+  },
+  "teams": [
+    {
+      "id": 7521304,
+      "name": "Ajka",
+      "slug": "ajka",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 96200017,
+      "name": "Ajka",
+      "slug": "ajka-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 96200018,
+      "name": "Ajka",
+      "slug": "ajka-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#53b853",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 840
+}

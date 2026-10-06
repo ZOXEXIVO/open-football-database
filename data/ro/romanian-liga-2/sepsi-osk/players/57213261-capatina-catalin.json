@@ -1,0 +1,33 @@
+{
+  "id": 57213261,
+  "first_name": "Cătălin",
+  "last_name": "Căpăţînă",
+  "birth_date": "2002-08-30",
+  "country_id": 790,
+  "club_id": 57110237,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 54,
+  "potential_ability": 75,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 57110237, "p": 0 },
+    { "s": 2020, "c": 57207610, "p": 6 },
+    { "s": 2021, "c": 57048156, "p": 18 },
+    { "s": 2022, "c": 57131211, "p": 3 },
+    { "s": 2023, "c": 57131211, "p": 5 },
+    { "s": 2024, "c": 57131211, "p": 1 }
+  ]
+}

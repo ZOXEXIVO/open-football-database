@@ -1,0 +1,28 @@
+{
+  "id": 2000487132,
+  "first_name": "Felix",
+  "last_name": "Carlsson",
+  "birth_date": "2008-01-14",
+  "country_id": 797,
+  "club_id": 1839,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 53,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2024, "c": 1839, "p": 0 },
+    { "s": 2025, "c": 1839, "p": 0 }
+  ]
+}

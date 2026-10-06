@@ -1,0 +1,36 @@
+{
+  "id": 63023479,
+  "first_name": "Matej",
+  "last_name": "Podstavek",
+  "birth_date": "1991-02-21",
+  "country_id": 794,
+  "club_id": 2000128726,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": 101,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2012, "c": 1615, "p": 4 },
+    { "s": 2013, "c": 1615, "p": 23, "g": 1 },
+    { "s": 2014, "c": 470, "p": 13 },
+    { "s": 2015, "c": 504, "p": 29, "g": 1 },
+    { "s": 2016, "c": 504, "p": 12, "g": 1 },
+    { "s": 2016, "c": 106881, "p": 10, "g": 1 },
+    { "s": 2017, "c": 562, "p": 24 },
+    { "s": 2018, "c": 7560016, "p": 9 },
+    { "s": 2018, "c": 23402301, "p": 0 }
+  ]
+}

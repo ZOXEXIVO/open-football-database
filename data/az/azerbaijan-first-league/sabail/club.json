@@ -1,0 +1,57 @@
+{
+  "id": 59008318,
+  "name": "Sabail",
+  "location": {
+    "city_id": 5893
+  },
+  "finance": {
+    "balance": 869950
+  },
+  "teams": [
+    {
+      "id": 59008318,
+      "name": "Sabail",
+      "slug": "sabail",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 97100001,
+      "name": "Sabail",
+      "slug": "sabail-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 97100002,
+      "name": "Sabail",
+      "slug": "sabail-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#17285c",
+    "foreground": "#5ad5ed"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 400
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2000244788,
+  "first_name": "Sinischa",
+  "last_name": "Kubovič",
+  "birth_date": "2005-06-09",
+  "country_id": 794,
+  "club_id": 5652987,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 35022074, "p": 0 },
+    { "s": 2022, "c": 121196, "p": 0 },
+    { "s": 2023, "c": 121196, "p": 0 }
+  ]
+}

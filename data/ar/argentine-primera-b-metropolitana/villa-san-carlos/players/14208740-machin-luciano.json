@@ -1,0 +1,36 @@
+{
+  "id": 14208740,
+  "first_name": "Luciano",
+  "last_name": "Machín",
+  "birth_date": "1996-09-21",
+  "country_id": 1649,
+  "club_id": 952755,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 102,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 952755, "p": 4 },
+    { "s": 2018, "c": 952755, "p": 31 },
+    { "s": 2019, "c": 952755, "p": 20 },
+    { "s": 2020, "c": 952755, "p": 1 },
+    { "s": 2021, "c": 952755, "p": 27 },
+    { "s": 2022, "c": 952755, "p": 31 },
+    { "s": 2023, "c": 952755, "p": 23 },
+    { "s": 2024, "c": 952755, "p": 20, "g": 1 },
+    { "s": 2025, "c": 952755, "p": 23, "g": 6 }
+  ]
+}

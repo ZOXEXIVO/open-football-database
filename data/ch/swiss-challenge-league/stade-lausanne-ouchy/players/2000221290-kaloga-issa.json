@@ -1,0 +1,34 @@
+{
+  "id": 2000221290,
+  "first_name": "Issa",
+  "last_name": "Kaloga",
+  "birth_date": "2004-02-27",
+  "country_id": 798,
+  "club_id": 137904,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 97,
+  "potential_ability": 127,
+  "history": [
+    { "s": 2022, "c": 1858, "p": 1 },
+    { "s": 2022, "c": 98008376, "p": 23 },
+    { "s": 2023, "c": 1858, "p": 1 },
+    { "s": 2024, "c": 137904, "p": 25 }
+  ]
+}

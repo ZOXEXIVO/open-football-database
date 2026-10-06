@@ -1,0 +1,36 @@
+{
+  "id": 57213240,
+  "first_name": "Zsombor",
+  "last_name": "Demeter",
+  "birth_date": "2003-05-09",
+  "country_id": 790,
+  "club_id": 2000132627,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 99,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 38041490, "p": 2 },
+    { "s": 2021, "c": 38041490, "p": 3 },
+    { "s": 2022, "c": 38041490, "p": 22, "g": 7 },
+    { "s": 2023, "c": 38041490, "p": 23, "g": 2 },
+    { "s": 2024, "c": 57172393, "p": 25, "g": 1 }
+  ]
+}

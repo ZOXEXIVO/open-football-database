@@ -1,0 +1,35 @@
+{
+  "id": 2000495317,
+  "first_name": "Diego",
+  "last_name": "Arezes",
+  "birth_date": "2005-06-23",
+  "country_id": 788,
+  "club_id": 2440,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": 90,
+  "contract": {
+    "salary": 10088,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2480, "p": 0 },
+    { "s": 2022, "c": 8871881, "p": 0 },
+    { "s": 2023, "c": 2440, "p": 0 }
+  ]
+}

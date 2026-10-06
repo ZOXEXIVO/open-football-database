@@ -1,0 +1,32 @@
+{
+  "id": 2000089251,
+  "first_name": "Reimo",
+  "last_name": "Madissoo",
+  "birth_date": "1998-05-27",
+  "country_id": 766,
+  "club_id": 47070349,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": 68,
+  "history": [
+    { "s": 2020, "c": 47058821, "p": 15 },
+    { "s": 2021, "c": 47058821, "p": 25 },
+    { "s": 2022, "c": 47058821, "p": 32 },
+    { "s": 2023, "c": 47070349, "p": 21 },
+    { "s": 2024, "c": 47070349, "p": 21 },
+    { "s": 2025, "c": 47070349, "p": 13 }
+  ]
+}

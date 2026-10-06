@@ -1,0 +1,37 @@
+{
+  "id": 2000329083,
+  "first_name": "Rodrigo",
+  "last_name": "Teixeira",
+  "birth_date": "2005-08-17",
+  "country_id": 788,
+  "club_id": 2471,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 67,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 12324,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 1495, "p": 0 },
+    { "s": 2021, "c": 1495, "p": 0 },
+    { "s": 2022, "c": 1495, "p": 0 },
+    { "s": 2023, "c": 1495, "p": 1 },
+    { "s": 2024, "c": 2000034771, "p": 23 }
+  ]
+}

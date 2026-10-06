@@ -1,0 +1,36 @@
+{
+  "id": 2000087497,
+  "first_name": "Frank",
+  "last_name": "Chávez",
+  "birth_date": "2005-01-06",
+  "country_id": 1658,
+  "club_id": 2000098842,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 86000289, "p": 4 },
+    { "s": 2022, "c": 86000289, "p": 2 },
+    { "s": 2023, "c": 2000098842, "p": 1 },
+    { "s": 2024, "c": 2000098842, "p": 0 },
+    { "s": 2025, "c": 86012640, "p": 19 }
+  ]
+}

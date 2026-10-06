@@ -1,0 +1,57 @@
+{
+  "id": 59144815,
+  "name": "Lernayin Artsakh",
+  "location": {
+    "city_id": 5920
+  },
+  "finance": {
+    "balance": 469900
+  },
+  "teams": [
+    {
+      "id": 59144815,
+      "name": "Lernayin Artsakh",
+      "slug": "lernayin-artsakh",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3700,
+        "national": 3700,
+        "world": 3700
+      }
+    },
+    {
+      "id": 97400001,
+      "name": "Lernayin Artsakh",
+      "slug": "lernayin-artsakh-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1110,
+        "national": 1110,
+        "world": 1110
+      }
+    },
+    {
+      "id": 97400002,
+      "name": "Lernayin Artsakh",
+      "slug": "lernayin-artsakh-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 740,
+        "national": 740,
+        "world": 740
+      }
+    }
+  ],
+  "colors": {
+    "background": "#663ebd",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 250
+}

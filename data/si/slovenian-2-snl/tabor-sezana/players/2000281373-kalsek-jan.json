@@ -1,0 +1,26 @@
+{
+  "id": 2000281373,
+  "first_name": "Jan",
+  "last_name": "Kalšek",
+  "birth_date": "2005-02-02",
+  "country_id": 795,
+  "club_id": 138169,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 77,
+  "potential_ability": 109,
+  "history": [
+    { "s": 2022, "c": 138169, "p": 0 },
+    { "s": 2023, "c": 138169, "p": 2 },
+    { "s": 2024, "c": 138169, "p": 0 },
+    { "s": 2025, "c": 138169, "p": 0 }
+  ]
+}

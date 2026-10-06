@@ -1,0 +1,31 @@
+{
+  "id": 2000279669,
+  "first_name": "Jaroslav",
+  "last_name": "Vaněk",
+  "birth_date": "2005-05-30",
+  "country_id": 763,
+  "club_id": 136174,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 476, "p": 0 },
+    { "s": 2023, "c": 5650154, "p": 11, "g": 2 },
+    { "s": 2024, "c": 5650154, "p": 29, "g": 6 },
+    { "s": 2025, "c": 136174, "p": 11 }
+  ]
+}

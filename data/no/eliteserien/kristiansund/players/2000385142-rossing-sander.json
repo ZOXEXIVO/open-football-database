@@ -1,0 +1,25 @@
+{
+  "id": 2000385142,
+  "first_name": "Sander",
+  "last_name": "Rossing",
+  "birth_date": "2007-10-20",
+  "country_id": 786,
+  "club_id": 763464,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 51,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2024, "c": 53088689, "p": 6 },
+    { "s": 2025, "c": 53088689, "p": 3 },
+    { "s": 2025, "c": 2000346755, "p": 10 }
+  ]
+}

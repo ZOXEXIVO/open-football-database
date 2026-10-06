@@ -1,0 +1,39 @@
+{
+  "id": 2000124015,
+  "name": "BKMA-2",
+  "parent_club": {
+    "id": 59036309,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 2107
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 2000124015,
+      "name": "BKMA-2",
+      "slug": "bkma-2",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1900,
+        "national": 1900,
+        "world": 1900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#001489",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Adequate",
+    "youth": "Adequate",
+    "academy": "Adequate",
+    "recruitment": "Exceptional"
+  },
+  "average_attendance": 100
+}

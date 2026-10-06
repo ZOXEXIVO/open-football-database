@@ -1,0 +1,35 @@
+{
+  "id": 2000108343,
+  "name": "AF Elbasani",
+  "location": {
+    "city_id": 5929
+  },
+  "finance": {
+    "balance": 203200
+  },
+  "teams": [
+    {
+      "id": 2000108343,
+      "name": "AF Elbasani",
+      "slug": "af-elbasani",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1600,
+        "national": 1600,
+        "world": 1600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd900",
+    "foreground": "#26488b"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 150
+}

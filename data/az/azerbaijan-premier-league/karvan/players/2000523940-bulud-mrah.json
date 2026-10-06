@@ -1,0 +1,30 @@
+{
+  "id": 2000523940,
+  "first_name": "Əmrah",
+  "last_name": "Bulud",
+  "birth_date": "2000-01-29",
+  "country_id": 756,
+  "club_id": 5321693,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": 70,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 59008336, "p": 0 },
+    { "s": 2023, "c": 59008336, "p": 0 },
+    { "s": 2024, "c": 2000284851, "p": 0 }
+  ]
+}

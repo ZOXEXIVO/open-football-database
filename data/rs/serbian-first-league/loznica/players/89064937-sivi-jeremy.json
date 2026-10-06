@@ -1,0 +1,50 @@
+{
+  "id": 89064937,
+  "first_name": "Jeremy",
+  "last_name": "Sivi",
+  "birth_date": "2002-07-18",
+  "country_id": 765,
+  "club_id": 5740900,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 93,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 674, "p": 0 },
+    { "s": 2019, "c": 674, "p": 0 },
+    { "s": 2019, "c": 5100223, "p": 11, "g": 1 },
+    { "s": 2020, "c": 5100223, "p": 4 },
+    { "s": 2021, "c": 685, "p": 0 },
+    { "s": 2022, "c": 685, "p": 0 },
+    { "s": 2023, "c": 685, "p": 0 },
+    { "s": 2023, "c": 5100047, "p": 17 },
+    { "s": 2024, "c": 723, "p": 20, "g": 2 },
+    { "s": 2024, "c": 7563783, "p": 14, "g": 2 },
+    { "s": 2025, "c": 593, "p": 8 }
+  ]
+}

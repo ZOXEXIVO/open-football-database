@@ -1,0 +1,33 @@
+{
+  "id": 16337267,
+  "first_name": "Paul",
+  "last_name": "Schermer",
+  "birth_date": "2004-04-04",
+  "country_id": 755,
+  "club_id": 16324690,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 81,
+  "potential_ability": 117,
+  "contract": {
+    "salary": 33644,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 16074769, "p": 1 },
+    { "s": 2021, "c": 16324775, "p": 19 },
+    { "s": 2022, "c": 16324775, "p": 13 },
+    { "s": 2023, "c": 16324690, "p": 1 },
+    { "s": 2024, "c": 16324775, "p": 8 }
+  ]
+}

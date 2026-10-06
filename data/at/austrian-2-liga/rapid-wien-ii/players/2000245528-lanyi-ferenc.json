@@ -1,0 +1,28 @@
+{
+  "id": 2000245528,
+  "first_name": "Ferenc",
+  "last_name": "Lányi",
+  "birth_date": "2008-03-03",
+  "country_id": 773,
+  "club_id": 5605434,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 77,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 16009426, "p": 0 }
+  ]
+}

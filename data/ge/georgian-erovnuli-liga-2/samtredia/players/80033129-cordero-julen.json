@@ -1,0 +1,58 @@
+{
+  "id": 80033129,
+  "first_name": "Julen",
+  "last_name": "Cordero",
+  "birth_date": "2001-07-03",
+  "country_id": 366,
+  "club_id": 59007886,
+  "attrs": {
+    "player": {
+      "technical": {"cro": 11, "dri": 10, "fin": 12, "hea": 10, "lon": 11, "mar": 5, "pas": 11, "tck": 4, "fir": 11, "tec": 13, "cor": 10},
+      "mental": {"otb": 12, "vis": 11, "ant": 13, "dec": 10, "pos": 6, "fla": 11, "tea": 9, "wor": 8, "bra": 11, "agg": 11, "cmp": 13, "cnt": 10},
+      "physical": {"acc": 11, "str": 9, "sta": 12, "pac": 11, "jum": 9, "bal": 11, "agi": 12}
+    }
+  },
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 96,
+  "potential_ability": 108,
+  "value": 177000,
+  "contract": {    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 9, "u21_goals": 2},
+  "history": [
+    { "s": 2017, "c": 102367, "p": 1 },
+    { "s": 2018, "c": 102367, "p": 4 },
+    { "s": 2019, "c": 856, "p": 0 },
+    { "s": 2020, "c": 856, "p": 0 },
+    { "s": 2021, "c": 102367, "p": 10 },
+    { "s": 2022, "c": 102367, "p": 8, "g": 2 },
+    { "s": 2022, "c": 80000651, "p": 16, "g": 6 },
+    { "s": 2023, "c": 102367, "p": 8 },
+    { "s": 2023, "c": 80000605, "p": 22, "g": 3 },
+    { "s": 2024, "c": 80000605, "p": 15, "g": 2 },
+    { "s": 2025, "c": 5385107, "p": 18, "g": 5 },
+    { "s": 2025, "c": 59007886, "p": 19, "g": 7 }
+  ],
+  "ids": {
+    "transfermarkt.com": "539028"
+  }
+}

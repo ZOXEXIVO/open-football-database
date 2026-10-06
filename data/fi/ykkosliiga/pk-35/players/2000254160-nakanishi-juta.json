@@ -1,0 +1,40 @@
+{
+  "id": 2000254160,
+  "first_name": "Juta",
+  "last_name": "Nakanishi",
+  "birth_date": "1999-08-27",
+  "country_id": 116,
+  "club_id": 510218,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 80,
+  "contract": {
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 45031212, "p": 2 },
+    { "s": 2019, "c": 45031212, "p": 14, "g": 1 },
+    { "s": 2020, "c": 45031212, "p": 0 },
+    { "s": 2021, "c": 45031212, "p": 14 },
+    { "s": 2022, "c": 775268, "p": 5 },
+    { "s": 2023, "c": 790002, "p": 4 },
+    { "s": 2023, "c": 792533, "p": 0 },
+    { "s": 2024, "c": 510218, "p": 24, "g": 1 },
+    { "s": 2025, "c": 510218, "p": 14 }
+  ]
+}

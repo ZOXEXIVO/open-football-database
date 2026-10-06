@@ -1,0 +1,32 @@
+{
+  "id": 2000497340,
+  "first_name": "Aslak",
+  "last_name": "Halvorsen",
+  "birth_date": "2009-01-25",
+  "country_id": 786,
+  "club_id": 1300612,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 53,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2024, "c": 103279, "p": 0 },
+    { "s": 2025, "c": 53088693, "p": 0 }
+  ]
+}

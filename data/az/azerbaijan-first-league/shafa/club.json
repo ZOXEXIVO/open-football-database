@@ -1,0 +1,57 @@
+{
+  "id": 130844,
+  "name": "Shafa",
+  "location": {
+    "city_id": 5902
+  },
+  "finance": {
+    "balance": 177800
+  },
+  "teams": [
+    {
+      "id": 130844,
+      "name": "Shafa",
+      "slug": "shafa",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1400,
+        "national": 1400,
+        "world": 1400
+      }
+    },
+    {
+      "id": 97100019,
+      "name": "Shafa",
+      "slug": "shafa-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 420,
+        "national": 420,
+        "world": 420
+      }
+    },
+    {
+      "id": 97100020,
+      "name": "Shafa",
+      "slug": "shafa-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 280,
+        "national": 280,
+        "world": 280
+      }
+    }
+  ],
+  "colors": {
+    "background": "#64e8e8",
+    "foreground": "#012553"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 100
+}

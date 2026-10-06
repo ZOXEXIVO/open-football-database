@@ -1,0 +1,34 @@
+{
+  "id": 2000147411,
+  "first_name": "Martin",
+  "last_name": "Hrubý",
+  "birth_date": "2004-03-22",
+  "country_id": 763,
+  "club_id": 136178,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 1300301, "p": 0 },
+    { "s": 2021, "c": 136178, "p": 2 },
+    { "s": 2022, "c": 136178, "p": 16 },
+    { "s": 2022, "c": 1300301, "p": 2 },
+    { "s": 2023, "c": 136178, "p": 7 },
+    { "s": 2023, "c": 63000888, "p": 13 },
+    { "s": 2024, "c": 5645563, "p": 1 }
+  ]
+}

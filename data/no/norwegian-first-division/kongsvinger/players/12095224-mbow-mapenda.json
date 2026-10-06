@@ -1,0 +1,31 @@
+{
+  "id": 12095224,
+  "first_name": "Mapénda",
+  "last_name": "Mbow",
+  "birth_date": "2004-07-20",
+  "country_id": 41,
+  "club_id": 1336,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 87,
+  "potential_ability": 120,
+  "contract": {
+    "salary": 20696,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1336, "p": 7 },
+    { "s": 2024, "c": 53087568, "p": 14 },
+    { "s": 2025, "c": 1336, "p": 15 }
+  ]
+}

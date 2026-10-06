@@ -1,0 +1,33 @@
+{
+  "id": 2000515585,
+  "first_name": "Nino",
+  "last_name": "Rajamäki",
+  "birth_date": "2007-05-18",
+  "country_id": 768,
+  "club_id": 822,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 822, "p": 2 },
+    { "s": 2025, "c": 33062600, "p": 5, "g": 1 }
+  ]
+}

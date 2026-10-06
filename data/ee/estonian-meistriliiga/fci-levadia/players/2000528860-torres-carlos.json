@@ -1,0 +1,28 @@
+{
+  "id": 2000528860,
+  "first_name": "Carlos",
+  "last_name": "Torres",
+  "birth_date": "2006-07-14",
+  "country_id": 796,
+  "club_id": 47081043,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 80,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2025, "c": 47081043, "p": 17, "g": 3 },
+    { "s": 2025, "c": 47081060, "p": 1, "g": 1 }
+  ]
+}

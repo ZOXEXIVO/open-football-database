@@ -1,0 +1,36 @@
+{
+  "id": 2000467998,
+  "first_name": "Danyil",
+  "last_name": "Fedorov",
+  "birth_date": "2007-12-20",
+  "country_id": 800,
+  "club_id": 38013478,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 38069430, "p": 8 }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2000060764,
+  "first_name": "João",
+  "last_name": "Ferreira",
+  "birth_date": "2003-09-04",
+  "country_id": 788,
+  "club_id": 736258,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 72,
+  "potential_ability": 88,
+  "contract": {
+    "salary": 11232,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 734132, "p": 0 },
+    { "s": 2020, "c": 2391, "p": 0 },
+    { "s": 2021, "c": 1489, "p": 0 },
+    { "s": 2021, "c": 2391, "p": 0 },
+    { "s": 2022, "c": 55056835, "p": 10 },
+    { "s": 2023, "c": 2448, "p": 0 },
+    { "s": 2023, "c": 2463, "p": 5 },
+    { "s": 2024, "c": 2478, "p": 5 },
+    { "s": 2024, "c": 2000014857, "p": 8 }
+  ]
+}

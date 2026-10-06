@@ -1,0 +1,39 @@
+{
+  "id": 2000166620,
+  "first_name": "Abdul Wahid",
+  "last_name": "Binate",
+  "birth_date": "2003-01-24",
+  "country_id": 364,
+  "club_id": 2000085394,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 72037354, "p": 0 },
+    { "s": 2020, "c": 72037354, "p": 0 },
+    { "s": 2021, "c": 72037354, "p": 0 },
+    { "s": 2022, "c": 20502997, "p": 0 },
+    { "s": 2023, "c": 20502997, "p": 3 },
+    { "s": 2023, "c": 2000296029, "p": 4, "g": 1 },
+    { "s": 2024, "c": 20502986, "p": 27, "g": 4 },
+    { "s": 2025, "c": 20035168, "p": 15, "g": 7 }
+  ]
+}

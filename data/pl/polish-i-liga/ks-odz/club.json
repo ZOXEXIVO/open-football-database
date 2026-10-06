@@ -1,0 +1,57 @@
+{
+  "id": 1454,
+  "name": "ŁKS Łódź",
+  "location": {
+    "city_id": 5783
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 1454,
+      "name": "ŁKS Łódź",
+      "slug": "ks-odz",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 96300003,
+      "name": "ŁKS Łódź",
+      "slug": "ks-odz-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 96300004,
+      "name": "ŁKS Łódź",
+      "slug": "ks-odz-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 5300
+}

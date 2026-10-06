@@ -1,0 +1,37 @@
+{
+  "id": 2000079262,
+  "first_name": "Omar",
+  "last_name": "El-Sawy",
+  "birth_date": "2004-03-16",
+  "country_id": 790,
+  "club_id": 57171586,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 122,
+  "contract": {
+    "salary": 93028,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 57110301, "p": 19, "g": 1 },
+    { "s": 2023, "c": 57171586, "p": 6 },
+    { "s": 2024, "c": 57110237, "p": 23, "g": 6 },
+    { "s": 2024, "c": 57171586, "p": 3 },
+    { "s": 2025, "c": 57171586, "p": 2 }
+  ]
+}

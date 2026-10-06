@@ -1,0 +1,40 @@
+{
+  "id": 96159661,
+  "first_name": "Miłosz",
+  "last_name": "Pacek",
+  "birth_date": "2003-09-17",
+  "country_id": 787,
+  "club_id": 714221,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 90,
+  "history": [
+    { "s": 2020, "c": 96069351, "p": 1 },
+    { "s": 2021, "c": 96069351, "p": 6 },
+    { "s": 2022, "c": 96069351, "p": 14 },
+    { "s": 2023, "c": 96101199, "p": 32, "g": 2 },
+    { "s": 2024, "c": 96030338, "p": 24 },
+    { "s": 2025, "c": 96030338, "p": 9, "g": 1 }
+  ]
+}

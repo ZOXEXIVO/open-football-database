@@ -1,0 +1,57 @@
+{
+  "id": 106371,
+  "name": "Étoile Carouge",
+  "location": {
+    "city_id": 5969
+  },
+  "finance": {
+    "balance": 842010
+  },
+  "teams": [
+    {
+      "id": 106371,
+      "name": "Étoile Carouge",
+      "slug": "etoile-carouge",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 97800013,
+      "name": "Étoile Carouge",
+      "slug": "etoile-carouge-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 97800014,
+      "name": "Étoile Carouge",
+      "slug": "etoile-carouge-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#17285c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2150
+}

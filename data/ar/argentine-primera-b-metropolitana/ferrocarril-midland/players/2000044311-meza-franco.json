@@ -1,0 +1,34 @@
+{
+  "id": 2000044311,
+  "first_name": "Franco",
+  "last_name": "Meza",
+  "birth_date": "2002-09-30",
+  "country_id": 1649,
+  "club_id": 952710,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 115,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 952724, "p": 7 },
+    { "s": 2024, "c": 952710, "p": 26 },
+    { "s": 2025, "c": 952710, "p": 19 }
+  ]
+}

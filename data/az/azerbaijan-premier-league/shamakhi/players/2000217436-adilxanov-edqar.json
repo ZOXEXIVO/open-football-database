@@ -1,0 +1,34 @@
+{
+  "id": 2000217436,
+  "first_name": "Edqar",
+  "last_name": "Adilxanov",
+  "birth_date": "2005-06-26",
+  "country_id": 756,
+  "club_id": 2000172513,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2000172514, "p": 0 },
+    { "s": 2022, "c": 2000172513, "p": 0 },
+    { "s": 2022, "c": 2000172514, "p": 22 }
+  ]
+}

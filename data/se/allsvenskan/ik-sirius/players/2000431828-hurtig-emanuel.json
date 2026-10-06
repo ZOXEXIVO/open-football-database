@@ -1,0 +1,29 @@
+{
+  "id": 2000431828,
+  "first_name": "Emanuel",
+  "last_name": "Hurtig",
+  "birth_date": "2008-05-14",
+  "country_id": 797,
+  "club_id": 2164,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2023, "c": 2164, "p": 0 },
+    { "s": 2024, "c": 2164, "p": 0 },
+    { "s": 2025, "c": 2164, "p": 0 }
+  ]
+}

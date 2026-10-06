@@ -1,0 +1,57 @@
+{
+  "id": 57189800,
+  "name": "FC Bihor Oradea",
+  "location": {
+    "city_id": 5813
+  },
+  "finance": {
+    "balance": 231140
+  },
+  "teams": [
+    {
+      "id": 57189800,
+      "name": "FC Bihor Oradea",
+      "slug": "fc-bihor-oradea",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 96400013,
+      "name": "FC Bihor Oradea",
+      "slug": "fc-bihor-oradea-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 96400014,
+      "name": "FC Bihor Oradea",
+      "slug": "fc-bihor-oradea-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#004899",
+    "foreground": "#d42424"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1500
+}

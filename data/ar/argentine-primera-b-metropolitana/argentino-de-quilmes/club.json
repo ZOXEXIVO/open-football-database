@@ -1,0 +1,57 @@
+{
+  "id": 3101496,
+  "name": "Argentino de Quilmes",
+  "location": {
+    "city_id": 6125
+  },
+  "finance": {
+    "balance": 533400
+  },
+  "teams": [
+    {
+      "id": 3101496,
+      "name": "Argentino de Quilmes",
+      "slug": "argentino-de-quilmes",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 98700023,
+      "name": "Argentino de Quilmes",
+      "slug": "argentino-de-quilmes-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 98700024,
+      "name": "Argentino de Quilmes",
+      "slug": "argentino-de-quilmes-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#4a99e8",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Fairly Basic",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 940
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2000188262,
+  "name": "Achyronas-Onisilos",
+  "location": {
+    "city_id": 5880
+  },
+  "finance": {
+    "balance": 170180
+  },
+  "teams": [
+    {
+      "id": 2000188262,
+      "name": "Achyronas-Onisilos",
+      "slug": "achyronas-onisilos",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3800,
+        "national": 3800,
+        "world": 3800
+      }
+    },
+    {
+      "id": 97000013,
+      "name": "Achyronas-Onisilos",
+      "slug": "achyronas-onisilos-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    },
+    {
+      "id": 97000014,
+      "name": "Achyronas-Onisilos",
+      "slug": "achyronas-onisilos-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 760,
+        "national": 760,
+        "world": 760
+      }
+    }
+  ],
+  "colors": {
+    "background": "#408e40",
+    "foreground": "#fff200"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 270
+}

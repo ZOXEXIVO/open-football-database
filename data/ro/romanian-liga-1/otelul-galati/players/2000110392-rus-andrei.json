@@ -1,0 +1,37 @@
+{
+  "id": 2000110392,
+  "first_name": "Andrei",
+  "last_name": "Rus",
+  "birth_date": "2002-05-14",
+  "country_id": 790,
+  "club_id": 57152989,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 97,
+  "potential_ability": 105,
+  "contract": {
+    "salary": 33696,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 26031742, "p": 17 },
+    { "s": 2021, "c": 57152989, "p": 22 },
+    { "s": 2022, "c": 57152989, "p": 26 },
+    { "s": 2023, "c": 57152989, "p": 14 },
+    { "s": 2024, "c": 57152989, "p": 8 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 64000753,
+  "name": "Bravo",
+  "location": {
+    "city_id": 6022
+  },
+  "finance": {
+    "balance": 1036320
+  },
+  "teams": [
+    {
+      "id": 64000753,
+      "name": "Bravo",
+      "slug": "bravo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 91400021,
+      "name": "Bravo",
+      "slug": "bravo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1470,
+        "national": 1470,
+        "world": 1470
+      }
+    },
+    {
+      "id": 91400022,
+      "name": "Bravo",
+      "slug": "bravo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 980,
+        "national": 980,
+        "world": 980
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#2f55b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 1850
+}

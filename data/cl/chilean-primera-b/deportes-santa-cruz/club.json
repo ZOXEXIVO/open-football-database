@@ -1,0 +1,57 @@
+{
+  "id": 5250442,
+  "name": "Deportes Santa Cruz",
+  "location": {
+    "city_id": 6085
+  },
+  "finance": {
+    "balance": 558800
+  },
+  "teams": [
+    {
+      "id": 5250442,
+      "name": "Deportes Santa Cruz",
+      "slug": "deportes-santa-cruz",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    },
+    {
+      "id": 98500019,
+      "name": "Deportes Santa Cruz",
+      "slug": "deportes-santa-cruz-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
+      }
+    },
+    {
+      "id": 98500020,
+      "name": "Deportes Santa Cruz",
+      "slug": "deportes-santa-cruz-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 880,
+        "national": 880,
+        "world": 880
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#2f55b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1450
+}

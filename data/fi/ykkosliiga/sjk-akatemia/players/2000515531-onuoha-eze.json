@@ -1,0 +1,33 @@
+{
+  "id": 2000515531,
+  "first_name": "Eze",
+  "last_name": "Onuoha",
+  "birth_date": "2008-12-19",
+  "country_id": 768,
+  "club_id": 33064668,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2027-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

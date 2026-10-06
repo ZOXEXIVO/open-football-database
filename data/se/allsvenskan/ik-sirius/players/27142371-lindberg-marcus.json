@@ -1,0 +1,43 @@
+{
+  "id": 27142371,
+  "first_name": "Marcus",
+  "last_name": "Lindberg",
+  "birth_date": "2000-06-27",
+  "country_id": 764,
+  "club_id": 2164,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 120,
+  "contract": {
+    "salary": 50336,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2015, "c": 480, "p": 0 },
+    { "s": 2016, "c": 480, "p": 0 },
+    { "s": 2017, "c": 480, "p": 0 },
+    { "s": 2018, "c": 533, "p": 0 },
+    { "s": 2019, "c": 524, "p": 20 },
+    { "s": 2020, "c": 524, "p": 31, "g": 6 },
+    { "s": 2021, "c": 524, "p": 31, "g": 5 },
+    { "s": 2022, "c": 524, "p": 31, "g": 11 },
+    { "s": 2023, "c": 524, "p": 14 },
+    { "s": 2024, "c": 2164, "p": 26, "g": 3 },
+    { "s": 2025, "c": 2164, "p": 29, "g": 1 }
+  ]
+}

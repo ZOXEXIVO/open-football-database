@@ -1,0 +1,57 @@
+{
+  "id": 1856,
+  "name": "Lausanne-Sport",
+  "location": {
+    "city_id": 5961
+  },
+  "finance": {
+    "balance": 8890000
+  },
+  "teams": [
+    {
+      "id": 1856,
+      "name": "Lausanne-Sport",
+      "slug": "lausanne-sport",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5800,
+        "national": 5800,
+        "world": 5800
+      }
+    },
+    {
+      "id": 93200023,
+      "name": "Lausanne-Sport",
+      "slug": "lausanne-sport-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1740,
+        "national": 1740,
+        "world": 1740
+      }
+    },
+    {
+      "id": 93200024,
+      "name": "Lausanne-Sport",
+      "slug": "lausanne-sport-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1160,
+        "national": 1160,
+        "world": 1160
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#002e6e"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 9550
+}

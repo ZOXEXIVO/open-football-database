@@ -1,0 +1,57 @@
+{
+  "id": 38013493,
+  "name": "Budafoki MTE",
+  "location": {
+    "city_id": 5765
+  },
+  "finance": {
+    "balance": 377190
+  },
+  "teams": [
+    {
+      "id": 38013493,
+      "name": "Budafoki MTE",
+      "slug": "budafoki-mte",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    },
+    {
+      "id": 96200007,
+      "name": "Budafoki MTE",
+      "slug": "budafoki-mte-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
+      }
+    },
+    {
+      "id": 96200008,
+      "name": "Budafoki MTE",
+      "slug": "budafoki-mte-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 880,
+        "national": 880,
+        "world": 880
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1050
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2000170310,
+  "first_name": "Lasse",
+  "last_name": "Flø",
+  "birth_date": "2005-10-15",
+  "country_id": 764,
+  "club_id": 2142,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 101,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 75244,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 2142, "p": 0 },
+    { "s": 2021, "c": 2142, "p": 0 },
+    { "s": 2022, "c": 2142, "p": 1 },
+    { "s": 2023, "c": 2142, "p": 0 },
+    { "s": 2024, "c": 2142, "p": 11 }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 2000250203,
+  "first_name": "Radosław",
+  "last_name": "Bąk",
+  "birth_date": "2004-08-26",
+  "country_id": 787,
+  "club_id": 717313,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 100,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 96083835, "p": 3 },
+    { "s": 2021, "c": 130127, "p": 0 },
+    { "s": 2021, "c": 717332, "p": 0 },
+    { "s": 2022, "c": 717332, "p": 17, "g": 1 },
+    { "s": 2023, "c": 717332, "p": 24 },
+    { "s": 2024, "c": 717332, "p": 29, "g": 2 },
+    { "s": 2025, "c": 717332, "p": 18, "g": 5 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 109042,
+  "name": "Amarante",
+  "location": {
+    "city_id": 5945
+  },
+  "finance": {
+    "balance": 135890
+  },
+  "teams": [
+    {
+      "id": 109042,
+      "name": "Amarante",
+      "slug": "amarante",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 97600007,
+      "name": "Amarante",
+      "slug": "amarante-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 97600008,
+      "name": "Amarante",
+      "slug": "amarante-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 840
+}

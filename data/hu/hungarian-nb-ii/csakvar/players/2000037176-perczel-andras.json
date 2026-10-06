@@ -1,0 +1,32 @@
+{
+  "id": 2000037176,
+  "first_name": "András",
+  "last_name": "Perczel",
+  "birth_date": "2004-01-24",
+  "country_id": 773,
+  "club_id": 38019804,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 38041490, "p": 1 },
+    { "s": 2022, "c": 38041490, "p": 2 },
+    { "s": 2023, "c": 38019804, "p": 1 },
+    { "s": 2023, "c": 38041490, "p": 4 },
+    { "s": 2024, "c": 38019804, "p": 4 }
+  ]
+}

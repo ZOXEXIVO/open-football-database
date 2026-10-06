@@ -1,0 +1,35 @@
+{
+  "id": 2000393219,
+  "first_name": "Helóine",
+  "last_name": "Correia",
+  "birth_date": "2005-06-25",
+  "country_id": 788,
+  "club_id": 2484,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 75,
+  "contract": {
+    "salary": 10088,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 83113857, "p": 0 },
+    { "s": 2020, "c": 83113857, "p": 0 },
+    { "s": 2021, "c": 83113857, "p": 0 },
+    { "s": 2022, "c": 7000008, "p": 0 },
+    { "s": 2023, "c": 7000008, "p": 0 },
+    { "s": 2023, "c": 2000030636, "p": 0 },
+    { "s": 2024, "c": 1473, "p": 6 }
+  ]
+}

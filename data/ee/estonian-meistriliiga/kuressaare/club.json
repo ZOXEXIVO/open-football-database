@@ -1,0 +1,57 @@
+{
+  "id": 514350,
+  "name": "Kuressaare",
+  "location": {
+    "city_id": 5862
+  },
+  "finance": {
+    "balance": 256540
+  },
+  "teams": [
+    {
+      "id": 514350,
+      "name": "Kuressaare",
+      "slug": "kuressaare",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2300,
+        "national": 2300,
+        "world": 2300
+      }
+    },
+    {
+      "id": 92000045,
+      "name": "Kuressaare",
+      "slug": "kuressaare-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 690,
+        "national": 690,
+        "world": 690
+      }
+    },
+    {
+      "id": 92000046,
+      "name": "Kuressaare",
+      "slug": "kuressaare-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 460,
+        "national": 460,
+        "world": 460
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 150
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1301381,
+  "name": "Borac Čačak",
+  "location": {
+    "city_id": 6048
+  },
+  "finance": {
+    "balance": 187960
+  },
+  "teams": [
+    {
+      "id": 1301381,
+      "name": "Borac Čačak",
+      "slug": "borac-cacak",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2900,
+        "national": 2900,
+        "world": 2900
+      }
+    },
+    {
+      "id": 98300019,
+      "name": "Borac Čačak",
+      "slug": "borac-cacak-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 870,
+        "national": 870,
+        "world": 870
+      }
+    },
+    {
+      "id": 98300020,
+      "name": "Borac Čačak",
+      "slug": "borac-cacak-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 580,
+        "national": 580,
+        "world": 580
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 190
+}

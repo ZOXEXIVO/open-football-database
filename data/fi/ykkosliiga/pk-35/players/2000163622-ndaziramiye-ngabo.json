@@ -1,0 +1,32 @@
+{
+  "id": 2000163622,
+  "first_name": "Ngabo",
+  "last_name": "Ndaziramiye",
+  "birth_date": "2003-04-14",
+  "country_id": 768,
+  "club_id": 510218,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 90,
+  "contract": {
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 510218, "p": 0 },
+    { "s": 2023, "c": 510218, "p": 2 },
+    { "s": 2024, "c": 517298, "p": 18, "g": 1 },
+    { "s": 2024, "c": 33060303, "p": 9, "g": 1 },
+    { "s": 2025, "c": 517298, "p": 23 }
+  ]
+}

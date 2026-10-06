@@ -1,0 +1,57 @@
+{
+  "id": 1378,
+  "name": "Brann",
+  "location": {
+    "city_id": 6055
+  },
+  "finance": {
+    "balance": 11430000
+  },
+  "teams": [
+    {
+      "id": 1378,
+      "name": "Brann",
+      "slug": "brann",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6100,
+        "national": 6100,
+        "world": 6100
+      }
+    },
+    {
+      "id": 91700033,
+      "name": "Brann",
+      "slug": "brann-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1830,
+        "national": 1830,
+        "world": 1830
+      }
+    },
+    {
+      "id": 91700034,
+      "name": "Brann",
+      "slug": "brann-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1220,
+        "national": 1220,
+        "world": 1220
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 10000
+}

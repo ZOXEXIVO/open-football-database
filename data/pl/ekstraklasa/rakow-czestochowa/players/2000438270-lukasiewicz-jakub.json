@@ -1,0 +1,32 @@
+{
+  "id": 2000438270,
+  "first_name": "Jakub",
+  "last_name": "Łukasiewicz",
+  "birth_date": "2005-03-09",
+  "country_id": 787,
+  "club_id": 722115,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2023, "c": 2000008356, "p": 15, "g": 1 },
+    { "s": 2024, "c": 2000008356, "p": 32, "g": 4 }
+  ]
+}

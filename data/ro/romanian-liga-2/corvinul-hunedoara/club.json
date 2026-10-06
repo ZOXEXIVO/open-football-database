@@ -1,0 +1,57 @@
+{
+  "id": 57153289,
+  "name": "Corvinul Hunedoara",
+  "location": {
+    "city_id": 5809
+  },
+  "finance": {
+    "balance": 76200
+  },
+  "teams": [
+    {
+      "id": 57153289,
+      "name": "Corvinul Hunedoara",
+      "slug": "corvinul-hunedoara",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 96400005,
+      "name": "Corvinul Hunedoara",
+      "slug": "corvinul-hunedoara-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 96400006,
+      "name": "Corvinul Hunedoara",
+      "slug": "corvinul-hunedoara-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#4a99e8",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1900
+}

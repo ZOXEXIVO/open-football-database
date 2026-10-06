@@ -1,0 +1,29 @@
+{
+  "id": 2000396773,
+  "first_name": "Felix",
+  "last_name": "Nagele",
+  "birth_date": "2007-04-02",
+  "country_id": 755,
+  "club_id": 101154,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 16009253, "p": 2, "g": 1 },
+    { "s": 2024, "c": 16009253, "p": 25, "g": 4 }
+  ]
+}

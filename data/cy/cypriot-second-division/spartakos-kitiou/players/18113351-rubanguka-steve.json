@@ -1,0 +1,39 @@
+{
+  "id": 18113351,
+  "first_name": "Steve",
+  "last_name": "Rubanguka",
+  "birth_date": "1996-10-14",
+  "country_id": 39,
+  "club_id": 26005456,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 85,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 11, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2016, "c": 281, "p": 0 },
+    { "s": 2017, "c": 248, "p": 28 },
+    { "s": 2018, "c": 248, "p": 3 },
+    { "s": 2019, "c": 6600029, "p": 12 },
+    { "s": 2020, "c": 36077974, "p": 16 },
+    { "s": 2021, "c": 36077974, "p": 9 },
+    { "s": 2022, "c": 1268, "p": 24 }
+  ]
+}

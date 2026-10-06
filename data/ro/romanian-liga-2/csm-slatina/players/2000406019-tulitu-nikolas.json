@@ -1,0 +1,28 @@
+{
+  "id": 2000406019,
+  "first_name": "Nikolas",
+  "last_name": "Tulitu",
+  "birth_date": "2007-06-18",
+  "country_id": 790,
+  "club_id": 57055056,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 15,
+  "potential_ability": -3,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 57061202, "p": 20 }
+  ]
+}

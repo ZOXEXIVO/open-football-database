@@ -1,0 +1,32 @@
+{
+  "id": 73201856,
+  "first_name": "Noah",
+  "last_name": "Lobe",
+  "birth_date": "2003-08-03",
+  "country_id": 769,
+  "club_id": 2000264629,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": 101,
+  "history": [
+    { "s": 2019, "c": 2047, "p": 0 },
+    { "s": 2020, "c": 2047, "p": 0 },
+    { "s": 2021, "c": 857, "p": 0 },
+    { "s": 2022, "c": 857, "p": 0 },
+    { "s": 2023, "c": 536240, "p": 4 },
+    { "s": 2024, "c": 536240, "p": 10 }
+  ]
+}

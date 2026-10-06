@@ -1,0 +1,37 @@
+{
+  "id": 2000228852,
+  "first_name": "Milan",
+  "last_name": "Bajić",
+  "birth_date": "2003-09-05",
+  "country_id": 802,
+  "club_id": 62085128,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 91,
+  "history": [
+    { "s": 2018, "c": 1955, "p": 0 },
+    { "s": 2019, "c": 62217328, "p": 0 },
+    { "s": 2020, "c": 5743879, "p": 0 },
+    { "s": 2021, "c": 5743879, "p": 0 },
+    { "s": 2022, "c": 5743879, "p": 20 },
+    { "s": 2023, "c": 62178508, "p": 28, "g": 9 },
+    { "s": 2025, "c": 62123106, "p": 3 }
+  ]
+}

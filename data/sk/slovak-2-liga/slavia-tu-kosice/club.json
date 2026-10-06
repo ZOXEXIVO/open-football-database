@@ -1,0 +1,57 @@
+{
+  "id": 2000128726,
+  "name": "Slávia TU Košice",
+  "location": {
+    "city_id": 6021
+  },
+  "finance": {
+    "balance": 317500
+  },
+  "teams": [
+    {
+      "id": 2000128726,
+      "name": "Slávia TU Košice",
+      "slug": "slavia-tu-kosice",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2500,
+        "national": 2500,
+        "world": 2500
+      }
+    },
+    {
+      "id": 98100025,
+      "name": "Slávia TU Košice",
+      "slug": "slavia-tu-kosice-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 750,
+        "national": 750,
+        "world": 750
+      }
+    },
+    {
+      "id": 98100026,
+      "name": "Slávia TU Košice",
+      "slug": "slavia-tu-kosice-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 500,
+        "national": 500,
+        "world": 500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 140
+}

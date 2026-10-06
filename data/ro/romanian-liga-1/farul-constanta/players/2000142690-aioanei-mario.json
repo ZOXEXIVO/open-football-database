@@ -1,0 +1,45 @@
+{
+  "id": 2000142690,
+  "first_name": "Mario",
+  "last_name": "Aioanei",
+  "birth_date": "2005-05-25",
+  "country_id": 790,
+  "club_id": 2000104441,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": 100,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2000109445, "p": 0 },
+    { "s": 2022, "c": 2000109445, "p": 4 },
+    { "s": 2023, "c": 57000777, "p": 23 },
+    { "s": 2024, "c": 57191025, "p": 10 },
+    { "s": 2024, "c": 2000104441, "p": 0 },
+    { "s": 2025, "c": 57191025, "p": 4 }
+  ]
+}

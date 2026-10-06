@@ -1,0 +1,30 @@
+{
+  "id": 2000447849,
+  "first_name": "Alexandru",
+  "last_name": "Cişmaş",
+  "birth_date": "2006-07-13",
+  "country_id": 790,
+  "club_id": 2000105301,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 40,
+  "potential_ability": -35,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 57143011, "p": 0 },
+    { "s": 2024, "c": 2000105301, "p": 1 },
+    { "s": 2025, "c": 2000105301, "p": 0 }
+  ]
+}

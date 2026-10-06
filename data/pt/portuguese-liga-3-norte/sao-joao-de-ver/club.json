@@ -1,0 +1,57 @@
+{
+  "id": 109037,
+  "name": "São João de Ver",
+  "location": {
+    "city_id": 5947
+  },
+  "finance": {
+    "balance": 262890
+  },
+  "teams": [
+    {
+      "id": 109037,
+      "name": "São João de Ver",
+      "slug": "sao-joao-de-ver",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 97600011,
+      "name": "São João de Ver",
+      "slug": "sao-joao-de-ver-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 97600012,
+      "name": "São João de Ver",
+      "slug": "sao-joao-de-ver-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 670
+}

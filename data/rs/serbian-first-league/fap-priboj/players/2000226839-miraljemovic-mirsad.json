@@ -1,0 +1,31 @@
+{
+  "id": 2000226839,
+  "first_name": "Mirsad",
+  "last_name": "Miraljemović",
+  "birth_date": "2004-04-26",
+  "country_id": 802,
+  "club_id": 5746212,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 107,
+  "history": [
+    { "s": 2021, "c": 1952, "p": 0 },
+    { "s": 2022, "c": 7560016, "p": 0 },
+    { "s": 2023, "c": 5746212, "p": 13 },
+    { "s": 2023, "c": 62014845, "p": 14 },
+    { "s": 2024, "c": 5746212, "p": 29 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 952693,
+  "name": "Argentino de Merlo",
+  "location": {
+    "city_id": 6129
+  },
+  "finance": {
+    "balance": 520700
+  },
+  "teams": [
+    {
+      "id": 952693,
+      "name": "Argentino de Merlo",
+      "slug": "argentino-de-merlo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 98700031,
+      "name": "Argentino de Merlo",
+      "slug": "argentino-de-merlo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 98700032,
+      "name": "Argentino de Merlo",
+      "slug": "argentino-de-merlo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#4a99e8"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Below Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 840
+}

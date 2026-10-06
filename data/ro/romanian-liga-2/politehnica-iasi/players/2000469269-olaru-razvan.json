@@ -1,0 +1,33 @@
+{
+  "id": 2000469269,
+  "first_name": "Răzvan",
+  "last_name": "Olaru",
+  "birth_date": "2007-01-08",
+  "country_id": 790,
+  "club_id": 57086204,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 57086204, "p": 0 },
+    { "s": 2024, "c": 2000207583, "p": 13, "g": 1 }
+  ]
+}

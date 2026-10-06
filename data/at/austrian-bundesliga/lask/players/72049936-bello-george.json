@@ -1,0 +1,48 @@
+{
+  "id": 72049936,
+  "first_name": "George",
+  "last_name": "Bello",
+  "birth_date": "2002-01-22",
+  "country_id": 390,
+  "club_id": 154,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 123,
+  "potential_ability": 138,
+  "contract": {
+    "salary": 271024,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 7, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2018, "c": 20046402, "p": 6 },
+    { "s": 2018, "c": 72047296, "p": 3, "g": 1 },
+    { "s": 2019, "c": 20046402, "p": 12, "g": 1 },
+    { "s": 2019, "c": 72047296, "p": 0 },
+    { "s": 2020, "c": 20046402, "p": 1 },
+    { "s": 2020, "c": 72047296, "p": 20, "g": 1 },
+    { "s": 2021, "c": 904, "p": 10 },
+    { "s": 2021, "c": 72047296, "p": 29, "g": 1 },
+    { "s": 2022, "c": 904, "p": 21 },
+    { "s": 2023, "c": 154, "p": 24 },
+    { "s": 2024, "c": 154, "p": 29, "g": 1 }
+  ]
+}

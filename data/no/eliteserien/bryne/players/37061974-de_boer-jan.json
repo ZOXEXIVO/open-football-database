@@ -1,0 +1,35 @@
+{
+  "id": 37061974,
+  "first_name": "Jan",
+  "last_name": "de Boer",
+  "birth_date": "2000-05-20",
+  "country_id": 784,
+  "club_id": 1295,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 99,
+  "potential_ability": 109,
+  "contract": {
+    "salary": 45136,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 1007, "p": 0 },
+    { "s": 2020, "c": 1007, "p": 0 },
+    { "s": 2021, "c": 1007, "p": 0 },
+    { "s": 2022, "c": 1007, "p": 3 },
+    { "s": 2023, "c": 1044, "p": 23 },
+    { "s": 2024, "c": 1044, "p": 11 },
+    { "s": 2025, "c": 1295, "p": 31 }
+  ]
+}

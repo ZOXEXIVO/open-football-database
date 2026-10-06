@@ -1,0 +1,30 @@
+{
+  "id": 2000075495,
+  "first_name": "Thaiderson",
+  "last_name": "Durán",
+  "birth_date": "2001-01-10",
+  "country_id": 1658,
+  "club_id": 2000452501,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 85,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 2000003710, "p": 8 },
+    { "s": 2023, "c": 2000003710, "p": 13, "g": 1 },
+    { "s": 2025, "c": 2000452501, "p": 12, "g": 1 }
+  ]
+}

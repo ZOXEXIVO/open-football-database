@@ -1,0 +1,32 @@
+{
+  "id": 2000419064,
+  "first_name": "Vít",
+  "last_name": "Valošek",
+  "birth_date": "2007-05-19",
+  "country_id": 763,
+  "club_id": 1300307,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 1300307, "p": 0 }
+  ]
+}

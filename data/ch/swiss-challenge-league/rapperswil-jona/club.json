@@ -1,0 +1,57 @@
+{
+  "id": 137943,
+  "name": "Rapperswil-Jona",
+  "location": {
+    "city_id": 5971
+  },
+  "finance": {
+    "balance": 1065530
+  },
+  "teams": [
+    {
+      "id": 137943,
+      "name": "Rapperswil-Jona",
+      "slug": "rapperswil-jona",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 97800017,
+      "name": "Rapperswil-Jona",
+      "slug": "rapperswil-jona-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 97800018,
+      "name": "Rapperswil-Jona",
+      "slug": "rapperswil-jona-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1750
+}

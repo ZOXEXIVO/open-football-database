@@ -1,0 +1,34 @@
+{
+  "id": 2000508016,
+  "first_name": "Michalis",
+  "last_name": "Parlatas",
+  "birth_date": "2006-04-07",
+  "country_id": 762,
+  "club_id": 2000106823,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 149278, "p": 0 },
+    { "s": 2023, "c": 2000106823, "p": 0 },
+    { "s": 2024, "c": 2000106823, "p": 3 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 5746212,
+  "name": "FAP Priboj",
+  "location": {
+    "city_id": 6049
+  },
+  "finance": {
+    "balance": 170180
+  },
+  "teams": [
+    {
+      "id": 5746212,
+      "name": "FAP Priboj",
+      "slug": "fap-priboj",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2900,
+        "national": 2900,
+        "world": 2900
+      }
+    },
+    {
+      "id": 98300021,
+      "name": "FAP Priboj",
+      "slug": "fap-priboj-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 870,
+        "national": 870,
+        "world": 870
+      }
+    },
+    {
+      "id": 98300022,
+      "name": "FAP Priboj",
+      "slug": "fap-priboj-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 580,
+        "national": 580,
+        "world": 580
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 190
+}

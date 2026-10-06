@@ -1,0 +1,37 @@
+{
+  "id": 96143996,
+  "first_name": "Ernest",
+  "last_name": "Terpiłowski",
+  "birth_date": "2001-09-14",
+  "country_id": 787,
+  "club_id": 1300879,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 93,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 39000,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 96054415, "p": 8 },
+    { "s": 2018, "c": 96054415, "p": 19, "g": 1 },
+    { "s": 2019, "c": 96000060, "p": 9 },
+    { "s": 2020, "c": 96056361, "p": 33, "g": 8 },
+    { "s": 2021, "c": 1468, "p": 13, "g": 2 },
+    { "s": 2021, "c": 96000060, "p": 11, "g": 1 },
+    { "s": 2022, "c": 1468, "p": 25, "g": 3 },
+    { "s": 2023, "c": 1468, "p": 17, "g": 1 },
+    { "s": 2024, "c": 1300879, "p": 31, "g": 1 }
+  ]
+}

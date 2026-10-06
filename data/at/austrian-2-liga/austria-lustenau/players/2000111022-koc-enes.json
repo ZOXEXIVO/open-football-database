@@ -1,0 +1,43 @@
+{
+  "id": 2000111022,
+  "first_name": "Enes",
+  "last_name": "Koç",
+  "birth_date": "2005-05-22",
+  "country_id": 799,
+  "club_id": 106363,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 35932,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 106363, "p": 0 },
+    { "s": 2022, "c": 5607733, "p": 24, "g": 3 },
+    { "s": 2022, "c": 2000096511, "p": 1 },
+    { "s": 2023, "c": 106363, "p": 2 },
+    { "s": 2023, "c": 5607733, "p": 11, "g": 6 },
+    { "s": 2024, "c": 106363, "p": 9 },
+    { "s": 2025, "c": 106363, "p": 2 }
+  ]
+}

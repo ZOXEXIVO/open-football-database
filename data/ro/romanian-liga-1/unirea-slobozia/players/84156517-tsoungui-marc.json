@@ -1,0 +1,41 @@
+{
+  "id": 84156517,
+  "first_name": "Marc",
+  "last_name": "Tsoungui",
+  "birth_date": "2002-07-30",
+  "country_id": 798,
+  "club_id": 57000777,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 93,
+  "potential_ability": 115,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 1150, "p": 0 },
+    { "s": 2020, "c": 1856, "p": 14, "g": 1 },
+    { "s": 2020, "c": 5723700, "p": 3 },
+    { "s": 2021, "c": 1856, "p": 1 },
+    { "s": 2021, "c": 137904, "p": 3 },
+    { "s": 2021, "c": 5723700, "p": 3 },
+    { "s": 2022, "c": 137904, "p": 14 },
+    { "s": 2023, "c": 137904, "p": 0 },
+    { "s": 2024, "c": 99, "p": 9 },
+    { "s": 2024, "c": 5725722, "p": 1 }
+  ]
+}

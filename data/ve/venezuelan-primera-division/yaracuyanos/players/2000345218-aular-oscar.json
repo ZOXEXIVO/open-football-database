@@ -1,0 +1,33 @@
+{
+  "id": 2000345218,
+  "first_name": "Óscar",
+  "last_name": "Aular",
+  "birth_date": "2004-03-22",
+  "country_id": 1658,
+  "club_id": 86005820,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 2000255137, "p": 1 },
+    { "s": 2024, "c": 2000255137, "p": 0 }
+  ]
+}

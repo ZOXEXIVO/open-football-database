@@ -1,0 +1,35 @@
+{
+  "id": 2000422695,
+  "first_name": "Juan",
+  "last_name": "Tobón",
+  "birth_date": "2000-06-26",
+  "country_id": 1653,
+  "club_id": 952721,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 86,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 2000069713, "p": 0 },
+    { "s": 2017, "c": 2000069713, "p": 0 },
+    { "s": 2018, "c": 2000069713, "p": 0 },
+    { "s": 2019, "c": 2000069713, "p": 0 },
+    { "s": 2020, "c": 2000069713, "p": 0 },
+    { "s": 2021, "c": 2000069713, "p": 0 },
+    { "s": 2024, "c": 952721, "p": 2 },
+    { "s": 2025, "c": 952721, "p": 20 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1515,
+  "name": "Universitatea Cluj",
+  "location": {
+    "city_id": 5797
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 1515,
+      "name": "Universitatea Cluj",
+      "slug": "universitatea-cluj",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5500,
+        "national": 5500,
+        "world": 5500
+      }
+    },
+    {
+      "id": 91200023,
+      "name": "Universitatea Cluj",
+      "slug": "universitatea-cluj-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1650,
+        "national": 1650,
+        "world": 1650
+      }
+    },
+    {
+      "id": 91200024,
+      "name": "Universitatea Cluj",
+      "slug": "universitatea-cluj-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#444444",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 4650
+}

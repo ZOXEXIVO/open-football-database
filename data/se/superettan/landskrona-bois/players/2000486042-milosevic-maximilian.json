@@ -1,0 +1,36 @@
+{
+  "id": 2000486042,
+  "first_name": "Maximilian",
+  "last_name": "Milosevic",
+  "birth_date": "2007-05-07",
+  "country_id": 797,
+  "club_id": 1811,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 16068,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1811, "p": 0 },
+    { "s": 2023, "c": 1811, "p": 0 },
+    { "s": 2024, "c": 1811, "p": 0 },
+    { "s": 2025, "c": 1811, "p": 1 }
+  ]
+}

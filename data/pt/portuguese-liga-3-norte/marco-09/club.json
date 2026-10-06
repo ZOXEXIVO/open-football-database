@@ -1,0 +1,57 @@
+{
+  "id": 2407,
+  "name": "Marco 09",
+  "location": {
+    "city_id": 5949
+  },
+  "finance": {
+    "balance": 82550
+  },
+  "teams": [
+    {
+      "id": 2407,
+      "name": "Marco 09",
+      "slug": "marco-09",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3800,
+        "national": 3800,
+        "world": 3800
+      }
+    },
+    {
+      "id": 97600015,
+      "name": "Marco 09",
+      "slug": "marco-09-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    },
+    {
+      "id": 97600016,
+      "name": "Marco 09",
+      "slug": "marco-09-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 760,
+        "national": 760,
+        "world": 760
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 380
+}

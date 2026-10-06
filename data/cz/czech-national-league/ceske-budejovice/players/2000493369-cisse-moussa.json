@@ -1,0 +1,31 @@
+{
+  "id": 2000493369,
+  "first_name": "Moussa",
+  "last_name": "Cissé",
+  "birth_date": "2005-05-25",
+  "country_id": 24,
+  "club_id": 470,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2025, "c": 47097105, "p": 9, "g": 2 }
+  ]
+}

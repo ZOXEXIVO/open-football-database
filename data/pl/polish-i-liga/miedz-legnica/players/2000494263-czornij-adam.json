@@ -1,0 +1,26 @@
+{
+  "id": 2000494263,
+  "first_name": "Adam",
+  "last_name": "Czornij",
+  "birth_date": "2006-07-20",
+  "country_id": 787,
+  "club_id": 710017,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 54003058, "p": 16 },
+    { "s": 2023, "c": 96089671, "p": 22, "g": 1 },
+    { "s": 2024, "c": 96089671, "p": 20 }
+  ]
+}

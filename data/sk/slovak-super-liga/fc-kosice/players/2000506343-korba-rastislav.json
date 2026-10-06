@@ -1,0 +1,33 @@
+{
+  "id": 2000506343,
+  "first_name": "Rastislav",
+  "last_name": "Korba",
+  "birth_date": "2006-04-03",
+  "country_id": 794,
+  "club_id": 63035357,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

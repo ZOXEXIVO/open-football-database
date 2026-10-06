@@ -1,0 +1,32 @@
+{
+  "id": 2000472428,
+  "first_name": "Lamine",
+  "last_name": "Touré",
+  "birth_date": "2003-12-20",
+  "country_id": 41,
+  "club_id": 137958,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 80,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": 107,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2000096987, "p": 8 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 717313,
+  "name": "Chrobry Głogów",
+  "location": {
+    "city_id": 5789
+  },
+  "finance": {
+    "balance": 565150
+  },
+  "teams": [
+    {
+      "id": 717313,
+      "name": "Chrobry Głogów",
+      "slug": "chrobry-glogow",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 96300015,
+      "name": "Chrobry Głogów",
+      "slug": "chrobry-glogow-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 96300016,
+      "name": "Chrobry Głogów",
+      "slug": "chrobry-glogow-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f27641",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Fairly Basic",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1700
+}

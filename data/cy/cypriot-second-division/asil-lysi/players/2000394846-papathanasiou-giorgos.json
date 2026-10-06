@@ -1,0 +1,37 @@
+{
+  "id": 2000394846,
+  "first_name": "Giorgos",
+  "last_name": "Papathanasiou",
+  "birth_date": "2001-07-26",
+  "country_id": 762,
+  "club_id": 149276,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 77,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 451, "p": 0 },
+    { "s": 2017, "c": 451, "p": 0 },
+    { "s": 2018, "c": 451, "p": 0 },
+    { "s": 2019, "c": 451, "p": 0 },
+    { "s": 2020, "c": 451, "p": 0 },
+    { "s": 2020, "c": 26001627, "p": 2 },
+    { "s": 2021, "c": 26001627, "p": 19 },
+    { "s": 2022, "c": 26001627, "p": 21 },
+    { "s": 2023, "c": 461, "p": 22 },
+    { "s": 2024, "c": 149276, "p": 20 }
+  ]
+}

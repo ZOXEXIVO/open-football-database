@@ -1,0 +1,57 @@
+{
+  "id": 2000169166,
+  "name": "Héroes de Falcón",
+  "location": {
+    "city_id": 6111
+  },
+  "finance": {
+    "balance": 419100
+  },
+  "teams": [
+    {
+      "id": 2000169166,
+      "name": "Héroes de Falcón",
+      "slug": "heroes-de-falcon",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3300,
+        "national": 3300,
+        "world": 3300
+      }
+    },
+    {
+      "id": 98600017,
+      "name": "Héroes de Falcón",
+      "slug": "heroes-de-falcon-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 990,
+        "national": 990,
+        "world": 990
+      }
+    },
+    {
+      "id": 98600018,
+      "name": "Héroes de Falcón",
+      "slug": "heroes-de-falcon-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c72de",
+    "foreground": "#ffd642"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 830
+}

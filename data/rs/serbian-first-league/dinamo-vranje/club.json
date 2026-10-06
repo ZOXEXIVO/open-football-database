@@ -1,0 +1,57 @@
+{
+  "id": 2000366004,
+  "name": "Dinamo Vranje",
+  "location": {
+    "city_id": 6052
+  },
+  "finance": {
+    "balance": 203200
+  },
+  "teams": [
+    {
+      "id": 2000366004,
+      "name": "Dinamo Vranje",
+      "slug": "dinamo-vranje",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    },
+    {
+      "id": 98300027,
+      "name": "Dinamo Vranje",
+      "slug": "dinamo-vranje-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    },
+    {
+      "id": 98300028,
+      "name": "Dinamo Vranje",
+      "slug": "dinamo-vranje-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 560,
+        "national": 560,
+        "world": 560
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#324ed9"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 170
+}

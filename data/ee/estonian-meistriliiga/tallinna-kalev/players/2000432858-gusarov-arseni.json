@@ -1,0 +1,27 @@
+{
+  "id": 2000432858,
+  "first_name": "Arseni",
+  "last_name": "Gusarov",
+  "birth_date": "2008-07-16",
+  "country_id": 766,
+  "club_id": 7681958,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 30,
+  "potential_ability": -25,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 31000330, "p": 3 },
+    { "s": 2024, "c": 2000432854, "p": 11, "g": 8 },
+    { "s": 2025, "c": 31000330, "p": 1 },
+    { "s": 2025, "c": 2000432854, "p": 33, "g": 9 }
+  ]
+}

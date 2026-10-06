@@ -1,0 +1,42 @@
+{
+  "id": 84155702,
+  "first_name": "Stéphane",
+  "last_name": "Cueni",
+  "birth_date": "2001-03-14",
+  "country_id": 12,
+  "club_id": 1200101,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 121,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 1, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2017, "c": 5723700, "p": 1 },
+    { "s": 2018, "c": 5723700, "p": 12 },
+    { "s": 2019, "c": 5723700, "p": 14, "g": 1 },
+    { "s": 2020, "c": 1856, "p": 6 },
+    { "s": 2020, "c": 5723700, "p": 6, "g": 1 },
+    { "s": 2021, "c": 137904, "p": 22 },
+    { "s": 2022, "c": 130820, "p": 27 },
+    { "s": 2023, "c": 130820, "p": 34 },
+    { "s": 2024, "c": 130820, "p": 17 },
+    { "s": 2024, "c": 1200101, "p": 13 }
+  ]
+}

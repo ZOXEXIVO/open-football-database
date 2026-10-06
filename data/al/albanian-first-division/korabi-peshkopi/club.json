@@ -1,0 +1,35 @@
+{
+  "id": 11025585,
+  "name": "Korabi Peshkopi",
+  "location": {
+    "city_id": 5935
+  },
+  "finance": {
+    "balance": 406400
+  },
+  "teams": [
+    {
+      "id": 11025585,
+      "name": "Korabi Peshkopi",
+      "slug": "korabi-peshkopi",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3200,
+        "national": 3200,
+        "world": 3200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 940
+}

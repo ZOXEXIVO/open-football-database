@@ -1,0 +1,37 @@
+{
+  "id": 2000108441,
+  "first_name": "Henrik",
+  "last_name": "Nerguti",
+  "birth_date": "2003-04-25",
+  "country_id": 752,
+  "club_id": 68,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 127,
+  "international": {"apps": 0, "goals": 0, "u21_apps": 2, "u21_goals": 0},
+  "history": [
+    { "s": 2019, "c": 2000093027, "p": 0 },
+    { "s": 2020, "c": 2000093027, "p": 0 },
+    { "s": 2021, "c": 1630, "p": 0 },
+    { "s": 2022, "c": 128656, "p": 17, "g": 5 },
+    { "s": 2023, "c": 128656, "p": 24, "g": 3 },
+    { "s": 2024, "c": 1300034, "p": 7 }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 2000105943,
+  "first_name": "Oliver",
+  "last_name": "Alfonsi",
+  "birth_date": "2003-06-03",
+  "country_id": 797,
+  "club_id": 2677,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 97,
+  "potential_ability": 124,
+  "contract": {
+    "salary": 28184,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1798, "p": 0 },
+    { "s": 2019, "c": 1798, "p": 0 },
+    { "s": 2019, "c": 2677, "p": 0 },
+    { "s": 2020, "c": 2677, "p": 0 },
+    { "s": 2021, "c": 2677, "p": 15, "g": 1 },
+    { "s": 2022, "c": 2677, "p": 24, "g": 2 },
+    { "s": 2023, "c": 2677, "p": 12, "g": 2 },
+    { "s": 2024, "c": 2677, "p": 16, "g": 1 },
+    { "s": 2025, "c": 2677, "p": 12, "g": 7 }
+  ]
+}

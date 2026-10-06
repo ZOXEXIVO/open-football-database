@@ -1,0 +1,57 @@
+{
+  "id": 47073319,
+  "name": "Viimsi",
+  "location": {
+    "city_id": 5866
+  },
+  "finance": {
+    "balance": 203200
+  },
+  "teams": [
+    {
+      "id": 47073319,
+      "name": "Viimsi",
+      "slug": "viimsi",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1600,
+        "national": 1600,
+        "world": 1600
+      }
+    },
+    {
+      "id": 96900003,
+      "name": "Viimsi",
+      "slug": "viimsi-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 480,
+        "national": 480,
+        "world": 480
+      }
+    },
+    {
+      "id": 96900004,
+      "name": "Viimsi",
+      "slug": "viimsi-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 320,
+        "national": 320,
+        "world": 320
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 100
+}

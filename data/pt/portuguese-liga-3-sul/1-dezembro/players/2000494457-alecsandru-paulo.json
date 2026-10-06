@@ -1,0 +1,36 @@
+{
+  "id": 2000494457,
+  "first_name": "Paulo",
+  "last_name": "Alecsandru",
+  "birth_date": "2006-02-05",
+  "country_id": 788,
+  "club_id": 55001110,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 59,
+  "potential_ability": -45,
+  "contract": {
+    "salary": 8528,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1474, "p": 0 },
+    { "s": 2023, "c": 1474, "p": 0 },
+    { "s": 2023, "c": 2000237813, "p": 0 },
+    { "s": 2024, "c": 1474, "p": 0 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 16046867,
+  "name": "Austria Salzburg",
+  "location": {
+    "city_id": 5917
+  },
+  "finance": {
+    "balance": 660400
+  },
+  "teams": [
+    {
+      "id": 16046867,
+      "name": "Austria Salzburg",
+      "slug": "austria-salzburg",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5200,
+        "national": 5200,
+        "world": 5200
+      }
+    },
+    {
+      "id": 97300019,
+      "name": "Austria Salzburg",
+      "slug": "austria-salzburg-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1560,
+        "national": 1560,
+        "world": 1560
+      }
+    },
+    {
+      "id": 97300020,
+      "name": "Austria Salzburg",
+      "slug": "austria-salzburg-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1040,
+        "national": 1040,
+        "world": 1040
+      }
+    }
+  ],
+  "colors": {
+    "background": "#8e27c2",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1250
+}

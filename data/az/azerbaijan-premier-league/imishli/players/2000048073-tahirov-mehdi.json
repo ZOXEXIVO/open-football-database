@@ -1,0 +1,43 @@
+{
+  "id": 2000048073,
+  "first_name": "Mehdi",
+  "last_name": "Tahirov",
+  "birth_date": "2001-10-09",
+  "country_id": 756,
+  "club_id": 2000193940,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 75,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 59008334, "p": 15, "g": 1 },
+    { "s": 2020, "c": 485430, "p": 0 },
+    { "s": 2020, "c": 59136625, "p": 25, "g": 2 },
+    { "s": 2021, "c": 59006974, "p": 24, "g": 5 }
+  ]
+}

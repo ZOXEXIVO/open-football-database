@@ -1,0 +1,30 @@
+{
+  "id": 2000048072,
+  "first_name": "Şirin",
+  "last_name": "Şirinov",
+  "birth_date": "2002-03-11",
+  "country_id": 756,
+  "club_id": 2000327014,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 53,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2019, "c": 59136625, "p": 3 },
+    { "s": 2020, "c": 485430, "p": 0 },
+    { "s": 2020, "c": 59136625, "p": 22 },
+    { "s": 2021, "c": 2000172514, "p": 15, "g": 1 }
+  ]
+}

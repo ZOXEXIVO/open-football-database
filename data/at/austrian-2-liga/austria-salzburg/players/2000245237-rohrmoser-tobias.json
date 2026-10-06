@@ -1,0 +1,28 @@
+{
+  "id": 2000245237,
+  "first_name": "Tobias",
+  "last_name": "Rohrmoser",
+  "birth_date": "2007-02-04",
+  "country_id": 755,
+  "club_id": 16046867,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 16009436, "p": 0 }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2000267873,
+  "first_name": "Janno",
+  "last_name": "Jaal",
+  "birth_date": "1997-10-28",
+  "country_id": 766,
+  "club_id": 47052802,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 30,
+  "potential_ability": 33,
+  "history": [
+    { "s": 2020, "c": 2000092877, "p": 10, "g": 1 },
+    { "s": 2023, "c": 47052802, "p": 0 },
+    { "s": 2024, "c": 47052802, "p": 0 }
+  ]
+}

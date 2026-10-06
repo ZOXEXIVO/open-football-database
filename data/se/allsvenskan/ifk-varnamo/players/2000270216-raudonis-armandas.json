@@ -1,0 +1,27 @@
+{
+  "id": 2000270216,
+  "first_name": "Armandas",
+  "last_name": "Raudonis",
+  "birth_date": "2007-07-29",
+  "country_id": 779,
+  "club_id": 2588,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2022, "c": 1787, "p": 0 },
+    { "s": 2023, "c": 1787, "p": 0 },
+    { "s": 2024, "c": 1787, "p": 0 },
+    { "s": 2025, "c": 1787, "p": 0 },
+    { "s": 2025, "c": 2588, "p": 1 }
+  ]
+}

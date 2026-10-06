@@ -1,0 +1,34 @@
+{
+  "id": 2000141348,
+  "first_name": "Olle",
+  "last_name": "Werner",
+  "birth_date": "2005-02-10",
+  "country_id": 797,
+  "club_id": 2677,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 63,
+  "potential_ability": -45,
+  "contract": {
+    "salary": 16068,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2677, "p": 0 },
+    { "s": 2022, "c": 2677, "p": 0 },
+    { "s": 2023, "c": 2677, "p": 0 },
+    { "s": 2024, "c": 2677, "p": 0 },
+    { "s": 2025, "c": 2677, "p": 0 },
+    { "s": 2025, "c": 1103878, "p": 16, "g": 3 }
+  ]
+}

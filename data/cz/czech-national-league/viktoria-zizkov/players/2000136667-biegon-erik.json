@@ -1,0 +1,38 @@
+{
+  "id": 2000136667,
+  "first_name": "Erik",
+  "last_name": "Biegon",
+  "birth_date": "2004-04-29",
+  "country_id": 763,
+  "club_id": 478,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 105,
+  "contract": {
+    "salary": 29848,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 474, "p": 0 },
+    { "s": 2021, "c": 136207, "p": 15, "g": 2 },
+    { "s": 2022, "c": 136207, "p": 5 },
+    { "s": 2022, "c": 25001307, "p": 9, "g": 1 },
+    { "s": 2023, "c": 25001307, "p": 24 },
+    { "s": 2024, "c": 25001307, "p": 30, "g": 2 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 59130752,
+  "name": "Sabah",
+  "location": {
+    "city_id": 5887
+  },
+  "finance": {
+    "balance": 3810000
+  },
+  "teams": [
+    {
+      "id": 59130752,
+      "name": "Sabah",
+      "slug": "sabah",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5300,
+        "national": 5300,
+        "world": 5300
+      }
+    },
+    {
+      "id": 93500021,
+      "name": "Sabah",
+      "slug": "sabah-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1590,
+        "national": 1590,
+        "world": 1590
+      }
+    },
+    {
+      "id": 93500022,
+      "name": "Sabah",
+      "slug": "sabah-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1060,
+        "national": 1060,
+        "world": 1060
+      }
+    }
+  ],
+  "colors": {
+    "background": "#231f20",
+    "foreground": "#ff73b9"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1550
+}

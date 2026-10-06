@@ -1,0 +1,40 @@
+{
+  "id": 2000224686,
+  "first_name": "Viljami",
+  "last_name": "Jokiranta",
+  "birth_date": "2006-07-23",
+  "country_id": 768,
+  "club_id": 129170,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 59,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 811, "p": 1 },
+    { "s": 2022, "c": 510217, "p": 1 },
+    { "s": 2022, "c": 33004682, "p": 0 },
+    { "s": 2023, "c": 811, "p": 1 },
+    { "s": 2023, "c": 510217, "p": 13, "g": 1 },
+    { "s": 2024, "c": 811, "p": 3 },
+    { "s": 2024, "c": 510217, "p": 9 },
+    { "s": 2025, "c": 811, "p": 5 },
+    { "s": 2025, "c": 510217, "p": 4, "g": 2 }
+  ]
+}

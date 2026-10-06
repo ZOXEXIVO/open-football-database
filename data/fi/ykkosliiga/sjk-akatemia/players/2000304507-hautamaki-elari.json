@@ -1,0 +1,41 @@
+{
+  "id": 2000304507,
+  "first_name": "Elari",
+  "last_name": "Hautamäki",
+  "birth_date": "2004-05-11",
+  "country_id": 768,
+  "club_id": 33064668,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 33084514, "p": 1 },
+    { "s": 2022, "c": 33084514, "p": 16, "g": 12 },
+    { "s": 2023, "c": 33064668, "p": 3 },
+    { "s": 2023, "c": 2000266290, "p": 21, "g": 15 },
+    { "s": 2024, "c": 33064668, "p": 12, "g": 1 },
+    { "s": 2024, "c": 2000266290, "p": 8, "g": 1 }
+  ]
+}

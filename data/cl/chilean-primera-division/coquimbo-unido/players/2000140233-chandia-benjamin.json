@@ -1,0 +1,27 @@
+{
+  "id": 2000140233,
+  "first_name": "Benjamín",
+  "last_name": "Chandía",
+  "birth_date": "2002-11-25",
+  "country_id": 1652,
+  "club_id": 120924,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 101,
+  "potential_ability": 132,
+  "history": [
+    { "s": 2021, "c": 120924, "p": 3 },
+    { "s": 2022, "c": 120924, "p": 0 },
+    { "s": 2023, "c": 120924, "p": 24, "g": 3 },
+    { "s": 2024, "c": 120924, "p": 30, "g": 2 },
+    { "s": 2025, "c": 120924, "p": 29, "g": 2 }
+  ]
+}

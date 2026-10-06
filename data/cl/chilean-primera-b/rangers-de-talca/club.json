@@ -1,0 +1,57 @@
+{
+  "id": 130788,
+  "name": "Rangers de Talca",
+  "location": {
+    "city_id": 6076
+  },
+  "finance": {
+    "balance": 609600
+  },
+  "teams": [
+    {
+      "id": 130788,
+      "name": "Rangers de Talca",
+      "slug": "rangers-de-talca",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 98500001,
+      "name": "Rangers de Talca",
+      "slug": "rangers-de-talca-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 98500002,
+      "name": "Rangers de Talca",
+      "slug": "rangers-de-talca-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 2250
+}

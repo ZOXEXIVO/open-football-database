@@ -1,0 +1,44 @@
+{
+  "id": 83111400,
+  "first_name": "Diogo",
+  "last_name": "Mendes",
+  "birth_date": "1998-01-24",
+  "country_id": 12,
+  "club_id": 57171586,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 110,
+  "contract": {
+    "salary": 170716,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 4, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2014, "c": 1487, "p": 0 },
+    { "s": 2015, "c": 1487, "p": 0 },
+    { "s": 2016, "c": 55000306, "p": 1 },
+    { "s": 2017, "c": 55000306, "p": 15 },
+    { "s": 2018, "c": 55000306, "p": 11 },
+    { "s": 2019, "c": 55000306, "p": 14 },
+    { "s": 2020, "c": 55000306, "p": 31, "g": 3 },
+    { "s": 2021, "c": 1476, "p": 27 },
+    { "s": 2022, "c": 1476, "p": 20 },
+    { "s": 2023, "c": 1476, "p": 32, "g": 2 },
+    { "s": 2024, "c": 57171586, "p": 2 }
+  ]
+}

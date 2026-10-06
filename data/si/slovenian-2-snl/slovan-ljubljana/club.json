@@ -1,0 +1,57 @@
+{
+  "id": 7580943,
+  "name": "Slovan Ljubljana",
+  "location": {
+    "city_id": 6033
+  },
+  "finance": {
+    "balance": 116840
+  },
+  "teams": [
+    {
+      "id": 7580943,
+      "name": "Slovan Ljubljana",
+      "slug": "slovan-ljubljana",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2700,
+        "national": 2700,
+        "world": 2700
+      }
+    },
+    {
+      "id": 98200013,
+      "name": "Slovan Ljubljana",
+      "slug": "slovan-ljubljana-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 810,
+        "national": 810,
+        "world": 810
+      }
+    },
+    {
+      "id": 98200014,
+      "name": "Slovan Ljubljana",
+      "slug": "slovan-ljubljana-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 540,
+        "national": 540,
+        "world": 540
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 160
+}

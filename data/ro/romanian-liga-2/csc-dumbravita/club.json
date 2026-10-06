@@ -1,0 +1,57 @@
+{
+  "id": 57065617,
+  "name": "CSC Dumbrăvița",
+  "location": {
+    "city_id": 5824
+  },
+  "finance": {
+    "balance": 36830
+  },
+  "teams": [
+    {
+      "id": 57065617,
+      "name": "CSC Dumbrăvița",
+      "slug": "csc-dumbravita",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3900,
+        "national": 3900,
+        "world": 3900
+      }
+    },
+    {
+      "id": 96400035,
+      "name": "CSC Dumbrăvița",
+      "slug": "csc-dumbravita-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1170,
+        "national": 1170,
+        "world": 1170
+      }
+    },
+    {
+      "id": 96400036,
+      "name": "CSC Dumbrăvița",
+      "slug": "csc-dumbravita-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 780,
+        "national": 780,
+        "world": 780
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3e8c4b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 100
+}

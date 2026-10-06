@@ -1,0 +1,28 @@
+{
+  "id": 2000515467,
+  "first_name": "Ermal",
+  "last_name": "Rrustemi",
+  "birth_date": "2008-11-11",
+  "country_id": 768,
+  "club_id": 129185,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 62,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 129185, "p": 19, "g": 1 }
+  ]
+}

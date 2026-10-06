@@ -1,0 +1,34 @@
+{
+  "id": 2000403489,
+  "first_name": "Seydina",
+  "last_name": "Diop",
+  "birth_date": "2005-05-10",
+  "country_id": 41,
+  "club_id": 1300612,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 97,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 22568,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1300612, "p": 6 },
+    { "s": 2025, "c": 1300612, "p": 22, "g": 8 }
+  ]
+}

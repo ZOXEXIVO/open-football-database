@@ -1,0 +1,27 @@
+{
+  "id": 2000438217,
+  "first_name": "Malcom",
+  "last_name": "Moulare",
+  "birth_date": "2008-07-19",
+  "country_id": 797,
+  "club_id": 2588,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 51,
+  "potential_ability": -55,
+  "contract": {
+    "salary": 16068,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2180, "p": 0 },
+    { "s": 2025, "c": 2180, "p": 0 },
+    { "s": 2025, "c": 2588, "p": 0 }
+  ]
+}

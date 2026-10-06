@@ -1,0 +1,57 @@
+{
+  "id": 38004848,
+  "name": "Kozármisleny",
+  "location": {
+    "city_id": 5771
+  },
+  "finance": {
+    "balance": 255270
+  },
+  "teams": [
+    {
+      "id": 38004848,
+      "name": "Kozármisleny",
+      "slug": "kozarmisleny",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 96200019,
+      "name": "Kozármisleny",
+      "slug": "kozarmisleny-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 96200020,
+      "name": "Kozármisleny",
+      "slug": "kozarmisleny-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3d7bb8",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 840
+}

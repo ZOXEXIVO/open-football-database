@@ -1,0 +1,28 @@
+{
+  "id": 2000483943,
+  "first_name": "Patrick",
+  "last_name": "Ntim",
+  "birth_date": "2006-01-02",
+  "country_id": 21,
+  "club_id": 57143011,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 2000105301, "p": 6 }
+  ]
+}

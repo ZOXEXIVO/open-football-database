@@ -1,0 +1,57 @@
+{
+  "id": 2000028546,
+  "name": "Wieczysta Kraków",
+  "location": {
+    "city_id": 5794
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 2000028546,
+      "name": "Wieczysta Kraków",
+      "slug": "wieczysta-krakow",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2500,
+        "national": 2500,
+        "world": 2500
+      }
+    },
+    {
+      "id": 96300025,
+      "name": "Wieczysta Kraków",
+      "slug": "wieczysta-krakow-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 750,
+        "national": 750,
+        "world": 750
+      }
+    },
+    {
+      "id": 96300026,
+      "name": "Wieczysta Kraków",
+      "slug": "wieczysta-krakow-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 500,
+        "national": 500,
+        "world": 500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 540
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2000414264,
+  "first_name": "Matúš",
+  "last_name": "Kucman",
+  "birth_date": "2005-01-29",
+  "country_id": 794,
+  "club_id": 2000467935,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 63011666, "p": 11 }
+  ]
+}

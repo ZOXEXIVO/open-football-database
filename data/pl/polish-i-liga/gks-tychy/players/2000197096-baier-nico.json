@@ -1,0 +1,43 @@
+{
+  "id": 2000197096,
+  "first_name": "Nico",
+  "last_name": "Baier",
+  "birth_date": "2005-04-18",
+  "country_id": 787,
+  "club_id": 54003060,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 108997, "p": 0 },
+    { "s": 2021, "c": 108997, "p": 0 },
+    { "s": 2024, "c": 108997, "p": 0 },
+    { "s": 2024, "c": 2000073975, "p": 25, "g": 6 }
+  ]
+}

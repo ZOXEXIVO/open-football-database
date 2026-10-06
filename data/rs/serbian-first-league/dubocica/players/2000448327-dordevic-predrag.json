@@ -1,0 +1,29 @@
+{
+  "id": 2000448327,
+  "first_name": "Predrag",
+  "last_name": "Đorđević",
+  "birth_date": "2006-05-08",
+  "country_id": 802,
+  "club_id": 136468,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -65,
+  "history": [
+    { "s": 2022, "c": 136468, "p": 0 },
+    { "s": 2023, "c": 136468, "p": 3 },
+    { "s": 2024, "c": 136468, "p": 21, "g": 1 }
+  ]
+}

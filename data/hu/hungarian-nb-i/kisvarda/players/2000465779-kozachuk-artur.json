@@ -1,0 +1,26 @@
+{
+  "id": 2000465779,
+  "first_name": "Artur",
+  "last_name": "Kozachuk",
+  "birth_date": "2005-03-23",
+  "country_id": 800,
+  "club_id": 38013478,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2022, "c": 38069430, "p": 10 },
+    { "s": 2023, "c": 38069430, "p": 28, "g": 3 },
+    { "s": 2024, "c": 38013478, "p": 0 },
+    { "s": 2024, "c": 38069430, "p": 27, "g": 3 }
+  ]
+}

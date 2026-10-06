@@ -1,0 +1,57 @@
+{
+  "id": 2000263051,
+  "name": "Hertha Wels",
+  "location": {
+    "city_id": 5919
+  },
+  "finance": {
+    "balance": 647700
+  },
+  "teams": [
+    {
+      "id": 2000263051,
+      "name": "Hertha Wels",
+      "slug": "hertha-wels",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    },
+    {
+      "id": 97300023,
+      "name": "Hertha Wels",
+      "slug": "hertha-wels-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1530,
+        "national": 1530,
+        "world": 1530
+      }
+    },
+    {
+      "id": 97300024,
+      "name": "Hertha Wels",
+      "slug": "hertha-wels-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3e8c4b",
+    "foreground": "#2f55b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1750
+}

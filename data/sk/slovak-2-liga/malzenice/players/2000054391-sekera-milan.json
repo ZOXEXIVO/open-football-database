@@ -1,0 +1,33 @@
+{
+  "id": 2000054391,
+  "first_name": "Milan",
+  "last_name": "Sekera",
+  "birth_date": "2002-02-14",
+  "country_id": 794,
+  "club_id": 2000260278,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 85,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 1623, "p": 0 },
+    { "s": 2022, "c": 63000901, "p": 9 }
+  ]
+}

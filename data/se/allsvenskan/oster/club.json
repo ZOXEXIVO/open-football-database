@@ -1,0 +1,57 @@
+{
+  "id": 1844,
+  "name": "Öster",
+  "location": {
+    "city_id": 5975
+  },
+  "finance": {
+    "balance": 3810000
+  },
+  "teams": [
+    {
+      "id": 1844,
+      "name": "Öster",
+      "slug": "oster",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 91500039,
+      "name": "Öster",
+      "slug": "oster-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 91500040,
+      "name": "Öster",
+      "slug": "oster-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#2f55b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 4650
+}

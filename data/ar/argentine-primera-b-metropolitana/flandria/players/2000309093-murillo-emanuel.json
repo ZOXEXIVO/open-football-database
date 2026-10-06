@@ -1,0 +1,28 @@
+{
+  "id": 2000309093,
+  "first_name": "Emanuel",
+  "last_name": "Murillo",
+  "birth_date": "2004-05-14",
+  "country_id": 1649,
+  "club_id": 3101508,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 3101508, "p": 0 }
+  ]
+}

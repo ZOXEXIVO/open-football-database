@@ -1,0 +1,27 @@
+{
+  "id": 63036242,
+  "first_name": "Adam",
+  "last_name": "Krejčí",
+  "birth_date": "1995-02-03",
+  "country_id": 794,
+  "club_id": 63010804,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 90,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1615, "p": 27 },
+    { "s": 2019, "c": 1615, "p": 1 },
+    { "s": 2020, "c": 1615, "p": 6 },
+    { "s": 2024, "c": 63010804, "p": 15 }
+  ]
+}

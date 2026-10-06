@@ -1,0 +1,57 @@
+{
+  "id": 138169,
+  "name": "Tabor Sežana",
+  "location": {
+    "city_id": 6030
+  },
+  "finance": {
+    "balance": 308610
+  },
+  "teams": [
+    {
+      "id": 138169,
+      "name": "Tabor Sežana",
+      "slug": "tabor-sezana",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3300,
+        "national": 3300,
+        "world": 3300
+      }
+    },
+    {
+      "id": 98200007,
+      "name": "Tabor Sežana",
+      "slug": "tabor-sezana-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 990,
+        "national": 990,
+        "world": 990
+      }
+    },
+    {
+      "id": 98200008,
+      "name": "Tabor Sežana",
+      "slug": "tabor-sezana-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 660,
+        "national": 660,
+        "world": 660
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 310
+}

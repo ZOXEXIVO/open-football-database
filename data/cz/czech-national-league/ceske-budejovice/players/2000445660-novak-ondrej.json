@@ -1,0 +1,30 @@
+{
+  "id": 2000445660,
+  "first_name": "Ondřej",
+  "last_name": "Novák",
+  "birth_date": "2004-09-13",
+  "country_id": 763,
+  "club_id": 470,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 84,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 31200,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 470, "p": 0 },
+    { "s": 2022, "c": 136238, "p": 1 },
+    { "s": 2023, "c": 136238, "p": 26, "g": 3 },
+    { "s": 2024, "c": 470, "p": 9, "g": 1 },
+    { "s": 2024, "c": 136237, "p": 4 },
+    { "s": 2024, "c": 136238, "p": 5 }
+  ]
+}

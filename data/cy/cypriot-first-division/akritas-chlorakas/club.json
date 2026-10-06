@@ -1,0 +1,57 @@
+{
+  "id": 149275,
+  "name": "Akritas Chlorakas",
+  "location": {
+    "city_id": 5872
+  },
+  "finance": {
+    "balance": 373380
+  },
+  "teams": [
+    {
+      "id": 149275,
+      "name": "Akritas Chlorakas",
+      "slug": "akritas-chlorakas",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 93600033,
+      "name": "Akritas Chlorakas",
+      "slug": "akritas-chlorakas-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 93600034,
+      "name": "Akritas Chlorakas",
+      "slug": "akritas-chlorakas-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3cb571",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 590
+}

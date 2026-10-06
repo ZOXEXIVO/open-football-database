@@ -1,0 +1,33 @@
+{
+  "id": 2000407641,
+  "first_name": "Jose",
+  "last_name": "Jalex",
+  "birth_date": "2004-04-05",
+  "country_id": 19,
+  "club_id": 26036766,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 12001268, "p": 0 },
+    { "s": 2020, "c": 12001268, "p": 0 },
+    { "s": 2021, "c": 12001268, "p": 0 },
+    { "s": 2022, "c": 12001268, "p": 0 },
+    { "s": 2023, "c": 12001268, "p": 0 },
+    { "s": 2024, "c": 149278, "p": 26, "g": 8 }
+  ]
+}

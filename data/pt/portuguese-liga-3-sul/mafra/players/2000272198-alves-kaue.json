@@ -1,0 +1,33 @@
+{
+  "id": 2000272198,
+  "first_name": "Kauê",
+  "last_name": "Alves",
+  "birth_date": "2006-01-15",
+  "country_id": 1651,
+  "club_id": 736258,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 15704,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 736258, "p": 12 }
+  ]
+}

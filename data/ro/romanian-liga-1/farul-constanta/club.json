@@ -1,0 +1,57 @@
+{
+  "id": 2000104441,
+  "name": "Farul Constanța",
+  "location": {
+    "city_id": 5798
+  },
+  "finance": {
+    "balance": 527050
+  },
+  "teams": [
+    {
+      "id": 2000104441,
+      "name": "Farul Constanța",
+      "slug": "farul-constanta",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 91200025,
+      "name": "Farul Constanța",
+      "slug": "farul-constanta-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 91200026,
+      "name": "Farul Constanța",
+      "slug": "farul-constanta-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3862e0",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Excellent",
+    "academy": "Excellent",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 3650
+}

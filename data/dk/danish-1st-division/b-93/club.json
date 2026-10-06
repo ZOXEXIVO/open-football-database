@@ -1,0 +1,57 @@
+{
+  "id": 493,
+  "name": "B.93",
+  "location": {
+    "city_id": 5856
+  },
+  "finance": {
+    "balance": 797560
+  },
+  "teams": [
+    {
+      "id": 493,
+      "name": "B.93",
+      "slug": "b-93",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 96800011,
+      "name": "B.93",
+      "slug": "b-93-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 96800012,
+      "name": "B.93",
+      "slug": "b-93-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#26488b"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 1600
+}

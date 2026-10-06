@@ -1,0 +1,57 @@
+{
+  "id": 2000350943,
+  "name": "Iberia 1999",
+  "location": {
+    "city_id": 5828
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 2000350943,
+      "name": "Iberia 1999",
+      "slug": "iberia-1999",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    },
+    {
+      "id": 89100033,
+      "name": "Iberia 1999",
+      "slug": "iberia-1999-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1620,
+        "national": 1620,
+        "world": 1620
+      }
+    },
+    {
+      "id": 89100034,
+      "name": "Iberia 1999",
+      "slug": "iberia-1999-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2550
+}

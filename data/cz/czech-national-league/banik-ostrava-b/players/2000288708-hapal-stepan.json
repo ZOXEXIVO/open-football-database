@@ -1,0 +1,33 @@
+{
+  "id": 2000288708,
+  "first_name": "Štěpán",
+  "last_name": "Hapal",
+  "birth_date": "2004-03-29",
+  "country_id": 763,
+  "club_id": 136178,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2022, "c": 473, "p": 0 },
+    { "s": 2023, "c": 136178, "p": 12 },
+    { "s": 2025, "c": 25060579, "p": 14, "g": 1 }
+  ]
+}

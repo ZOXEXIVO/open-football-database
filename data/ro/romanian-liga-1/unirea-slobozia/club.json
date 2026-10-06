@@ -1,0 +1,57 @@
+{
+  "id": 57000777,
+  "name": "Unirea Slobozia",
+  "location": {
+    "city_id": 5804
+  },
+  "finance": {
+    "balance": 26670
+  },
+  "teams": [
+    {
+      "id": 57000777,
+      "name": "Unirea Slobozia",
+      "slug": "unirea-slobozia",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5000,
+        "national": 5000,
+        "world": 5000
+      }
+    },
+    {
+      "id": 91200037,
+      "name": "Unirea Slobozia",
+      "slug": "unirea-slobozia-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 91200038,
+      "name": "Unirea Slobozia",
+      "slug": "unirea-slobozia-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fff200",
+    "foreground": "#3862e0"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2650
+}

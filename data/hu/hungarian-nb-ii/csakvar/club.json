@@ -1,0 +1,57 @@
+{
+  "id": 38019804,
+  "name": "Csákvár",
+  "location": {
+    "city_id": 5768
+  },
+  "finance": {
+    "balance": 259080
+  },
+  "teams": [
+    {
+      "id": 38019804,
+      "name": "Csákvár",
+      "slug": "csakvar",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 96200013,
+      "name": "Csákvár",
+      "slug": "csakvar-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 96200014,
+      "name": "Csákvár",
+      "slug": "csakvar-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#ffe252"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 940
+}

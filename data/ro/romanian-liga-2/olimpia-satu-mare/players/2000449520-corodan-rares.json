@@ -1,0 +1,28 @@
+{
+  "id": 2000449520,
+  "first_name": "Rareş",
+  "last_name": "Corodan",
+  "birth_date": "2008-03-24",
+  "country_id": 790,
+  "club_id": 57191025,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 15,
+  "potential_ability": -3,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 57191025, "p": 1 }
+  ]
+}

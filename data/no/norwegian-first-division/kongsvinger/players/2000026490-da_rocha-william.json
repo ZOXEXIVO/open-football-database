@@ -1,0 +1,37 @@
+{
+  "id": 2000026490,
+  "first_name": "William",
+  "last_name": "Da Rocha",
+  "birth_date": "2002-06-15",
+  "country_id": 786,
+  "club_id": 1336,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 28964,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1332, "p": 0 },
+    { "s": 2019, "c": 53088514, "p": 12 },
+    { "s": 2020, "c": 1332, "p": 4 },
+    { "s": 2021, "c": 1332, "p": 10 },
+    { "s": 2021, "c": 53088514, "p": 11 },
+    { "s": 2022, "c": 1332, "p": 20 },
+    { "s": 2023, "c": 1332, "p": 24 },
+    { "s": 2024, "c": 800118, "p": 4 },
+    { "s": 2025, "c": 800118, "p": 1 }
+  ]
+}

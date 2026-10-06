@@ -1,0 +1,57 @@
+{
+  "id": 2394,
+  "name": "Varzim",
+  "location": {
+    "city_id": 5942
+  },
+  "finance": {
+    "balance": 1050290
+  },
+  "teams": [
+    {
+      "id": 2394,
+      "name": "Varzim",
+      "slug": "varzim",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    },
+    {
+      "id": 97600001,
+      "name": "Varzim",
+      "slug": "varzim-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1530,
+        "national": 1530,
+        "world": 1530
+      }
+    },
+    {
+      "id": 97600002,
+      "name": "Varzim",
+      "slug": "varzim-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1650
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000165396,
+  "first_name": "Samuel",
+  "last_name": "Solomon",
+  "birth_date": "2000-11-12",
+  "country_id": 38,
+  "club_id": 2000435643,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": 92,
+  "history": [
+    { "s": 2022, "c": 67, "p": 23 },
+    { "s": 2023, "c": 67, "p": 15 }
+  ]
+}

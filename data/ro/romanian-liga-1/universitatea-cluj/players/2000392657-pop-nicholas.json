@@ -1,0 +1,29 @@
+{
+  "id": 2000392657,
+  "first_name": "Nicholas",
+  "last_name": "Pop",
+  "birth_date": "2006-10-11",
+  "country_id": 790,
+  "club_id": 1515,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 46,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 57015312, "p": 28, "g": 2 },
+    { "s": 2025, "c": 2000388306, "p": 4 }
+  ]
+}

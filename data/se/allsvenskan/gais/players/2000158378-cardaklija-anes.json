@@ -1,0 +1,35 @@
+{
+  "id": 2000158378,
+  "first_name": "Anes",
+  "last_name": "Čardaklija",
+  "birth_date": "2005-07-05",
+  "country_id": 797,
+  "club_id": 2153,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 105,
+  "potential_ability": -7,
+  "contract": {
+    "salary": 52364,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 2153, "p": 0 },
+    { "s": 2020, "c": 2153, "p": 0 },
+    { "s": 2021, "c": 2153, "p": 0 },
+    { "s": 2022, "c": 2153, "p": 2 },
+    { "s": 2023, "c": 2153, "p": 17, "g": 1 },
+    { "s": 2024, "c": 2153, "p": 17 },
+    { "s": 2025, "c": 2153, "p": 7 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 59126511,
+  "name": "Spaeri",
+  "location": {
+    "city_id": 5834
+  },
+  "finance": {
+    "balance": 520700
+  },
+  "teams": [
+    {
+      "id": 59126511,
+      "name": "Spaeri",
+      "slug": "spaeri",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 96600001,
+      "name": "Spaeri",
+      "slug": "spaeri-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 96600002,
+      "name": "Spaeri",
+      "slug": "spaeri-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#001489",
+    "foreground": "#bf965b"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 400
+}

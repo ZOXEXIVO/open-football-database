@@ -1,0 +1,27 @@
+{
+  "id": 2000509143,
+  "first_name": "Ali",
+  "last_name": "Ouattara",
+  "birth_date": "2007-01-29",
+  "country_id": 21,
+  "club_id": 2588,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2025, "c": 2588, "p": 0 }
+  ]
+}

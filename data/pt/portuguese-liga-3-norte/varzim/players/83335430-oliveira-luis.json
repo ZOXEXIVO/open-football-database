@@ -1,0 +1,41 @@
+{
+  "id": 83335430,
+  "first_name": "Luís",
+  "last_name": "Oliveira",
+  "birth_date": "2001-09-13",
+  "country_id": 788,
+  "club_id": 2394,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 105,
+  "contract": {
+    "salary": 19084,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 2403, "p": 0 },
+    { "s": 2018, "c": 2403, "p": 0 },
+    { "s": 2019, "c": 2403, "p": 0 },
+    { "s": 2020, "c": 725011, "p": 1 },
+    { "s": 2020, "c": 2000043415, "p": 7, "g": 4 },
+    { "s": 2021, "c": 725011, "p": 17 },
+    { "s": 2022, "c": 725011, "p": 19 },
+    { "s": 2023, "c": 725011, "p": 28 },
+    { "s": 2024, "c": 2395, "p": 27, "g": 2 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 137912,
+  "name": "Stade Nyonnais",
+  "location": {
+    "city_id": 5970
+  },
+  "finance": {
+    "balance": 161290
+  },
+  "teams": [
+    {
+      "id": 137912,
+      "name": "Stade Nyonnais",
+      "slug": "stade-nyonnais",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 97800015,
+      "name": "Stade Nyonnais",
+      "slug": "stade-nyonnais-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 97800016,
+      "name": "Stade Nyonnais",
+      "slug": "stade-nyonnais-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2150
+}

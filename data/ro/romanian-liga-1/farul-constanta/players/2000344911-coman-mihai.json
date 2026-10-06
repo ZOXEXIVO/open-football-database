@@ -1,0 +1,28 @@
+{
+  "id": 2000344911,
+  "first_name": "Mihai",
+  "last_name": "Coman",
+  "birth_date": "2007-11-06",
+  "country_id": 790,
+  "club_id": 2000104441,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 54,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 57071961, "p": 15 }
+  ]
+}

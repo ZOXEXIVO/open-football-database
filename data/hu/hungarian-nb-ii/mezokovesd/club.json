@@ -1,0 +1,57 @@
+{
+  "id": 38004842,
+  "name": "Mezőkövesd",
+  "location": {
+    "city_id": 5763
+  },
+  "finance": {
+    "balance": 382270
+  },
+  "teams": [
+    {
+      "id": 38004842,
+      "name": "Mezőkövesd",
+      "slug": "mezokovesd",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 96200003,
+      "name": "Mezőkövesd",
+      "slug": "mezokovesd-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 96200004,
+      "name": "Mezőkövesd",
+      "slug": "mezokovesd-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#ffe252"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 1650
+}

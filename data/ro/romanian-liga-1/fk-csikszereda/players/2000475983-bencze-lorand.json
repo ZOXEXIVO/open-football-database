@@ -1,0 +1,29 @@
+{
+  "id": 2000475983,
+  "first_name": "Lóránd",
+  "last_name": "Bencze",
+  "birth_date": "2009-07-04",
+  "country_id": 790,
+  "club_id": 57110301,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

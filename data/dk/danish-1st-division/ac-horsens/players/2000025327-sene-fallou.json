@@ -1,0 +1,34 @@
+{
+  "id": 2000025327,
+  "first_name": "Fallou",
+  "last_name": "Sene",
+  "birth_date": "2004-08-21",
+  "country_id": 41,
+  "club_id": 481,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 91,
+  "potential_ability": 110,
+  "contract": {
+    "salary": 58136,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 1129, "p": 0 },
+    { "s": 2021, "c": 1129, "p": 0 },
+    { "s": 2022, "c": 1129, "p": 0 },
+    { "s": 2023, "c": 1129, "p": 0 },
+    { "s": 2024, "c": 2199, "p": 4 },
+    { "s": 2024, "c": 2205, "p": 12, "g": 1 }
+  ]
+}

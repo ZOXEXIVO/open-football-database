@@ -1,0 +1,34 @@
+{
+  "id": 2000009753,
+  "first_name": "Carlos",
+  "last_name": "Balsa",
+  "birth_date": "2000-05-06",
+  "country_id": 6,
+  "club_id": 2395,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 119,
+  "contract": {
+    "salary": 12324,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 5380038, "p": 15 },
+    { "s": 2021, "c": 5380038, "p": 24, "g": 1 },
+    { "s": 2022, "c": 5380038, "p": 21 },
+    { "s": 2023, "c": 2478, "p": 11, "g": 2 },
+    { "s": 2023, "c": 55038928, "p": 10, "g": 1 },
+    { "s": 2024, "c": 55038928, "p": 25, "g": 4 }
+  ]
+}

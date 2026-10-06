@@ -1,0 +1,57 @@
+{
+  "id": 120924,
+  "name": "Coquimbo Unido",
+  "location": {
+    "city_id": 6072
+  },
+  "finance": {
+    "balance": 440690
+  },
+  "teams": [
+    {
+      "id": 120924,
+      "name": "Coquimbo Unido",
+      "slug": "coquimbo-unido",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    },
+    {
+      "id": 90300035,
+      "name": "Coquimbo Unido",
+      "slug": "coquimbo-unido-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1530,
+        "national": 1530,
+        "world": 1530
+      }
+    },
+    {
+      "id": 90300036,
+      "name": "Coquimbo Unido",
+      "slug": "coquimbo-unido-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 3200
+}

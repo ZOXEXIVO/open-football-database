@@ -1,0 +1,29 @@
+{
+  "id": 2000196552,
+  "first_name": "Gergő",
+  "last_name": "Szabó",
+  "birth_date": "2004-10-12",
+  "country_id": 773,
+  "club_id": 38037178,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 51,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 38004838, "p": 2 },
+    { "s": 2023, "c": 38037178, "p": 0 }
+  ]
+}

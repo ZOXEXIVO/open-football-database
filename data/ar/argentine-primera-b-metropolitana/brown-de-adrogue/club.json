@@ -1,0 +1,57 @@
+{
+  "id": 3101502,
+  "name": "Brown de Adrogué",
+  "location": {
+    "city_id": 6114
+  },
+  "finance": {
+    "balance": 33020
+  },
+  "teams": [
+    {
+      "id": 3101502,
+      "name": "Brown de Adrogué",
+      "slug": "brown-de-adrogue",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 98700001,
+      "name": "Brown de Adrogué",
+      "slug": "brown-de-adrogue-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1470,
+        "national": 1470,
+        "world": 1470
+      }
+    },
+    {
+      "id": 98700002,
+      "name": "Brown de Adrogué",
+      "slug": "brown-de-adrogue-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 980,
+        "national": 980,
+        "world": 980
+      }
+    }
+  ],
+  "colors": {
+    "background": "#86bbf0",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Below Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1900
+}

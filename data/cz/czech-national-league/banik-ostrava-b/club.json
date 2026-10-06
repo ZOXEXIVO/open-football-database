@@ -1,0 +1,39 @@
+{
+  "id": 136178,
+  "name": "Banik Ostrava B",
+  "parent_club": {
+    "id": 1300301,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 2603
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 136178,
+      "name": "Banik Ostrava B",
+      "slug": "banik-ostrava-b",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3200,
+        "national": 3200,
+        "world": 3200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Superb",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 470
+}

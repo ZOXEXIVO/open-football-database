@@ -1,0 +1,57 @@
+{
+  "id": 1641,
+  "name": "Triglav Kranj",
+  "location": {
+    "city_id": 6027
+  },
+  "finance": {
+    "balance": 298450
+  },
+  "teams": [
+    {
+      "id": 1641,
+      "name": "Triglav Kranj",
+      "slug": "triglav-kranj",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 98200001,
+      "name": "Triglav Kranj",
+      "slug": "triglav-kranj-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 98200002,
+      "name": "Triglav Kranj",
+      "slug": "triglav-kranj-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#9e2530",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 390
+}

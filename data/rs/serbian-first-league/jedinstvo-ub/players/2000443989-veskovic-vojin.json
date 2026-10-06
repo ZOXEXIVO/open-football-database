@@ -1,0 +1,29 @@
+{
+  "id": 2000443989,
+  "first_name": "Vojin",
+  "last_name": "Vesković",
+  "birth_date": "2007-04-29",
+  "country_id": 802,
+  "club_id": 5743000,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2023, "c": 5747642, "p": 0 },
+    { "s": 2024, "c": 5743000, "p": 2 },
+    { "s": 2024, "c": 5747642, "p": 0 }
+  ]
+}

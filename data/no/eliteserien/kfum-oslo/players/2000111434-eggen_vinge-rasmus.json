@@ -1,0 +1,49 @@
+{
+  "id": 2000111434,
+  "first_name": "Rasmus",
+  "last_name": "Eggen Vinge",
+  "birth_date": "2001-01-28",
+  "country_id": 786,
+  "club_id": 800118,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 103,
+  "potential_ability": 118,
+  "contract": {
+    "salary": 33852,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 801051, "p": 0 },
+    { "s": 2019, "c": 801051, "p": 2 },
+    { "s": 2020, "c": 801051, "p": 0 },
+    { "s": 2021, "c": 801051, "p": 12, "g": 4 },
+    { "s": 2022, "c": 1332, "p": 23, "g": 4 },
+    { "s": 2023, "c": 1332, "p": 12, "g": 3 },
+    { "s": 2023, "c": 1396, "p": 13, "g": 1 },
+    { "s": 2024, "c": 1396, "p": 29, "g": 4 },
+    { "s": 2025, "c": 1396, "p": 25, "g": 5 }
+  ]
+}

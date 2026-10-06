@@ -1,0 +1,57 @@
+{
+  "id": 1300879,
+  "name": "Polonia Warszawa",
+  "location": {
+    "city_id": 5788
+  },
+  "finance": {
+    "balance": 744220
+  },
+  "teams": [
+    {
+      "id": 1300879,
+      "name": "Polonia Warszawa",
+      "slug": "polonia-warszawa",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3800,
+        "national": 3800,
+        "world": 3800
+      }
+    },
+    {
+      "id": 96300013,
+      "name": "Polonia Warszawa",
+      "slug": "polonia-warszawa-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    },
+    {
+      "id": 96300014,
+      "name": "Polonia Warszawa",
+      "slug": "polonia-warszawa-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 760,
+        "national": 760,
+        "world": 760
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2400
+}

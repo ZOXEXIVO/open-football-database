@@ -1,0 +1,28 @@
+{
+  "id": 2000056340,
+  "first_name": "Gregor",
+  "last_name": "Lehtmets",
+  "birth_date": "2004-01-15",
+  "country_id": 766,
+  "club_id": 47081043,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2025, "c": 47081043, "p": 2 },
+    { "s": 2025, "c": 47081060, "p": 17, "g": 6 }
+  ]
+}

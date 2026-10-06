@@ -1,0 +1,32 @@
+{
+  "id": 2000470040,
+  "first_name": "Mattéo",
+  "last_name": "Djoumgoué",
+  "birth_date": "2007-04-02",
+  "country_id": 798,
+  "club_id": 137904,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2024, "c": 98005081, "p": 15, "g": 3 },
+    { "s": 2025, "c": 137910, "p": 9, "g": 3 }
+  ]
+}

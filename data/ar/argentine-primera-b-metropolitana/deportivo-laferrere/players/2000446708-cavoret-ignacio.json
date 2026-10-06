@@ -1,0 +1,36 @@
+{
+  "id": 2000446708,
+  "first_name": "Ignacio",
+  "last_name": "Cavoret",
+  "birth_date": "1999-10-09",
+  "country_id": 1649,
+  "club_id": 952704,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 87,
+  "potential_ability": 90,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 3101500, "p": 16 }
+  ]
+}

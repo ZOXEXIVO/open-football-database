@@ -1,0 +1,26 @@
+{
+  "id": 2000230346,
+  "first_name": "Javier",
+  "last_name": "Araya",
+  "birth_date": "2006-01-28",
+  "country_id": 1652,
+  "club_id": 130788,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2022, "c": 130788, "p": 2 },
+    { "s": 2023, "c": 130788, "p": 4 },
+    { "s": 2024, "c": 130788, "p": 11 },
+    { "s": 2025, "c": 130788, "p": 22, "g": 1 }
+  ]
+}

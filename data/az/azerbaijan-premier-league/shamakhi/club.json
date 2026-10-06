@@ -1,0 +1,57 @@
+{
+  "id": 2000172513,
+  "name": "Shamakhi",
+  "location": {
+    "city_id": 5890
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 2000172513,
+      "name": "Shamakhi",
+      "slug": "shamakhi",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 93500027,
+      "name": "Shamakhi",
+      "slug": "shamakhi-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 93500028,
+      "name": "Shamakhi",
+      "slug": "shamakhi-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#7411a6",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 700
+}

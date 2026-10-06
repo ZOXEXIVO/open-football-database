@@ -1,0 +1,29 @@
+{
+  "id": 2000414151,
+  "first_name": "Ionuţ",
+  "last_name": "Creţa",
+  "birth_date": "2007-02-10",
+  "country_id": 790,
+  "club_id": 2000117848,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2000117848, "p": 4 },
+    { "s": 2025, "c": 57175106, "p": 11 }
+  ]
+}

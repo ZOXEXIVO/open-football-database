@@ -1,0 +1,57 @@
+{
+  "id": 26005456,
+  "name": "Spartakos Kitiou",
+  "location": {
+    "city_id": 5883
+  },
+  "finance": {
+    "balance": 109220
+  },
+  "teams": [
+    {
+      "id": 26005456,
+      "name": "Spartakos Kitiou",
+      "slug": "spartakos-kitiou",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 97000019,
+      "name": "Spartakos Kitiou",
+      "slug": "spartakos-kitiou-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 97000020,
+      "name": "Spartakos Kitiou",
+      "slug": "spartakos-kitiou-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 190
+}

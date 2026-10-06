@@ -1,0 +1,33 @@
+{
+  "id": 2000331245,
+  "first_name": "Odilon",
+  "last_name": "Kouassi",
+  "birth_date": "2005-10-13",
+  "country_id": 24,
+  "club_id": 481,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 481, "p": 6 },
+    { "s": 2024, "c": 481, "p": 1, "g": 1 }
+  ]
+}

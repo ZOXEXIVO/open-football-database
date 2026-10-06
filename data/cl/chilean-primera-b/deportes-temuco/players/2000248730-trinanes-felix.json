@@ -1,0 +1,32 @@
+{
+  "id": 2000248730,
+  "first_name": "Félix",
+  "last_name": "Triñanes",
+  "birth_date": "2004-05-03",
+  "country_id": 1649,
+  "club_id": 104363,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 80,
+  "potential_ability": 110,
+  "history": [
+    { "s": 2024, "c": 104363, "p": 0 },
+    { "s": 2025, "c": 130795, "p": 14, "g": 2 }
+  ]
+}

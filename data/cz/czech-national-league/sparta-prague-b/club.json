@@ -1,0 +1,39 @@
+{
+  "id": 136174,
+  "name": "Sparta Prague B",
+  "parent_club": {
+    "id": 476,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 2600
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 136174,
+      "name": "Sparta Prague B",
+      "slug": "sparta-prague-b",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#9e2530",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Excellent",
+    "academy": "Excellent",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 800
+}

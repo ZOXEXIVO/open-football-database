@@ -1,0 +1,28 @@
+{
+  "id": 2000465772,
+  "first_name": "Ridwan",
+  "last_name": "Popoola",
+  "birth_date": "2006-11-14",
+  "country_id": 38,
+  "club_id": 38013478,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -65,
+  "history": [
+    { "s": 2025, "c": 38013478, "p": 7 },
+    { "s": 2025, "c": 38069430, "p": 5 }
+  ]
+}

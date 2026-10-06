@@ -1,0 +1,38 @@
+{
+  "id": 83261125,
+  "first_name": "David",
+  "last_name": "Vinhas",
+  "birth_date": "2003-03-28",
+  "country_id": 788,
+  "club_id": 2471,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": 110,
+  "contract": {
+    "salary": 14560,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 1478, "p": 0 },
+    { "s": 2018, "c": 1478, "p": 0 },
+    { "s": 2019, "c": 1478, "p": 0 },
+    { "s": 2020, "c": 1478, "p": 0 },
+    { "s": 2021, "c": 1478, "p": 0 },
+    { "s": 2022, "c": 55000308, "p": 2 },
+    { "s": 2023, "c": 2405, "p": 26, "g": 1 },
+    { "s": 2024, "c": 2463, "p": 10 },
+    { "s": 2024, "c": 55000308, "p": 0 },
+    { "s": 2025, "c": 55000308, "p": 0 }
+  ]
+}

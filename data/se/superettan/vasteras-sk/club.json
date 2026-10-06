@@ -1,0 +1,57 @@
+{
+  "id": 1839,
+  "name": "Västerås SK",
+  "location": {
+    "city_id": 5979
+  },
+  "finance": {
+    "balance": 5080000
+  },
+  "teams": [
+    {
+      "id": 1839,
+      "name": "Västerås SK",
+      "slug": "vasteras-sk",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 97900001,
+      "name": "Västerås SK",
+      "slug": "vasteras-sk-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 97900002,
+      "name": "Västerås SK",
+      "slug": "vasteras-sk-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#4c8e3f",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 4150
+}

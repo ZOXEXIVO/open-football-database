@@ -1,0 +1,34 @@
+{
+  "id": 2000242583,
+  "first_name": "Tobias",
+  "last_name": "Gjesdahl",
+  "birth_date": "2006-02-05",
+  "country_id": 786,
+  "club_id": 1378,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1307, "p": 1 },
+    { "s": 2022, "c": 53161410, "p": 6 },
+    { "s": 2023, "c": 1307, "p": 7 },
+    { "s": 2023, "c": 53161410, "p": 10, "g": 1 },
+    { "s": 2024, "c": 1307, "p": 23, "g": 2 },
+    { "s": 2024, "c": 53161410, "p": 6, "g": 4 },
+    { "s": 2025, "c": 53072646, "p": 1 }
+  ]
+}

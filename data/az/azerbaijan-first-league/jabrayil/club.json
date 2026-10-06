@@ -1,0 +1,57 @@
+{
+  "id": 2000264629,
+  "name": "Jabrayil",
+  "location": {
+    "city_id": 5897
+  },
+  "finance": {
+    "balance": 292100
+  },
+  "teams": [
+    {
+      "id": 2000264629,
+      "name": "Jabrayil",
+      "slug": "jabrayil",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2300,
+        "national": 2300,
+        "world": 2300
+      }
+    },
+    {
+      "id": 97100009,
+      "name": "Jabrayil",
+      "slug": "jabrayil-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 690,
+        "national": 690,
+        "world": 690
+      }
+    },
+    {
+      "id": 97100010,
+      "name": "Jabrayil",
+      "slug": "jabrayil-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 460,
+        "national": 460,
+        "world": 460
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#dbb148"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 100
+}

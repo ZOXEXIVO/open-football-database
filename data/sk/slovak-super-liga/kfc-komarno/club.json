@@ -1,0 +1,57 @@
+{
+  "id": 63032360,
+  "name": "KFC Komárno",
+  "location": {
+    "city_id": 5991
+  },
+  "finance": {
+    "balance": 546100
+  },
+  "teams": [
+    {
+      "id": 63032360,
+      "name": "KFC Komárno",
+      "slug": "kfc-komarno",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 91300027,
+      "name": "KFC Komárno",
+      "slug": "kfc-komarno-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 91300028,
+      "name": "KFC Komárno",
+      "slug": "kfc-komarno-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#8e27c2",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1100
+}

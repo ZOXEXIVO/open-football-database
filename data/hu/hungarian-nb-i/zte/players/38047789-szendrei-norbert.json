@@ -1,0 +1,43 @@
+{
+  "id": 38047789,
+  "first_name": "Norbert",
+  "last_name": "Szendrei",
+  "birth_date": "2000-03-27",
+  "country_id": 773,
+  "club_id": 1068,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 103,
+  "potential_ability": 126,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 12, "u21_goals": 1},
+  "history": [
+    { "s": 2017, "c": 1059, "p": 1 },
+    { "s": 2018, "c": 1059, "p": 6 },
+    { "s": 2018, "c": 38013513, "p": 13, "g": 1 },
+    { "s": 2019, "c": 1059, "p": 8, "g": 1 },
+    { "s": 2019, "c": 38013513, "p": 16 },
+    { "s": 2020, "c": 1059, "p": 26, "g": 2 },
+    { "s": 2021, "c": 1062, "p": 17 },
+    { "s": 2021, "c": 38013525, "p": 1 },
+    { "s": 2022, "c": 1068, "p": 24 },
+    { "s": 2023, "c": 1068, "p": 28, "g": 1 },
+    { "s": 2024, "c": 1068, "p": 28 }
+  ]
+}

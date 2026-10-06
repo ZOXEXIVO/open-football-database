@@ -1,0 +1,57 @@
+{
+  "id": 104359,
+  "name": "Cobreloa",
+  "location": {
+    "city_id": 6077
+  },
+  "finance": {
+    "balance": 297180
+  },
+  "teams": [
+    {
+      "id": 104359,
+      "name": "Cobreloa",
+      "slug": "cobreloa",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 98500003,
+      "name": "Cobreloa",
+      "slug": "cobreloa-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 98500004,
+      "name": "Cobreloa",
+      "slug": "cobreloa-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f27641",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2250
+}

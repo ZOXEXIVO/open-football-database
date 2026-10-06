@@ -1,0 +1,42 @@
+{
+  "id": 2000119209,
+  "first_name": "Nassim",
+  "last_name": "Zoukit",
+  "birth_date": "2001-04-30",
+  "country_id": 798,
+  "club_id": 1848,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 114,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1856, "p": 3 },
+    { "s": 2021, "c": 106371, "p": 17 },
+    { "s": 2021, "c": 5723700, "p": 3, "g": 1 },
+    { "s": 2022, "c": 1856, "p": 11 },
+    { "s": 2022, "c": 5723700, "p": 5, "g": 1 },
+    { "s": 2023, "c": 106371, "p": 28, "g": 9 },
+    { "s": 2024, "c": 106371, "p": 34, "g": 1 }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2000391363,
+  "first_name": "Sebastian",
+  "last_name": "Savini",
+  "birth_date": "2006-11-23",
+  "country_id": 768,
+  "club_id": 129170,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 514181, "p": 3 },
+    { "s": 2022, "c": 518938, "p": 0 },
+    { "s": 2023, "c": 33080047, "p": 12 },
+    { "s": 2024, "c": 129132, "p": 7 },
+    { "s": 2025, "c": 129185, "p": 6 },
+    { "s": 2025, "c": 33064668, "p": 1 },
+    { "s": 2025, "c": 2000266290, "p": 8 }
+  ]
+}

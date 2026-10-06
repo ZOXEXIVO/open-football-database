@@ -1,0 +1,29 @@
+{
+  "id": 2000391566,
+  "first_name": "Vladimir",
+  "last_name": "Badea",
+  "birth_date": "2007-01-08",
+  "country_id": 790,
+  "club_id": 57151160,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 57151160, "p": 0 },
+    { "s": 2024, "c": 2000298580, "p": 17, "g": 1 }
+  ]
+}

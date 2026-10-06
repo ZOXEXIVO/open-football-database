@@ -1,0 +1,44 @@
+{
+  "id": 59115358,
+  "first_name": "Ömər",
+  "last_name": "Buludov",
+  "birth_date": "1998-12-15",
+  "country_id": 756,
+  "club_id": 59008221,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 110,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 1, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2015, "c": 167, "p": 0 },
+    { "s": 2016, "c": 167, "p": 0 },
+    { "s": 2017, "c": 167, "p": 3 },
+    { "s": 2018, "c": 167, "p": 22, "g": 1 },
+    { "s": 2018, "c": 59006990, "p": 1 },
+    { "s": 2019, "c": 167, "p": 13, "g": 1 },
+    { "s": 2020, "c": 167, "p": 23, "g": 1 },
+    { "s": 2021, "c": 167, "p": 17 },
+    { "s": 2021, "c": 59006990, "p": 2 },
+    { "s": 2022, "c": 167, "p": 30, "g": 2 },
+    { "s": 2023, "c": 167, "p": 2 },
+    { "s": 2024, "c": 59008221, "p": 22, "g": 1 }
+  ]
+}

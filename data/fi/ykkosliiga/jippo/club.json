@@ -1,0 +1,57 @@
+{
+  "id": 129190,
+  "name": "JIPPO",
+  "location": {
+    "city_id": 5845
+  },
+  "finance": {
+    "balance": 469900
+  },
+  "teams": [
+    {
+      "id": 129190,
+      "name": "JIPPO",
+      "slug": "jippo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3700,
+        "national": 3700,
+        "world": 3700
+      }
+    },
+    {
+      "id": 96700009,
+      "name": "JIPPO",
+      "slug": "jippo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1110,
+        "national": 1110,
+        "world": 1110
+      }
+    },
+    {
+      "id": 96700010,
+      "name": "JIPPO",
+      "slug": "jippo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 740,
+        "national": 740,
+        "world": 740
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 750
+}

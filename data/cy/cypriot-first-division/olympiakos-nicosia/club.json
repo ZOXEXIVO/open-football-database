@@ -1,0 +1,57 @@
+{
+  "id": 458,
+  "name": "Olympiakos Nicosia",
+  "location": {
+    "city_id": 5870
+  },
+  "finance": {
+    "balance": 299720
+  },
+  "teams": [
+    {
+      "id": 458,
+      "name": "Olympiakos Nicosia",
+      "slug": "olympiakos-nicosia",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 93600029,
+      "name": "Olympiakos Nicosia",
+      "slug": "olympiakos-nicosia-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1470,
+        "national": 1470,
+        "world": 1470
+      }
+    },
+    {
+      "id": 93600030,
+      "name": "Olympiakos Nicosia",
+      "slug": "olympiakos-nicosia-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 980,
+        "national": 980,
+        "world": 980
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c8c57",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 930
+}

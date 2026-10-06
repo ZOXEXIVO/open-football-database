@@ -1,0 +1,38 @@
+{
+  "id": 2000395973,
+  "first_name": "Jahari",
+  "last_name": "Lawrence",
+  "birth_date": "2002-02-08",
+  "country_id": 364,
+  "club_id": 11025585,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 59,
+  "potential_ability": 79,
+  "history": [
+    { "s": 2018, "c": 20035094, "p": 2, "g": 1 },
+    { "s": 2021, "c": 981817, "p": 11, "g": 2 },
+    { "s": 2021, "c": 20049343, "p": 6 },
+    { "s": 2024, "c": 149295, "p": 3 }
+  ]
+}

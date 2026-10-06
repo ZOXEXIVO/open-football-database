@@ -1,0 +1,41 @@
+{
+  "id": 2000059827,
+  "first_name": "Karlo",
+  "last_name": "Lusavec",
+  "birth_date": "2003-10-30",
+  "country_id": 761,
+  "club_id": 481,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 120,
+  "contract": {
+    "salary": 76180,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 2, "u21_goals": 0},
+  "history": [
+    { "s": 2019, "c": 447, "p": 0 },
+    { "s": 2020, "c": 447, "p": 2 },
+    { "s": 2021, "c": 447, "p": 25 },
+    { "s": 2022, "c": 447, "p": 4 },
+    { "s": 2022, "c": 661027, "p": 14 },
+    { "s": 2023, "c": 447, "p": 20 },
+    { "s": 2024, "c": 447, "p": 4 },
+    { "s": 2024, "c": 481, "p": 23 }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000288377,
+  "first_name": "Dimitris",
+  "last_name": "Stylianidis",
+  "birth_date": "2004-03-03",
+  "country_id": 762,
+  "club_id": 26005456,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 149275, "p": 0 },
+    { "s": 2018, "c": 448, "p": 0 },
+    { "s": 2019, "c": 448, "p": 0 },
+    { "s": 2020, "c": 448, "p": 0 },
+    { "s": 2021, "c": 448, "p": 0 },
+    { "s": 2022, "c": 448, "p": 0 },
+    { "s": 2023, "c": 149278, "p": 8 },
+    { "s": 2024, "c": 461, "p": 1 }
+  ]
+}

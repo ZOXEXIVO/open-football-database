@@ -1,0 +1,43 @@
+{
+  "id": 22077511,
+  "first_name": "Hristian",
+  "last_name": "Foti",
+  "birth_date": "2001-10-16",
+  "country_id": 762,
+  "club_id": 149279,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 92,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 460, "p": 3 },
+    { "s": 2018, "c": 460, "p": 0 },
+    { "s": 2019, "c": 26031742, "p": 15 },
+    { "s": 2020, "c": 26031742, "p": 28, "g": 2 },
+    { "s": 2021, "c": 458, "p": 3 },
+    { "s": 2022, "c": 2000106823, "p": 21 },
+    { "s": 2023, "c": 459, "p": 25 },
+    { "s": 2024, "c": 459, "p": 4 }
+  ]
+}

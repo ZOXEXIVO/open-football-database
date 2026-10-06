@@ -1,0 +1,39 @@
+{
+  "id": 229,
+  "enabled": false,
+  "slug": "georgian-lower-leagues",
+  "name": "Lower Leagues",
+  "reputation": 1000,
+  "tier": 3,
+  "promotion_spots": 0,
+  "relegation_spots": 0,
+  "sub_leagues_competitions": ["U18"],
+  "settings": {
+    "season_starting_half": {
+      "from_day": 1,
+      "from_month": 3,
+      "to_day": 30,
+      "to_month": 6
+    },
+    "season_ending_half": {
+      "from_day": 15,
+      "from_month": 7,
+      "to_day": 30,
+      "to_month": 11
+    }
+  },
+  "foreign_players": [
+    {
+      "country_id": 791,
+      "weight": 3
+    },
+    {
+      "country_id": 776,
+      "weight": 2
+    },
+    {
+      "country_id": 799,
+      "weight": 1
+    }
+  ]
+}

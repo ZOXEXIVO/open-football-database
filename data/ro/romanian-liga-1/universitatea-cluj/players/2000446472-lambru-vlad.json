@@ -1,0 +1,28 @@
+{
+  "id": 2000446472,
+  "first_name": "Vlad",
+  "last_name": "Lambru",
+  "birth_date": "2007-04-07",
+  "country_id": 790,
+  "club_id": 1515,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 58,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 57172393, "p": 12, "g": 1 }
+  ]
+}

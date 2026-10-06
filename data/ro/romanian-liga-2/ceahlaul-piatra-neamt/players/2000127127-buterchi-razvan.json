@@ -1,0 +1,41 @@
+{
+  "id": 2000127127,
+  "first_name": "Răzvan",
+  "last_name": "Buţerchi",
+  "birth_date": "2002-02-14",
+  "country_id": 790,
+  "club_id": 57151105,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 63,
+  "potential_ability": 77,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 57107722, "p": 10 },
+    { "s": 2022, "c": 57107722, "p": 13, "g": 1 },
+    { "s": 2022, "c": 57189775, "p": 12 },
+    { "s": 2023, "c": 57189775, "p": 19 },
+    { "s": 2024, "c": 57190748, "p": 6, "g": 1 },
+    { "s": 2024, "c": 2000286704, "p": 4 }
+  ]
+}

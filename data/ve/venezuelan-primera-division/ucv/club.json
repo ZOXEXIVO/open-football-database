@@ -1,0 +1,57 @@
+{
+  "id": 8825687,
+  "name": "UCV",
+  "location": {
+    "city_id": 6089
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 8825687,
+      "name": "UCV",
+      "slug": "ucv",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 89900037,
+      "name": "UCV",
+      "slug": "ucv-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 89900038,
+      "name": "UCV",
+      "slug": "ucv-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#324ed9",
+    "foreground": "#ffd642"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2600
+}

@@ -1,0 +1,57 @@
+{
+  "id": 472,
+  "name": "Hradec Králové",
+  "location": {
+    "city_id": 5744
+  },
+  "finance": {
+    "balance": 5080000
+  },
+  "teams": [
+    {
+      "id": 472,
+      "name": "Hradec Králové",
+      "slug": "hradec-kralove",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5500,
+        "national": 5500,
+        "world": 5500
+      }
+    },
+    {
+      "id": 89700033,
+      "name": "Hradec Králové",
+      "slug": "hradec-kralove-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1650,
+        "national": 1650,
+        "world": 1650
+      }
+    },
+    {
+      "id": 89700034,
+      "name": "Hradec Králové",
+      "slug": "hradec-kralove-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Great",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 3750
+}

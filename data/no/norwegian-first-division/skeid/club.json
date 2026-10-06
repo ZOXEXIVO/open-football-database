@@ -1,0 +1,57 @@
+{
+  "id": 1387,
+  "name": "Skeid",
+  "location": {
+    "city_id": 6069
+  },
+  "finance": {
+    "balance": 3810000
+  },
+  "teams": [
+    {
+      "id": 1387,
+      "name": "Skeid",
+      "slug": "skeid",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 98400017,
+      "name": "Skeid",
+      "slug": "skeid-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 98400018,
+      "name": "Skeid",
+      "slug": "skeid-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Good"
+  },
+  "average_attendance": 1100
+}

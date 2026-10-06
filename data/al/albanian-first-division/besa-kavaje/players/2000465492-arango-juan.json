@@ -1,0 +1,28 @@
+{
+  "id": 2000465492,
+  "first_name": "Juan",
+  "last_name": "Arango",
+  "birth_date": "1998-07-01",
+  "country_id": 1653,
+  "club_id": 59,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 73,
+  "potential_ability": 74,
+  "history": [
+    { "s": 2024, "c": 8351384, "p": 18, "g": 3 },
+    { "s": 2025, "c": 8351384, "p": 17, "g": 2 }
+  ]
+}

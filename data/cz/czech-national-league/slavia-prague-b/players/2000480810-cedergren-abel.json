@@ -1,0 +1,35 @@
+{
+  "id": 2000480810,
+  "first_name": "Abel",
+  "last_name": "Cedergren",
+  "birth_date": "2009-06-26",
+  "country_id": 786,
+  "club_id": 136207,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": -75,
+  "contract": {
+    "salary": 220480,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 109103, "p": 12, "g": 10 },
+    { "s": 2025, "c": 1396, "p": 4 },
+    { "s": 2025, "c": 109103, "p": 11, "g": 7 }
+  ]
+}

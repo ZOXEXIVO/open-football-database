@@ -1,0 +1,34 @@
+{
+  "id": 2000110463,
+  "first_name": "Máximo",
+  "last_name": "Blanco",
+  "birth_date": "2003-05-04",
+  "country_id": 1649,
+  "club_id": 952708,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 83,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 86, "p": 0 },
+    { "s": 2024, "c": 3101500, "p": 21 },
+    { "s": 2025, "c": 3101500, "p": 12 }
+  ]
+}

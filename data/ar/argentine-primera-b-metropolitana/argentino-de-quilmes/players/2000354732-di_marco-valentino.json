@@ -1,0 +1,40 @@
+{
+  "id": 2000354732,
+  "first_name": "Valentino",
+  "last_name": "Di Marco",
+  "birth_date": "2004-08-24",
+  "country_id": 1649,
+  "club_id": 3101496,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 111,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 3101496, "p": 14, "g": 3 }
+  ]
+}

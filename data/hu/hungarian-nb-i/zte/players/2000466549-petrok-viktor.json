@@ -1,0 +1,29 @@
+{
+  "id": 2000466549,
+  "first_name": "Viktor",
+  "last_name": "Petrók",
+  "birth_date": "2008-03-27",
+  "country_id": 773,
+  "club_id": 1068,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2024, "c": 1059, "p": 2 },
+    { "s": 2024, "c": 38013513, "p": 4 },
+    { "s": 2025, "c": 38013513, "p": 16, "g": 2 }
+  ]
+}

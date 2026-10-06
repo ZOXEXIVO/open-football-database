@@ -1,0 +1,57 @@
+{
+  "id": 2000255137,
+  "name": "Marítimo de La Guaira",
+  "location": {
+    "city_id": 6093
+  },
+  "finance": {
+    "balance": 508000
+  },
+  "teams": [
+    {
+      "id": 2000255137,
+      "name": "Marítimo de La Guaira",
+      "slug": "maritimo-de-la-guaira",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 98600001,
+      "name": "Marítimo de La Guaira",
+      "slug": "maritimo-de-la-guaira-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 98600002,
+      "name": "Marítimo de La Guaira",
+      "slug": "maritimo-de-la-guaira-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#53b853",
+    "foreground": "#d42424"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 960
+}

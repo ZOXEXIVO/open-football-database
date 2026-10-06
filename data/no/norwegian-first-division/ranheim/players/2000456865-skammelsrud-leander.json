@@ -1,0 +1,32 @@
+{
+  "id": 2000456865,
+  "first_name": "Leander",
+  "last_name": "Skammelsrud",
+  "birth_date": "2008-10-26",
+  "country_id": 786,
+  "club_id": 1300612,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2024, "c": 1300612, "p": 0 },
+    { "s": 2025, "c": 53088693, "p": 18, "g": 2 }
+  ]
+}

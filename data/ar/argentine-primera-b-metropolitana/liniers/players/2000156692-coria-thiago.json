@@ -1,0 +1,29 @@
+{
+  "id": 2000156692,
+  "first_name": "Thiago",
+  "last_name": "Coria",
+  "birth_date": "2005-09-14",
+  "country_id": 1649,
+  "club_id": 952716,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

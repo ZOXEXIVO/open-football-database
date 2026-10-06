@@ -1,0 +1,46 @@
+{
+  "id": 2000026266,
+  "first_name": "Vincent",
+  "last_name": "Poppler",
+  "birth_date": "2001-09-01",
+  "country_id": 797,
+  "club_id": 1831,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 91,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 16068,
+    "expiration": "2027-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 93033057, "p": 0 },
+    { "s": 2018, "c": 2575, "p": 0 },
+    { "s": 2019, "c": 2575, "p": 0 },
+    { "s": 2020, "c": 2575, "p": 4, "g": 1 },
+    { "s": 2021, "c": 2575, "p": 26, "g": 11 },
+    { "s": 2022, "c": 2575, "p": 17, "g": 9 },
+    { "s": 2023, "c": 2627, "p": 20, "g": 10 },
+    { "s": 2024, "c": 68017475, "p": 17, "g": 8 },
+    { "s": 2025, "c": 1808, "p": 12, "g": 2 },
+    { "s": 2025, "c": 1844, "p": 1 }
+  ]
+}

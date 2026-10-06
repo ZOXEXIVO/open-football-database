@@ -1,0 +1,57 @@
+{
+  "id": 130127,
+  "name": "Stal Rzeszów",
+  "location": {
+    "city_id": 5790
+  },
+  "finance": {
+    "balance": 911860
+  },
+  "teams": [
+    {
+      "id": 130127,
+      "name": "Stal Rzeszów",
+      "slug": "stal-rzeszow",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 96300017,
+      "name": "Stal Rzeszów",
+      "slug": "stal-rzeszow-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 96300018,
+      "name": "Stal Rzeszów",
+      "slug": "stal-rzeszow-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Adequate",
+    "recruitment": "Good"
+  },
+  "average_attendance": 1700
+}

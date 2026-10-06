@@ -1,0 +1,33 @@
+{
+  "id": 2000495048,
+  "first_name": "Szymon",
+  "last_name": "Serwiński",
+  "birth_date": "2007-09-04",
+  "country_id": 787,
+  "club_id": 130127,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

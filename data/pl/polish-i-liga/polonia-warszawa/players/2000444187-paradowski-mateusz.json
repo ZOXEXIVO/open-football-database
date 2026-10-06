@@ -1,0 +1,27 @@
+{
+  "id": 2000444187,
+  "first_name": "Mateusz",
+  "last_name": "Paradowski",
+  "birth_date": "2005-06-28",
+  "country_id": 787,
+  "club_id": 1300879,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2024, "c": 1300879, "p": 0 }
+  ]
+}

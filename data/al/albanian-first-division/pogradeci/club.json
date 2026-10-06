@@ -1,0 +1,35 @@
+{
+  "id": 8351387,
+  "name": "Pogradeci",
+  "location": {
+    "city_id": 5939
+  },
+  "finance": {
+    "balance": 355600
+  },
+  "teams": [
+    {
+      "id": 8351387,
+      "name": "Pogradeci",
+      "slug": "pogradeci",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#ffd900"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 600
+}

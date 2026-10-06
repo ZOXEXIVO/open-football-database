@@ -1,0 +1,57 @@
+{
+  "id": 736258,
+  "name": "Mafra",
+  "location": {
+    "city_id": 5952
+  },
+  "finance": {
+    "balance": 715010
+  },
+  "teams": [
+    {
+      "id": 736258,
+      "name": "Mafra",
+      "slug": "mafra",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 97700005,
+      "name": "Mafra",
+      "slug": "mafra-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 97700006,
+      "name": "Mafra",
+      "slug": "mafra-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd900",
+    "foreground": "#009932"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1000
+}

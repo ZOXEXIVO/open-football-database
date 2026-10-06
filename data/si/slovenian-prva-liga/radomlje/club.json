@@ -1,0 +1,57 @@
+{
+  "id": 7581525,
+  "name": "Radomlje",
+  "location": {
+    "city_id": 6025
+  },
+  "finance": {
+    "balance": 897890
+  },
+  "teams": [
+    {
+      "id": 7581525,
+      "name": "Radomlje",
+      "slug": "radomlje",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 91400027,
+      "name": "Radomlje",
+      "slug": "radomlje-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 91400028,
+      "name": "Radomlje",
+      "slug": "radomlje-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 560
+}

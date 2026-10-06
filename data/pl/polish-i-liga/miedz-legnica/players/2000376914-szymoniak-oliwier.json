@@ -1,0 +1,42 @@
+{
+  "id": 2000376914,
+  "first_name": "Oliwier",
+  "last_name": "Szymoniak",
+  "birth_date": "2006-12-15",
+  "country_id": 787,
+  "club_id": 710017,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 96089671, "p": 0 },
+    { "s": 2024, "c": 710017, "p": 9 },
+    { "s": 2024, "c": 96089671, "p": 19, "g": 3 }
+  ]
+}

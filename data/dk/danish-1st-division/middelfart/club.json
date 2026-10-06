@@ -1,0 +1,57 @@
+{
+  "id": 930248,
+  "name": "Middelfart",
+  "location": {
+    "city_id": 5859
+  },
+  "finance": {
+    "balance": 508000
+  },
+  "teams": [
+    {
+      "id": 930248,
+      "name": "Middelfart",
+      "slug": "middelfart",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 96800017,
+      "name": "Middelfart",
+      "slug": "middelfart-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 96800018,
+      "name": "Middelfart",
+      "slug": "middelfart-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3d7bb8",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Below Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1100
+}

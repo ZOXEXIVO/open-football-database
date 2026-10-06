@@ -1,0 +1,44 @@
+{
+  "id": 2000109833,
+  "first_name": "Luca",
+  "last_name": "Hassler",
+  "birth_date": "2003-12-13",
+  "country_id": 755,
+  "club_id": 137958,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 100,
+  "potential_ability": 123,
+  "contract": {
+    "salary": 11232,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 16066884, "p": 7, "g": 3 },
+    { "s": 2021, "c": 137958, "p": 9 },
+    { "s": 2021, "c": 5608968, "p": 10, "g": 4 },
+    { "s": 2022, "c": 137958, "p": 14, "g": 2 },
+    { "s": 2022, "c": 5608968, "p": 6, "g": 7 },
+    { "s": 2023, "c": 137958, "p": 16, "g": 1 },
+    { "s": 2023, "c": 5608968, "p": 7, "g": 1 },
+    { "s": 2024, "c": 137958, "p": 19, "g": 3 }
+  ]
+}

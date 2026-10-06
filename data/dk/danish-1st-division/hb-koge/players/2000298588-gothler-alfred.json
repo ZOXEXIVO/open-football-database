@@ -1,0 +1,31 @@
+{
+  "id": 2000298588,
+  "first_name": "Alfred",
+  "last_name": "Gøthler",
+  "birth_date": "2007-06-24",
+  "country_id": 764,
+  "club_id": 27035536,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 85,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 2112, "p": 0 },
+    { "s": 2022, "c": 27035536, "p": 0 },
+    { "s": 2023, "c": 27035536, "p": 2 },
+    { "s": 2024, "c": 27035536, "p": 17, "g": 1 }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000099088,
+  "first_name": "Həzrət",
+  "last_name": "İsayev",
+  "birth_date": "2002-01-21",
+  "country_id": 756,
+  "club_id": 2000193940,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 90,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 59136626, "p": 11 },
+    { "s": 2021, "c": 59136626, "p": 16, "g": 1 }
+  ]
+}

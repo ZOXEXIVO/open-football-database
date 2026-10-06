@@ -1,0 +1,56 @@
+{
+  "id": 27134396,
+  "first_name": "Mohamad",
+  "last_name": "Al-Naser",
+  "birth_date": "1997-03-23",
+  "country_id": 117,
+  "club_id": 27035536,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 87,
+  "potential_ability": 97,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 1, "goals": 0, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2014, "c": 507, "p": 0 },
+    { "s": 2015, "c": 507, "p": 0 },
+    { "s": 2016, "c": 2139, "p": 21, "g": 4 },
+    { "s": 2017, "c": 2139, "p": 6, "g": 1 },
+    { "s": 2018, "c": 2139, "p": 22, "g": 8 },
+    { "s": 2019, "c": 2139, "p": 19, "g": 1 },
+    { "s": 2020, "c": 512, "p": 12, "g": 5 },
+    { "s": 2020, "c": 2139, "p": 13, "g": 3 },
+    { "s": 2021, "c": 524, "p": 29, "g": 5 },
+    { "s": 2022, "c": 524, "p": 14, "g": 3 },
+    { "s": 2022, "c": 1032765, "p": 7, "g": 2 },
+    { "s": 2024, "c": 27035536, "p": 22, "g": 4 }
+  ]
+}

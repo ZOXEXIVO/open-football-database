@@ -1,0 +1,33 @@
+{
+  "id": 2000305007,
+  "first_name": "Sebastian",
+  "last_name": "Koziej",
+  "birth_date": "2007-01-13",
+  "country_id": 787,
+  "club_id": 714221,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 96023666, "p": 15, "g": 1 },
+    { "s": 2025, "c": 96030338, "p": 18, "g": 1 }
+  ]
+}

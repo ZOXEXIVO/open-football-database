@@ -1,0 +1,26 @@
+{
+  "id": 2000334353,
+  "first_name": "Matías",
+  "last_name": "Rodríguez",
+  "birth_date": "2003-03-17",
+  "country_id": 1649,
+  "club_id": 3101496,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 80,
+  "potential_ability": 102,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 2000052081, "p": 1 },
+    { "s": 2024, "c": 3101496, "p": 0 },
+    { "s": 2025, "c": 3101496, "p": 2 }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2000487839,
+  "first_name": "Fredrik",
+  "last_name": "Lislegaard",
+  "birth_date": "2009-06-02",
+  "country_id": 786,
+  "club_id": 1378,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 58,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2024, "c": 53021327, "p": 0 },
+    { "s": 2025, "c": 53021327, "p": 0 },
+    { "s": 2025, "c": 53072646, "p": 1 }
+  ]
+}

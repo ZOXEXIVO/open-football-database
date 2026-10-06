@@ -1,0 +1,24 @@
+{
+  "id": 2000401480,
+  "first_name": "Diego",
+  "last_name": "Claut",
+  "birth_date": "2008-01-03",
+  "country_id": 1658,
+  "club_id": 2000255139,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -65,
+  "history": [
+    { "s": 2024, "c": 2000255139, "p": 2, "g": 1 },
+    { "s": 2025, "c": 2000255139, "p": 5, "g": 3 }
+  ]
+}

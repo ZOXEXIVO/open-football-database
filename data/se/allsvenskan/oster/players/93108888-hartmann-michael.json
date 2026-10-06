@@ -1,0 +1,37 @@
+{
+  "id": 93108888,
+  "first_name": "Michael",
+  "last_name": "Hartmann",
+  "birth_date": "1994-06-13",
+  "country_id": 390,
+  "club_id": 1844,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 73,
+  "potential_ability": 88,
+  "contract": {
+    "salary": 32188,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 2613, "p": 24 },
+    { "s": 2018, "c": 2613, "p": 25 },
+    { "s": 2019, "c": 2613, "p": 27 },
+    { "s": 2020, "c": 817, "p": 10 },
+    { "s": 2021, "c": 4300744, "p": 25 },
+    { "s": 2022, "c": 4300744, "p": 29 },
+    { "s": 2023, "c": 4300744, "p": 21 },
+    { "s": 2024, "c": 4300744, "p": 0 },
+    { "s": 2025, "c": 4300744, "p": 12 }
+  ]
+}

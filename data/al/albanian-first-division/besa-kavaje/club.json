@@ -1,0 +1,35 @@
+{
+  "id": 59,
+  "name": "Besa Kavajë",
+  "location": {
+    "city_id": 5938
+  },
+  "finance": {
+    "balance": 368300
+  },
+  "teams": [
+    {
+      "id": 59,
+      "name": "Besa Kavajë",
+      "slug": "besa-kavaje",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2900,
+        "national": 2900,
+        "world": 2900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd900",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 670
+}

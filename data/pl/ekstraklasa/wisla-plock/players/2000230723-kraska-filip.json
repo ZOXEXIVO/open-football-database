@@ -1,0 +1,29 @@
+{
+  "id": 2000230723,
+  "first_name": "Filip",
+  "last_name": "Kraska",
+  "birth_date": "2005-10-08",
+  "country_id": 787,
+  "club_id": 1458,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 73,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2000341789, "p": 26 },
+    { "s": 2025, "c": 2000341789, "p": 9 }
+  ]
+}

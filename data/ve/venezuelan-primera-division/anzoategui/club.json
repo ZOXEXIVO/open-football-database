@@ -1,0 +1,57 @@
+{
+  "id": 2000343888,
+  "name": "Anzoátegui",
+  "location": {
+    "city_id": 6090
+  },
+  "finance": {
+    "balance": 546100
+  },
+  "teams": [
+    {
+      "id": 2000343888,
+      "name": "Anzoátegui",
+      "slug": "anzoategui",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 89900039,
+      "name": "Anzoátegui",
+      "slug": "anzoategui-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 89900040,
+      "name": "Anzoátegui",
+      "slug": "anzoategui-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#444444",
+    "foreground": "#86bbf0"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2600
+}

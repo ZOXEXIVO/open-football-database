@@ -1,0 +1,57 @@
+{
+  "id": 5744631,
+  "name": "Voždovac",
+  "location": {
+    "city_id": 6042
+  },
+  "finance": {
+    "balance": 410210
+  },
+  "teams": [
+    {
+      "id": 5744631,
+      "name": "Voždovac",
+      "slug": "vozdovac",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 98300007,
+      "name": "Voždovac",
+      "slug": "vozdovac-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 98300008,
+      "name": "Voždovac",
+      "slug": "vozdovac-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 370
+}

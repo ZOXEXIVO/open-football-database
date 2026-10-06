@@ -1,0 +1,37 @@
+{
+  "id": 2000195430,
+  "first_name": "Enriko",
+  "last_name": "Kajari",
+  "birth_date": "2006-07-21",
+  "country_id": 766,
+  "club_id": 2000085394,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 45,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 750, "p": 10, "g": 1 },
+    { "s": 2022, "c": 47081040, "p": 3 },
+    { "s": 2024, "c": 7681958, "p": 14 },
+    { "s": 2025, "c": 7681958, "p": 9 },
+    { "s": 2025, "c": 31000544, "p": 9, "g": 1 },
+    { "s": 2025, "c": 2000085394, "p": 6 }
+  ]
+}

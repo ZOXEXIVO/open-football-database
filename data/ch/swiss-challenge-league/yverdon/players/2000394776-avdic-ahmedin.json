@@ -1,0 +1,33 @@
+{
+  "id": 2000394776,
+  "first_name": "Ahmedin",
+  "last_name": "Avdić",
+  "birth_date": "2004-06-01",
+  "country_id": 798,
+  "club_id": 105898,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": 107,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 105898, "p": 4 },
+    { "s": 2025, "c": 137912, "p": 0 }
+  ]
+}

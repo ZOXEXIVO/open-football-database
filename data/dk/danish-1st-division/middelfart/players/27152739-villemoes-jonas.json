@@ -1,0 +1,41 @@
+{
+  "id": 27152739,
+  "first_name": "Jonas",
+  "last_name": "Villemoes",
+  "birth_date": "1996-03-05",
+  "country_id": 764,
+  "club_id": 930248,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 86,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 2128, "p": 25, "g": 18 },
+    { "s": 2020, "c": 930248, "p": 24, "g": 6 },
+    { "s": 2021, "c": 930248, "p": 32 },
+    { "s": 2022, "c": 930248, "p": 25, "g": 3 },
+    { "s": 2023, "c": 930248, "p": 31, "g": 5 },
+    { "s": 2024, "c": 930248, "p": 27, "g": 2 }
+  ]
+}

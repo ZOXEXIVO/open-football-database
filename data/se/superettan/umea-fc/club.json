@@ -1,0 +1,57 @@
+{
+  "id": 1833,
+  "name": "Umeå FC",
+  "location": {
+    "city_id": 5989
+  },
+  "finance": {
+    "balance": 121920
+  },
+  "teams": [
+    {
+      "id": 1833,
+      "name": "Umeå FC",
+      "slug": "umea-fc",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3400,
+        "national": 3400,
+        "world": 3400
+      }
+    },
+    {
+      "id": 97900021,
+      "name": "Umeå FC",
+      "slug": "umea-fc-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    },
+    {
+      "id": 97900022,
+      "name": "Umeå FC",
+      "slug": "umea-fc-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 680,
+        "national": 680,
+        "world": 680
+      }
+    }
+  ],
+  "colors": {
+    "background": "#324ed9",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1200
+}

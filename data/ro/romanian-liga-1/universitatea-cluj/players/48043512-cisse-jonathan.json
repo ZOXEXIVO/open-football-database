@@ -1,0 +1,37 @@
+{
+  "id": 48043512,
+  "first_name": "Jonathan",
+  "last_name": "Cissé",
+  "birth_date": "1997-05-18",
+  "country_id": 24,
+  "club_id": 1515,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 120,
+  "contract": {
+    "salary": 121316,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 826, "p": 0 },
+    { "s": 2017, "c": 826, "p": 0 },
+    { "s": 2018, "c": 826, "p": 0 },
+    { "s": 2019, "c": 42074476, "p": 11 },
+    { "s": 2020, "c": 42074476, "p": 31, "g": 2 },
+    { "s": 2021, "c": 42074476, "p": 33, "g": 1 },
+    { "s": 2022, "c": 42074476, "p": 30, "g": 3 },
+    { "s": 2023, "c": 57152989, "p": 27, "g": 2 },
+    { "s": 2024, "c": 57152989, "p": 28, "g": 1 }
+  ]
+}

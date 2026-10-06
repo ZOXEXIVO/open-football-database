@@ -1,0 +1,27 @@
+{
+  "id": 2000442599,
+  "first_name": "Mateusz",
+  "last_name": "Kozłowski",
+  "birth_date": "2005-04-06",
+  "country_id": 787,
+  "club_id": 129580,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -4,
+  "history": [
+    { "s": 2024, "c": 129580, "p": 0 }
+  ]
+}

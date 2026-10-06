@@ -1,0 +1,31 @@
+{
+  "id": 2000438268,
+  "first_name": "Mariusz",
+  "last_name": "Kurasiński",
+  "birth_date": "1999-09-24",
+  "country_id": 787,
+  "club_id": 722115,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 63,
+  "potential_ability": 80,
+  "history": [
+    { "s": 2024, "c": 2000008356, "p": 25, "g": 4 }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000320804,
+  "first_name": "Jakub",
+  "last_name": "Dočkal",
+  "birth_date": "2002-05-31",
+  "country_id": 763,
+  "club_id": 136281,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 85,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 136281, "p": 0 },
+    { "s": 2020, "c": 136281, "p": 1 },
+    { "s": 2021, "c": 136281, "p": 9, "g": 1 },
+    { "s": 2022, "c": 136281, "p": 17, "g": 3 },
+    { "s": 2023, "c": 136281, "p": 29, "g": 5 },
+    { "s": 2024, "c": 136281, "p": 29, "g": 8 }
+  ]
+}

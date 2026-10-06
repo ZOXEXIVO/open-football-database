@@ -1,0 +1,31 @@
+{
+  "id": 2000249698,
+  "first_name": "Eeli",
+  "last_name": "Kinnunen",
+  "birth_date": "2005-03-11",
+  "country_id": 768,
+  "club_id": 129190,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 129190, "p": 0 },
+    { "s": 2024, "c": 2000436032, "p": 9, "g": 1 },
+    { "s": 2025, "c": 129190, "p": 1 },
+    { "s": 2025, "c": 2000436032, "p": 12, "g": 4 }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2000214035,
+  "first_name": "Mario",
+  "last_name": "Salka",
+  "birth_date": "2007-08-20",
+  "country_id": 790,
+  "club_id": 57113687,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 6344,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 57115741, "p": 7 },
+    { "s": 2023, "c": 57048456, "p": 25, "g": 2 },
+    { "s": 2024, "c": 57048456, "p": 13, "g": 1 },
+    { "s": 2024, "c": 2000117848, "p": 2 }
+  ]
+}

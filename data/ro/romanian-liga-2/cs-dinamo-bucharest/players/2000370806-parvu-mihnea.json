@@ -1,0 +1,30 @@
+{
+  "id": 2000370806,
+  "first_name": "Mihnea",
+  "last_name": "Pârvu",
+  "birth_date": "2007-10-12",
+  "country_id": 790,
+  "club_id": 2000121091,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 10,
+  "potential_ability": -3,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 57071690, "p": 1 },
+    { "s": 2024, "c": 2000121091, "p": 1 },
+    { "s": 2024, "c": 2000127978, "p": 0 }
+  ]
+}

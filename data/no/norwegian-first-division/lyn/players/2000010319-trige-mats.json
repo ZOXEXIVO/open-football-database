@@ -1,0 +1,37 @@
+{
+  "id": 2000010319,
+  "first_name": "Mats",
+  "last_name": "Trige",
+  "birth_date": "2002-07-21",
+  "country_id": 786,
+  "club_id": 1344,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 15,
+    "right": 100
+  },
+  "current_ability": 77,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 22568,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 103278, "p": 3 },
+    { "s": 2020, "c": 1410, "p": 0 },
+    { "s": 2021, "c": 103278, "p": 12 },
+    { "s": 2022, "c": 1291, "p": 26 },
+    { "s": 2023, "c": 1291, "p": 19 },
+    { "s": 2023, "c": 1387, "p": 0 },
+    { "s": 2024, "c": 1291, "p": 24 },
+    { "s": 2025, "c": 1409, "p": 6 },
+    { "s": 2025, "c": 103278, "p": 4 }
+  ]
+}

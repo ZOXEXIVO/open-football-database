@@ -1,0 +1,31 @@
+{
+  "id": 2000096401,
+  "first_name": "Lucas",
+  "last_name": "Albornoz",
+  "birth_date": "2005-02-26",
+  "country_id": 1649,
+  "club_id": 952693,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2020, "c": 94, "p": 0 },
+    { "s": 2021, "c": 94, "p": 0 },
+    { "s": 2022, "c": 14018428, "p": 0 },
+    { "s": 2024, "c": 952693, "p": 0 },
+    { "s": 2025, "c": 952693, "p": 0 }
+  ]
+}

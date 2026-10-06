@@ -1,0 +1,37 @@
+{
+  "id": 2000519308,
+  "first_name": "Alexander",
+  "last_name": "Erdogan",
+  "birth_date": "2009-07-06",
+  "country_id": 797,
+  "club_id": 2157,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2024, "c": 1816, "p": 0 },
+    { "s": 2024, "c": 2157, "p": 0 },
+    { "s": 2025, "c": 2157, "p": 0 }
+  ]
+}

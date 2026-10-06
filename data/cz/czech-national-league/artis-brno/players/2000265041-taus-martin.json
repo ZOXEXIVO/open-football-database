@@ -1,0 +1,33 @@
+{
+  "id": 2000265041,
+  "first_name": "Martin",
+  "last_name": "Tauš",
+  "birth_date": "2006-03-26",
+  "country_id": 763,
+  "club_id": 5652987,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 465, "p": 0 },
+    { "s": 2022, "c": 5652987, "p": 1 },
+    { "s": 2022, "c": 25061545, "p": 1 },
+    { "s": 2023, "c": 5652987, "p": 23, "g": 2 },
+    { "s": 2024, "c": 5652987, "p": 7 },
+    { "s": 2024, "c": 25016569, "p": 16, "g": 1 }
+  ]
+}

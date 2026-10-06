@@ -1,0 +1,34 @@
+{
+  "id": 14226745,
+  "first_name": "Nicolás",
+  "last_name": "Bardagi",
+  "birth_date": "1999-10-04",
+  "country_id": 1649,
+  "club_id": 952693,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 97,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 952727, "p": 0 },
+    { "s": 2019, "c": 952727, "p": 0 },
+    { "s": 2020, "c": 952727, "p": 3 },
+    { "s": 2022, "c": 952693, "p": 0 },
+    { "s": 2023, "c": 952693, "p": 0 },
+    { "s": 2024, "c": 952693, "p": 0 },
+    { "s": 2025, "c": 952693, "p": 7 }
+  ]
+}

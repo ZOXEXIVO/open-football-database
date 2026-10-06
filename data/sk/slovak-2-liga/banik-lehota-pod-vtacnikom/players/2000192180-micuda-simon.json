@@ -1,0 +1,40 @@
+{
+  "id": 2000192180,
+  "first_name": "Šimon",
+  "last_name": "Mičuda",
+  "birth_date": "2004-01-28",
+  "country_id": 794,
+  "club_id": 2000467935,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 115,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 130872, "p": 0 },
+    { "s": 2021, "c": 130872, "p": 0 },
+    { "s": 2022, "c": 130872, "p": 18 },
+    { "s": 2023, "c": 1615, "p": 2 },
+    { "s": 2023, "c": 138174, "p": 13 },
+    { "s": 2024, "c": 465, "p": 9 },
+    { "s": 2024, "c": 130872, "p": 0 },
+    { "s": 2024, "c": 136179, "p": 2 },
+    { "s": 2025, "c": 63000893, "p": 4 }
+  ]
+}

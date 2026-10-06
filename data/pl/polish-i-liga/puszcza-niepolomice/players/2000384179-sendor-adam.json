@@ -1,0 +1,29 @@
+{
+  "id": 2000384179,
+  "first_name": "Adam",
+  "last_name": "Sendor",
+  "birth_date": "2006-11-21",
+  "country_id": 787,
+  "club_id": 96012813,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 59,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2024, "c": 96012813, "p": 0 },
+    { "s": 2024, "c": 96132910, "p": 16, "g": 4 },
+    { "s": 2025, "c": 96012813, "p": 0 }
+  ]
+}

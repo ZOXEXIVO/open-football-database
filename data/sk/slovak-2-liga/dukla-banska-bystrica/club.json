@@ -1,0 +1,57 @@
+{
+  "id": 1615,
+  "name": "Dukla Banská Bystrica",
+  "location": {
+    "city_id": 5993
+  },
+  "finance": {
+    "balance": 546100
+  },
+  "teams": [
+    {
+      "id": 1615,
+      "name": "Dukla Banská Bystrica",
+      "slug": "dukla-banska-bystrica",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 98100001,
+      "name": "Dukla Banská Bystrica",
+      "slug": "dukla-banska-bystrica-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 98100002,
+      "name": "Dukla Banská Bystrica",
+      "slug": "dukla-banska-bystrica-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 1100
+}

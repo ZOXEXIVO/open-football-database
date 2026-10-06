@@ -1,0 +1,57 @@
+{
+  "id": 7581081,
+  "name": "Bistrica",
+  "location": {
+    "city_id": 6031
+  },
+  "finance": {
+    "balance": 153670
+  },
+  "teams": [
+    {
+      "id": 7581081,
+      "name": "Bistrica",
+      "slug": "bistrica",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    },
+    {
+      "id": 98200009,
+      "name": "Bistrica",
+      "slug": "bistrica-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    },
+    {
+      "id": 98200010,
+      "name": "Bistrica",
+      "slug": "bistrica-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 220
+}

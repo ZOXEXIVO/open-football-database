@@ -1,0 +1,57 @@
+{
+  "id": 5754056,
+  "name": "Tekstilac Odžaci",
+  "location": {
+    "city_id": 6045
+  },
+  "finance": {
+    "balance": 330200
+  },
+  "teams": [
+    {
+      "id": 5754056,
+      "name": "Tekstilac Odžaci",
+      "slug": "tekstilac-odzaci",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    },
+    {
+      "id": 98300013,
+      "name": "Tekstilac Odžaci",
+      "slug": "tekstilac-odzaci-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    },
+    {
+      "id": 98300014,
+      "name": "Tekstilac Odžaci",
+      "slug": "tekstilac-odzaci-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#26488b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 210
+}

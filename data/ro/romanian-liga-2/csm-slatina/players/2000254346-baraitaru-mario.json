@@ -1,0 +1,34 @@
+{
+  "id": 2000254346,
+  "first_name": "Mario",
+  "last_name": "Bărăitaru",
+  "birth_date": "2006-12-08",
+  "country_id": 790,
+  "club_id": 57055056,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 57071690, "p": 6, "g": 1 },
+    { "s": 2023, "c": 2000029705, "p": 23, "g": 1 },
+    { "s": 2024, "c": 57055056, "p": 26 }
+  ]
+}

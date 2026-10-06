@@ -1,0 +1,39 @@
+{
+  "id": 59006214,
+  "name": "Shirak-2",
+  "parent_club": {
+    "id": 103,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 2106
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 59006214,
+      "name": "Shirak-2",
+      "slug": "shirak-2",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2200,
+        "national": 2200,
+        "world": 2200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ed8b00",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 100
+}

@@ -1,0 +1,57 @@
+{
+  "id": 950231,
+  "name": "Deportivo Merlo",
+  "location": {
+    "city_id": 6124
+  },
+  "finance": {
+    "balance": 546100
+  },
+  "teams": [
+    {
+      "id": 950231,
+      "name": "Deportivo Merlo",
+      "slug": "deportivo-merlo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 98700021,
+      "name": "Deportivo Merlo",
+      "slug": "deportivo-merlo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 98700022,
+      "name": "Deportivo Merlo",
+      "slug": "deportivo-merlo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Fairly Basic",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1050
+}

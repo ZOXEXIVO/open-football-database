@@ -1,0 +1,39 @@
+{
+  "id": 14245528,
+  "first_name": "Lucas",
+  "last_name": "Giménez",
+  "birth_date": "1999-02-22",
+  "country_id": 1649,
+  "club_id": 3101508,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 101,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 92, "p": 1 },
+    { "s": 2020, "c": 92, "p": 0 },
+    { "s": 2021, "c": 92, "p": 0 },
+    { "s": 2022, "c": 92, "p": 1 },
+    { "s": 2022, "c": 952702, "p": 6 },
+    { "s": 2023, "c": 14031205, "p": 1 },
+    { "s": 2024, "c": 952697, "p": 30, "g": 1 },
+    { "s": 2025, "c": 951312, "p": 5 }
+  ]
+}

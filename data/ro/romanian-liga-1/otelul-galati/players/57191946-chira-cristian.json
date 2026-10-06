@@ -1,0 +1,40 @@
+{
+  "id": 57191946,
+  "first_name": "Cristian",
+  "last_name": "Chira",
+  "birth_date": "2001-11-08",
+  "country_id": 790,
+  "club_id": 57152989,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 110,
+  "contract": {
+    "salary": 26936,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 57142084, "p": 3, "g": 2 },
+    { "s": 2018, "c": 57022261, "p": 7 },
+    { "s": 2019, "c": 57022261, "p": 3 },
+    { "s": 2020, "c": 7542454, "p": 13, "g": 2 },
+    { "s": 2021, "c": 7542454, "p": 22 },
+    { "s": 2022, "c": 7542454, "p": 25, "g": 2 },
+    { "s": 2023, "c": 7542454, "p": 24, "g": 3 },
+    { "s": 2024, "c": 57152989, "p": 4 }
+  ]
+}

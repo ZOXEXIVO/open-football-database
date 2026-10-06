@@ -1,0 +1,57 @@
+{
+  "id": 25001307,
+  "name": "Vlašim",
+  "location": {
+    "city_id": 5753
+  },
+  "finance": {
+    "balance": 548640
+  },
+  "teams": [
+    {
+      "id": 25001307,
+      "name": "Vlašim",
+      "slug": "vlasim",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 95900013,
+      "name": "Vlašim",
+      "slug": "vlasim-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 95900014,
+      "name": "Vlašim",
+      "slug": "vlasim-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 960
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000435643,
+  "name": "Luftëtari",
+  "location": {
+    "city_id": 5941
+  },
+  "finance": {
+    "balance": 619760
+  },
+  "teams": [
+    {
+      "id": 2000435643,
+      "name": "Luftëtari",
+      "slug": "luftetari",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1600,
+        "national": 1600,
+        "world": 1600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#324ed9",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Poor",
+    "youth": "Poor",
+    "academy": "Poor",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 150
+}

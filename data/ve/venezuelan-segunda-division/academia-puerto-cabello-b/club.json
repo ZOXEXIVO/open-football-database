@@ -1,0 +1,39 @@
+{
+  "id": 2000455065,
+  "name": "Academia Puerto Cabello B",
+  "parent_club": {
+    "id": 86047464,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 6087
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 2000455065,
+      "name": "Academia Puerto Cabello B",
+      "slug": "academia-puerto-cabello-b",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1800,
+        "national": 1800,
+        "world": 1800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3d7bb8",
+    "foreground": "#f19128"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 180
+}

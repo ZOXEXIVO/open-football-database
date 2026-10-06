@@ -1,0 +1,57 @@
+{
+  "id": 63000897,
+  "name": "Stará Ľubovňa",
+  "location": {
+    "city_id": 6019
+  },
+  "finance": {
+    "balance": 355600
+  },
+  "teams": [
+    {
+      "id": 63000897,
+      "name": "Stará Ľubovňa",
+      "slug": "stara-lubovna",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    },
+    {
+      "id": 98100021,
+      "name": "Stará Ľubovňa",
+      "slug": "stara-lubovna-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    },
+    {
+      "id": 98100022,
+      "name": "Stará Ľubovňa",
+      "slug": "stara-lubovna-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 560,
+        "national": 560,
+        "world": 560
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 200
+}

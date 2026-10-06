@@ -1,0 +1,34 @@
+{
+  "id": 2000033510,
+  "first_name": "Alexandru",
+  "last_name": "Anton",
+  "birth_date": "2004-03-01",
+  "country_id": 790,
+  "club_id": 57151105,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": 83,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 57151105, "p": 8 },
+    { "s": 2021, "c": 57151105, "p": 20 },
+    { "s": 2022, "c": 57086204, "p": 8 },
+    { "s": 2022, "c": 57151105, "p": 10, "g": 3 },
+    { "s": 2023, "c": 57151105, "p": 15 },
+    { "s": 2024, "c": 57050239, "p": 0 },
+    { "s": 2024, "c": 57190748, "p": 9, "g": 1 }
+  ]
+}

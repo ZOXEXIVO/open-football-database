@@ -1,0 +1,44 @@
+{
+  "id": 53179923,
+  "first_name": "Vegard",
+  "last_name": "Hagen",
+  "birth_date": "2002-05-21",
+  "country_id": 786,
+  "club_id": 1392,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 117,
+  "contract": {
+    "salary": 22568,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1326, "p": 0 },
+    { "s": 2019, "c": 53087585, "p": 23, "g": 2 },
+    { "s": 2020, "c": 53087585, "p": 0 },
+    { "s": 2021, "c": 53072646, "p": 10, "g": 3 },
+    { "s": 2022, "c": 53072646, "p": 22, "g": 1 },
+    { "s": 2023, "c": 53072646, "p": 26, "g": 7 },
+    { "s": 2024, "c": 53072646, "p": 10, "g": 1 },
+    { "s": 2025, "c": 1392, "p": 28, "g": 3 }
+  ]
+}

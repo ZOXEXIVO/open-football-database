@@ -1,0 +1,45 @@
+{
+  "id": 2000139533,
+  "first_name": "Dominik",
+  "last_name": "Biniek",
+  "birth_date": "2004-09-05",
+  "country_id": 787,
+  "club_id": 96000060,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 77,
+  "potential_ability": 100,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 612, "p": 0 },
+    { "s": 2022, "c": 612, "p": 0 },
+    { "s": 2023, "c": 612, "p": 0 },
+    { "s": 2024, "c": 612, "p": 0 },
+    { "s": 2024, "c": 96000060, "p": 14, "g": 2 },
+    { "s": 2024, "c": 2000185018, "p": 1 }
+  ]
+}

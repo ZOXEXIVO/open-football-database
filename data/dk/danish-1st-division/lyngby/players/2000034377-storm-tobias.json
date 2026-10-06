@@ -1,0 +1,40 @@
+{
+  "id": 2000034377,
+  "first_name": "Tobias",
+  "last_name": "Storm",
+  "birth_date": "2004-07-04",
+  "country_id": 764,
+  "club_id": 533,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 533, "p": 0 },
+    { "s": 2021, "c": 533, "p": 0 },
+    { "s": 2022, "c": 533, "p": 15 },
+    { "s": 2023, "c": 533, "p": 26 },
+    { "s": 2024, "c": 533, "p": 10 }
+  ]
+}

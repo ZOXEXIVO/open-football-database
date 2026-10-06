@@ -1,0 +1,28 @@
+{
+  "id": 2000442883,
+  "first_name": "Olaf",
+  "last_name": "Gohlike",
+  "birth_date": "2006-06-20",
+  "country_id": 787,
+  "club_id": 129580,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 62,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2023, "c": 96069362, "p": 9, "g": 2 },
+    { "s": 2024, "c": 129580, "p": 0 }
+  ]
+}

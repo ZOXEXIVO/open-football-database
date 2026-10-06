@@ -1,0 +1,46 @@
+{
+  "id": 19202439,
+  "first_name": "William",
+  "last_name": "Rodrigues",
+  "birth_date": "1993-09-09",
+  "country_id": 1651,
+  "club_id": 106363,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 98,
+  "contract": {
+    "salary": 62868,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2012, "c": 104776, "p": 0 },
+    { "s": 2013, "c": 93052555, "p": 6 },
+    { "s": 2014, "c": 93052555, "p": 16 },
+    { "s": 2017, "c": 106363, "p": 30, "g": 1 },
+    { "s": 2017, "c": 319164, "p": 3 },
+    { "s": 2018, "c": 106363, "p": 10, "g": 1 },
+    { "s": 2019, "c": 16036182, "p": 12, "g": 1 },
+    { "s": 2022, "c": 5604963, "p": 27 },
+    { "s": 2023, "c": 5604963, "p": 23 },
+    { "s": 2024, "c": 106363, "p": 24, "g": 1 }
+  ]
+}

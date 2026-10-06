@@ -1,0 +1,57 @@
+{
+  "id": 136281,
+  "name": "Slavia Kroměříž",
+  "location": {
+    "city_id": 5756
+  },
+  "finance": {
+    "balance": 525780
+  },
+  "teams": [
+    {
+      "id": 136281,
+      "name": "Slavia Kroměříž",
+      "slug": "slavia-kromeriz",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 95900019,
+      "name": "Slavia Kroměříž",
+      "slug": "slavia-kromeriz-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 95900020,
+      "name": "Slavia Kroměříž",
+      "slug": "slavia-kromeriz-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 380
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2000377597,
+  "first_name": "Santiago",
+  "last_name": "Arrieta",
+  "birth_date": "2006-10-25",
+  "country_id": 1649,
+  "club_id": 952751,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 102490, "p": 0 },
+    { "s": 2022, "c": 952751, "p": 0 },
+    { "s": 2023, "c": 952751, "p": 0 },
+    { "s": 2024, "c": 952751, "p": 11, "g": 1 },
+    { "s": 2025, "c": 952751, "p": 25, "g": 5 }
+  ]
+}

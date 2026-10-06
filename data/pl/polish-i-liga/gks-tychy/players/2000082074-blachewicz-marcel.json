@@ -1,0 +1,44 @@
+{
+  "id": 2000082074,
+  "first_name": "Marcel",
+  "last_name": "Błachewicz",
+  "birth_date": "2003-05-06",
+  "country_id": 787,
+  "club_id": 54003060,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 92,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 21892,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 1, "u21_goals": 0},
+  "history": [
+    { "s": 2021, "c": 1458, "p": 7 },
+    { "s": 2021, "c": 96136430, "p": 10, "g": 3 },
+    { "s": 2022, "c": 96000060, "p": 24, "g": 2 },
+    { "s": 2022, "c": 2000185018, "p": 3 },
+    { "s": 2023, "c": 54003060, "p": 26, "g": 3 },
+    { "s": 2023, "c": 2000008357, "p": 1 },
+    { "s": 2024, "c": 54003060, "p": 30, "g": 2 }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2000220389,
+  "first_name": "Stevin",
+  "last_name": "Kerge",
+  "birth_date": "2006-04-21",
+  "country_id": 766,
+  "club_id": 2000085394,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 65,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2020, "c": 129170, "p": 0 },
+    { "s": 2021, "c": 816, "p": 0 },
+    { "s": 2022, "c": 816, "p": 0 },
+    { "s": 2024, "c": 746, "p": 0 },
+    { "s": 2025, "c": 129187, "p": 8, "g": 2 },
+    { "s": 2025, "c": 2000157577, "p": 8, "g": 1 },
+    { "s": 2025, "c": 2000280487, "p": 5 }
+  ]
+}

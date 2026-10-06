@@ -1,0 +1,36 @@
+{
+  "id": 2000420764,
+  "first_name": "Eetu",
+  "last_name": "Grönlund",
+  "birth_date": "2008-08-08",
+  "country_id": 768,
+  "club_id": 8503181,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2025-11-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 8503181, "p": 2 }
+  ]
+}

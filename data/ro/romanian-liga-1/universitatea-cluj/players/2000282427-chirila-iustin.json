@@ -1,0 +1,30 @@
+{
+  "id": 2000282427,
+  "first_name": "Iustin",
+  "last_name": "Chirilă",
+  "birth_date": "2006-05-21",
+  "country_id": 790,
+  "club_id": 1515,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 1515, "p": 0 },
+    { "s": 2024, "c": 57065222, "p": 21 },
+    { "s": 2025, "c": 1515, "p": 3 }
+  ]
+}

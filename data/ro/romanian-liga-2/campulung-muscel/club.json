@@ -1,0 +1,57 @@
+{
+  "id": 2000195268,
+  "name": "Câmpulung Muscel",
+  "location": {
+    "city_id": 5827
+  },
+  "finance": {
+    "balance": 469900
+  },
+  "teams": [
+    {
+      "id": 2000195268,
+      "name": "Câmpulung Muscel",
+      "slug": "campulung-muscel",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3700,
+        "national": 3700,
+        "world": 3700
+      }
+    },
+    {
+      "id": 96400041,
+      "name": "Câmpulung Muscel",
+      "slug": "campulung-muscel-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1110,
+        "national": 1110,
+        "world": 1110
+      }
+    },
+    {
+      "id": 96400042,
+      "name": "Câmpulung Muscel",
+      "slug": "campulung-muscel-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 740,
+        "national": 740,
+        "world": 740
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#d7172f"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Limited",
+    "academy": "Fairly Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 600
+}

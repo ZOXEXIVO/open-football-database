@@ -1,0 +1,28 @@
+{
+  "id": 2000494064,
+  "first_name": "Ronny",
+  "last_name": "Salazar",
+  "birth_date": "2008-02-05",
+  "country_id": 1658,
+  "club_id": 5300361,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 55,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2024, "c": 5300361, "p": 0 },
+    { "s": 2025, "c": 5300361, "p": 23 }
+  ]
+}

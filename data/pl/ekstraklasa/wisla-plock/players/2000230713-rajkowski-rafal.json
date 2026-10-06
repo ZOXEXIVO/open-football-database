@@ -1,0 +1,31 @@
+{
+  "id": 2000230713,
+  "first_name": "Rafał",
+  "last_name": "Rajkowski",
+  "birth_date": "2006-02-23",
+  "country_id": 787,
+  "club_id": 1458,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 62,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2024, "c": 1458, "p": 0 }
+  ]
+}

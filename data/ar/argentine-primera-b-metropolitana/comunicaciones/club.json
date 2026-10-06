@@ -1,0 +1,57 @@
+{
+  "id": 952702,
+  "name": "Comunicaciones",
+  "location": {
+    "city_id": 6117
+  },
+  "finance": {
+    "balance": 584200
+  },
+  "teams": [
+    {
+      "id": 952702,
+      "name": "Comunicaciones",
+      "slug": "comunicaciones",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 98700007,
+      "name": "Comunicaciones",
+      "slug": "comunicaciones-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 98700008,
+      "name": "Comunicaciones",
+      "slug": "comunicaciones-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Below Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1500
+}

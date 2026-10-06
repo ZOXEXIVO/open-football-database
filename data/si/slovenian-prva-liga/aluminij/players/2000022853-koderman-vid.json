@@ -1,0 +1,36 @@
+{
+  "id": 2000022853,
+  "first_name": "Vid",
+  "last_name": "Koderman",
+  "birth_date": "2003-04-18",
+  "country_id": 795,
+  "club_id": 5410642,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 100,
+  "potential_ability": 114,
+  "international": {"apps": 0, "goals": 0, "u21_apps": 10, "u21_goals": 0},
+  "history": [
+    { "s": 2019, "c": 1629, "p": 0 },
+    { "s": 2020, "c": 1629, "p": 7 },
+    { "s": 2021, "c": 1629, "p": 8 },
+    { "s": 2021, "c": 138169, "p": 13, "g": 1 },
+    { "s": 2022, "c": 1629, "p": 1 },
+    { "s": 2022, "c": 1632, "p": 11 },
+    { "s": 2023, "c": 1637, "p": 1 },
+    { "s": 2023, "c": 7581525, "p": 7 },
+    { "s": 2024, "c": 5410642, "p": 25, "g": 5 }
+  ]
+}

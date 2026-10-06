@@ -1,0 +1,36 @@
+{
+  "id": 2000411273,
+  "first_name": "Ádám Bálint",
+  "last_name": "Czimer-Nyitrai",
+  "birth_date": "2005-07-02",
+  "country_id": 773,
+  "club_id": 130823,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 38013515, "p": 29, "g": 14 }
+  ]
+}

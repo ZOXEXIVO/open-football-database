@@ -1,0 +1,31 @@
+{
+  "id": 2000494743,
+  "first_name": "Mads",
+  "last_name": "Andersen",
+  "birth_date": "2009-02-20",
+  "country_id": 786,
+  "club_id": 800118,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 10,
+    "right": 100
+  },
+  "current_ability": 58,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2025, "c": 53088516, "p": 5 }
+  ]
+}

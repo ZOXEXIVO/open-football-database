@@ -1,0 +1,35 @@
+{
+  "id": 16254081,
+  "first_name": "Denizcan",
+  "last_name": "Cosgun",
+  "birth_date": "2002-02-16",
+  "country_id": 755,
+  "club_id": 16046867,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 102,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 5609646, "p": 15, "g": 5 },
+    { "s": 2020, "c": 16015584, "p": 10, "g": 6 },
+    { "s": 2021, "c": 5609646, "p": 25, "g": 9 },
+    { "s": 2022, "c": 159, "p": 11 }
+  ]
+}

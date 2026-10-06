@@ -1,0 +1,36 @@
+{
+  "id": 2000178565,
+  "first_name": "Iustin",
+  "last_name": "Enache",
+  "birth_date": "2005-08-11",
+  "country_id": 790,
+  "club_id": 57152989,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 63,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 57152989, "p": 1 },
+    { "s": 2022, "c": 57057233, "p": 28 },
+    { "s": 2023, "c": 57057233, "p": 22, "g": 1 },
+    { "s": 2024, "c": 57057233, "p": 5 },
+    { "s": 2025, "c": 2000310076, "p": 14 }
+  ]
+}

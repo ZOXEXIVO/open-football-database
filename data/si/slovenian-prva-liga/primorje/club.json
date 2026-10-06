@@ -1,0 +1,57 @@
+{
+  "id": 1636,
+  "name": "Primorje",
+  "location": {
+    "city_id": 6023
+  },
+  "finance": {
+    "balance": 1017270
+  },
+  "teams": [
+    {
+      "id": 1636,
+      "name": "Primorje",
+      "slug": "primorje",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 91400023,
+      "name": "Primorje",
+      "slug": "primorje-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 91400024,
+      "name": "Primorje",
+      "slug": "primorje-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1200
+}

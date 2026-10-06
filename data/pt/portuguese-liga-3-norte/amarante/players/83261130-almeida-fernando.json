@@ -1,0 +1,45 @@
+{
+  "id": 83261130,
+  "first_name": "Fernando",
+  "last_name": "Almeida",
+  "birth_date": "2002-07-15",
+  "country_id": 788,
+  "club_id": 109042,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 87,
+  "potential_ability": 106,
+  "contract": {
+    "salary": 13468,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1478, "p": 0 },
+    { "s": 2019, "c": 1478, "p": 0 },
+    { "s": 2020, "c": 1478, "p": 0 },
+    { "s": 2021, "c": 2406, "p": 0 },
+    { "s": 2022, "c": 2406, "p": 0 },
+    { "s": 2022, "c": 67040821, "p": 12 },
+    { "s": 2023, "c": 83111318, "p": 8 },
+    { "s": 2023, "c": 83208746, "p": 13, "g": 3 },
+    { "s": 2024, "c": 1484, "p": 25, "g": 1 }
+  ]
+}

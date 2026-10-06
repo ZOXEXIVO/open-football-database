@@ -1,0 +1,33 @@
+{
+  "id": 2000395583,
+  "first_name": "Patryk",
+  "last_name": "Pastusiak",
+  "birth_date": "2007-06-11",
+  "country_id": 787,
+  "club_id": 1454,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 96136112, "p": 24, "g": 1 },
+    { "s": 2024, "c": 96136112, "p": 23, "g": 1 }
+  ]
+}

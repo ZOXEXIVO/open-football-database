@@ -1,0 +1,57 @@
+{
+  "id": 1602234,
+  "name": "Iraklis Gerolakkou",
+  "location": {
+    "city_id": 5886
+  },
+  "finance": {
+    "balance": 177800
+  },
+  "teams": [
+    {
+      "id": 1602234,
+      "name": "Iraklis Gerolakkou",
+      "slug": "iraklis-gerolakkou",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3200,
+        "national": 3200,
+        "world": 3200
+      }
+    },
+    {
+      "id": 97000025,
+      "name": "Iraklis Gerolakkou",
+      "slug": "iraklis-gerolakkou-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    },
+    {
+      "id": 97000026,
+      "name": "Iraklis Gerolakkou",
+      "slug": "iraklis-gerolakkou-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 640,
+        "national": 640,
+        "world": 640
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#2f55b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Limited",
+    "youth": "Basic",
+    "academy": "Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 130
+}

@@ -1,0 +1,35 @@
+{
+  "id": 16283728,
+  "first_name": "Elias",
+  "last_name": "Jandrisevits",
+  "birth_date": "2003-08-01",
+  "country_id": 755,
+  "club_id": 16057026,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 90,
+  "potential_ability": 114,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 16309710, "p": 3 },
+    { "s": 2020, "c": 16325713, "p": 2, "g": 1 },
+    { "s": 2020, "c": 16325714, "p": 7 },
+    { "s": 2021, "c": 16325714, "p": 24, "g": 1 },
+    { "s": 2022, "c": 5605370, "p": 10 },
+    { "s": 2022, "c": 16309710, "p": 1 },
+    { "s": 2023, "c": 137968, "p": 21, "g": 2 },
+    { "s": 2024, "c": 137968, "p": 25, "g": 1 }
+  ]
+}

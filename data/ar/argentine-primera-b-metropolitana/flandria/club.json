@@ -1,0 +1,57 @@
+{
+  "id": 3101508,
+  "name": "Flandria",
+  "location": {
+    "city_id": 6115
+  },
+  "finance": {
+    "balance": 39370
+  },
+  "teams": [
+    {
+      "id": 3101508,
+      "name": "Flandria",
+      "slug": "flandria",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4700,
+        "national": 4700,
+        "world": 4700
+      }
+    },
+    {
+      "id": 98700003,
+      "name": "Flandria",
+      "slug": "flandria-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1410,
+        "national": 1410,
+        "world": 1410
+      }
+    },
+    {
+      "id": 98700004,
+      "name": "Flandria",
+      "slug": "flandria-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 940,
+        "national": 940,
+        "world": 940
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1650
+}

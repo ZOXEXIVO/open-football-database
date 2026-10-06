@@ -1,0 +1,28 @@
+{
+  "id": 2000472794,
+  "first_name": "Dominik",
+  "last_name": "Farkas",
+  "birth_date": "2008-09-06",
+  "country_id": 773,
+  "club_id": 1054,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 38007419, "p": 1 }
+  ]
+}

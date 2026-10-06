@@ -1,0 +1,57 @@
+{
+  "id": 2588,
+  "name": "IFK Värnamo",
+  "location": {
+    "city_id": 5978
+  },
+  "finance": {
+    "balance": 5080000
+  },
+  "teams": [
+    {
+      "id": 2588,
+      "name": "IFK Värnamo",
+      "slug": "ifk-varnamo",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 91500045,
+      "name": "IFK Värnamo",
+      "slug": "ifk-varnamo-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 91500046,
+      "name": "IFK Värnamo",
+      "slug": "ifk-varnamo-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c72de",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 4000
+}

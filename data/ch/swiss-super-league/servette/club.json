@@ -1,0 +1,57 @@
+{
+  "id": 1858,
+  "name": "Servette",
+  "location": {
+    "city_id": 5960
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 1858,
+      "name": "Servette",
+      "slug": "servette",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6100,
+        "national": 6100,
+        "world": 6100
+      }
+    },
+    {
+      "id": 93200021,
+      "name": "Servette",
+      "slug": "servette-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1830,
+        "national": 1830,
+        "world": 1830
+      }
+    },
+    {
+      "id": 93200022,
+      "name": "Servette",
+      "slug": "servette-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1220,
+        "national": 1220,
+        "world": 1220
+      }
+    }
+  ],
+  "colors": {
+    "background": "#8b2435",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Excellent",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 13450
+}

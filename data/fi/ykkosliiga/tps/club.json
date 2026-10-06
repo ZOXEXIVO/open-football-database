@@ -1,0 +1,57 @@
+{
+  "id": 822,
+  "name": "TPS",
+  "location": {
+    "city_id": 5841
+  },
+  "finance": {
+    "balance": 44450
+  },
+  "teams": [
+    {
+      "id": 822,
+      "name": "TPS",
+      "slug": "tps",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 96700001,
+      "name": "TPS",
+      "slug": "tps-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 96700002,
+      "name": "TPS",
+      "slug": "tps-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Good",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1850
+}

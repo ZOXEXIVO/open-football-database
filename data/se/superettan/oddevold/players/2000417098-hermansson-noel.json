@@ -1,0 +1,32 @@
+{
+  "id": 2000417098,
+  "first_name": "Noel",
+  "last_name": "Hermansson",
+  "birth_date": "2007-01-06",
+  "country_id": 797,
+  "club_id": 1808,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 52,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 16068,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 93089254, "p": 2 },
+    { "s": 2023, "c": 2175, "p": 0 },
+    { "s": 2024, "c": 2175, "p": 0 },
+    { "s": 2025, "c": 1808, "p": 0 }
+  ]
+}

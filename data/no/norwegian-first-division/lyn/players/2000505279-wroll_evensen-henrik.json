@@ -1,0 +1,35 @@
+{
+  "id": 2000505279,
+  "first_name": "Henrik",
+  "last_name": "Wroll-Evensen",
+  "birth_date": "2008-01-04",
+  "country_id": 786,
+  "club_id": 1344,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 18772,
+    "expiration": "2028-08-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 53017606, "p": 0 },
+    { "s": 2024, "c": 53025475, "p": 9, "g": 2 },
+    { "s": 2025, "c": 53025475, "p": 24, "g": 9 }
+  ]
+}

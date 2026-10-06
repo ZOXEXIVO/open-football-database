@@ -1,0 +1,38 @@
+{
+  "id": 2000336599,
+  "first_name": "Giorgi",
+  "last_name": "Gogsadze",
+  "birth_date": "2006-10-03",
+  "country_id": 770,
+  "club_id": 2000350943,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -65,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 59071370, "p": 0 },
+    { "s": 2025, "c": 2000350943, "p": 0 },
+    { "s": 2025, "c": 2000350959, "p": 31, "g": 2 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 137947,
+  "name": "FAC Wien",
+  "location": {
+    "city_id": 5914
+  },
+  "finance": {
+    "balance": 179070
+  },
+  "teams": [
+    {
+      "id": 137947,
+      "name": "FAC Wien",
+      "slug": "fac-wien",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5200,
+        "national": 5200,
+        "world": 5200
+      }
+    },
+    {
+      "id": 97300013,
+      "name": "FAC Wien",
+      "slug": "fac-wien-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1560,
+        "national": 1560,
+        "world": 1560
+      }
+    },
+    {
+      "id": 97300014,
+      "name": "FAC Wien",
+      "slug": "fac-wien-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1040,
+        "national": 1040,
+        "world": 1040
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 2000
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2000279690,
+  "first_name": "Patrick",
+  "last_name": "Slanina",
+  "birth_date": "2005-06-07",
+  "country_id": 763,
+  "club_id": 136174,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 69,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 476, "p": 0 }
+  ]
+}

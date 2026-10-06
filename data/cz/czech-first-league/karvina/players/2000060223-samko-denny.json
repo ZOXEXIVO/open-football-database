@@ -1,0 +1,40 @@
+{
+  "id": 2000060223,
+  "first_name": "Denny",
+  "last_name": "Samko",
+  "birth_date": "2000-07-23",
+  "country_id": 763,
+  "club_id": 1300307,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 108,
+  "contract": {
+    "salary": 21580,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 472, "p": 0 },
+    { "s": 2019, "c": 472, "p": 9, "g": 1 },
+    { "s": 2020, "c": 472, "p": 6, "g": 1 },
+    { "s": 2021, "c": 25060557, "p": 29, "g": 9 },
+    { "s": 2022, "c": 136208, "p": 28, "g": 2 },
+    { "s": 2023, "c": 136208, "p": 27, "g": 8 },
+    { "s": 2024, "c": 1300307, "p": 28, "g": 2 },
+    { "s": 2024, "c": 25016903, "p": 1 }
+  ]
+}

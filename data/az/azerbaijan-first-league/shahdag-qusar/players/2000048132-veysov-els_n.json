@@ -1,0 +1,25 @@
+{
+  "id": 2000048132,
+  "first_name": "Elşən",
+  "last_name": "Veysov",
+  "birth_date": "2000-01-01",
+  "country_id": 756,
+  "club_id": 130845,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 70,
+  "history": [
+    { "s": 2019, "c": 59008336, "p": 5 },
+    { "s": 2020, "c": 59008336, "p": 15, "g": 1 },
+    { "s": 2021, "c": 485431, "p": 21, "g": 2 }
+  ]
+}

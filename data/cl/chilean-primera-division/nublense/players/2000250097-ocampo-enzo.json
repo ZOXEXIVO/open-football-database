@@ -1,0 +1,28 @@
+{
+  "id": 2000250097,
+  "first_name": "Enzo",
+  "last_name": "Ocampo",
+  "birth_date": "2003-10-09",
+  "country_id": 1652,
+  "club_id": 130798,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2023, "c": 130798, "p": 0 },
+    { "s": 2024, "c": 130798, "p": 0 }
+  ]
+}

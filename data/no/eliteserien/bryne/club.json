@@ -1,0 +1,57 @@
+{
+  "id": 1295,
+  "name": "Bryne",
+  "location": {
+    "city_id": 6060
+  },
+  "finance": {
+    "balance": 1270000
+  },
+  "teams": [
+    {
+      "id": 1295,
+      "name": "Bryne",
+      "slug": "bryne",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5000,
+        "national": 5000,
+        "world": 5000
+      }
+    },
+    {
+      "id": 91700043,
+      "name": "Bryne",
+      "slug": "bryne-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 91700044,
+      "name": "Bryne",
+      "slug": "bryne-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2850
+}

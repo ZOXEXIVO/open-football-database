@@ -1,0 +1,30 @@
+{
+  "id": 2000428490,
+  "first_name": "Sivert",
+  "last_name": "Landstad",
+  "birth_date": "2007-02-28",
+  "country_id": 786,
+  "club_id": 1312,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 766284, "p": 6 },
+    { "s": 2024, "c": 766284, "p": 17 },
+    { "s": 2025, "c": 1312, "p": 0 }
+  ]
+}

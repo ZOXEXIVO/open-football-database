@@ -1,0 +1,57 @@
+{
+  "id": 47052802,
+  "name": "Welco",
+  "location": {
+    "city_id": 5868
+  },
+  "finance": {
+    "balance": 165100
+  },
+  "teams": [
+    {
+      "id": 47052802,
+      "name": "Welco",
+      "slug": "welco",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1300,
+        "national": 1300,
+        "world": 1300
+      }
+    },
+    {
+      "id": 96900007,
+      "name": "Welco",
+      "slug": "welco-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 390,
+        "national": 390,
+        "world": 390
+      }
+    },
+    {
+      "id": 96900008,
+      "name": "Welco",
+      "slug": "welco-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 260,
+        "national": 260,
+        "world": 260
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Limited",
+    "academy": "Fairly Basic",
+    "recruitment": "Poor"
+  },
+  "average_attendance": 100
+}

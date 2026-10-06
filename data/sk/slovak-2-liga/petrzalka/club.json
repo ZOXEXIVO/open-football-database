@@ -1,0 +1,57 @@
+{
+  "id": 1301169,
+  "name": "Petržalka",
+  "location": {
+    "city_id": 5995
+  },
+  "finance": {
+    "balance": 444500
+  },
+  "teams": [
+    {
+      "id": 1301169,
+      "name": "Petržalka",
+      "slug": "petrzalka",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 98100005,
+      "name": "Petržalka",
+      "slug": "petrzalka-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 98100006,
+      "name": "Petržalka",
+      "slug": "petrzalka-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 450
+}

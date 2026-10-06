@@ -1,0 +1,31 @@
+{
+  "id": 2000247695,
+  "first_name": "Topias",
+  "last_name": "Dementjeff",
+  "birth_date": "2005-07-23",
+  "country_id": 768,
+  "club_id": 129185,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 72,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 821, "p": 1 },
+    { "s": 2023, "c": 821, "p": 16, "g": 1 },
+    { "s": 2024, "c": 821, "p": 24, "g": 1 },
+    { "s": 2025, "c": 821, "p": 15 }
+  ]
+}

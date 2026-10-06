@@ -1,0 +1,33 @@
+{
+  "id": 2000360845,
+  "first_name": "Franco",
+  "last_name": "Romero",
+  "birth_date": "2002-01-09",
+  "country_id": 1649,
+  "club_id": 952704,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 97,
+  "potential_ability": 103,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 952716, "p": 30, "g": 3 },
+    { "s": 2025, "c": 951314, "p": 21, "g": 7 }
+  ]
+}

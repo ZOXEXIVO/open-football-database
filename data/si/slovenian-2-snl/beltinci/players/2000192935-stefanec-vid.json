@@ -1,0 +1,36 @@
+{
+  "id": 2000192935,
+  "first_name": "Vid",
+  "last_name": "Štefanec",
+  "birth_date": "2005-07-11",
+  "country_id": 795,
+  "club_id": 128656,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 93,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2020, "c": 1630, "p": 0 },
+    { "s": 2021, "c": 1630, "p": 0 },
+    { "s": 2022, "c": 1630, "p": 0 },
+    { "s": 2023, "c": 128652, "p": 1 },
+    { "s": 2024, "c": 128652, "p": 1 },
+    { "s": 2024, "c": 138169, "p": 13 }
+  ]
+}

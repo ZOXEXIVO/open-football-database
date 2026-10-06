@@ -1,0 +1,57 @@
+{
+  "id": 5743000,
+  "name": "Jedinstvo Ub",
+  "location": {
+    "city_id": 6039
+  },
+  "finance": {
+    "balance": 382270
+  },
+  "teams": [
+    {
+      "id": 5743000,
+      "name": "Jedinstvo Ub",
+      "slug": "jedinstvo-ub",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3600,
+        "national": 3600,
+        "world": 3600
+      }
+    },
+    {
+      "id": 98300001,
+      "name": "Jedinstvo Ub",
+      "slug": "jedinstvo-ub-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    },
+    {
+      "id": 98300002,
+      "name": "Jedinstvo Ub",
+      "slug": "jedinstvo-ub-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 720,
+        "national": 720,
+        "world": 720
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 420
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000436537,
+  "first_name": "Alexander",
+  "last_name": "Baraslievski",
+  "birth_date": "2005-12-13",
+  "country_id": 797,
+  "club_id": 1831,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 62,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2021, "c": 1831, "p": 0 },
+    { "s": 2022, "c": 1831, "p": 0 },
+    { "s": 2023, "c": 1831, "p": 0 },
+    { "s": 2024, "c": 1831, "p": 0 },
+    { "s": 2025, "c": 1831, "p": 2 }
+  ]
+}

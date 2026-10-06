@@ -1,0 +1,34 @@
+{
+  "id": 2000215210,
+  "first_name": "Mykyta",
+  "last_name": "Vasin",
+  "birth_date": "2006-03-01",
+  "country_id": 800,
+  "club_id": 1300879,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 81,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 1300879, "p": 8 },
+    { "s": 2023, "c": 710031, "p": 34, "g": 7 },
+    { "s": 2024, "c": 1300879, "p": 11, "g": 2 }
+  ]
+}

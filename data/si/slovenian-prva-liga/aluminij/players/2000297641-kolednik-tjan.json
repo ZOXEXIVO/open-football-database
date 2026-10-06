@@ -1,0 +1,32 @@
+{
+  "id": 2000297641,
+  "first_name": "Tjan",
+  "last_name": "Kolednik",
+  "birth_date": "2005-08-17",
+  "country_id": 795,
+  "club_id": 5410642,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2020, "c": 7580043, "p": 0 },
+    { "s": 2021, "c": 1629, "p": 0 },
+    { "s": 2021, "c": 7580043, "p": 0 },
+    { "s": 2022, "c": 1629, "p": 0 },
+    { "s": 2023, "c": 1629, "p": 0 },
+    { "s": 2024, "c": 5410642, "p": 14 }
+  ]
+}

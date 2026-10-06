@@ -1,0 +1,36 @@
+{
+  "id": 2000529008,
+  "first_name": "Luka",
+  "last_name": "Räsänen",
+  "birth_date": "2008-02-04",
+  "country_id": 768,
+  "club_id": 129190,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2027-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 510307, "p": 0 }
+  ]
+}

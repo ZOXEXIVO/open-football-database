@@ -1,0 +1,28 @@
+{
+  "id": 2000217300,
+  "first_name": "Ravil",
+  "last_name": "Qafarov",
+  "birth_date": "2005-10-04",
+  "country_id": 756,
+  "club_id": 2000172513,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 55,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2000264629, "p": 21 }
+  ]
+}

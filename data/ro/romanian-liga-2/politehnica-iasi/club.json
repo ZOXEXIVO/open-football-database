@@ -1,0 +1,57 @@
+{
+  "id": 57086204,
+  "name": "Politehnica Iași",
+  "location": {
+    "city_id": 5808
+  },
+  "finance": {
+    "balance": 213360
+  },
+  "teams": [
+    {
+      "id": 57086204,
+      "name": "Politehnica Iași",
+      "slug": "politehnica-iasi",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 96400003,
+      "name": "Politehnica Iași",
+      "slug": "politehnica-iasi-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 96400004,
+      "name": "Politehnica Iași",
+      "slug": "politehnica-iasi-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0064b0",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2100
+}

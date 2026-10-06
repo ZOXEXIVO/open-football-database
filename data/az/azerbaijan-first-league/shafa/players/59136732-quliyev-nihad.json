@@ -1,0 +1,38 @@
+{
+  "id": 59136732,
+  "first_name": "Nihad",
+  "last_name": "Quliyev",
+  "birth_date": "2001-07-19",
+  "country_id": 756,
+  "club_id": 130844,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 5, "u21_goals": 0},
+  "history": [
+    { "s": 2018, "c": 59006974, "p": 20 },
+    { "s": 2019, "c": 59006974, "p": 16 },
+    { "s": 2020, "c": 127787, "p": 0 },
+    { "s": 2020, "c": 59006974, "p": 21, "g": 2 },
+    { "s": 2021, "c": 127787, "p": 1 },
+    { "s": 2021, "c": 59006974, "p": 20, "g": 4 },
+    { "s": 2022, "c": 2000172513, "p": 31, "g": 2 },
+    { "s": 2022, "c": 2000172514, "p": 3 },
+    { "s": 2023, "c": 127787, "p": 3 },
+    { "s": 2024, "c": 59008318, "p": 30 }
+  ]
+}

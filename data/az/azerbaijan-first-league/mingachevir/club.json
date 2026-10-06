@@ -1,0 +1,57 @@
+{
+  "id": 2000193941,
+  "name": "Mingachevir",
+  "location": {
+    "city_id": 5895
+  },
+  "finance": {
+    "balance": 393700
+  },
+  "teams": [
+    {
+      "id": 2000193941,
+      "name": "Mingachevir",
+      "slug": "mingachevir",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3100,
+        "national": 3100,
+        "world": 3100
+      }
+    },
+    {
+      "id": 97100005,
+      "name": "Mingachevir",
+      "slug": "mingachevir-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 930,
+        "national": 930,
+        "world": 930
+      }
+    },
+    {
+      "id": 97100006,
+      "name": "Mingachevir",
+      "slug": "mingachevir-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 620,
+        "national": 620,
+        "world": 620
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 130
+}

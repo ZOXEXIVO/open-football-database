@@ -1,0 +1,48 @@
+{
+  "id": 96161700,
+  "first_name": "Dawid",
+  "last_name": "Brzozowski",
+  "birth_date": "2003-07-03",
+  "country_id": 787,
+  "club_id": 714221,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": 98,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 714221, "p": 1 },
+    { "s": 2019, "c": 714221, "p": 0 },
+    { "s": 2020, "c": 96083151, "p": 33, "g": 4 },
+    { "s": 2021, "c": 96083151, "p": 27, "g": 2 },
+    { "s": 2022, "c": 1451, "p": 7 },
+    { "s": 2023, "c": 1451, "p": 6, "g": 1 },
+    { "s": 2023, "c": 129569, "p": 6 },
+    { "s": 2024, "c": 129569, "p": 0 },
+    { "s": 2024, "c": 2000122073, "p": 29, "g": 5 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1068,
+  "name": "ZTE",
+  "location": {
+    "city_id": 5758
+  },
+  "finance": {
+    "balance": 646430
+  },
+  "teams": [
+    {
+      "id": 1068,
+      "name": "ZTE",
+      "slug": "zte",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5200,
+        "national": 5200,
+        "world": 5200
+      }
+    },
+    {
+      "id": 89800027,
+      "name": "ZTE",
+      "slug": "zte-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1560,
+        "national": 1560,
+        "world": 1560
+      }
+    },
+    {
+      "id": 89800028,
+      "name": "ZTE",
+      "slug": "zte-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1040,
+        "national": 1040,
+        "world": 1040
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2600
+}

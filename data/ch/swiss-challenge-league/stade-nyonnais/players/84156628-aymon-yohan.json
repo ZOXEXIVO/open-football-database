@@ -1,0 +1,36 @@
+{
+  "id": 84156628,
+  "first_name": "Yohan",
+  "last_name": "Aymon",
+  "birth_date": "2002-03-12",
+  "country_id": 798,
+  "club_id": 137912,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 100,
+  "history": [
+    { "s": 2020, "c": 98000660, "p": 10, "g": 2 },
+    { "s": 2021, "c": 98000660, "p": 31, "g": 4 },
+    { "s": 2022, "c": 98000660, "p": 29, "g": 6 },
+    { "s": 2023, "c": 98000660, "p": 30, "g": 20 },
+    { "s": 2024, "c": 98000660, "p": 30, "g": 9 },
+    { "s": 2025, "c": 137905, "p": 5 }
+  ]
+}

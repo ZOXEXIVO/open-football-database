@@ -1,0 +1,31 @@
+{
+  "id": 2000262287,
+  "first_name": "Aleksa",
+  "last_name": "Ilić",
+  "birth_date": "2004-12-03",
+  "country_id": 802,
+  "club_id": 16273047,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 90,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 33696,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 16275157, "p": 12 },
+    { "s": 2023, "c": 16273047, "p": 25, "g": 1 },
+    { "s": 2024, "c": 16077360, "p": 2 }
+  ]
+}

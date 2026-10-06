@@ -1,0 +1,28 @@
+{
+  "id": 2000403561,
+  "first_name": "Miłosz",
+  "last_name": "Krzak",
+  "birth_date": "2007-06-06",
+  "country_id": 787,
+  "club_id": 54003060,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 68,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 2000270417, "p": 34, "g": 3 }
+  ]
+}

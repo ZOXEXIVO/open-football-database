@@ -1,0 +1,57 @@
+{
+  "id": 2000019919,
+  "first_name": "Dele",
+  "last_name": "Israel",
+  "birth_date": "2001-10-27",
+  "country_id": 38,
+  "club_id": 473,
+  "attrs": {
+    "person": {"ada": 12, "amb": 13, "loy": 7, "pre": 10, "pro": 10, "spo": 7, "tem": 7, "con": 9},
+    "player": {
+      "technical": {"cro": 7, "dri": 14, "fin": 7, "hea": 5, "lon": 7, "mar": 5, "pas": 8, "pen": 10, "tck": 7, "fir": 12, "tec": 13, "cor": 5, "lth": 4, "fre": 6},
+      "mental": {"otb": 6, "vis": 7, "ant": 8, "dec": 8, "pos": 5, "fla": 13, "tea": 8, "wor": 10, "ldr": 5, "bra": 14, "agg": 14, "det": 14, "cmp": 10, "cnt": 8},
+      "physical": {"acc": 14, "str": 11, "sta": 7, "pac": 14, "jum": 7, "bal": 11, "agi": 13, "nat": 11},
+      "hidden": {"dir": 8, "cns": 9, "imp": 10, "inj": 6, "ver": 15}
+    }
+  },
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 106,
+  "value": 53000,
+  "contract": {    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 8404703, "p": 9 },
+    { "s": 2021, "c": 47001127, "p": 22, "g": 4 },
+    { "s": 2022, "c": 473, "p": 5, "g": 1 },
+    { "s": 2022, "c": 136185, "p": 10 },
+    { "s": 2022, "c": 47001127, "p": 33, "g": 3 },
+    { "s": 2023, "c": 473, "p": 6 },
+    { "s": 2023, "c": 136185, "p": 20, "g": 3 },
+    { "s": 2024, "c": 473, "p": 15, "g": 1 },
+    { "s": 2024, "c": 136185, "p": 10, "g": 2 },
+    { "s": 2025, "c": 136281, "p": 6 }
+  ],
+  "ids": {
+    "transfermarkt.com": "786308"
+  }
+}

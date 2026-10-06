@@ -1,0 +1,57 @@
+{
+  "id": 7521266,
+  "name": "Kazincbarcika",
+  "location": {
+    "city_id": 5761
+  },
+  "finance": {
+    "balance": 515620
+  },
+  "teams": [
+    {
+      "id": 7521266,
+      "name": "Kazincbarcika",
+      "slug": "kazincbarcika",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4900,
+        "national": 4900,
+        "world": 4900
+      }
+    },
+    {
+      "id": 89800033,
+      "name": "Kazincbarcika",
+      "slug": "kazincbarcika-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1470,
+        "national": 1470,
+        "world": 1470
+      }
+    },
+    {
+      "id": 89800034,
+      "name": "Kazincbarcika",
+      "slug": "kazincbarcika-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 980,
+        "national": 980,
+        "world": 980
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd642",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1000
+}

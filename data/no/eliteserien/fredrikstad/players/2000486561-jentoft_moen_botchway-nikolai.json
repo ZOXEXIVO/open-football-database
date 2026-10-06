@@ -1,0 +1,34 @@
+{
+  "id": 2000486561,
+  "first_name": "Nikolai",
+  "last_name": "Jentoft Moen Botchway",
+  "birth_date": "2004-01-22",
+  "country_id": 786,
+  "club_id": 1312,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": 106,
+  "contract": {
+    "salary": 18772,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 53168315, "p": 2, "g": 1 },
+    { "s": 2023, "c": 53168315, "p": 14, "g": 8 },
+    { "s": 2024, "c": 53168315, "p": 19, "g": 23 },
+    { "s": 2025, "c": 754226, "p": 18, "g": 17 },
+    { "s": 2025, "c": 766284, "p": 10, "g": 7 },
+    { "s": 2025, "c": 53174955, "p": 1, "g": 1 }
+  ]
+}

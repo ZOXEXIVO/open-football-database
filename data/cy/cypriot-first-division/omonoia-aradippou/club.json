@@ -1,0 +1,57 @@
+{
+  "id": 459,
+  "name": "Omonoia Aradippou",
+  "location": {
+    "city_id": 5871
+  },
+  "finance": {
+    "balance": 392430
+  },
+  "teams": [
+    {
+      "id": 459,
+      "name": "Omonoia Aradippou",
+      "slug": "omonoia-aradippou",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4800,
+        "national": 4800,
+        "world": 4800
+      }
+    },
+    {
+      "id": 93600031,
+      "name": "Omonoia Aradippou",
+      "slug": "omonoia-aradippou-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1440,
+        "national": 1440,
+        "world": 1440
+      }
+    },
+    {
+      "id": 93600032,
+      "name": "Omonoia Aradippou",
+      "slug": "omonoia-aradippou-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 960,
+        "national": 960,
+        "world": 960
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c72de",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 830
+}

@@ -1,0 +1,57 @@
+{
+  "id": 57152989,
+  "name": "Oțelul Galați",
+  "location": {
+    "city_id": 5801
+  },
+  "finance": {
+    "balance": 448310
+  },
+  "teams": [
+    {
+      "id": 57152989,
+      "name": "Oțelul Galați",
+      "slug": "otelul-galati",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5300,
+        "national": 5300,
+        "world": 5300
+      }
+    },
+    {
+      "id": 91200031,
+      "name": "Oțelul Galați",
+      "slug": "otelul-galati-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1590,
+        "national": 1590,
+        "world": 1590
+      }
+    },
+    {
+      "id": 91200032,
+      "name": "Oțelul Galați",
+      "slug": "otelul-galati-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1060,
+        "national": 1060,
+        "world": 1060
+      }
+    }
+  ],
+  "colors": {
+    "background": "#e21a23",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 3700
+}

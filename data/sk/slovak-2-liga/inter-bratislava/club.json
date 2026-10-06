@@ -1,0 +1,57 @@
+{
+  "id": 1617,
+  "name": "Inter Bratislava",
+  "location": {
+    "city_id": 6017
+  },
+  "finance": {
+    "balance": 355600
+  },
+  "teams": [
+    {
+      "id": 1617,
+      "name": "Inter Bratislava",
+      "slug": "inter-bratislava",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    },
+    {
+      "id": 98100017,
+      "name": "Inter Bratislava",
+      "slug": "inter-bratislava-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    },
+    {
+      "id": 98100018,
+      "name": "Inter Bratislava",
+      "slug": "inter-bratislava-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 560,
+        "national": 560,
+        "world": 560
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 200
+}

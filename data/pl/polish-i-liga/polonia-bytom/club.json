@@ -1,0 +1,57 @@
+{
+  "id": 129569,
+  "name": "Polonia Bytom",
+  "location": {
+    "city_id": 5792
+  },
+  "finance": {
+    "balance": 528320
+  },
+  "teams": [
+    {
+      "id": 129569,
+      "name": "Polonia Bytom",
+      "slug": "polonia-bytom",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    },
+    {
+      "id": 96300021,
+      "name": "Polonia Bytom",
+      "slug": "polonia-bytom-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    },
+    {
+      "id": 96300022,
+      "name": "Polonia Bytom",
+      "slug": "polonia-bytom-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 600,
+        "national": 600,
+        "world": 600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 940
+}

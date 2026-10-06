@@ -1,0 +1,38 @@
+{
+  "id": 2000279445,
+  "first_name": "Oliwer",
+  "last_name": "Stark",
+  "birth_date": "2006-08-07",
+  "country_id": 797,
+  "club_id": 1807,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 79,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 16068,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1105722, "p": 3, "g": 1 },
+    { "s": 2022, "c": 1105722, "p": 3 },
+    { "s": 2023, "c": 4300754, "p": 16, "g": 2 },
+    { "s": 2024, "c": 1807, "p": 2 },
+    { "s": 2024, "c": 4300754, "p": 16, "g": 6 },
+    { "s": 2025, "c": 1807, "p": 3 }
+  ]
+}

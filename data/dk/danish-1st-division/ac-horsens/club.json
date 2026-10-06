@@ -1,0 +1,57 @@
+{
+  "id": 481,
+  "name": "AC Horsens",
+  "location": {
+    "city_id": 5852
+  },
+  "finance": {
+    "balance": 869950
+  },
+  "teams": [
+    {
+      "id": 481,
+      "name": "AC Horsens",
+      "slug": "ac-horsens",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5000,
+        "national": 5000,
+        "world": 5000
+      }
+    },
+    {
+      "id": 96800003,
+      "name": "AC Horsens",
+      "slug": "ac-horsens-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1500,
+        "national": 1500,
+        "world": 1500
+      }
+    },
+    {
+      "id": 96800004,
+      "name": "AC Horsens",
+      "slug": "ac-horsens-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1000,
+        "national": 1000,
+        "world": 1000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 3500
+}

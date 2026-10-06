@@ -1,0 +1,35 @@
+{
+  "id": 11009767,
+  "name": "Kukësi",
+  "location": {
+    "city_id": 5930
+  },
+  "finance": {
+    "balance": 495300
+  },
+  "teams": [
+    {
+      "id": 11009767,
+      "name": "Kukësi",
+      "slug": "kukesi",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3900,
+        "national": 3900,
+        "world": 3900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2100
+}

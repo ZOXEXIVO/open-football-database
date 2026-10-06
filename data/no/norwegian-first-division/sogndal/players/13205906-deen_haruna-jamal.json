@@ -1,0 +1,37 @@
+{
+  "id": 13205906,
+  "first_name": "Jamal",
+  "last_name": "Deen Haruna",
+  "birth_date": "1999-10-23",
+  "country_id": 21,
+  "club_id": 1392,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 99,
+  "potential_ability": 119,
+  "contract": {
+    "salary": 37596,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 13231992, "p": 3 },
+    { "s": 2019, "c": 5340898, "p": 13 },
+    { "s": 2020, "c": 5340898, "p": 21 },
+    { "s": 2021, "c": 5340898, "p": 18 },
+    { "s": 2022, "c": 5340898, "p": 1 },
+    { "s": 2023, "c": 1374, "p": 27, "g": 1 },
+    { "s": 2024, "c": 1374, "p": 28, "g": 1 },
+    { "s": 2025, "c": 1387, "p": 5 },
+    { "s": 2025, "c": 1392, "p": 13 }
+  ]
+}

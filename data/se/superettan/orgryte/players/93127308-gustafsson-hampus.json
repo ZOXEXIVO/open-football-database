@@ -1,0 +1,39 @@
+{
+  "id": 93127308,
+  "first_name": "Hampus",
+  "last_name": "Gustafsson",
+  "birth_date": "2001-06-20",
+  "country_id": 797,
+  "club_id": 1843,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 101,
+  "potential_ability": 115,
+  "contract": {
+    "salary": 46332,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2016, "c": 2588, "p": 0 },
+    { "s": 2017, "c": 2588, "p": 0 },
+    { "s": 2018, "c": 2588, "p": 0 },
+    { "s": 2019, "c": 2588, "p": 0 },
+    { "s": 2020, "c": 2588, "p": 0 },
+    { "s": 2021, "c": 2588, "p": 1 },
+    { "s": 2021, "c": 2614, "p": 17, "g": 1 },
+    { "s": 2022, "c": 1841, "p": 8 },
+    { "s": 2023, "c": 2172, "p": 15 },
+    { "s": 2024, "c": 1843, "p": 30 },
+    { "s": 2025, "c": 1843, "p": 25 }
+  ]
+}

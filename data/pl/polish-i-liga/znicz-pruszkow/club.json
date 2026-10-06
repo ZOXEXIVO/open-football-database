@@ -1,0 +1,57 @@
+{
+  "id": 714240,
+  "name": "Znicz Pruszków",
+  "location": {
+    "city_id": 5793
+  },
+  "finance": {
+    "balance": 303530
+  },
+  "teams": [
+    {
+      "id": 714240,
+      "name": "Znicz Pruszków",
+      "slug": "znicz-pruszkow",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    },
+    {
+      "id": 96300023,
+      "name": "Znicz Pruszków",
+      "slug": "znicz-pruszkow-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    },
+    {
+      "id": 96300024,
+      "name": "Znicz Pruszków",
+      "slug": "znicz-pruszkow-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 560,
+        "national": 560,
+        "world": 560
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 760
+}

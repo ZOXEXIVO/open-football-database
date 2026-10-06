@@ -1,0 +1,28 @@
+{
+  "id": 2000463812,
+  "first_name": "Luis",
+  "last_name": "Silva",
+  "birth_date": "2007-03-21",
+  "country_id": 1658,
+  "club_id": 5300361,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 5300361, "p": 2 }
+  ]
+}

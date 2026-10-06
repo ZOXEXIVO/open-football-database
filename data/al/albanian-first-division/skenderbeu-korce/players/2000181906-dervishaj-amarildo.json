@@ -1,0 +1,25 @@
+{
+  "id": 2000181906,
+  "first_name": "Amarildo",
+  "last_name": "Dervishaj",
+  "birth_date": "2006-04-08",
+  "country_id": 752,
+  "club_id": 1300034,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 61,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2022, "c": 1300034, "p": 0 },
+    { "s": 2023, "c": 1300034, "p": 2 },
+    { "s": 2024, "c": 11009767, "p": 31 }
+  ]
+}

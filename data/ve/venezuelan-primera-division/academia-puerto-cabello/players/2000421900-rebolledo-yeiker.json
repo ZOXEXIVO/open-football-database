@@ -1,0 +1,30 @@
+{
+  "id": 2000421900,
+  "first_name": "Yeiker",
+  "last_name": "Rebolledo",
+  "birth_date": "2005-04-06",
+  "country_id": 1658,
+  "club_id": 86047464,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2022, "c": 76003517, "p": 0 },
+    { "s": 2023, "c": 86047464, "p": 0 },
+    { "s": 2024, "c": 86047464, "p": 1 },
+    { "s": 2025, "c": 86047464, "p": 1 }
+  ]
+}

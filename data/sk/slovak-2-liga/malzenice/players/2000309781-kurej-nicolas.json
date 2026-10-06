@@ -1,0 +1,33 @@
+{
+  "id": 2000309781,
+  "first_name": "Nicolas",
+  "last_name": "Kurej",
+  "birth_date": "2004-04-07",
+  "country_id": 794,
+  "club_id": 2000260278,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 90,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 2000260278, "p": 24, "g": 2 },
+    { "s": 2024, "c": 2000260278, "p": 24, "g": 1 }
+  ]
+}

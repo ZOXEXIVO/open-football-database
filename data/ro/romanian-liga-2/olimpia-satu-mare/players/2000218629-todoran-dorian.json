@@ -1,0 +1,34 @@
+{
+  "id": 2000218629,
+  "first_name": "Dorian",
+  "last_name": "Todoran",
+  "birth_date": "2005-06-25",
+  "country_id": 790,
+  "club_id": 57191025,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 54,
+  "potential_ability": 75,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 57034797, "p": 11 },
+    { "s": 2023, "c": 57034797, "p": 23 },
+    { "s": 2024, "c": 57191025, "p": 22 }
+  ]
+}

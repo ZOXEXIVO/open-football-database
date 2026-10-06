@@ -1,0 +1,57 @@
+{
+  "id": 952737,
+  "name": "UAI Urquiza",
+  "location": {
+    "city_id": 6122
+  },
+  "finance": {
+    "balance": 558800
+  },
+  "teams": [
+    {
+      "id": 952737,
+      "name": "UAI Urquiza",
+      "slug": "uai-urquiza",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    },
+    {
+      "id": 98700017,
+      "name": "UAI Urquiza",
+      "slug": "uai-urquiza-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
+      }
+    },
+    {
+      "id": 98700018,
+      "name": "UAI Urquiza",
+      "slug": "uai-urquiza-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 880,
+        "national": 880,
+        "world": 880
+      }
+    }
+  ],
+  "colors": {
+    "background": "#53baed",
+    "foreground": "#972626"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Good",
+    "academy": "Below Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 560
+}

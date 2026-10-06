@@ -1,0 +1,39 @@
+{
+  "id": 59007890,
+  "name": "Dinamo Tbilisi-2",
+  "parent_club": {
+    "id": 892,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 2000
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 59007890,
+      "name": "Dinamo Tbilisi-2",
+      "slug": "dinamo-tbilisi-2",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2800,
+        "national": 2800,
+        "world": 2800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#26488b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Exceptional"
+  },
+  "average_attendance": 100
+}

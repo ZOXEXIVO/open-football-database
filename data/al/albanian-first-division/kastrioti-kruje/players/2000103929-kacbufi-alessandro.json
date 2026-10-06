@@ -1,0 +1,28 @@
+{
+  "id": 2000103929,
+  "first_name": "Alessandro",
+  "last_name": "Kacbufi",
+  "birth_date": "2001-05-13",
+  "country_id": 752,
+  "club_id": 1300027,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 72,
+  "potential_ability": 81,
+  "history": [
+    { "s": 2018, "c": 59, "p": 16 },
+    { "s": 2020, "c": 59, "p": 19, "g": 1 },
+    { "s": 2021, "c": 8350953, "p": 17 },
+    { "s": 2022, "c": 8350953, "p": 26 },
+    { "s": 2023, "c": 5756222, "p": 27, "g": 2 },
+    { "s": 2024, "c": 63, "p": 13, "g": 1 }
+  ]
+}

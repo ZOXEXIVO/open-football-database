@@ -1,0 +1,57 @@
+{
+  "id": 57151105,
+  "name": "Ceahlăul Piatra Neamț",
+  "location": {
+    "city_id": 5815
+  },
+  "finance": {
+    "balance": 546100
+  },
+  "teams": [
+    {
+      "id": 57151105,
+      "name": "Ceahlăul Piatra Neamț",
+      "slug": "ceahlaul-piatra-neamt",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 96400017,
+      "name": "Ceahlăul Piatra Neamț",
+      "slug": "ceahlaul-piatra-neamt-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 96400018,
+      "name": "Ceahlăul Piatra Neamț",
+      "slug": "ceahlaul-piatra-neamt-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 1200
+}

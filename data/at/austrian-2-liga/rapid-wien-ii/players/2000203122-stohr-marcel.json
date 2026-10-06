@@ -1,0 +1,28 @@
+{
+  "id": 2000203122,
+  "first_name": "Marcel",
+  "last_name": "Stöhr",
+  "birth_date": "2007-07-24",
+  "country_id": 755,
+  "club_id": 5605434,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 16009426, "p": 0 }
+  ]
+}

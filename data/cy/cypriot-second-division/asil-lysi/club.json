@@ -1,0 +1,57 @@
+{
+  "id": 149276,
+  "name": "ASIL Lysi",
+  "location": {
+    "city_id": 5878
+  },
+  "finance": {
+    "balance": 359410
+  },
+  "teams": [
+    {
+      "id": 149276,
+      "name": "ASIL Lysi",
+      "slug": "asil-lysi",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 97000009,
+      "name": "ASIL Lysi",
+      "slug": "asil-lysi-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 97000010,
+      "name": "ASIL Lysi",
+      "slug": "asil-lysi-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Fairly Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 370
+}

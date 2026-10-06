@@ -1,0 +1,57 @@
+{
+  "id": 2000193940,
+  "name": "Imishli",
+  "location": {
+    "city_id": 5892
+  },
+  "finance": {
+    "balance": 1225550
+  },
+  "teams": [
+    {
+      "id": 2000193940,
+      "name": "Imishli",
+      "slug": "imishli",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4300,
+        "national": 4300,
+        "world": 4300
+      }
+    },
+    {
+      "id": 93500031,
+      "name": "Imishli",
+      "slug": "imishli-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1290,
+        "national": 1290,
+        "world": 1290
+      }
+    },
+    {
+      "id": 93500032,
+      "name": "Imishli",
+      "slug": "imishli-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 860,
+        "national": 860,
+        "world": 860
+      }
+    }
+  ],
+  "colors": {
+    "background": "#347494",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 500
+}

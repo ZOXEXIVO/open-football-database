@@ -1,0 +1,35 @@
+{
+  "id": 2000304518,
+  "first_name": "Taavi",
+  "last_name": "Kangaskokko",
+  "birth_date": "2006-11-27",
+  "country_id": 768,
+  "club_id": 33064668,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-11-15",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 33084514, "p": 2, "g": 1 },
+    { "s": 2023, "c": 33084514, "p": 8, "g": 3 },
+    { "s": 2024, "c": 33064668, "p": 1 },
+    { "s": 2024, "c": 2000266290, "p": 16, "g": 5 }
+  ]
+}

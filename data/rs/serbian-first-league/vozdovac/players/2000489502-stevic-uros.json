@@ -1,0 +1,30 @@
+{
+  "id": 2000489502,
+  "first_name": "Uroš",
+  "last_name": "Stević",
+  "birth_date": "2005-07-04",
+  "country_id": 802,
+  "club_id": 5744631,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 114,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 5744631, "p": 0 },
+    { "s": 2023, "c": 5744631, "p": 0 },
+    { "s": 2024, "c": 5745376, "p": 20, "g": 2 }
+  ]
+}

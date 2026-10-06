@@ -1,0 +1,33 @@
+{
+  "id": 2000173058,
+  "first_name": "Serjan",
+  "last_name": "Repaj",
+  "birth_date": "2000-09-05",
+  "country_id": 752,
+  "club_id": 11035510,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 86,
+  "potential_ability": 95,
+  "history": [
+    { "s": 2019, "c": 72, "p": 7 },
+    { "s": 2020, "c": 58, "p": 21 },
+    { "s": 2021, "c": 58, "p": 4 },
+    { "s": 2022, "c": 58, "p": 29 },
+    { "s": 2023, "c": 58, "p": 29, "g": 3 },
+    { "s": 2024, "c": 58, "p": 5 },
+    { "s": 2024, "c": 72, "p": 13 }
+  ]
+}

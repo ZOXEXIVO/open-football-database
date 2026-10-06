@@ -1,0 +1,28 @@
+{
+  "id": 2000503439,
+  "first_name": "Mário",
+  "last_name": "Zimáni",
+  "birth_date": "2006-02-24",
+  "country_id": 794,
+  "club_id": 1615,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": -5,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 2000467935, "p": 5, "g": 1 }
+  ]
+}

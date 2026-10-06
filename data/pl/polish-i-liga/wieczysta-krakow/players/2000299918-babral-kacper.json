@@ -1,0 +1,36 @@
+{
+  "id": 2000299918,
+  "first_name": "Kacper",
+  "last_name": "Babral",
+  "birth_date": "2005-01-21",
+  "country_id": 787,
+  "club_id": 2000028546,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 50,
+  "potential_ability": -4,
+  "history": [
+    { "s": 2023, "c": 1300881, "p": 0 },
+    { "s": 2024, "c": 2000268051, "p": 17, "g": 1 }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2000096108,
+  "first_name": "Maciej",
+  "last_name": "Kikolski",
+  "birth_date": "2004-02-23",
+  "country_id": 787,
+  "club_id": 1468,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 101,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 96069351, "p": 6 },
+    { "s": 2021, "c": 96069351, "p": 17 },
+    { "s": 2022, "c": 96020194, "p": 31 },
+    { "s": 2023, "c": 54003060, "p": 34 },
+    { "s": 2024, "c": 717327, "p": 31 }
+  ]
+}

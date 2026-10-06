@@ -1,0 +1,32 @@
+{
+  "id": 2000416195,
+  "first_name": "Daniel",
+  "last_name": "Lucas",
+  "birth_date": "2007-04-25",
+  "country_id": 788,
+  "club_id": 736258,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 20176,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 741496, "p": 0 },
+    { "s": 2023, "c": 2391, "p": 0 },
+    { "s": 2024, "c": 736258, "p": 1 },
+    { "s": 2025, "c": 526, "p": 0 }
+  ]
+}

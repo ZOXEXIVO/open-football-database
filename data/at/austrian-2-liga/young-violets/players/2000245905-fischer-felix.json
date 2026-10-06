@@ -1,0 +1,30 @@
+{
+  "id": 2000245905,
+  "first_name": "Felix",
+  "last_name": "Fischer",
+  "birth_date": "2006-11-10",
+  "country_id": 755,
+  "club_id": 16273047,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 15496,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 16009428, "p": 0 },
+    { "s": 2024, "c": 16273047, "p": 5, "g": 2 }
+  ]
+}

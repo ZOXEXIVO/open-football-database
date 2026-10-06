@@ -1,0 +1,39 @@
+{
+  "id": 43500611,
+  "first_name": "Joel",
+  "last_name": "Voelkerling Persson",
+  "birth_date": "2003-01-15",
+  "country_id": 797,
+  "club_id": 1844,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 125,
+  "contract": {
+    "salary": 60372,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 5, "u21_goals": 0},
+  "history": [
+    { "s": 2018, "c": 1100, "p": 0 },
+    { "s": 2018, "c": 1831, "p": 0 },
+    { "s": 2019, "c": 1100, "p": 0 },
+    { "s": 2020, "c": 1100, "p": 0 },
+    { "s": 2021, "c": 1100, "p": 0 },
+    { "s": 2022, "c": 1141, "p": 9 },
+    { "s": 2023, "c": 1046, "p": 9 },
+    { "s": 2024, "c": 1141, "p": 0 },
+    { "s": 2024, "c": 2588, "p": 7 },
+    { "s": 2025, "c": 1844, "p": 7 }
+  ]
+}

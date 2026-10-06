@@ -1,0 +1,42 @@
+{
+  "id": 2000170010,
+  "first_name": "Leonardo",
+  "last_name": "Caspari Bark",
+  "birth_date": "2006-12-25",
+  "country_id": 797,
+  "club_id": 1839,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 79,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 16068,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1839, "p": 0 },
+    { "s": 2022, "c": 1839, "p": 0 },
+    { "s": 2023, "c": 1839, "p": 0 },
+    { "s": 2024, "c": 1839, "p": 0 },
+    { "s": 2025, "c": 1839, "p": 4 },
+    { "s": 2025, "c": 2643, "p": 12 }
+  ]
+}

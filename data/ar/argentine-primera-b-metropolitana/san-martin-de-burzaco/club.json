@@ -1,0 +1,57 @@
+{
+  "id": 952721,
+  "name": "San Martín de Burzaco",
+  "location": {
+    "city_id": 6132
+  },
+  "finance": {
+    "balance": 508000
+  },
+  "teams": [
+    {
+      "id": 952721,
+      "name": "San Martín de Burzaco",
+      "slug": "san-martin-de-burzaco",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4000,
+        "national": 4000,
+        "world": 4000
+      }
+    },
+    {
+      "id": 98700037,
+      "name": "San Martín de Burzaco",
+      "slug": "san-martin-de-burzaco-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    },
+    {
+      "id": 98700038,
+      "name": "San Martín de Burzaco",
+      "slug": "san-martin-de-burzaco-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 800,
+        "national": 800,
+        "world": 800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#26488b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 750
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2000110243,
+  "first_name": "Christoforos",
+  "last_name": "Tsolakis",
+  "birth_date": "2001-10-30",
+  "country_id": 762,
+  "club_id": 26001619,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 82,
+  "contract": {
+    "expiration": "2026-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2017, "c": 452, "p": 0 },
+    { "s": 2018, "c": 452, "p": 1 },
+    { "s": 2019, "c": 452, "p": 0 },
+    { "s": 2020, "c": 458, "p": 0 },
+    { "s": 2020, "c": 26038572, "p": 4 },
+    { "s": 2021, "c": 136237, "p": 0 },
+    { "s": 2021, "c": 2000030122, "p": 7 },
+    { "s": 2022, "c": 149279, "p": 8 },
+    { "s": 2022, "c": 26035664, "p": 1 },
+    { "s": 2023, "c": 26001623, "p": 10 },
+    { "s": 2024, "c": 26036788, "p": 20 }
+  ]
+}

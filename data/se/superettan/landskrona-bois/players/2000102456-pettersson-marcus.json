@@ -1,0 +1,34 @@
+{
+  "id": 2000102456,
+  "first_name": "Marcus",
+  "last_name": "Pettersson",
+  "birth_date": "2005-03-20",
+  "country_id": 797,
+  "club_id": 1811,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 93,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 38220,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 1816, "p": 0 },
+    { "s": 2022, "c": 1816, "p": 0 },
+    { "s": 2023, "c": 1816, "p": 0 },
+    { "s": 2024, "c": 2518, "p": 14 },
+    { "s": 2025, "c": 1811, "p": 25 },
+    { "s": 2025, "c": 1816, "p": 0 }
+  ]
+}

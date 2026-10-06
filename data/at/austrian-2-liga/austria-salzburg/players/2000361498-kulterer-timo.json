@@ -1,0 +1,25 @@
+{
+  "id": 2000361498,
+  "first_name": "Timo",
+  "last_name": "Kulterer",
+  "birth_date": "2007-12-05",
+  "country_id": 755,
+  "club_id": 16046867,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 16046867, "p": 6, "g": 2 },
+    { "s": 2024, "c": 16046867, "p": 12, "g": 1 }
+  ]
+}

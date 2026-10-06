@@ -1,0 +1,42 @@
+{
+  "id": 2000181519,
+  "first_name": "Dominik",
+  "last_name": "Csóka",
+  "birth_date": "2004-03-29",
+  "country_id": 773,
+  "club_id": 7521304,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 89,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "international": {"apps": 0, "goals": 0, "u21_apps": 5, "u21_goals": 0},
+  "history": [
+    { "s": 2020, "c": 1068, "p": 1 },
+    { "s": 2020, "c": 38006336, "p": 14, "g": 1 },
+    { "s": 2021, "c": 38006336, "p": 9 },
+    { "s": 2022, "c": 38006336, "p": 14, "g": 2 },
+    { "s": 2023, "c": 7521273, "p": 28, "g": 2 },
+    { "s": 2024, "c": 5410637, "p": 22 }
+  ]
+}

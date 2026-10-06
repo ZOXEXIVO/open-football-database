@@ -1,0 +1,57 @@
+{
+  "id": 31000330,
+  "name": "Nõmme United",
+  "location": {
+    "city_id": 5865
+  },
+  "finance": {
+    "balance": 31750
+  },
+  "teams": [
+    {
+      "id": 31000330,
+      "name": "Nõmme United",
+      "slug": "nomme-united",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1700,
+        "national": 1700,
+        "world": 1700
+      }
+    },
+    {
+      "id": 96900001,
+      "name": "Nõmme United",
+      "slug": "nomme-united-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 510,
+        "national": 510,
+        "world": 510
+      }
+    },
+    {
+      "id": 96900002,
+      "name": "Nõmme United",
+      "slug": "nomme-united-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 340,
+        "national": 340,
+        "world": 340
+      }
+    }
+  ],
+  "colors": {
+    "background": "#000000",
+    "foreground": "#d42424"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 100
+}

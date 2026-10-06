@@ -1,0 +1,39 @@
+{
+  "id": 750,
+  "name": "Flora U21",
+  "parent_club": {
+    "id": 746,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 4900
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 750,
+      "name": "Flora U21",
+      "slug": "flora-u21",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1300,
+        "national": 1300,
+        "world": 1300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3e8c4b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Adequate",
+    "youth": "Adequate",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 100
+}

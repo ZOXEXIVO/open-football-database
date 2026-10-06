@@ -1,0 +1,57 @@
+{
+  "id": 16030340,
+  "name": "Admira Wacker",
+  "location": {
+    "city_id": 5908
+  },
+  "finance": {
+    "balance": 711200
+  },
+  "teams": [
+    {
+      "id": 16030340,
+      "name": "Admira Wacker",
+      "slug": "admira",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5600,
+        "national": 5600,
+        "world": 5600
+      }
+    },
+    {
+      "id": 97300001,
+      "name": "Admira Wacker",
+      "slug": "admira-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1680,
+        "national": 1680,
+        "world": 1680
+      }
+    },
+    {
+      "id": 97300002,
+      "name": "Admira Wacker",
+      "slug": "admira-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1120,
+        "national": 1120,
+        "world": 1120
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Superb",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 3150
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2000206039,
+  "first_name": "Hüseyin",
+  "last_name": "Babayev",
+  "birth_date": "2003-01-01",
+  "country_id": 756,
+  "club_id": 2000284844,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": 90,
+  "history": [
+    { "s": 2021, "c": 59006990, "p": 5 },
+    { "s": 2022, "c": 167, "p": 0 },
+    { "s": 2022, "c": 59006990, "p": 25, "g": 2 }
+  ]
+}

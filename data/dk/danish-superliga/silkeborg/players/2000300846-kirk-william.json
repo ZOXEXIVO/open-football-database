@@ -1,0 +1,32 @@
+{
+  "id": 2000300846,
+  "first_name": "William",
+  "last_name": "Kirk",
+  "birth_date": "2007-01-13",
+  "country_id": 764,
+  "club_id": 551,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2023, "c": 551, "p": 0 },
+    { "s": 2024, "c": 551, "p": 0 }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2000415493,
+  "first_name": "Gabriel",
+  "last_name": "Orehovec",
+  "birth_date": "2008-07-15",
+  "country_id": 761,
+  "club_id": 5410637,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 70
+  },
+  "current_ability": 58,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2024, "c": 5410637, "p": 0 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2164,
+  "name": "IK Sirius",
+  "location": {
+    "city_id": 5973
+  },
+  "finance": {
+    "balance": 11430000
+  },
+  "teams": [
+    {
+      "id": 2164,
+      "name": "IK Sirius",
+      "slug": "ik-sirius",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 91500035,
+      "name": "IK Sirius",
+      "slug": "ik-sirius-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 91500036,
+      "name": "IK Sirius",
+      "slug": "ik-sirius-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 4650
+}

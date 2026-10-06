@@ -1,0 +1,30 @@
+{
+  "id": 2000211265,
+  "first_name": "Alexandru",
+  "last_name": "Petreacă",
+  "birth_date": "2003-08-05",
+  "country_id": 790,
+  "club_id": 57141891,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 54,
+  "potential_ability": -35,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 57076759, "p": 26 },
+    { "s": 2023, "c": 57076759, "p": 22 },
+    { "s": 2024, "c": 57076759, "p": 24 }
+  ]
+}

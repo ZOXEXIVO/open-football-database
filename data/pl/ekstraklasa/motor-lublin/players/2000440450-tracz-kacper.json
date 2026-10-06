@@ -1,0 +1,25 @@
+{
+  "id": 2000440450,
+  "first_name": "Kacper",
+  "last_name": "Tracz",
+  "birth_date": "2005-10-21",
+  "country_id": 787,
+  "club_id": 714221,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": 95,
+  "history": [
+    { "s": 2022, "c": 2000187755, "p": 11, "g": 1 },
+    { "s": 2023, "c": 2000187755, "p": 26, "g": 9 },
+    { "s": 2024, "c": 2000187755, "p": 25, "g": 2 }
+  ]
+}

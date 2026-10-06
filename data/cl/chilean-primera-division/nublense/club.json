@@ -1,0 +1,57 @@
+{
+  "id": 130798,
+  "name": "Ñublense",
+  "location": {
+    "city_id": 6073
+  },
+  "finance": {
+    "balance": 924560
+  },
+  "teams": [
+    {
+      "id": 130798,
+      "name": "Ñublense",
+      "slug": "nublense",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5100,
+        "national": 5100,
+        "world": 5100
+      }
+    },
+    {
+      "id": 90300037,
+      "name": "Ñublense",
+      "slug": "nublense-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1530,
+        "national": 1530,
+        "world": 1530
+      }
+    },
+    {
+      "id": 90300038,
+      "name": "Ñublense",
+      "slug": "nublense-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 3200
+}

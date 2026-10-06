@@ -1,0 +1,29 @@
+{
+  "id": 2000494501,
+  "first_name": "Ulisses",
+  "last_name": "Dias",
+  "birth_date": "2007-01-13",
+  "country_id": 12,
+  "club_id": 55001110,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 56,
+  "potential_ability": -45,
+  "contract": {
+    "salary": 7852,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 55001110, "p": 0 }
+  ]
+}

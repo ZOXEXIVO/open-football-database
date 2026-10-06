@@ -1,0 +1,39 @@
+{
+  "id": 2000097667,
+  "first_name": "Adam",
+  "last_name": "Herdonsson",
+  "birth_date": "2004-04-07",
+  "country_id": 797,
+  "club_id": 481,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 120,
+  "contract": {
+    "salary": 56784,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 2588, "p": 0 },
+    { "s": 2020, "c": 1844, "p": 0 },
+    { "s": 2021, "c": 1844, "p": 0 },
+    { "s": 2022, "c": 1844, "p": 3 },
+    { "s": 2023, "c": 1844, "p": 28, "g": 1 },
+    { "s": 2024, "c": 481, "p": 30, "g": 1 },
+    { "s": 2024, "c": 1844, "p": 14 }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 96111609,
+  "first_name": "Damian",
+  "last_name": "Guzik",
+  "birth_date": "1997-03-10",
+  "country_id": 787,
+  "club_id": 2000028546,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 100,
+  "history": [
+    { "s": 2014, "c": 96063146, "p": 24 },
+    { "s": 2015, "c": 96063146, "p": 25, "g": 5 },
+    { "s": 2016, "c": 1454, "p": 22, "g": 2 },
+    { "s": 2017, "c": 1454, "p": 27, "g": 2 },
+    { "s": 2022, "c": 2000028546, "p": 1 }
+  ]
+}

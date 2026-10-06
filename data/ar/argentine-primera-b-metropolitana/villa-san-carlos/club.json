@@ -1,0 +1,57 @@
+{
+  "id": 952755,
+  "name": "Villa San Carlos",
+  "location": {
+    "city_id": 6123
+  },
+  "finance": {
+    "balance": 558800
+  },
+  "teams": [
+    {
+      "id": 952755,
+      "name": "Villa San Carlos",
+      "slug": "villa-san-carlos",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    },
+    {
+      "id": 98700019,
+      "name": "Villa San Carlos",
+      "slug": "villa-san-carlos-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
+      }
+    },
+    {
+      "id": 98700020,
+      "name": "Villa San Carlos",
+      "slug": "villa-san-carlos-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 880,
+        "national": 880,
+        "world": 880
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#4a99e8"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Below Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 1200
+}

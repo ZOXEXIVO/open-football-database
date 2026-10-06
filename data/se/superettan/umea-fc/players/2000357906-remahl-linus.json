@@ -1,0 +1,33 @@
+{
+  "id": 2000357906,
+  "first_name": "Linus",
+  "last_name": "Remahl",
+  "birth_date": "2006-05-21",
+  "country_id": 797,
+  "club_id": 1833,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 63,
+  "potential_ability": -5,
+  "contract": {
+    "salary": 1976,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 93086541, "p": 0 },
+    { "s": 2023, "c": 93086541, "p": 2 },
+    { "s": 2024, "c": 93086541, "p": 15 },
+    { "s": 2025, "c": 2659, "p": 13 },
+    { "s": 2025, "c": 93086541, "p": 8 }
+  ]
+}

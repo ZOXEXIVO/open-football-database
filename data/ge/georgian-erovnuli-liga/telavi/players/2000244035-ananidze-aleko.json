@@ -1,0 +1,26 @@
+{
+  "id": 2000244035,
+  "first_name": "Aleko",
+  "last_name": "Ananidze",
+  "birth_date": "2004-05-17",
+  "country_id": 770,
+  "club_id": 59121257,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 75,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2022, "c": 144644, "p": 1 },
+    { "s": 2023, "c": 144644, "p": 18, "g": 2 },
+    { "s": 2024, "c": 59121257, "p": 6 },
+    { "s": 2025, "c": 59121257, "p": 8, "g": 1 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 7582048,
+  "name": "Jadran Dekani",
+  "location": {
+    "city_id": 6034
+  },
+  "finance": {
+    "balance": 121920
+  },
+  "teams": [
+    {
+      "id": 7582048,
+      "name": "Jadran Dekani",
+      "slug": "jadran-dekani",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2600,
+        "national": 2600,
+        "world": 2600
+      }
+    },
+    {
+      "id": 98200015,
+      "name": "Jadran Dekani",
+      "slug": "jadran-dekani-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 780,
+        "national": 780,
+        "world": 780
+      }
+    },
+    {
+      "id": 98200016,
+      "name": "Jadran Dekani",
+      "slug": "jadran-dekani-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 520,
+        "national": 520,
+        "world": 520
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 140
+}

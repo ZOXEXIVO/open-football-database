@@ -1,0 +1,25 @@
+{
+  "id": 2000434981,
+  "first_name": "Fabio",
+  "last_name": "Vega",
+  "birth_date": "2003-05-16",
+  "country_id": 1649,
+  "club_id": 952708,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 952708, "p": 0 },
+    { "s": 2025, "c": 952708, "p": 0 }
+  ]
+}

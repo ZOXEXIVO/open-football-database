@@ -1,0 +1,37 @@
+{
+  "id": 19250972,
+  "first_name": "Ronaldo",
+  "last_name": "Rodrigues",
+  "birth_date": "1998-01-12",
+  "country_id": 1651,
+  "club_id": 2000193940,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 95,
+  "potential_ability": 105,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1489, "p": 0 },
+    { "s": 2018, "c": 2391, "p": 3 },
+    { "s": 2019, "c": 2391, "p": 22, "g": 3 },
+    { "s": 2020, "c": 2391, "p": 1 },
+    { "s": 2020, "c": 83301114, "p": 5 },
+    { "s": 2021, "c": 2391, "p": 25, "g": 3 },
+    { "s": 2022, "c": 2391, "p": 10 },
+    { "s": 2023, "c": 2391, "p": 9 },
+    { "s": 2023, "c": 2460, "p": 12 },
+    { "s": 2024, "c": 41021352, "p": 25, "g": 3 }
+  ]
+}

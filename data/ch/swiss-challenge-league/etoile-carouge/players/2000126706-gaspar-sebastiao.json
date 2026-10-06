@@ -1,0 +1,36 @@
+{
+  "id": 2000126706,
+  "first_name": "Sebastiao",
+  "last_name": "Gaspar",
+  "birth_date": "2004-08-05",
+  "country_id": 6,
+  "club_id": 106371,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 5
+  },
+  "current_ability": 56,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2020, "c": 98009999, "p": 3, "g": 1 },
+    { "s": 2021, "c": 98009999, "p": 14 },
+    { "s": 2022, "c": 98009999, "p": 4 },
+    { "s": 2022, "c": 98010008, "p": 2 },
+    { "s": 2024, "c": 106371, "p": 0 },
+    { "s": 2024, "c": 5726212, "p": 0 }
+  ]
+}

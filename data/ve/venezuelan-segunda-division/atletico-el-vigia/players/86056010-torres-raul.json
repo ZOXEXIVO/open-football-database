@@ -1,0 +1,42 @@
+{
+  "id": 86056010,
+  "first_name": "Raúl",
+  "last_name": "Torres",
+  "birth_date": "1996-01-03",
+  "country_id": 1658,
+  "club_id": 5300361,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": 95,
+  "contract": {
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2013, "c": 78016112, "p": 3, "g": 1 },
+    { "s": 2014, "c": 78016112, "p": 0 },
+    { "s": 2015, "c": 78016112, "p": 0 },
+    { "s": 2016, "c": 78016112, "p": 2 },
+    { "s": 2019, "c": 78016112, "p": 4 },
+    { "s": 2023, "c": 5300361, "p": 11, "g": 1 },
+    { "s": 2025, "c": 86049075, "p": 26 }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 58,
+  "name": "Apolonia Fier",
+  "location": {
+    "city_id": 5934
+  },
+  "finance": {
+    "balance": 431800
+  },
+  "teams": [
+    {
+      "id": 58,
+      "name": "Apolonia Fier",
+      "slug": "apolonia-fier",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3400,
+        "national": 3400,
+        "world": 3400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3c8c57",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 1200
+}

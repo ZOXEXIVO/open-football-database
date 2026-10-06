@@ -1,0 +1,29 @@
+{
+  "id": 2000527390,
+  "first_name": "David",
+  "last_name": "Axelsson",
+  "birth_date": "2008-11-06",
+  "country_id": 797,
+  "club_id": 1843,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 40,
+  "potential_ability": -45,
+  "history": [
+    { "s": 2023, "c": 1843, "p": 0 },
+    { "s": 2024, "c": 1843, "p": 0 },
+    { "s": 2025, "c": 1843, "p": 0 }
+  ]
+}

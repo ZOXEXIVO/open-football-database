@@ -1,0 +1,37 @@
+{
+  "id": 43479341,
+  "first_name": "Carl",
+  "last_name": "Davordzie",
+  "birth_date": "2000-05-27",
+  "country_id": 21,
+  "club_id": 57110237,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 112,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2018, "c": 1156, "p": 0 },
+    { "s": 2019, "c": 1156, "p": 0 },
+    { "s": 2022, "c": 2000117848, "p": 24, "g": 7 },
+    { "s": 2023, "c": 2000117848, "p": 21, "g": 12 },
+    { "s": 2024, "c": 57151105, "p": 26, "g": 10 },
+    { "s": 2025, "c": 57151105, "p": 17, "g": 10 }
+  ]
+}

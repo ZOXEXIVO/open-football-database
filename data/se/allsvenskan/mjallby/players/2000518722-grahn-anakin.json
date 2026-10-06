@@ -1,0 +1,24 @@
+{
+  "id": 2000518722,
+  "first_name": "Anakin",
+  "last_name": "Grahn",
+  "birth_date": "2008-03-29",
+  "country_id": 797,
+  "club_id": 1817,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2024, "c": 1817, "p": 0 },
+    { "s": 2025, "c": 1817, "p": 0 }
+  ]
+}

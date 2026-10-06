@@ -1,0 +1,57 @@
+{
+  "id": 59114387,
+  "name": "Zagatala",
+  "location": {
+    "city_id": 5896
+  },
+  "finance": {
+    "balance": 393700
+  },
+  "teams": [
+    {
+      "id": 59114387,
+      "name": "Zagatala",
+      "slug": "zagatala",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3100,
+        "national": 3100,
+        "world": 3100
+      }
+    },
+    {
+      "id": 97100007,
+      "name": "Zagatala",
+      "slug": "zagatala-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 930,
+        "national": 930,
+        "world": 930
+      }
+    },
+    {
+      "id": 97100008,
+      "name": "Zagatala",
+      "slug": "zagatala-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 620,
+        "national": 620,
+        "world": 620
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3e8c4b",
+    "foreground": "#ffd900"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 130
+}

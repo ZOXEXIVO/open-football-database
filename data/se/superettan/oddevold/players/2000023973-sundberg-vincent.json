@@ -1,0 +1,49 @@
+{
+  "id": 2000023973,
+  "first_name": "Vincent",
+  "last_name": "Sundberg",
+  "birth_date": "2004-01-28",
+  "country_id": 797,
+  "club_id": 1808,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 100,
+  "contract": {
+    "salary": 28184,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 93030439, "p": 0 },
+    { "s": 2020, "c": 93030439, "p": 0 },
+    { "s": 2021, "c": 1780, "p": 0 },
+    { "s": 2022, "c": 1780, "p": 0 },
+    { "s": 2023, "c": 1811, "p": 1 },
+    { "s": 2023, "c": 4300347, "p": 16 },
+    { "s": 2024, "c": 1811, "p": 28, "g": 5 },
+    { "s": 2025, "c": 1811, "p": 9 },
+    { "s": 2025, "c": 93030439, "p": 9, "g": 1 }
+  ]
+}

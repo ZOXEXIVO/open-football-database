@@ -1,0 +1,33 @@
+{
+  "id": 2000509147,
+  "first_name": "Mamadou Cellou",
+  "last_name": "Diallo",
+  "birth_date": "2007-01-19",
+  "country_id": 21,
+  "club_id": 2588,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": -6,
+  "contract": {
+    "salary": 16068,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2025, "c": 2588, "p": 3 }
+  ]
+}

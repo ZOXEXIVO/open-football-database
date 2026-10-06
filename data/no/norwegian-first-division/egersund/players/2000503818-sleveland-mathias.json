@@ -1,0 +1,31 @@
+{
+  "id": 2000503818,
+  "first_name": "Mathias",
+  "last_name": "Sleveland",
+  "birth_date": "2008-09-08",
+  "country_id": 786,
+  "club_id": 1301,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 10,
+    "right": 100
+  },
+  "current_ability": 58,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2025, "c": 53162105, "p": 18, "g": 5 }
+  ]
+}

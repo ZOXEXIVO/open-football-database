@@ -1,0 +1,57 @@
+{
+  "id": 57131211,
+  "name": "CSM Reșița",
+  "location": {
+    "city_id": 5814
+  },
+  "finance": {
+    "balance": 43180
+  },
+  "teams": [
+    {
+      "id": 57131211,
+      "name": "CSM Reșița",
+      "slug": "csm-resita",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4500,
+        "national": 4500,
+        "world": 4500
+      }
+    },
+    {
+      "id": 96400015,
+      "name": "CSM Reșița",
+      "slug": "csm-resita-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1350,
+        "national": 1350,
+        "world": 1350
+      }
+    },
+    {
+      "id": 96400016,
+      "name": "CSM Reșița",
+      "slug": "csm-resita-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 900,
+        "national": 900,
+        "world": 900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d80e16",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 1500
+}

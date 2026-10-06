@@ -1,0 +1,57 @@
+{
+  "id": 137959,
+  "name": "Hartberg",
+  "location": {
+    "city_id": 5907
+  },
+  "finance": {
+    "balance": 255270
+  },
+  "teams": [
+    {
+      "id": 137959,
+      "name": "Hartberg",
+      "slug": "hartberg",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5900,
+        "national": 5900,
+        "world": 5900
+      }
+    },
+    {
+      "id": 90100029,
+      "name": "Hartberg",
+      "slug": "hartberg-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1770,
+        "national": 1770,
+        "world": 1770
+      }
+    },
+    {
+      "id": 90100030,
+      "name": "Hartberg",
+      "slug": "hartberg-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1180,
+        "national": 1180,
+        "world": 1180
+      }
+    }
+  ],
+  "colors": {
+    "background": "#4a99e8",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 3600
+}

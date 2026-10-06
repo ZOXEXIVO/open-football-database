@@ -1,0 +1,39 @@
+{
+  "id": 2000103239,
+  "first_name": "Jakub",
+  "last_name": "Zych",
+  "birth_date": "2002-04-04",
+  "country_id": 787,
+  "club_id": 130127,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 90,
+  "history": [
+    { "s": 2020, "c": 714230, "p": 2 },
+    { "s": 2021, "c": 714230, "p": 22, "g": 1 },
+    { "s": 2022, "c": 2000255510, "p": 16, "g": 2 },
+    { "s": 2023, "c": 2000255510, "p": 32, "g": 3 },
+    { "s": 2024, "c": 96023666, "p": 11 }
+  ]
+}

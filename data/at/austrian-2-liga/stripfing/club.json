@@ -1,0 +1,57 @@
+{
+  "id": 16077360,
+  "name": "Stripfing",
+  "location": {
+    "city_id": 5918
+  },
+  "finance": {
+    "balance": 383540
+  },
+  "teams": [
+    {
+      "id": 16077360,
+      "name": "Stripfing",
+      "slug": "stripfing",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5200,
+        "national": 5200,
+        "world": 5200
+      }
+    },
+    {
+      "id": 97300021,
+      "name": "Stripfing",
+      "slug": "stripfing-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1560,
+        "national": 1560,
+        "world": 1560
+      }
+    },
+    {
+      "id": 97300022,
+      "name": "Stripfing",
+      "slug": "stripfing-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1040,
+        "national": 1040,
+        "world": 1040
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffe252",
+    "foreground": "#2d68b5"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 2000
+}

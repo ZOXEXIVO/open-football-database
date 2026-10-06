@@ -1,0 +1,57 @@
+{
+  "id": 2677,
+  "name": "Varbergs BoIS",
+  "location": {
+    "city_id": 5984
+  },
+  "finance": {
+    "balance": 2540000
+  },
+  "teams": [
+    {
+      "id": 2677,
+      "name": "Varbergs BoIS",
+      "slug": "varbergs-bois",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4200,
+        "national": 4200,
+        "world": 4200
+      }
+    },
+    {
+      "id": 97900011,
+      "name": "Varbergs BoIS",
+      "slug": "varbergs-bois-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1260,
+        "national": 1260,
+        "world": 1260
+      }
+    },
+    {
+      "id": 97900012,
+      "name": "Varbergs BoIS",
+      "slug": "varbergs-bois-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 840,
+        "national": 840,
+        "world": 840
+      }
+    }
+  ],
+  "colors": {
+    "background": "#4c8e3f",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 2950
+}

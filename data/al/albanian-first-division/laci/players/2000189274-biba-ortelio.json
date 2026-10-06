@@ -1,0 +1,26 @@
+{
+  "id": 2000189274,
+  "first_name": "Ortelio",
+  "last_name": "Biba",
+  "birth_date": "2004-09-17",
+  "country_id": 752,
+  "club_id": 68,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 62,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 68, "p": 2 },
+    { "s": 2023, "c": 68, "p": 1 },
+    { "s": 2024, "c": 68, "p": 2 }
+  ]
+}

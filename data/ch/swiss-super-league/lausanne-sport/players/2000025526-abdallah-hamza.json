@@ -1,0 +1,34 @@
+{
+  "id": 2000025526,
+  "first_name": "Hamza",
+  "last_name": "Abdallah",
+  "birth_date": "2003-06-13",
+  "country_id": 769,
+  "club_id": 1856,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 116,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 871, "p": 0 },
+    { "s": 2020, "c": 871, "p": 0 },
+    { "s": 2021, "c": 871, "p": 0 },
+    { "s": 2022, "c": 5723700, "p": 15, "g": 3 },
+    { "s": 2023, "c": 137912, "p": 15, "g": 2 },
+    { "s": 2023, "c": 5723700, "p": 14, "g": 1 },
+    { "s": 2024, "c": 137904, "p": 5 }
+  ]
+}

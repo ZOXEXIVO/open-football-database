@@ -1,0 +1,25 @@
+{
+  "id": 2000350317,
+  "first_name": "Atle",
+  "last_name": "Wahlund",
+  "birth_date": "2008-02-10",
+  "country_id": 797,
+  "club_id": 2157,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 71,
+  "potential_ability": -6,
+  "history": [
+    { "s": 2022, "c": 2157, "p": 0 },
+    { "s": 2023, "c": 2157, "p": 0 },
+    { "s": 2025, "c": 2157, "p": 0 }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2000414725,
+  "first_name": "Martin",
+  "last_name": "Hlavatý",
+  "birth_date": "2007-03-27",
+  "country_id": 794,
+  "club_id": 1301169,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": -6,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 1301169, "p": 7 }
+  ]
+}

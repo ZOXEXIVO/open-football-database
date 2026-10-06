@@ -1,0 +1,57 @@
+{
+  "id": 57171586,
+  "name": "Rapid Bucharest",
+  "location": {
+    "city_id": 5796
+  },
+  "finance": {
+    "balance": 1221740
+  },
+  "teams": [
+    {
+      "id": 57171586,
+      "name": "Rapid Bucharest",
+      "slug": "rapid-bucharest",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5800,
+        "national": 5800,
+        "world": 5800
+      }
+    },
+    {
+      "id": 91200021,
+      "name": "Rapid Bucharest",
+      "slug": "rapid-bucharest-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1740,
+        "national": 1740,
+        "world": 1740
+      }
+    },
+    {
+      "id": 91200022,
+      "name": "Rapid Bucharest",
+      "slug": "rapid-bucharest-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1160,
+        "national": 1160,
+        "world": 1160
+      }
+    }
+  ],
+  "colors": {
+    "background": "#8b2435",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Excellent",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 6550
+}

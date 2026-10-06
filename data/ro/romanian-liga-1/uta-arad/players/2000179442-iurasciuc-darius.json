@@ -1,0 +1,33 @@
+{
+  "id": 2000179442,
+  "first_name": "Darius",
+  "last_name": "Iuraşciuc",
+  "birth_date": "2005-12-15",
+  "country_id": 790,
+  "club_id": 57113687,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -55,
+  "contract": {
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 57113687, "p": 0 },
+    { "s": 2022, "c": 57113687, "p": 0 },
+    { "s": 2023, "c": 57113687, "p": 2 },
+    { "s": 2024, "c": 57048456, "p": 23, "g": 1 },
+    { "s": 2024, "c": 57113687, "p": 0 },
+    { "s": 2025, "c": 57153289, "p": 0 }
+  ]
+}

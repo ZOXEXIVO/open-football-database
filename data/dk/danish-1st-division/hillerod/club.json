@@ -1,0 +1,57 @@
+{
+  "id": 520,
+  "name": "Hillerød",
+  "location": {
+    "city_id": 5858
+  },
+  "finance": {
+    "balance": 320040
+  },
+  "teams": [
+    {
+      "id": 520,
+      "name": "Hillerød",
+      "slug": "hillerod",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4100,
+        "national": 4100,
+        "world": 4100
+      }
+    },
+    {
+      "id": 96800015,
+      "name": "Hillerød",
+      "slug": "hillerod-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1230,
+        "national": 1230,
+        "world": 1230
+      }
+    },
+    {
+      "id": 96800016,
+      "name": "Hillerød",
+      "slug": "hillerod-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 820,
+        "national": 820,
+        "world": 820
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f19128",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Basic",
+    "youth": "Limited",
+    "academy": "Fairly Basic",
+    "recruitment": "Limited"
+  },
+  "average_attendance": 1250
+}

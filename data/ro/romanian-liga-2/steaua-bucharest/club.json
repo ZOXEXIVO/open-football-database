@@ -1,0 +1,57 @@
+{
+  "id": 57141891,
+  "name": "Steaua Bucharest",
+  "location": {
+    "city_id": 5811
+  },
+  "finance": {
+    "balance": 118110
+  },
+  "teams": [
+    {
+      "id": 57141891,
+      "name": "Steaua Bucharest",
+      "slug": "steaua-bucharest",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4600,
+        "national": 4600,
+        "world": 4600
+      }
+    },
+    {
+      "id": 96400009,
+      "name": "Steaua Bucharest",
+      "slug": "steaua-bucharest-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1380,
+        "national": 1380,
+        "world": 1380
+      }
+    },
+    {
+      "id": 96400010,
+      "name": "Steaua Bucharest",
+      "slug": "steaua-bucharest-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 920,
+        "national": 920,
+        "world": 920
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#cf1c2c"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Great",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 1650
+}

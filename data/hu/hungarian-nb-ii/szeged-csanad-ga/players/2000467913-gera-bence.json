@@ -1,0 +1,28 @@
+{
+  "id": 2000467913,
+  "first_name": "Bence",
+  "last_name": "Gera",
+  "birth_date": "2006-11-18",
+  "country_id": 773,
+  "club_id": 38017639,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 62,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2024, "c": 38017639, "p": 1 },
+    { "s": 2024, "c": 38042178, "p": 32, "g": 5 }
+  ]
+}

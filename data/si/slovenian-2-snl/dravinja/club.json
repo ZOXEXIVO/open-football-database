@@ -1,0 +1,57 @@
+{
+  "id": 5410640,
+  "name": "Dravinja",
+  "location": {
+    "city_id": 6036
+  },
+  "finance": {
+    "balance": 151130
+  },
+  "teams": [
+    {
+      "id": 5410640,
+      "name": "Dravinja",
+      "slug": "dravinja",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2500,
+        "national": 2500,
+        "world": 2500
+      }
+    },
+    {
+      "id": 98200019,
+      "name": "Dravinja",
+      "slug": "dravinja-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 750,
+        "national": 750,
+        "world": 750
+      }
+    },
+    {
+      "id": 98200020,
+      "name": "Dravinja",
+      "slug": "dravinja-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 500,
+        "national": 500,
+        "world": 500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3e8c4b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 120
+}

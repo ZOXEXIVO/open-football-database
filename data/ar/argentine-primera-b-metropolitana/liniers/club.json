@@ -1,0 +1,57 @@
+{
+  "id": 952716,
+  "name": "Liniers",
+  "location": {
+    "city_id": 6133
+  },
+  "finance": {
+    "balance": 482600
+  },
+  "teams": [
+    {
+      "id": 952716,
+      "name": "Liniers",
+      "slug": "liniers",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3800,
+        "national": 3800,
+        "world": 3800
+      }
+    },
+    {
+      "id": 98700039,
+      "name": "Liniers",
+      "slug": "liniers-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1140,
+        "national": 1140,
+        "world": 1140
+      }
+    },
+    {
+      "id": 98700040,
+      "name": "Liniers",
+      "slug": "liniers-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 760,
+        "national": 760,
+        "world": 760
+      }
+    }
+  ],
+  "colors": {
+    "background": "#53baed",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Fairly Basic",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 600
+}

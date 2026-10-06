@@ -1,0 +1,32 @@
+{
+  "id": 2000227149,
+  "first_name": "Anninos",
+  "last_name": "Kyratzis",
+  "birth_date": "2005-12-09",
+  "country_id": 762,
+  "club_id": 138183,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": -4,
+  "contract": {
+    "expiration": "2027-05-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2020, "c": 460, "p": 0 },
+    { "s": 2021, "c": 460, "p": 0 },
+    { "s": 2022, "c": 460, "p": 0 },
+    { "s": 2023, "c": 460, "p": 0 },
+    { "s": 2024, "c": 138183, "p": 6 }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2000257072,
+  "first_name": "Julian",
+  "last_name": "Lægreid",
+  "birth_date": "2007-03-08",
+  "country_id": 786,
+  "club_id": 1378,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 96,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2025-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 109113, "p": 16, "g": 11 },
+    { "s": 2022, "c": 53084096, "p": 0 },
+    { "s": 2023, "c": 109113, "p": 7, "g": 5 },
+    { "s": 2023, "c": 53072646, "p": 1 },
+    { "s": 2024, "c": 53072646, "p": 25, "g": 5 },
+    { "s": 2025, "c": 53072646, "p": 17, "g": 5 }
+  ]
+}

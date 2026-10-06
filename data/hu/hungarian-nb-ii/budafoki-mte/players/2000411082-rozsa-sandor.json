@@ -1,0 +1,36 @@
+{
+  "id": 2000411082,
+  "first_name": "Sándor",
+  "last_name": "Rózsa",
+  "birth_date": "2006-08-06",
+  "country_id": 773,
+  "club_id": 38013493,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 7521272, "p": 29, "g": 2 }
+  ]
+}

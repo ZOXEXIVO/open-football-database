@@ -1,0 +1,57 @@
+{
+  "id": 510218,
+  "name": "PK-35",
+  "location": {
+    "city_id": 5846
+  },
+  "finance": {
+    "balance": 48260
+  },
+  "teams": [
+    {
+      "id": 510218,
+      "name": "PK-35",
+      "slug": "pk-35",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3600,
+        "national": 3600,
+        "world": 3600
+      }
+    },
+    {
+      "id": 96700011,
+      "name": "PK-35",
+      "slug": "pk-35-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1080,
+        "national": 1080,
+        "world": 1080
+      }
+    },
+    {
+      "id": 96700012,
+      "name": "PK-35",
+      "slug": "pk-35-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 720,
+        "national": 720,
+        "world": 720
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#1e2021"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 670
+}

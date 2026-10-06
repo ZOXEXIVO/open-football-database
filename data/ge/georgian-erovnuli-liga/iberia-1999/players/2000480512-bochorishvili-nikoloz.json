@@ -1,0 +1,27 @@
+{
+  "id": 2000480512,
+  "first_name": "Nikoloz",
+  "last_name": "Bochorishvili",
+  "birth_date": "2007-10-27",
+  "country_id": 770,
+  "club_id": 2000350943,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 65,
+  "potential_ability": -65,
+  "history": [
+    { "s": 2025, "c": 2000350959, "p": 16 }
+  ]
+}

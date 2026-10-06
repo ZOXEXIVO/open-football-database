@@ -1,0 +1,31 @@
+{
+  "id": 2000398826,
+  "first_name": "Michał",
+  "last_name": "Synoś",
+  "birth_date": "2007-02-26",
+  "country_id": 787,
+  "club_id": 130127,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -7,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2022, "c": 130127, "p": 0 },
+    { "s": 2023, "c": 130127, "p": 5 },
+    { "s": 2023, "c": 2000255510, "p": 17, "g": 3 },
+    { "s": 2024, "c": 130127, "p": 26, "g": 1 }
+  ]
+}

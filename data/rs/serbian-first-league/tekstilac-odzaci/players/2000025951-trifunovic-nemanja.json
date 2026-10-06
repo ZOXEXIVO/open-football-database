@@ -1,0 +1,28 @@
+{
+  "id": 2000025951,
+  "first_name": "Nemanja",
+  "last_name": "Trifunović",
+  "birth_date": "2003-01-05",
+  "country_id": 802,
+  "club_id": 5754056,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": 99,
+  "history": [
+    { "s": 2019, "c": 5743463, "p": 0 },
+    { "s": 2020, "c": 5743463, "p": 3 },
+    { "s": 2021, "c": 5743463, "p": 1 },
+    { "s": 2022, "c": 5743463, "p": 24, "g": 3 },
+    { "s": 2025, "c": 5743463, "p": 9 },
+    { "s": 2025, "c": 5754056, "p": 0 }
+  ]
+}

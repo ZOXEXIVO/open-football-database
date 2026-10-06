@@ -1,0 +1,29 @@
+{
+  "id": 19380218,
+  "first_name": "Pablo",
+  "last_name": "Henrique",
+  "birth_date": "2000-10-20",
+  "country_id": 1651,
+  "club_id": 2000284844,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 75,
+  "potential_ability": 89,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 75055312,
+  "first_name": "Felipe",
+  "last_name": "Rozas",
+  "birth_date": "2002-05-26",
+  "country_id": 1652,
+  "club_id": 130798,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 5,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -55,
+  "history": [
+    { "s": 2020, "c": 130798, "p": 0 },
+    { "s": 2021, "c": 130798, "p": 0 },
+    { "s": 2022, "c": 130798, "p": 0 },
+    { "s": 2023, "c": 130798, "p": 0 }
+  ]
+}

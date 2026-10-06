@@ -1,0 +1,57 @@
+{
+  "id": 2420,
+  "name": "Caldas",
+  "location": {
+    "city_id": 5955
+  },
+  "finance": {
+    "balance": 394970
+  },
+  "teams": [
+    {
+      "id": 2420,
+      "name": "Caldas",
+      "slug": "caldas",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    },
+    {
+      "id": 97700011,
+      "name": "Caldas",
+      "slug": "caldas-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
+      }
+    },
+    {
+      "id": 97700012,
+      "name": "Caldas",
+      "slug": "caldas-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 880,
+        "national": 880,
+        "world": 880
+      }
+    }
+  ],
+  "colors": {
+    "background": "#1e2021",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 750
+}

@@ -1,0 +1,35 @@
+{
+  "id": 57212256,
+  "first_name": "Ştefan",
+  "last_name": "Lefter",
+  "birth_date": "2004-11-18",
+  "country_id": 790,
+  "club_id": 1515,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 120,
+  "contract": {
+    "salary": 44928,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2019, "c": 57171586, "p": 0 },
+    { "s": 2020, "c": 57153289, "p": 11 },
+    { "s": 2021, "c": 57153289, "p": 25 },
+    { "s": 2022, "c": 57153289, "p": 17 },
+    { "s": 2023, "c": 57153289, "p": 19 },
+    { "s": 2024, "c": 1515, "p": 5 },
+    { "s": 2024, "c": 57153289, "p": 15 }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2000470596,
+  "first_name": "Viggo",
+  "last_name": "Sahlstrøm",
+  "birth_date": "2008-12-31",
+  "country_id": 764,
+  "club_id": 493,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 44,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2023, "c": 493, "p": 0 },
+    { "s": 2024, "c": 27147895, "p": 5, "g": 1 }
+  ]
+}

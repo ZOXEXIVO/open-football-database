@@ -1,0 +1,57 @@
+{
+  "id": 5410637,
+  "name": "Nafta 1903",
+  "location": {
+    "city_id": 6029
+  },
+  "finance": {
+    "balance": 579120
+  },
+  "teams": [
+    {
+      "id": 5410637,
+      "name": "Nafta 1903",
+      "slug": "nafta-1903",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3400,
+        "national": 3400,
+        "world": 3400
+      }
+    },
+    {
+      "id": 98200005,
+      "name": "Nafta 1903",
+      "slug": "nafta-1903-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1020,
+        "national": 1020,
+        "world": 1020
+      }
+    },
+    {
+      "id": 98200006,
+      "name": "Nafta 1903",
+      "slug": "nafta-1903-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 680,
+        "national": 680,
+        "world": 680
+      }
+    }
+  ],
+  "colors": {
+    "background": "#324ed9",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 350
+}

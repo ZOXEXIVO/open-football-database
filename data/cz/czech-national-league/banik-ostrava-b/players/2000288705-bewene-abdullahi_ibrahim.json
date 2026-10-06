@@ -1,0 +1,35 @@
+{
+  "id": 2000288705,
+  "first_name": "Abdullahi Ibrahim",
+  "last_name": "Bewene",
+  "birth_date": "2004-11-29",
+  "country_id": 38,
+  "club_id": 136178,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -65,
+  "history": [
+    { "s": 2022, "c": 1300301, "p": 0 },
+    { "s": 2023, "c": 136178, "p": 6 },
+    { "s": 2023, "c": 5643185, "p": 15 },
+    { "s": 2024, "c": 136178, "p": 14 },
+    { "s": 2024, "c": 136281, "p": 18, "g": 1 }
+  ]
+}

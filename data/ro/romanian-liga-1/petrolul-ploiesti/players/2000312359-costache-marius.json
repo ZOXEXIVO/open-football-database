@@ -1,0 +1,34 @@
+{
+  "id": 2000312359,
+  "first_name": "Marius",
+  "last_name": "Costache",
+  "birth_date": "2005-02-02",
+  "country_id": 790,
+  "club_id": 57151160,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 58,
+  "potential_ability": -3,
+  "contract": {
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 57211654, "p": 21, "g": 1 },
+    { "s": 2024, "c": 57211654, "p": 17, "g": 2 },
+    { "s": 2025, "c": 57211654, "p": 0 }
+  ]
+}

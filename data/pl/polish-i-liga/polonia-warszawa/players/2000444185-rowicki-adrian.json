@@ -1,0 +1,27 @@
+{
+  "id": 2000444185,
+  "first_name": "Adrian",
+  "last_name": "Rowicki",
+  "birth_date": "1991-06-18",
+  "country_id": 787,
+  "club_id": 1300879,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 75,
+  "history": [
+    { "s": 2024, "c": 1300879, "p": 0 }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 483914,
+  "name": "Mika",
+  "location": {
+    "city_id": 5926
+  },
+  "finance": {
+    "balance": 257810
+  },
+  "teams": [
+    {
+      "id": 483914,
+      "name": "Mika",
+      "slug": "mika",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2300,
+        "national": 2300,
+        "world": 2300
+      }
+    },
+    {
+      "id": 97400013,
+      "name": "Mika",
+      "slug": "mika-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 690,
+        "national": 690,
+        "world": 690
+      }
+    },
+    {
+      "id": 97400014,
+      "name": "Mika",
+      "slug": "mika-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 460,
+        "national": 460,
+        "world": 460
+      }
+    }
+  ],
+  "colors": {
+    "background": "#fafafa",
+    "foreground": "#9e2530"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Fairly Basic",
+    "academy": "Average",
+    "recruitment": "Basic"
+  },
+  "average_attendance": 100
+}

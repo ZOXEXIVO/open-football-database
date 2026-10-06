@@ -1,0 +1,32 @@
+{
+  "id": 2000485076,
+  "first_name": "Carlos",
+  "last_name": "Pedrosa",
+  "birth_date": "2005-04-27",
+  "country_id": 788,
+  "club_id": 2407,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 20
+  },
+  "current_ability": 77,
+  "potential_ability": 101,
+  "contract": {
+    "salary": 10088,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2021, "c": 2386, "p": 0 },
+    { "s": 2022, "c": 2386, "p": 0 },
+    { "s": 2023, "c": 2386, "p": 0 },
+    { "s": 2024, "c": 55001072, "p": 32 }
+  ]
+}

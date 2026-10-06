@@ -1,0 +1,34 @@
+{
+  "id": 2000272565,
+  "first_name": "Stanley",
+  "last_name": "Iheanacho",
+  "birth_date": "2005-05-18",
+  "country_id": 38,
+  "club_id": 736258,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": -65,
+  "contract": {
+    "salary": 14560,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2023, "c": 526, "p": 0 },
+    { "s": 2024, "c": 736258, "p": 32, "g": 3 }
+  ]
+}

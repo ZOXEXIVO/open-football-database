@@ -1,0 +1,25 @@
+{
+  "id": 2000438524,
+  "first_name": "Marcel",
+  "last_name": "Przybylski",
+  "birth_date": "2005-08-08",
+  "country_id": 787,
+  "club_id": 1468,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 58,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2022, "c": 96069352, "p": 1 },
+    { "s": 2023, "c": 96069352, "p": 13, "g": 1 },
+    { "s": 2024, "c": 96069352, "p": 29, "g": 2 }
+  ]
+}

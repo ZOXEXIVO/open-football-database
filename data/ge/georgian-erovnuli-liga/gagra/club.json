@@ -1,0 +1,57 @@
+{
+  "id": 59007876,
+  "name": "Gagra",
+  "location": {
+    "city_id": 5831
+  },
+  "finance": {
+    "balance": 948690
+  },
+  "teams": [
+    {
+      "id": 59007876,
+      "name": "Gagra",
+      "slug": "gagra",
+      "team_type": "Main",
+      "reputation": {
+        "home": 4400,
+        "national": 4400,
+        "world": 4400
+      }
+    },
+    {
+      "id": 89100039,
+      "name": "Gagra",
+      "slug": "gagra-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1320,
+        "national": 1320,
+        "world": 1320
+      }
+    },
+    {
+      "id": 89100040,
+      "name": "Gagra",
+      "slug": "gagra-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 880,
+        "national": 880,
+        "world": 880
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2d68b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 810
+}

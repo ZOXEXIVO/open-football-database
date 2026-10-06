@@ -1,0 +1,57 @@
+{
+  "id": 7581975,
+  "name": "Jesenice",
+  "location": {
+    "city_id": 6032
+  },
+  "finance": {
+    "balance": 153670
+  },
+  "teams": [
+    {
+      "id": 7581975,
+      "name": "Jesenice",
+      "slug": "jesenice",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2700,
+        "national": 2700,
+        "world": 2700
+      }
+    },
+    {
+      "id": 98200011,
+      "name": "Jesenice",
+      "slug": "jesenice-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 810,
+        "national": 810,
+        "world": 810
+      }
+    },
+    {
+      "id": 98200012,
+      "name": "Jesenice",
+      "slug": "jesenice-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 540,
+        "national": 540,
+        "world": 540
+      }
+    }
+  ],
+  "colors": {
+    "background": "#cf1c2c",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 160
+}

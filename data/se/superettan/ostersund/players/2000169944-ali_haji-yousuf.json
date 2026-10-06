@@ -1,0 +1,40 @@
+{
+  "id": 2000169944,
+  "first_name": "Yousuf",
+  "last_name": "Ali Haji",
+  "birth_date": "2006-11-03",
+  "country_id": 797,
+  "club_id": 1101813,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 57,
+  "potential_ability": -5,
+  "history": [
+    { "s": 2020, "c": 1101813, "p": 0 },
+    { "s": 2021, "c": 1101813, "p": 0 },
+    { "s": 2022, "c": 1791, "p": 0 },
+    { "s": 2023, "c": 1791, "p": 0 },
+    { "s": 2024, "c": 1791, "p": 0 },
+    { "s": 2025, "c": 1101813, "p": 0 }
+  ]
+}

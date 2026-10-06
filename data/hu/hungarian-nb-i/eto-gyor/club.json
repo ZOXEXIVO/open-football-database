@@ -1,0 +1,57 @@
+{
+  "id": 1054,
+  "name": "ETO Győr",
+  "location": {
+    "city_id": 5757
+  },
+  "finance": {
+    "balance": 1158240
+  },
+  "teams": [
+    {
+      "id": 1054,
+      "name": "ETO Győr",
+      "slug": "eto-gyor",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5500,
+        "national": 5500,
+        "world": 5500
+      }
+    },
+    {
+      "id": 89800025,
+      "name": "ETO Győr",
+      "slug": "eto-gyor-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1650,
+        "national": 1650,
+        "world": 1650
+      }
+    },
+    {
+      "id": 89800026,
+      "name": "ETO Győr",
+      "slug": "eto-gyor-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1100,
+        "national": 1100,
+        "world": 1100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#3e8c4b",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Below Average",
+    "youth": "Below Average",
+    "academy": "Below Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 3700
+}

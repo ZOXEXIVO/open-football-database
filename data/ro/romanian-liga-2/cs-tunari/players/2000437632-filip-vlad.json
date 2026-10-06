@@ -1,0 +1,28 @@
+{
+  "id": 2000437632,
+  "first_name": "Vlad",
+  "last_name": "Filip",
+  "birth_date": "2006-09-08",
+  "country_id": 790,
+  "club_id": 57053599,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": -45,
+  "contract": {
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "history": [
+    { "s": 2024, "c": 57053599, "p": 26, "g": 2 }
+  ]
+}

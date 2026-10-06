@@ -1,0 +1,39 @@
+{
+  "id": 8503181,
+  "name": "Klubi 04",
+  "parent_club": {
+    "id": 816,
+    "team_type": "B"
+  },
+  "location": {
+    "city_id": 3700
+  },
+  "finance": {
+    "balance": 0
+  },
+  "teams": [
+    {
+      "id": 8503181,
+      "name": "Klubi 04",
+      "slug": "klubi-04",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3000,
+        "national": 3000,
+        "world": 3000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#2f55b5",
+    "foreground": "#fafafa"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Good",
+    "academy": "Good",
+    "recruitment": "Good"
+  },
+  "average_attendance": 310
+}

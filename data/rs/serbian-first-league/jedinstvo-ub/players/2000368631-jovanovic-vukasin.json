@@ -1,0 +1,26 @@
+{
+  "id": 2000368631,
+  "first_name": "Vukašin",
+  "last_name": "Jovanović",
+  "birth_date": "2007-09-30",
+  "country_id": 802,
+  "club_id": 5743000,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -7,
+  "history": [
+    { "s": 2022, "c": 1952, "p": 0 },
+    { "s": 2023, "c": 1952, "p": 0 },
+    { "s": 2024, "c": 5743000, "p": 20 },
+    { "s": 2025, "c": 1952, "p": 0 }
+  ]
+}

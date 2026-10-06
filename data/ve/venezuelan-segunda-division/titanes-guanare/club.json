@@ -1,0 +1,57 @@
+{
+  "id": 86049075,
+  "name": "Titanes Guanare",
+  "location": {
+    "city_id": 6097
+  },
+  "finance": {
+    "balance": 444500
+  },
+  "teams": [
+    {
+      "id": 86049075,
+      "name": "Titanes Guanare",
+      "slug": "titanes-guanare",
+      "team_type": "Main",
+      "reputation": {
+        "home": 3500,
+        "national": 3500,
+        "world": 3500
+      }
+    },
+    {
+      "id": 98600009,
+      "name": "Titanes Guanare",
+      "slug": "titanes-guanare-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1050,
+        "national": 1050,
+        "world": 1050
+      }
+    },
+    {
+      "id": 98600010,
+      "name": "Titanes Guanare",
+      "slug": "titanes-guanare-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 700,
+        "national": 700,
+        "world": 700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#d42424",
+    "foreground": "#293fad"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Fairly Basic",
+    "youth": "Fairly Basic",
+    "academy": "Below Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 1050
+}

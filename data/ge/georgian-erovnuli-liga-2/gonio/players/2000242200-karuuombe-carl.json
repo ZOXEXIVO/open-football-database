@@ -1,0 +1,27 @@
+{
+  "id": 2000242200,
+  "first_name": "Carl",
+  "last_name": "Karuuombe",
+  "birth_date": "2001-09-21",
+  "country_id": 36,
+  "club_id": 2000124551,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 90,
+  "international": {"apps": 10, "goals": 1, "u21_apps": 0, "u21_goals": 0},
+  "history": [
+    { "s": 2022, "c": 5650154, "p": 1 },
+    { "s": 2024, "c": 892, "p": 1 },
+    { "s": 2024, "c": 59007890, "p": 2 },
+    { "s": 2025, "c": 2000124551, "p": 15 }
+  ]
+}
